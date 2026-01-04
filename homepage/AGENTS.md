@@ -11,8 +11,8 @@ The homepage app is the first application in this monorepo. It's a React-based l
 - **Runtime**: Bun
 - **Framework**: React 19.2.3
 - **Routing**: TanStack Router 1.144.0
-- **Build Tool**: Vite 6.2.0
-- **Language**: TypeScript 5.8.2 (strict mode enabled)
+- **Build Tool**: Vite 7.3.0
+- **Language**: TypeScript 5.8.3 (strict mode enabled)
 - **Styling**: Tailwind CSS 4.1.18
 - **Charts**: Recharts 3.6.0
 - **AI**: Google GenAI SDK 1.34.0
