@@ -1,0 +1,183 @@
+import { createRootRoute, Outlet, Link, createRouter } from "@tanstack/react-router";
+import { TanStackRouterDevtools } from "@tanstack/react-router-devtools";
+
+export const Route = createRootRoute({
+  component: () => (
+    <>
+      <svg className="sr-only">
+        <defs>
+          <filter id="pencil-texture">
+            <feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="3" result="noise" />
+            <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.5" />
+          </filter>
+        </defs>
+      </svg>
+      <a
+        href="#main-content"
+        className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[100] focus:px-4 focus:py-2 focus:bg-[#5F7D61] focus:text-white focus:rounded-md"
+      >
+        Skip to content
+      </a>
+      <div className="min-h-screen overflow-x-hidden bg-[#FAF9F6]">
+        <Header />
+        <main id="main-content" tabIndex={-1}>
+          <Outlet />
+        </main>
+        <Footer />
+      </div>
+      <TanStackRouterDevtools initialIsOpen={false} />
+    </>
+  ),
+});
+
+import { useState } from "react";
+
+function Header() {
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+
+  return (
+    <header className="fixed top-0 left-0 right-0 z-50 bg-[#FAF9F6]/90 backdrop-blur-md border-b border-[#1B3022]/10 transition-all duration-300">
+      <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+        <div className="flex items-center gap-3">
+          <svg className="w-7 h-7 md:w-8 md:h-8 text-[#1B3022]" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M4 19.5V5C4 3.89543 4.89543 3 6 3H20V17H6C4.89543 17 4 17.8954 4 19.5ZM4 19.5C4 20.6046 4.89543 21.5 6 21.5H18" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+          <span className="font-serif text-xl md:text-2xl font-bold text-[#1B3022] tracking-tight">Pastel Sketchbook</span>
+        </div>
+
+        {/* Desktop Nav */}
+        <nav className="hidden md:flex items-center gap-10 text-sm font-semibold text-[#1B3022]/70">
+          <NavLink href="/" label="Vision" />
+          <NavLink href="/showcase" label="Showcase" />
+          <NavLink href="/" label="How it Works" />
+          <NavLink href="/" label="Spark AI" isAccent />
+          <NavLink href="/" label="Growth" />
+          <button className="bg-[#1B3022] text-white px-6 py-2.5 rounded-full hover:bg-[#2D4536] hover:scale-105 transition-all shadow-md text-xs uppercase tracking-widest font-bold" aria-label="Join the Garden">
+            Join the Garden
+          </button>
+        </nav>
+
+        {/* Mobile Toggle */}
+        <button
+          className="md:hidden p-2 text-[#1B3022]"
+          onClick={() => setIsMenuOpen(!isMenuOpen)}
+          aria-label="Toggle menu"
+        >
+          <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            {isMenuOpen ? (
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
+            ) : (
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16" />
+            )}
+          </svg>
+        </button>
+      </div>
+
+      {/* Mobile Menu Overlay */}
+      {isMenuOpen && (
+        <div className="md:hidden fixed inset-0 top-[73px] bg-[#FAF9F6] z-[60] flex flex-col p-8 animate-fade-in border-t border-[#1B3022]/5">
+          <nav className="flex flex-col gap-8 text-2xl font-serif italic text-[#1B3022]">
+            <Link to="/" onClick={() => setIsMenuOpen(false)}>Vision</Link>
+            <Link to="/showcase" onClick={() => setIsMenuOpen(false)}>Showcase</Link>
+            <Link to="/" onClick={() => setIsMenuOpen(false)}>How it Works</Link>
+            <Link to="/" onClick={() => setIsMenuOpen(false)} className="text-[#D4A373]">Spark AI</Link>
+            <Link to="/" onClick={() => setIsMenuOpen(false)}>Growth</Link>
+            <button className="mt-8 bg-[#1B3022] text-white px-8 py-4 rounded-full text-lg font-bold shadow-lg" onClick={() => setIsMenuOpen(false)}>
+              Join the Garden
+            </button>
+          </nav>
+        </div>
+      )}
+    </header>
+  );
+}
+
+function NavLink({ href, label, isAccent = false }: { href: string, label: string, isAccent?: boolean }) {
+  return (
+    <Link
+      to={href.startsWith("/") ? href : "/"}
+      className={`transition-colors relative group ${isAccent ? 'text-[#D4A373] hover:text-[#D4A373]' : 'hover:text-[#1B3022]'}`}
+      aria-label={`${label} section`}
+    >
+      {label}
+      {!isAccent && <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-[#D4A373] transition-all group-hover:w-full"></span>}
+    </Link>
+  );
+}
+
+function Footer() {
+  return (
+    <footer className="bg-[#FAF9F6] pt-24 border-t border-[#1B3022]/5">
+      <div className="max-w-6xl mx-auto px-6">
+        <div className="text-center mb-24">
+          <h2 className="text-4xl md:text-5xl italic mb-16 text-[#1B3022]">Who is this for?</h2>
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 md:gap-12 text-center">
+            <div className="group">
+              <span className="text-4xl mb-6 block transform transition-transform group-hover:scale-125 duration-300">🔍</span>
+              <h4 className="font-bold mb-3 text-[#1B3022] uppercase tracking-widest text-xs">The Curious</h4>
+              <p className="text-sm text-[#1B3022]/60 leading-relaxed">Lifelong learners always exploring new topics.</p>
+            </div>
+            <div className="group">
+              <span className="text-4xl mb-6 block transform transition-transform group-hover:scale-125 duration-300">✏️</span>
+              <h4 className="font-bold mb-3 text-[#1B3022] uppercase tracking-widest text-xs">The Creators</h4>
+              <p className="text-sm text-[#1B3022]/60 leading-relaxed">People who enjoy making things and sharing knowledge.</p>
+            </div>
+            <div className="group">
+              <span className="text-4xl mb-6 block transform transition-transform group-hover:scale-125 duration-300">🤝</span>
+              <h4 className="font-bold mb-3 text-[#1B3022] uppercase tracking-widest text-xs">The Collaborators</h4>
+              <p className="text-sm text-[#1B3022]/60 leading-relaxed">Believers in collective achievement over isolation.</p>
+            </div>
+            <div className="group">
+              <span className="text-4xl mb-6 block transform transition-transform group-hover:scale-125 duration-300">🍂</span>
+              <h4 className="font-bold mb-3 text-[#1B3022] uppercase tracking-widest text-xs">The Long-Term Thinkers</h4>
+              <p className="text-sm text-[#1B3022]/60 leading-relaxed">Valuers of sustainable assets over quick wins.</p>
+            </div>
+          </div>
+        </div>
+
+        <div className="bg-[#FAF9F6] p-12 sketch-border border-[#1B3022]/20 text-center mb-24 relative overflow-hidden">
+          <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-[#D4A373]/20 to-transparent"></div>
+          <h2 className="text-4xl italic mb-4 text-[#1B3022]">Help us sketch the future.</h2>
+          <p className="text-[#1B3022]/60 mb-12 max-w-lg mx-auto">We are at the very beginning of this journey. Join us as a founding member.</p>
+
+          <div className="flex flex-col md:flex-row gap-8 justify-center items-center">
+            <div className="bg-white/50 backdrop-blur-sm p-8 rounded-2xl shadow-sm border border-[#1B3022]/5 w-full max-w-sm hover:shadow-md transition-shadow">
+              <div className="w-24 h-24 bg-white mx-auto mb-6 flex items-center justify-center sketch-border border-[#1B3022]/10 rotate-3">
+                <svg className="w-12 h-12 text-[#1B3022]" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M12 4v1m6 11h2m-6 0h-2v4m0-11v3m0 0h.01M12 12h4.01M16 20h4M4 12h4m12 0h2M5 8l2-2 2 2M5 16l2 2 2-2" strokeWidth="1.5" strokeLinecap="round" />
+                </svg>
+              </div>
+              <h4 className="font-bold mb-2 text-[#1B3022] uppercase tracking-wider text-sm">Pilot Channel</h4>
+              <p className="text-xs text-[#1B3022]/50 mb-6 font-serif italic">Be our first audience and see the model in action.</p>
+              <button className="text-[#D4A373] font-bold text-sm hover:underline" aria-label="Visit pilot YouTube channel">youtube.com/pastelsketchbook</button>
+            </div>
+
+            <div className="bg-white/50 backdrop-blur-sm p-8 rounded-2xl shadow-sm border border-[#E76F51]/10 w-full max-w-sm hover:shadow-md transition-shadow">
+              <div className="w-24 h-24 bg-white mx-auto mb-6 flex items-center justify-center sketch-border border-[#E76F51]/10 -rotate-2">
+                <svg className="w-12 h-12 text-[#E76F51]" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                </svg>
+              </div>
+              <h4 className="font-bold mb-2 text-[#1B3022] uppercase tracking-wider text-sm">Mailing List</h4>
+              <p className="text-xs text-[#1B3022]/50 mb-6 font-serif italic">Get updates and be the first to know when we open.</p>
+              <button className="text-[#E76F51] font-bold text-sm hover:underline" aria-label="Join mailing list">pastelsketchbook.org/join</button>
+            </div>
+          </div>
+        </div>
+
+        <div className="py-20 text-center border-t border-[#5F7D61]/10">
+          <div className="text-6xl mb-8 opacity-20" aria-hidden="true">🌿</div>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl italic text-[#1B3022] mb-4">Your curiosity, compounded.</h1>
+          <p className="text-[#5F7D61] font-serif mb-12">Pastel Sketchbook</p>
+          <div className="flex justify-center gap-6 text-[#5F7D61]/50 text-xs">
+            <span>Non-Profit 501(c)(3)</span>
+            <span>•</span>
+            <span>Mission Driven</span>
+            <span>•</span>
+            <span>Collective Ownership</span>
+          </div>
+        </div>
+      </div>
+    </footer>
+  );
+}
