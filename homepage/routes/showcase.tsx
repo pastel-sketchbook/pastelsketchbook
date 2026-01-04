@@ -26,8 +26,23 @@ const financeItems = [
     { id: "EMXUbohWsWs", title: "The 2026 Lifecycle ETF Playbook" },
 ];
 
+const kubernetesItems = [
+    { id: "8ycnldvJmuA", title: "The Blueprint for Enterprise AI on Azure" },
+    { id: "ftODZr2_V5Q", title: "Kubernetes Version Upgrade Strategy" },
+];
+
+const developmentItems = [
+    { id: "Xhq99-YHXCY", title: "Professional Al Agent Usage via the CLI" },
+    { id: "PNFlYx8HiOM", title: "The Art of Git Gardening" },
+    { id: "pzVOjl6mOD4", title: "The Architect's Guide to Modern Token Security" },
+    { id: "olsB3bJxA2A", title: "Let's check about Zig" },
+    { id: "IF5sNQH-01c", title: "NotebookLM's Intelligence Flow" },
+    { id: "2kvYb2pVe5o", title: "From Blueprint to Battlefield" },
+    { id: "TLqdeHlAo3A", title: "From Bottlenecks to Breakthroughs:" },
+];
+
 function Showcase() {
-    const [activeTab, setActiveTab] = useState<"korea" | "finance">("korea");
+    const [activeTab, setActiveTab] = useState<"korea" | "finance" | "kubernetes" | "development">("korea");
     const [selectedVideoId, setSelectedVideoId] = useState<string | null>(null);
 
     return (
@@ -71,6 +86,24 @@ function Showcase() {
                         >
                             Finance
                         </button>
+                        <button
+                            onClick={() => setActiveTab("kubernetes")}
+                            className={`px-8 py-3 rounded-full text-sm font-bold uppercase tracking-widest transition-all duration-300 ${activeTab === "kubernetes"
+                                ? "bg-[#1B3022] text-white shadow-lg scale-105"
+                                : "text-[#1B3022]/40 hover:text-[#1B3022] hover:bg-white/50"
+                                }`}
+                        >
+                            Kubernetes
+                        </button>
+                        <button
+                            onClick={() => setActiveTab("development")}
+                            className={`px-8 py-3 rounded-full text-sm font-bold uppercase tracking-widest transition-all duration-300 ${activeTab === "development"
+                                ? "bg-[#1B3022] text-white shadow-lg scale-105"
+                                : "text-[#1B3022]/40 hover:text-[#1B3022] hover:bg-white/50"
+                                }`}
+                        >
+                            Development
+                        </button>
                     </div>
                 </div>
 
@@ -84,13 +117,29 @@ function Showcase() {
                                 title="Exploring the Soul of Korea"
                                 description="A collection of sketches, journals, and moments from a journey through South Korea. From the quiet temples of Gyeongju to the bustling streets of Seoul."
                             />
-                        ) : (
+                        ) : activeTab === "finance" ? (
                             <VideoGallery
                                 key="finance"
                                 items={financeItems}
                                 onVideoSelect={setSelectedVideoId}
                                 title="Financial Gardening"
                                 description="A journey through markets, assets, and the art of wealth accumulation. Visualizing the compounding growth of our shared future."
+                            />
+                        ) : activeTab === "kubernetes" ? (
+                            <VideoGallery
+                                key="kubernetes"
+                                items={kubernetesItems}
+                                onVideoSelect={setSelectedVideoId}
+                                title="Kubernetes Orchestration"
+                                description="Mastering the art of container orchestration. Scalable, resilient, and automated infrastructure for the modern web."
+                            />
+                        ) : (
+                            <VideoGallery
+                                key="development"
+                                items={developmentItems}
+                                onVideoSelect={setSelectedVideoId}
+                                title="Engineering the Digital Garden"
+                                description="Deep dives into development practices, toolsets, and the creative process of building software. Tools and techniques for the modern craftsman."
                             />
                         )}
                     </AnimatePresence>
