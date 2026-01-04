@@ -3,6 +3,7 @@ import type { SparkResult, SavedSpark } from "../../types";
 import { SketchBox } from "./ui/SketchBox";
 import { SketchButton } from "./ui/SketchButton";
 import { motion, AnimatePresence } from "framer-motion";
+import { useLocalStorage } from "../hooks/useLocalStorage";
 
 const STORAGE_KEY = "pastel_sketchbook_sparks";
 
@@ -10,21 +11,10 @@ export function SparkAI() {
     const [topic, setTopic] = useState("");
     const [loading, setLoading] = useState(false);
     const [result, setResult] = useState<SparkResult | null>(null);
-    const [savedSparks, setSavedSparks] = useState<SavedSpark[]>([]);
+    const [savedSparks, setSavedSparks] = useLocalStorage<SavedSpark[]>(STORAGE_KEY, []);
     const [error, setError] = useState<string | null>(null);
     const [isTyping, setIsTyping] = useState(false);
     const [showSaveSuccess, setShowSaveSuccess] = useState(false);
-
-    useEffect(() => {
-        const saved = localStorage.getItem(STORAGE_KEY);
-        if (saved) {
-            try {
-                setSavedSparks(JSON.parse(saved));
-            } catch (e) {
-                console.error("Failed to parse saved sparks", e);
-            }
-        }
-    }, []);
 
     useEffect(() => {
         if (topic.length > 0) {
@@ -93,17 +83,13 @@ export function SparkAI() {
             id: crypto.randomUUID(),
             date: Date.now(),
         };
-        const updated = [newSpark, ...savedSparks];
-        setSavedSparks(updated);
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(updated));
+        setSavedSparks([newSpark, ...savedSparks]);
         setShowSaveSuccess(true);
         setTimeout(() => setShowSaveSuccess(false), 3000);
     };
 
     const removeSavedSpark = (id: string) => {
-        const updated = savedSparks.filter((s) => s.id !== id);
-        setSavedSparks(updated);
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(updated));
+        setSavedSparks(savedSparks.filter((s) => s.id !== id));
     };
 
     return (

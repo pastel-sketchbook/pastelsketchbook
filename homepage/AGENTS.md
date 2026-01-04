@@ -73,6 +73,14 @@ Main homepage containing ALL sections:
 - Must be prefixed with `VITE_` to be accessible in client-side code via `import.meta.env`
 
 ### Styling Conventions
+- **60:30:10 Rule**: Adhere to the 60:30:10 design rule for balanced aesthetics:
+  - **60% (Primary)**: Off-white background (`#FAF9F6`) and dark green text (`#1B3022`).
+  - **30% (Secondary)**: Medium green accents (`#5F7D61`) and tan elements (`#D4A373`).
+  - **10% (Accent)**: Terracotta (`#E76F51`) and yellow (`#E9C46A`) highlights for focus.
+- **Organic Imperfection**: Avoid perfect geometric shapes for UI containers. Use SVG paths with slight irregularities and custom classes like `.sketch-border`.
+- **Typography hierarchy**: Use Serif fonts for headings and narrative text to lean into the "sketchbook" feel; use Sans-serif for navigation, labels, and data points.
+- **Micro-animations**: Every interactive element should have a subtle hover state using `framer-motion` (e.g., hover scribble, scale, or loose easing).
+- **Performance-First**: Heavy libraries (Recharts, Google GenAI) must be dynamically imported to maintain a light initial bundle.
 - Tailwind CSS utility classes
 - Custom color palette:
   - `#1B3022` - Dark green (primary text)

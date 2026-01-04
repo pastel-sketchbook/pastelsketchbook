@@ -8,13 +8,19 @@ export const Route = createFileRoute("/")({
   component: Index,
 });
 
+import { SketchErrorBoundary } from "../src/components/ui/SketchErrorBoundary";
+
 function Index() {
   return (
     <div className="bg-[#FAF9F6]">
       <Hero />
       <Philosophy />
-      <SparkAI />
-      <Growth />
+      <SketchErrorBoundary name="Spark AI">
+        <SparkAI />
+      </SketchErrorBoundary>
+      <SketchErrorBoundary name="Growth & Charts">
+        <Growth />
+      </SketchErrorBoundary>
     </div>
   );
 }
