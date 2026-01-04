@@ -17,7 +17,8 @@
     "test": "vitest",
     "test:ui": "vitest --ui",
     "test:run": "vitest run",
-    "test:coverage": "vitest run --coverage"
+    "test:coverage": "vitest run --coverage",
+    "check:all": "bun run format:check && bun run lint && bun run test:coverage"
   },
   "dependencies": {
     "@google/genai": "^1.34.0",
