@@ -38,20 +38,24 @@ function Header() {
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-[#FAF9F6]/90 backdrop-blur-md border-b border-[#1B3022]/10 transition-all duration-300">
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
-        <div className="flex items-center gap-3">
+        <Link
+          to="/"
+          className="flex items-center gap-3 hover:opacity-80 transition-opacity"
+          onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+        >
           <svg className="w-7 h-7 md:w-8 md:h-8 text-[#1B3022]" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M4 19.5V5C4 3.89543 4.89543 3 6 3H20V17H6C4.89543 17 4 17.8954 4 19.5ZM4 19.5C4 20.6046 4.89543 21.5 6 21.5H18" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
           </svg>
           <span className="font-serif text-xl md:text-2xl font-bold text-[#1B3022] tracking-tight">Pastel Sketchbook</span>
-        </div>
+        </Link>
 
         {/* Desktop Nav */}
         <nav className="hidden md:flex items-center gap-10 text-sm font-semibold text-[#1B3022]/70">
-          <NavLink href="/" label="Vision" />
+          <NavLink href="/#vision" label="Vision" />
           <NavLink href="/showcase" label="Showcase" />
-          <NavLink href="/" label="How it Works" />
-          <NavLink href="/" label="Spark AI" isAccent />
-          <NavLink href="/" label="Growth" />
+          <NavLink href="/#cycle" label="How it Works" />
+          <NavLink href="/#spark" label="Spark AI" isAccent />
+          <NavLink href="/#growth" label="Growth" />
           <button className="bg-[#1B3022] text-white px-6 py-2.5 rounded-full hover:bg-[#2D4536] hover:scale-105 transition-all shadow-md text-xs uppercase tracking-widest font-bold" aria-label="Join the Garden">
             Join the Garden
           </button>
@@ -77,11 +81,11 @@ function Header() {
       {isMenuOpen && (
         <div className="md:hidden fixed inset-0 top-[73px] bg-[#FAF9F6] z-[60] flex flex-col p-8 animate-fade-in border-t border-[#1B3022]/5">
           <nav className="flex flex-col gap-8 text-2xl font-serif italic text-[#1B3022]">
-            <Link to="/" onClick={() => setIsMenuOpen(false)}>Vision</Link>
+            <Link to="/" hash="vision" onClick={() => setIsMenuOpen(false)}>Vision</Link>
             <Link to="/showcase" onClick={() => setIsMenuOpen(false)}>Showcase</Link>
-            <Link to="/" onClick={() => setIsMenuOpen(false)}>How it Works</Link>
-            <Link to="/" onClick={() => setIsMenuOpen(false)} className="text-[#D4A373]">Spark AI</Link>
-            <Link to="/" onClick={() => setIsMenuOpen(false)}>Growth</Link>
+            <Link to="/" hash="cycle" onClick={() => setIsMenuOpen(false)}>How it Works</Link>
+            <Link to="/" hash="spark" onClick={() => setIsMenuOpen(false)} className="text-[#D4A373]">Spark AI</Link>
+            <Link to="/" hash="growth" onClick={() => setIsMenuOpen(false)}>Growth</Link>
             <button className="mt-8 bg-[#1B3022] text-white px-8 py-4 rounded-full text-lg font-bold shadow-lg" onClick={() => setIsMenuOpen(false)}>
               Join the Garden
             </button>
@@ -93,9 +97,11 @@ function Header() {
 }
 
 function NavLink({ href, label, isAccent = false }: { href: string, label: string, isAccent?: boolean }) {
+  const [to, hash] = href.split("#");
   return (
     <Link
-      to={href.startsWith("/") ? href : "/"}
+      to={to as "/"}
+      hash={hash}
       className={`transition-colors relative group ${isAccent ? 'text-[#D4A373] hover:text-[#D4A373]' : 'hover:text-[#1B3022]'}`}
       aria-label={`${label} section`}
     >
