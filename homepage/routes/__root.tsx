@@ -155,7 +155,15 @@ function Footer() {
               </div>
               <h4 className="font-bold mb-2 text-[#1B3022] uppercase tracking-wider text-sm">Pilot Channel</h4>
               <p className="text-xs text-[#1B3022]/50 mb-6 font-serif italic">Be our first audience and see the model in action.</p>
-              <button className="text-[#D4A373] font-bold text-sm hover:underline" aria-label="Visit pilot YouTube channel">youtube.com/pastelsketchbook</button>
+              <a
+                href="https://www.youtube.com/@ChrisH-v4e"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-[#D4A373] font-bold text-sm hover:underline"
+                aria-label="Visit pilot YouTube channel"
+              >
+                youtube.com/@ChrisH-v4e
+              </a>
             </div>
 
             <div className="bg-white/50 backdrop-blur-sm p-8 rounded-2xl shadow-sm border border-[#E76F51]/10 w-full max-w-sm hover:shadow-md transition-shadow">
