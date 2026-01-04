@@ -27,6 +27,19 @@
 body {
   font-family: var(--font-sans);
   background-color: var(--color-pastel-bg);
+  position: relative;
+}
+
+/* Paper Texture Overlay */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: url("https://www.transparenttextures.com/patterns/paper-fibers.png");
+  opacity: 0.3;
+  pointer-events: none;
+  z-index: 50;
+  mix-blend-mode: multiply;
 }
 
 h1,
@@ -109,4 +122,16 @@ h4 {
 
 .animate-pop {
   animation: pop 0.3s ease-out forwards;
+}
+
+@keyframes scribble {
+  0% { border-radius: 255px 15px 225px 15px/15px 225px 15px 255px; }
+  25% { border-radius: 225px 15px 255px 15px/15px 255px 15px 225px; }
+  50% { border-radius: 255px 25px 225px 25px/25px 225px 25px 255px; }
+  75% { border-radius: 225px 15px 255px 20px/20px 255px 20px 225px; }
+  100% { border-radius: 255px 15px 225px 15px/15px 225px 15px 255px; }
+}
+
+.animate-scribble:hover {
+  animation: scribble 2s ease-in-out infinite;
 }
