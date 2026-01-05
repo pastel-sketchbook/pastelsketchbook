@@ -30,12 +30,11 @@ describe('VideoSkeleton', () => {
 
   it('should use pastel color scheme', () => {
     const { container } = render(<VideoSkeleton count={1} />)
-    const gradients = container.innerHTML
-
-    // Check for pastel colors used in gradients
-    expect(gradients).toContain('#D4A373') // Tan
-    expect(gradients).toContain('#5F7D61') // Medium green
-    expect(gradients).toContain('#E76F51') // Terracotta
+    // Check for pastel color classes in the rendered output
+    const html = container.innerHTML
+    expect(html).toContain('pastel-tan')
+    expect(html).toContain('pastel-medium')
+    expect(html).toContain('pastel-terracotta')
   })
 
   it('should be accessible', () => {

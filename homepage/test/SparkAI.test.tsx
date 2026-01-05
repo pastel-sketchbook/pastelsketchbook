@@ -149,6 +149,6 @@ describe('SparkAI Component', () => {
     const { container } = render(<SparkAI />)
     const section = container.querySelector('#spark')
     expect(section).toBeInTheDocument()
-    expect(section?.className).toContain('bg-[#FAF9F6]')
+    expect(section?.className).toContain('bg-pastel-bg')
   })
 })
