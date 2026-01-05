@@ -141,22 +141,22 @@ function Footer() {
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 md:gap-12 text-center">
             <div className="group">
               <span className="text-4xl mb-6 block transform transition-transform group-hover:scale-125 duration-300">🔍</span>
-              <h4 className="font-bold mb-3 text-[#1B3022] uppercase tracking-widest text-xs">The Curious</h4>
+              <h4 className="font-serif italic mb-3 text-[#1B3022] text-lg md:text-xl">The Curious</h4>
               <p className="text-sm text-[#1B3022]/60 leading-relaxed">Lifelong learners always exploring new topics.</p>
             </div>
             <div className="group">
               <span className="text-4xl mb-6 block transform transition-transform group-hover:scale-125 duration-300">✏️</span>
-              <h4 className="font-bold mb-3 text-[#1B3022] uppercase tracking-widest text-xs">The Creators</h4>
+              <h4 className="font-serif italic mb-3 text-[#1B3022] text-lg md:text-xl">The Creators</h4>
               <p className="text-sm text-[#1B3022]/60 leading-relaxed">People who enjoy making things and sharing knowledge.</p>
             </div>
             <div className="group">
               <span className="text-4xl mb-6 block transform transition-transform group-hover:scale-125 duration-300">🤝</span>
-              <h4 className="font-bold mb-3 text-[#1B3022] uppercase tracking-widest text-xs">The Collaborators</h4>
+              <h4 className="font-serif italic mb-3 text-[#1B3022] text-lg md:text-xl">The Collaborators</h4>
               <p className="text-sm text-[#1B3022]/60 leading-relaxed">Believers in collective achievement over isolation.</p>
             </div>
             <div className="group">
               <span className="text-4xl mb-6 block transform transition-transform group-hover:scale-125 duration-300">🍂</span>
-              <h4 className="font-bold mb-3 text-[#1B3022] uppercase tracking-widest text-xs">The Long-Term Thinkers</h4>
+              <h4 className="font-serif italic mb-3 text-[#1B3022] text-lg md:text-xl">The Long-Term Thinkers</h4>
               <p className="text-sm text-[#1B3022]/60 leading-relaxed">Valuers of sustainable assets over quick wins.</p>
             </div>
           </div>

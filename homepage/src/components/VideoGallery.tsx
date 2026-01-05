@@ -62,7 +62,7 @@ export function VideoGallery({ items, onVideoSelect, title, description }: Video
                                     </svg>
                                 </div>
                             </div>
-                            <div className="absolute bottom-2 right-2 px-2 py-1 bg-black/60 backdrop-blur-sm text-white text-[8px] font-bold rounded uppercase tracking-tighter">
+                            <div className="absolute bottom-2 right-2 px-2 py-1 bg-white/90 backdrop-blur-sm text-[#1B3022] text-[10px] font-bold rounded shadow-sm uppercase tracking-wider sketch-border border-[#1B3022]/10">
                                 {formatViews(item.views)} watches
                             </div>
                         </div>

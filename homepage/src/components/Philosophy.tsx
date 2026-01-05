@@ -159,7 +159,7 @@ export function Philosophy() {
                                 <div className={`aspect-square rounded-full ${step.color} flex items-center justify-center mb-8 transition-all group-hover:scale-110 duration-500 sketch-border border-[#1B3022]/10 group-hover:border-[#1B3022]/30 shadow-sm`}>
                                     <span className="text-5xl transform transition-transform group-hover:rotate-12">{step.icon}</span>
                                 </div>
-                                <h4 className="font-bold text-[#1B3022] mb-4 uppercase tracking-widest text-xs">{step.title}</h4>
+                                <h4 className="font-serif italic text-[#1B3022] mb-4 text-lg md:text-xl">{step.title}</h4>
                                 <p className="text-sm text-[#1B3022]/60 leading-relaxed font-sans">{step.desc}</p>
                                 {idx < steps.length - 1 && (
                                     <div className="hidden md:block absolute top-1/4 -right-10 text-[#1B3022]/10">
