@@ -2,13 +2,12 @@ import { createFileRoute } from "@tanstack/react-router";
 import { Hero } from "../src/components/Hero";
 import { Philosophy } from "../src/components/Philosophy";
 import { SparkAI } from "../src/components/SparkAI";
-import { Growth } from "../src/components/Growth";
+import { GrowthDynamic } from "../src/components/GrowthDynamic";
+import { SketchErrorBoundary } from "../src/components/ui/SketchErrorBoundary";
 
 export const Route = createFileRoute("/")({
   component: Index,
 });
-
-import { SketchErrorBoundary } from "../src/components/ui/SketchErrorBoundary";
 
 function Index() {
   return (
@@ -19,7 +18,7 @@ function Index() {
         <SparkAI />
       </SketchErrorBoundary>
       <SketchErrorBoundary name="Growth & Charts">
-        <Growth />
+        <GrowthDynamic />
       </SketchErrorBoundary>
     </div>
   );
