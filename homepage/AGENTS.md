@@ -273,6 +273,21 @@ When making changes:
 6. Run `bun run build` to test production build
 7. Test responsive design (mobile, tablet, desktop)
 
+### Pre-Commit Quality Gate (Required)
+
+**Before pushing any commits**, run the full quality check:
+```bash
+bun run check:all
+```
+
+This ensures:
+- ✅ Code formatting compliance (Biome)
+- ✅ Linting passes (zero issues)
+- ✅ All tests passing (42+ tests)
+- ✅ Coverage reports generated
+
+**Only commit if all checks pass.** This is non-negotiable for maintaining code quality.
+
 ## Monorepo Context
 
 This is App #1 in the monorepo. Future apps should:
