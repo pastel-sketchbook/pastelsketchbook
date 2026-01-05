@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router"
-import { useState, useEffect, Suspense } from "react"
+import { useState, useEffect } from "react"
 import { useQuery } from "@tanstack/react-query"
 import { VideoGallery } from "../src/components/VideoGallery"
 import { VideoModal } from "../src/components/VideoModal"
@@ -17,31 +17,9 @@ export const Route = createFileRoute("/showcase")({
 });
 
 function ShowcaseWithErrorBoundary() {
-  const [retryKey, setRetryKey] = useState(0)
-  
   return (
-    <ChunkErrorBoundary 
-      chunkName="showcase"
-      onRetry={() => setRetryKey(k => k + 1)}
-    >
-      <Suspense
-        fallback={
-          <div className="bg-[#FAF9F6] py-12">
-            <div className="max-w-6xl mx-auto">
-              <h1 className="text-4xl font-bold mb-8 font-serif text-[#1B3022]">
-                Video Showcase
-              </h1>
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {Array.from({ length: 6 }).map((_, i) => (
-                  <VideoSkeleton key={i} />
-                ))}
-              </div>
-            </div>
-          </div>
-        }
-      >
-        <Showcase key={retryKey} />
-      </Suspense>
+    <ChunkErrorBoundary chunkName="showcase">
+      <Showcase />
     </ChunkErrorBoundary>
   )
 }
