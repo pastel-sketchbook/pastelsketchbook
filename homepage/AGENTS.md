@@ -68,9 +68,13 @@ Main homepage containing ALL sections:
 - No global state management (Context, Redux, etc.)
 
 ### Environment Variables
-- **VITE_API_KEY**: Google GenAI API key (required)
-- **VITE_API_MODEL**: AI model name (default: "gemini-3-flash-preview")
-- Must be prefixed with `VITE_` to be accessible in client-side code via `import.meta.env`
+- **VITE_API_KEY**: Google GenAI API key (required, client-side)
+- **VITE_API_MODEL**: AI model name (default: "gemini-3-flash-preview", client-side)
+- **VITE_YOUTUBE_API_KEY**: YouTube Data API key (server-side only, required for metadata generation)
+  - Needed: Local development (metadata generation), Vercel deployment (API route)
+  - Not needed: Client code (API route handles it)
+  - Set via environment variables or Vercel project settings
+- Must be prefixed with `VITE_` to be accessible in code via `import.meta.env` (client) or `process.env` (server)
 
 ### Styling Conventions
 - **60:30:10 Rule**: Adhere to the 60:30:10 design rule for balanced aesthetics:
@@ -92,9 +96,24 @@ Main homepage containing ALL sections:
 - Custom classes: `.sketch-border`, `.sketch-hover`, `.sketch-focus`, `.animate-fade-in`, `.shimmer`, `.animate-pop`
 
 ### API Integration
+
+**Google GenAI (SparkAI)**:
 - Google GenAI SDK for SparkAI feature
 - Structured output using `responseSchema` for type safety
 - JSON response parsing with error handling
+
+**YouTube Metadata API** (Showcase page):
+- **Server-side**: Vercel serverless function at `/api/videos/metadata`
+  - Calls YouTube Data API v3 with `part=snippet,statistics`
+  - Accepts query param: `ids` (comma-separated video IDs)
+  - Returns: `{ videos: [{ id, title, views, date }], timestamp }`
+  - Cache-Control: 6 hours (`max-age=21600`)
+  - Uses ~1 quota unit per batch (free tier: 10,000/day)
+- **Client fallback**: Static JSON at `/public/videos-metadata.json`
+  - Generated pre-build via `prebuild` script
+  - Automatically updated when `VITE_YOUTUBE_API_KEY` is set
+  - Fallback if API route unavailable (network error, quota exceeded)
+- **Rationale**: See `docs/rationale/youtube-metadata-architecture.md`
 
 ### Routing
 - TanStack Router file-based routing
@@ -208,15 +227,19 @@ bun run test:coverage   # Run tests with coverage report
 cp homepage/.env.example homepage/.env.local
 ```
 
-2. Add your Google GenAI API key to `.env.local`:
+2. Add your API keys to `.env.local`:
 ```
-VITE_API_KEY=your-actual-api-key
+VITE_API_KEY=your-gemini-api-key-here
 VITE_API_MODEL=gemini-3-flash-preview
+VITE_YOUTUBE_API_KEY=your-youtube-api-key-here
 ```
 
 3. Run dev server
 
-**Note**: The app will render even without environment variables. A warning will be logged to console if variables are missing. Spark AI features will only work when `VITE_API_KEY` is set.
+**Notes**:
+- **Spark AI**: Requires `VITE_API_KEY`. App renders without it, but AI features won't work.
+- **YouTube Metadata**: Requires `VITE_YOUTUBE_API_KEY` for local metadata generation. On Vercel, set this in project settings instead.
+- The `prebuild` script automatically generates `public/videos-metadata.json` before build if the API key is available.
 
 ## TypeScript Configuration
 

@@ -39,63 +39,42 @@ const allVideoIds = [...koreaVideos, ...financeVideos, ...kubernetesVideos, ...d
 import { VideoSearch } from "../src/components/VideoSearch";
 
 async function fetchVideoMetadata() {
-    const apiKey = import.meta.env.VITE_YOUTUBE_API_KEY;
+    const ids = allVideoIds.join(',');
 
-    // 1. If API Key exists, use YouTube Data API (Batch Fetch)
-    if (apiKey) {
-        try {
-            // Join all IDs for a single batch request (limit is 50, we have ~20)
-            const ids = allVideoIds.join(",");
-            const response = await fetch(
-                `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=${ids}&key=${apiKey}`
-            );
+    try {
+        // 1. Try Vercel serverless API (server-side YouTube API call with caching)
+        const apiResponse = await fetch(`/api/videos/metadata?ids=${ids}`);
 
-            if (!response.ok) throw new Error("YouTube API request failed");
-
-            const data = await response.json();
-
-            return data.items.map((item: any) => ({
-                id: item.id,
-                title: item.snippet.title,
-                views: Number(item.statistics.viewCount) || 0,
-                date: item.snippet.publishedAt
-            }));
-        } catch (error) {
-            console.error("YouTube API failed, falling back to noembed:", error);
-            // Fallthrough to noembed
+        if (apiResponse.ok) {
+            const data = await apiResponse.json();
+            console.log(`Fetched metadata for ${data.videos.length} videos`);
+            return data.videos;
         }
-    } else {
-        console.warn("Missing VITE_YOUTUBE_API_KEY. View counts will be 0.");
-        // TODO: Add VITE_YOUTUBE_API_KEY to .env to enable real view counts.
-        // Without it, we fallback to noembed which returns 0 views.
-    }
 
-    // 2. Fallback: noembed (One by one, no view counts)
-    const videos = [];
-    for (const videoId of allVideoIds) {
+        throw new Error(`API returned ${apiResponse.status}`);
+    } catch (error) {
+        console.warn('API route failed, falling back to static metadata:', error);
+
+        // 2. Fallback: static JSON file
         try {
-            const response = await fetch(`https://noembed.com/embed?url=https://www.youtube.com/watch?v=${videoId}`);
-            if (!response.ok) throw new Error(`Failed to fetch video ${videoId}`);
-            const data = await response.json();
-
-            videos.push({
-                id: videoId,
-                title: data.title || "",
-                // noembed doesn't provide view counts
-                views: 0,
-                date: data.published_at || new Date().toISOString()
-            });
-        } catch (error) {
-            console.error(`Error fetching video ${videoId}:`, error);
-            videos.push({
-                id: videoId,
-                title: `Video ${videoId}`,
-                views: 0,
-                date: new Date().toISOString()
-            });
+            const fallbackResponse = await fetch('/videos-metadata.json');
+            if (fallbackResponse.ok) {
+                const data = await fallbackResponse.json();
+                console.log(`Using fallback metadata for ${data.videos.length} videos`);
+                return data.videos;
+            }
+        } catch (fallbackError) {
+            console.error('Fallback metadata also failed:', fallbackError);
         }
+
+        // 3. Last resort: return empty array with placeholder data
+        return allVideoIds.map(videoId => ({
+            id: videoId,
+            title: 'Unable to load metadata',
+            views: 0,
+            date: new Date().toISOString()
+        }));
     }
-    return videos;
 }
 
 function formatYouTubeDate(dateString: string): string {

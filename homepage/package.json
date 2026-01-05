@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "prebuild": "bun scripts/generate-video-metadata.ts",
     "build": "vite build",
     "preview": "vite preview",
     "router:generate": "tsr generate",
