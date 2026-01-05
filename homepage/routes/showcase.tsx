@@ -3,6 +3,7 @@ import { useState, useEffect } from "react"
 import { useQuery } from "@tanstack/react-query"
 import { VideoGallery } from "../src/components/VideoGallery"
 import { VideoModal } from "../src/components/VideoModal"
+import { VideoSkeleton } from "../src/components/VideoSkeleton"
 import { motion, AnimatePresence } from "framer-motion"
 import { allVideoIds, videoCategories } from "../src/config/videos"
 import { logger } from "../src/lib/logger"
@@ -249,10 +250,7 @@ function Showcase() {
                             transition={{ duration: 0.3 }}
                         >
                             {isLoading ? (
-                                <div className="text-center py-20">
-                                    <div className="text-6xl mb-6 animate-pulse">🌱</div>
-                                    <p className="text-xl font-serif italic text-[#1B3022]/40">Growing knowledge seeds...</p>
-                                </div>
+                                <VideoSkeleton count={6} />
                             ) : filteredItems.length > 0 ? (
                                 <VideoGallery
                                     items={filteredItems}
