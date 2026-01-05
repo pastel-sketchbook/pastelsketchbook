@@ -92,6 +92,12 @@ export function SparkAI() {
         setSavedSparks(savedSparks.filter((s) => s.id !== id));
     };
 
+    const copyToClipboard = () => {
+        if (!result) return;
+        const text = `Topic: ${result.topic}\nCreation: ${result.creation}\nPlatform: ${result.platform}\nImpact: ${result.impact}`;
+        navigator.clipboard.writeText(text);
+    };
+
     return (
         <section id="spark" className="py-32 px-6 bg-[#FAF9F6] border-y border-[#1B3022]/5">
             <motion.div
@@ -179,7 +185,7 @@ export function SparkAI() {
                                 key="result"
                                 initial={{ opacity: 0, scale: 0.95 }}
                                 animate={{ opacity: 1, scale: 1 }}
-                                className="animate-fade-in"
+                                className="animate-fade-in relative"
                             >
                                 <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-12 mb-12">
                                     {[
@@ -202,14 +208,14 @@ export function SparkAI() {
                                     ))}
                                 </div>
 
-                                <div className="flex justify-center">
+                                <div className="flex flex-col sm:flex-row justify-center gap-4">
                                     <SketchButton
                                         variant="outline"
                                         onClick={saveSpark}
                                         className={`
-                      px-10 py-3 duration-500
-                      ${showSaveSuccess ? "bg-[#5F7D61] !border-[#5F7D61] !text-white" : ""}
-                    `}
+                        px-10 py-3 duration-500
+                        ${showSaveSuccess ? "bg-[#5F7D61] !border-[#5F7D61] !text-white" : ""}
+                      `}
                                     >
                                         {showSaveSuccess ? (
                                             <><span>✓</span> Seeded to Sketchbook</>
@@ -217,6 +223,14 @@ export function SparkAI() {
                                             <><span>🌱</span> Save to Sketchbook</>
                                         )}
                                     </SketchButton>
+
+                                    <button
+                                        onClick={copyToClipboard}
+                                        className="text-[#1B3022]/40 hover:text-[#1B3022] text-xs font-bold uppercase tracking-widest flex items-center justify-center gap-2 transition-colors px-6"
+                                    >
+                                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3" /></svg>
+                                        Copy Details
+                                    </button>
                                 </div>
                             </motion.div>
                         ) : null}
@@ -224,35 +238,53 @@ export function SparkAI() {
                 </div>
 
                 {savedSparks.length > 0 && (
-                    <div className="mt-20 border-t border-[#5F7D61]/10 pt-16">
+                    <div className="mt-20 border-t border-[#1B3022]/5 pt-16">
                         <div className="flex justify-between items-center mb-10">
-                            <h3 className="text-2xl italic text-[#1B3022]">Your Sketchbook Seeds</h3>
-                            <span className="text-xs font-bold text-[#5F7D61]/40 uppercase tracking-widest">{savedSparks.length} SEEDS PLANTED</span>
+                            <div>
+                                <h3 className="text-3xl italic text-[#1B3022] mb-2">The Seed Collection</h3>
+                                <p className="text-sm text-[#1B3022]/40 font-serif lowercase italic">Ideas planted for future growth.</p>
+                            </div>
+                            <div className="text-right">
+                                <span className="text-[10px] font-bold text-[#5F7D61]/40 uppercase tracking-[0.3em] block mb-1">Status</span>
+                                <span className="text-xs font-bold text-[#5F7D61] uppercase tracking-widest">{savedSparks.length} SEEDS PLANTED</span>
+                            </div>
                         </div>
-                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                             {savedSparks.map((spark, idx) => (
                                 <SketchBox
                                     key={spark.id}
-                                    className="bg-white p-6 relative"
+                                    className={`bg-white p-8 relative transition-all hover:-translate-y-1 hover:shadow-xl group ${idx % 2 === 0 ? 'rotate-1' : '-rotate-1'}`}
                                 >
                                     <button
                                         onClick={() => removeSavedSpark(spark.id)}
-                                        className="absolute top-2 right-2 w-6 h-6 flex items-center justify-center rounded-full bg-red-50 text-red-300 opacity-0 group-hover:opacity-100 transition-opacity hover:bg-red-500 hover:text-white"
+                                        className="absolute top-4 right-4 w-8 h-8 flex items-center justify-center rounded-full bg-red-50 text-red-300 opacity-0 group-hover:opacity-100 transition-all hover:bg-[#E76F51] hover:text-white"
                                         title="Remove seed"
                                     >
-                                        ×
+                                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" /></svg>
                                     </button>
-                                    <div className="mb-4">
-                                        <span className="text-xs font-bold uppercase tracking-widest text-[#E76F51]">Topic</span>
-                                        <p className="text-sm font-serif text-[#1B3022] line-clamp-1">{spark.topic}</p>
+
+                                    <div className="mb-6">
+                                        <div className="flex items-center gap-2 mb-2">
+                                            <span className="w-2 h-2 rounded-full bg-[#E76F51]"></span>
+                                            <span className="text-[10px] font-bold uppercase tracking-widest text-[#E76F51]/60">Subject of Interest</span>
+                                        </div>
+                                        <p className="text-lg font-serif italic text-[#1B3022] leading-tight">{spark.topic}</p>
                                     </div>
-                                    <div className="mb-4">
-                                        <span className="text-xs font-bold uppercase tracking-widest text-[#D4A373]">Creation</span>
-                                        <p className="text-xs text-[#5F7D61] line-clamp-2">{spark.creation}</p>
-                                    </div>
-                                    <div>
-                                        <span className="text-xs font-bold uppercase tracking-widest text-[#5F7D61]">Platform</span>
-                                        <p className="text-xs text-[#5F7D61] italic">{spark.platform}</p>
+
+                                    <div className="space-y-4 pt-4 border-t border-[#1B3022]/5">
+                                        <div>
+                                            <span className="text-[10px] font-bold uppercase tracking-widest text-[#D4A373]/60 block mb-1">Proposed Creation</span>
+                                            <p className="text-xs text-[#1B3022]/70 leading-relaxed italic">{spark.creation}</p>
+                                        </div>
+                                        <div className="flex justify-between items-end">
+                                            <div>
+                                                <span className="text-[10px] font-bold uppercase tracking-widest text-[#5F7D61]/60 block mb-1">Platform</span>
+                                                <p className="text-[10px] text-[#5F7D61] font-bold uppercase tracking-tighter">{spark.platform}</p>
+                                            </div>
+                                            <span className="text-[10px] text-[#1B3022]/20 font-serif italic">
+                                                {new Date(spark.date).toLocaleDateString(undefined, { month: 'short', day: 'numeric' })}
+                                            </span>
+                                        </div>
                                     </div>
                                 </SketchBox>
                             ))}

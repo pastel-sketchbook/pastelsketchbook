@@ -27,7 +27,27 @@
 body {
   font-family: var(--font-sans);
   background-color: var(--color-pastel-bg);
+  color: var(--color-pastel-dark);
   position: relative;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-pastel-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-pastel-medium);
+  border-radius: 5px;
+  border: 2px solid var(--color-pastel-bg);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-pastel-dark);
 }
 
 /* Paper Texture Overlay */
@@ -125,11 +145,25 @@ h4 {
 }
 
 @keyframes scribble {
-  0% { border-radius: 255px 15px 225px 15px/15px 225px 15px 255px; }
-  25% { border-radius: 225px 15px 255px 15px/15px 255px 15px 225px; }
-  50% { border-radius: 255px 25px 225px 25px/25px 225px 25px 255px; }
-  75% { border-radius: 225px 15px 255px 20px/20px 255px 20px 225px; }
-  100% { border-radius: 255px 15px 225px 15px/15px 225px 15px 255px; }
+  0% {
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  }
+
+  25% {
+    border-radius: 225px 15px 255px 15px/15px 255px 15px 225px;
+  }
+
+  50% {
+    border-radius: 255px 25px 225px 25px/25px 225px 25px 255px;
+  }
+
+  75% {
+    border-radius: 225px 15px 255px 20px/20px 255px 20px 225px;
+  }
+
+  100% {
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  }
 }
 
 .animate-scribble:hover {

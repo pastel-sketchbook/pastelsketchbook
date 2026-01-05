@@ -4,6 +4,8 @@ import { motion, AnimatePresence } from "framer-motion";
 interface VideoItem {
     id: string;
     title: string;
+    date?: string;
+    views?: number;
 }
 
 interface VideoGalleryProps {
@@ -14,6 +16,12 @@ interface VideoGalleryProps {
 }
 
 export function VideoGallery({ items, onVideoSelect, title, description }: VideoGalleryProps) {
+    const formatViews = (views?: number) => {
+        if (!views) return "0";
+        if (views >= 1000) return `${(views / 1000).toFixed(1)}k`;
+        return views.toString();
+    };
+
     return (
         <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -39,7 +47,7 @@ export function VideoGallery({ items, onVideoSelect, title, description }: Video
                         transition={{ delay: i * 0.05 }}
                         whileHover={{ y: -5 }}
                         onClick={() => onVideoSelect(item.id)}
-                        className="text-left bg-white p-4 sketch-border border-[#1B3022]/5 hover:shadow-lg transition-all group/card overflow-hidden w-full"
+                        className="text-left bg-white p-4 sketch-border border-[#1B3022]/5 hover:shadow-lg transition-all group/card overflow-hidden w-full relative"
                     >
                         <div className="aspect-video mb-4 overflow-hidden rounded-lg bg-[#1B3022]/5 relative">
                             <img
@@ -54,10 +62,20 @@ export function VideoGallery({ items, onVideoSelect, title, description }: Video
                                     </svg>
                                 </div>
                             </div>
+                            <div className="absolute bottom-2 right-2 px-2 py-1 bg-black/60 backdrop-blur-sm text-white text-[8px] font-bold rounded uppercase tracking-tighter">
+                                {formatViews(item.views)} watches
+                            </div>
                         </div>
-                        <h4 className="font-bold text-[#1B3022] text-[10px] uppercase tracking-widest line-clamp-2 leading-relaxed">
-                            {item.title}
-                        </h4>
+                        <div className="flex justify-between items-start gap-4">
+                            <h4 className="font-bold text-[#1B3022] text-[10px] uppercase tracking-widest line-clamp-2 leading-relaxed flex-1">
+                                {item.title}
+                            </h4>
+                            {item.date && (
+                                <span className="text-[8px] text-[#1B3022]/30 font-serif italic whitespace-nowrap pt-0.5">
+                                    {new Date(item.date).toLocaleDateString(undefined, { month: 'short', year: 'numeric' })}
+                                </span>
+                            )}
+                        </div>
                     </motion.button>
                 ))}
             </div>

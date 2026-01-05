@@ -1,8 +1,14 @@
-import { createRootRoute, Outlet, Link, createRouter } from "@tanstack/react-router";
+import { createRootRoute, Outlet, Link } from "@tanstack/react-router";
 import { TanStackRouterDevtools } from "@tanstack/react-router-devtools";
+import { useState, useEffect } from "react";
+import { ScrollToTop } from "../src/components/ui/ScrollToTop";
 
 export const Route = createRootRoute({
-  component: () => (
+  component: RootComponent,
+});
+
+function RootComponent() {
+  return (
     <>
       <svg className="sr-only">
         <defs>
@@ -18,22 +24,29 @@ export const Route = createRootRoute({
       >
         Skip to content
       </a>
-      <div className="min-h-screen overflow-x-hidden bg-[#FAF9F6]">
+      <div className="min-h-screen overflow-x-hidden bg-[#FAF9F6] text-[#1B3022] selection:bg-[#D4A373]/30">
         <Header />
         <main id="main-content" tabIndex={-1}>
           <Outlet />
         </main>
         <Footer />
+        <ScrollToTop />
       </div>
       <TanStackRouterDevtools initialIsOpen={false} />
     </>
-  ),
-});
-
-import { useState } from "react";
+  );
+}
 
 function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+
+  const scrollToFooter = () => {
+    const footer = document.querySelector('footer');
+    if (footer) {
+      footer.scrollIntoView({ behavior: 'smooth' });
+    }
+    setIsMenuOpen(false);
+  };
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-[#FAF9F6]/90 backdrop-blur-md border-b border-[#1B3022]/10 transition-all duration-300">
@@ -50,13 +63,18 @@ function Header() {
         </Link>
 
         {/* Desktop Nav */}
-        <nav className="hidden md:flex items-center gap-10 text-sm font-semibold text-[#1B3022]/70">
+        <nav className="hidden md:flex items-center gap-8 text-sm font-semibold text-[#1B3022]/70">
           <NavLink href="/#vision" label="Vision" />
           <NavLink href="/showcase" label="Showcase" />
           <NavLink href="/#cycle" label="How it Works" />
           <NavLink href="/#spark" label="Spark AI" isAccent />
           <NavLink href="/#growth" label="Growth" />
-          <button className="bg-[#1B3022] text-white px-6 py-2.5 rounded-full hover:bg-[#2D4536] hover:scale-105 transition-all shadow-md text-xs uppercase tracking-widest font-bold" aria-label="Join the Garden">
+
+          <button
+            onClick={scrollToFooter}
+            className="bg-[#1B3022] text-white px-6 py-2.5 rounded-full hover:bg-[#2D4536] hover:scale-105 transition-all shadow-md text-xs uppercase tracking-widest font-bold"
+            aria-label="Join the Garden"
+          >
             Join the Garden
           </button>
         </nav>
@@ -86,7 +104,10 @@ function Header() {
             <Link to="/" hash="cycle" onClick={() => setIsMenuOpen(false)}>How it Works</Link>
             <Link to="/" hash="spark" onClick={() => setIsMenuOpen(false)} className="text-[#D4A373]">Spark AI</Link>
             <Link to="/" hash="growth" onClick={() => setIsMenuOpen(false)}>Growth</Link>
-            <button className="mt-8 bg-[#1B3022] text-white px-8 py-4 rounded-full text-lg font-bold shadow-lg" onClick={() => setIsMenuOpen(false)}>
+            <button
+              className="mt-8 bg-[#1B3022] text-white px-8 py-4 rounded-full text-lg font-bold shadow-lg"
+              onClick={scrollToFooter}
+            >
               Join the Garden
             </button>
           </nav>
