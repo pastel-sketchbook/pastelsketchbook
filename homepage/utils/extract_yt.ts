@@ -1,5 +1,8 @@
 const playlists = [
-    { id: "PLOZ1_i7WA_EAeKcYgHWr9MjHlK8JCDJKr", name: "Kubernetes" }
+    { id: "PLOZ1_i7WA_ED7Bdhz48-YqxpeZ4qszwvK", name: "Korea" },
+    { id: "PLOZ1_i7WA_ECACxs7BkfGh_ZxTSwQ_s7y", name: "Finance" },
+    { id: "PLOZ1_i7WA_EAeKcYgHWr9MjHlK8JCDJKr", name: "Kubernetes" },
+    { id: "PLOZ1_i7WA_EC7ePuZp2f1TPtjdyIdKwtc", name: "Development" }
 ];
 
 async function fetchPlaylist(id: string) {

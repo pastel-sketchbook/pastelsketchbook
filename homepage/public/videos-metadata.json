@@ -33,7 +33,7 @@
     {
       "id": "EvcUSPWkOA8",
       "title": "Jeonju y Gochang: Apuntes de Corea",
-      "views": 5,
+      "views": 6,
       "date": "2026-01-04T18:38:25Z"
     },
     {
@@ -79,6 +79,12 @@
       "date": "2026-01-04T07:12:28Z"
     },
     {
+      "id": "s1BoGn9r7oE",
+      "title": "The 2026  Playbook for High-Yield & Covered Call ETFs",
+      "views": 1,
+      "date": "2026-01-05T22:53:00Z"
+    },
+    {
       "id": "8ycnldvJmuA",
       "title": "The Blueprint for Enterprise AI on Azure",
       "views": 8,
@@ -87,7 +93,7 @@
     {
       "id": "ftODZr2_V5Q",
       "title": "Kubernetes Version Upgrade Strategy",
-      "views": 25,
+      "views": 26,
       "date": "2025-12-26T11:21:45Z"
     },
     {
@@ -133,6 +139,6 @@
       "date": "2025-12-27T21:13:50Z"
     }
   ],
-  "generatedAt": "2026-01-05T22:53:12.786Z",
-  "count": 22
+  "generatedAt": "2026-01-05T22:54:30.000Z",
+  "count": 23
 }
