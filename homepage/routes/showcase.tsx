@@ -81,6 +81,7 @@ function Showcase() {
     const { data: videoMetadata = [], isLoading } = useQuery({
         queryKey: ["videoMetadata"],
         queryFn: fetchVideoMetadata,
+        staleTime: 3600000,
     });
 
     const allItems = videoMetadata.map((item: any) => ({
