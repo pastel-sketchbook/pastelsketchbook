@@ -166,17 +166,44 @@ export function Philosophy() {
                         {steps.map((step, idx) => (
                             <motion.div
                                 key={idx}
-                                initial={{ opacity: 0, y: 20 }}
+                                initial={{ opacity: 0, y: 30 }}
                                 whileInView={{ opacity: 1, y: 0 }}
                                 viewport={{ once: true }}
-                                transition={{ delay: idx * 0.1 }}
+                                transition={{ delay: idx * 0.15, duration: 0.6 }}
                                 className="relative group"
                             >
-                                <div className={`aspect-square rounded-full ${step.color} flex items-center justify-center mb-8 transition-all group-hover:scale-110 duration-500 sketch-border border-[#1B3022]/10 group-hover:border-[#1B3022]/30 shadow-sm`}>
-                                    <span className="text-5xl transform transition-transform group-hover:rotate-12">{step.icon}</span>
-                                </div>
-                                <h4 className="font-serif italic text-[#1B3022] mb-4 text-lg md:text-xl">{step.title}</h4>
-                                <p className="text-sm text-[#1B3022]/60 leading-relaxed font-sans">{step.desc}</p>
+                                <motion.div
+                                    initial={{ scale: 0, rotate: -180 }}
+                                    whileInView={{ scale: 1, rotate: 0 }}
+                                    viewport={{ once: true }}
+                                    transition={{ delay: idx * 0.15 + 0.1, duration: 0.5, type: 'spring', stiffness: 100 }}
+                                    className={`aspect-square rounded-full ${step.color} flex items-center justify-center mb-8 transition-all group-hover:scale-110 duration-500 sketch-border border-[#1B3022]/10 group-hover:border-[#1B3022]/30 shadow-sm`}
+                                >
+                                    <motion.span
+                                        className="text-5xl transform transition-transform group-hover:rotate-12 inline-block"
+                                        whileHover={{ rotate: 12, scale: 1.1 }}
+                                    >
+                                        {step.icon}
+                                    </motion.span>
+                                </motion.div>
+                                <motion.h4
+                                    initial={{ opacity: 0 }}
+                                    whileInView={{ opacity: 1 }}
+                                    viewport={{ once: true }}
+                                    transition={{ delay: idx * 0.15 + 0.2, duration: 0.4 }}
+                                    className="font-serif italic text-[#1B3022] mb-4 text-lg md:text-xl"
+                                >
+                                    {step.title}
+                                </motion.h4>
+                                <motion.p
+                                    initial={{ opacity: 0 }}
+                                    whileInView={{ opacity: 1 }}
+                                    viewport={{ once: true }}
+                                    transition={{ delay: idx * 0.15 + 0.3, duration: 0.4 }}
+                                    className="text-sm text-[#1B3022]/60 leading-relaxed font-sans"
+                                >
+                                    {step.desc}
+                                </motion.p>
                                 {idx < steps.length - 1 && (
                                     <div className="hidden md:block absolute top-1/4 -right-10 text-[#1B3022]/10">
                                         <svg className="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24">

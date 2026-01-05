@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, Suspense, lazy } from "react";
 import { SketchBox } from "./ui/SketchBox";
-import { motion } from "framer-motion";
+import { motion, useScroll, useTransform } from "framer-motion";
 
 // Lazy load Recharts to reduce initial bundle size
 const Recharts = lazy(() => import("recharts").then(mod => ({
@@ -35,6 +35,9 @@ const data = [
 export function Growth() {
     const [hasDimensions, setHasDimensions] = useState(false);
     const chartRef = useRef<HTMLDivElement>(null);
+    const investmentRef = useRef<HTMLDivElement>(null);
+    const { scrollY } = useScroll();
+    const jarY = useTransform(scrollY, [0, 1000], [0, 50]);
 
     useEffect(() => {
         if (chartRef.current) {
@@ -53,7 +56,7 @@ export function Growth() {
 
     return (
         <>
-            <section id="investment" className="py-32 px-6 bg-[#FAF9F6]">
+            <section id="investment" className="py-32 px-6 bg-[#FAF9F6]" ref={investmentRef}>
                 <motion.div
                     initial={{ opacity: 0, x: -20 }}
                     whileInView={{ opacity: 1, x: 0 }}
@@ -61,7 +64,10 @@ export function Growth() {
                     className="max-w-6xl mx-auto grid md:grid-cols-2 gap-20 items-center"
                 >
                     <div className="flex justify-center order-2 md:order-1">
-                        <div className="relative w-full max-w-xs aspect-[3/4] sm:w-80 sm:h-96 transform -rotate-2 hover:rotate-0 transition-transform duration-500">
+                        <motion.div
+                            style={{ y: jarY }}
+                            className="relative w-full max-w-xs aspect-[3/4] sm:w-80 sm:h-96 transform -rotate-2 hover:rotate-0 transition-transform duration-500"
+                        >
                             <svg className="w-full h-full text-[#1B3022]/20" viewBox="0 0 100 120" fill="none">
                                 <path d="M30 20C30 15 70 15 70 20V40C70 40 90 40 90 80C90 110 10 110 10 80C10 40 30 40 30 40V20Z" stroke="currentColor" strokeWidth="1" strokeLinecap="round" />
                                 <ellipse cx="50" cy="20" rx="20" ry="5" stroke="currentColor" strokeWidth="1" />
@@ -76,7 +82,7 @@ export function Growth() {
                                     <path d="M0 25 Q25 0 50 25 Q75 50 100 25" stroke="currentColor" strokeWidth="1" strokeDasharray="4 4" fill="none" />
                                 </svg>
                             </div>
-                        </div>
+                        </motion.div>
                     </div>
 
                     <div className="order-1 md:order-2">

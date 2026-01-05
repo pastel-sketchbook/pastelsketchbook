@@ -1,5 +1,6 @@
 import { createRootRoute, Outlet, Link, useLocation } from "@tanstack/react-router";
 import { useState, useEffect } from "react";
+import { motion } from "framer-motion";
 import { ScrollToTop } from "../src/components/ui/ScrollToTop";
 
 export const Route = createRootRoute({
@@ -7,6 +8,8 @@ export const Route = createRootRoute({
 });
 
 function RootComponent() {
+  const location = useLocation();
+
   return (
     <>
       <svg className="sr-only">
@@ -25,9 +28,17 @@ function RootComponent() {
       </a>
       <div className="min-h-screen overflow-x-hidden bg-[#FAF9F6] text-[#1B3022] selection:bg-[#D4A373]/30">
         <Header />
-        <main id="main-content" tabIndex={-1}>
+        <motion.main
+          id="main-content"
+          tabIndex={-1}
+          key={location.pathname}
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          exit={{ opacity: 0, y: -10 }}
+          transition={{ duration: 0.4 }}
+        >
           <Outlet />
-        </main>
+        </motion.main>
         <Footer />
         <ScrollToTop />
       </div>
