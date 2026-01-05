@@ -66,6 +66,8 @@ async function fetchVideoMetadata() {
         }
     } else {
         console.warn("Missing VITE_YOUTUBE_API_KEY. View counts will be 0.");
+        // TODO: Add VITE_YOUTUBE_API_KEY to .env to enable real view counts.
+        // Without it, we fallback to noembed which returns 0 views.
     }
 
     // 2. Fallback: noembed (One by one, no view counts)
