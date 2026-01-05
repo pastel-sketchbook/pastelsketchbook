@@ -1,6 +1,7 @@
 import React, { Component, ErrorInfo, ReactNode, Suspense } from 'react'
 import { SketchBox } from './SketchBox'
 import { logger, MetricsLogger } from '../../lib/logger'
+import { v7 as uuidv7 } from 'uuid'
 
 interface Props {
   children: ReactNode
@@ -13,6 +14,7 @@ interface State {
   hasError: boolean
   retryCount: number
   isLoading: boolean
+  errorId: string
 }
 
 /**
@@ -20,18 +22,20 @@ interface State {
  * Handles network failures, slow connections, and provides retry logic
  */
 export class ChunkErrorBoundary extends Component<Props, State> {
-  private metricsLogger = new MetricsLogger()
-  private retryTimeout: NodeJS.Timeout | null = null
+  private metricsLogger: MetricsLogger | null = null
+  private retryTimeout: ReturnType<typeof setTimeout> | null = null
   private chunkStartTime: number | null = null
 
   public state: State = {
     hasError: false,
     retryCount: 0,
-    isLoading: true
+    isLoading: true,
+    errorId: ''
   }
 
   componentDidMount() {
     this.chunkStartTime = Date.now()
+    this.metricsLogger = MetricsLogger.getInstance()
     this.metricsLogger.recordChunkLoadStart(this.props.chunkName)
   }
 
@@ -39,7 +43,7 @@ export class ChunkErrorBoundary extends Component<Props, State> {
     // Log successful chunk load
     if (prevState.hasError && !this.state.hasError && this.chunkStartTime) {
       const duration = Date.now() - this.chunkStartTime
-      this.metricsLogger.recordChunkLoadSuccess(
+      this.metricsLogger?.recordChunkLoadSuccess(
         this.props.chunkName,
         duration
       )
@@ -52,11 +56,12 @@ export class ChunkErrorBoundary extends Component<Props, State> {
     }
   }
 
-  public static getDerivedStateFromError(): State {
+  public static getDerivedStateFromError(): Partial<State> {
     return {
       hasError: true,
       retryCount: 0,
-      isLoading: false
+      isLoading: false,
+      errorId: uuidv7()
     }
   }
 
@@ -66,10 +71,11 @@ export class ChunkErrorBoundary extends Component<Props, State> {
       error.message.includes('dynamically imported module') ||
       error.message.includes('chunk')
 
-    this.metricsLogger.recordChunkLoadError(
+    this.metricsLogger?.recordChunkLoadError(
       this.props.chunkName,
       error,
-      this.state.retryCount
+      this.state.retryCount,
+      this.state.errorId
     )
 
     logger.error(`Chunk load error for ${this.props.chunkName}`, error, {
@@ -178,7 +184,7 @@ export class ChunkErrorBoundary extends Component<Props, State> {
             </button>
 
             <p className="text-xs text-amber-600 mt-4 font-mono">
-              Error ID: {this.props.chunkName}-{Date.now()}
+              Error ID: {this.state.errorId.slice(0, 8).toUpperCase()}
             </p>
           </SketchBox>
         </div>

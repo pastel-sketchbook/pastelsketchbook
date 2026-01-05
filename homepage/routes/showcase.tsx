@@ -10,7 +10,7 @@ import { motion, AnimatePresence } from "framer-motion"
 import { allVideoIds, videoCategories } from "../src/config/videos"
 import { logger, MetricsLogger } from "../src/lib/logger"
 
-const metricsLogger = new MetricsLogger()
+const metricsLogger = MetricsLogger.getInstance()
 
 export const Route = createFileRoute("/showcase")({
     component: ShowcaseWithErrorBoundary,

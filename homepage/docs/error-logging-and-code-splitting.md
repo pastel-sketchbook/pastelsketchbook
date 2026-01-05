@@ -31,21 +31,25 @@ error.message.includes('API') → 'api'
 
 ### Chunk-Specific Logging (`MetricsLogger`)
 
-Track chunk loading lifecycle:
+Track chunk loading lifecycle using the singleton pattern:
 
 ```typescript
-const metricsLogger = new MetricsLogger()
+// Get the singleton instance (recommended)
+const metricsLogger = MetricsLogger.getInstance()
 
 metricsLogger.recordChunkLoadStart('showcase')        // When load begins
 metricsLogger.recordChunkLoadSuccess('showcase', 234) // Duration in ms
 metricsLogger.recordChunkLoadError('showcase', err)   // Load failure
 ```
 
+**Singleton Pattern**: MetricsLogger uses a singleton to ensure consistent tracking across the app. Always use `getInstance()` instead of `new MetricsLogger()`.
+
 **Logged data**:
 - Chunk name
 - Load duration (milliseconds)
 - Network latency / user agent
 - Retry attempts (if applicable)
+- Error ID (UUIDv7 for tracking)
 - Error stack trace (dev only)
 
 ### Log Output Format (Production)
@@ -219,6 +223,44 @@ Lazy-loaded (on route navigation):
   ├── Podcast:    PodcastPlayer (25KB) on demand
   └── GenAI:      Already dynamically imported when needed (~40KB)
 ```
+
+### Using `createChunkLoader` Factory Function
+
+The `createChunkLoader` utility handles chunk loading with built-in error handling and metrics:
+
+```typescript
+import { createChunkLoader } from '../utils/createChunkLoader'
+
+// Create a lazy-loaded component with error handling
+const ShowcaseContent = createChunkLoader(
+  () => import('../routes/showcase'),
+  { 
+    chunkName: 'showcase',
+    maxRetries: 3,
+    timeout: 10000 
+  }
+)
+
+// Use in route with error boundary
+export const Route = createFileRoute('/showcase')({
+  component: () => (
+    <ChunkErrorBoundary chunkName="showcase">
+      <Suspense fallback={<LoadingSpinner />}>
+        <ShowcaseContent />
+      </Suspense>
+    </ChunkErrorBoundary>
+  ),
+})
+```
+
+**Key benefits**:
+- Automatic retry logic with exponential backoff
+- Timeout handling for slow connections
+- Singleton `MetricsLogger` tracking
+- Type-safe component loading
+- Error ID generation with UUIDv7
+
+**Deprecated**: The `useChunkLoader` hook still exists for backward compatibility but should not be used in new code. Use `createChunkLoader` directly instead.
 
 ---
 
@@ -507,7 +549,8 @@ grep 'Chunk loaded successfully' logs/* | jq .metadata.durationMs
 
 **New Files**:
 - `src/components/ui/ChunkErrorBoundary.tsx` (175 lines)
-- `src/hooks/useChunkLoader.ts` (86 lines, optional)
+- `src/utils/createChunkLoader.ts` (110 lines) - Factory function for chunk loading
+- `src/hooks/useChunkLoader.ts` (deprecated) - Wraps createChunkLoader for backward compatibility
 - `docs/error-logging-and-code-splitting.md` (this file)
 
 **Modified Files**:

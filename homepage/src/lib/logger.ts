@@ -101,12 +101,21 @@ export const logger = new Logger()
 
 /**
  * Logger specifically for API metrics
+ * Uses singleton pattern to ensure consistent instance across the app
  */
 export class MetricsLogger {
   private startTime: number
+  private static instance: MetricsLogger
 
   constructor() {
     this.startTime = Date.now()
+  }
+
+  static getInstance(): MetricsLogger {
+    if (!MetricsLogger.instance) {
+      MetricsLogger.instance = new MetricsLogger()
+    }
+    return MetricsLogger.instance
   }
 
   recordApiCall(method: string, endpoint: string, statusCode: number, duration: number) {
@@ -166,11 +175,12 @@ export class MetricsLogger {
     })
   }
 
-  recordChunkLoadError(chunkName: string, error: Error, retry?: number) {
+  recordChunkLoadError(chunkName: string, error: Error, retry?: number, errorId?: string) {
     logger.error('Chunk load failed', error, {
       chunk: chunkName,
       errorType: 'chunk_load',
       attemptNumber: retry || 1,
+      errorId: errorId || 'unknown',
       userAgent: typeof navigator !== 'undefined' ? navigator.userAgent : 'unknown'
     })
   }
