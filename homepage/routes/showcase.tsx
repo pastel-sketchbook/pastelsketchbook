@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router"
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { useQuery } from "@tanstack/react-query"
 import { VideoGallery } from "../src/components/VideoGallery"
 import { VideoModal } from "../src/components/VideoModal"
@@ -87,6 +87,7 @@ function Showcase() {
     const [selectedVideoId, setSelectedVideoId] = useState<string | null>(null)
     const [searchQuery, setSearchQuery] = useState("")
     const [sortBy, setSortBy] = useState<"date" | "views">("date")
+    const [showAlert, setShowAlert] = useState(true)
 
     interface VideoItem {
         id: string
@@ -105,6 +106,14 @@ function Showcase() {
     const videoMetadata = result?.videos || []
     const metadataSource = result?.source || 'unknown'
     const metadataError = result?.error
+
+    // Auto-dismiss alert after 30 seconds
+    useEffect(() => {
+        if (metadataError && showAlert) {
+            const timer = setTimeout(() => setShowAlert(false), 30000)
+            return () => clearTimeout(timer)
+        }
+    }, [metadataError, showAlert])
 
     const allItems: VideoItem[] = videoMetadata.map((item: any) => ({
         ...item,
@@ -134,23 +143,42 @@ function Showcase() {
 
     return (
         <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
-            {metadataError && (
-                <div className="max-w-6xl mx-auto mb-6">
-                    <div className="bg-amber-50 border border-amber-200 rounded-lg p-4 text-sm text-amber-900">
-                        {metadataSource === 'fallback' && (
-                            <>
-                                <strong>⚠️ Limited data:</strong> Using cached metadata. Some view counts may be outdated.
-                            </>
-                        )}
-                        {metadataSource === 'placeholder' && (
-                            <>
-                                <strong>⚠️ Metadata unavailable:</strong> Videos are loading but detailed information is
-                                currently unavailable. Please refresh the page.
-                            </>
-                        )}
-                    </div>
-                </div>
-            )}
+            <AnimatePresence>
+                {metadataError && showAlert && (
+                    <motion.div
+                        initial={{ opacity: 0, y: -10 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        exit={{ opacity: 0, y: -10 }}
+                        transition={{ duration: 0.3 }}
+                        className="max-w-6xl mx-auto mb-6"
+                    >
+                        <div className="bg-amber-50 border border-amber-200 rounded-lg p-4 text-sm text-amber-900 flex justify-between items-center">
+                            <div>
+                                {metadataSource === 'fallback' && (
+                                    <>
+                                        <strong>⚠️ Limited data:</strong> Using cached metadata. Some view counts may be outdated.
+                                    </>
+                                )}
+                                {metadataSource === 'placeholder' && (
+                                    <>
+                                        <strong>⚠️ Metadata unavailable:</strong> Videos are loading but detailed information is
+                                        currently unavailable. Please refresh the page.
+                                    </>
+                                )}
+                            </div>
+                            <button
+                                onClick={() => setShowAlert(false)}
+                                className="ml-4 text-amber-600 hover:text-amber-800 transition-colors flex-shrink-0"
+                                aria-label="Dismiss alert"
+                            >
+                                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
+                                </svg>
+                            </button>
+                        </div>
+                    </motion.div>
+                )}
+            </AnimatePresence>
             <div className="max-w-6xl mx-auto">
                 <header className="text-center mb-16">
                     <motion.h1
