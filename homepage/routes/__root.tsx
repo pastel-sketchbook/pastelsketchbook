@@ -49,7 +49,7 @@ function Header() {
   };
 
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 bg-[#FAF9F6]/90 backdrop-blur-md border-b border-[#1B3022]/10 transition-all duration-300">
+    <header className="fixed top-0 left-0 right-0 z-50 bg-[#FAF9F6] md:bg-[#FAF9F6]/90 backdrop-blur-md border-b border-[#1B3022]/10 transition-all duration-300">
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         <Link
           to="/"

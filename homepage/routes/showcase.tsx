@@ -39,43 +39,37 @@ const allVideoIds = [...koreaVideos, ...financeVideos, ...kubernetesVideos, ...d
 import { VideoSearch } from "../src/components/VideoSearch";
 
 async function fetchVideoMetadata() {
-    const response = await fetch(`http://localhost:3001/api/videos?ids=${allVideoIds.join(",")}`);
-    if (!response.ok) throw new Error("Failed to fetch video metadata");
-    return response.json();
-}
+    const videos = [];
 
-function parseYouTubeDate(dateString: string): number {
-    const now = new Date();
-    const lowerDate = dateString.toLowerCase();
+    for (const videoId of allVideoIds) {
+        try {
+            const response = await fetch(`https://noembed.com/embed?url=https://www.youtube.com/watch?v=${videoId}`);
+            if (!response.ok) throw new Error(`Failed to fetch video ${videoId}`);
+            const data = await response.json();
 
-    if (lowerDate.includes("day")) {
-        const days = parseInt(lowerDate) || 0;
-        return new Date(now.getTime() - days * 24 * 60 * 60 * 1000).getTime();
-    }
-    if (lowerDate.includes("week")) {
-        const weeks = parseInt(lowerDate) || 0;
-        return new Date(now.getTime() - weeks * 7 * 24 * 60 * 60 * 1000).getTime();
-    }
-    if (lowerDate.includes("month")) {
-        const months = parseInt(lowerDate) || 0;
-        const result = new Date(now);
-        result.setMonth(result.getMonth() - months);
-        return result.getTime();
-    }
-    if (lowerDate.includes("year")) {
-        const years = parseInt(lowerDate) || 0;
-        const result = new Date(now);
-        result.setFullYear(result.getFullYear() - years);
-        return result.getTime();
+            videos.push({
+                id: videoId,
+                title: data.title || "",
+                views: 0,
+                date: data.published_at || new Date().toISOString()
+            });
+        } catch (error) {
+            console.error(`Error fetching video ${videoId}:`, error);
+            videos.push({
+                id: videoId,
+                title: `Video ${videoId}`,
+                views: 0,
+                date: new Date().toISOString()
+            });
+        }
     }
 
-    const parsed = new Date(dateString);
-    return isNaN(parsed.getTime()) ? 0 : parsed.getTime();
+    return videos;
 }
 
 function formatYouTubeDate(dateString: string): string {
-    const timestamp = parseYouTubeDate(dateString);
-    return new Date(timestamp).toISOString();
+    const parsed = new Date(dateString);
+    return isNaN(parsed.getTime()) ? new Date().toISOString() : parsed.toISOString();
 }
 
 function Showcase() {
@@ -102,7 +96,7 @@ function Showcase() {
         item.title.toLowerCase().includes(searchQuery.toLowerCase())
     ).sort((a, b) => {
         if (sortBy === "date") {
-            return parseYouTubeDate((b as any).date) - parseYouTubeDate((a as any).date);
+            return new Date((b as any).date).getTime() - new Date((a as any).date).getTime();
         }
         return (b as any).views - (a as any).views;
     });
