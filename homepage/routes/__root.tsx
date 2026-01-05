@@ -66,6 +66,7 @@ function Header() {
         <nav className="hidden md:flex items-center gap-8 text-sm font-semibold text-[#1B3022]/70">
           <NavLink href="/#vision" label="Vision" />
           <NavLink href="/showcase" label="Showcase" />
+          <NavLink href="/podcast" label="Podcast" />
           <NavLink href="/#cycle" label="How it Works" />
           <NavLink href="/#spark" label="Spark AI" isAccent />
           <NavLink href="/#growth" label="Growth" />
@@ -101,6 +102,7 @@ function Header() {
           <nav className="flex flex-col gap-8 text-2xl font-serif italic text-[#1B3022]">
             <Link to="/" hash="vision" onClick={() => setIsMenuOpen(false)}>Vision</Link>
             <Link to="/showcase" onClick={() => setIsMenuOpen(false)}>Showcase</Link>
+            <Link to="/podcast" onClick={() => setIsMenuOpen(false)}>Podcast</Link>
             <Link to="/" hash="cycle" onClick={() => setIsMenuOpen(false)}>How it Works</Link>
             <Link to="/" hash="spark" onClick={() => setIsMenuOpen(false)} className="text-[#D4A373]">Spark AI</Link>
             <Link to="/" hash="growth" onClick={() => setIsMenuOpen(false)}>Growth</Link>
