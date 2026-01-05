@@ -8,6 +8,7 @@ interface VideoModalProps {
 
 export function VideoModal({ videoId, onClose }: VideoModalProps) {
     const [scale, setScale] = useState(1)
+    const [isHoveringControls, setIsHoveringControls] = useState(false)
     const MIN_SCALE = 0.6
     const MAX_SCALE = 1.4
     const SCALE_STEP = 0.1
@@ -68,7 +69,15 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                             </svg>
                         </button>
 
-                        <div className="absolute bottom-0 left-1/2 -translate-x-1/2 z-10 flex gap-1.5 items-center pb-2">
+                        <motion.div
+                            className="absolute bottom-0 left-1/2 -translate-x-1/2 z-10 flex gap-1.5 items-center pb-2"
+                            onHoverStart={() => setIsHoveringControls(true)}
+                            onHoverEnd={() => setIsHoveringControls(false)}
+                            initial={{ opacity: 0, y: 4 }}
+                            animate={{ opacity: isHoveringControls ? 1 : 0, y: isHoveringControls ? 0 : 4 }}
+                            transition={{ duration: 0.2 }}
+                            pointerEvents={isHoveringControls ? 'auto' : 'none'}
+                        >
                             <motion.button
                                 whileHover={{ rotate: -3 }}
                                 whileTap={{ scale: 0.95 }}
@@ -101,7 +110,7 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M12 4v16m8-8H4" />
                                 </svg>
                             </motion.button>
-                        </div>
+                        </motion.div>
 
                         <iframe
                             src={`https://www.youtube.com/embed/${videoId}?autoplay=1`}
