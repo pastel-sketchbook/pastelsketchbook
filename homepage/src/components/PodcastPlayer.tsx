@@ -15,6 +15,13 @@ interface PodcastPlayerProps {
     episodeNumber: number;
 }
 
+function formatTime(seconds: number): string {
+    if (!isFinite(seconds) || seconds < 0) return "00:00";
+    const m = Math.floor(seconds / 60);
+    const s = Math.floor(seconds % 60);
+    return `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
+}
+
 export function PodcastPlayer({ audioSrc, transcriptSrc, title, episodeNumber }: PodcastPlayerProps) {
     const audioRef = useRef<HTMLAudioElement>(null);
     const scrollRef = useRef<HTMLDivElement>(null);
@@ -26,8 +33,14 @@ export function PodcastPlayer({ audioSrc, transcriptSrc, title, episodeNumber }:
     useEffect(() => {
         fetch(transcriptSrc)
             .then(res => res.json())
-            .then(data => {
-                setTranscript(data);
+            .then((data: any[]) => {
+                // Map the JSON structure (timestamp: [start, end]) to our internal structure
+                const formattedTranscript = data.map(item => ({
+                    text: item.text,
+                    start: item.timestamp[0],
+                    duration: (item.timestamp[1] || item.timestamp[0] + 5) - item.timestamp[0]
+                }));
+                setTranscript(formattedTranscript);
                 setIsLoading(false);
             })
             .catch(err => {
@@ -52,21 +65,25 @@ export function PodcastPlayer({ audioSrc, transcriptSrc, title, episodeNumber }:
         };
     }, []);
 
+    const activeIndex = transcript.findIndex(
+        seg => currentTime >= seg.start && currentTime < seg.start + seg.duration
+    );
+
     // Auto-scroll to active segment
     useEffect(() => {
-        if (!scrollRef.current) return;
+        if (!scrollRef.current || activeIndex === -1) return;
 
-        const activeSegment = transcript.findIndex(
-            seg => currentTime >= seg.start && currentTime < seg.start + seg.duration
-        );
+        const container = scrollRef.current;
+        const element = container.children[activeIndex] as HTMLElement;
 
-        if (activeSegment !== -1) {
-            const element = scrollRef.current.children[activeSegment] as HTMLElement;
-            if (element) {
-                element.scrollIntoView({ behavior: "smooth", block: "center" });
-            }
+        if (element) {
+            // Manual scroll to center the element within the container
+            // Position = Element Top relative to container - (Container Height / 2) + (Element Height / 2)
+            // Note: Since container is 'relative', element.offsetTop is already relative to the container.
+            const scrollTop = element.offsetTop - (container.clientHeight / 2) + (element.clientHeight / 2);
+            container.scrollTo({ top: scrollTop, behavior: "smooth" });
         }
-    }, [currentTime, transcript]);
+    }, [activeIndex]);
 
     const togglePlay = () => {
         if (audioRef.current) {
@@ -114,7 +131,7 @@ export function PodcastPlayer({ audioSrc, transcriptSrc, title, episodeNumber }:
 
                     <div
                         ref={scrollRef}
-                        className="h-[400px] overflow-y-auto space-y-4 pr-4 scrollbar-thin scrollbar-thumb-[#1B3022]/10 scrollbar-track-transparent"
+                        className="h-[400px] overflow-y-auto space-y-4 pr-4 scrollbar-thin scrollbar-thumb-[#1B3022]/10 scrollbar-track-transparent relative"
                     >
                         {isLoading ? (
                             <div className="text-center py-12 text-[#1B3022]/40 italic">Loading transcript...</div>
@@ -133,7 +150,7 @@ export function PodcastPlayer({ audioSrc, transcriptSrc, title, episodeNumber }:
                                     >
                                         <div className="flex gap-4">
                                             <span className="text-xs font-mono text-[#1B3022]/30 pt-1 min-w-[3rem]">
-                                                {new Date(seg.start * 1000).toISOString().substr(14, 5)}
+                                                {formatTime(seg.start)}
                                             </span>
                                             <p className={`text-lg font-serif leading-relaxed ${isActive ? "text-[#1B3022]" : "text-[#1B3022]/60"}`}>
                                                 {seg.text}

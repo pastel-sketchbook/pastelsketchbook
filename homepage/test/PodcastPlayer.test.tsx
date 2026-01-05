@@ -4,8 +4,8 @@ import { PodcastPlayer } from "../src/components/PodcastPlayer";
 
 // Mock fetch for transcript
 const mockTranscript = [
-    { start: 0, duration: 5, text: "Intro segment" },
-    { start: 5, duration: 10, text: "Second segment" }
+    { timestamp: [0, 5], text: "Intro segment" },
+    { timestamp: [5, 15], text: "Second segment" }
 ];
 
 global.fetch = vi.fn(() =>

@@ -1,4 +1,4 @@
-import { createRootRoute, Outlet, Link } from "@tanstack/react-router";
+import { createRootRoute, Outlet, Link, useLocation } from "@tanstack/react-router";
 import { TanStackRouterDevtools } from "@tanstack/react-router-devtools";
 import { useState, useEffect } from "react";
 import { ScrollToTop } from "../src/components/ui/ScrollToTop";
@@ -121,15 +121,38 @@ function Header() {
 
 function NavLink({ href, label, isAccent = false }: { href: string, label: string, isAccent?: boolean }) {
   const [to, hash] = href.split("#");
+  const location = useLocation();
+
+  // Check if active using the reactive location hook
+  const isCurrentPath = location.pathname === to && to !== '/';
+
   return (
     <Link
       to={to as "/"}
       hash={hash}
-      className={`transition-colors relative group ${isAccent ? 'text-[#D4A373] hover:text-[#D4A373]' : 'hover:text-[#1B3022]'}`}
+      className={`transition-colors relative group py-1 ${isAccent ? 'text-[#D4A373] hover:text-[#D4A373]' : 'hover:text-[#1B3022]'
+        } ${isCurrentPath ? 'text-[#1B3022] font-bold' : ''}`}
       aria-label={`${label} section`}
     >
       {label}
-      {!isAccent && <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-[#D4A373] transition-all group-hover:w-full"></span>}
+      {/* Standard hover underline for non-active */}
+      {!isAccent && !isCurrentPath && (
+        <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-[#D4A373] transition-all group-hover:w-full"></span>
+      )}
+
+      {/* Wavy active underline */}
+      {isCurrentPath && (
+        <span className="absolute -bottom-2 left-0 w-full h-2 text-[#E76F51]">
+          <svg width="100%" height="100%" viewBox="0 0 100 10" preserveAspectRatio="none">
+            <path d="M0 5 Q 5 0, 10 5 T 20 5 T 30 5 T 40 5 T 50 5 T 60 5 T 70 5 T 80 5 T 90 5 T 100 5"
+              stroke="currentColor"
+              strokeWidth="2"
+              fill="none"
+              className="animate-pulse" // Subtle animation
+            />
+          </svg>
+        </span>
+      )}
     </Link>
   );
 }
