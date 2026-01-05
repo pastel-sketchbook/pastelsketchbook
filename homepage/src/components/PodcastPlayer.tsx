@@ -105,11 +105,11 @@ export function PodcastPlayer({ audioSrc, transcriptSrc, title, episodeNumber }:
     return (
         <div className="max-w-4xl mx-auto p-6">
             <SketchBox className="bg-white p-8 md:p-12 relative overflow-hidden">
-                <div className="absolute top-0 right-[30px] p-2 opacity-80">
+                <div className="absolute top-9 md:top-6 right-4 md:right-[30px] p-2 opacity-80">
                     <img
                         src="/podcasts/microphone_v3.png"
                         alt="Microphone sketch"
-                        className="w-32 h-auto object-contain opacity-90"
+                        className="w-16 sm:w-20 md:w-24 lg:w-28 xl:w-32 h-auto object-contain opacity-90"
                     />
                 </div>
 
