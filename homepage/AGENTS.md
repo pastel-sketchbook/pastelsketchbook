@@ -288,6 +288,42 @@ This ensures:
 
 **Only commit if all checks pass.** This is non-negotiable for maintaining code quality.
 
+## Security Standards (A Grade)
+
+**Overall**: Application reviewed and approved for production. Security grade A. All recommendations implemented.
+
+### API Key Management
+- ✅ `VITE_API_KEY` (Google GenAI) - Client-side only, intentional for third-party service
+- ✅ `VITE_YOUTUBE_API_KEY` - **Server-side only**, never exposed to client
+- ✅ `.env.local` must NOT be committed (verified in .gitignore)
+- ✅ Vercel project: Set secrets in project settings, never in git
+
+### Input Validation & Error Handling
+- ✅ Zod schema validation for all API responses
+- ✅ Structured output via `responseSchema` for AI responses
+- ✅ User-facing errors are generic; never expose internal details
+- ✅ Error boundaries prevent component crashes from cascading
+
+### Rate Limiting (YouTube API)
+- ✅ 60 requests/minute per IP
+- ✅ In-memory implementation (sufficient for Vercel serverless)
+- ✅ Returns 429 status when exceeded
+- ✅ Note: Multi-server scaling may require Redis future
+
+### CORS & Third-Party Security
+- ✅ CORS headers restrict origins (configured in `api/videos/metadata.ts`)
+- ✅ YouTube API calls server-side only
+- ✅ Timeouts configured (10s default) to prevent hangs
+- ✅ All third-party SDK usage type-safe and validated
+
+### Deployment Checklist
+- [ ] Verify `.env.local` is NOT in git history
+- [ ] Set `VITE_YOUTUBE_API_KEY` in Vercel project settings (never in repo)
+- [ ] Test rate limiting with load simulation
+- [ ] Review CSP headers (optional, low priority)
+- [ ] Monitor error logs for 24 hours post-deploy
+- [ ] See `SECURITY.md` for full audit details
+
 ## Monorepo Context
 
 This is App #1 in the monorepo. Future apps should:

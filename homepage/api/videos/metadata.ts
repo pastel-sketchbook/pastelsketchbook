@@ -180,6 +180,31 @@ export default async function handler(
       .json({ error: 'Missing required parameter: ids (comma-separated video IDs)' })
   }
 
+  // Validate video ID format and count (YouTube IDs are 11 chars alphanumeric, dash, underscore)
+  const videoIdPattern = /^[a-zA-Z0-9_-]{11}$/
+  const idList = ids
+    .split(',')
+    .map((id) => id.trim())
+    .filter((id) => id.length > 0)
+
+  // Enforce reasonable limits
+  if (idList.length === 0) {
+    logApiError('Empty ids list', 'Invalid request')
+    return res.status(400).json({ error: 'At least one video ID required' })
+  }
+
+  if (idList.length > 50) {
+    logApiError('Too many video IDs', `Requested ${idList.length} IDs, max 50`)
+    return res.status(400).json({ error: 'Maximum 50 video IDs per request' })
+  }
+
+  // Validate each ID format
+  const invalidIds = idList.filter((id) => !videoIdPattern.test(id))
+  if (invalidIds.length > 0) {
+    logApiError('Invalid video ID format', `Invalid IDs: ${invalidIds.join(', ')}`)
+    return res.status(400).json({ error: 'Invalid video ID format' })
+  }
+
   const apiKey = process.env.VITE_YOUTUBE_API_KEY
 
   if (!apiKey) {
@@ -190,9 +215,8 @@ export default async function handler(
   const startTime = Date.now()
 
   try {
-    // Call YouTube Data API v3
-    const videoIds = ids.split(',').length
-    const youtubeUrl = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=${ids}&key=${apiKey}`
+    // Call YouTube Data API v3 with validated IDs
+    const youtubeUrl = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=${idList.join(',')}&key=${apiKey}`
 
     const response = await fetch(youtubeUrl)
 
@@ -202,7 +226,7 @@ export default async function handler(
         statusCode: response.status,
         statusText: response.statusText,
         durationMs: duration,
-        videoCount: videoIds
+        videoCount: idList.length
       })
       return res.status(response.status).json({ error: 'YouTube API request failed' })
     }
@@ -235,10 +259,10 @@ export default async function handler(
     const duration = Date.now() - startTime
     logApiError('Error fetching YouTube metadata', error, {
       durationMs: duration,
-      videoCount: ids.split(',').length
+      videoCount: idList.length
     })
     return res.status(500).json({
-      error: error instanceof Error ? error.message : 'Internal server error'
+      error: 'Internal server error'
     })
   }
 }
