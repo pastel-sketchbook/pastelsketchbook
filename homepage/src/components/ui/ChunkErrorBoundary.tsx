@@ -1,4 +1,4 @@
-import React, { Component, ErrorInfo, ReactNode, Suspense } from 'react'
+import React, { Component, ErrorInfo, ReactNode } from 'react'
 import { SketchBox } from './SketchBox'
 import { logger, MetricsLogger } from '../../lib/logger'
 import { v7 as uuidv7 } from 'uuid'
@@ -13,7 +13,7 @@ interface Props {
 interface State {
   hasError: boolean
   retryCount: number
-  isLoading: boolean
+  isRetrying: boolean
   errorId: string
 }
 
@@ -29,7 +29,7 @@ export class ChunkErrorBoundary extends Component<Props, State> {
   public state: State = {
     hasError: false,
     retryCount: 0,
-    isLoading: false,
+    isRetrying: false,
     errorId: ''
   }
 
@@ -60,7 +60,7 @@ export class ChunkErrorBoundary extends Component<Props, State> {
     return {
       hasError: true,
       retryCount: 0,
-      isLoading: false,
+      isRetrying: false,
       errorId: uuidv7()
     }
   }
@@ -105,13 +105,13 @@ export class ChunkErrorBoundary extends Component<Props, State> {
       backoffMs
     })
 
-    this.setState({ isLoading: true })
+    this.setState({ isRetrying: true })
 
     this.retryTimeout = setTimeout(() => {
       this.setState({
         hasError: false,
         retryCount: nextRetry,
-        isLoading: false
+        isRetrying: false
       })
       this.props.onRetry?.()
     }, backoffMs)
@@ -122,7 +122,7 @@ export class ChunkErrorBoundary extends Component<Props, State> {
   }
 
   public render() {
-    if (this.state.isLoading) {
+    if (this.state.isRetrying) {
       return (
         <div className="flex items-center justify-center min-h-screen bg-[#FAF9F6]">
           <div className="text-center">
@@ -130,10 +130,10 @@ export class ChunkErrorBoundary extends Component<Props, State> {
               <div
                 className="w-8 h-8 border-4 border-[#5F7D61] border-t-[#E76F51] rounded-full animate-spin"
                 aria-live="polite"
-                aria-label="Loading page content"
+                aria-label="Retrying page load"
               />
             </div>
-            <p className="text-[#1B3022] font-serif text-sm">Loading page...</p>
+            <p className="text-[#1B3022] font-serif text-sm">Retrying load...</p>
           </div>
         </div>
       )
