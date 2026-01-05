@@ -11,6 +11,13 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
     const MIN_SCALE = 0.6
     const MAX_SCALE = 1.4
     const SCALE_STEP = 0.1
+    const MIN_OPACITY = 0.15
+    const MAX_OPACITY = 0.6
+
+    // Calculate background opacity based on scale
+    // Smaller window = more transparent (less opaque = more blur visible)
+    // Larger window = more opaque (darker overlay)
+    const backgroundOpacity = MIN_OPACITY + ((scale - MIN_SCALE) / (MAX_SCALE - MIN_SCALE)) * (MAX_OPACITY - MIN_OPACITY)
 
     useEffect(() => {
         const handleEsc = (e: KeyboardEvent) => {
@@ -38,7 +45,11 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                     className="fixed inset-0 z-[100] flex items-center justify-center p-4 md:p-8"
                     onClick={onClose}
                 >
-                    <div className="absolute inset-0 bg-[#1B3022]/40 backdrop-blur-xl"></div>
+                    <motion.div
+                        className="absolute inset-0 backdrop-blur-xl"
+                        animate={{ backgroundColor: `rgba(27, 48, 34, ${backgroundOpacity})` }}
+                        transition={{ duration: 0.3 }}
+                    ></motion.div>
                     <motion.div
                         initial={{ opacity: 0, scale: 0.9, y: 20 }}
                         animate={{ opacity: 1, scale: 1, y: 0 }}
