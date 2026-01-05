@@ -1,5 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
+import { useQuery } from "@tanstack/react-query";
 import { VideoGallery } from "../src/components/VideoGallery";
 import { VideoModal } from "../src/components/VideoModal";
 import { motion, AnimatePresence } from "framer-motion";
@@ -8,41 +9,74 @@ export const Route = createFileRoute("/showcase")({
     component: Showcase,
 });
 
-const koreaItems = [
-    { id: "V2cZl5s4EKU", title: "스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작", date: "2024-12-26", views: 17 },
-    { id: "L9sxbq8ugoU", title: "Tu Viaje al Corazón de Corea", date: "2025-01-01", views: 3 },
-    { id: "vNHblhm9oQo", title: "Mi Cuaderno de Busan", date: "2025-01-01", views: 6 },
-    { id: "4h84JgKkt94", title: "Gyeongju: El Museo Sin Muros", date: "2025-01-02", views: 7 },
-    { id: "CASZX56r-tk", title: "Mi Cuaderno de Viaje: Andong", date: "2025-01-03", views: 9 },
-    { id: "EvcUSPWkOA8", title: "Jeonju y Gochang: Apuntes de Corea", date: "2025-01-04", views: 3 },
-    { id: "JlPl9MskqJM", title: "Mi Cuaderno de Viaje: Yeosu", date: "2025-01-04", views: 6 },
-    { id: "drVBXipEOAs", title: "Jinju y Jirisan: el Valor a la Sabiduría", date: "2025-01-04", views: 4 },
+const koreaVideos = [
+    "V2cZl5s4EKU", "L9sxbq8ugoU", "vNHblhm9oQo", "4h84JgKkt94",
+    "CASZX56r-tk", "EvcUSPWkOA8", "JlPl9MskqJM", "drVBXipEOAs"
 ];
 
-const financeItems = [
-    { id: "tPDFgVAp4c4", title: "Breakout Stars and Dominant Titans", date: "2024-12-26", views: 44 },
-    { id: "nnL78ZVifZU", title: "Reading the Market's Story", date: "2024-12-27", views: 15 },
-    { id: "MDNRiJN7aEg", title: "An Ambitious Ascent", date: "2024-12-29", views: 10 },
-    { id: "KBfVy5-M-5k", title: "The Retirement Red Zone", date: "2024-12-31", views: 15 },
-    { id: "EMXUbohWsWs", title: "The 2026 Lifecycle ETF Playbook", date: "2025-01-03", views: 5 },
+const financeVideos = [
+    "tPDFgVAp4c4", "nnL78ZVifZU", "MDNRiJN7aEg", "KBfVy5-M-5k", "EMXUbohWsWs"
 ];
 
-const kubernetesItems = [
-    { id: "8ycnldvJmuA", title: "The Blueprint for Enterprise AI on Azure", date: "2025-01-03", views: 7 },
-    { id: "ftODZr2_V5Q", title: "Kubernetes Version Upgrade Strategy", date: "2024-12-26", views: 25 },
+const kubernetesVideos = [
+    "8ycnldvJmuA", "ftODZr2_V5Q"
 ];
 
-const developmentItems = [
-    { id: "Xhq99-YHXCY", title: "Professional Al Agent Usage via the CLI", date: "2025-01-02", views: 18 },
-    { id: "PNFlYx8HiOM", title: "The Art of Git Gardening", date: "2024-12-31", views: 3 },
-    { id: "pzVOjl6mOD4", title: "The Architect's Guide to Modern Token Security", date: "2024-12-30", views: 21 },
-    { id: "olsB3bJxA2A", title: "Let's check about Zig", date: "2024-12-28", views: 308 },
-    { id: "IF5sNQH-01c", title: "NotebookLM's Intelligence Flow", date: "2024-12-28", views: 40 },
-    { id: "2kvYb2pVe5o", title: "From Blueprint to Battlefield", date: "2024-12-27", views: 30 },
-    { id: "TLqdeHlAo3A", title: "From Bottlenecks to Breakthroughs:", date: "2024-12-27", views: 22 },
+const developmentVideos = [
+    "Xhq99-YHXCY", "PNFlYx8HiOM", "pzVOjl6mOD4", "olsB3bJxA2A",
+    "IF5sNQH-01c", "2kvYb2pVe5o", "TLqdeHlAo3A"
 ];
+
+const videoCategories: Record<string, string> = {};
+
+koreaVideos.forEach(id => videoCategories[id] = "korea");
+financeVideos.forEach(id => videoCategories[id] = "finance");
+kubernetesVideos.forEach(id => videoCategories[id] = "kubernetes");
+developmentVideos.forEach(id => videoCategories[id] = "development");
+
+const allVideoIds = [...koreaVideos, ...financeVideos, ...kubernetesVideos, ...developmentVideos];
 
 import { VideoSearch } from "../src/components/VideoSearch";
+
+async function fetchVideoMetadata() {
+    const response = await fetch(`http://localhost:3001/api/videos?ids=${allVideoIds.join(",")}`);
+    if (!response.ok) throw new Error("Failed to fetch video metadata");
+    return response.json();
+}
+
+function parseYouTubeDate(dateString: string): number {
+    const now = new Date();
+    const lowerDate = dateString.toLowerCase();
+
+    if (lowerDate.includes("day")) {
+        const days = parseInt(lowerDate) || 0;
+        return new Date(now.getTime() - days * 24 * 60 * 60 * 1000).getTime();
+    }
+    if (lowerDate.includes("week")) {
+        const weeks = parseInt(lowerDate) || 0;
+        return new Date(now.getTime() - weeks * 7 * 24 * 60 * 60 * 1000).getTime();
+    }
+    if (lowerDate.includes("month")) {
+        const months = parseInt(lowerDate) || 0;
+        const result = new Date(now);
+        result.setMonth(result.getMonth() - months);
+        return result.getTime();
+    }
+    if (lowerDate.includes("year")) {
+        const years = parseInt(lowerDate) || 0;
+        const result = new Date(now);
+        result.setFullYear(result.getFullYear() - years);
+        return result.getTime();
+    }
+
+    const parsed = new Date(dateString);
+    return isNaN(parsed.getTime()) ? 0 : parsed.getTime();
+}
+
+function formatYouTubeDate(dateString: string): string {
+    const timestamp = parseYouTubeDate(dateString);
+    return new Date(timestamp).toISOString();
+}
 
 function Showcase() {
     const [activeTab, setActiveTab] = useState<"korea" | "finance" | "kubernetes" | "development" | "all">("all");
@@ -50,12 +84,16 @@ function Showcase() {
     const [searchQuery, setSearchQuery] = useState("");
     const [sortBy, setSortBy] = useState<"date" | "views">("date");
 
-    const allItems = [
-        ...koreaItems.map(item => ({ ...item, category: "korea" })),
-        ...financeItems.map(item => ({ ...item, category: "finance" })),
-        ...kubernetesItems.map(item => ({ ...item, category: "kubernetes" })),
-        ...developmentItems.map(item => ({ ...item, category: "development" })),
-    ];
+    const { data: videoMetadata = [], isLoading } = useQuery({
+        queryKey: ["videoMetadata"],
+        queryFn: fetchVideoMetadata,
+    });
+
+    const allItems = videoMetadata.map((item: any) => ({
+        ...item,
+        date: formatYouTubeDate(item.date),
+        category: videoCategories[item.id]
+    }));
 
     const filteredItems = (activeTab === "all"
         ? allItems
@@ -64,7 +102,7 @@ function Showcase() {
         item.title.toLowerCase().includes(searchQuery.toLowerCase())
     ).sort((a, b) => {
         if (sortBy === "date") {
-            return new Date(b.date).getTime() - new Date(a.date).getTime();
+            return parseYouTubeDate((b as any).date) - parseYouTubeDate((a as any).date);
         }
         return (b as any).views - (a as any).views;
     });
@@ -148,7 +186,12 @@ function Showcase() {
                             exit={{ opacity: 0, x: -20 }}
                             transition={{ duration: 0.3 }}
                         >
-                            {filteredItems.length > 0 ? (
+                            {isLoading ? (
+                                <div className="text-center py-20">
+                                    <div className="text-6xl mb-6 animate-pulse">🌱</div>
+                                    <p className="text-xl font-serif italic text-[#1B3022]/40">Growing knowledge seeds...</p>
+                                </div>
+                            ) : filteredItems.length > 0 ? (
                                 <VideoGallery
                                     items={filteredItems}
                                     onVideoSelect={setSelectedVideoId}

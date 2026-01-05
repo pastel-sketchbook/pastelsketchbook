@@ -71,7 +71,7 @@ export function VideoGallery({ items, onVideoSelect, title, description }: Video
                                 {item.title}
                             </h4>
                             {item.date && (
-                                <span className="text-[8px] text-[#1B3022]/30 font-serif italic whitespace-nowrap pt-0.5">
+                                <span className="text-[12px] text-[#D4A373] font-semibold font-serif italic whitespace-nowrap pt-0.5">
                                     {new Date(item.date).toLocaleDateString(undefined, { month: 'short', year: 'numeric' })}
                                 </span>
                             )}
