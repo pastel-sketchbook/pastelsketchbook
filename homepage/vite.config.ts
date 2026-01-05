@@ -15,5 +15,21 @@ export default defineConfig(() => {
         '@': path.resolve(__dirname, '.'),
       },
     },
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks: {
+            // Separate chunks for better code splitting
+            'recharts-chunk': ['recharts'],
+            'genai-chunk': ['@google/genai'],
+            'react-router-chunk': ['@tanstack/react-router'],
+            'framer-motion-chunk': ['framer-motion'],
+          },
+        },
+      },
+      // Show chunk info during build
+      reportCompressedSize: true,
+      chunkSizeWarningLimit: 600,
+    },
   }
 })

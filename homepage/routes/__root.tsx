@@ -1,14 +1,14 @@
-import { createRootRoute, Outlet, Link, useLocation } from "@tanstack/react-router";
-import { useState, useEffect } from "react";
-import { motion } from "framer-motion";
-import { ScrollToTop } from "../src/components/ui/ScrollToTop";
+import { createRootRoute, Outlet, Link, useLocation } from "@tanstack/react-router"
+import { useState, useEffect, Suspense } from "react"
+import { motion } from "framer-motion"
+import { ScrollToTop } from "../src/components/ui/ScrollToTop"
 
 export const Route = createRootRoute({
   component: RootComponent,
-});
+})
 
 function RootComponent() {
-  const location = useLocation();
+  const location = useLocation()
 
   return (
     <>
@@ -28,22 +28,42 @@ function RootComponent() {
       </a>
       <div className="min-h-screen overflow-x-hidden bg-[#FAF9F6] text-[#1B3022] selection:bg-[#D4A373]/30">
         <Header />
-        <motion.main
-          id="main-content"
-          tabIndex={-1}
-          key={location.pathname}
-          initial={{ opacity: 0, y: 10 }}
-          animate={{ opacity: 1, y: 0 }}
-          exit={{ opacity: 0, y: -10 }}
-          transition={{ duration: 0.4 }}
+        <Suspense
+          fallback={
+            <motion.main
+              id="main-content"
+              tabIndex={-1}
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ duration: 0.3 }}
+              className="min-h-screen flex items-center justify-center"
+            >
+              <div className="text-center">
+                <div className="inline-flex items-center justify-center w-12 h-12 mb-4">
+                  <div className="w-8 h-8 border-4 border-[#5F7D61] border-t-[#E76F51] rounded-full animate-spin" />
+                </div>
+                <p className="text-[#1B3022] font-serif">Loading...</p>
+              </div>
+            </motion.main>
+          }
         >
-          <Outlet />
-        </motion.main>
+          <motion.main
+            id="main-content"
+            tabIndex={-1}
+            key={location.pathname}
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -10 }}
+            transition={{ duration: 0.4 }}
+          >
+            <Outlet />
+          </motion.main>
+        </Suspense>
         <Footer />
         <ScrollToTop />
       </div>
     </>
-  );
+  )
 }
 
 function Header() {

@@ -1,9 +1,11 @@
 /**
  * Structured logging utility for monitoring and debugging
  * Provides consistent log format with timestamps and metadata
+ * Includes specialized tracking for chunk loading, API calls, and errors
  */
 
 export type LogLevel = 'debug' | 'info' | 'warn' | 'error'
+export type ErrorType = 'chunk_load' | 'runtime' | 'api' | 'network' | 'unknown'
 
 export interface LogEntry {
   timestamp: string
@@ -66,8 +68,10 @@ class Logger {
   }
 
   error(message: string, error?: Error | string, metadata?: Record<string, any>) {
+    const errorType = this.detectErrorType(error)
     const entry = this.format('error', message, {
       ...metadata,
+      errorType,
       ...(error instanceof Error && {
         errorName: error.name,
         errorMessage: error.message,
@@ -76,6 +80,20 @@ class Logger {
       ...(typeof error === 'string' && { error })
     })
     this.output(entry)
+  }
+
+  private detectErrorType(error?: Error | string): ErrorType {
+    if (!error) return 'unknown'
+    const message = error instanceof Error ? error.message : error
+    
+    if (message.includes('Failed to fetch') || message.includes('NetworkError'))
+      return 'network'
+    if (message.includes('chunk') || message.includes('dynamic import'))
+      return 'chunk_load'
+    if (message.includes('API') || message.includes('fetch'))
+      return 'api'
+    
+    return 'runtime'
   }
 }
 
@@ -132,5 +150,35 @@ export class MetricsLogger {
         percentUsed: `${percentUsed}%`
       })
     }
+  }
+
+  recordChunkLoadStart(chunkName: string) {
+    logger.debug('Chunk load started', {
+      chunk: chunkName,
+      timestamp: Date.now()
+    })
+  }
+
+  recordChunkLoadSuccess(chunkName: string, duration: number) {
+    logger.info('Chunk loaded successfully', {
+      chunk: chunkName,
+      durationMs: duration
+    })
+  }
+
+  recordChunkLoadError(chunkName: string, error: Error, retry?: number) {
+    logger.error('Chunk load failed', error, {
+      chunk: chunkName,
+      errorType: 'chunk_load',
+      attemptNumber: retry || 1,
+      userAgent: typeof navigator !== 'undefined' ? navigator.userAgent : 'unknown'
+    })
+  }
+
+  recordErrorBoundaryActivation(componentName: string, error: Error) {
+    logger.error('Error boundary activated', error, {
+      component: componentName,
+      errorType: 'runtime'
+    })
   }
 }
