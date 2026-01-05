@@ -4,37 +4,11 @@ import { useQuery } from "@tanstack/react-query";
 import { VideoGallery } from "../src/components/VideoGallery";
 import { VideoModal } from "../src/components/VideoModal";
 import { motion, AnimatePresence } from "framer-motion";
+import { allVideoIds, videoCategories } from "../src/config/videos";
 
 export const Route = createFileRoute("/showcase")({
     component: Showcase,
 });
-
-const koreaVideos = [
-    "V2cZl5s4EKU", "L9sxbq8ugoU", "vNHblhm9oQo", "4h84JgKkt94",
-    "CASZX56r-tk", "EvcUSPWkOA8", "JlPl9MskqJM", "drVBXipEOAs"
-];
-
-const financeVideos = [
-    "tPDFgVAp4c4", "nnL78ZVifZU", "MDNRiJN7aEg", "KBfVy5-M-5k", "EMXUbohWsWs"
-];
-
-const kubernetesVideos = [
-    "8ycnldvJmuA", "ftODZr2_V5Q"
-];
-
-const developmentVideos = [
-    "Xhq99-YHXCY", "PNFlYx8HiOM", "pzVOjl6mOD4", "olsB3bJxA2A",
-    "IF5sNQH-01c", "2kvYb2pVe5o", "TLqdeHlAo3A"
-];
-
-const videoCategories: Record<string, string> = {};
-
-koreaVideos.forEach(id => videoCategories[id] = "korea");
-financeVideos.forEach(id => videoCategories[id] = "finance");
-kubernetesVideos.forEach(id => videoCategories[id] = "kubernetes");
-developmentVideos.forEach(id => videoCategories[id] = "development");
-
-const allVideoIds = [...koreaVideos, ...financeVideos, ...kubernetesVideos, ...developmentVideos];
 
 import { VideoSearch } from "../src/components/VideoSearch";
 

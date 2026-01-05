@@ -12,45 +12,7 @@
 
 import { writeFileSync } from 'fs'
 import { resolve } from 'path'
-
-// Video IDs from showcase.tsx
-const koreaVideos = [
-  'V2cZl5s4EKU',
-  'L9sxbq8ugoU',
-  'vNHblhm9oQo',
-  '4h84JgKkt94',
-  'CASZX56r-tk',
-  'EvcUSPWkOA8',
-  'JlPl9MskqJM',
-  'drVBXipEOAs'
-]
-
-const financeVideos = [
-  'tPDFgVAp4c4',
-  'nnL78ZVifZU',
-  'MDNRiJN7aEg',
-  'KBfVy5-M-5k',
-  'EMXUbohWsWs'
-]
-
-const kubernetesVideos = ['8ycnldvJmuA', 'ftODZr2_V5Q']
-
-const developmentVideos = [
-  'Xhq99-YHXCY',
-  'PNFlYx8HiOM',
-  'pzVOjl6mOD4',
-  'olsB3bJxA2A',
-  'IF5sNQH-01c',
-  '2kvYb2pVe5o',
-  'TLqdeHlAo3A'
-]
-
-const allVideoIds = [
-  ...koreaVideos,
-  ...financeVideos,
-  ...kubernetesVideos,
-  ...developmentVideos
-]
+import { allVideoIds } from '../src/config/videos'
 
 async function generateMetadata() {
   const apiKey = process.env.VITE_YOUTUBE_API_KEY
