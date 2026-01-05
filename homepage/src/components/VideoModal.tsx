@@ -68,23 +68,23 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                             </svg>
                         </button>
 
-                        <div className="absolute bottom-4 left-4 z-10 flex gap-2 items-center">
+                        <div className="absolute bottom-0 left-1/2 -translate-x-1/2 z-10 flex gap-1.5 items-center pb-2">
                             <motion.button
                                 whileHover={{ rotate: -3 }}
                                 whileTap={{ scale: 0.95 }}
                                 onClick={handleZoomOut}
                                 disabled={scale <= MIN_SCALE}
-                                className="w-9 h-9 flex items-center justify-center bg-white text-[#1B3022] shadow-md hover:shadow-lg transition-all sketch-border border-[#1B3022]/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
+                                className="w-7 h-7 flex items-center justify-center bg-white text-[#1B3022] shadow-sm hover:shadow-md transition-all sketch-border border-[#1B3022]/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
                                 aria-label="Decrease video size"
                             >
-                                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M20 12H4" />
                                 </svg>
                             </motion.button>
 
                             <motion.div
                                 animate={{ scale: scale >= 1 ? 1.05 : 0.95 }}
-                                className="text-xs font-black text-[#1B3022] bg-white px-3 py-1.5 rounded-full shadow-md border border-[#1B3022]/20"
+                                className="text-[10px] font-black text-[#1B3022] bg-white px-2.5 py-1 rounded-full shadow-sm border border-[#1B3022]/20"
                             >
                                 {Math.round(scale * 100)}%
                             </motion.div>
@@ -94,10 +94,10 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                                 whileTap={{ scale: 0.95 }}
                                 onClick={handleZoomIn}
                                 disabled={scale >= MAX_SCALE}
-                                className="w-9 h-9 flex items-center justify-center bg-white text-[#1B3022] shadow-md hover:shadow-lg transition-all sketch-border border-[#1B3022]/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
+                                className="w-7 h-7 flex items-center justify-center bg-white text-[#1B3022] shadow-sm hover:shadow-md transition-all sketch-border border-[#1B3022]/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
                                 aria-label="Increase video size"
                             >
-                                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M12 4v16m8-8H4" />
                                 </svg>
                             </motion.button>
