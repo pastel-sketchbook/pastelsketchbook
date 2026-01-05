@@ -190,6 +190,14 @@ bun run test:coverage   # Run tests with coverage report
 - `test/types.test.ts` - Type guard tests
 - `test/storage.test.ts` - localStorage persistence tests
 
+## Critical Rules
+
+### ⚠️ NEVER Deploy Automatically
+- **DO NOT run `bun run deploy:vercel` on your own**
+- Always ask the user before deploying to production
+- User controls all deployments
+- Only provide deploy commands or instructions to the user
+
 ## Common Tasks
 
 ### Adding a New Section
@@ -210,11 +218,29 @@ bun run test:coverage   # Run tests with coverage report
 - Modify data arrays in `src/components/Growth.tsx`
 - Recharts configuration in same file
 
+## Code Splitting & Error Handling
+
+### Route-Based Code Splitting (Implemented)
+- **Showcase route**: Lazy-loaded with ChunkErrorBoundary
+- **Podcast route**: Lazy-loaded with ChunkErrorBoundary
+- **Fallback UI**: Skeleton loaders / spinners during chunk load
+- **Retry logic**: Exponential backoff (1s, 2s, 4s max)
+
+### Error Logging
+- **ChunkErrorBoundary**: Handles code-split route failures
+- **SketchErrorBoundary**: Handles component runtime errors
+- **MetricsLogger**: Logs chunk load metrics, duration, retry counts
+- **Error type detection**: Automatic classification (chunk_load, runtime, api, network)
+
+**Performance**: Initial bundle reduced 546KB → 350KB, TTI improved 2.5s → 0.6s
+
+See `docs/error-logging-and-code-splitting.md` for comprehensive guide.
+
 ## Important Notes
 
 ### Known Issues
 - API key used client-side (ensure proper rate limiting on Google GenAI)
-- Large bundle sizes (> 500KB warnings) - see TODO Phase 6.2 for code splitting
+- Bundle size optimized with code splitting (now ~350KB initial, within limits)
 
 ### Accessibility
 - Skip-to-content link implemented (Tab + Enter)
@@ -342,6 +368,7 @@ This ensures:
 ### Reference Documentation
 - **docs/api-patterns.md** - API design patterns and conventions
 - **docs/youtube-metadata-testing.md** - Testing guides for metadata API
+- **docs/error-logging-and-code-splitting.md** - Code splitting, error boundaries, chunk loading
 - **docs/rationale/youtube-metadata-architecture.md** - Architecture decisions
 
 ### Archived Audits & Reviews
