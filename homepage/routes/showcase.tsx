@@ -1,10 +1,11 @@
-import { createFileRoute } from "@tanstack/react-router";
-import { useState } from "react";
-import { useQuery } from "@tanstack/react-query";
-import { VideoGallery } from "../src/components/VideoGallery";
-import { VideoModal } from "../src/components/VideoModal";
-import { motion, AnimatePresence } from "framer-motion";
-import { allVideoIds, videoCategories } from "../src/config/videos";
+import { createFileRoute } from "@tanstack/react-router"
+import { useState } from "react"
+import { useQuery } from "@tanstack/react-query"
+import { VideoGallery } from "../src/components/VideoGallery"
+import { VideoModal } from "../src/components/VideoModal"
+import { motion, AnimatePresence } from "framer-motion"
+import { allVideoIds, videoCategories } from "../src/config/videos"
+import { logger } from "../src/lib/logger"
 
 export const Route = createFileRoute("/showcase")({
     component: Showcase,
@@ -12,42 +13,67 @@ export const Route = createFileRoute("/showcase")({
 
 import { VideoSearch } from "../src/components/VideoSearch";
 
-async function fetchVideoMetadata() {
-    const ids = allVideoIds.join(',');
+interface MetadataResult {
+    videos: any[]
+    source: 'api' | 'fallback' | 'placeholder'
+    error?: string
+}
+
+async function fetchVideoMetadata(): Promise<MetadataResult> {
+    const ids = allVideoIds.join(',')
 
     try {
         // 1. Try Vercel serverless API (server-side YouTube API call with caching)
-        const apiResponse = await fetch(`/api/videos/metadata?ids=${ids}`);
+        const apiResponse = await fetch(`/api/videos/metadata?ids=${ids}`)
 
         if (apiResponse.ok) {
-            const data = await apiResponse.json();
-            console.log(`Fetched metadata for ${data.videos.length} videos`);
-            return data.videos;
+            const data = await apiResponse.json()
+            logger.info('Fetched metadata from API', {
+                videoCount: data.videos.length,
+                source: 'api'
+            })
+            return { videos: data.videos, source: 'api' }
         }
 
-        throw new Error(`API returned ${apiResponse.status}`);
+        if (apiResponse.status === 429) {
+            throw new Error('API rate limited - too many requests')
+        }
+
+        throw new Error(`API returned ${apiResponse.status}`)
     } catch (error) {
-        console.warn('API route failed, falling back to static metadata:', error);
+        const errorMsg = error instanceof Error ? error.message : String(error)
+        logger.warn('API route failed, falling back to static metadata', {
+            error: errorMsg
+        })
 
         // 2. Fallback: static JSON file
         try {
-            const fallbackResponse = await fetch('/videos-metadata.json');
+            const fallbackResponse = await fetch('/videos-metadata.json')
             if (fallbackResponse.ok) {
-                const data = await fallbackResponse.json();
-                console.log(`Using fallback metadata for ${data.videos.length} videos`);
-                return data.videos;
+                const data = await fallbackResponse.json()
+                logger.info('Using fallback metadata', {
+                    videoCount: data.videos.length,
+                    source: 'fallback'
+                })
+                return { videos: data.videos, source: 'fallback', error: errorMsg }
             }
         } catch (fallbackError) {
-            console.error('Fallback metadata also failed:', fallbackError);
+            const fallbackErrorMsg =
+                fallbackError instanceof Error ? fallbackError.message : String(fallbackError)
+            logger.error('Fallback metadata also failed', fallbackErrorMsg)
         }
 
-        // 3. Last resort: return empty array with placeholder data
-        return allVideoIds.map(videoId => ({
-            id: videoId,
-            title: 'Unable to load metadata',
-            views: 0,
-            date: new Date().toISOString()
-        }));
+        // 3. Last resort: return placeholder data
+        return {
+            videos: allVideoIds.map((videoId) => ({
+                id: videoId,
+                title: 'Metadata unavailable',
+                views: 0,
+                date: new Date().toISOString()
+            })),
+            source: 'placeholder',
+            error: 'No metadata source available'
+        }
     }
 }
 
@@ -57,24 +83,28 @@ function formatYouTubeDate(dateString: string): string {
 }
 
 function Showcase() {
-    const [activeTab, setActiveTab] = useState<"korea" | "finance" | "kubernetes" | "development" | "all">("all");
-    const [selectedVideoId, setSelectedVideoId] = useState<string | null>(null);
-    const [searchQuery, setSearchQuery] = useState("");
-    const [sortBy, setSortBy] = useState<"date" | "views">("date");
+    const [activeTab, setActiveTab] = useState<"korea" | "finance" | "kubernetes" | "development" | "all">("all")
+    const [selectedVideoId, setSelectedVideoId] = useState<string | null>(null)
+    const [searchQuery, setSearchQuery] = useState("")
+    const [sortBy, setSortBy] = useState<"date" | "views">("date")
 
     interface VideoItem {
-        id: string;
-        title: string;
-        views: number;
-        date: string;
-        category?: string;
+        id: string
+        title: string
+        views: number
+        date: string
+        category?: string
     }
 
-    const { data: videoMetadata = [], isLoading } = useQuery({
-        queryKey: ["videoMetadata"],
+    const { data: result, isLoading } = useQuery({
+        queryKey: ['videoMetadata'],
         queryFn: fetchVideoMetadata,
-        staleTime: 3600000,
-    });
+        staleTime: 3600000
+    })
+
+    const videoMetadata = result?.videos || []
+    const metadataSource = result?.source || 'unknown'
+    const metadataError = result?.error
 
     const allItems: VideoItem[] = videoMetadata.map((item: any) => ({
         ...item,
@@ -104,6 +134,23 @@ function Showcase() {
 
     return (
         <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
+            {metadataError && (
+                <div className="max-w-6xl mx-auto mb-6">
+                    <div className="bg-amber-50 border border-amber-200 rounded-lg p-4 text-sm text-amber-900">
+                        {metadataSource === 'fallback' && (
+                            <>
+                                <strong>⚠️ Limited data:</strong> Using cached metadata. Some view counts may be outdated.
+                            </>
+                        )}
+                        {metadataSource === 'placeholder' && (
+                            <>
+                                <strong>⚠️ Metadata unavailable:</strong> Videos are loading but detailed information is
+                                currently unavailable. Please refresh the page.
+                            </>
+                        )}
+                    </div>
+                </div>
+            )}
             <div className="max-w-6xl mx-auto">
                 <header className="text-center mb-16">
                     <motion.h1

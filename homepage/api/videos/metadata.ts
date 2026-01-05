@@ -1,10 +1,40 @@
 import { VercelRequest, VercelResponse } from '@vercel/node'
 
 /**
+ * Simple structured logging for API monitoring
+ * Used in serverless environment without importing client logger
+ */
+function logApiCall(message: string, metadata?: Record<string, any>) {
+  const logEntry = {
+    timestamp: new Date().toISOString(),
+    level: 'info',
+    message,
+    ...(metadata && { metadata })
+  }
+  console.log(JSON.stringify(logEntry))
+}
+
+function logApiError(message: string, error?: Error | string, metadata?: Record<string, any>) {
+  const logEntry = {
+    timestamp: new Date().toISOString(),
+    level: 'error',
+    message,
+    ...metadata,
+    ...(error instanceof Error && {
+      errorMessage: error.message,
+      errorStack: error.stack
+    }),
+    ...(typeof error === 'string' && { error })
+  }
+  console.error(JSON.stringify(logEntry))
+}
+
+/**
  * Vercel Serverless Function: YouTube Video Metadata
  *
  * Fetches video metadata (title, view count, publish date) from YouTube Data API v3
  * Caches responses for 6 hours to minimize quota usage
+ * Includes rate limiting to prevent quota exhaustion
  *
  * @query ids - Comma-separated YouTube video IDs (e.g., "V2cZl5s4EKU,L9sxbq8ugoU")
  * @returns { videos: [{ id, title, views, date }] }
@@ -15,6 +45,10 @@ import { VercelRequest, VercelResponse } from '@vercel/node'
  * YouTube API Quota:
  * - Free tier: 10,000 units/day
  * - This endpoint uses 1 unit per batch request (all IDs in one call)
+ *
+ * Rate Limiting:
+ * - 60 requests per minute per IP
+ * - Returns 429 if exceeded
  */
 
 interface YouTubeVideo {
@@ -30,6 +64,58 @@ interface ApiResponse {
   timestamp: string
 }
 
+/**
+ * Simple in-memory rate limiting
+ * Tracks request timestamps per IP address
+ */
+const rateLimitMap = new Map<string, number[]>()
+const RATE_LIMIT_WINDOW_MS = 60000 // 1 minute
+const RATE_LIMIT_MAX_REQUESTS = 60
+
+function getRateLimitKey(req: VercelRequest): string {
+  // Get IP from x-forwarded-for (Vercel) or x-real-ip (nginx) or fallback to connection.remoteAddress
+  const forwarded = req.headers['x-forwarded-for']
+  if (typeof forwarded === 'string') {
+    return forwarded.split(',')[0].trim()
+  }
+  const realIp = req.headers['x-real-ip']
+  if (typeof realIp === 'string') {
+    return realIp
+  }
+  return req.socket?.remoteAddress || 'unknown'
+}
+
+function checkRateLimit(ip: string): boolean {
+  const now = Date.now()
+  const requests = rateLimitMap.get(ip) || []
+
+  // Filter out old requests outside the window
+  const validRequests = requests.filter((t) => now - t < RATE_LIMIT_WINDOW_MS)
+
+  // Check if limit exceeded
+  if (validRequests.length >= RATE_LIMIT_MAX_REQUESTS) {
+    return false
+  }
+
+  // Record this request
+  rateLimitMap.set(ip, [...validRequests, now])
+
+  // Cleanup old entries periodically (keep map size bounded)
+  if (rateLimitMap.size > 1000) {
+    const now = Date.now()
+    for (const [key, times] of rateLimitMap.entries()) {
+      const valid = times.filter((t) => now - t < RATE_LIMIT_WINDOW_MS)
+      if (valid.length === 0) {
+        rateLimitMap.delete(key)
+      } else {
+        rateLimitMap.set(key, valid)
+      }
+    }
+  }
+
+  return true
+}
+
 export default async function handler(
   req: VercelRequest,
   res: VercelResponse<ApiResponse | { error: string }>
@@ -39,10 +125,18 @@ export default async function handler(
     return res.status(405).json({ error: 'Method not allowed' })
   }
 
+  // Check rate limit
+  const ip = getRateLimitKey(req)
+  if (!checkRateLimit(ip)) {
+    logApiCall('Rate limit exceeded', { ip })
+    return res.status(429).json({ error: 'Too many requests' })
+  }
+
   const { ids } = req.query
 
   // Validate input
   if (!ids || typeof ids !== 'string' || !ids.trim()) {
+    logApiError('Missing ids parameter', 'Invalid request')
     return res
       .status(400)
       .json({ error: 'Missing required parameter: ids (comma-separated video IDs)' })
@@ -51,18 +145,27 @@ export default async function handler(
   const apiKey = process.env.VITE_YOUTUBE_API_KEY
 
   if (!apiKey) {
-    console.error('VITE_YOUTUBE_API_KEY not configured in environment')
+    logApiError('API key not configured', 'VITE_YOUTUBE_API_KEY missing')
     return res.status(500).json({ error: 'API key not configured' })
   }
 
+  const startTime = Date.now()
+
   try {
     // Call YouTube Data API v3
+    const videoIds = ids.split(',').length
     const youtubeUrl = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=${ids}&key=${apiKey}`
 
     const response = await fetch(youtubeUrl)
 
     if (!response.ok) {
-      console.error(`YouTube API error: ${response.status}`, response.statusText)
+      const duration = Date.now() - startTime
+      logApiError('YouTube API error', `Status ${response.status}`, {
+        statusCode: response.status,
+        statusText: response.statusText,
+        durationMs: duration,
+        videoCount: videoIds
+      })
       return res.status(response.status).json({ error: 'YouTube API request failed' })
     }
 
@@ -76,6 +179,12 @@ export default async function handler(
       date: item.snippet.publishedAt || new Date().toISOString()
     }))
 
+    const duration = Date.now() - startTime
+    logApiCall('YouTube metadata fetched successfully', {
+      videoCount: videos.length,
+      durationMs: duration
+    })
+
     // Set cache headers: 6 hours (21600 seconds)
     res.setHeader('Cache-Control', 'public, max-age=21600, s-maxage=21600')
     res.setHeader('Content-Type', 'application/json')
@@ -85,7 +194,11 @@ export default async function handler(
       timestamp: new Date().toISOString()
     })
   } catch (error) {
-    console.error('Error fetching YouTube metadata:', error)
+    const duration = Date.now() - startTime
+    logApiError('Error fetching YouTube metadata', error, {
+      durationMs: duration,
+      videoCount: ids.split(',').length
+    })
     return res.status(500).json({
       error: error instanceof Error ? error.message : 'Internal server error'
     })
