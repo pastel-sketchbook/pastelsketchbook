@@ -3,6 +3,25 @@
  * Single source of truth for all video IDs across the app
  */
 
+import { z } from 'zod'
+
+// Schema for validating video metadata responses
+export const VideoMetadataSchema = z.object({
+  id: z.string(),
+  title: z.string(),
+  views: z.number().nonnegative(),
+  date: z.string().datetime()
+})
+
+export const VideoMetadataResponseSchema = z.object({
+  videos: z.array(VideoMetadataSchema),
+  source: z.enum(['api', 'fallback', 'placeholder']).optional(),
+  timestamp: z.string().datetime().optional()
+})
+
+export type VideoMetadata = z.infer<typeof VideoMetadataSchema>
+export type VideoMetadataResponse = z.infer<typeof VideoMetadataResponseSchema>
+
 export const VIDEO_CONFIG = {
   korea: [
     'V2cZl5s4EKU',
