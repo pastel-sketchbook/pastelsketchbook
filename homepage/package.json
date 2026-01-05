@@ -1,7 +1,7 @@
 {
   "name": "pastel-sketchbook",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.2.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -23,6 +23,8 @@
     "deploy:vercel": "vercel --prod --yes"
   },
   "dependencies": {
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/playfair-display": "^5.2.8",
     "@google/genai": "^1.34.0",
     "@tanstack/react-query": "^5.90.16",
     "@tanstack/react-router": "^1.144.0",

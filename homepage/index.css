@@ -1,4 +1,6 @@
 @import "tailwindcss";
+@import "@fontsource/playfair-display";
+@import "@fontsource/inter";
 
 .sr-only {
   position: absolute;
