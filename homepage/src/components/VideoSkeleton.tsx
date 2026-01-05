@@ -14,10 +14,10 @@ export function VideoSkeleton({ count = 6 }: VideoSkeletonProps) {
       className="space-y-12"
     >
       <div className="text-center space-y-6 max-w-3xl mx-auto">
-        <div className="h-12 md:h-16 bg-gradient-to-r from-[#1B3022]/10 to-[#5F7D61]/10 rounded-lg animate-pulse" />
+        <div className="h-12 md:h-16 bg-gradient-to-r from-pastel-dark/10 to-pastel-medium/10 rounded-lg animate-pulse" />
         <div className="space-y-2">
-          <div className="h-4 bg-gradient-to-r from-[#1B3022]/5 to-[#5F7D61]/5 rounded-lg animate-pulse" />
-          <div className="h-4 bg-gradient-to-r from-[#1B3022]/5 to-[#5F7D61]/5 rounded-lg animate-pulse w-2/3 mx-auto" />
+          <div className="h-4 bg-gradient-to-r from-pastel-dark/5 to-pastel-medium/5 rounded-lg animate-pulse" />
+          <div className="h-4 bg-gradient-to-r from-pastel-dark/5 to-pastel-medium/5 rounded-lg animate-pulse w-2/3 mx-auto" />
         </div>
       </div>
 
@@ -32,7 +32,7 @@ export function VideoSkeleton({ count = 6 }: VideoSkeletonProps) {
           >
             {/* Thumbnail skeleton */}
             <div className="relative">
-              <div className="aspect-video bg-gradient-to-br from-[#D4A373]/20 via-[#5F7D61]/10 to-[#E76F51]/20 rounded-lg overflow-hidden relative sketch-border border-[#1B3022]/5">
+              <div className="aspect-video bg-gradient-to-br from-pastel-tan/20 via-pastel-medium/10 to-pastel-terracotta/20 rounded-lg overflow-hidden relative sketch-border border-pastel-dark/5">
                 {/* Shimmer effect */}
                 <motion.div
                   className="absolute inset-0 bg-gradient-to-r from-transparent via-white/30 to-transparent"
@@ -58,13 +58,13 @@ export function VideoSkeleton({ count = 6 }: VideoSkeletonProps) {
 
             {/* Info skeleton */}
             <div className="space-y-2">
-              <div className="h-4 bg-gradient-to-r from-[#1B3022]/10 to-[#5F7D61]/10 rounded animate-pulse" />
-              <div className="h-4 bg-gradient-to-r from-[#1B3022]/10 to-[#5F7D61]/10 rounded animate-pulse w-4/5" />
+              <div className="h-4 bg-gradient-to-r from-pastel-dark/10 to-pastel-medium/10 rounded animate-pulse" />
+              <div className="h-4 bg-gradient-to-r from-pastel-dark/10 to-pastel-medium/10 rounded animate-pulse w-4/5" />
             </div>
 
             {/* Date placeholder */}
             <div className="flex justify-between items-end">
-              <div className="h-3 bg-gradient-to-r from-[#D4A373]/20 to-[#E76F51]/20 rounded w-24 animate-pulse" />
+              <div className="h-3 bg-gradient-to-r from-pastel-tan/20 to-pastel-terracotta/20 rounded w-24 animate-pulse" />
             </div>
           </motion.div>
         ))}

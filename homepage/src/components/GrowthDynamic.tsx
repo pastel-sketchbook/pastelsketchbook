@@ -11,8 +11,8 @@ export function GrowthDynamic() {
   return (
     <Suspense
       fallback={
-        <div className="min-h-[400px] bg-[#FAF9F6] rounded-lg flex items-center justify-center">
-          <p className="text-[#5F7D61] font-serif">Loading growth visualization...</p>
+        <div className="min-h-[400px] bg-pastel-bg rounded-lg flex items-center justify-center">
+          <p className="text-pastel-medium font-serif">Loading growth visualization...</p>
         </div>
       }
     >

@@ -31,10 +31,10 @@ export function VideoGallery({ items, onVideoSelect, title, description }: Video
             className="space-y-12"
         >
             <div className="text-center space-y-6 max-w-3xl mx-auto">
-                <h2 className="text-4xl md:text-5xl text-[#1B3022] font-serif italic leading-tight">
+                <h2 className="text-4xl md:text-5xl text-pastel-dark font-serif italic leading-tight">
                     {title}
                 </h2>
-                <p className="text-lg text-[#1B3022]/60 leading-relaxed font-serif">
+                <p className="text-lg text-pastel-dark/60 leading-relaxed font-serif">
                     {description}
                 </p>
             </div>
@@ -47,31 +47,31 @@ export function VideoGallery({ items, onVideoSelect, title, description }: Video
                         transition={{ delay: i * 0.05 }}
                         whileHover={{ y: -5 }}
                         onClick={() => onVideoSelect(item.id)}
-                        className="text-left bg-white p-4 sketch-border border-[#1B3022]/5 hover:shadow-lg transition-all group/card overflow-hidden w-full relative"
+                        className="text-left bg-white p-4 sketch-border border-pastel-dark/5 hover:shadow-lg transition-all group/card overflow-hidden w-full relative"
                     >
-                        <div className="aspect-video mb-4 overflow-hidden rounded-lg bg-[#1B3022]/5 relative">
+                        <div className="aspect-video mb-4 overflow-hidden rounded-lg bg-pastel-dark/5 relative">
                             <img
                                 src={`https://img.youtube.com/vi/${item.id}/mqdefault.jpg`}
                                 alt={item.title}
                                 className="w-full h-full object-cover transition-transform duration-500 group-hover/card:scale-110"
                             />
-                            <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover/card:opacity-100 transition-opacity bg-[#1B3022]/20">
+                            <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover/card:opacity-100 transition-opacity bg-pastel-dark/20">
                                 <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center shadow-md">
-                                    <svg className="w-6 h-6 text-[#1B3022]" fill="currentColor" viewBox="0 0 24 24">
+                                    <svg className="w-6 h-6 text-pastel-dark" fill="currentColor" viewBox="0 0 24 24">
                                         <path d="M8 5v14l11-7z" />
                                     </svg>
                                 </div>
                             </div>
-                            <div className="absolute bottom-2 right-2 px-2 py-1 bg-white/90 backdrop-blur-sm text-[#1B3022] text-[10px] font-bold rounded shadow-sm uppercase tracking-wider sketch-border border-[#1B3022]/10">
+                            <div className="absolute bottom-2 right-2 px-2 py-1 bg-white/90 backdrop-blur-sm text-pastel-dark text-[10px] font-bold rounded shadow-sm uppercase tracking-wider sketch-border border-pastel-dark/10">
                                 {formatViews(item.views)} watches
                             </div>
                         </div>
                         <div className="flex justify-between items-start gap-4">
-                            <h4 className="font-bold text-[#1B3022] text-[10px] uppercase tracking-widest line-clamp-2 leading-relaxed flex-1">
+                            <h4 className="font-bold text-pastel-dark text-[10px] uppercase tracking-widest line-clamp-2 leading-relaxed flex-1">
                                 {item.title}
                             </h4>
                             {item.date && (
-                                <span className="text-[12px] text-[#D4A373] font-semibold font-serif italic whitespace-nowrap pt-0.5">
+                                <span className="text-[12px] text-pastel-tan font-semibold font-serif italic whitespace-nowrap pt-0.5">
                                     {new Date(item.date).toLocaleDateString(undefined, { month: 'short', year: 'numeric' })}
                                 </span>
                             )}

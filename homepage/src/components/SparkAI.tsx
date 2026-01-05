@@ -101,7 +101,7 @@ export function SparkAI() {
     };
 
     return (
-        <section id="spark" className="py-32 px-6 bg-[#FAF9F6] border-y border-[#1B3022]/5">
+        <section id="spark" className="py-32 px-6 bg-pastel-bg border-y border-pastel-dark/5">
             <motion.div
                 initial={{ opacity: 0 }}
                 whileInView={{ opacity: 1 }}
@@ -109,8 +109,8 @@ export function SparkAI() {
                 className="max-w-4xl mx-auto"
             >
                 <div className="text-center mb-16">
-                    <h2 className="text-5xl italic mb-6 font-serif text-[#1B3022]">Let's follow an idea...</h2>
-                    <p className="text-[#1B3022]/50 text-xl font-serif">Enter something you're curious about, and let's see how it seeds the garden.</p>
+                    <h2 className="text-5xl italic mb-6 font-serif text-pastel-dark">Let's follow an idea...</h2>
+                    <p className="text-pastel-dark/50 text-xl font-serif">Enter something you're curious about, and let's see how it seeds the garden.</p>
                 </div>
 
                 <div className="flex flex-col md:flex-row gap-6 mb-20 items-center">
@@ -126,9 +126,9 @@ export function SparkAI() {
                             placeholder="e.g. Learning Spanish, Quantum Physics, Vegan Baking..."
                             whileFocus={{ boxShadow: "0 0 0 3px rgba(95, 125, 97, 0.1)" }}
                             className={`
-                w-full px-10 py-6 rounded-full bg-white border-2 border-[#1B3022]/5
+                w-full px-10 py-6 rounded-full bg-white border-2 border-pastel-dark/5
                 outline-none transition-all duration-300 shadow-sm
-                sketch-hover sketch-focus text-xl text-[#1B3022] placeholder-[#1B3022]/20
+                sketch-hover sketch-focus text-xl text-pastel-dark placeholder-pastel-dark/20
                 ${isTyping ? "animate-pop" : ""}
                 ${topic.length > 0 ? "bg-white pr-16" : "bg-white/50"}
               `}
@@ -141,7 +141,7 @@ export function SparkAI() {
                                     animate={{ opacity: 1, scale: 1 }}
                                     exit={{ opacity: 0, scale: 0.8 }}
                                     whileHover={{ rotate: 90 }}
-                                    className="absolute right-6 top-1/2 -translate-y-1/2 p-2 text-[#1B3022]/20 hover:text-[#E76F51] transition-colors"
+                                    className="absolute right-6 top-1/2 -translate-y-1/2 p-2 text-pastel-dark/20 hover:text-pastel-terracotta transition-colors"
                                     aria-label="Clear current spark"
                                     title="Clear current spark"
                                 >
@@ -169,7 +169,7 @@ export function SparkAI() {
                     </SketchButton>
                 </div>
 
-                {error && <p className="text-center text-[#E76F51] mb-12 animate-fade-in font-serif italic text-lg">{error}</p>}
+                {error && <p className="text-center text-pastel-terracotta mb-12 animate-fade-in font-serif italic text-lg">{error}</p>}
 
                 <div className="min-h-[200px] mb-20">
                     <AnimatePresence mode="wait">
@@ -183,11 +183,11 @@ export function SparkAI() {
                             >
                                 {[1, 2, 3, 4].map((i) => (
                                     <div key={i} className="text-center">
-                                        <div className="w-20 h-20 mx-auto rounded-full mb-6 border-2 border-[#1B3022]/5 shimmer"></div>
-                                        <div className="h-4 w-20 mx-auto bg-[#1B3022]/5 mb-3 rounded shimmer"></div>
+                                        <div className="w-20 h-20 mx-auto rounded-full mb-6 border-2 border-pastel-dark/5 shimmer"></div>
+                                        <div className="h-4 w-20 mx-auto bg-pastel-dark/5 mb-3 rounded shimmer"></div>
                                         <div className="space-y-3">
-                                            <div className="h-2.5 w-full bg-[#1B3022]/5 rounded shimmer"></div>
-                                            <div className="h-2.5 w-2/3 mx-auto bg-[#1B3022]/5 rounded shimmer"></div>
+                                            <div className="h-2.5 w-full bg-pastel-dark/5 rounded shimmer"></div>
+                                            <div className="h-2.5 w-2/3 mx-auto bg-pastel-dark/5 rounded shimmer"></div>
                                         </div>
                                     </div>
                                 ))}
@@ -201,10 +201,10 @@ export function SparkAI() {
                             >
                                 <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 lg:gap-12 mb-12">
                                     {[
-                                        { icon: "💡", title: "The Spark", desc: `Learns ${result.topic}`, color: "text-[#E76F51]", bg: "bg-[#E76F51]/5", border: "border-[#E76F51]/20" },
-                                        { icon: "🎨", title: "The Creation", desc: result.creation, color: "text-[#D4A373]", bg: "bg-[#D4A373]/5", border: "border-[#D4A373]/20" },
-                                        { icon: "📺", title: "The Platform", desc: result.platform, color: "text-[#E9C46A]", bg: "bg-[#E9C46A]/5", border: "border-[#E9C46A]/20" },
-                                        { icon: "📈", title: "The Impact", desc: result.impact, color: "text-[#5F7D61]", bg: "bg-[#5F7D61]/5", border: "border-[#5F7D61]/20" }
+                                        { icon: "💡", title: "The Spark", desc: `Learns ${result.topic}`, color: "text-pastel-terracotta", bg: "bg-pastel-terracotta/5", border: "border-pastel-terracotta/20" },
+                                        { icon: "🎨", title: "The Creation", desc: result.creation, color: "text-pastel-tan", bg: "bg-pastel-tan/5", border: "border-pastel-tan/20" },
+                                        { icon: "📺", title: "The Platform", desc: result.platform, color: "text-pastel-yellow", bg: "bg-pastel-yellow/5", border: "border-pastel-yellow/20" },
+                                        { icon: "📈", title: "The Impact", desc: result.impact, color: "text-pastel-medium", bg: "bg-pastel-medium/5", border: "border-pastel-medium/20" }
                                     ].map((item, i) => (
                                         <motion.div
                                             key={i}
@@ -215,7 +215,7 @@ export function SparkAI() {
                                         >
                                             <div className={`w-20 h-20 mx-auto ${item.bg} rounded-full flex items-center justify-center mb-6 text-3xl sketch-border ${item.border} transition-all group-hover:scale-110 group-hover:shadow-md duration-300 transform ${i % 2 === 0 ? 'rotate-3' : '-rotate-3'}`}>{item.icon}</div>
                                             <h4 className={`font-bold text-xs uppercase ${item.color} mb-3 tracking-[0.2em]`}>{item.title}</h4>
-                                            <p className="text-sm text-[#1B3022]/70 leading-relaxed font-serif italic">{item.desc}</p>
+                                            <p className="text-sm text-pastel-dark/70 leading-relaxed font-serif italic">{item.desc}</p>
                                         </motion.div>
                                     ))}
                                 </div>
@@ -230,7 +230,7 @@ export function SparkAI() {
                                             onClick={saveSpark}
                                             className={`
                             px-10 py-3 duration-500
-                            ${showSaveSuccess ? "bg-[#5F7D61] !border-[#5F7D61] !text-white" : ""}
+                            ${showSaveSuccess ? "bg-pastel-medium !border-pastel-medium !text-white" : ""}
                           `}
                                         >
                                             {showSaveSuccess ? (
@@ -251,7 +251,7 @@ export function SparkAI() {
 
                                     <button
                                         onClick={copyToClipboard}
-                                        className="text-[#1B3022]/40 hover:text-[#1B3022] text-xs font-bold uppercase tracking-widest flex items-center justify-center gap-2 transition-colors px-6"
+                                        className="text-pastel-dark/40 hover:text-pastel-dark text-xs font-bold uppercase tracking-widest flex items-center justify-center gap-2 transition-colors px-6"
                                     >
                                         <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3" /></svg>
                                         Copy Details
@@ -263,15 +263,15 @@ export function SparkAI() {
                 </div>
 
                 {savedSparks.length > 0 && (
-                    <div className="mt-20 border-t border-[#1B3022]/5 pt-16">
+                    <div className="mt-20 border-t border-pastel-dark/5 pt-16">
                         <div className="flex justify-between items-center mb-10">
                             <div>
-                                <h3 className="text-3xl italic text-[#1B3022] mb-2">The Seed Collection</h3>
-                                <p className="text-sm text-[#1B3022]/40 font-serif lowercase italic">Ideas planted for future growth.</p>
+                                <h3 className="text-3xl italic text-pastel-dark mb-2">The Seed Collection</h3>
+                                <p className="text-sm text-pastel-dark/40 font-serif lowercase italic">Ideas planted for future growth.</p>
                             </div>
                             <div className="text-right">
-                                <span className="text-[10px] font-bold text-[#5F7D61]/40 uppercase tracking-[0.3em] block mb-1">Status</span>
-                                <span className="text-xs font-bold text-[#5F7D61] uppercase tracking-widest">{savedSparks.length} SEEDS PLANTED</span>
+                                <span className="text-[10px] font-bold text-pastel-medium/40 uppercase tracking-[0.3em] block mb-1">Status</span>
+                                <span className="text-xs font-bold text-pastel-medium uppercase tracking-widest">{savedSparks.length} SEEDS PLANTED</span>
                             </div>
                         </div>
                         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -282,7 +282,7 @@ export function SparkAI() {
                                 >
                                     <button
                                         onClick={() => removeSavedSpark(spark.id)}
-                                        className="absolute top-4 right-4 w-8 h-8 flex items-center justify-center rounded-full bg-red-50 text-red-300 opacity-0 group-hover:opacity-100 transition-all hover:bg-[#E76F51] hover:text-white"
+                                        className="absolute top-4 right-4 w-8 h-8 flex items-center justify-center rounded-full bg-red-50 text-red-300 opacity-0 group-hover:opacity-100 transition-all hover:bg-pastel-terracotta hover:text-white"
                                         title="Remove seed"
                                     >
                                         <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" /></svg>
@@ -290,23 +290,23 @@ export function SparkAI() {
 
                                     <div className="mb-6">
                                         <div className="flex items-center gap-2 mb-2">
-                                            <span className="w-2 h-2 rounded-full bg-[#E76F51]"></span>
-                                            <span className="text-[10px] font-bold uppercase tracking-widest text-[#E76F51]/60">Subject of Interest</span>
+                                            <span className="w-2 h-2 rounded-full bg-pastel-terracotta"></span>
+                                            <span className="text-[10px] font-bold uppercase tracking-widest text-pastel-terracotta/60">Subject of Interest</span>
                                         </div>
-                                        <p className="text-lg font-serif italic text-[#1B3022] leading-tight">{spark.topic}</p>
+                                        <p className="text-lg font-serif italic text-pastel-dark leading-tight">{spark.topic}</p>
                                     </div>
 
-                                    <div className="space-y-4 pt-4 border-t border-[#1B3022]/5">
+                                    <div className="space-y-4 pt-4 border-t border-pastel-dark/5">
                                         <div>
-                                            <span className="text-[10px] font-bold uppercase tracking-widest text-[#D4A373]/60 block mb-1">Proposed Creation</span>
-                                            <p className="text-xs text-[#1B3022]/70 leading-relaxed italic">{spark.creation}</p>
+                                            <span className="text-[10px] font-bold uppercase tracking-widest text-pastel-tan/60 block mb-1">Proposed Creation</span>
+                                            <p className="text-xs text-pastel-dark/70 leading-relaxed italic">{spark.creation}</p>
                                         </div>
                                         <div className="flex justify-between items-end">
                                             <div>
-                                                <span className="text-[10px] font-bold uppercase tracking-widest text-[#5F7D61]/60 block mb-1">Platform</span>
-                                                <p className="text-[10px] text-[#5F7D61] font-bold uppercase tracking-tighter">{spark.platform}</p>
+                                                <span className="text-[10px] font-bold uppercase tracking-widest text-pastel-medium/60 block mb-1">Platform</span>
+                                                <p className="text-[10px] text-pastel-medium font-bold uppercase tracking-tighter">{spark.platform}</p>
                                             </div>
-                                            <span className="text-[10px] text-[#1B3022]/20 font-serif italic">
+                                            <span className="text-[10px] text-pastel-dark/20 font-serif italic">
                                                 {new Date(spark.date).toLocaleDateString(undefined, { month: 'short', day: 'numeric' })}
                                             </span>
                                         </div>

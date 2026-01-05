@@ -124,16 +124,16 @@ export class ChunkErrorBoundary extends Component<Props, State> {
   public render() {
     if (this.state.isRetrying) {
       return (
-        <div className="flex items-center justify-center min-h-screen bg-[#FAF9F6]">
+        <div className="flex items-center justify-center min-h-screen bg-pastel-bg">
           <div className="text-center">
             <div className="inline-flex items-center justify-center w-12 h-12 mb-4">
               <div
-                className="w-8 h-8 border-4 border-[#5F7D61] border-t-[#E76F51] rounded-full animate-spin"
+                className="w-8 h-8 border-4 border-pastel-medium border-t-pastel-terracotta rounded-full animate-spin"
                 aria-live="polite"
                 aria-label="Retrying page load"
               />
             </div>
-            <p className="text-[#1B3022] font-serif text-sm">Retrying load...</p>
+            <p className="text-pastel-dark font-serif text-sm">Retrying load...</p>
           </div>
         </div>
       )
@@ -145,7 +145,7 @@ export class ChunkErrorBoundary extends Component<Props, State> {
       }
 
       return (
-        <div className="bg-[#FAF9F6] min-h-screen flex items-center justify-center p-4">
+        <div className="bg-pastel-bg min-h-screen flex items-center justify-center p-4">
           <SketchBox className="bg-amber-50 p-8 text-center max-w-md">
             <span className="text-5xl mb-4 block">🌾</span>
             <h2 className="text-2xl font-bold text-amber-900 mb-2 font-serif">
@@ -167,7 +167,7 @@ export class ChunkErrorBoundary extends Component<Props, State> {
                 </p>
                 <button
                   onClick={this.handleRetry}
-                  className="w-full mb-3 px-4 py-2 bg-[#5F7D61] text-white font-semibold rounded hover:bg-[#4a6a54] transition-colors"
+                  className="w-full mb-3 px-4 py-2 bg-pastel-medium text-white font-semibold rounded hover:bg-[#4a6a54] transition-colors"
                   aria-label={`Retry loading ${this.props.chunkName} page (attempt ${this.state.retryCount + 1})`}
                 >
                   Try Again
@@ -177,7 +177,7 @@ export class ChunkErrorBoundary extends Component<Props, State> {
 
             <button
               onClick={this.handleGoHome}
-              className="w-full px-4 py-2 bg-[#E9C46A]/20 text-[#1B3022] font-semibold rounded hover:bg-[#E9C46A]/30 transition-colors"
+              className="w-full px-4 py-2 bg-pastel-yellow/20 text-pastel-dark font-semibold rounded hover:bg-pastel-yellow/30 transition-colors"
               aria-label="Return to homepage"
             >
               Go Home

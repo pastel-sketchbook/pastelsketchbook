@@ -114,27 +114,27 @@ export function PodcastPlayer({ audioSrc, transcriptSrc, title, episodeNumber }:
                 </div>
 
                 <div className="relative z-10 mb-12">
-                    <span className="text-[#E76F51] font-bold tracking-widest uppercase text-xs mb-2 block">
+                    <span className="text-pastel-terracotta font-bold tracking-widest uppercase text-xs mb-2 block">
                         Episode {episodeNumber}
                     </span>
-                    <h1 className="text-4xl md:text-5xl font-serif italic text-[#1B3022] mb-8">
+                    <h1 className="text-4xl md:text-5xl font-serif italic text-pastel-dark mb-8">
                         {title}
                     </h1>
 
                     <audio ref={audioRef} src={audioSrc} className="w-full mb-8" controls />
                 </div>
 
-                <div className="border-t border-[#1B3022]/10 pt-8">
-                    <h3 className="text-[#1B3022]/40 font-bold uppercase tracking-widest text-xs mb-6">
+                <div className="border-t border-pastel-dark/10 pt-8">
+                    <h3 className="text-pastel-dark/40 font-bold uppercase tracking-widest text-xs mb-6">
                         Transcript
                     </h3>
 
                     <div
                         ref={scrollRef}
-                        className="h-[400px] overflow-y-auto space-y-4 pr-4 scrollbar-thin scrollbar-thumb-[#1B3022]/10 scrollbar-track-transparent relative"
+                        className="h-[400px] overflow-y-auto space-y-4 pr-4 scrollbar-thin scrollbar-thumb-pastel-dark/10 scrollbar-track-transparent relative"
                     >
                         {isLoading ? (
-                            <div className="text-center py-12 text-[#1B3022]/40 italic">Loading transcript...</div>
+                            <div className="text-center py-12 text-pastel-dark/40 italic">Loading transcript...</div>
                         ) : transcript.length > 0 ? (
                             transcript.map((seg, idx) => {
                                 const isActive = currentTime >= seg.start && currentTime < seg.start + seg.duration;
@@ -143,16 +143,16 @@ export function PodcastPlayer({ audioSrc, transcriptSrc, title, episodeNumber }:
                                         key={idx}
                                         onClick={() => seekTo(seg.start)}
                                         className={`w-full text-left p-4 rounded-lg transition-all ${isActive
-                                            ? "bg-[#1B3022]/5 border-l-4 border-[#D4A373] shadow-sm"
-                                            : "hover:bg-[#FAF9F6] border-l-4 border-transparent"
+                                            ? "bg-pastel-dark/5 border-l-4 border-pastel-tan shadow-sm"
+                                            : "hover:bg-pastel-bg border-l-4 border-transparent"
                                             }`}
                                         animate={{ opacity: isActive ? 1 : 0.6 }}
                                     >
                                         <div className="flex gap-4">
-                                            <span className="text-xs font-mono text-[#1B3022]/30 pt-1 min-w-[3rem]">
+                                            <span className="text-xs font-mono text-pastel-dark/30 pt-1 min-w-[3rem]">
                                                 {formatTime(seg.start)}
                                             </span>
-                                            <p className={`text-lg font-serif leading-relaxed ${isActive ? "text-[#1B3022]" : "text-[#1B3022]/60"}`}>
+                                            <p className={`text-lg font-serif leading-relaxed ${isActive ? "text-pastel-dark" : "text-pastel-dark/60"}`}>
                                                 {seg.text}
                                             </p>
                                         </div>
@@ -160,7 +160,7 @@ export function PodcastPlayer({ audioSrc, transcriptSrc, title, episodeNumber }:
                                 );
                             })
                         ) : (
-                            <div className="text-center py-12 text-[#1B3022]/40 italic">No transcript available.</div>
+                            <div className="text-center py-12 text-pastel-dark/40 italic">No transcript available.</div>
                         )}
                     </div>
                 </div>

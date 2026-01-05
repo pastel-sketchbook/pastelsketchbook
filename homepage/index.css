@@ -2,6 +2,16 @@
 @import "@fontsource/playfair-display";
 @import "@fontsource/inter";
 
+[data-theme="pastel"] {
+  --p: 130 36% 42%;  /* primary: #5F7D61 */
+  --s: 28 43% 67%;   /* secondary: #D4A373 */
+  --a: 15 75% 58%;   /* accent: #E76F51 */
+  --n: 149 36% 15%;  /* neutral: #1B3022 */
+  --b1: 36 35% 98%;  /* base-100: #FAF9F6 */
+  --bc: 149 36% 15%; /* base-content: #1B3022 */
+  --wa: 45 97% 63%;  /* warning: #E9C46A */
+}
+
 .sr-only {
   position: absolute;
   width: 1px;

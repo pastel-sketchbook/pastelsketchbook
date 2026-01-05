@@ -7,9 +7,9 @@ interface SketchButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement
 
 export function SketchButton({ children, className = "", variant = "primary", ...props }: SketchButtonProps) {
     const variants = {
-        primary: "bg-[#1B3022] text-white hover:bg-[#2D4536] shadow-xl",
-        secondary: "bg-[#D4A373] text-white hover:bg-[#C39262] shadow-lg",
-        outline: "border-2 border-[#D4A373]/40 text-[#D4A373] hover:bg-[#D4A373] hover:text-white"
+        primary: "bg-pastel-dark text-white hover:bg-pastel-dark/85 shadow-xl",
+        secondary: "bg-pastel-tan text-white hover:bg-pastel-tan/85 shadow-lg",
+        outline: "border-2 border-pastel-tan/40 text-pastel-tan hover:bg-pastel-tan hover:text-white"
     };
 
     return (

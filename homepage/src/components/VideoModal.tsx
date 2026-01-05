@@ -66,11 +66,11 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                         animate={{ opacity: 1, scale: scale, y: 0 }}
                         exit={{ opacity: 0, scale: 0.9, y: 20 }}
                         transition={{ duration: VIDEO_MODAL_CONFIG.animations.DURATION_MS / 1000 }}
-                        className="relative w-full max-w-5xl aspect-video bg-white sketch-border border-[#1B3022]/10 shadow-2xl overflow-hidden rounded-2xl"
+                        className="relative w-full max-w-5xl aspect-video bg-white sketch-border border-pastel-dark/10 shadow-2xl overflow-hidden rounded-2xl"
                         onClick={(e) => e.stopPropagation()}
                     >
                         <button
-                            className="absolute top-4 right-4 z-10 p-2 bg-white/50 backdrop-blur-md rounded-full text-[#1B3022] hover:bg-white transition-colors shadow-sm"
+                            className="absolute top-4 right-4 z-10 p-2 bg-white/50 backdrop-blur-md rounded-full text-pastel-dark hover:bg-white transition-colors shadow-sm"
                             onClick={onClose}
                             aria-label="Close video"
                         >
@@ -95,7 +95,7 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                                 whileTap={{ scale: 0.95 }}
                                 onClick={handleZoomOut}
                                 disabled={scale <= MIN_SCALE}
-                                className="w-7 h-7 flex items-center justify-center bg-white text-[#1B3022] shadow-sm hover:shadow-md transition-all sketch-border border-[#1B3022]/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
+                                className="w-7 h-7 flex items-center justify-center bg-white text-pastel-dark shadow-sm hover:shadow-md transition-all sketch-border border-pastel-dark/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
                                 aria-label="Decrease video size (Press Minus key)"
                             >
                                 <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -105,7 +105,7 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
 
                             <motion.div
                                 animate={{ scale: scale >= 1 ? 1.05 : 0.95 }}
-                                className="text-[10px] font-black text-[#1B3022] bg-white px-2.5 py-1 rounded-full shadow-sm border border-[#1B3022]/20"
+                                className="text-[10px] font-black text-pastel-dark bg-white px-2.5 py-1 rounded-full shadow-sm border border-pastel-dark/20"
                             >
                                 {Math.round(scale * 100)}%
                             </motion.div>
@@ -115,7 +115,7 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                                 whileTap={{ scale: 0.95 }}
                                 onClick={handleZoomIn}
                                 disabled={scale >= MAX_SCALE}
-                                className="w-7 h-7 flex items-center justify-center bg-white text-[#1B3022] shadow-sm hover:shadow-md transition-all sketch-border border-[#1B3022]/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
+                                className="w-7 h-7 flex items-center justify-center bg-white text-pastel-dark shadow-sm hover:shadow-md transition-all sketch-border border-pastel-dark/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
                                 aria-label="Increase video size (Press Plus key)"
                             >
                                 <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

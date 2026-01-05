@@ -10,7 +10,7 @@ export const SketchBox = forwardRef<HTMLDivElement, SketchBoxProps>(
         return (
             <Component
                 ref={ref}
-                className={`sketch-border border-[#1B3022]/10 group hover:shadow-lg transition-all animate-scribble ${className}`}
+                className={`sketch-border border-pastel-dark/10 group hover:shadow-lg transition-all animate-scribble ${className}`}
                 {...props}
             >
                 {children}
