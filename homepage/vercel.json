@@ -13,7 +13,7 @@
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; connect-src 'self' *.googleapis.com; frame-ancestors 'none'"
+          "value": "default-src 'self'; script-src 'self' 'wasm-unsafe-eval' *.youtube.com *.ytimg.com; style-src 'self' 'unsafe-inline' *.youtube.com; img-src 'self' data: https: *.ytimg.com; font-src 'self'; connect-src 'self' *.googleapis.com *.youtube.com; frame-src 'self' *.youtube.com; frame-ancestors 'none'"
         },
         {
           "key": "X-Content-Type-Options",
