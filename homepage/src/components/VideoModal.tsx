@@ -52,10 +52,10 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                     ></motion.div>
                     <motion.div
                         initial={{ opacity: 0, scale: 0.9, y: 20 }}
-                        animate={{ opacity: 1, scale: 1, y: 0 }}
+                        animate={{ opacity: 1, scale: scale, y: 0 }}
                         exit={{ opacity: 0, scale: 0.9, y: 20 }}
-                        className="relative w-full max-w-5xl aspect-video bg-white sketch-border border-[#1B3022]/10 shadow-2xl overflow-hidden rounded-2xl transition-transform"
-                        style={{ transform: `scale(${scale})` }}
+                        transition={{ duration: 0.3 }}
+                        className="relative w-full max-w-5xl aspect-video bg-white sketch-border border-[#1B3022]/10 shadow-2xl overflow-hidden rounded-2xl"
                         onClick={(e) => e.stopPropagation()}
                     >
                         <button
@@ -74,27 +74,30 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                                 whileTap={{ scale: 0.95 }}
                                 onClick={handleZoomOut}
                                 disabled={scale <= MIN_SCALE}
-                                className="w-12 h-12 flex items-center justify-center bg-white text-[#1B3022] shadow-lg hover:shadow-xl transition-all sketch-border border-[#1B3022]/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
+                                className="w-9 h-9 flex items-center justify-center bg-white text-[#1B3022] shadow-md hover:shadow-lg transition-all sketch-border border-[#1B3022]/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
                                 aria-label="Decrease video size"
                             >
-                                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M20 12H4" />
                                 </svg>
                             </motion.button>
 
-                            <div className="text-sm font-semibold text-[#1B3022] bg-white/70 px-3 py-1 rounded-full backdrop-blur-sm">
+                            <motion.div
+                                animate={{ scale: scale >= 1 ? 1.05 : 0.95 }}
+                                className="text-xs font-black text-[#1B3022] bg-white px-3 py-1.5 rounded-full shadow-md border border-[#1B3022]/20"
+                            >
                                 {Math.round(scale * 100)}%
-                            </div>
+                            </motion.div>
 
                             <motion.button
                                 whileHover={{ rotate: 3 }}
                                 whileTap={{ scale: 0.95 }}
                                 onClick={handleZoomIn}
                                 disabled={scale >= MAX_SCALE}
-                                className="w-12 h-12 flex items-center justify-center bg-white text-[#1B3022] shadow-lg hover:shadow-xl transition-all sketch-border border-[#1B3022]/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
+                                className="w-9 h-9 flex items-center justify-center bg-white text-[#1B3022] shadow-md hover:shadow-lg transition-all sketch-border border-[#1B3022]/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
                                 aria-label="Increase video size"
                             >
-                                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M12 4v16m8-8H4" />
                                 </svg>
                             </motion.button>
