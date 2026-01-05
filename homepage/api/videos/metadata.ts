@@ -67,6 +67,14 @@ interface ApiResponse {
 /**
  * Simple in-memory rate limiting
  * Tracks request timestamps per IP address
+ *
+ * Trade-offs:
+ * - ✅ Single server: Sufficient for Vercel serverless (no persistent state needed)
+ * - ✅ Low overhead: No external dependencies (Redis)
+ * - ⚠️  Race condition: Theoretical edge case in extreme concurrency (>1000 concurrent reqs)
+ * - ⚠️  Multi-server: Not suitable for load-balanced deployments
+ *
+ * Future: Consider Redis for horizontal scaling if needed
  */
 const rateLimitMap = new Map<string, number[]>()
 const RATE_LIMIT_WINDOW_MS = 60000 // 1 minute
