@@ -11,12 +11,12 @@ The homepage app is the first application in this monorepo. It's a React-based l
 - **Runtime**: Bun
 - **Framework**: React 19.2.3
 - **Routing**: TanStack Router 1.144.0
-- **Build Tool**: Vite 7.3.0
+- **Build Tool**: Vite (latest)
 - **Language**: TypeScript 5.8.3 (strict mode enabled)
 - **Styling**: Tailwind CSS 4.1.18
 - **Charts**: Recharts 3.6.0
 - **AI**: Google GenAI SDK 1.34.0
-- **Linting/Formatting**: Biome 2.3.11 (single quotes, no semicolons)
+- **Linting/Formatting**: Biome (latest)
 
 ## Project Structure
 
@@ -49,16 +49,22 @@ Root layout component containing:
 - **Footer**: Multi-section footer with audience profiles and call-to-action
 - **Outlet**: Renders child routes
 
-### routes/index.tsx (543 lines)
-Main homepage containing ALL sections:
-1. **Hero** (#hero): Main landing section with title and illustration
-2. **Vision** (#vision): Explains the core concept
-3. **Problem** (#problem): Learning monetization challenges
-4. **Digital Garden** (no id): Community garden metaphor
-5. **Virtuous Cycle** (#cycle): 5-step process flow
-6. **Spark AI** (#spark): Interactive AI idea generator with localStorage persistence
-7. **Investment Jar** (#investment): ETF investment strategy
-8. **Growth Chart** (#growth): Compound growth visualization with Recharts
+### routes/index.tsx (26 lines)
+Main homepage containing core sections:
+1. **Hero**: Main landing section with title and illustration
+2. **Philosophy**: Community values and core concept
+3. **SparkAI**: Interactive AI idea generator with localStorage persistence
+4. **Growth**: Compound growth visualization with Recharts
+
+### routes/showcase.tsx (296 lines)
+Video showcase page with:
+- Video gallery with category filters
+- Search functionality
+- YouTube metadata API integration with static fallback
+- Loading skeleton states
+
+### routes/podcast.tsx (19 lines)
+Podcast/media route placeholder
 
 ## Important Patterns
 
@@ -192,17 +198,17 @@ bun run test:coverage   # Run tests with coverage report
 3. Add corresponding nav link in `routes/__root.tsx` Header component
 
 ### Modifying SparkAI
-- API logic in `routes/index.tsx:62-103` (generateSpark function)
-- State management in `routes/index.tsx:34-52`
-- UI rendering in `routes/index.tsx:302-454`
+- Component located in `src/components/SparkAI.tsx`
+- State management: localStorage for persistence
+- API logic: Google GenAI SDK with structured output
 
 ### Changing Color Theme
-- Update color values in `index.html` styles and component classes
+- Update color values in `index.css` and component classes
 - Search for hex codes: `#1B3022`, `#5F7D61`, `#D4A373`, `#E76F51`, `#E9C46A`, `#FAF9F6`
 
 ### Updating Chart Data
-- Modify `data` array in `routes/index.tsx:11-17`
-- Recharts configuration at `routes/index.tsx:502-520`
+- Modify data arrays in `src/components/Growth.tsx`
+- Recharts configuration in same file
 
 ## Important Notes
 
@@ -217,8 +223,10 @@ bun run test:coverage   # Run tests with coverage report
 - Screen reader testing ongoing
 
 ### Testing
-- No test framework currently set up (see TODO Phase 8)
-- Testing framework planned (see TODO.md Phase 8)
+- Vitest with React Testing Library
+- 199+ passing tests
+- ~30% coverage on critical paths
+- See test/ directory for test files
 
 ## Environment Setup
 
@@ -322,7 +330,29 @@ This ensures:
 - [ ] Test rate limiting with load simulation
 - [ ] Review CSP headers (optional, low priority)
 - [ ] Monitor error logs for 24 hours post-deploy
-- [ ] See `SECURITY.md` for full audit details
+- [ ] See `docs/archives/SECURITY_AUDIT.md` for historical security review
+
+## Documentation Structure
+
+### Main Files
+- **AGENTS.md** (this file) - Live developer guide
+- **README.md** - Getting started and feature overview
+- **TODO.md** - Active feature tracking
+
+### Reference Documentation
+- **docs/api-patterns.md** - API design patterns and conventions
+- **docs/youtube-metadata-testing.md** - Testing guides for metadata API
+- **docs/rationale/youtube-metadata-architecture.md** - Architecture decisions
+
+### Archived Audits & Reviews
+All point-in-time reviews have been archived in **docs/archives/**:
+- **ANIMATION_REVIEW.md** - Animation implementation opportunities (Jan 5, 2026)
+- **CODE_AUDIT.md** - Test coverage and security review (Jan 5, 2026)
+- **DEPLOYMENT_CHECKLIST.md** - Deployment verification steps (Jan 5, 2026)
+- **DEPLOYMENT_REVIEW.md** - Local/Vercel deployment parity (Jan 5, 2026)
+- **SECURITY_AUDIT.md** - Security assessment with A-grade rating (Jan 5, 2026)
+
+These archives document historical reviews. Always refer to implementation code as the source of truth for current status.
 
 ## Monorepo Context
 

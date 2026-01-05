@@ -4,7 +4,7 @@
 
 **Epic**: Replace client-side YouTube API with Vercel serverless function + static fallback  
 **Rationale**: See `docs/rationale/youtube-metadata-architecture.md`  
-**Status**: In Progress
+**Status**: Nearly Complete
 
 ### Phase 1: Serverless Function Setup
 

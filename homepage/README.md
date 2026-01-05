@@ -15,11 +15,12 @@ The homepage is the first application in this monorepo. It's a React-based landi
 - **Runtime**: Bun
 - **Framework**: React 19.2.3
 - **Routing**: TanStack Router 1.144.0
-- **Build Tool**: Vite 6.2.0
-- **Language**: TypeScript 5.8.2 (strict mode enabled)
+- **Build Tool**: Vite (latest)
+- **Language**: TypeScript 5.8.3 (strict mode enabled)
 - **Styling**: Tailwind CSS 4.1.18
 - **Charts**: Recharts 3.6.0
 - **AI**: Google GenAI SDK 1.34.0
+- **Linting/Formatting**: Biome (latest)
 
 ## Getting Started
 
@@ -105,14 +106,15 @@ homepage/
 
 ## Environment Variables
 
-| Variable | Required | Description |
-|----------|----------|-------------|
-| `VITE_API_KEY` | Yes | Google GenAI API key |
-| `VITE_API_MODEL` | No | AI model name (default: "gemini-3-flash-preview") |
+| Variable | Required | Scope | Description |
+|----------|----------|-------|-------------|
+| `VITE_API_KEY` | Yes | Client-side | Google GenAI API key for Spark AI |
+| `VITE_API_MODEL` | No | Client-side | AI model name (default: "gemini-3-flash-preview") |
+| `VITE_YOUTUBE_API_KEY` | No | Server-side only | YouTube Data API key for video metadata (local dev & Vercel deploy) |
 
-**Note**: All environment variables must be prefixed with `VITE_` to be accessible in client-side code via `import.meta.env`.
+**Note**: All `VITE_` prefixed variables are accessible in client-side code via `import.meta.env`. Server-side functions can access non-prefixed variables.
 
-**Graceful Handling**: The app will render even without environment variables. A warning will be logged to console if variables are missing. Spark AI features will only work when `VITE_API_KEY` is properly configured.
+**Graceful Handling**: The app will render even without environment variables. A warning will be logged to console if variables are missing. Spark AI features will only work when `VITE_API_KEY` is properly configured. Videos will use static cached metadata if the YouTube API is unavailable.
 
 ## Available Scripts
 
@@ -191,6 +193,13 @@ Coverage reports are generated in the `coverage/` directory in HTML, LCOV, and J
 - ARIA labels on interactive elements
 - Focus indicators on all interactive elements
 - Semantic HTML structure
+
+## Documentation
+
+For detailed developer information, see:
+- **AGENTS.md** - Complete developer guide with patterns and workflows
+- **TODO.md** - Feature tracking and in-progress work
+- **docs/** - API patterns, architecture rationale, and testing guides
 
 ## Monorepo Context
 
