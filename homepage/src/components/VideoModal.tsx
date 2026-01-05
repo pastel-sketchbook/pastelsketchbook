@@ -1,5 +1,6 @@
-import { useEffect, useState } from "react"
-import { motion, AnimatePresence } from "framer-motion"
+import { useEffect, useState } from 'react'
+import { motion, AnimatePresence } from 'framer-motion'
+import { VIDEO_MODAL_CONFIG } from '../config/modal'
 
 interface VideoModalProps {
     videoId: string | null
@@ -7,26 +8,15 @@ interface VideoModalProps {
 }
 
 export function VideoModal({ videoId, onClose }: VideoModalProps) {
-    const [scale, setScale] = useState(1)
+    const [scale, setScale] = useState(VIDEO_MODAL_CONFIG.scale.INITIAL)
     const [isHoveringControls, setIsHoveringControls] = useState(false)
-    const MIN_SCALE = 0.6
-    const MAX_SCALE = 1.4
-    const SCALE_STEP = 0.1
-    const MIN_OPACITY = 0.15
-    const MAX_OPACITY = 0.6
+    const { MIN: MIN_SCALE, MAX: MAX_SCALE, STEP: SCALE_STEP } = VIDEO_MODAL_CONFIG.scale
+    const { MIN: MIN_OPACITY, MAX: MAX_OPACITY } = VIDEO_MODAL_CONFIG.opacity
 
     // Calculate background opacity based on scale
     // Smaller window = more transparent (less opaque = more blur visible)
     // Larger window = more opaque (darker overlay)
     const backgroundOpacity = MIN_OPACITY + ((scale - MIN_SCALE) / (MAX_SCALE - MIN_SCALE)) * (MAX_OPACITY - MIN_OPACITY)
-
-    useEffect(() => {
-        const handleEsc = (e: KeyboardEvent) => {
-            if (e.key === "Escape") onClose()
-        }
-        window.addEventListener("keydown", handleEsc)
-        return () => window.removeEventListener("keydown", handleEsc)
-    }, [onClose])
 
     const handleZoomIn = () => {
         setScale((prev) => Math.min(prev + SCALE_STEP, MAX_SCALE))
@@ -35,6 +25,26 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
     const handleZoomOut = () => {
         setScale((prev) => Math.max(prev - SCALE_STEP, MIN_SCALE))
     }
+
+    useEffect(() => {
+        const handleKeydown = (e: KeyboardEvent) => {
+            if (e.key === 'Escape') {
+                onClose()
+                return
+            }
+            // Keyboard shortcuts for zoom
+            if (e.key === '+' || e.key === '=') {
+                e.preventDefault()
+                handleZoomIn()
+            }
+            if (e.key === '-' || e.key === '_') {
+                e.preventDefault()
+                handleZoomOut()
+            }
+        }
+        window.addEventListener('keydown', handleKeydown)
+        return () => window.removeEventListener('keydown', handleKeydown)
+    }, [onClose])
 
     return (
         <AnimatePresence>
@@ -49,13 +59,13 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                     <motion.div
                         className="absolute inset-0 backdrop-blur-xl"
                         animate={{ backgroundColor: `rgba(27, 48, 34, ${backgroundOpacity})` }}
-                        transition={{ duration: 0.3 }}
+                        transition={{ duration: VIDEO_MODAL_CONFIG.animations.DURATION_MS / 1000 }}
                     ></motion.div>
                     <motion.div
                         initial={{ opacity: 0, scale: 0.9, y: 20 }}
                         animate={{ opacity: 1, scale: scale, y: 0 }}
                         exit={{ opacity: 0, scale: 0.9, y: 20 }}
-                        transition={{ duration: 0.3 }}
+                        transition={{ duration: VIDEO_MODAL_CONFIG.animations.DURATION_MS / 1000 }}
                         className="relative w-full max-w-5xl aspect-video bg-white sketch-border border-[#1B3022]/10 shadow-2xl overflow-hidden rounded-2xl"
                         onClick={(e) => e.stopPropagation()}
                     >
@@ -77,6 +87,8 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                             animate={{ opacity: isHoveringControls ? 1 : 0, y: isHoveringControls ? 0 : 4 }}
                             transition={{ duration: 0.2 }}
                             pointerEvents={isHoveringControls ? 'auto' : 'none'}
+                            role="group"
+                            aria-label="Video player zoom controls"
                         >
                             <motion.button
                                 whileHover={{ rotate: -3 }}
@@ -84,7 +96,7 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                                 onClick={handleZoomOut}
                                 disabled={scale <= MIN_SCALE}
                                 className="w-7 h-7 flex items-center justify-center bg-white text-[#1B3022] shadow-sm hover:shadow-md transition-all sketch-border border-[#1B3022]/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
-                                aria-label="Decrease video size"
+                                aria-label="Decrease video size (Press Minus key)"
                             >
                                 <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M20 12H4" />
@@ -104,7 +116,7 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                                 onClick={handleZoomIn}
                                 disabled={scale >= MAX_SCALE}
                                 className="w-7 h-7 flex items-center justify-center bg-white text-[#1B3022] shadow-sm hover:shadow-md transition-all sketch-border border-[#1B3022]/10 rounded-full disabled:opacity-50 disabled:cursor-not-allowed"
-                                aria-label="Increase video size"
+                                aria-label="Increase video size (Press Plus key)"
                             >
                                 <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M12 4v16m8-8H4" />
