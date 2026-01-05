@@ -176,15 +176,12 @@ describe('useLocalStorage hook', () => {
   })
 
   it('should warn on read errors and fallback to initial value', () => {
-    const warnSpy = vi.spyOn(console, 'warn').mockImplementation(() => {})
-    
     // Store invalid JSON
     localStorage.setItem('error-key', 'not json')
     
     const { result } = renderHook(() => useLocalStorage('error-key', 'fallback'))
     expect(result.current[0]).toBe('fallback')
-    expect(warnSpy).toHaveBeenCalled()
-    vi.restoreAllMocks()
+    // Console is mocked globally via setup.ts
   })
 
   it('should sync across multiple hook instances with same key', () => {

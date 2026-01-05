@@ -1,11 +1,6 @@
-import { describe, it, expect, beforeEach, vi } from 'vitest'
+import { describe, it, expect } from 'vitest'
 import { render, screen } from '@testing-library/react'
 import { SketchErrorBoundary } from '../src/components/ui/SketchErrorBoundary'
-
-// Mock console.error to avoid test output pollution
-beforeEach(() => {
-  vi.spyOn(console, 'error').mockImplementation(() => {})
-})
 
 describe('SketchErrorBoundary Component', () => {
   it('should render children when no error occurs', () => {

@@ -1,11 +1,21 @@
-import { expect, afterEach, vi } from 'vitest'
+import { expect, afterEach, vi, beforeEach } from 'vitest'
 import { cleanup } from '@testing-library/react'
 import * as matchers from '@testing-library/jest-dom/matchers'
 
 extendExpect(expect, matchers)
 
+// Global console mock setup - silence console output during tests
+beforeEach(() => {
+  vi.spyOn(console, 'log').mockImplementation(() => {})
+  vi.spyOn(console, 'warn').mockImplementation(() => {})
+  vi.spyOn(console, 'error').mockImplementation(() => {})
+  vi.spyOn(console, 'info').mockImplementation(() => {})
+  vi.spyOn(console, 'debug').mockImplementation(() => {})
+})
+
 afterEach(() => {
   cleanup()
+  vi.restoreAllMocks()
 })
 
 class ResizeObserverMock {
