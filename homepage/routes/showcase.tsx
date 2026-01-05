@@ -39,8 +39,37 @@ const allVideoIds = [...koreaVideos, ...financeVideos, ...kubernetesVideos, ...d
 import { VideoSearch } from "../src/components/VideoSearch";
 
 async function fetchVideoMetadata() {
-    const videos = [];
+    const apiKey = import.meta.env.VITE_YOUTUBE_API_KEY;
 
+    // 1. If API Key exists, use YouTube Data API (Batch Fetch)
+    if (apiKey) {
+        try {
+            // Join all IDs for a single batch request (limit is 50, we have ~20)
+            const ids = allVideoIds.join(",");
+            const response = await fetch(
+                `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=${ids}&key=${apiKey}`
+            );
+
+            if (!response.ok) throw new Error("YouTube API request failed");
+
+            const data = await response.json();
+
+            return data.items.map((item: any) => ({
+                id: item.id,
+                title: item.snippet.title,
+                views: Number(item.statistics.viewCount) || 0,
+                date: item.snippet.publishedAt
+            }));
+        } catch (error) {
+            console.error("YouTube API failed, falling back to noembed:", error);
+            // Fallthrough to noembed
+        }
+    } else {
+        console.warn("Missing VITE_YOUTUBE_API_KEY. View counts will be 0.");
+    }
+
+    // 2. Fallback: noembed (One by one, no view counts)
+    const videos = [];
     for (const videoId of allVideoIds) {
         try {
             const response = await fetch(`https://noembed.com/embed?url=https://www.youtube.com/watch?v=${videoId}`);
@@ -50,6 +79,7 @@ async function fetchVideoMetadata() {
             videos.push({
                 id: videoId,
                 title: data.title || "",
+                // noembed doesn't provide view counts
                 views: 0,
                 date: data.published_at || new Date().toISOString()
             });
@@ -63,7 +93,6 @@ async function fetchVideoMetadata() {
             });
         }
     }
-
     return videos;
 }
 
@@ -78,13 +107,21 @@ function Showcase() {
     const [searchQuery, setSearchQuery] = useState("");
     const [sortBy, setSortBy] = useState<"date" | "views">("date");
 
+    interface VideoItem {
+        id: string;
+        title: string;
+        views: number;
+        date: string;
+        category?: string;
+    }
+
     const { data: videoMetadata = [], isLoading } = useQuery({
         queryKey: ["videoMetadata"],
         queryFn: fetchVideoMetadata,
         staleTime: 3600000,
     });
 
-    const allItems = videoMetadata.map((item: any) => ({
+    const allItems: VideoItem[] = videoMetadata.map((item: any) => ({
         ...item,
         date: formatYouTubeDate(item.date),
         category: videoCategories[item.id]
@@ -97,9 +134,9 @@ function Showcase() {
         item.title.toLowerCase().includes(searchQuery.toLowerCase())
     ).sort((a, b) => {
         if (sortBy === "date") {
-            return new Date((b as any).date).getTime() - new Date((a as any).date).getTime();
+            return new Date(b.date).getTime() - new Date(a.date).getTime();
         }
-        return (b as any).views - (a as any).views;
+        return b.views - a.views;
     });
 
     const tabs = [
