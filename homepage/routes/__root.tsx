@@ -49,7 +49,7 @@ function Header() {
   };
 
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 bg-[#FAF9F6] md:bg-[#FAF9F6]/90 backdrop-blur-md border-b border-[#1B3022]/10 transition-all duration-300">
+    <header className="fixed top-0 left-0 right-0 z-50 bg-[#FAF9F6] md:bg-[#FAF9F6]/90 md:backdrop-blur-md border-b border-[#1B3022]/10 transition-all duration-300">
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         <Link
           to="/"
@@ -98,7 +98,7 @@ function Header() {
 
       {/* Mobile Menu Overlay */}
       {isMenuOpen && (
-        <div className="md:hidden fixed inset-0 top-[73px] bg-[#FAF9F6] z-[60] flex flex-col p-8 animate-fade-in border-t border-[#1B3022]/5">
+        <div className="md:hidden fixed top-[73px] left-0 right-0 bg-[#FAF9F6] z-[60] flex flex-col p-8 animate-fade-in border-t border-[#1B3022]/5 w-[80%] mx-auto">
           <nav className="flex flex-col gap-8 text-2xl font-serif italic text-[#1B3022]">
             <Link to="/" hash="vision" onClick={() => setIsMenuOpen(false)}>Vision</Link>
             <Link to="/showcase" onClick={() => setIsMenuOpen(false)}>Showcase</Link>
