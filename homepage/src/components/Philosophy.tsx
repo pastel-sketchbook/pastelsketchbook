@@ -75,33 +75,49 @@ export function Philosophy() {
                         Learning is valuable.<br />Monetizing it is <span className="text-[#E76F51]">lonely.</span>
                     </motion.h2>
 
-                    <div className="grid md:grid-cols-2 gap-12">
-                        <SketchBox className="bg-white p-8 md:p-12">
-                            <div className="aspect-video mb-12 flex items-center justify-center">
-                                <svg className="w-48 h-48 text-[#1B3022]/80" viewBox="0 0 100 100">
-                                    <circle cx="50" cy="40" r="20" fill="#E76F51" fillOpacity="0.1" stroke="currentColor" strokeWidth="1" strokeDasharray="4 4" />
-                                    <path d="M20 80 L80 80" stroke="currentColor" strokeWidth="1.5" />
-                                    <path d="M20 80 L40 60" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
-                                    <circle cx="40" cy="55" r="2.5" fill="currentColor" />
-                                </svg>
-                            </div>
-                            <h3 className="text-3xl font-bold mb-6 text-[#1B3022]">Solitary Effort</h3>
-                            <p className="text-[#1B3022]/60 text-lg leading-relaxed font-sans">Our learning journeys are often isolated, limiting the potential for collaboration and shared growth.</p>
-                        </SketchBox>
+                    <div className="grid md:grid-cols-2 gap-12 items-stretch">
+                        <motion.div
+                            initial={{ opacity: 0, x: -50 }}
+                            whileInView={{ opacity: 1, x: 0 }}
+                            viewport={{ once: true }}
+                            transition={{ duration: 0.6, delay: 0.2 }}
+                            className="h-full"
+                        >
+                            <SketchBox className="bg-white p-8 md:p-12 h-full flex flex-col">
+                                <div className="aspect-video mb-12 flex items-center justify-center">
+                                    <svg className="w-48 h-48 text-[#1B3022]/80" viewBox="0 0 100 100">
+                                        <circle cx="50" cy="40" r="20" fill="#E76F51" fillOpacity="0.1" stroke="currentColor" strokeWidth="1" strokeDasharray="4 4" />
+                                        <path d="M20 80 L80 80" stroke="currentColor" strokeWidth="1.5" />
+                                        <path d="M20 80 L40 60" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+                                        <circle cx="40" cy="55" r="2.5" fill="currentColor" />
+                                    </svg>
+                                </div>
+                                <h3 className="text-3xl font-bold mb-6 text-[#1B3022]">Solitary Effort</h3>
+                                <p className="text-[#1B3022]/60 text-lg leading-relaxed font-sans flex-grow">Our learning journeys are often isolated, limiting the potential for collaboration and shared growth.</p>
+                            </SketchBox>
+                        </motion.div>
 
-                        <SketchBox className="bg-white p-8 md:p-12">
-                            <div className="aspect-video mb-12 flex items-center justify-center">
-                                <svg className="w-48 h-48 text-[#1B3022]/80" viewBox="0 0 100 100">
-                                    <circle cx="60" cy="40" r="25" fill="#5F7D61" fillOpacity="0.1" stroke="currentColor" strokeWidth="1" strokeDasharray="4 4" />
-                                    <path d="M20 80 L80 80" stroke="currentColor" strokeWidth="1.5" />
-                                    <path d="M30 80 L50 60" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
-                                    <path d="M35 80 L55 60" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
-                                    <path d="M40 80 L60 60" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
-                                </svg>
-                            </div>
-                            <h3 className="text-3xl font-bold mb-6 text-[#1B3022]">The Creator Treadmill</h3>
-                            <p className="text-[#1B3022]/60 text-lg leading-relaxed font-sans">Turning passion into income requires building a personal brand, an audience, and a business from scratch—a monumental task for one person.</p>
-                        </SketchBox>
+                        <motion.div
+                            initial={{ opacity: 0, x: 50 }}
+                            whileInView={{ opacity: 1, x: 0 }}
+                            viewport={{ once: true }}
+                            transition={{ duration: 0.6, delay: 0.2 }}
+                            className="h-full"
+                        >
+                            <SketchBox className="bg-white p-8 md:p-12 h-full flex flex-col">
+                                <div className="aspect-video mb-12 flex items-center justify-center">
+                                    <svg className="w-48 h-48 text-[#1B3022]/80" viewBox="0 0 100 100">
+                                        <circle cx="60" cy="40" r="25" fill="#5F7D61" fillOpacity="0.1" stroke="currentColor" strokeWidth="1" strokeDasharray="4 4" />
+                                        <path d="M20 80 L80 80" stroke="currentColor" strokeWidth="1.5" />
+                                        <path d="M30 80 L50 60" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+                                        <path d="M35 80 L55 60" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+                                        <path d="M40 80 L60 60" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+                                    </svg>
+                                </div>
+                                <h3 className="text-3xl font-bold mb-6 text-[#1B3022]">The Creator Treadmill</h3>
+                                <p className="text-[#1B3022]/60 text-lg leading-relaxed font-sans flex-grow">Turning passion into income requires building a personal brand, an audience, and a business from scratch—a monumental task for one person.</p>
+                            </SketchBox>
+                        </motion.div>
                     </div>
                 </div>
             </section>

@@ -114,13 +114,17 @@ export function SparkAI() {
                 </div>
 
                 <div className="flex flex-col md:flex-row gap-6 mb-20 items-center">
-                    <div className="relative flex-1 w-full group">
-                        <input
+                    <motion.div 
+                        className="relative flex-1 w-full group"
+                        whileFocus={{ scale: 1.01 }}
+                    >
+                        <motion.input
                             type="text"
                             value={topic}
                             onChange={(e: React.ChangeEvent<HTMLInputElement>) => setTopic(e.target.value)}
                             onKeyDown={(e: React.KeyboardEvent<HTMLInputElement>) => e.key === "Enter" && generateSpark()}
                             placeholder="e.g. Learning Spanish, Quantum Physics, Vegan Baking..."
+                            whileFocus={{ boxShadow: "0 0 0 3px rgba(95, 125, 97, 0.1)" }}
                             className={`
                 w-full px-10 py-6 rounded-full bg-white border-2 border-[#1B3022]/5
                 outline-none transition-all duration-300 shadow-sm
@@ -129,19 +133,25 @@ export function SparkAI() {
                 ${topic.length > 0 ? "bg-white pr-16" : "bg-white/50"}
               `}
                         />
-                        {(topic || result) && (
-                            <button
-                                onClick={handleClear}
-                                className="absolute right-6 top-1/2 -translate-y-1/2 p-2 text-[#1B3022]/20 hover:text-[#E76F51] transition-colors"
-                                aria-label="Clear current spark"
-                                title="Clear current spark"
-                            >
-                                <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M6 18L18 6M6 6l12 12" />
-                                </svg>
-                            </button>
-                        )}
-                    </div>
+                        <AnimatePresence>
+                            {(topic || result) && (
+                                <motion.button
+                                    onClick={handleClear}
+                                    initial={{ opacity: 0, scale: 0.8 }}
+                                    animate={{ opacity: 1, scale: 1 }}
+                                    exit={{ opacity: 0, scale: 0.8 }}
+                                    whileHover={{ rotate: 90 }}
+                                    className="absolute right-6 top-1/2 -translate-y-1/2 p-2 text-[#1B3022]/20 hover:text-[#E76F51] transition-colors"
+                                    aria-label="Clear current spark"
+                                    title="Clear current spark"
+                                >
+                                    <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M6 18L18 6M6 6l12 12" />
+                                    </svg>
+                                </motion.button>
+                            )}
+                        </AnimatePresence>
+                    </motion.div>
                     <SketchButton
                         onClick={generateSpark}
                         disabled={loading}
@@ -211,20 +221,33 @@ export function SparkAI() {
                                 </div>
 
                                 <div className="flex flex-col sm:flex-row justify-center gap-4">
-                                    <SketchButton
-                                        variant="outline"
-                                        onClick={saveSpark}
-                                        className={`
-                        px-10 py-3 duration-500
-                        ${showSaveSuccess ? "bg-[#5F7D61] !border-[#5F7D61] !text-white" : ""}
-                      `}
+                                    <motion.div
+                                        whileHover={{ scale: 1.05 }}
+                                        whileTap={{ scale: 0.98 }}
                                     >
-                                        {showSaveSuccess ? (
-                                            <><span>✓</span> Seeded to Sketchbook</>
-                                        ) : (
-                                            <><span>🌱</span> Save to Sketchbook</>
-                                        )}
-                                    </SketchButton>
+                                        <SketchButton
+                                            variant="outline"
+                                            onClick={saveSpark}
+                                            className={`
+                            px-10 py-3 duration-500
+                            ${showSaveSuccess ? "bg-[#5F7D61] !border-[#5F7D61] !text-white" : ""}
+                          `}
+                                        >
+                                            {showSaveSuccess ? (
+                                                <motion.span
+                                                    key="success"
+                                                    initial={{ scale: 0 }}
+                                                    animate={{ scale: 1 }}
+                                                    transition={{ type: "spring", stiffness: 300 }}
+                                                    className="inline-flex items-center gap-2"
+                                                >
+                                                    <span>✓</span> Seeded to Sketchbook
+                                                </motion.span>
+                                            ) : (
+                                                <span>🌱 Save to Sketchbook</span>
+                                            )}
+                                        </SketchButton>
+                                    </motion.div>
 
                                     <button
                                         onClick={copyToClipboard}

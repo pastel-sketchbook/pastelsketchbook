@@ -182,3 +182,88 @@ h4 {
 .animate-scribble:hover {
   animation: scribble 2s ease-in-out infinite;
 }
+
+/* Glow animation for inputs */
+@keyframes inputGlow {
+  0% {
+    box-shadow: 0 0 0 0 rgba(95, 125, 97, 0.4);
+  }
+
+  70% {
+    box-shadow: 0 0 0 10px rgba(95, 125, 97, 0);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 rgba(95, 125, 97, 0);
+  }
+}
+
+.animate-input-glow {
+  animation: inputGlow 2s ease-out forwards;
+}
+
+/* Number flip animation */
+@keyframes numberFlip {
+  0% {
+    transform: rotateX(90deg);
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    transform: rotateX(0deg);
+    opacity: 1;
+  }
+}
+
+.animate-number-flip {
+  animation: numberFlip 0.6s ease-out forwards;
+}
+
+/* Checkmark draw animation */
+@keyframes checkmarkDraw {
+  0% {
+    stroke-dasharray: 100;
+    stroke-dashoffset: 100;
+  }
+
+  100% {
+    stroke-dasharray: 100;
+    stroke-dashoffset: 0;
+  }
+}
+
+.animate-checkmark {
+  animation: checkmarkDraw 0.6s ease-out forwards;
+}
+
+/* Chart bar grow animation */
+@keyframes barGrow {
+  from {
+    height: 0;
+    opacity: 0;
+  }
+
+  to {
+    height: 100%;
+    opacity: 1;
+  }
+}
+
+.animate-bar-grow {
+  animation: barGrow 0.8s ease-out forwards;
+}
+
+/* Respect prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
