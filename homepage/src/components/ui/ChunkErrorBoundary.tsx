@@ -29,7 +29,7 @@ export class ChunkErrorBoundary extends Component<Props, State> {
   public state: State = {
     hasError: false,
     retryCount: 0,
-    isLoading: true,
+    isLoading: false,
     errorId: ''
   }
 
