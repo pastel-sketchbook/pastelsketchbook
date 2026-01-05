@@ -25,7 +25,7 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                     className="fixed inset-0 z-[100] flex items-center justify-center p-4 md:p-8"
                     onClick={onClose}
                 >
-                    <div className="absolute inset-0 bg-[#FAF9F6]/80 backdrop-blur-xl"></div>
+                    <div className="absolute inset-0 bg-[#1B3022]/40 backdrop-blur-xl"></div>
                     <motion.div
                         initial={{ opacity: 0, scale: 0.9, y: 20 }}
                         animate={{ opacity: 1, scale: 1, y: 0 }}

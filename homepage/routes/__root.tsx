@@ -96,24 +96,54 @@ function Header() {
         </button>
       </div>
 
-      {/* Mobile Menu Overlay */}
+      {/* Mobile Sidebar & Backdrop */}
       {isMenuOpen && (
-        <div className="md:hidden fixed top-[73px] left-0 right-0 bg-[#FAF9F6] z-[60] flex flex-col p-8 animate-fade-in border-t border-[#1B3022]/5 w-[80%] mx-auto">
-          <nav className="flex flex-col gap-8 text-2xl font-serif italic text-[#1B3022]">
-            <Link to="/" hash="vision" onClick={() => setIsMenuOpen(false)}>Vision</Link>
-            <Link to="/showcase" onClick={() => setIsMenuOpen(false)}>Showcase</Link>
-            <Link to="/podcast" onClick={() => setIsMenuOpen(false)}>Podcast</Link>
-            <Link to="/" hash="cycle" onClick={() => setIsMenuOpen(false)}>How it Works</Link>
-            <Link to="/" hash="spark" onClick={() => setIsMenuOpen(false)} className="text-[#D4A373]">Spark AI</Link>
-            <Link to="/" hash="growth" onClick={() => setIsMenuOpen(false)}>Growth</Link>
-            <button
-              className="mt-8 bg-[#1B3022] text-white px-8 py-4 rounded-full text-lg font-bold shadow-lg"
-              onClick={scrollToFooter}
-            >
-              Join the Garden
-            </button>
-          </nav>
-        </div>
+        <>
+          {/* Backdrop */}
+          <div
+            className="md:hidden fixed inset-0 bg-black/20 backdrop-blur-sm z-[60] animate-fade-in"
+            onClick={() => setIsMenuOpen(false)}
+            aria-hidden="true"
+          />
+          
+          {/* Sidebar Drawer */}
+          <div
+            className="md:hidden fixed top-0 right-0 bottom-0 w-[80%] max-w-sm bg-[#FAF9F6] z-[70] shadow-2xl p-6 flex flex-col border-l border-[#1B3022]/10 animate-slide-in-right overflow-y-auto"
+            role="dialog"
+            aria-modal="true"
+            aria-label="Mobile Navigation"
+          >
+            <div className="flex justify-end mb-8">
+              <button
+                onClick={() => setIsMenuOpen(false)}
+                className="p-2 -mr-2 text-[#1B3022] hover:opacity-70 transition-opacity"
+                aria-label="Close menu"
+              >
+                <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+            </div>
+
+            <nav className="flex flex-col gap-6 text-xl font-serif italic text-[#1B3022]">
+              <Link to="/" hash="vision" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Vision</Link>
+              <Link to="/showcase" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Showcase</Link>
+              <Link to="/podcast" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Podcast</Link>
+              <Link to="/" hash="cycle" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">How it Works</Link>
+              <Link to="/" hash="spark" onClick={() => setIsMenuOpen(false)} className="text-[#D4A373] hover:text-[#E76F51] transition-colors py-2">Spark AI</Link>
+              <Link to="/" hash="growth" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Growth</Link>
+            </nav>
+
+            <div className="mt-auto pt-8 pb-8">
+              <button
+                className="w-full bg-[#1B3022] text-white px-6 py-4 rounded-full text-base font-bold shadow-md hover:bg-[#2D4536] transition-all"
+                onClick={scrollToFooter}
+              >
+                Join the Garden
+              </button>
+            </div>
+          </div>
+        </>
       )}
     </header>
   );
