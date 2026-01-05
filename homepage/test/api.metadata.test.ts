@@ -22,6 +22,18 @@ function createMockResponse(): VercelResponse & { _getData: () => any } {
   const headers: Record<string, string> = {}
   let statusCode = 200
 
+  const statusChain = {
+    json: vi.fn((body: any) => {
+      data.body = body
+      data.statusCode = statusCode
+      return statusChain
+    }),
+    end: vi.fn(() => {
+      data.statusCode = statusCode
+      return statusChain
+    })
+  }
+
   return {
     setHeader: vi.fn((key: string, value: string) => {
       headers[key] = value
@@ -29,14 +41,7 @@ function createMockResponse(): VercelResponse & { _getData: () => any } {
     }),
     status: vi.fn((code: number) => {
       statusCode = code
-      return {
-        json: vi.fn((body: any) => {
-          data.body = body
-          data.statusCode = statusCode
-          return undefined
-        }),
-        end: vi.fn()
-      } as any
+      return statusChain as any
     }),
     json: vi.fn((body: any) => {
       data.body = body
@@ -53,6 +58,8 @@ function createMockResponse(): VercelResponse & { _getData: () => any } {
 describe('API Routes: /api/videos/metadata', () => {
   beforeEach(() => {
     vi.clearAllMocks()
+    // Set API key for tests
+    process.env.VITE_YOUTUBE_API_KEY = 'test-key'
   })
 
   describe('Request Validation', () => {
