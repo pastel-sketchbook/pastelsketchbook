@@ -16,8 +16,9 @@ bun run check:all
 
 - [x] Code formatting compliant (Biome)
 - [x] Linting passes (zero issues)
-- [x] All tests passing (199 tests)
-- [x] Coverage reports generated (30.11%)
+- [x] All tests passing (234 tests, +35 API route tests)
+- [x] Coverage reports generated (30%+ core logic)
+- [x] API routes tested (metadata.ts, health.ts)
 
 ### Build Verification
 ```bash
@@ -298,10 +299,10 @@ vercel deploy --prod [previous-build-id]
 **Final Checklist**:
 - [x] Code quality: A grade
 - [x] Security: A grade
-- [x] Test coverage: 30%+
+- [x] Test coverage: 234 tests (30%+ core logic + 35 API route tests)
 - [x] Build succeeds
 - [x] Environment configured
-- [x] API routes tested locally
+- [x] API routes tested locally (metadata.ts: 18 tests, health.ts: 17 tests)
 - [x] Security headers validated
 - [x] Monitoring set up
 - [x] Rollback plan documented
