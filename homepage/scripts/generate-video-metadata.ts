@@ -18,11 +18,11 @@ async function generateMetadata() {
   const apiKey = process.env.VITE_YOUTUBE_API_KEY
 
   if (!apiKey) {
-    console.error(
-      'Error: VITE_YOUTUBE_API_KEY environment variable is not set.\n' +
-      'Please set your YouTube Data API key before running this script.'
+    console.log(
+      'ℹ️  Skipping metadata generation: VITE_YOUTUBE_API_KEY not set.\n' +
+      '   Using fallback from public/videos-metadata.json'
     )
-    process.exit(1)
+    return
   }
 
   console.log(`Fetching metadata for ${allVideoIds.length} videos...`)
@@ -70,12 +70,12 @@ async function generateMetadata() {
       `✓ Fallback JSON ready (generated at ${output.generatedAt})`
     )
   } catch (error) {
-    console.error(
-      'Error generating metadata:',
+    console.warn(
+      '⚠️  Failed to generate metadata:',
       error instanceof Error ? error.message : error
     )
-    process.exit(1)
+    console.warn('   Build will proceed with existing fallback JSON')
   }
-}
+  }
 
 generateMetadata()
