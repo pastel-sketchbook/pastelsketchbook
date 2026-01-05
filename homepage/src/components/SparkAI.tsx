@@ -62,7 +62,9 @@ export function SparkAI() {
                 setResult(data as SparkResult);
             }
         } catch (err) {
-            console.error(err);
+            // Log error for debugging but don't expose details to user
+            const errorMessage = err instanceof Error ? err.message : String(err);
+            console.error('SparkAI generation error:', errorMessage);
             setError("The garden is resting. Please try again in a moment.");
         } finally {
             setLoading(false);

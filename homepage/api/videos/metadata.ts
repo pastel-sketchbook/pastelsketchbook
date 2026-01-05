@@ -30,6 +30,24 @@ function logApiError(message: string, error?: Error | string, metadata?: Record<
 }
 
 /**
+ * Set CORS headers to restrict cross-origin access
+ * Only allows GET requests from configured origins
+ */
+function setCorsHeaders(req: VercelRequest, res: VercelResponse) {
+  // Allow specific origins (or localhost for development)
+  const allowedOrigins = (process.env.ALLOWED_ORIGINS || 'http://localhost:3000,https://pastelsketchbook.org').split(',')
+  const origin = req.headers.origin
+  
+  if (origin && allowedOrigins.includes(origin)) {
+    res.setHeader('Access-Control-Allow-Origin', origin)
+  }
+  
+  res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS')
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type')
+  res.setHeader('Access-Control-Max-Age', '3600') // 1 hour
+}
+
+/**
  * Vercel Serverless Function: YouTube Video Metadata
  *
  * Fetches video metadata (title, view count, publish date) from YouTube Data API v3
@@ -49,6 +67,10 @@ function logApiError(message: string, error?: Error | string, metadata?: Record<
  * Rate Limiting:
  * - 60 requests per minute per IP
  * - Returns 429 if exceeded
+ *
+ * CORS:
+ * - Only allows requests from configured origins (see setCorsHeaders)
+ * - GET requests only (no POST/PUT/DELETE)
  */
 
 interface YouTubeVideo {
@@ -128,6 +150,14 @@ export default async function handler(
   req: VercelRequest,
   res: VercelResponse<ApiResponse | { error: string }>
 ) {
+  // Set CORS headers for all responses
+  setCorsHeaders(req, res)
+  
+  // Handle preflight OPTIONS request
+  if (req.method === 'OPTIONS') {
+    return res.status(200).end()
+  }
+  
   // Only accept GET requests
   if (req.method !== 'GET') {
     return res.status(405).json({ error: 'Method not allowed' })
