@@ -1,5 +1,4 @@
 import { createRootRoute, Outlet, Link, useLocation } from "@tanstack/react-router";
-import { TanStackRouterDevtools } from "@tanstack/react-router-devtools";
 import { useState, useEffect } from "react";
 import { ScrollToTop } from "../src/components/ui/ScrollToTop";
 
@@ -32,7 +31,6 @@ function RootComponent() {
         <Footer />
         <ScrollToTop />
       </div>
-      <TanStackRouterDevtools initialIsOpen={false} />
     </>
   );
 }
