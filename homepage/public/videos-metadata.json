@@ -27,13 +27,13 @@
     {
       "id": "CASZX56r-tk",
       "title": "Mi Cuaderno de Viaje: Andong",
-      "views": 10,
+      "views": 12,
       "date": "2026-01-04T02:59:34Z"
     },
     {
       "id": "EvcUSPWkOA8",
       "title": "Jeonju y Gochang: Apuntes de Corea",
-      "views": 6,
+      "views": 12,
       "date": "2026-01-04T18:38:25Z"
     },
     {
@@ -45,7 +45,7 @@
     {
       "id": "drVBXipEOAs",
       "title": "Jinju y Jirisan: el Valor a la Sabiduría",
-      "views": 9,
+      "views": 15,
       "date": "2026-01-04T19:28:27Z"
     },
     {
@@ -75,31 +75,43 @@
     {
       "id": "EMXUbohWsWs",
       "title": "The 2026 Lifecycle ETF Playbook",
-      "views": 7,
+      "views": 8,
       "date": "2026-01-04T07:12:28Z"
     },
     {
       "id": "s1BoGn9r7oE",
       "title": "The 2026  Playbook for High-Yield & Covered Call ETFs",
       "views": 1,
-      "date": "2026-01-05T22:53:00Z"
+      "date": "2026-01-05T23:11:19Z"
+    },
+    {
+      "id": "snRi_JET1bg",
+      "title": "Deploying CSR Applications on Vercel Versus AKS",
+      "views": 2,
+      "date": "2026-01-07T04:11:51Z"
     },
     {
       "id": "8ycnldvJmuA",
       "title": "The Blueprint for Enterprise AI on Azure",
-      "views": 8,
+      "views": 14,
       "date": "2026-01-03T01:41:31Z"
     },
     {
       "id": "ftODZr2_V5Q",
       "title": "Kubernetes Version Upgrade Strategy",
-      "views": 26,
+      "views": 27,
       "date": "2025-12-26T11:21:45Z"
+    },
+    {
+      "id": "axvxGj3yOgA",
+      "title": "The Memory Management Trilemma",
+      "views": 6,
+      "date": "2026-01-07T03:10:14Z"
     },
     {
       "id": "Xhq99-YHXCY",
       "title": "Professional Al Agent Usage via the CLI",
-      "views": 19,
+      "views": 22,
       "date": "2026-01-02T21:40:38Z"
     },
     {
@@ -117,13 +129,13 @@
     {
       "id": "olsB3bJxA2A",
       "title": "Let's check about Zig",
-      "views": 310,
+      "views": 312,
       "date": "2025-12-28T09:28:00Z"
     },
     {
       "id": "IF5sNQH-01c",
       "title": "NotebookLM's Intelligence Flow",
-      "views": 41,
+      "views": 44,
       "date": "2025-12-28T08:31:48Z"
     },
     {
@@ -139,6 +151,6 @@
       "date": "2025-12-27T21:13:50Z"
     }
   ],
-  "generatedAt": "2026-01-05T22:54:30.000Z",
-  "count": 23
+  "generatedAt": "2026-01-07T04:19:17.799Z",
+  "count": 25
 }

@@ -41,8 +41,9 @@ export const VIDEO_CONFIG = {
     'EMXUbohWsWs',
     's1BoGn9r7oE'
   ],
-  kubernetes: ['8ycnldvJmuA', 'ftODZr2_V5Q'],
+  kubernetes: ['snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q'],
   development: [
+    'axvxGj3yOgA',
     'Xhq99-YHXCY',
     'PNFlYx8HiOM',
     'pzVOjl6mOD4',
