@@ -25,24 +25,29 @@ export type VideoMetadataResponse = z.infer<typeof VideoMetadataResponseSchema>
 export const VIDEO_CONFIG = {
   korea: [
     'V2cZl5s4EKU',
+    'G3ys6d2w3yc',
     'L9sxbq8ugoU',
     'vNHblhm9oQo',
     '4h84JgKkt94',
+    'a6KG7zSZfwo',
     'CASZX56r-tk',
     'EvcUSPWkOA8',
     'JlPl9MskqJM',
     'drVBXipEOAs'
   ],
   finance: [
-    'tPDFgVAp4c4',
-    'nnL78ZVifZU',
-    'MDNRiJN7aEg',
-    'KBfVy5-M-5k',
+    's1BoGn9r7oE',
     'EMXUbohWsWs',
-    's1BoGn9r7oE'
+    'KBfVy5-M-5k',
+    'MDNRiJN7aEg',
+    'nnL78ZVifZU',
+    'tPDFgVAp4c4',
+    '0Wtng6Ou3O4',
+    '-WYyOwj8EYU'
   ],
-  kubernetes: ['snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q'],
+  kubernetes: ['A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q'],
   development: [
+    'z_Ydy_-cI1U',
     'axvxGj3yOgA',
     'Xhq99-YHXCY',
     'PNFlYx8HiOM',
@@ -50,7 +55,8 @@ export const VIDEO_CONFIG = {
     'olsB3bJxA2A',
     'IF5sNQH-01c',
     '2kvYb2pVe5o',
-    'TLqdeHlAo3A'
+    'TLqdeHlAo3A',
+    'SHa7rFntlkU'
   ]
 } as const
 

@@ -33,50 +33,20 @@
     {
       "id": "EvcUSPWkOA8",
       "title": "Jeonju y Gochang: Apuntes de Corea",
-      "views": 12,
+      "views": 13,
       "date": "2026-01-04T18:38:25Z"
     },
     {
       "id": "JlPl9MskqJM",
       "title": "Mi Cuaderno de Viaje: Yeosu",
-      "views": 6,
+      "views": 7,
       "date": "2026-01-04T18:38:34Z"
     },
     {
       "id": "drVBXipEOAs",
       "title": "Jinju y Jirisan: el Valor a la Sabiduría",
-      "views": 15,
+      "views": 16,
       "date": "2026-01-04T19:28:27Z"
-    },
-    {
-      "id": "tPDFgVAp4c4",
-      "title": "Breakout Stars and Dominant Titans",
-      "views": 44,
-      "date": "2025-12-26T10:48:59Z"
-    },
-    {
-      "id": "nnL78ZVifZU",
-      "title": "Reading the Market's Story",
-      "views": 15,
-      "date": "2025-12-27T09:05:46Z"
-    },
-    {
-      "id": "MDNRiJN7aEg",
-      "title": "An Ambitious Ascent",
-      "views": 10,
-      "date": "2025-12-29T08:43:50Z"
-    },
-    {
-      "id": "KBfVy5-M-5k",
-      "title": "The Retirement Red Zone",
-      "views": 15,
-      "date": "2025-12-31T21:10:33Z"
-    },
-    {
-      "id": "EMXUbohWsWs",
-      "title": "The 2026 Lifecycle ETF Playbook",
-      "views": 8,
-      "date": "2026-01-04T07:12:28Z"
     },
     {
       "id": "s1BoGn9r7oE",
@@ -85,9 +55,45 @@
       "date": "2026-01-05T23:11:19Z"
     },
     {
+      "id": "EMXUbohWsWs",
+      "title": "The 2026 Lifecycle ETF Playbook",
+      "views": 8,
+      "date": "2026-01-04T07:12:28Z"
+    },
+    {
+      "id": "KBfVy5-M-5k",
+      "title": "The Retirement Red Zone",
+      "views": 15,
+      "date": "2025-12-31T21:10:33Z"
+    },
+    {
+      "id": "MDNRiJN7aEg",
+      "title": "An Ambitious Ascent",
+      "views": 10,
+      "date": "2025-12-29T08:43:50Z"
+    },
+    {
+      "id": "nnL78ZVifZU",
+      "title": "Reading the Market's Story",
+      "views": 15,
+      "date": "2025-12-27T09:05:46Z"
+    },
+    {
+      "id": "tPDFgVAp4c4",
+      "title": "Breakout Stars and Dominant Titans",
+      "views": 44,
+      "date": "2025-12-26T10:48:59Z"
+    },
+    {
+      "id": "A7eoKD5m6Ek",
+      "title": "Securely Exposing AKS Applications",
+      "views": 1,
+      "date": "2026-01-08T08:17:48Z"
+    },
+    {
       "id": "snRi_JET1bg",
       "title": "Deploying CSR Applications on Vercel Versus AKS",
-      "views": 2,
+      "views": 3,
       "date": "2026-01-07T04:11:51Z"
     },
     {
@@ -103,9 +109,15 @@
       "date": "2025-12-26T11:21:45Z"
     },
     {
+      "id": "z_Ydy_-cI1U",
+      "title": "Micro-Processing the Hippo's Waste",
+      "views": 1,
+      "date": "2026-01-07T05:32:04Z"
+    },
+    {
       "id": "axvxGj3yOgA",
       "title": "The Memory Management Trilemma",
-      "views": 6,
+      "views": 15,
       "date": "2026-01-07T03:10:14Z"
     },
     {
@@ -117,7 +129,7 @@
     {
       "id": "PNFlYx8HiOM",
       "title": "The Art of Git Gardening",
-      "views": 3,
+      "views": 8,
       "date": "2025-12-31T20:13:22Z"
     },
     {
@@ -129,7 +141,7 @@
     {
       "id": "olsB3bJxA2A",
       "title": "Let's check about Zig",
-      "views": 312,
+      "views": 313,
       "date": "2025-12-28T09:28:00Z"
     },
     {
@@ -151,6 +163,6 @@
       "date": "2025-12-27T21:13:50Z"
     }
   ],
-  "generatedAt": "2026-01-07T04:19:17.799Z",
-  "count": 25
+  "generatedAt": "2026-01-08T08:43:21.472Z",
+  "count": 27
 }

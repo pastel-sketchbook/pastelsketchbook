@@ -5,9 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "prebuild": "bun scripts/generate-video-metadata.ts",
+    "prebuild": "bun scripts/sync-videos.ts",
     "build": "vite build",
     "preview": "vite preview",
+    "sync:videos": "bun scripts/sync-videos.ts",
     "router:generate": "tsr generate",
     "format": "biome format --write .",
     "format:check": "biome format .",
