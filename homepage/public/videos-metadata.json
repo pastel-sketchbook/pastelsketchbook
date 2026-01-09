@@ -39,13 +39,13 @@
     {
       "id": "JlPl9MskqJM",
       "title": "Mi Cuaderno de Viaje: Yeosu",
-      "views": 7,
+      "views": 8,
       "date": "2026-01-04T18:38:34Z"
     },
     {
       "id": "drVBXipEOAs",
       "title": "Jinju y Jirisan: el Valor a la Sabiduría",
-      "views": 16,
+      "views": 17,
       "date": "2026-01-04T19:28:27Z"
     },
     {
@@ -57,7 +57,7 @@
     {
       "id": "EMXUbohWsWs",
       "title": "The 2026 Lifecycle ETF Playbook",
-      "views": 8,
+      "views": 9,
       "date": "2026-01-04T07:12:28Z"
     },
     {
@@ -87,19 +87,19 @@
     {
       "id": "A7eoKD5m6Ek",
       "title": "Securely Exposing AKS Applications",
-      "views": 1,
+      "views": 3,
       "date": "2026-01-08T08:17:48Z"
     },
     {
       "id": "snRi_JET1bg",
       "title": "Deploying CSR Applications on Vercel Versus AKS",
-      "views": 3,
+      "views": 4,
       "date": "2026-01-07T04:11:51Z"
     },
     {
       "id": "8ycnldvJmuA",
       "title": "The Blueprint for Enterprise AI on Azure",
-      "views": 14,
+      "views": 15,
       "date": "2026-01-03T01:41:31Z"
     },
     {
@@ -107,6 +107,30 @@
       "title": "Kubernetes Version Upgrade Strategy",
       "views": 27,
       "date": "2025-12-26T11:21:45Z"
+    },
+    {
+      "id": "B2x09utLjtM",
+      "title": "The Modern Delivery Flywheel",
+      "views": 1,
+      "date": "2026-01-09T08:50:53Z"
+    },
+    {
+      "id": "7zFqW-ZcEbo",
+      "title": "The Rust Architect's Sketchbook",
+      "views": 1,
+      "date": "2026-01-09T00:15:35Z"
+    },
+    {
+      "id": "js95nIDeA-c",
+      "title": "The Professional Rust Toolbox",
+      "views": 3,
+      "date": "2026-01-08T10:19:31Z"
+    },
+    {
+      "id": "BAxPZdgmgRQ",
+      "title": "The 2026 State of Al Agents",
+      "views": 1,
+      "date": "2026-01-08T09:41:38Z"
     },
     {
       "id": "z_Ydy_-cI1U",
@@ -129,7 +153,7 @@
     {
       "id": "PNFlYx8HiOM",
       "title": "The Art of Git Gardening",
-      "views": 8,
+      "views": 12,
       "date": "2025-12-31T20:13:22Z"
     },
     {
@@ -141,7 +165,7 @@
     {
       "id": "olsB3bJxA2A",
       "title": "Let's check about Zig",
-      "views": 313,
+      "views": 314,
       "date": "2025-12-28T09:28:00Z"
     },
     {
@@ -159,10 +183,10 @@
     {
       "id": "TLqdeHlAo3A",
       "title": "From Bottlenecks to Breakthroughs:",
-      "views": 22,
+      "views": 24,
       "date": "2025-12-27T21:13:50Z"
     }
   ],
-  "generatedAt": "2026-01-08T08:43:21.472Z",
-  "count": 27
+  "generatedAt": "2026-01-09T09:03:29.991Z",
+  "count": 31
 }
