@@ -21,7 +21,7 @@
     {
       "id": "4h84JgKkt94",
       "title": "Gyeongju: El Museo Sin Muros",
-      "views": 8,
+      "views": 10,
       "date": "2026-01-03T00:31:42Z"
     },
     {
@@ -51,7 +51,7 @@
     {
       "id": "s1BoGn9r7oE",
       "title": "The 2026  Playbook for High-Yield & Covered Call ETFs",
-      "views": 1,
+      "views": 2,
       "date": "2026-01-05T23:11:19Z"
     },
     {
@@ -85,9 +85,15 @@
       "date": "2025-12-26T10:48:59Z"
     },
     {
+      "id": "C5HqbzLRYZ0",
+      "title": "K8s Services  AKS & Istio",
+      "views": 1,
+      "date": "2026-01-10T16:26:22Z"
+    },
+    {
       "id": "rJTUB-u8U2Y",
       "title": "Kubernetes Cluster Architecture",
-      "views": 1,
+      "views": 5,
       "date": "2026-01-10T03:23:02Z"
     },
     {
@@ -115,15 +121,27 @@
       "date": "2025-12-26T11:21:45Z"
     },
     {
+      "id": "9oSUtndLto4",
+      "title": "Unifying AI, Copilot & Power BI",
+      "views": 0,
+      "date": "2026-01-10T16:58:52Z"
+    },
+    {
+      "id": "yOOQNnaOLeM",
+      "title": "Zig  Pragmatic Successor to C",
+      "views": 3,
+      "date": "2026-01-10T04:21:57Z"
+    },
+    {
       "id": "4_mBGmXA244",
       "title": "Data Centric Flutter Apps",
-      "views": 4,
+      "views": 18,
       "date": "2026-01-10T02:40:22Z"
     },
     {
       "id": "KCuGqld6nOc",
       "title": "The Go Concurrency Paradox",
-      "views": 6,
+      "views": 35,
       "date": "2026-01-10T00:17:59Z"
     },
     {
@@ -135,7 +153,7 @@
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 1,
+      "views": 3,
       "date": "2026-01-09T00:15:35Z"
     },
     {
@@ -183,7 +201,7 @@
     {
       "id": "olsB3bJxA2A",
       "title": "Let's check about Zig",
-      "views": 315,
+      "views": 319,
       "date": "2025-12-28T09:28:00Z"
     },
     {
@@ -203,8 +221,26 @@
       "title": "From Bottlenecks to Breakthroughs:",
       "views": 26,
       "date": "2025-12-27T21:13:50Z"
+    },
+    {
+      "id": "T5FjMjTQCBI",
+      "title": "타입스크립트와 번으로 배우는 프로그래밍 1",
+      "views": 24,
+      "date": "2026-01-10T07:09:48Z"
+    },
+    {
+      "id": "F6aMGDfVAFg",
+      "title": "비동기 처리 - async/await",
+      "views": 7,
+      "date": "2026-01-10T07:11:59Z"
+    },
+    {
+      "id": "D1Hth_78ftg",
+      "title": "타입스크립트와 번으로 만드는 TODO 리스트",
+      "views": 2,
+      "date": "2026-01-10T07:12:38Z"
     }
   ],
-  "generatedAt": "2026-01-10T03:29:05.840Z",
-  "count": 34
+  "generatedAt": "2026-01-10T16:59:58.094Z",
+  "count": 40
 }

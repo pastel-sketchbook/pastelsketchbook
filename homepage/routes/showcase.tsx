@@ -94,7 +94,7 @@ function formatYouTubeDate(dateString: string): string {
 }
 
 function Showcase() {
-    const [activeTab, setActiveTab] = useState<"korea" | "finance" | "kubernetes" | "development" | "all">("all")
+    const [activeTab, setActiveTab] = useState<"korea" | "finance" | "kubernetes" | "development" | "programming" | "all">("all")
     const [selectedVideoId, setSelectedVideoId] = useState<string | null>(null)
     const [searchQuery, setSearchQuery] = useState("")
     const [sortBy, setSortBy] = useState<"date" | "views">("date")
@@ -150,6 +150,7 @@ function Showcase() {
         { id: "finance", label: "Finance" },
         { id: "kubernetes", label: "Kubernetes" },
         { id: "development", label: "Development" },
+        { id: "programming", label: "프로그래밍" },
     ];
 
     return (
@@ -277,7 +278,9 @@ function Showcase() {
                                                         ? "A journey through markets, assets, and the art of wealth accumulation."
                                                         : activeTab === "kubernetes"
                                                             ? "Mastering the art of container orchestration. Scalable, resilient, and automated infrastructure."
-                                                            : "Deep dives into development practices, toolsets, and the creative process of building software."
+                                                            : activeTab === "programming"
+                                                                ? "Explorations in programming, TypeScript, and the craft of writing clean, maintainable code."
+                                                                : "Deep dives into development practices, toolsets, and the creative process of building software."
                                     }
                                 />
                             ) : (

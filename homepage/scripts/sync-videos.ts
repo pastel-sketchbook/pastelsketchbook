@@ -55,7 +55,8 @@ const PLAYLISTS: PlaylistConfig[] = [
   { id: 'PLOZ1_i7WA_ED7Bdhz48-YqxpeZ4qszwvK', name: 'korea' },
   { id: 'PLOZ1_i7WA_ECACxs7BkfGh_ZxTSwQ_s7y', name: 'finance' },
   { id: 'PLOZ1_i7WA_EAeKcYgHWr9MjHlK8JCDJKr', name: 'kubernetes' },
-  { id: 'PLOZ1_i7WA_EC7ePuZp2f1TPtjdyIdKwtc', name: 'development' }
+  { id: 'PLOZ1_i7WA_EC7ePuZp2f1TPtjdyIdKwtc', name: 'development' },
+  { id: 'PLOZ1_i7WA_EDVKibanO4XgyJJxa1ryWbE', name: 'programming' }
 ]
 
 async function fetchPlaylistVideos(
