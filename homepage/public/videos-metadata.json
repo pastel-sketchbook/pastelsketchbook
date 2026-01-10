@@ -33,13 +33,13 @@
     {
       "id": "EvcUSPWkOA8",
       "title": "Jeonju y Gochang: Apuntes de Corea",
-      "views": 13,
+      "views": 14,
       "date": "2026-01-04T18:38:25Z"
     },
     {
       "id": "JlPl9MskqJM",
       "title": "Mi Cuaderno de Viaje: Yeosu",
-      "views": 8,
+      "views": 9,
       "date": "2026-01-04T18:38:34Z"
     },
     {
@@ -85,6 +85,12 @@
       "date": "2025-12-26T10:48:59Z"
     },
     {
+      "id": "rJTUB-u8U2Y",
+      "title": "Kubernetes Cluster Architecture",
+      "views": 1,
+      "date": "2026-01-10T03:23:02Z"
+    },
+    {
       "id": "A7eoKD5m6Ek",
       "title": "Securely Exposing AKS Applications",
       "views": 3,
@@ -109,9 +115,21 @@
       "date": "2025-12-26T11:21:45Z"
     },
     {
+      "id": "4_mBGmXA244",
+      "title": "Data Centric Flutter Apps",
+      "views": 4,
+      "date": "2026-01-10T02:40:22Z"
+    },
+    {
+      "id": "KCuGqld6nOc",
+      "title": "The Go Concurrency Paradox",
+      "views": 6,
+      "date": "2026-01-10T00:17:59Z"
+    },
+    {
       "id": "B2x09utLjtM",
       "title": "The Modern Delivery Flywheel",
-      "views": 1,
+      "views": 4,
       "date": "2026-01-09T08:50:53Z"
     },
     {
@@ -123,7 +141,7 @@
     {
       "id": "js95nIDeA-c",
       "title": "The Professional Rust Toolbox",
-      "views": 3,
+      "views": 4,
       "date": "2026-01-08T10:19:31Z"
     },
     {
@@ -141,7 +159,7 @@
     {
       "id": "axvxGj3yOgA",
       "title": "The Memory Management Trilemma",
-      "views": 15,
+      "views": 17,
       "date": "2026-01-07T03:10:14Z"
     },
     {
@@ -165,7 +183,7 @@
     {
       "id": "olsB3bJxA2A",
       "title": "Let's check about Zig",
-      "views": 314,
+      "views": 315,
       "date": "2025-12-28T09:28:00Z"
     },
     {
@@ -183,10 +201,10 @@
     {
       "id": "TLqdeHlAo3A",
       "title": "From Bottlenecks to Breakthroughs:",
-      "views": 24,
+      "views": 26,
       "date": "2025-12-27T21:13:50Z"
     }
   ],
-  "generatedAt": "2026-01-09T09:03:29.991Z",
-  "count": 31
+  "generatedAt": "2026-01-10T03:29:05.840Z",
+  "count": 34
 }
