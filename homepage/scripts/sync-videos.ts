@@ -161,7 +161,7 @@ async function syncVideos() {
       '   Skipping playlist sync and metadata generation.\n' +
       '   Set VITE_YOUTUBE_API_KEY in .env.local (dev) or Vercel project settings (prod).'
     )
-    return
+    process.exit(0)
   }
 
   console.log('📡 Fetching playlists...\n')
@@ -253,6 +253,9 @@ export const VIDEO_CONFIG = {
   kubernetes: [${playlistData.kubernetes.map((id) => `'${id}'`).join(', ')}],
   development: [
     ${playlistData.development.map((id) => `'${id}'`).join(',\n    ')}
+  ],
+  programming: [
+    ${playlistData.programming.map((id) => `'${id}'`).join(',\n    ')}
   ]
 } as const
 
@@ -260,7 +263,8 @@ export const allVideoIds = [
   ...VIDEO_CONFIG.korea,
   ...VIDEO_CONFIG.finance,
   ...VIDEO_CONFIG.kubernetes,
-  ...VIDEO_CONFIG.development
+  ...VIDEO_CONFIG.development,
+  ...VIDEO_CONFIG.programming
 ]
 
 export const videoCategories: Record<string, keyof typeof VIDEO_CONFIG> = {}

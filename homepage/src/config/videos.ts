@@ -66,6 +66,11 @@ export const VIDEO_CONFIG = {
     '2kvYb2pVe5o',
     'TLqdeHlAo3A',
     'SHa7rFntlkU'
+  ],
+  programming: [
+    'T5FjMjTQCBI',
+    'F6aMGDfVAFg',
+    'D1Hth_78ftg'
   ]
 } as const
 
@@ -73,7 +78,8 @@ export const allVideoIds = [
   ...VIDEO_CONFIG.korea,
   ...VIDEO_CONFIG.finance,
   ...VIDEO_CONFIG.kubernetes,
-  ...VIDEO_CONFIG.development
+  ...VIDEO_CONFIG.development,
+  ...VIDEO_CONFIG.programming
 ]
 
 export const videoCategories: Record<string, keyof typeof VIDEO_CONFIG> = {}
