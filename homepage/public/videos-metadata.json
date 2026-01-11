@@ -99,7 +99,7 @@
     {
       "id": "rJTUB-u8U2Y",
       "title": "Kubernetes Cluster Architecture",
-      "views": 6,
+      "views": 7,
       "date": "2026-01-10T03:23:02Z"
     },
     {
@@ -117,7 +117,7 @@
     {
       "id": "8ycnldvJmuA",
       "title": "The Blueprint for Enterprise AI on Azure",
-      "views": 15,
+      "views": 16,
       "date": "2026-01-03T01:41:31Z"
     },
     {
@@ -125,6 +125,12 @@
       "title": "Kubernetes Version Upgrade Strategy",
       "views": 27,
       "date": "2025-12-26T11:21:45Z"
+    },
+    {
+      "id": "tmerUd7eiy4",
+      "title": "Beyond the Default ",
+      "views": 2,
+      "date": "2026-01-11T18:29:42Z"
     },
     {
       "id": "tqDisu2tmG0",
@@ -135,25 +141,25 @@
     {
       "id": "9oSUtndLto4",
       "title": "Unifying AI, Copilot & Power BI",
-      "views": 1,
+      "views": 3,
       "date": "2026-01-10T16:58:52Z"
     },
     {
       "id": "yOOQNnaOLeM",
       "title": "Zig  Pragmatic Successor to C",
-      "views": 3,
+      "views": 4,
       "date": "2026-01-10T04:21:57Z"
     },
     {
       "id": "4_mBGmXA244",
       "title": "Data Centric Flutter Apps",
-      "views": 20,
+      "views": 26,
       "date": "2026-01-10T02:40:22Z"
     },
     {
       "id": "KCuGqld6nOc",
       "title": "The Go Concurrency Paradox",
-      "views": 37,
+      "views": 40,
       "date": "2026-01-10T00:17:59Z"
     },
     {
@@ -165,7 +171,7 @@
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 3,
+      "views": 6,
       "date": "2026-01-09T00:15:35Z"
     },
     {
@@ -183,13 +189,13 @@
     {
       "id": "z_Ydy_-cI1U",
       "title": "Micro-Processing the Hippo's Waste",
-      "views": 1,
+      "views": 2,
       "date": "2026-01-07T05:32:04Z"
     },
     {
       "id": "axvxGj3yOgA",
       "title": "The Memory Management Trilemma",
-      "views": 17,
+      "views": 21,
       "date": "2026-01-07T03:10:14Z"
     },
     {
@@ -213,7 +219,7 @@
     {
       "id": "olsB3bJxA2A",
       "title": "Let's check about Zig",
-      "views": 321,
+      "views": 323,
       "date": "2025-12-28T09:28:00Z"
     },
     {
@@ -237,22 +243,28 @@
     {
       "id": "T5FjMjTQCBI",
       "title": "타입스크립트와 번으로 배우는 프로그래밍 1",
-      "views": 33,
+      "views": 67,
       "date": "2026-01-10T07:09:48Z"
     },
     {
       "id": "F6aMGDfVAFg",
       "title": "비동기 처리 - async/await",
-      "views": 8,
+      "views": 11,
       "date": "2026-01-10T07:11:59Z"
     },
     {
       "id": "D1Hth_78ftg",
       "title": "타입스크립트와 번으로 만드는 TODO 리스트",
-      "views": 2,
+      "views": 5,
       "date": "2026-01-10T07:12:38Z"
+    },
+    {
+      "id": "gKYw0_jkNFI",
+      "title": "마음 속의 계산기",
+      "views": 4,
+      "date": "2026-01-11T14:51:55Z"
     }
   ],
-  "generatedAt": "2026-01-11T00:10:31.862Z",
-  "count": 42
+  "generatedAt": "2026-01-11T19:22:16.515Z",
+  "count": 44
 }
