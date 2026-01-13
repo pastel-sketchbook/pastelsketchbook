@@ -85,9 +85,15 @@
       "date": "2025-12-26T10:48:59Z"
     },
     {
+      "id": "OnwiaDRj1-k",
+      "title": "Kubernetes Services & Istio",
+      "views": 1,
+      "date": "2026-01-13T04:31:02Z"
+    },
+    {
       "id": "R2zktRqz81U",
       "title": "A Blueprint for Secure Azure Authentication in Go",
-      "views": 2,
+      "views": 6,
       "date": "2026-01-13T00:32:55Z"
     },
     {
@@ -131,6 +137,12 @@
       "title": "Kubernetes Version Upgrade Strategy",
       "views": 27,
       "date": "2025-12-26T11:21:45Z"
+    },
+    {
+      "id": "FDYu2fllfuE",
+      "title": "The 98  Prediction Problem",
+      "views": 1,
+      "date": "2026-01-13T03:29:33Z"
     },
     {
       "id": "tmerUd7eiy4",
@@ -177,7 +189,7 @@
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 14,
+      "views": 18,
       "date": "2026-01-09T00:15:35Z"
     },
     {
@@ -271,6 +283,6 @@
       "date": "2026-01-11T14:51:55Z"
     }
   ],
-  "generatedAt": "2026-01-13T00:36:07.750Z",
-  "count": 45
+  "generatedAt": "2026-01-13T04:40:20.068Z",
+  "count": 47
 }

@@ -118,30 +118,40 @@ async function fetchVideoMetadata(
 ): Promise<VideoMetadata[]> {
   if (videoIds.length === 0) return []
 
+  const allMetadata: VideoMetadata[] = []
+  const BATCH_SIZE = 50 // YouTube API max is 50 per request
+
   try {
-    const ids = videoIds.join(',')
-    const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=${ids}&key=${apiKey}`
+    for (let i = 0; i < videoIds.length; i += BATCH_SIZE) {
+      const batch = videoIds.slice(i, i + BATCH_SIZE)
+      const ids = batch.join(',')
+      const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=${ids}&key=${apiKey}`
 
-    const response = await fetch(url)
+      const response = await fetch(url)
 
-    if (!response.ok) {
-      throw new Error(
-        `YouTube API error: ${response.status} ${response.statusText}`
-      )
+      if (!response.ok) {
+        throw new Error(
+          `YouTube API error: ${response.status} ${response.statusText}`
+        )
+      }
+
+      const data = await response.json()
+
+      if (data.error) {
+        throw new Error(`YouTube API error: ${data.error.message}`)
+      }
+
+      const batchMetadata = (data.items || []).map((item: any) => ({
+        id: item.id,
+        title: item.snippet.title || '',
+        views: Number(item.statistics.viewCount) || 0,
+        date: item.snippet.publishedAt || new Date().toISOString()
+      }))
+
+      allMetadata.push(...batchMetadata)
     }
 
-    const data = await response.json()
-
-    if (data.error) {
-      throw new Error(`YouTube API error: ${data.error.message}`)
-    }
-
-    return (data.items || []).map((item: any) => ({
-      id: item.id,
-      title: item.snippet.title || '',
-      views: Number(item.statistics.viewCount) || 0,
-      date: item.snippet.publishedAt || new Date().toISOString()
-    }))
+    return allMetadata
   } catch (error) {
     console.error(
       'Failed to fetch video metadata:',
