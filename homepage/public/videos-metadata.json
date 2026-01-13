@@ -27,19 +27,19 @@
     {
       "id": "CASZX56r-tk",
       "title": "Mi Cuaderno de Viaje: Andong",
-      "views": 12,
+      "views": 13,
       "date": "2026-01-04T02:59:34Z"
     },
     {
       "id": "EvcUSPWkOA8",
       "title": "Jeonju y Gochang: Apuntes de Corea",
-      "views": 14,
+      "views": 15,
       "date": "2026-01-04T18:38:25Z"
     },
     {
       "id": "JlPl9MskqJM",
       "title": "Mi Cuaderno de Viaje: Yeosu",
-      "views": 9,
+      "views": 10,
       "date": "2026-01-04T18:38:34Z"
     },
     {
@@ -85,9 +85,15 @@
       "date": "2025-12-26T10:48:59Z"
     },
     {
+      "id": "R2zktRqz81U",
+      "title": "A Blueprint for Secure Azure Authentication in Go",
+      "views": 2,
+      "date": "2026-01-13T00:32:55Z"
+    },
+    {
       "id": "N4nRAfBZ3BE",
       "title": "Choosing Your Messaging Fabric on AKS",
-      "views": 1,
+      "views": 4,
       "date": "2026-01-10T21:55:01Z"
     },
     {
@@ -129,7 +135,7 @@
     {
       "id": "tmerUd7eiy4",
       "title": "Beyond the Default ",
-      "views": 2,
+      "views": 7,
       "date": "2026-01-11T18:29:42Z"
     },
     {
@@ -141,25 +147,25 @@
     {
       "id": "9oSUtndLto4",
       "title": "Unifying AI, Copilot & Power BI",
-      "views": 3,
+      "views": 6,
       "date": "2026-01-10T16:58:52Z"
     },
     {
       "id": "yOOQNnaOLeM",
       "title": "Zig  Pragmatic Successor to C",
-      "views": 4,
+      "views": 5,
       "date": "2026-01-10T04:21:57Z"
     },
     {
       "id": "4_mBGmXA244",
       "title": "Data Centric Flutter Apps",
-      "views": 26,
+      "views": 27,
       "date": "2026-01-10T02:40:22Z"
     },
     {
       "id": "KCuGqld6nOc",
       "title": "The Go Concurrency Paradox",
-      "views": 40,
+      "views": 44,
       "date": "2026-01-10T00:17:59Z"
     },
     {
@@ -171,7 +177,7 @@
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 6,
+      "views": 14,
       "date": "2026-01-09T00:15:35Z"
     },
     {
@@ -243,7 +249,7 @@
     {
       "id": "T5FjMjTQCBI",
       "title": "타입스크립트와 번으로 배우는 프로그래밍 1",
-      "views": 67,
+      "views": 70,
       "date": "2026-01-10T07:09:48Z"
     },
     {
@@ -261,10 +267,10 @@
     {
       "id": "gKYw0_jkNFI",
       "title": "마음 속의 계산기",
-      "views": 4,
+      "views": 6,
       "date": "2026-01-11T14:51:55Z"
     }
   ],
-  "generatedAt": "2026-01-11T19:22:16.515Z",
-  "count": 44
+  "generatedAt": "2026-01-13T00:36:07.750Z",
+  "count": 45
 }
