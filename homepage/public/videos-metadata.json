@@ -85,21 +85,27 @@
       "date": "2025-12-26T10:48:59Z"
     },
     {
+      "id": "C6wLm6NRZW4",
+      "title": "The Complete Codebase Lifecycle",
+      "views": 1,
+      "date": "2026-01-14T10:07:05Z"
+    },
+    {
       "id": "ctKLD4d146g",
       "title": "The Codebase Lifecycle",
-      "views": 0,
+      "views": 11,
       "date": "2026-01-13T10:57:14Z"
     },
     {
       "id": "OnwiaDRj1-k",
       "title": "Kubernetes Services & Istio",
-      "views": 7,
+      "views": 15,
       "date": "2026-01-13T04:31:02Z"
     },
     {
       "id": "R2zktRqz81U",
       "title": "A Blueprint for Secure Azure Authentication in Go",
-      "views": 7,
+      "views": 10,
       "date": "2026-01-13T00:32:55Z"
     },
     {
@@ -111,7 +117,7 @@
     {
       "id": "C5HqbzLRYZ0",
       "title": "K8s Services  AKS & Istio",
-      "views": 2,
+      "views": 3,
       "date": "2026-01-10T16:26:22Z"
     },
     {
@@ -145,6 +151,12 @@
       "date": "2025-12-26T11:21:45Z"
     },
     {
+      "id": "SeYrpzDTn6A",
+      "title": "Modern Microservice Trust",
+      "views": 11,
+      "date": "2026-01-13T23:06:41Z"
+    },
+    {
       "id": "FDYu2fllfuE",
       "title": "The 98  Prediction Problem",
       "views": 1,
@@ -159,13 +171,13 @@
     {
       "id": "tqDisu2tmG0",
       "title": "AI Agents  Idea to Tool",
-      "views": 0,
+      "views": 1,
       "date": "2026-01-10T23:18:02Z"
     },
     {
       "id": "9oSUtndLto4",
       "title": "Unifying AI, Copilot & Power BI",
-      "views": 6,
+      "views": 8,
       "date": "2026-01-10T16:58:52Z"
     },
     {
@@ -177,7 +189,7 @@
     {
       "id": "4_mBGmXA244",
       "title": "Data Centric Flutter Apps",
-      "views": 27,
+      "views": 28,
       "date": "2026-01-10T02:40:22Z"
     },
     {
@@ -195,7 +207,7 @@
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 20,
+      "views": 28,
       "date": "2026-01-09T00:15:35Z"
     },
     {
@@ -219,7 +231,7 @@
     {
       "id": "axvxGj3yOgA",
       "title": "The Memory Management Trilemma",
-      "views": 21,
+      "views": 23,
       "date": "2026-01-07T03:10:14Z"
     },
     {
@@ -273,7 +285,7 @@
     {
       "id": "F6aMGDfVAFg",
       "title": "비동기 처리 - async/await",
-      "views": 11,
+      "views": 12,
       "date": "2026-01-10T07:11:59Z"
     },
     {
@@ -291,10 +303,10 @@
     {
       "id": "qyqLjeu8Hng",
       "title": "영어 리스닝  3000시간의 법칙",
-      "views": 1,
+      "views": 26,
       "date": "2026-01-13T10:40:26Z"
     }
   ],
-  "generatedAt": "2026-01-13T10:59:25.121Z",
-  "count": 49
+  "generatedAt": "2026-01-14T10:19:19.076Z",
+  "count": 51
 }
