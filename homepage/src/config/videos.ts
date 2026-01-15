@@ -45,7 +45,7 @@ export const VIDEO_CONFIG = {
     '0Wtng6Ou3O4',
     '-WYyOwj8EYU'
   ],
-  kubernetes: ['C6wLm6NRZW4', 'ctKLD4d146g', 'OnwiaDRj1-k', 'R2zktRqz81U', 'N4nRAfBZ3BE', 'C5HqbzLRYZ0', 'rJTUB-u8U2Y', 'A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q'],
+  kubernetes: ['A4-foXsdQiA', 'C6wLm6NRZW4', 'ctKLD4d146g', 'OnwiaDRj1-k', 'R2zktRqz81U', 'N4nRAfBZ3BE', 'C5HqbzLRYZ0', 'rJTUB-u8U2Y', 'A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q'],
   development: [
     'SeYrpzDTn6A',
     'FDYu2fllfuE',
@@ -75,7 +75,9 @@ export const VIDEO_CONFIG = {
     'F6aMGDfVAFg',
     'D1Hth_78ftg',
     'gKYw0_jkNFI',
-    'qyqLjeu8Hng'
+    'qyqLjeu8Hng',
+    'iEn_PMcBlDk',
+    'dsxuWtfzBGI'
   ]
 } as const
 
