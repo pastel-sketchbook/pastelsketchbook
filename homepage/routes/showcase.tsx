@@ -97,6 +97,7 @@ function Showcase() {
     const [activeTab, setActiveTab] = useState<"korea" | "finance" | "kubernetes" | "development" | "programming" | "all">("all")
     const [selectedVideoId, setSelectedVideoId] = useState<string | null>(null)
     const [searchQuery, setSearchQuery] = useState("")
+    const [selectedTags, setSelectedTags] = useState<Set<string>>(new Set())
     const [sortBy, setSortBy] = useState<"date" | "views">("date")
     const [showAlert, setShowAlert] = useState(true)
 
@@ -133,14 +134,24 @@ function Showcase() {
         category: videoCategories[item.id]
     }));
 
+    // Extract all unique tags from videos
+    const availableTags = Array.from(
+        new Set(allItems.flatMap(item => item.tags || []))
+    ).sort();
+
     const filteredItems = (activeTab === "all"
         ? allItems
         : allItems.filter(item => item.category === activeTab)
     ).filter(item => {
-        const query = searchQuery.toLowerCase()
-        const titleMatch = item.title.toLowerCase().includes(query)
-        const tagMatch = item.tags?.some(tag => tag.toLowerCase().includes(query)) ?? false
-        return titleMatch || tagMatch
+        // Filter by title search
+        const titleMatch = item.title.toLowerCase().includes(searchQuery.toLowerCase())
+        
+        // Filter by selected tags: if any tags selected, video must have at least one
+        const tagsMatch = selectedTags.size === 0 
+            ? true 
+            : item.tags?.some(tag => selectedTags.has(tag)) ?? false
+        
+        return titleMatch && tagsMatch
     }).sort((a, b) => {
         if (sortBy === "date") {
             return new Date(b.date).getTime() - new Date(a.date).getTime();
@@ -253,12 +264,58 @@ function Showcase() {
                             </button>
                         </div>
                     </div>
+
+                    {availableTags.length > 0 && (
+                        <div className="max-w-6xl mx-auto w-full px-0 pt-6">
+                            <div className="space-y-3">
+                                <div className="flex items-center justify-between">
+                                    <span className="text-[10px] font-bold uppercase tracking-widest text-[#1B3022]/40">Filter by tags:</span>
+                                    {selectedTags.size > 0 && (
+                                        <button
+                                            onClick={() => setSelectedTags(new Set())}
+                                            className="text-[10px] font-bold uppercase tracking-widest text-[#5F7D61] hover:text-[#1B3022] transition-colors"
+                                        >
+                                            Clear tags
+                                        </button>
+                                    )}
+                                </div>
+                                <div className="flex flex-wrap gap-2">
+                                    {availableTags.map((tag) => {
+                                        const isSelected = selectedTags.has(tag)
+                                        return (
+                                            <motion.button
+                                                key={tag}
+                                                whileHover={{ scale: 1.05 }}
+                                                whileTap={{ scale: 0.95 }}
+                                                onClick={() => {
+                                                    const newTags = new Set(selectedTags)
+                                                    if (isSelected) {
+                                                        newTags.delete(tag)
+                                                    } else {
+                                                        newTags.add(tag)
+                                                    }
+                                                    setSelectedTags(newTags)
+                                                }}
+                                                className={`px-3 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-wider transition-all sketch-border ${
+                                                    isSelected
+                                                        ? "bg-[#5F7D61] text-white border-[#5F7D61]"
+                                                        : "bg-white/50 border border-[#5F7D61]/20 text-[#5F7D61] hover:bg-white hover:border-[#5F7D61]/40"
+                                                }`}
+                                            >
+                                                {tag}
+                                            </motion.button>
+                                        )
+                                    })}
+                                </div>
+                            </div>
+                        </div>
+                    )}
                 </header>
 
                 <div className="min-h-[500px]">
                     <AnimatePresence mode="wait">
                         <motion.div
-                            key={activeTab + searchQuery}
+                            key={activeTab + searchQuery + Array.from(selectedTags).join(',')}
                             initial={{ opacity: 0, x: 20 }}
                             animate={{ opacity: 1, x: 0 }}
                             exit={{ opacity: 0, x: -20 }}
