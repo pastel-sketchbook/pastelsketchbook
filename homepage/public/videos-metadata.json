@@ -12,48 +12,69 @@
       "title": "Tu Viaje al Corazón de Corea",
       "views": 4,
       "date": "2026-01-01T19:49:51Z",
-      "tags": []
+      "tags": [
+        "viaje"
+      ]
     },
     {
       "id": "vNHblhm9oQo",
       "title": "Mi Cuaderno de Busan",
       "views": 7,
       "date": "2026-01-01T21:39:16Z",
-      "tags": []
+      "tags": [
+        "viaje"
+      ]
     },
     {
       "id": "4h84JgKkt94",
       "title": "Gyeongju: El Museo Sin Muros",
       "views": 10,
       "date": "2026-01-03T00:31:42Z",
-      "tags": []
+      "tags": [
+        "viaje"
+      ]
     },
     {
       "id": "CASZX56r-tk",
       "title": "Mi Cuaderno de Viaje: Andong",
       "views": 13,
       "date": "2026-01-04T02:59:34Z",
-      "tags": []
+      "tags": [
+        "viaje"
+      ]
     },
     {
       "id": "EvcUSPWkOA8",
       "title": "Jeonju y Gochang: Apuntes de Corea",
       "views": 15,
       "date": "2026-01-04T18:38:25Z",
-      "tags": []
+      "tags": [
+        "viaje"
+      ]
     },
     {
       "id": "JlPl9MskqJM",
       "title": "Mi Cuaderno de Viaje: Yeosu",
       "views": 10,
       "date": "2026-01-04T18:38:34Z",
-      "tags": []
+      "tags": [
+        "viaje"
+      ]
     },
     {
       "id": "drVBXipEOAs",
       "title": "Jinju y Jirisan: el Valor a la Sabiduría",
       "views": 17,
       "date": "2026-01-04T19:28:27Z",
+      "tags": [
+        "viaje"
+      ]
+    },
+    {
+      "id": "nfD3KzIriM8",
+      "title": "The architecture of wealth",
+      "views": 3,
+      "date": "2026-01-16T22:17:34Z",
       "tags": []
     },
     {
@@ -104,7 +125,7 @@
     {
       "id": "_sxPf3tHq3s",
       "title": "The 100+ Service Problem",
-      "views": 12,
+      "views": 13,
       "date": "2026-01-16T08:00:15Z",
       "tags": [
         "Helm",
@@ -115,7 +136,7 @@
     {
       "id": "0U-SUJCmKAU",
       "title": "From Stateful to Secure",
-      "views": 16,
+      "views": 17,
       "date": "2026-01-16T06:38:21Z",
       "tags": [
         "Stateful",
@@ -139,7 +160,7 @@
     {
       "id": "A4-foXsdQiA",
       "title": "Securing Service-to-Service Communication in Kubernetes",
-      "views": 12,
+      "views": 15,
       "date": "2026-01-15T03:44:26Z",
       "tags": [
         "Rust",
@@ -167,7 +188,10 @@
       "title": "The Codebase Lifecycle",
       "views": 13,
       "date": "2026-01-13T10:57:14Z",
-      "tags": []
+      "tags": [
+        "codebase",
+        "lifecycle"
+      ]
     },
     {
       "id": "OnwiaDRj1-k",
@@ -183,7 +207,7 @@
     {
       "id": "R2zktRqz81U",
       "title": "A Blueprint for Secure Azure Authentication in Go",
-      "views": 10,
+      "views": 11,
       "date": "2026-01-13T00:32:55Z",
       "tags": [
         "workload Identity",
@@ -196,35 +220,56 @@
       "title": "Choosing Your Messaging Fabric on AKS",
       "views": 4,
       "date": "2026-01-10T21:55:01Z",
-      "tags": []
+      "tags": [
+        "Messaging",
+        "AKS",
+        "NATS",
+        "Azure Event Hubs",
+        "RabbitMQ"
+      ]
     },
     {
       "id": "C5HqbzLRYZ0",
       "title": "K8s Services  AKS & Istio",
       "views": 4,
       "date": "2026-01-10T16:26:22Z",
-      "tags": []
+      "tags": [
+        "Istio",
+        "AKS",
+        "Kubernetes"
+      ]
     },
     {
       "id": "rJTUB-u8U2Y",
       "title": "Kubernetes Cluster Architecture",
       "views": 7,
       "date": "2026-01-10T03:23:02Z",
-      "tags": []
+      "tags": [
+        "Kubernetes",
+        "cluster",
+        "architecture"
+      ]
     },
     {
       "id": "A7eoKD5m6Ek",
       "title": "Securely Exposing AKS Applications",
       "views": 3,
       "date": "2026-01-08T08:17:48Z",
-      "tags": []
+      "tags": [
+        "AKS",
+        "Public facing"
+      ]
     },
     {
       "id": "snRi_JET1bg",
       "title": "Deploying CSR Applications on Vercel Versus AKS",
       "views": 6,
       "date": "2026-01-07T04:11:51Z",
-      "tags": []
+      "tags": [
+        "AKS",
+        "Vercel",
+        "CSR"
+      ]
     },
     {
       "id": "8ycnldvJmuA",
@@ -251,7 +296,7 @@
     {
       "id": "0NLj8g2hQNk",
       "title": "The Client's Guide to 'ra-token-authority'",
-      "views": 3,
+      "views": 4,
       "date": "2026-01-16T18:34:39Z",
       "tags": [
         "Zero Trust",
@@ -265,7 +310,7 @@
     {
       "id": "0ttrfTfP864",
       "title": "ra-token-authority",
-      "views": 1,
+      "views": 7,
       "date": "2026-01-16T16:34:51Z",
       "tags": [
         "Rust",
@@ -279,7 +324,7 @@
     {
       "id": "SeYrpzDTn6A",
       "title": "Modern Microservice Trust",
-      "views": 15,
+      "views": 16,
       "date": "2026-01-13T23:06:41Z",
       "tags": [
         "MSA",
@@ -292,40 +337,57 @@
       "title": "The 98  Prediction Problem",
       "views": 1,
       "date": "2026-01-13T03:29:33Z",
-      "tags": []
+      "tags": [
+        "March Madness",
+        "prediction"
+      ]
     },
     {
       "id": "tmerUd7eiy4",
       "title": "Beyond the Default ",
       "views": 7,
       "date": "2026-01-11T18:29:42Z",
-      "tags": []
+      "tags": [
+        "CLI",
+        "zsh",
+        "antidote",
+        "starship"
+      ]
     },
     {
       "id": "tqDisu2tmG0",
       "title": "AI Agents  Idea to Tool",
       "views": 3,
       "date": "2026-01-10T23:18:02Z",
-      "tags": []
+      "tags": [
+        "AI",
+        "AGENTS"
+      ]
     },
     {
       "id": "9oSUtndLto4",
       "title": "Unifying AI, Copilot & Power BI",
       "views": 13,
       "date": "2026-01-10T16:58:52Z",
-      "tags": []
+      "tags": [
+        "Copilot",
+        "PowerBI",
+        "Azure AI Foundry"
+      ]
     },
     {
       "id": "yOOQNnaOLeM",
       "title": "Zig  Pragmatic Successor to C",
-      "views": 7,
+      "views": 10,
       "date": "2026-01-10T04:21:57Z",
-      "tags": []
+      "tags": [
+        "Zig"
+      ]
     },
     {
       "id": "4_mBGmXA244",
       "title": "Data Centric Flutter Apps",
-      "views": 29,
+      "views": 30,
       "date": "2026-01-10T02:40:22Z",
       "tags": [
         "Flutter",
@@ -357,7 +419,7 @@
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 46,
+      "views": 51,
       "date": "2026-01-09T00:15:35Z",
       "tags": [
         "Rust",
@@ -373,21 +435,34 @@
       "title": "The Professional Rust Toolbox",
       "views": 4,
       "date": "2026-01-08T10:19:31Z",
-      "tags": []
+      "tags": [
+        "Rust",
+        "Anyhow",
+        "Toolbox"
+      ]
     },
     {
       "id": "BAxPZdgmgRQ",
       "title": "The 2026 State of Al Agents",
       "views": 1,
       "date": "2026-01-08T09:41:38Z",
-      "tags": []
+      "tags": [
+        "AI",
+        "2026",
+        "AGENTS"
+      ]
     },
     {
       "id": "z_Ydy_-cI1U",
       "title": "Micro-Processing the Hippo's Waste",
       "views": 2,
       "date": "2026-01-07T05:32:04Z",
-      "tags": []
+      "tags": [
+        "AI",
+        "AGENTS",
+        "3270",
+        "Zig"
+      ]
     },
     {
       "id": "axvxGj3yOgA",
@@ -452,7 +527,11 @@
       "title": "From Blueprint to Battlefield",
       "views": 30,
       "date": "2025-12-27T21:55:52Z",
-      "tags": []
+      "tags": [
+        "identity",
+        "OIDC",
+        "SSRF"
+      ]
     },
     {
       "id": "TLqdeHlAo3A",
@@ -461,7 +540,8 @@
       "date": "2025-12-27T21:13:50Z",
       "tags": [
         "Git",
-        "Trunk Based"
+        "Trunk Based",
+        "ADO"
       ]
     },
     {
@@ -490,30 +570,38 @@
       "title": "마음 속의 계산기",
       "views": 7,
       "date": "2026-01-11T14:51:55Z",
-      "tags": []
+      "tags": [
+        "주판"
+      ]
     },
     {
       "id": "qyqLjeu8Hng",
       "title": "영어 리스닝  3000시간의 법칙",
-      "views": 38,
+      "views": 37,
       "date": "2026-01-13T10:40:26Z",
-      "tags": []
+      "tags": [
+        "영어 공부"
+      ]
     },
     {
       "id": "iEn_PMcBlDk",
       "title": "알고리즘 완전 정복",
       "views": 4,
       "date": "2026-01-14T13:09:13Z",
-      "tags": []
+      "tags": [
+        "알고리즘"
+      ]
     },
     {
       "id": "dsxuWtfzBGI",
       "title": "알고리즘에서 코드로  TypeScript 가이드",
       "views": 8,
       "date": "2026-01-14T13:28:26Z",
-      "tags": []
+      "tags": [
+        "알고리즘"
+      ]
     }
   ],
-  "generatedAt": "2026-01-16T18:48:52.752Z",
-  "count": 59
+  "generatedAt": "2026-01-16T23:46:37.214Z",
+  "count": 60
 }

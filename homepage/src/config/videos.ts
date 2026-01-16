@@ -10,7 +10,8 @@ export const VideoMetadataSchema = z.object({
   id: z.string(),
   title: z.string(),
   views: z.number().nonnegative(),
-  date: z.string().datetime()
+  date: z.string().datetime(),
+  tags: z.array(z.string()).optional()
 })
 
 export const VideoMetadataResponseSchema = z.object({
@@ -36,6 +37,7 @@ export const VIDEO_CONFIG = {
     'drVBXipEOAs'
   ],
   finance: [
+    'nfD3KzIriM8',
     's1BoGn9r7oE',
     'EMXUbohWsWs',
     'KBfVy5-M-5k',
