@@ -136,9 +136,12 @@ function Showcase() {
     const filteredItems = (activeTab === "all"
         ? allItems
         : allItems.filter(item => item.category === activeTab)
-    ).filter(item =>
-        item.title.toLowerCase().includes(searchQuery.toLowerCase())
-    ).sort((a, b) => {
+    ).filter(item => {
+        const query = searchQuery.toLowerCase()
+        const titleMatch = item.title.toLowerCase().includes(query)
+        const tagMatch = item.tags?.some(tag => tag.toLowerCase().includes(query)) ?? false
+        return titleMatch || tagMatch
+    }).sort((a, b) => {
         if (sortBy === "date") {
             return new Date(b.date).getTime() - new Date(a.date).getTime();
         }
