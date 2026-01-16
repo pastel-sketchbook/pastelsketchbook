@@ -78,6 +78,7 @@ interface YouTubeVideo {
   title: string
   views: number
   date: string
+  tags?: string[]
 }
 
 interface ApiResponse {
@@ -238,7 +239,8 @@ export default async function handler(
       id: item.id,
       title: item.snippet.title || '',
       views: Number(item.statistics.viewCount) || 0,
-      date: item.snippet.publishedAt || new Date().toISOString()
+      date: item.snippet.publishedAt || new Date().toISOString(),
+      tags: item.snippet.tags || []
     }))
 
     const duration = Date.now() - startTime

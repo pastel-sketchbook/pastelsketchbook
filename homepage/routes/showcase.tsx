@@ -106,6 +106,7 @@ function Showcase() {
         views: number
         date: string
         category?: string
+        tags?: string[]
     }
 
     const { data: result, isLoading } = useQuery({

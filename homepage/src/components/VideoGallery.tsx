@@ -6,6 +6,7 @@ interface VideoItem {
     title: string;
     date?: string;
     views?: number;
+    tags?: string[];
 }
 
 interface VideoGalleryProps {
@@ -66,14 +67,28 @@ export function VideoGallery({ items, onVideoSelect, title, description }: Video
                                 {formatViews(item.views)} watches
                             </div>
                         </div>
-                        <div className="flex justify-between items-start gap-4">
-                            <h4 className="font-bold text-pastel-dark text-[10px] uppercase tracking-widest line-clamp-2 leading-relaxed flex-1">
-                                {item.title}
-                            </h4>
-                            {item.date && (
-                                <span className="text-[12px] text-pastel-tan font-semibold font-serif italic whitespace-nowrap pt-0.5">
-                                    {new Date(item.date).toLocaleDateString(undefined, { month: 'short', year: 'numeric' })}
-                                </span>
+                        <div className="space-y-3">
+                            <div className="flex justify-between items-start gap-4">
+                                <h4 className="font-bold text-pastel-dark text-[10px] uppercase tracking-widest line-clamp-2 leading-relaxed flex-1">
+                                    {item.title}
+                                </h4>
+                                {item.date && (
+                                    <span className="text-[12px] text-pastel-tan font-semibold font-serif italic whitespace-nowrap pt-0.5">
+                                        {new Date(item.date).toLocaleDateString(undefined, { month: 'short', year: 'numeric' })}
+                                    </span>
+                                )}
+                            </div>
+                            {item.tags && item.tags.length > 0 && (
+                                <div className="flex flex-wrap gap-1.5">
+                                    {item.tags.slice(0, 3).map((tag) => (
+                                        <span
+                                            key={tag}
+                                            className="inline-block px-2 py-0.5 bg-[#5F7D61]/10 border border-[#5F7D61]/30 text-[#5F7D61] text-[8px] font-bold uppercase tracking-wider rounded-full sketch-border"
+                                        >
+                                            {tag}
+                                        </span>
+                                    ))}
+                                </div>
                             )}
                         </div>
                     </motion.button>

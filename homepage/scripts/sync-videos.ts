@@ -49,6 +49,7 @@ interface VideoMetadata {
   title: string
   views: number
   date: string
+  tags?: string[]
 }
 
 const PLAYLISTS: PlaylistConfig[] = [
@@ -145,7 +146,8 @@ async function fetchVideoMetadata(
         id: item.id,
         title: item.snippet.title || '',
         views: Number(item.statistics.viewCount) || 0,
-        date: item.snippet.publishedAt || new Date().toISOString()
+        date: item.snippet.publishedAt || new Date().toISOString(),
+        tags: item.snippet.tags || []
       }))
 
       allMetadata.push(...batchMetadata)
@@ -241,7 +243,8 @@ export const VideoMetadataSchema = z.object({
   id: z.string(),
   title: z.string(),
   views: z.number().nonnegative(),
-  date: z.string().datetime()
+  date: z.string().datetime(),
+  tags: z.array(z.string()).optional()
 })
 
 export const VideoMetadataResponseSchema = z.object({

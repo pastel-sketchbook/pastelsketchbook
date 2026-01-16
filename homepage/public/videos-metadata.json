@@ -4,345 +4,516 @@
       "id": "V2cZl5s4EKU",
       "title": "스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작",
       "views": 18,
-      "date": "2025-12-26T23:35:15Z"
+      "date": "2025-12-26T23:35:15Z",
+      "tags": []
     },
     {
       "id": "L9sxbq8ugoU",
       "title": "Tu Viaje al Corazón de Corea",
       "views": 4,
-      "date": "2026-01-01T19:49:51Z"
+      "date": "2026-01-01T19:49:51Z",
+      "tags": []
     },
     {
       "id": "vNHblhm9oQo",
       "title": "Mi Cuaderno de Busan",
       "views": 7,
-      "date": "2026-01-01T21:39:16Z"
+      "date": "2026-01-01T21:39:16Z",
+      "tags": []
     },
     {
       "id": "4h84JgKkt94",
       "title": "Gyeongju: El Museo Sin Muros",
       "views": 10,
-      "date": "2026-01-03T00:31:42Z"
+      "date": "2026-01-03T00:31:42Z",
+      "tags": []
     },
     {
       "id": "CASZX56r-tk",
       "title": "Mi Cuaderno de Viaje: Andong",
       "views": 13,
-      "date": "2026-01-04T02:59:34Z"
+      "date": "2026-01-04T02:59:34Z",
+      "tags": []
     },
     {
       "id": "EvcUSPWkOA8",
       "title": "Jeonju y Gochang: Apuntes de Corea",
       "views": 15,
-      "date": "2026-01-04T18:38:25Z"
+      "date": "2026-01-04T18:38:25Z",
+      "tags": []
     },
     {
       "id": "JlPl9MskqJM",
       "title": "Mi Cuaderno de Viaje: Yeosu",
       "views": 10,
-      "date": "2026-01-04T18:38:34Z"
+      "date": "2026-01-04T18:38:34Z",
+      "tags": []
     },
     {
       "id": "drVBXipEOAs",
       "title": "Jinju y Jirisan: el Valor a la Sabiduría",
       "views": 17,
-      "date": "2026-01-04T19:28:27Z"
+      "date": "2026-01-04T19:28:27Z",
+      "tags": []
     },
     {
       "id": "s1BoGn9r7oE",
       "title": "The 2026  Playbook for High-Yield & Covered Call ETFs",
       "views": 2,
-      "date": "2026-01-05T23:11:19Z"
+      "date": "2026-01-05T23:11:19Z",
+      "tags": []
     },
     {
       "id": "EMXUbohWsWs",
       "title": "The 2026 Lifecycle ETF Playbook",
       "views": 9,
-      "date": "2026-01-04T07:12:28Z"
+      "date": "2026-01-04T07:12:28Z",
+      "tags": []
     },
     {
       "id": "KBfVy5-M-5k",
       "title": "The Retirement Red Zone",
       "views": 15,
-      "date": "2025-12-31T21:10:33Z"
+      "date": "2025-12-31T21:10:33Z",
+      "tags": []
     },
     {
       "id": "MDNRiJN7aEg",
       "title": "An Ambitious Ascent",
-      "views": 10,
-      "date": "2025-12-29T08:43:50Z"
+      "views": 11,
+      "date": "2025-12-29T08:43:50Z",
+      "tags": []
     },
     {
       "id": "nnL78ZVifZU",
       "title": "Reading the Market's Story",
       "views": 15,
-      "date": "2025-12-27T09:05:46Z"
+      "date": "2025-12-27T09:05:46Z",
+      "tags": []
     },
     {
       "id": "tPDFgVAp4c4",
       "title": "Breakout Stars and Dominant Titans",
       "views": 44,
-      "date": "2025-12-26T10:48:59Z"
+      "date": "2025-12-26T10:48:59Z",
+      "tags": [
+        "stocks",
+        "NotebookLM"
+      ]
     },
     {
       "id": "_sxPf3tHq3s",
       "title": "The 100+ Service Problem",
-      "views": 2,
-      "date": "2026-01-16T08:00:15Z"
+      "views": 12,
+      "date": "2026-01-16T08:00:15Z",
+      "tags": [
+        "Helm",
+        "CI/CD",
+        "Kubernetes"
+      ]
     },
     {
       "id": "0U-SUJCmKAU",
       "title": "From Stateful to Secure",
-      "views": 2,
-      "date": "2026-01-16T06:38:21Z"
+      "views": 16,
+      "date": "2026-01-16T06:38:21Z",
+      "tags": [
+        "Stateful",
+        "Kubernetes",
+        "RabbitMQ",
+        "mTLS"
+      ]
     },
     {
       "id": "VxWyvAO3qb8",
       "title": "The Two-System Pattern",
-      "views": 9,
-      "date": "2026-01-15T12:59:07Z"
+      "views": 11,
+      "date": "2026-01-15T12:59:07Z",
+      "tags": [
+        "NATS",
+        "Azure Event Hubs",
+        "AKS",
+        "Bridge"
+      ]
     },
     {
       "id": "A4-foXsdQiA",
       "title": "Securing Service-to-Service Communication in Kubernetes",
-      "views": 10,
-      "date": "2026-01-15T03:44:26Z"
+      "views": 12,
+      "date": "2026-01-15T03:44:26Z",
+      "tags": [
+        "Rust",
+        "mTLS",
+        "Istio",
+        "Kubernetes",
+        "AKS"
+      ]
     },
     {
       "id": "C6wLm6NRZW4",
       "title": "The Complete Codebase Lifecycle",
       "views": 3,
-      "date": "2026-01-14T10:07:05Z"
+      "date": "2026-01-14T10:07:05Z",
+      "tags": [
+        "AKS",
+        "ACR",
+        "CI",
+        "CD",
+        "Lifecycle"
+      ]
     },
     {
       "id": "ctKLD4d146g",
       "title": "The Codebase Lifecycle",
       "views": 13,
-      "date": "2026-01-13T10:57:14Z"
+      "date": "2026-01-13T10:57:14Z",
+      "tags": []
     },
     {
       "id": "OnwiaDRj1-k",
       "title": "Kubernetes Services & Istio",
       "views": 18,
-      "date": "2026-01-13T04:31:02Z"
+      "date": "2026-01-13T04:31:02Z",
+      "tags": [
+        "Kubernetes",
+        "Istio",
+        "Service Types"
+      ]
     },
     {
       "id": "R2zktRqz81U",
       "title": "A Blueprint for Secure Azure Authentication in Go",
       "views": 10,
-      "date": "2026-01-13T00:32:55Z"
+      "date": "2026-01-13T00:32:55Z",
+      "tags": [
+        "workload Identity",
+        "Azure",
+        "SDK"
+      ]
     },
     {
       "id": "N4nRAfBZ3BE",
       "title": "Choosing Your Messaging Fabric on AKS",
       "views": 4,
-      "date": "2026-01-10T21:55:01Z"
+      "date": "2026-01-10T21:55:01Z",
+      "tags": []
     },
     {
       "id": "C5HqbzLRYZ0",
       "title": "K8s Services  AKS & Istio",
       "views": 4,
-      "date": "2026-01-10T16:26:22Z"
+      "date": "2026-01-10T16:26:22Z",
+      "tags": []
     },
     {
       "id": "rJTUB-u8U2Y",
       "title": "Kubernetes Cluster Architecture",
       "views": 7,
-      "date": "2026-01-10T03:23:02Z"
+      "date": "2026-01-10T03:23:02Z",
+      "tags": []
     },
     {
       "id": "A7eoKD5m6Ek",
       "title": "Securely Exposing AKS Applications",
       "views": 3,
-      "date": "2026-01-08T08:17:48Z"
+      "date": "2026-01-08T08:17:48Z",
+      "tags": []
     },
     {
       "id": "snRi_JET1bg",
       "title": "Deploying CSR Applications on Vercel Versus AKS",
-      "views": 5,
-      "date": "2026-01-07T04:11:51Z"
+      "views": 6,
+      "date": "2026-01-07T04:11:51Z",
+      "tags": []
     },
     {
       "id": "8ycnldvJmuA",
       "title": "The Blueprint for Enterprise AI on Azure",
       "views": 16,
-      "date": "2026-01-03T01:41:31Z"
+      "date": "2026-01-03T01:41:31Z",
+      "tags": [
+        "AKS",
+        "Kubernetes"
+      ]
     },
     {
       "id": "ftODZr2_V5Q",
       "title": "Kubernetes Version Upgrade Strategy",
       "views": 27,
-      "date": "2025-12-26T11:21:45Z"
+      "date": "2025-12-26T11:21:45Z",
+      "tags": [
+        "Kubernetes",
+        "AKS",
+        "version",
+        "upgrade"
+      ]
+    },
+    {
+      "id": "0NLj8g2hQNk",
+      "title": "The Client's Guide to 'ra-token-authority'",
+      "views": 3,
+      "date": "2026-01-16T18:34:39Z",
+      "tags": [
+        "Zero Trust",
+        "ra-token-authority",
+        "PASETO",
+        "mTLS",
+        "MSA",
+        "Kubernetes"
+      ]
+    },
+    {
+      "id": "0ttrfTfP864",
+      "title": "ra-token-authority",
+      "views": 1,
+      "date": "2026-01-16T16:34:51Z",
+      "tags": [
+        "Rust",
+        "PASETO",
+        "Token",
+        "Zero Trust",
+        "Axum",
+        "Tokio"
+      ]
     },
     {
       "id": "SeYrpzDTn6A",
       "title": "Modern Microservice Trust",
       "views": 15,
-      "date": "2026-01-13T23:06:41Z"
+      "date": "2026-01-13T23:06:41Z",
+      "tags": [
+        "MSA",
+        "PASETO",
+        "Rust"
+      ]
     },
     {
       "id": "FDYu2fllfuE",
       "title": "The 98  Prediction Problem",
       "views": 1,
-      "date": "2026-01-13T03:29:33Z"
+      "date": "2026-01-13T03:29:33Z",
+      "tags": []
     },
     {
       "id": "tmerUd7eiy4",
       "title": "Beyond the Default ",
       "views": 7,
-      "date": "2026-01-11T18:29:42Z"
+      "date": "2026-01-11T18:29:42Z",
+      "tags": []
     },
     {
       "id": "tqDisu2tmG0",
       "title": "AI Agents  Idea to Tool",
       "views": 3,
-      "date": "2026-01-10T23:18:02Z"
+      "date": "2026-01-10T23:18:02Z",
+      "tags": []
     },
     {
       "id": "9oSUtndLto4",
       "title": "Unifying AI, Copilot & Power BI",
       "views": 13,
-      "date": "2026-01-10T16:58:52Z"
+      "date": "2026-01-10T16:58:52Z",
+      "tags": []
     },
     {
       "id": "yOOQNnaOLeM",
       "title": "Zig  Pragmatic Successor to C",
-      "views": 6,
-      "date": "2026-01-10T04:21:57Z"
+      "views": 7,
+      "date": "2026-01-10T04:21:57Z",
+      "tags": []
     },
     {
       "id": "4_mBGmXA244",
       "title": "Data Centric Flutter Apps",
       "views": 29,
-      "date": "2026-01-10T02:40:22Z"
+      "date": "2026-01-10T02:40:22Z",
+      "tags": [
+        "Flutter",
+        "dio",
+        "riverpod",
+        "freezed",
+        "melos"
+      ]
     },
     {
       "id": "KCuGqld6nOc",
       "title": "The Go Concurrency Paradox",
-      "views": 46,
-      "date": "2026-01-10T00:17:59Z"
+      "views": 47,
+      "date": "2026-01-10T00:17:59Z",
+      "tags": [
+        "Go"
+      ]
     },
     {
       "id": "B2x09utLjtM",
       "title": "The Modern Delivery Flywheel",
       "views": 4,
-      "date": "2026-01-09T08:50:53Z"
+      "date": "2026-01-09T08:50:53Z",
+      "tags": [
+        "Trunk Based",
+        "Git"
+      ]
     },
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 45,
-      "date": "2026-01-09T00:15:35Z"
+      "views": 46,
+      "date": "2026-01-09T00:15:35Z",
+      "tags": [
+        "Rust",
+        "Anyhow",
+        "thiserror",
+        "axum",
+        "tracing",
+        "Tokio"
+      ]
     },
     {
       "id": "js95nIDeA-c",
       "title": "The Professional Rust Toolbox",
       "views": 4,
-      "date": "2026-01-08T10:19:31Z"
+      "date": "2026-01-08T10:19:31Z",
+      "tags": []
     },
     {
       "id": "BAxPZdgmgRQ",
       "title": "The 2026 State of Al Agents",
       "views": 1,
-      "date": "2026-01-08T09:41:38Z"
+      "date": "2026-01-08T09:41:38Z",
+      "tags": []
     },
     {
       "id": "z_Ydy_-cI1U",
       "title": "Micro-Processing the Hippo's Waste",
       "views": 2,
-      "date": "2026-01-07T05:32:04Z"
+      "date": "2026-01-07T05:32:04Z",
+      "tags": []
     },
     {
       "id": "axvxGj3yOgA",
       "title": "The Memory Management Trilemma",
-      "views": 28,
-      "date": "2026-01-07T03:10:14Z"
+      "views": 27,
+      "date": "2026-01-07T03:10:14Z",
+      "tags": [
+        "Rust",
+        "Zig"
+      ]
     },
     {
       "id": "Xhq99-YHXCY",
       "title": "Professional Al Agent Usage via the CLI",
       "views": 22,
-      "date": "2026-01-02T21:40:38Z"
+      "date": "2026-01-02T21:40:38Z",
+      "tags": [
+        "AI",
+        "AGENT",
+        "CLI"
+      ]
     },
     {
       "id": "PNFlYx8HiOM",
       "title": "The Art of Git Gardening",
       "views": 12,
-      "date": "2025-12-31T20:13:22Z"
+      "date": "2025-12-31T20:13:22Z",
+      "tags": [
+        "Git"
+      ]
     },
     {
       "id": "pzVOjl6mOD4",
       "title": "The Architect's Guide to Modern Token Security",
       "views": 22,
-      "date": "2025-12-30T03:57:17Z"
+      "date": "2025-12-30T03:57:17Z",
+      "tags": [
+        "PASETO"
+      ]
     },
     {
       "id": "olsB3bJxA2A",
       "title": "Let's check about Zig",
       "views": 326,
-      "date": "2025-12-28T09:28:00Z"
+      "date": "2025-12-28T09:28:00Z",
+      "tags": [
+        "Zig"
+      ]
     },
     {
       "id": "IF5sNQH-01c",
       "title": "NotebookLM's Intelligence Flow",
       "views": 44,
-      "date": "2025-12-28T08:31:48Z"
+      "date": "2025-12-28T08:31:48Z",
+      "tags": [
+        "NotebookLM",
+        "AI"
+      ]
     },
     {
       "id": "2kvYb2pVe5o",
       "title": "From Blueprint to Battlefield",
       "views": 30,
-      "date": "2025-12-27T21:55:52Z"
+      "date": "2025-12-27T21:55:52Z",
+      "tags": []
     },
     {
       "id": "TLqdeHlAo3A",
       "title": "From Bottlenecks to Breakthroughs:",
       "views": 27,
-      "date": "2025-12-27T21:13:50Z"
+      "date": "2025-12-27T21:13:50Z",
+      "tags": [
+        "Git",
+        "Trunk Based"
+      ]
     },
     {
       "id": "T5FjMjTQCBI",
       "title": "타입스크립트와 번으로 배우는 프로그래밍 1",
       "views": 71,
-      "date": "2026-01-10T07:09:48Z"
+      "date": "2026-01-10T07:09:48Z",
+      "tags": []
     },
     {
       "id": "F6aMGDfVAFg",
       "title": "비동기 처리 - async/await",
       "views": 13,
-      "date": "2026-01-10T07:11:59Z"
+      "date": "2026-01-10T07:11:59Z",
+      "tags": []
     },
     {
       "id": "D1Hth_78ftg",
       "title": "타입스크립트와 번으로 만드는 TODO 리스트",
       "views": 6,
-      "date": "2026-01-10T07:12:38Z"
+      "date": "2026-01-10T07:12:38Z",
+      "tags": []
     },
     {
       "id": "gKYw0_jkNFI",
       "title": "마음 속의 계산기",
       "views": 7,
-      "date": "2026-01-11T14:51:55Z"
+      "date": "2026-01-11T14:51:55Z",
+      "tags": []
     },
     {
       "id": "qyqLjeu8Hng",
       "title": "영어 리스닝  3000시간의 법칙",
-      "views": 37,
-      "date": "2026-01-13T10:40:26Z"
+      "views": 38,
+      "date": "2026-01-13T10:40:26Z",
+      "tags": []
     },
     {
       "id": "iEn_PMcBlDk",
       "title": "알고리즘 완전 정복",
       "views": 4,
-      "date": "2026-01-14T13:09:13Z"
+      "date": "2026-01-14T13:09:13Z",
+      "tags": []
     },
     {
       "id": "dsxuWtfzBGI",
       "title": "알고리즘에서 코드로  TypeScript 가이드",
       "views": 8,
-      "date": "2026-01-14T13:28:26Z"
+      "date": "2026-01-14T13:28:26Z",
+      "tags": []
     }
   ],
-  "generatedAt": "2026-01-16T08:03:25.462Z",
-  "count": 57
+  "generatedAt": "2026-01-16T18:44:22.895Z",
+  "count": 59
 }
