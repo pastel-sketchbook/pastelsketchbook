@@ -138,7 +138,7 @@
     {
       "id": "4b-H6ZaoNUE",
       "title": "Zero Trust in Kubernetes",
-      "views": 10,
+      "views": 11,
       "date": "2026-01-17T18:21:53Z",
       "tags": [
         "Kubernetes",
@@ -163,7 +163,7 @@
     {
       "id": "0U-SUJCmKAU",
       "title": "From Stateful to Secure",
-      "views": 27,
+      "views": 28,
       "date": "2026-01-16T06:38:21Z",
       "tags": [
         "Stateful",
@@ -321,6 +321,17 @@
       ]
     },
     {
+      "id": "HOetEEw0ogM",
+      "title": "Enterprise Agentic Al",
+      "views": 1,
+      "date": "2026-01-18T16:14:21Z",
+      "tags": [
+        "Agentic AI",
+        "Agile",
+        "Digital Employee"
+      ]
+    },
+    {
       "id": "0NLj8g2hQNk",
       "title": "The Client's Guide to 'ra-token-authority'",
       "views": 10,
@@ -351,7 +362,7 @@
     {
       "id": "SeYrpzDTn6A",
       "title": "Modern Microservice Trust",
-      "views": 16,
+      "views": 17,
       "date": "2026-01-13T23:06:41Z",
       "tags": [
         "MSA",
@@ -362,7 +373,7 @@
     {
       "id": "FDYu2fllfuE",
       "title": "The 98  Prediction Problem",
-      "views": 2,
+      "views": 1,
       "date": "2026-01-13T03:29:33Z",
       "tags": [
         "March Madness",
@@ -629,6 +640,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-01-18T15:19:46.123Z",
-  "count": 61
+  "generatedAt": "2026-01-18T16:45:21.468Z",
+  "count": 62
 }
