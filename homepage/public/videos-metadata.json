@@ -13,7 +13,8 @@
       "views": 4,
       "date": "2026-01-01T19:49:51Z",
       "tags": [
-        "viaje"
+        "viaje",
+        "corea"
       ]
     },
     {
@@ -22,7 +23,9 @@
       "views": 7,
       "date": "2026-01-01T21:39:16Z",
       "tags": [
-        "viaje"
+        "viaje",
+        "corea",
+        "Busan"
       ]
     },
     {
@@ -31,7 +34,9 @@
       "views": 10,
       "date": "2026-01-03T00:31:42Z",
       "tags": [
-        "viaje"
+        "viaje",
+        "corea",
+        "Gyeongju"
       ]
     },
     {
@@ -40,7 +45,9 @@
       "views": 13,
       "date": "2026-01-04T02:59:34Z",
       "tags": [
-        "viaje"
+        "viaje",
+        "corea",
+        "Andong"
       ]
     },
     {
@@ -49,7 +56,9 @@
       "views": 15,
       "date": "2026-01-04T18:38:25Z",
       "tags": [
-        "viaje"
+        "viaje",
+        "corea",
+        "Jeonju"
       ]
     },
     {
@@ -58,7 +67,9 @@
       "views": 10,
       "date": "2026-01-04T18:38:34Z",
       "tags": [
-        "viaje"
+        "viaje",
+        "corea",
+        "Yeosu"
       ]
     },
     {
@@ -67,13 +78,15 @@
       "views": 17,
       "date": "2026-01-04T19:28:27Z",
       "tags": [
-        "viaje"
+        "viaje",
+        "corea",
+        "Jinju"
       ]
     },
     {
       "id": "nfD3KzIriM8",
       "title": "The architecture of wealth",
-      "views": 3,
+      "views": 6,
       "date": "2026-01-16T22:17:34Z",
       "tags": []
     },
@@ -123,9 +136,23 @@
       ]
     },
     {
+      "id": "4b-H6ZaoNUE",
+      "title": "Zero Trust in Kubernetes",
+      "views": 10,
+      "date": "2026-01-17T18:21:53Z",
+      "tags": [
+        "Kubernetes",
+        "east-west",
+        "north-south",
+        "ZTNA",
+        "ZTS",
+        "Workload Identity"
+      ]
+    },
+    {
       "id": "_sxPf3tHq3s",
       "title": "The 100+ Service Problem",
-      "views": 13,
+      "views": 16,
       "date": "2026-01-16T08:00:15Z",
       "tags": [
         "Helm",
@@ -136,7 +163,7 @@
     {
       "id": "0U-SUJCmKAU",
       "title": "From Stateful to Secure",
-      "views": 17,
+      "views": 27,
       "date": "2026-01-16T06:38:21Z",
       "tags": [
         "Stateful",
@@ -148,7 +175,7 @@
     {
       "id": "VxWyvAO3qb8",
       "title": "The Two-System Pattern",
-      "views": 11,
+      "views": 12,
       "date": "2026-01-15T12:59:07Z",
       "tags": [
         "NATS",
@@ -196,7 +223,7 @@
     {
       "id": "OnwiaDRj1-k",
       "title": "Kubernetes Services & Istio",
-      "views": 18,
+      "views": 20,
       "date": "2026-01-13T04:31:02Z",
       "tags": [
         "Kubernetes",
@@ -207,7 +234,7 @@
     {
       "id": "R2zktRqz81U",
       "title": "A Blueprint for Secure Azure Authentication in Go",
-      "views": 11,
+      "views": 12,
       "date": "2026-01-13T00:32:55Z",
       "tags": [
         "workload Identity",
@@ -231,7 +258,7 @@
     {
       "id": "C5HqbzLRYZ0",
       "title": "K8s Services  AKS & Istio",
-      "views": 4,
+      "views": 5,
       "date": "2026-01-10T16:26:22Z",
       "tags": [
         "Istio",
@@ -242,7 +269,7 @@
     {
       "id": "rJTUB-u8U2Y",
       "title": "Kubernetes Cluster Architecture",
-      "views": 7,
+      "views": 10,
       "date": "2026-01-10T03:23:02Z",
       "tags": [
         "Kubernetes",
@@ -253,7 +280,7 @@
     {
       "id": "A7eoKD5m6Ek",
       "title": "Securely Exposing AKS Applications",
-      "views": 3,
+      "views": 4,
       "date": "2026-01-08T08:17:48Z",
       "tags": [
         "AKS",
@@ -296,7 +323,7 @@
     {
       "id": "0NLj8g2hQNk",
       "title": "The Client's Guide to 'ra-token-authority'",
-      "views": 4,
+      "views": 10,
       "date": "2026-01-16T18:34:39Z",
       "tags": [
         "Zero Trust",
@@ -310,7 +337,7 @@
     {
       "id": "0ttrfTfP864",
       "title": "ra-token-authority",
-      "views": 7,
+      "views": 18,
       "date": "2026-01-16T16:34:51Z",
       "tags": [
         "Rust",
@@ -335,7 +362,7 @@
     {
       "id": "FDYu2fllfuE",
       "title": "The 98  Prediction Problem",
-      "views": 1,
+      "views": 2,
       "date": "2026-01-13T03:29:33Z",
       "tags": [
         "March Madness",
@@ -357,7 +384,7 @@
     {
       "id": "tqDisu2tmG0",
       "title": "AI Agents  Idea to Tool",
-      "views": 3,
+      "views": 5,
       "date": "2026-01-10T23:18:02Z",
       "tags": [
         "AI",
@@ -419,7 +446,7 @@
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 51,
+      "views": 62,
       "date": "2026-01-09T00:15:35Z",
       "tags": [
         "Rust",
@@ -506,7 +533,7 @@
     {
       "id": "olsB3bJxA2A",
       "title": "Let's check about Zig",
-      "views": 328,
+      "views": 329,
       "date": "2025-12-28T09:28:00Z",
       "tags": [
         "Zig"
@@ -525,7 +552,7 @@
     {
       "id": "2kvYb2pVe5o",
       "title": "From Blueprint to Battlefield",
-      "views": 30,
+      "views": 31,
       "date": "2025-12-27T21:55:52Z",
       "tags": [
         "identity",
@@ -547,14 +574,14 @@
     {
       "id": "T5FjMjTQCBI",
       "title": "타입스크립트와 번으로 배우는 프로그래밍 1",
-      "views": 71,
+      "views": 72,
       "date": "2026-01-10T07:09:48Z",
       "tags": []
     },
     {
       "id": "F6aMGDfVAFg",
       "title": "비동기 처리 - async/await",
-      "views": 13,
+      "views": 16,
       "date": "2026-01-10T07:11:59Z",
       "tags": []
     },
@@ -568,7 +595,7 @@
     {
       "id": "gKYw0_jkNFI",
       "title": "마음 속의 계산기",
-      "views": 7,
+      "views": 9,
       "date": "2026-01-11T14:51:55Z",
       "tags": [
         "주판"
@@ -577,7 +604,7 @@
     {
       "id": "qyqLjeu8Hng",
       "title": "영어 리스닝  3000시간의 법칙",
-      "views": 37,
+      "views": 39,
       "date": "2026-01-13T10:40:26Z",
       "tags": [
         "영어 공부"
@@ -595,13 +622,13 @@
     {
       "id": "dsxuWtfzBGI",
       "title": "알고리즘에서 코드로  TypeScript 가이드",
-      "views": 8,
+      "views": 9,
       "date": "2026-01-14T13:28:26Z",
       "tags": [
         "알고리즘"
       ]
     }
   ],
-  "generatedAt": "2026-01-16T23:46:37.214Z",
-  "count": 60
+  "generatedAt": "2026-01-18T15:19:46.123Z",
+  "count": 61
 }
