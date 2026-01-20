@@ -240,7 +240,7 @@ export default async function handler(
       title: item.snippet.title || '',
       views: Number(item.statistics.viewCount) || 0,
       date: item.snippet.publishedAt || new Date().toISOString(),
-      tags: item.snippet.tags || []
+      tags: (item.snippet.tags || []).map((tag: string) => tag.toLowerCase())
     }))
 
     const duration = Date.now() - startTime

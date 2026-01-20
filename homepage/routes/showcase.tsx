@@ -131,7 +131,8 @@ function Showcase() {
     const allItems: VideoItem[] = videoMetadata.map((item: any) => ({
         ...item,
         date: formatYouTubeDate(item.date),
-        category: videoCategories[item.id]
+        category: videoCategories[item.id],
+        tags: (item.tags || []).map((tag: string) => tag.toLowerCase())
     }));
 
     // Extract all unique tags from videos

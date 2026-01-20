@@ -143,12 +143,12 @@ async function fetchVideoMetadata(
       }
 
       const batchMetadata = (data.items || []).map((item: any) => ({
-        id: item.id,
-        title: item.snippet.title || '',
-        views: Number(item.statistics.viewCount) || 0,
-        date: item.snippet.publishedAt || new Date().toISOString(),
-        tags: item.snippet.tags || []
-      }))
+         id: item.id,
+         title: item.snippet.title || '',
+         views: Number(item.statistics.viewCount) || 0,
+         date: item.snippet.publishedAt || new Date().toISOString(),
+         tags: (item.snippet.tags || []).map((tag: string) => tag.toLowerCase())
+       }))
 
       allMetadata.push(...batchMetadata)
     }

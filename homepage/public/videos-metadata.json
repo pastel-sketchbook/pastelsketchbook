@@ -25,7 +25,7 @@
       "tags": [
         "viaje",
         "corea",
-        "Busan"
+        "busan"
       ]
     },
     {
@@ -36,7 +36,7 @@
       "tags": [
         "viaje",
         "corea",
-        "Gyeongju"
+        "gyeongju"
       ]
     },
     {
@@ -47,7 +47,7 @@
       "tags": [
         "viaje",
         "corea",
-        "Andong"
+        "andong"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "tags": [
         "viaje",
         "corea",
-        "Jeonju"
+        "jeonju"
       ]
     },
     {
@@ -69,7 +69,7 @@
       "tags": [
         "viaje",
         "corea",
-        "Yeosu"
+        "yeosu"
       ]
     },
     {
@@ -80,7 +80,7 @@
       "tags": [
         "viaje",
         "corea",
-        "Jinju"
+        "jinju"
       ]
     },
     {
@@ -132,7 +132,7 @@
       "date": "2025-12-26T10:48:59Z",
       "tags": [
         "stocks",
-        "NotebookLM"
+        "notebooklm"
       ]
     },
     {
@@ -141,23 +141,23 @@
       "views": 16,
       "date": "2026-01-17T18:21:53Z",
       "tags": [
-        "Kubernetes",
+        "kubernetes",
         "east-west",
         "north-south",
-        "ZTNA",
-        "ZTS",
-        "Workload Identity"
+        "ztna",
+        "zts",
+        "workload identity"
       ]
     },
     {
       "id": "_sxPf3tHq3s",
       "title": "The 100+ Service Problem",
-      "views": 18,
+      "views": 19,
       "date": "2026-01-16T08:00:15Z",
       "tags": [
-        "Helm",
-        "CI/CD",
-        "Kubernetes"
+        "helm",
+        "ci/cd",
+        "kubernetes"
       ]
     },
     {
@@ -166,10 +166,10 @@
       "views": 32,
       "date": "2026-01-16T06:38:21Z",
       "tags": [
-        "Stateful",
-        "Kubernetes",
-        "RabbitMQ",
-        "mTLS"
+        "stateful",
+        "kubernetes",
+        "rabbitmq",
+        "mtls"
       ]
     },
     {
@@ -178,10 +178,10 @@
       "views": 14,
       "date": "2026-01-15T12:59:07Z",
       "tags": [
-        "NATS",
-        "Azure Event Hubs",
-        "AKS",
-        "Bridge"
+        "nats",
+        "azure event hubs",
+        "aks",
+        "bridge"
       ]
     },
     {
@@ -190,11 +190,11 @@
       "views": 17,
       "date": "2026-01-15T03:44:26Z",
       "tags": [
-        "Rust",
-        "mTLS",
-        "Istio",
-        "Kubernetes",
-        "AKS"
+        "rust",
+        "mtls",
+        "istio",
+        "kubernetes",
+        "aks"
       ]
     },
     {
@@ -203,11 +203,11 @@
       "views": 6,
       "date": "2026-01-14T10:07:05Z",
       "tags": [
-        "AKS",
-        "ACR",
-        "CI",
-        "CD",
-        "Lifecycle"
+        "aks",
+        "acr",
+        "ci",
+        "cd",
+        "lifecycle"
       ]
     },
     {
@@ -226,9 +226,9 @@
       "views": 22,
       "date": "2026-01-13T04:31:02Z",
       "tags": [
-        "Kubernetes",
-        "Istio",
-        "Service Types"
+        "kubernetes",
+        "istio",
+        "service types"
       ]
     },
     {
@@ -237,9 +237,9 @@
       "views": 13,
       "date": "2026-01-13T00:32:55Z",
       "tags": [
-        "workload Identity",
-        "Azure",
-        "SDK"
+        "workload identity",
+        "azure",
+        "sdk"
       ]
     },
     {
@@ -248,22 +248,22 @@
       "views": 4,
       "date": "2026-01-10T21:55:01Z",
       "tags": [
-        "Messaging",
-        "AKS",
-        "NATS",
-        "Azure Event Hubs",
-        "RabbitMQ"
+        "messaging",
+        "aks",
+        "nats",
+        "azure event hubs",
+        "rabbitmq"
       ]
     },
     {
       "id": "C5HqbzLRYZ0",
       "title": "K8s Services  AKS & Istio",
-      "views": 5,
+      "views": 7,
       "date": "2026-01-10T16:26:22Z",
       "tags": [
-        "Istio",
-        "AKS",
-        "Kubernetes"
+        "istio",
+        "aks",
+        "kubernetes"
       ]
     },
     {
@@ -272,7 +272,7 @@
       "views": 10,
       "date": "2026-01-10T03:23:02Z",
       "tags": [
-        "Kubernetes",
+        "kubernetes",
         "cluster",
         "architecture"
       ]
@@ -283,8 +283,8 @@
       "views": 4,
       "date": "2026-01-08T08:17:48Z",
       "tags": [
-        "AKS",
-        "Public facing"
+        "aks",
+        "public facing"
       ]
     },
     {
@@ -293,9 +293,9 @@
       "views": 6,
       "date": "2026-01-07T04:11:51Z",
       "tags": [
-        "AKS",
-        "Vercel",
-        "CSR"
+        "aks",
+        "vercel",
+        "csr"
       ]
     },
     {
@@ -304,8 +304,8 @@
       "views": 16,
       "date": "2026-01-03T01:41:31Z",
       "tags": [
-        "AKS",
-        "Kubernetes"
+        "aks",
+        "kubernetes"
       ]
     },
     {
@@ -314,8 +314,8 @@
       "views": 27,
       "date": "2025-12-26T11:21:45Z",
       "tags": [
-        "Kubernetes",
-        "AKS",
+        "kubernetes",
+        "aks",
         "version",
         "upgrade"
       ]
@@ -326,11 +326,11 @@
       "views": 2,
       "date": "2026-01-20T10:29:25Z",
       "tags": [
-        "Dart",
-        "Sound Null Safety",
-        "Records",
-        "Pattern Matching",
-        "Feature Flags"
+        "dart",
+        "sound null safety",
+        "records",
+        "pattern matching",
+        "feature flags"
       ]
     },
     {
@@ -339,9 +339,9 @@
       "views": 7,
       "date": "2026-01-19T20:47:14Z",
       "tags": [
-        "Zig",
-        "Hangul",
-        "WASM"
+        "zig",
+        "hangul",
+        "wasm"
       ]
     },
     {
@@ -350,8 +350,8 @@
       "views": 7,
       "date": "2026-01-19T17:09:56Z",
       "tags": [
-        "Rust",
-        "Feature Flags",
+        "rust",
+        "feature flags",
         "optional",
         "opt-out"
       ]
@@ -373,10 +373,10 @@
       "views": 7,
       "date": "2026-01-18T19:15:22Z",
       "tags": [
-        "Flutter",
-        "Melos",
-        "Riverpod",
-        "Repository Pattern"
+        "flutter",
+        "melos",
+        "riverpod",
+        "repository pattern"
       ]
     },
     {
@@ -395,9 +395,9 @@
       "views": 25,
       "date": "2026-01-18T16:14:21Z",
       "tags": [
-        "Agentic AI",
-        "Agile",
-        "Digital Employee"
+        "agentic ai",
+        "agile",
+        "digital employee"
       ]
     },
     {
@@ -406,12 +406,12 @@
       "views": 11,
       "date": "2026-01-16T18:34:39Z",
       "tags": [
-        "Zero Trust",
+        "zero trust",
         "ra-token-authority",
-        "PASETO",
-        "mTLS",
-        "MSA",
-        "Kubernetes"
+        "paseto",
+        "mtls",
+        "msa",
+        "kubernetes"
       ]
     },
     {
@@ -420,12 +420,12 @@
       "views": 19,
       "date": "2026-01-16T16:34:51Z",
       "tags": [
-        "Rust",
-        "PASETO",
-        "Token",
-        "Zero Trust",
-        "Axum",
-        "Tokio"
+        "rust",
+        "paseto",
+        "token",
+        "zero trust",
+        "axum",
+        "tokio"
       ]
     },
     {
@@ -434,9 +434,9 @@
       "views": 17,
       "date": "2026-01-13T23:06:41Z",
       "tags": [
-        "MSA",
-        "PASETO",
-        "Rust"
+        "msa",
+        "paseto",
+        "rust"
       ]
     },
     {
@@ -445,7 +445,7 @@
       "views": 2,
       "date": "2026-01-13T03:29:33Z",
       "tags": [
-        "March Madness",
+        "march madness",
         "prediction"
       ]
     },
@@ -455,7 +455,7 @@
       "views": 8,
       "date": "2026-01-11T18:29:42Z",
       "tags": [
-        "CLI",
+        "cli",
         "zsh",
         "antidote",
         "starship"
@@ -467,8 +467,8 @@
       "views": 5,
       "date": "2026-01-10T23:18:02Z",
       "tags": [
-        "AI",
-        "AGENTS"
+        "ai",
+        "agents"
       ]
     },
     {
@@ -477,9 +477,9 @@
       "views": 13,
       "date": "2026-01-10T16:58:52Z",
       "tags": [
-        "Copilot",
-        "PowerBI",
-        "Azure AI Foundry"
+        "copilot",
+        "powerbi",
+        "azure ai foundry"
       ]
     },
     {
@@ -488,7 +488,7 @@
       "views": 12,
       "date": "2026-01-10T04:21:57Z",
       "tags": [
-        "Zig"
+        "zig"
       ]
     },
     {
@@ -497,7 +497,7 @@
       "views": 30,
       "date": "2026-01-10T02:40:22Z",
       "tags": [
-        "Flutter",
+        "flutter",
         "dio",
         "riverpod",
         "freezed",
@@ -510,7 +510,7 @@
       "views": 47,
       "date": "2026-01-10T00:17:59Z",
       "tags": [
-        "Go"
+        "go"
       ]
     },
     {
@@ -519,22 +519,22 @@
       "views": 4,
       "date": "2026-01-09T08:50:53Z",
       "tags": [
-        "Trunk Based",
-        "Git"
+        "trunk based",
+        "git"
       ]
     },
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 74,
+      "views": 75,
       "date": "2026-01-09T00:15:35Z",
       "tags": [
-        "Rust",
-        "Anyhow",
+        "rust",
+        "anyhow",
         "thiserror",
         "axum",
         "tracing",
-        "Tokio"
+        "tokio"
       ]
     },
     {
@@ -543,9 +543,9 @@
       "views": 4,
       "date": "2026-01-08T10:19:31Z",
       "tags": [
-        "Rust",
-        "Anyhow",
-        "Toolbox"
+        "rust",
+        "anyhow",
+        "toolbox"
       ]
     },
     {
@@ -554,9 +554,9 @@
       "views": 2,
       "date": "2026-01-08T09:41:38Z",
       "tags": [
-        "AI",
+        "ai",
         "2026",
-        "AGENTS"
+        "agents"
       ]
     },
     {
@@ -565,10 +565,10 @@
       "views": 2,
       "date": "2026-01-07T05:32:04Z",
       "tags": [
-        "AI",
-        "AGENTS",
+        "ai",
+        "agents",
         "3270",
-        "Zig"
+        "zig"
       ]
     },
     {
@@ -577,8 +577,8 @@
       "views": 29,
       "date": "2026-01-07T03:10:14Z",
       "tags": [
-        "Rust",
-        "Zig"
+        "rust",
+        "zig"
       ]
     },
     {
@@ -587,9 +587,9 @@
       "views": 23,
       "date": "2026-01-02T21:40:38Z",
       "tags": [
-        "AI",
-        "AGENT",
-        "CLI"
+        "ai",
+        "agent",
+        "cli"
       ]
     },
     {
@@ -598,7 +598,7 @@
       "views": 13,
       "date": "2025-12-31T20:13:22Z",
       "tags": [
-        "Git"
+        "git"
       ]
     },
     {
@@ -607,7 +607,7 @@
       "views": 22,
       "date": "2025-12-30T03:57:17Z",
       "tags": [
-        "PASETO"
+        "paseto"
       ]
     },
     {
@@ -616,7 +616,7 @@
       "views": 329,
       "date": "2025-12-28T09:28:00Z",
       "tags": [
-        "Zig"
+        "zig"
       ]
     },
     {
@@ -625,8 +625,8 @@
       "views": 44,
       "date": "2025-12-28T08:31:48Z",
       "tags": [
-        "NotebookLM",
-        "AI"
+        "notebooklm",
+        "ai"
       ]
     },
     {
@@ -636,8 +636,8 @@
       "date": "2025-12-27T21:55:52Z",
       "tags": [
         "identity",
-        "OIDC",
-        "SSRF"
+        "oidc",
+        "ssrf"
       ]
     },
     {
@@ -646,9 +646,9 @@
       "views": 27,
       "date": "2025-12-27T21:13:50Z",
       "tags": [
-        "Git",
-        "Trunk Based",
-        "ADO"
+        "git",
+        "trunk based",
+        "ado"
       ]
     },
     {
@@ -709,6 +709,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-01-20T10:36:27.368Z",
+  "generatedAt": "2026-01-20T12:43:29.857Z",
   "count": 68
 }
