@@ -138,7 +138,7 @@
     {
       "id": "4b-H6ZaoNUE",
       "title": "Zero Trust in Kubernetes",
-      "views": 13,
+      "views": 16,
       "date": "2026-01-17T18:21:53Z",
       "tags": [
         "Kubernetes",
@@ -152,7 +152,7 @@
     {
       "id": "_sxPf3tHq3s",
       "title": "The 100+ Service Problem",
-      "views": 16,
+      "views": 18,
       "date": "2026-01-16T08:00:15Z",
       "tags": [
         "Helm",
@@ -163,7 +163,7 @@
     {
       "id": "0U-SUJCmKAU",
       "title": "From Stateful to Secure",
-      "views": 30,
+      "views": 32,
       "date": "2026-01-16T06:38:21Z",
       "tags": [
         "Stateful",
@@ -187,7 +187,7 @@
     {
       "id": "A4-foXsdQiA",
       "title": "Securing Service-to-Service Communication in Kubernetes",
-      "views": 16,
+      "views": 17,
       "date": "2026-01-15T03:44:26Z",
       "tags": [
         "Rust",
@@ -223,7 +223,7 @@
     {
       "id": "OnwiaDRj1-k",
       "title": "Kubernetes Services & Istio",
-      "views": 21,
+      "views": 22,
       "date": "2026-01-13T04:31:02Z",
       "tags": [
         "Kubernetes",
@@ -321,9 +321,22 @@
       ]
     },
     {
+      "id": "JBh6rzeS-Qc",
+      "title": "Modern Dart",
+      "views": 2,
+      "date": "2026-01-20T10:29:25Z",
+      "tags": [
+        "Dart",
+        "Sound Null Safety",
+        "Records",
+        "Pattern Matching",
+        "Feature Flags"
+      ]
+    },
+    {
       "id": "9yov-ZVv-Bo",
       "title": "Hangul + WASM",
-      "views": 2,
+      "views": 7,
       "date": "2026-01-19T20:47:14Z",
       "tags": [
         "Zig",
@@ -334,7 +347,7 @@
     {
       "id": "xVmoqBYlQMU",
       "title": "Mastering Rust Feature Flags",
-      "views": 6,
+      "views": 7,
       "date": "2026-01-19T17:09:56Z",
       "tags": [
         "Rust",
@@ -346,7 +359,7 @@
     {
       "id": "5KB2zLGjaps",
       "title": "Conventional Commits",
-      "views": 6,
+      "views": 8,
       "date": "2026-01-19T10:21:27Z",
       "tags": [
         "git",
@@ -369,7 +382,7 @@
     {
       "id": "Z06RjO-zFxI",
       "title": "The Modern Git Playbook",
-      "views": 12,
+      "views": 13,
       "date": "2026-01-18T18:16:27Z",
       "tags": [
         "git",
@@ -472,7 +485,7 @@
     {
       "id": "yOOQNnaOLeM",
       "title": "Zig  Pragmatic Successor to C",
-      "views": 11,
+      "views": 12,
       "date": "2026-01-10T04:21:57Z",
       "tags": [
         "Zig"
@@ -513,7 +526,7 @@
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 72,
+      "views": 74,
       "date": "2026-01-09T00:15:35Z",
       "tags": [
         "Rust",
@@ -561,7 +574,7 @@
     {
       "id": "axvxGj3yOgA",
       "title": "The Memory Management Trilemma",
-      "views": 27,
+      "views": 29,
       "date": "2026-01-07T03:10:14Z",
       "tags": [
         "Rust",
@@ -680,7 +693,7 @@
     {
       "id": "iEn_PMcBlDk",
       "title": "알고리즘 완전 정복",
-      "views": 4,
+      "views": 5,
       "date": "2026-01-14T13:09:13Z",
       "tags": [
         "알고리즘"
@@ -696,6 +709,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-01-19T20:52:36.341Z",
-  "count": 67
+  "generatedAt": "2026-01-20T10:36:27.368Z",
+  "count": 68
 }
