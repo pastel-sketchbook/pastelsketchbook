@@ -86,7 +86,7 @@
     {
       "id": "MBnVggs6k5g",
       "title": "The Exchange Rate of Your Life",
-      "views": 1,
+      "views": 11,
       "date": "2026-01-22T23:21:20Z",
       "tags": [
         "money",
@@ -174,7 +174,7 @@
     {
       "id": "0U-SUJCmKAU",
       "title": "From Stateful to Secure",
-      "views": 35,
+      "views": 36,
       "date": "2026-01-16T06:38:21Z",
       "tags": [
         "stateful",
@@ -332,9 +332,20 @@
       ]
     },
     {
+      "id": "MaP2i4dTiQk",
+      "title": "Taming the Genie",
+      "views": 2,
+      "date": "2026-01-23T08:12:08Z",
+      "tags": [
+        "ai",
+        "design contest",
+        "augmented coding"
+      ]
+    },
+    {
       "id": "Pp36ysjfWd8",
       "title": "Hangul Typing",
-      "views": 1,
+      "views": 5,
       "date": "2026-01-22T23:21:15Z",
       "tags": [
         "hangul",
@@ -349,7 +360,7 @@
     {
       "id": "JBh6rzeS-Qc",
       "title": "Modern Dart",
-      "views": 40,
+      "views": 63,
       "date": "2026-01-20T10:29:25Z",
       "tags": [
         "dart",
@@ -373,7 +384,7 @@
     {
       "id": "xVmoqBYlQMU",
       "title": "Mastering Rust Feature Flags",
-      "views": 20,
+      "views": 27,
       "date": "2026-01-19T17:09:56Z",
       "tags": [
         "rust",
@@ -396,7 +407,7 @@
     {
       "id": "LWc3AAHoxnU",
       "title": "Flutter App Template",
-      "views": 11,
+      "views": 12,
       "date": "2026-01-18T19:15:22Z",
       "tags": [
         "flutter",
@@ -408,7 +419,7 @@
     {
       "id": "Z06RjO-zFxI",
       "title": "The Modern Git Playbook",
-      "views": 22,
+      "views": 24,
       "date": "2026-01-18T18:16:27Z",
       "tags": [
         "git",
@@ -418,7 +429,7 @@
     {
       "id": "HOetEEw0ogM",
       "title": "Enterprise Agentic Al",
-      "views": 32,
+      "views": 33,
       "date": "2026-01-18T16:14:21Z",
       "tags": [
         "agentic ai",
@@ -735,6 +746,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-01-22T23:25:02.221Z",
-  "count": 70
+  "generatedAt": "2026-01-23T08:17:33.256Z",
+  "count": 71
 }
