@@ -84,15 +84,18 @@
       ]
     },
     {
+      "id": "K1O4kHjFJaQ",
+      "title": "The Three Pillars of Financial Freedom",
+      "views": 2,
+      "date": "2026-01-24T04:45:24Z",
+      "tags": []
+    },
+    {
       "id": "MBnVggs6k5g",
       "title": "The Exchange Rate of Your Life",
-      "views": 11,
+      "views": 14,
       "date": "2026-01-22T23:21:20Z",
-      "tags": [
-        "money",
-        "time",
-        "tenure"
-      ]
+      "tags": []
     },
     {
       "id": "nfD3KzIriM8",
@@ -163,7 +166,7 @@
     {
       "id": "_sxPf3tHq3s",
       "title": "The 100+ Service Problem",
-      "views": 22,
+      "views": 23,
       "date": "2026-01-16T08:00:15Z",
       "tags": [
         "helm",
@@ -174,7 +177,7 @@
     {
       "id": "0U-SUJCmKAU",
       "title": "From Stateful to Secure",
-      "views": 36,
+      "views": 39,
       "date": "2026-01-16T06:38:21Z",
       "tags": [
         "stateful",
@@ -234,7 +237,7 @@
     {
       "id": "OnwiaDRj1-k",
       "title": "Kubernetes Services & Istio",
-      "views": 27,
+      "views": 28,
       "date": "2026-01-13T04:31:02Z",
       "tags": [
         "kubernetes",
@@ -334,7 +337,7 @@
     {
       "id": "MaP2i4dTiQk",
       "title": "Taming the Genie",
-      "views": 2,
+      "views": 12,
       "date": "2026-01-23T08:12:08Z",
       "tags": [
         "ai",
@@ -345,7 +348,7 @@
     {
       "id": "Pp36ysjfWd8",
       "title": "Hangul Typing",
-      "views": 5,
+      "views": 6,
       "date": "2026-01-22T23:21:15Z",
       "tags": [
         "hangul",
@@ -360,7 +363,7 @@
     {
       "id": "JBh6rzeS-Qc",
       "title": "Modern Dart",
-      "views": 63,
+      "views": 73,
       "date": "2026-01-20T10:29:25Z",
       "tags": [
         "dart",
@@ -373,7 +376,7 @@
     {
       "id": "9yov-ZVv-Bo",
       "title": "Hangul + WASM",
-      "views": 36,
+      "views": 38,
       "date": "2026-01-19T20:47:14Z",
       "tags": [
         "zig",
@@ -384,7 +387,7 @@
     {
       "id": "xVmoqBYlQMU",
       "title": "Mastering Rust Feature Flags",
-      "views": 27,
+      "views": 38,
       "date": "2026-01-19T17:09:56Z",
       "tags": [
         "rust",
@@ -407,7 +410,7 @@
     {
       "id": "LWc3AAHoxnU",
       "title": "Flutter App Template",
-      "views": 12,
+      "views": 15,
       "date": "2026-01-18T19:15:22Z",
       "tags": [
         "flutter",
@@ -419,7 +422,7 @@
     {
       "id": "Z06RjO-zFxI",
       "title": "The Modern Git Playbook",
-      "views": 24,
+      "views": 32,
       "date": "2026-01-18T18:16:27Z",
       "tags": [
         "git",
@@ -522,7 +525,7 @@
     {
       "id": "yOOQNnaOLeM",
       "title": "Zig  Pragmatic Successor to C",
-      "views": 12,
+      "views": 14,
       "date": "2026-01-10T04:21:57Z",
       "tags": [
         "zig"
@@ -632,7 +635,7 @@
     {
       "id": "PNFlYx8HiOM",
       "title": "The Art of Git Gardening",
-      "views": 14,
+      "views": 13,
       "date": "2025-12-31T20:13:22Z",
       "tags": [
         "git"
@@ -739,13 +742,13 @@
     {
       "id": "dsxuWtfzBGI",
       "title": "알고리즘에서 코드로  TypeScript 가이드",
-      "views": 10,
+      "views": 11,
       "date": "2026-01-14T13:28:26Z",
       "tags": [
         "알고리즘"
       ]
     }
   ],
-  "generatedAt": "2026-01-23T08:17:33.256Z",
-  "count": 71
+  "generatedAt": "2026-01-24T06:12:09.794Z",
+  "count": 72
 }

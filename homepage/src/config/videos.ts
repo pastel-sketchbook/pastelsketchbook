@@ -37,6 +37,7 @@ export const VIDEO_CONFIG = {
     'drVBXipEOAs'
   ],
   finance: [
+    'K1O4kHjFJaQ',
     'MBnVggs6k5g',
     'nfD3KzIriM8',
     's1BoGn9r7oE',
