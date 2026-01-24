@@ -86,7 +86,7 @@
     {
       "id": "K1O4kHjFJaQ",
       "title": "The Three Pillars of Financial Freedom",
-      "views": 2,
+      "views": 4,
       "date": "2026-01-24T04:45:24Z",
       "tags": []
     },
@@ -335,6 +335,17 @@
       ]
     },
     {
+      "id": "P58Zt8A_1Mc",
+      "title": "Swift Firefly",
+      "views": 1,
+      "date": "2026-01-24T08:32:27Z",
+      "tags": [
+        "swift",
+        "zig",
+        "wasm"
+      ]
+    },
+    {
       "id": "MaP2i4dTiQk",
       "title": "Taming the Genie",
       "views": 12,
@@ -363,7 +374,7 @@
     {
       "id": "JBh6rzeS-Qc",
       "title": "Modern Dart",
-      "views": 73,
+      "views": 74,
       "date": "2026-01-20T10:29:25Z",
       "tags": [
         "dart",
@@ -749,6 +760,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-01-24T06:12:09.794Z",
-  "count": 72
+  "generatedAt": "2026-01-24T10:03:14.856Z",
+  "count": 73
 }
