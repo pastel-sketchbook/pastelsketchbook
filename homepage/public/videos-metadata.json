@@ -86,7 +86,7 @@
     {
       "id": "K1O4kHjFJaQ",
       "title": "The Three Pillars of Financial Freedom",
-      "views": 9,
+      "views": 10,
       "date": "2026-01-24T04:45:24Z",
       "tags": []
     },
@@ -335,9 +335,20 @@
       ]
     },
     {
+      "id": "cJl2cchaHL8",
+      "title": "pastel-hn",
+      "views": 1,
+      "date": "2026-01-25T05:05:15Z",
+      "tags": [
+        "tauri",
+        "rust",
+        "hn"
+      ]
+    },
+    {
       "id": "qbBA7GWZbu4",
       "title": "Smooth Motion",
-      "views": 3,
+      "views": 16,
       "date": "2026-01-25T01:05:25Z",
       "tags": [
         "bezier curves",
@@ -348,7 +359,7 @@
     {
       "id": "P58Zt8A_1Mc",
       "title": "Swift Firefly",
-      "views": 9,
+      "views": 11,
       "date": "2026-01-24T08:32:27Z",
       "tags": [
         "swift",
@@ -569,7 +580,7 @@
     {
       "id": "KCuGqld6nOc",
       "title": "The Go Concurrency Paradox",
-      "views": 47,
+      "views": 48,
       "date": "2026-01-10T00:17:59Z",
       "tags": [
         "go"
@@ -675,7 +686,7 @@
     {
       "id": "olsB3bJxA2A",
       "title": "Let's check about Zig",
-      "views": 330,
+      "views": 331,
       "date": "2025-12-28T09:28:00Z",
       "tags": [
         "zig"
@@ -771,6 +782,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-01-25T01:10:49.582Z",
-  "count": 74
+  "generatedAt": "2026-01-25T05:13:03.019Z",
+  "count": 75
 }
