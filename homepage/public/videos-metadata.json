@@ -86,7 +86,7 @@
     {
       "id": "K1O4kHjFJaQ",
       "title": "The Three Pillars of Financial Freedom",
-      "views": 10,
+      "views": 12,
       "date": "2026-01-24T04:45:24Z",
       "tags": []
     },
@@ -335,9 +335,20 @@
       ]
     },
     {
+      "id": "3Fpey_L_XRU",
+      "title": "Cloth Simulation ",
+      "views": 1,
+      "date": "2026-01-25T22:13:48Z",
+      "tags": [
+        "zig",
+        "wasm",
+        "verlet integration"
+      ]
+    },
+    {
       "id": "cJl2cchaHL8",
       "title": "pastel-hn",
-      "views": 1,
+      "views": 10,
       "date": "2026-01-25T05:05:15Z",
       "tags": [
         "tauri",
@@ -348,7 +359,7 @@
     {
       "id": "qbBA7GWZbu4",
       "title": "Smooth Motion",
-      "views": 16,
+      "views": 31,
       "date": "2026-01-25T01:05:25Z",
       "tags": [
         "bezier curves",
@@ -359,7 +370,7 @@
     {
       "id": "P58Zt8A_1Mc",
       "title": "Swift Firefly",
-      "views": 11,
+      "views": 27,
       "date": "2026-01-24T08:32:27Z",
       "tags": [
         "swift",
@@ -420,7 +431,7 @@
     {
       "id": "xVmoqBYlQMU",
       "title": "Mastering Rust Feature Flags",
-      "views": 38,
+      "views": 45,
       "date": "2026-01-19T17:09:56Z",
       "tags": [
         "rust",
@@ -443,7 +454,7 @@
     {
       "id": "LWc3AAHoxnU",
       "title": "Flutter App Template",
-      "views": 15,
+      "views": 16,
       "date": "2026-01-18T19:15:22Z",
       "tags": [
         "flutter",
@@ -782,6 +793,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-01-25T05:13:03.019Z",
-  "count": 75
+  "generatedAt": "2026-01-25T22:24:04.170Z",
+  "count": 76
 }
