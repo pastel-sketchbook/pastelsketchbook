@@ -237,7 +237,7 @@
     {
       "id": "OnwiaDRj1-k",
       "title": "Kubernetes Services & Istio",
-      "views": 28,
+      "views": 29,
       "date": "2026-01-13T04:31:02Z",
       "tags": [
         "kubernetes",
@@ -335,9 +335,32 @@
       ]
     },
     {
+      "id": "US7oyxbcJCc",
+      "title": "Cloth Simulation: A Performance Study",
+      "views": 3,
+      "date": "2026-01-26T04:41:26Z",
+      "tags": [
+        "zig",
+        "cloth simulation",
+        "native",
+        "hybrid"
+      ]
+    },
+    {
+      "id": "DCGTYftRGWE",
+      "title": "Hardening a Prototype",
+      "views": 2,
+      "date": "2026-01-26T04:27:03Z",
+      "tags": [
+        "zig",
+        "native",
+        "cloth simulation"
+      ]
+    },
+    {
       "id": "3Fpey_L_XRU",
       "title": "Cloth Simulation ",
-      "views": 1,
+      "views": 3,
       "date": "2026-01-25T22:13:48Z",
       "tags": [
         "zig",
@@ -348,7 +371,7 @@
     {
       "id": "cJl2cchaHL8",
       "title": "pastel-hn",
-      "views": 10,
+      "views": 24,
       "date": "2026-01-25T05:05:15Z",
       "tags": [
         "tauri",
@@ -359,7 +382,7 @@
     {
       "id": "qbBA7GWZbu4",
       "title": "Smooth Motion",
-      "views": 31,
+      "views": 35,
       "date": "2026-01-25T01:05:25Z",
       "tags": [
         "bezier curves",
@@ -370,7 +393,7 @@
     {
       "id": "P58Zt8A_1Mc",
       "title": "Swift Firefly",
-      "views": 27,
+      "views": 32,
       "date": "2026-01-24T08:32:27Z",
       "tags": [
         "swift",
@@ -793,6 +816,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-01-25T22:24:04.170Z",
-  "count": 76
+  "generatedAt": "2026-01-26T04:46:55.690Z",
+  "count": 78
 }
