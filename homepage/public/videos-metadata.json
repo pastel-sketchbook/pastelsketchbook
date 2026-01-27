@@ -150,6 +150,16 @@
       ]
     },
     {
+      "id": "KpSjLQpswW4",
+      "title": "Secure Service-to-Service Authorization with SpiceDB",
+      "views": 1,
+      "date": "2026-01-27T11:21:16Z",
+      "tags": [
+        "spicedb",
+        "rebac"
+      ]
+    },
+    {
       "id": "4b-H6ZaoNUE",
       "title": "Zero Trust in Kubernetes",
       "views": 36,
@@ -335,9 +345,23 @@
       ]
     },
     {
+      "id": "43UjmZtW2JU",
+      "title": "Mastering Memory in Rust",
+      "views": 7,
+      "date": "2026-01-27T11:21:20Z",
+      "tags": [
+        "rust",
+        "smart pointers",
+        "ownership",
+        "lifetimes",
+        "borrowing",
+        "memory safety"
+      ]
+    },
+    {
       "id": "US7oyxbcJCc",
       "title": "Cloth Simulation: A Performance Study",
-      "views": 3,
+      "views": 8,
       "date": "2026-01-26T04:41:26Z",
       "tags": [
         "zig",
@@ -349,7 +373,7 @@
     {
       "id": "DCGTYftRGWE",
       "title": "Hardening a Prototype",
-      "views": 2,
+      "views": 8,
       "date": "2026-01-26T04:27:03Z",
       "tags": [
         "zig",
@@ -371,7 +395,7 @@
     {
       "id": "cJl2cchaHL8",
       "title": "pastel-hn",
-      "views": 24,
+      "views": 38,
       "date": "2026-01-25T05:05:15Z",
       "tags": [
         "tauri",
@@ -382,7 +406,7 @@
     {
       "id": "qbBA7GWZbu4",
       "title": "Smooth Motion",
-      "views": 35,
+      "views": 42,
       "date": "2026-01-25T01:05:25Z",
       "tags": [
         "bezier curves",
@@ -393,7 +417,7 @@
     {
       "id": "P58Zt8A_1Mc",
       "title": "Swift Firefly",
-      "views": 32,
+      "views": 55,
       "date": "2026-01-24T08:32:27Z",
       "tags": [
         "swift",
@@ -430,7 +454,7 @@
     {
       "id": "JBh6rzeS-Qc",
       "title": "Modern Dart",
-      "views": 75,
+      "views": 76,
       "date": "2026-01-20T10:29:25Z",
       "tags": [
         "dart",
@@ -489,7 +513,7 @@
     {
       "id": "Z06RjO-zFxI",
       "title": "The Modern Git Playbook",
-      "views": 32,
+      "views": 33,
       "date": "2026-01-18T18:16:27Z",
       "tags": [
         "git",
@@ -816,6 +840,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-01-26T04:46:55.690Z",
-  "count": 78
+  "generatedAt": "2026-01-27T12:05:54.146Z",
+  "count": 80
 }
