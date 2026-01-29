@@ -86,14 +86,14 @@
     {
       "id": "K1O4kHjFJaQ",
       "title": "The Three Pillars of Financial Freedom",
-      "views": 12,
+      "views": 14,
       "date": "2026-01-24T04:45:24Z",
       "tags": []
     },
     {
       "id": "MBnVggs6k5g",
       "title": "The Exchange Rate of Your Life",
-      "views": 16,
+      "views": 17,
       "date": "2026-01-22T23:21:20Z",
       "tags": []
     },
@@ -152,7 +152,7 @@
     {
       "id": "KpSjLQpswW4",
       "title": "Secure Service-to-Service Authorization with SpiceDB",
-      "views": 1,
+      "views": 18,
       "date": "2026-01-27T11:21:16Z",
       "tags": [
         "spicedb",
@@ -211,7 +211,7 @@
     {
       "id": "A4-foXsdQiA",
       "title": "Securing Service-to-Service Communication in Kubernetes",
-      "views": 19,
+      "views": 20,
       "date": "2026-01-15T03:44:26Z",
       "tags": [
         "rust",
@@ -258,7 +258,7 @@
     {
       "id": "R2zktRqz81U",
       "title": "A Blueprint for Secure Azure Authentication in Go",
-      "views": 13,
+      "views": 14,
       "date": "2026-01-13T00:32:55Z",
       "tags": [
         "workload identity",
@@ -304,7 +304,7 @@
     {
       "id": "A7eoKD5m6Ek",
       "title": "Securely Exposing AKS Applications",
-      "views": 6,
+      "views": 7,
       "date": "2026-01-08T08:17:48Z",
       "tags": [
         "aks",
@@ -335,7 +335,7 @@
     {
       "id": "ftODZr2_V5Q",
       "title": "Kubernetes Version Upgrade Strategy",
-      "views": 27,
+      "views": 28,
       "date": "2025-12-26T11:21:45Z",
       "tags": [
         "kubernetes",
@@ -345,9 +345,43 @@
       ]
     },
     {
+      "id": "RDa6WtZmW8E",
+      "title": "Mastering Serde in Rust ",
+      "views": 3,
+      "date": "2026-01-29T05:20:28Z",
+      "tags": [
+        "serde",
+        "rust",
+        "zero copy",
+        "serialization"
+      ]
+    },
+    {
+      "id": "gBb1zn-QtY4",
+      "title": "The Blue Screen Era",
+      "views": 4,
+      "date": "2026-01-29T02:37:33Z",
+      "tags": [
+        "turbo pascal",
+        "turbo c",
+        "borland"
+      ]
+    },
+    {
+      "id": "Ul0ixBpd5iM",
+      "title": "Velox: Bring Tauri to Swift",
+      "views": 28,
+      "date": "2026-01-27T23:10:59Z",
+      "tags": [
+        "swift",
+        "tauri",
+        "velox"
+      ]
+    },
+    {
       "id": "43UjmZtW2JU",
       "title": "Mastering Memory in Rust",
-      "views": 7,
+      "views": 26,
       "date": "2026-01-27T11:21:20Z",
       "tags": [
         "rust",
@@ -361,7 +395,7 @@
     {
       "id": "US7oyxbcJCc",
       "title": "Cloth Simulation: A Performance Study",
-      "views": 8,
+      "views": 10,
       "date": "2026-01-26T04:41:26Z",
       "tags": [
         "zig",
@@ -373,7 +407,7 @@
     {
       "id": "DCGTYftRGWE",
       "title": "Hardening a Prototype",
-      "views": 8,
+      "views": 15,
       "date": "2026-01-26T04:27:03Z",
       "tags": [
         "zig",
@@ -384,7 +418,7 @@
     {
       "id": "3Fpey_L_XRU",
       "title": "Cloth Simulation ",
-      "views": 3,
+      "views": 9,
       "date": "2026-01-25T22:13:48Z",
       "tags": [
         "zig",
@@ -395,7 +429,7 @@
     {
       "id": "cJl2cchaHL8",
       "title": "pastel-hn",
-      "views": 38,
+      "views": 50,
       "date": "2026-01-25T05:05:15Z",
       "tags": [
         "tauri",
@@ -406,7 +440,7 @@
     {
       "id": "qbBA7GWZbu4",
       "title": "Smooth Motion",
-      "views": 42,
+      "views": 45,
       "date": "2026-01-25T01:05:25Z",
       "tags": [
         "bezier curves",
@@ -417,7 +451,7 @@
     {
       "id": "P58Zt8A_1Mc",
       "title": "Swift Firefly",
-      "views": 55,
+      "views": 93,
       "date": "2026-01-24T08:32:27Z",
       "tags": [
         "swift",
@@ -439,7 +473,7 @@
     {
       "id": "Pp36ysjfWd8",
       "title": "Hangul Typing",
-      "views": 7,
+      "views": 8,
       "date": "2026-01-22T23:21:15Z",
       "tags": [
         "hangul",
@@ -454,7 +488,7 @@
     {
       "id": "JBh6rzeS-Qc",
       "title": "Modern Dart",
-      "views": 76,
+      "views": 79,
       "date": "2026-01-20T10:29:25Z",
       "tags": [
         "dart",
@@ -501,7 +535,7 @@
     {
       "id": "LWc3AAHoxnU",
       "title": "Flutter App Template",
-      "views": 16,
+      "views": 19,
       "date": "2026-01-18T19:15:22Z",
       "tags": [
         "flutter",
@@ -523,7 +557,7 @@
     {
       "id": "HOetEEw0ogM",
       "title": "Enterprise Agentic Al",
-      "views": 33,
+      "views": 34,
       "date": "2026-01-18T16:14:21Z",
       "tags": [
         "agentic ai",
@@ -616,7 +650,7 @@
     {
       "id": "yOOQNnaOLeM",
       "title": "Zig  Pragmatic Successor to C",
-      "views": 15,
+      "views": 18,
       "date": "2026-01-10T04:21:57Z",
       "tags": [
         "zig"
@@ -657,7 +691,7 @@
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 80,
+      "views": 81,
       "date": "2026-01-09T00:15:35Z",
       "tags": [
         "rust",
@@ -744,7 +778,7 @@
     {
       "id": "olsB3bJxA2A",
       "title": "Let's check about Zig",
-      "views": 331,
+      "views": 332,
       "date": "2025-12-28T09:28:00Z",
       "tags": [
         "zig"
@@ -840,6 +874,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-01-27T12:05:54.146Z",
-  "count": 80
+  "generatedAt": "2026-01-29T06:06:24.807Z",
+  "count": 83
 }
