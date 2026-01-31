@@ -150,9 +150,32 @@
       ]
     },
     {
+      "id": "Q4qm1hvVR2A",
+      "title": "Dragonfly on AKS",
+      "views": 4,
+      "date": "2026-01-31T16:23:17Z",
+      "tags": [
+        "kubernetes",
+        "dragonfly",
+        "performance",
+        "aeraki"
+      ]
+    },
+    {
+      "id": "WHonjixQgBY",
+      "title": "The 2026 Architectural Standard",
+      "views": 4,
+      "date": "2026-01-31T16:07:10Z",
+      "tags": [
+        "kubernetes",
+        "infra",
+        "modern"
+      ]
+    },
+    {
       "id": "KpSjLQpswW4",
       "title": "Secure Service-to-Service Authorization with SpiceDB",
-      "views": 18,
+      "views": 21,
       "date": "2026-01-27T11:21:16Z",
       "tags": [
         "spicedb",
@@ -345,9 +368,42 @@
       ]
     },
     {
+      "id": "V2LbQqD1lMM",
+      "title": "Ralph: The Autonomous Vibe Coding Workflow",
+      "views": 4,
+      "date": "2026-01-31T16:33:53Z",
+      "tags": [
+        "ai",
+        "cli",
+        "workflow",
+        "automatic task"
+      ]
+    },
+    {
+      "id": "h31-NtagNoU",
+      "title": "Memory Layout in Zig",
+      "views": 23,
+      "date": "2026-01-30T01:32:57Z",
+      "tags": [
+        "zig",
+        "soa",
+        "memory layout"
+      ]
+    },
+    {
+      "id": "o9yaniXkM-0",
+      "title": "Practical Data Oriented Design in Zig",
+      "views": 20,
+      "date": "2026-01-30T01:28:52Z",
+      "tags": [
+        "zig. sos",
+        "dod"
+      ]
+    },
+    {
       "id": "RDa6WtZmW8E",
       "title": "Mastering Serde in Rust ",
-      "views": 3,
+      "views": 18,
       "date": "2026-01-29T05:20:28Z",
       "tags": [
         "serde",
@@ -359,7 +415,7 @@
     {
       "id": "gBb1zn-QtY4",
       "title": "The Blue Screen Era",
-      "views": 4,
+      "views": 29,
       "date": "2026-01-29T02:37:33Z",
       "tags": [
         "turbo pascal",
@@ -370,7 +426,7 @@
     {
       "id": "Ul0ixBpd5iM",
       "title": "Velox: Bring Tauri to Swift",
-      "views": 28,
+      "views": 32,
       "date": "2026-01-27T23:10:59Z",
       "tags": [
         "swift",
@@ -381,7 +437,7 @@
     {
       "id": "43UjmZtW2JU",
       "title": "Mastering Memory in Rust",
-      "views": 26,
+      "views": 40,
       "date": "2026-01-27T11:21:20Z",
       "tags": [
         "rust",
@@ -395,7 +451,7 @@
     {
       "id": "US7oyxbcJCc",
       "title": "Cloth Simulation: A Performance Study",
-      "views": 10,
+      "views": 12,
       "date": "2026-01-26T04:41:26Z",
       "tags": [
         "zig",
@@ -407,7 +463,7 @@
     {
       "id": "DCGTYftRGWE",
       "title": "Hardening a Prototype",
-      "views": 15,
+      "views": 21,
       "date": "2026-01-26T04:27:03Z",
       "tags": [
         "zig",
@@ -418,7 +474,7 @@
     {
       "id": "3Fpey_L_XRU",
       "title": "Cloth Simulation ",
-      "views": 9,
+      "views": 11,
       "date": "2026-01-25T22:13:48Z",
       "tags": [
         "zig",
@@ -429,7 +485,7 @@
     {
       "id": "cJl2cchaHL8",
       "title": "pastel-hn",
-      "views": 50,
+      "views": 57,
       "date": "2026-01-25T05:05:15Z",
       "tags": [
         "tauri",
@@ -440,7 +496,7 @@
     {
       "id": "qbBA7GWZbu4",
       "title": "Smooth Motion",
-      "views": 45,
+      "views": 47,
       "date": "2026-01-25T01:05:25Z",
       "tags": [
         "bezier curves",
@@ -451,7 +507,7 @@
     {
       "id": "P58Zt8A_1Mc",
       "title": "Swift Firefly",
-      "views": 93,
+      "views": 109,
       "date": "2026-01-24T08:32:27Z",
       "tags": [
         "swift",
@@ -501,7 +557,7 @@
     {
       "id": "9yov-ZVv-Bo",
       "title": "Hangul + WASM",
-      "views": 38,
+      "views": 39,
       "date": "2026-01-19T20:47:14Z",
       "tags": [
         "zig",
@@ -512,7 +568,7 @@
     {
       "id": "xVmoqBYlQMU",
       "title": "Mastering Rust Feature Flags",
-      "views": 45,
+      "views": 46,
       "date": "2026-01-19T17:09:56Z",
       "tags": [
         "rust",
@@ -535,7 +591,7 @@
     {
       "id": "LWc3AAHoxnU",
       "title": "Flutter App Template",
-      "views": 19,
+      "views": 26,
       "date": "2026-01-18T19:15:22Z",
       "tags": [
         "flutter",
@@ -617,7 +673,7 @@
     {
       "id": "tmerUd7eiy4",
       "title": "Beyond the Default ",
-      "views": 8,
+      "views": 9,
       "date": "2026-01-11T18:29:42Z",
       "tags": [
         "cli",
@@ -650,7 +706,7 @@
     {
       "id": "yOOQNnaOLeM",
       "title": "Zig  Pragmatic Successor to C",
-      "views": 18,
+      "views": 19,
       "date": "2026-01-10T04:21:57Z",
       "tags": [
         "zig"
@@ -874,6 +930,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-01-29T06:06:24.807Z",
-  "count": 83
+  "generatedAt": "2026-01-31T17:22:26.578Z",
+  "count": 88
 }
