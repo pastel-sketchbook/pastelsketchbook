@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 
 interface VideoItem {
     id: string;
@@ -17,10 +17,24 @@ interface VideoGalleryProps {
 }
 
 export function VideoGallery({ items, onVideoSelect, title, description }: VideoGalleryProps) {
+    const [copiedId, setCopiedId] = useState<string | null>(null);
+
     const formatViews = (views?: number) => {
         if (!views) return "0";
         if (views >= 1000) return `${(views / 1000).toFixed(1)}k`;
         return views.toString();
+    };
+
+    const handleCopyUrl = async (e: React.MouseEvent, videoId: string) => {
+        e.stopPropagation();
+        const url = `https://www.youtube.com/watch?v=${videoId}`;
+        try {
+            await navigator.clipboard.writeText(url);
+            setCopiedId(videoId);
+            setTimeout(() => setCopiedId(null), 2000);
+        } catch (err) {
+            console.error('Failed to copy URL:', err);
+        }
     };
 
     return (
@@ -63,6 +77,22 @@ export function VideoGallery({ items, onVideoSelect, title, description }: Video
                                     </svg>
                                 </div>
                             </div>
+                            <button
+                                onClick={(e) => handleCopyUrl(e, item.id)}
+                                className="absolute top-2 right-2 w-8 h-8 bg-white/90 backdrop-blur-sm rounded-full flex items-center justify-center shadow-sm opacity-0 group-hover/card:opacity-100 transition-all hover:bg-white hover:scale-110 sketch-border border-pastel-dark/10"
+                                aria-label="Copy YouTube URL"
+                                title="Copy YouTube URL"
+                            >
+                                {copiedId === item.id ? (
+                                    <svg className="w-4 h-4 text-[#5F7D61]" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                                    </svg>
+                                ) : (
+                                    <svg className="w-4 h-4 text-pastel-dark" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" d="M13.19 8.688a4.5 4.5 0 011.242 7.244l-4.5 4.5a4.5 4.5 0 01-6.364-6.364l1.757-1.757m9.193-9.193a4.5 4.5 0 00-6.364 0l-4.5 4.5a4.5 4.5 0 001.242 7.244" />
+                                    </svg>
+                                )}
+                            </button>
                             <div className="absolute bottom-2 right-2 px-2 py-1 bg-white/90 backdrop-blur-sm text-pastel-dark text-[10px] font-bold rounded shadow-sm uppercase tracking-wider sketch-border border-pastel-dark/10">
                                 {formatViews(item.views)} watches
                             </div>
