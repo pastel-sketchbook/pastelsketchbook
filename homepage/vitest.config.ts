@@ -8,6 +8,16 @@ export default defineConfig({
     globals: true,
     environment: 'happy-dom',
     setupFiles: ['./test/setup.ts'],
+    onConsoleLog: (log) => {
+      if (
+        log.includes('AbortError') ||
+        log.includes('NetworkError') ||
+        log.includes('DOMException')
+      ) {
+        return false
+      }
+      return true
+    },
     coverage: {
       provider: 'v8',
       reporter: ['text', 'html', 'lcov', 'json'],

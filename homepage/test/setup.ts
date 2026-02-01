@@ -4,6 +4,21 @@ import * as matchers from '@testing-library/jest-dom/matchers'
 
 extendExpect(expect, matchers)
 
+// Suppress happy-dom DOMException noise from iframe/fetch teardowns
+const originalStderrWrite = process.stderr.write.bind(process.stderr)
+process.stderr.write = ((chunk: any, ...args: any[]) => {
+  const str = typeof chunk === 'string' ? chunk : chunk?.toString?.() ?? ''
+  if (
+    str.includes('DOMException') ||
+    str.includes('AbortError') ||
+    str.includes('NetworkError') ||
+    str.includes('The operation was aborted')
+  ) {
+    return true
+  }
+  return originalStderrWrite(chunk, ...args)
+}) as typeof process.stderr.write
+
 // Global console mock setup - silence console output during tests
 beforeEach(() => {
   vi.spyOn(console, 'log').mockImplementation(() => {})
