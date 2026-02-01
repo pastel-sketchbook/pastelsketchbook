@@ -100,6 +100,7 @@ function Showcase() {
     const [selectedTags, setSelectedTags] = useState<Set<string>>(new Set())
     const [sortBy, setSortBy] = useState<"date" | "views">("date")
     const [showAlert, setShowAlert] = useState(true)
+    const [tagsExpanded, setTagsExpanded] = useState(false)
 
     interface VideoItem {
         id: string
@@ -270,7 +271,27 @@ function Showcase() {
                         <div className="max-w-6xl mx-auto w-full px-0 pt-6">
                             <div className="space-y-3">
                                 <div className="flex items-center justify-between">
-                                    <span className="text-[10px] font-bold uppercase tracking-widest text-[#1B3022]/40">Filter by tags:</span>
+                                    <button
+                                        onClick={() => setTagsExpanded(!tagsExpanded)}
+                                        className="flex items-center gap-2 text-[12px] font-semibold uppercase tracking-widest text-[#0E7490] hover:text-[#0891B2] transition-colors"
+                                    >
+                                        <motion.svg
+                                            animate={{ rotate: tagsExpanded ? 180 : 0 }}
+                                            transition={{ duration: 0.2 }}
+                                            className="w-3 h-3"
+                                            fill="none"
+                                            stroke="currentColor"
+                                            viewBox="0 0 24 24"
+                                        >
+                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                                        </motion.svg>
+                                        Filter by tags ({availableTags.length})
+                                        {selectedTags.size > 0 && (
+                                            <span className="ml-1 px-1.5 py-0.5 bg-[#5F7D61] text-white rounded-full text-[8px]">
+                                                {selectedTags.size} selected
+                                            </span>
+                                        )}
+                                    </button>
                                     {selectedTags.size > 0 && (
                                         <button
                                             onClick={() => setSelectedTags(new Set())}
@@ -280,34 +301,46 @@ function Showcase() {
                                         </button>
                                     )}
                                 </div>
-                                <div className="flex flex-wrap gap-2">
-                                    {availableTags.map((tag) => {
-                                        const isSelected = selectedTags.has(tag)
-                                        return (
-                                            <motion.button
-                                                key={tag}
-                                                whileHover={{ scale: 1.05 }}
-                                                whileTap={{ scale: 0.95 }}
-                                                onClick={() => {
-                                                    const newTags = new Set(selectedTags)
-                                                    if (isSelected) {
-                                                        newTags.delete(tag)
-                                                    } else {
-                                                        newTags.add(tag)
-                                                    }
-                                                    setSelectedTags(newTags)
-                                                }}
-                                                className={`px-3 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-wider transition-all sketch-border ${
-                                                    isSelected
-                                                        ? "bg-[#5F7D61] text-white border-[#5F7D61]"
-                                                        : "bg-white/50 border border-[#5F7D61]/20 text-[#5F7D61] hover:bg-white hover:border-[#5F7D61]/40"
-                                                }`}
-                                            >
-                                                {tag}
-                                            </motion.button>
-                                        )
-                                    })}
-                                </div>
+                                <AnimatePresence>
+                                    {tagsExpanded && (
+                                        <motion.div
+                                            initial={{ height: 0, opacity: 0 }}
+                                            animate={{ height: 'auto', opacity: 1 }}
+                                            exit={{ height: 0, opacity: 0 }}
+                                            transition={{ duration: 0.2 }}
+                                            className="overflow-hidden"
+                                        >
+                                            <div className="flex flex-wrap gap-2 pt-2">
+                                                {availableTags.map((tag) => {
+                                                    const isSelected = selectedTags.has(tag)
+                                                    return (
+                                                        <motion.button
+                                                            key={tag}
+                                                            whileHover={{ scale: 1.05 }}
+                                                            whileTap={{ scale: 0.95 }}
+                                                            onClick={() => {
+                                                                const newTags = new Set(selectedTags)
+                                                                if (isSelected) {
+                                                                    newTags.delete(tag)
+                                                                } else {
+                                                                    newTags.add(tag)
+                                                                }
+                                                                setSelectedTags(newTags)
+                                                            }}
+                                                            className={`px-3 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-wider transition-all sketch-border ${
+                                                                isSelected
+                                                                    ? "bg-[#5F7D61] text-white border-[#5F7D61]"
+                                                                    : "bg-white/50 border border-[#5F7D61]/20 text-[#5F7D61] hover:bg-white hover:border-[#5F7D61]/40"
+                                                            }`}
+                                                        >
+                                                            {tag}
+                                                        </motion.button>
+                                                    )
+                                                })}
+                                            </div>
+                                        </motion.div>
+                                    )}
+                                </AnimatePresence>
                             </div>
                         </div>
                     )}
