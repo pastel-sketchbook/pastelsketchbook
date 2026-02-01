@@ -152,19 +152,20 @@
     {
       "id": "Q4qm1hvVR2A",
       "title": "Dragonfly on AKS",
-      "views": 4,
+      "views": 12,
       "date": "2026-01-31T16:23:17Z",
       "tags": [
         "kubernetes",
         "dragonfly",
         "performance",
-        "aeraki"
+        "aeraki",
+        "aks"
       ]
     },
     {
       "id": "WHonjixQgBY",
       "title": "The 2026 Architectural Standard",
-      "views": 4,
+      "views": 11,
       "date": "2026-01-31T16:07:10Z",
       "tags": [
         "kubernetes",
@@ -175,7 +176,7 @@
     {
       "id": "KpSjLQpswW4",
       "title": "Secure Service-to-Service Authorization with SpiceDB",
-      "views": 21,
+      "views": 22,
       "date": "2026-01-27T11:21:16Z",
       "tags": [
         "spicedb",
@@ -270,7 +271,7 @@
     {
       "id": "OnwiaDRj1-k",
       "title": "Kubernetes Services & Istio",
-      "views": 29,
+      "views": 30,
       "date": "2026-01-13T04:31:02Z",
       "tags": [
         "kubernetes",
@@ -281,7 +282,7 @@
     {
       "id": "R2zktRqz81U",
       "title": "A Blueprint for Secure Azure Authentication in Go",
-      "views": 14,
+      "views": 15,
       "date": "2026-01-13T00:32:55Z",
       "tags": [
         "workload identity",
@@ -358,7 +359,7 @@
     {
       "id": "ftODZr2_V5Q",
       "title": "Kubernetes Version Upgrade Strategy",
-      "views": 28,
+      "views": 29,
       "date": "2025-12-26T11:21:45Z",
       "tags": [
         "kubernetes",
@@ -368,9 +369,48 @@
       ]
     },
     {
+      "id": "2Ni8zfsxW6o",
+      "title": "Modernizing Legacy COBOL",
+      "views": 5,
+      "date": "2026-02-01T13:20:19Z",
+      "tags": [
+        "cobol",
+        "go",
+        "java",
+        "modernization"
+      ]
+    },
+    {
+      "id": "d_0swhS1LyQ",
+      "title": "Neural TTS in Pastel-HN",
+      "views": 2,
+      "date": "2026-02-01T12:24:48Z",
+      "tags": [
+        "rust",
+        "tts",
+        "piper",
+        "tauri",
+        "pastel-hn",
+        "onnx",
+        "rodio"
+      ]
+    },
+    {
+      "id": "TDWC1fFhn9g",
+      "title": "A DeepDive into SIMD & Zig",
+      "views": 12,
+      "date": "2026-01-31T19:35:42Z",
+      "tags": [
+        "zig",
+        "simd",
+        "vector",
+        "masking"
+      ]
+    },
+    {
       "id": "V2LbQqD1lMM",
       "title": "Ralph: The Autonomous Vibe Coding Workflow",
-      "views": 4,
+      "views": 19,
       "date": "2026-01-31T16:33:53Z",
       "tags": [
         "ai",
@@ -382,7 +422,7 @@
     {
       "id": "h31-NtagNoU",
       "title": "Memory Layout in Zig",
-      "views": 23,
+      "views": 34,
       "date": "2026-01-30T01:32:57Z",
       "tags": [
         "zig",
@@ -393,7 +433,7 @@
     {
       "id": "o9yaniXkM-0",
       "title": "Practical Data Oriented Design in Zig",
-      "views": 20,
+      "views": 21,
       "date": "2026-01-30T01:28:52Z",
       "tags": [
         "dod",
@@ -404,7 +444,7 @@
     {
       "id": "RDa6WtZmW8E",
       "title": "Mastering Serde in Rust ",
-      "views": 18,
+      "views": 24,
       "date": "2026-01-29T05:20:28Z",
       "tags": [
         "serde",
@@ -416,7 +456,7 @@
     {
       "id": "gBb1zn-QtY4",
       "title": "The Blue Screen Era",
-      "views": 29,
+      "views": 35,
       "date": "2026-01-29T02:37:33Z",
       "tags": [
         "turbo pascal",
@@ -427,7 +467,7 @@
     {
       "id": "Ul0ixBpd5iM",
       "title": "Velox: Bring Tauri to Swift",
-      "views": 32,
+      "views": 34,
       "date": "2026-01-27T23:10:59Z",
       "tags": [
         "swift",
@@ -438,7 +478,7 @@
     {
       "id": "43UjmZtW2JU",
       "title": "Mastering Memory in Rust",
-      "views": 40,
+      "views": 41,
       "date": "2026-01-27T11:21:20Z",
       "tags": [
         "rust",
@@ -491,7 +531,8 @@
       "tags": [
         "tauri",
         "rust",
-        "hn"
+        "hn",
+        "pastel-hn"
       ]
     },
     {
@@ -508,7 +549,7 @@
     {
       "id": "P58Zt8A_1Mc",
       "title": "Swift Firefly",
-      "views": 109,
+      "views": 110,
       "date": "2026-01-24T08:32:27Z",
       "tags": [
         "swift",
@@ -592,7 +633,7 @@
     {
       "id": "LWc3AAHoxnU",
       "title": "Flutter App Template",
-      "views": 26,
+      "views": 28,
       "date": "2026-01-18T19:15:22Z",
       "tags": [
         "flutter",
@@ -748,7 +789,7 @@
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 81,
+      "views": 83,
       "date": "2026-01-09T00:15:35Z",
       "tags": [
         "rust",
@@ -806,7 +847,7 @@
     {
       "id": "Xhq99-YHXCY",
       "title": "Professional Al Agent Usage via the CLI",
-      "views": 23,
+      "views": 25,
       "date": "2026-01-02T21:40:38Z",
       "tags": [
         "ai",
@@ -931,6 +972,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-01-31T17:36:25.245Z",
-  "count": 88
+  "generatedAt": "2026-02-01T14:31:14.252Z",
+  "count": 91
 }

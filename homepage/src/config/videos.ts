@@ -51,6 +51,9 @@ export const VIDEO_CONFIG = {
   ],
   kubernetes: ['Q4qm1hvVR2A', 'WHonjixQgBY', 'KpSjLQpswW4', '4b-H6ZaoNUE', '_sxPf3tHq3s', '0U-SUJCmKAU', 'VxWyvAO3qb8', 'A4-foXsdQiA', 'C6wLm6NRZW4', 'ctKLD4d146g', 'OnwiaDRj1-k', 'R2zktRqz81U', 'N4nRAfBZ3BE', 'C5HqbzLRYZ0', 'rJTUB-u8U2Y', 'A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q'],
   development: [
+    '2Ni8zfsxW6o',
+    'd_0swhS1LyQ',
+    'TDWC1fFhn9g',
     'V2LbQqD1lMM',
     'h31-NtagNoU',
     'o9yaniXkM-0',
