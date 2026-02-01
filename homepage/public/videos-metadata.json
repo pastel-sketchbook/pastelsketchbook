@@ -84,6 +84,13 @@
       ]
     },
     {
+      "id": "awa_UWXFOao",
+      "title": "Hasta pronto, Danyang",
+      "views": 3,
+      "date": "2026-02-02T10:22:35Z",
+      "tags": []
+    },
+    {
       "id": "K1O4kHjFJaQ",
       "title": "The Three Pillars of Financial Freedom",
       "views": 14,
@@ -152,7 +159,7 @@
     {
       "id": "Q4qm1hvVR2A",
       "title": "Dragonfly on AKS",
-      "views": 12,
+      "views": 14,
       "date": "2026-01-31T16:23:17Z",
       "tags": [
         "kubernetes",
@@ -165,7 +172,7 @@
     {
       "id": "WHonjixQgBY",
       "title": "The 2026 Architectural Standard",
-      "views": 11,
+      "views": 18,
       "date": "2026-01-31T16:07:10Z",
       "tags": [
         "kubernetes",
@@ -176,7 +183,7 @@
     {
       "id": "KpSjLQpswW4",
       "title": "Secure Service-to-Service Authorization with SpiceDB",
-      "views": 22,
+      "views": 25,
       "date": "2026-01-27T11:21:16Z",
       "tags": [
         "spicedb",
@@ -235,7 +242,7 @@
     {
       "id": "A4-foXsdQiA",
       "title": "Securing Service-to-Service Communication in Kubernetes",
-      "views": 20,
+      "views": 21,
       "date": "2026-01-15T03:44:26Z",
       "tags": [
         "rust",
@@ -306,7 +313,7 @@
     {
       "id": "C5HqbzLRYZ0",
       "title": "K8s Services  AKS & Istio",
-      "views": 7,
+      "views": 8,
       "date": "2026-01-10T16:26:22Z",
       "tags": [
         "istio",
@@ -369,9 +376,20 @@
       ]
     },
     {
+      "id": "xV2EAL3NAVM",
+      "title": "A Comprehensive Guide to Zig Fundamentals and Features",
+      "views": 13,
+      "date": "2026-02-02T10:14:00Z",
+      "tags": [
+        "zig",
+        "fundamentals",
+        "features"
+      ]
+    },
+    {
       "id": "2Ni8zfsxW6o",
       "title": "Modernizing Legacy COBOL",
-      "views": 5,
+      "views": 16,
       "date": "2026-02-01T13:20:19Z",
       "tags": [
         "cobol",
@@ -383,7 +401,7 @@
     {
       "id": "d_0swhS1LyQ",
       "title": "Neural TTS in Pastel-HN",
-      "views": 2,
+      "views": 25,
       "date": "2026-02-01T12:24:48Z",
       "tags": [
         "rust",
@@ -398,7 +416,7 @@
     {
       "id": "TDWC1fFhn9g",
       "title": "A DeepDive into SIMD & Zig",
-      "views": 12,
+      "views": 27,
       "date": "2026-01-31T19:35:42Z",
       "tags": [
         "zig",
@@ -410,7 +428,7 @@
     {
       "id": "V2LbQqD1lMM",
       "title": "Ralph: The Autonomous Vibe Coding Workflow",
-      "views": 19,
+      "views": 23,
       "date": "2026-01-31T16:33:53Z",
       "tags": [
         "ai",
@@ -422,7 +440,7 @@
     {
       "id": "h31-NtagNoU",
       "title": "Memory Layout in Zig",
-      "views": 34,
+      "views": 48,
       "date": "2026-01-30T01:32:57Z",
       "tags": [
         "zig",
@@ -433,7 +451,7 @@
     {
       "id": "o9yaniXkM-0",
       "title": "Practical Data Oriented Design in Zig",
-      "views": 21,
+      "views": 22,
       "date": "2026-01-30T01:28:52Z",
       "tags": [
         "dod",
@@ -444,7 +462,7 @@
     {
       "id": "RDa6WtZmW8E",
       "title": "Mastering Serde in Rust ",
-      "views": 24,
+      "views": 29,
       "date": "2026-01-29T05:20:28Z",
       "tags": [
         "serde",
@@ -456,7 +474,7 @@
     {
       "id": "gBb1zn-QtY4",
       "title": "The Blue Screen Era",
-      "views": 35,
+      "views": 43,
       "date": "2026-01-29T02:37:33Z",
       "tags": [
         "turbo pascal",
@@ -467,7 +485,7 @@
     {
       "id": "Ul0ixBpd5iM",
       "title": "Velox: Bring Tauri to Swift",
-      "views": 34,
+      "views": 36,
       "date": "2026-01-27T23:10:59Z",
       "tags": [
         "swift",
@@ -478,7 +496,7 @@
     {
       "id": "43UjmZtW2JU",
       "title": "Mastering Memory in Rust",
-      "views": 41,
+      "views": 42,
       "date": "2026-01-27T11:21:20Z",
       "tags": [
         "rust",
@@ -549,7 +567,7 @@
     {
       "id": "P58Zt8A_1Mc",
       "title": "Swift Firefly",
-      "views": 110,
+      "views": 111,
       "date": "2026-01-24T08:32:27Z",
       "tags": [
         "swift",
@@ -694,7 +712,7 @@
     {
       "id": "SeYrpzDTn6A",
       "title": "Modern Microservice Trust",
-      "views": 17,
+      "views": 18,
       "date": "2026-01-13T23:06:41Z",
       "tags": [
         "msa",
@@ -748,7 +766,7 @@
     {
       "id": "yOOQNnaOLeM",
       "title": "Zig  Pragmatic Successor to C",
-      "views": 19,
+      "views": 20,
       "date": "2026-01-10T04:21:57Z",
       "tags": [
         "zig"
@@ -970,8 +988,19 @@
       "tags": [
         "알고리즘"
       ]
+    },
+    {
+      "id": "GVq5DvGFLpI",
+      "title": "Vercel 대시보드 보안 안내서",
+      "views": 16,
+      "date": "2026-02-02T00:33:23Z",
+      "tags": [
+        "vercel",
+        "보안",
+        "대시보드"
+      ]
     }
   ],
-  "generatedAt": "2026-02-01T14:31:14.252Z",
-  "count": 91
+  "generatedAt": "2026-02-02T22:56:26.164Z",
+  "count": 94
 }
