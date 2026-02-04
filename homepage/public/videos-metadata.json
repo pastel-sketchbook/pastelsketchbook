@@ -3,7 +3,7 @@
     {
       "id": "V2cZl5s4EKU",
       "title": "스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작",
-      "views": 19,
+      "views": 20,
       "date": "2025-12-26T23:35:15Z",
       "tags": []
     },
@@ -86,8 +86,15 @@
     {
       "id": "awa_UWXFOao",
       "title": "Hasta pronto, Danyang",
-      "views": 3,
+      "views": 4,
       "date": "2026-02-02T10:22:35Z",
+      "tags": []
+    },
+    {
+      "id": "nxuaOP3C1Ns",
+      "title": "Bocetos de Daejeon",
+      "views": 9,
+      "date": "2026-02-03T23:48:39Z",
       "tags": []
     },
     {
@@ -149,11 +156,21 @@
     {
       "id": "tPDFgVAp4c4",
       "title": "Breakout Stars and Dominant Titans",
-      "views": 44,
+      "views": 45,
       "date": "2025-12-26T10:48:59Z",
       "tags": [
         "stocks",
         "notebooklm"
+      ]
+    },
+    {
+      "id": "BsiQrEaF3kU",
+      "title": "MotherDuck: Serverless DuckDB in the Cloud & Client",
+      "views": 2,
+      "date": "2026-02-04T11:42:09Z",
+      "tags": [
+        "duckdb",
+        "hybrid query"
       ]
     },
     {
@@ -172,7 +189,7 @@
     {
       "id": "WHonjixQgBY",
       "title": "The 2026 Architectural Standard",
-      "views": 18,
+      "views": 43,
       "date": "2026-01-31T16:07:10Z",
       "tags": [
         "kubernetes",
@@ -207,7 +224,7 @@
     {
       "id": "_sxPf3tHq3s",
       "title": "The 100+ Service Problem",
-      "views": 23,
+      "views": 24,
       "date": "2026-01-16T08:00:15Z",
       "tags": [
         "helm",
@@ -378,7 +395,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 13,
+      "views": 133,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -389,7 +406,7 @@
     {
       "id": "2Ni8zfsxW6o",
       "title": "Modernizing Legacy COBOL",
-      "views": 16,
+      "views": 18,
       "date": "2026-02-01T13:20:19Z",
       "tags": [
         "cobol",
@@ -401,7 +418,7 @@
     {
       "id": "d_0swhS1LyQ",
       "title": "Neural TTS in Pastel-HN",
-      "views": 25,
+      "views": 29,
       "date": "2026-02-01T12:24:48Z",
       "tags": [
         "rust",
@@ -416,7 +433,7 @@
     {
       "id": "TDWC1fFhn9g",
       "title": "A DeepDive into SIMD & Zig",
-      "views": 27,
+      "views": 47,
       "date": "2026-01-31T19:35:42Z",
       "tags": [
         "zig",
@@ -440,7 +457,7 @@
     {
       "id": "h31-NtagNoU",
       "title": "Memory Layout in Zig",
-      "views": 48,
+      "views": 50,
       "date": "2026-01-30T01:32:57Z",
       "tags": [
         "zig",
@@ -451,7 +468,7 @@
     {
       "id": "o9yaniXkM-0",
       "title": "Practical Data Oriented Design in Zig",
-      "views": 22,
+      "views": 24,
       "date": "2026-01-30T01:28:52Z",
       "tags": [
         "dod",
@@ -462,7 +479,7 @@
     {
       "id": "RDa6WtZmW8E",
       "title": "Mastering Serde in Rust ",
-      "views": 29,
+      "views": 30,
       "date": "2026-01-29T05:20:28Z",
       "tags": [
         "serde",
@@ -510,7 +527,7 @@
     {
       "id": "US7oyxbcJCc",
       "title": "Cloth Simulation: A Performance Study",
-      "views": 12,
+      "views": 11,
       "date": "2026-01-26T04:41:26Z",
       "tags": [
         "zig",
@@ -617,7 +634,7 @@
     {
       "id": "9yov-ZVv-Bo",
       "title": "Hangul + WASM",
-      "views": 39,
+      "views": 41,
       "date": "2026-01-19T20:47:14Z",
       "tags": [
         "zig",
@@ -628,7 +645,7 @@
     {
       "id": "xVmoqBYlQMU",
       "title": "Mastering Rust Feature Flags",
-      "views": 46,
+      "views": 47,
       "date": "2026-01-19T17:09:56Z",
       "tags": [
         "rust",
@@ -640,7 +657,7 @@
     {
       "id": "5KB2zLGjaps",
       "title": "Conventional Commits",
-      "views": 8,
+      "views": 9,
       "date": "2026-01-19T10:21:27Z",
       "tags": [
         "git",
@@ -733,7 +750,7 @@
     {
       "id": "tmerUd7eiy4",
       "title": "Beyond the Default ",
-      "views": 9,
+      "views": 10,
       "date": "2026-01-11T18:29:42Z",
       "tags": [
         "cli",
@@ -935,7 +952,7 @@
     {
       "id": "T5FjMjTQCBI",
       "title": "타입스크립트와 번으로 배우는 프로그래밍 1",
-      "views": 72,
+      "views": 73,
       "date": "2026-01-10T07:09:48Z",
       "tags": []
     },
@@ -1001,6 +1018,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-02-02T22:56:26.164Z",
-  "count": 94
+  "generatedAt": "2026-02-04T13:03:58.376Z",
+  "count": 96
 }
