@@ -86,7 +86,7 @@
     {
       "id": "awa_UWXFOao",
       "title": "Hasta pronto, Danyang",
-      "views": 4,
+      "views": 7,
       "date": "2026-02-02T10:22:35Z",
       "tags": []
     },
@@ -95,6 +95,13 @@
       "title": "Bocetos de Daejeon",
       "views": 9,
       "date": "2026-02-03T23:48:39Z",
+      "tags": []
+    },
+    {
+      "id": "QLcNRIHYmj0",
+      "title": "Un Viaje a Sokcho",
+      "views": 6,
+      "date": "2026-02-04T23:43:01Z",
       "tags": []
     },
     {
@@ -114,7 +121,7 @@
     {
       "id": "nfD3KzIriM8",
       "title": "The architecture of wealth",
-      "views": 7,
+      "views": 8,
       "date": "2026-01-16T22:17:34Z",
       "tags": []
     },
@@ -164,9 +171,20 @@
       ]
     },
     {
+      "id": "rgY4KTMFOMs",
+      "title": "Secure Web App with Azure AD/OAuth2 Proxy",
+      "views": 1,
+      "date": "2026-02-05T14:29:16Z",
+      "tags": [
+        "aks",
+        "app registration",
+        "oauth2"
+      ]
+    },
+    {
       "id": "BsiQrEaF3kU",
       "title": "MotherDuck: Serverless DuckDB in the Cloud & Client",
-      "views": 2,
+      "views": 16,
       "date": "2026-02-04T11:42:09Z",
       "tags": [
         "duckdb",
@@ -176,7 +194,7 @@
     {
       "id": "Q4qm1hvVR2A",
       "title": "Dragonfly on AKS",
-      "views": 14,
+      "views": 18,
       "date": "2026-01-31T16:23:17Z",
       "tags": [
         "kubernetes",
@@ -189,7 +207,7 @@
     {
       "id": "WHonjixQgBY",
       "title": "The 2026 Architectural Standard",
-      "views": 43,
+      "views": 47,
       "date": "2026-01-31T16:07:10Z",
       "tags": [
         "kubernetes",
@@ -235,7 +253,7 @@
     {
       "id": "0U-SUJCmKAU",
       "title": "From Stateful to Secure",
-      "views": 39,
+      "views": 43,
       "date": "2026-01-16T06:38:21Z",
       "tags": [
         "stateful",
@@ -395,7 +413,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 133,
+      "views": 228,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -406,7 +424,7 @@
     {
       "id": "2Ni8zfsxW6o",
       "title": "Modernizing Legacy COBOL",
-      "views": 18,
+      "views": 19,
       "date": "2026-02-01T13:20:19Z",
       "tags": [
         "cobol",
@@ -418,7 +436,7 @@
     {
       "id": "d_0swhS1LyQ",
       "title": "Neural TTS in Pastel-HN",
-      "views": 29,
+      "views": 40,
       "date": "2026-02-01T12:24:48Z",
       "tags": [
         "rust",
@@ -433,7 +451,7 @@
     {
       "id": "TDWC1fFhn9g",
       "title": "A DeepDive into SIMD & Zig",
-      "views": 47,
+      "views": 50,
       "date": "2026-01-31T19:35:42Z",
       "tags": [
         "zig",
@@ -457,7 +475,7 @@
     {
       "id": "h31-NtagNoU",
       "title": "Memory Layout in Zig",
-      "views": 50,
+      "views": 51,
       "date": "2026-01-30T01:32:57Z",
       "tags": [
         "zig",
@@ -468,7 +486,7 @@
     {
       "id": "o9yaniXkM-0",
       "title": "Practical Data Oriented Design in Zig",
-      "views": 24,
+      "views": 25,
       "date": "2026-01-30T01:28:52Z",
       "tags": [
         "dod",
@@ -491,7 +509,7 @@
     {
       "id": "gBb1zn-QtY4",
       "title": "The Blue Screen Era",
-      "views": 43,
+      "views": 45,
       "date": "2026-01-29T02:37:33Z",
       "tags": [
         "turbo pascal",
@@ -657,7 +675,7 @@
     {
       "id": "5KB2zLGjaps",
       "title": "Conventional Commits",
-      "views": 9,
+      "views": 10,
       "date": "2026-01-19T10:21:27Z",
       "tags": [
         "git",
@@ -701,7 +719,7 @@
     {
       "id": "0NLj8g2hQNk",
       "title": "The Client's Guide to 'ra-token-authority'",
-      "views": 11,
+      "views": 12,
       "date": "2026-01-16T18:34:39Z",
       "tags": [
         "zero trust",
@@ -715,7 +733,7 @@
     {
       "id": "0ttrfTfP864",
       "title": "ra-token-authority",
-      "views": 20,
+      "views": 21,
       "date": "2026-01-16T16:34:51Z",
       "tags": [
         "rust",
@@ -783,7 +801,7 @@
     {
       "id": "yOOQNnaOLeM",
       "title": "Zig  Pragmatic Successor to C",
-      "views": 20,
+      "views": 21,
       "date": "2026-01-10T04:21:57Z",
       "tags": [
         "zig"
@@ -824,7 +842,7 @@
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 83,
+      "views": 84,
       "date": "2026-01-09T00:15:35Z",
       "tags": [
         "rust",
@@ -1009,7 +1027,7 @@
     {
       "id": "GVq5DvGFLpI",
       "title": "Vercel 대시보드 보안 안내서",
-      "views": 16,
+      "views": 17,
       "date": "2026-02-02T00:33:23Z",
       "tags": [
         "vercel",
@@ -1018,6 +1036,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-02-04T13:03:58.376Z",
-  "count": 96
+  "generatedAt": "2026-02-05T14:30:51.040Z",
+  "count": 98
 }
