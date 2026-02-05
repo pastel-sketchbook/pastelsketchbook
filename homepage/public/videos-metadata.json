@@ -86,21 +86,21 @@
     {
       "id": "awa_UWXFOao",
       "title": "Hasta pronto, Danyang",
-      "views": 7,
+      "views": 8,
       "date": "2026-02-02T10:22:35Z",
       "tags": []
     },
     {
       "id": "nxuaOP3C1Ns",
       "title": "Bocetos de Daejeon",
-      "views": 9,
+      "views": 10,
       "date": "2026-02-03T23:48:39Z",
       "tags": []
     },
     {
       "id": "QLcNRIHYmj0",
       "title": "Un Viaje a Sokcho",
-      "views": 6,
+      "views": 9,
       "date": "2026-02-04T23:43:01Z",
       "tags": []
     },
@@ -173,7 +173,7 @@
     {
       "id": "rgY4KTMFOMs",
       "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-      "views": 1,
+      "views": 12,
       "date": "2026-02-05T14:29:16Z",
       "tags": [
         "aks",
@@ -411,9 +411,56 @@
       ]
     },
     {
+      "id": "A96r5gqwUrI",
+      "title": "Zig Algorithms: The Art of Zero-Cost Abstraction",
+      "views": 3,
+      "date": "2026-02-06T13:03:31Z",
+      "tags": [
+        "zig",
+        "algorithms"
+      ]
+    },
+    {
+      "id": "ZlEq2jFb8tI",
+      "title": "Mastering Rust Error Handling",
+      "views": 4,
+      "date": "2026-02-06T12:28:35Z",
+      "tags": [
+        "rust",
+        "anyhow",
+        "thoserror",
+        "tracing",
+        "color-eyre"
+      ]
+    },
+    {
+      "id": "TmlqoKqMD2Y",
+      "title": "Jujutsu (jj) for Git-compatible Workflow",
+      "views": 10,
+      "date": "2026-02-06T00:14:00Z",
+      "tags": [
+        "git",
+        "jujutsu",
+        "jj",
+        "workflow"
+      ]
+    },
+    {
+      "id": "5st-kLcNrE8",
+      "title": "Jujutsu (jj):  An Introduction of its Paradigm Shift",
+      "views": 7,
+      "date": "2026-02-06T00:13:53Z",
+      "tags": [
+        "git",
+        "jujutsu",
+        "jj",
+        "intro"
+      ]
+    },
+    {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 228,
+      "views": 259,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -436,7 +483,7 @@
     {
       "id": "d_0swhS1LyQ",
       "title": "Neural TTS in Pastel-HN",
-      "views": 40,
+      "views": 41,
       "date": "2026-02-01T12:24:48Z",
       "tags": [
         "rust",
@@ -451,7 +498,7 @@
     {
       "id": "TDWC1fFhn9g",
       "title": "A DeepDive into SIMD & Zig",
-      "views": 50,
+      "views": 51,
       "date": "2026-01-31T19:35:42Z",
       "tags": [
         "zig",
@@ -801,7 +848,7 @@
     {
       "id": "yOOQNnaOLeM",
       "title": "Zig  Pragmatic Successor to C",
-      "views": 21,
+      "views": 22,
       "date": "2026-01-10T04:21:57Z",
       "tags": [
         "zig"
@@ -1036,6 +1083,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-02-05T14:30:51.040Z",
-  "count": 98
+  "generatedAt": "2026-02-06T13:10:08.383Z",
+  "count": 102
 }

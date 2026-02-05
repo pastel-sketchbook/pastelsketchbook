@@ -1,0 +1,68 @@
+version: '3'
+
+vars:
+  DEFAULT_BRANCH: main
+
+tasks:
+  build:
+    desc: Build the homepage app
+    dir: homepage
+    cmds:
+      - bun run build
+
+  push:
+    desc: Push current jj revision to origin (creates/moves bookmark as needed)
+    cmds:
+      - |
+        # Get current revision
+        REV=$(jj log -r @ --no-graph -T 'change_id.short()')
+        
+        # Check if bookmark exists on current revision
+        EXISTING=$(jj bookmark list -r @ --no-graph 2>/dev/null | head -1 | awk '{print $1}')
+        
+        if [ -n "$EXISTING" ]; then
+          echo "Using existing bookmark: $EXISTING"
+          BOOKMARK="$EXISTING"
+        else
+          # Create bookmark from description or change id
+          DESC=$(jj log -r @ --no-graph -T 'description.first_line()' | head -c 30 | tr ' ' '-' | tr -cd '[:alnum:]-' | tr '[:upper:]' '[:lower:]')
+          if [ -z "$DESC" ] || [ "$DESC" = "" ]; then
+            BOOKMARK="push-$REV"
+          else
+            BOOKMARK="$DESC"
+          fi
+          echo "Creating bookmark: $BOOKMARK"
+          jj bookmark create "$BOOKMARK" -r @
+        fi
+        
+        # Push to origin
+        git push origin "$BOOKMARK"
+    silent: false
+
+  push:main:
+    desc: Push main bookmark to origin
+    cmds:
+      - jj bookmark set main -r @
+      - git push origin main
+    silent: false
+
+  push:force:
+    desc: Force push current bookmark to origin
+    cmds:
+      - |
+        BOOKMARK=$(jj bookmark list -r @ --no-graph 2>/dev/null | head -1 | awk '{print $1}')
+        if [ -z "$BOOKMARK" ]; then
+          echo "No bookmark on current revision. Run 'task push' first."
+          exit 1
+        fi
+        git push origin "$BOOKMARK" --force
+    silent: false
+
+  status:
+    desc: Show jj status and bookmark info
+    cmds:
+      - jj status
+      - echo ""
+      - echo "Bookmarks:"
+      - jj bookmark list
+    silent: false
