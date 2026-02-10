@@ -26,20 +26,21 @@ export type VideoMetadataResponse = z.infer<typeof VideoMetadataResponseSchema>
 export const VIDEO_CONFIG = {
   korea: [
     'V2cZl5s4EKU',
-    'G3ys6d2w3yc',
     'L9sxbq8ugoU',
     'vNHblhm9oQo',
     '4h84JgKkt94',
-    'a6KG7zSZfwo',
     'CASZX56r-tk',
     'EvcUSPWkOA8',
     'JlPl9MskqJM',
     'drVBXipEOAs',
     'awa_UWXFOao',
     'nxuaOP3C1Ns',
-    'QLcNRIHYmj0'
+    'QLcNRIHYmj0',
+    'rwNfzJanPmk',
+    'rxQvDuohbt8'
   ],
   finance: [
+    'ybR0RxXj2_M',
     'K1O4kHjFJaQ',
     'MBnVggs6k5g',
     'nfD3KzIriM8',
@@ -48,12 +49,12 @@ export const VIDEO_CONFIG = {
     'KBfVy5-M-5k',
     'MDNRiJN7aEg',
     'nnL78ZVifZU',
-    'tPDFgVAp4c4',
-    '0Wtng6Ou3O4',
-    '-WYyOwj8EYU'
+    'tPDFgVAp4c4'
   ],
   kubernetes: ['rgY4KTMFOMs', 'BsiQrEaF3kU', 'Q4qm1hvVR2A', 'WHonjixQgBY', 'KpSjLQpswW4', '4b-H6ZaoNUE', '_sxPf3tHq3s', '0U-SUJCmKAU', 'VxWyvAO3qb8', 'A4-foXsdQiA', 'C6wLm6NRZW4', 'ctKLD4d146g', 'OnwiaDRj1-k', 'R2zktRqz81U', 'N4nRAfBZ3BE', 'C5HqbzLRYZ0', 'rJTUB-u8U2Y', 'A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q'],
   development: [
+    'qxOOl1hx1zU',
+    '0Sed1oggMKY',
     'A96r5gqwUrI',
     'ZlEq2jFb8tI',
     'TmlqoKqMD2Y',
@@ -107,7 +108,8 @@ export const VIDEO_CONFIG = {
     'IF5sNQH-01c',
     '2kvYb2pVe5o',
     'TLqdeHlAo3A',
-    'FdmBtPScnQs'
+    'FdmBtPScnQs',
+    'KDnTY0Svmr0'
   ],
   programming: [
     'T5FjMjTQCBI',

@@ -86,28 +86,49 @@
     {
       "id": "awa_UWXFOao",
       "title": "Hasta pronto, Danyang",
-      "views": 8,
+      "views": 9,
       "date": "2026-02-02T10:22:35Z",
       "tags": []
     },
     {
       "id": "nxuaOP3C1Ns",
       "title": "Bocetos de Daejeon",
-      "views": 10,
+      "views": 15,
       "date": "2026-02-03T23:48:39Z",
       "tags": []
     },
     {
       "id": "QLcNRIHYmj0",
       "title": "Un Viaje a Sokcho",
-      "views": 9,
+      "views": 16,
       "date": "2026-02-04T23:43:01Z",
+      "tags": []
+    },
+    {
+      "id": "rwNfzJanPmk",
+      "title": "Ganghwa: Un Viaje en Tonos Pastel",
+      "views": 2,
+      "date": "2026-02-07T00:00:53Z",
+      "tags": []
+    },
+    {
+      "id": "rxQvDuohbt8",
+      "title": "Jeju: Un Recuerdo en Tonos Pastel",
+      "views": 8,
+      "date": "2026-02-08T21:26:47Z",
+      "tags": []
+    },
+    {
+      "id": "ybR0RxXj2_M",
+      "title": "2050: The Post-Labor Paradigm",
+      "views": 7,
+      "date": "2026-02-07T18:56:02Z",
       "tags": []
     },
     {
       "id": "K1O4kHjFJaQ",
       "title": "The Three Pillars of Financial Freedom",
-      "views": 14,
+      "views": 15,
       "date": "2026-01-24T04:45:24Z",
       "tags": []
     },
@@ -173,7 +194,7 @@
     {
       "id": "rgY4KTMFOMs",
       "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-      "views": 12,
+      "views": 16,
       "date": "2026-02-05T14:29:16Z",
       "tags": [
         "aks",
@@ -184,7 +205,7 @@
     {
       "id": "BsiQrEaF3kU",
       "title": "MotherDuck: Serverless DuckDB in the Cloud & Client",
-      "views": 16,
+      "views": 22,
       "date": "2026-02-04T11:42:09Z",
       "tags": [
         "duckdb",
@@ -242,7 +263,7 @@
     {
       "id": "_sxPf3tHq3s",
       "title": "The 100+ Service Problem",
-      "views": 24,
+      "views": 25,
       "date": "2026-01-16T08:00:15Z",
       "tags": [
         "helm",
@@ -277,7 +298,7 @@
     {
       "id": "A4-foXsdQiA",
       "title": "Securing Service-to-Service Communication in Kubernetes",
-      "views": 21,
+      "views": 22,
       "date": "2026-01-15T03:44:26Z",
       "tags": [
         "rust",
@@ -324,7 +345,7 @@
     {
       "id": "R2zktRqz81U",
       "title": "A Blueprint for Secure Azure Authentication in Go",
-      "views": 15,
+      "views": 16,
       "date": "2026-01-13T00:32:55Z",
       "tags": [
         "workload identity",
@@ -370,7 +391,7 @@
     {
       "id": "A7eoKD5m6Ek",
       "title": "Securely Exposing AKS Applications",
-      "views": 7,
+      "views": 8,
       "date": "2026-01-08T08:17:48Z",
       "tags": [
         "aks",
@@ -411,9 +432,34 @@
       ]
     },
     {
+      "id": "qxOOl1hx1zU",
+      "title": "The Future of Al Programming:  2031 Strategic Outlook",
+      "views": 6,
+      "date": "2026-02-09T13:26:58Z",
+      "tags": [
+        "ai",
+        "programming",
+        "rust",
+        "go",
+        "zig"
+      ]
+    },
+    {
+      "id": "0Sed1oggMKY",
+      "title": "Tokio: The Asynchronous Runtime for Rust",
+      "views": 10,
+      "date": "2026-02-08T20:27:32Z",
+      "tags": [
+        "tokio",
+        "rust",
+        "tracing",
+        "async"
+      ]
+    },
+    {
       "id": "A96r5gqwUrI",
       "title": "Zig Algorithms: The Art of Zero-Cost Abstraction",
-      "views": 3,
+      "views": 11,
       "date": "2026-02-06T13:03:31Z",
       "tags": [
         "zig",
@@ -423,7 +469,7 @@
     {
       "id": "ZlEq2jFb8tI",
       "title": "Mastering Rust Error Handling",
-      "views": 4,
+      "views": 8,
       "date": "2026-02-06T12:28:35Z",
       "tags": [
         "rust",
@@ -436,7 +482,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 10,
+      "views": 17,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -448,7 +494,7 @@
     {
       "id": "5st-kLcNrE8",
       "title": "Jujutsu (jj):  An Introduction of its Paradigm Shift",
-      "views": 7,
+      "views": 97,
       "date": "2026-02-06T00:13:53Z",
       "tags": [
         "git",
@@ -460,7 +506,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 259,
+      "views": 282,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -483,7 +529,7 @@
     {
       "id": "d_0swhS1LyQ",
       "title": "Neural TTS in Pastel-HN",
-      "views": 41,
+      "views": 43,
       "date": "2026-02-01T12:24:48Z",
       "tags": [
         "rust",
@@ -498,7 +544,7 @@
     {
       "id": "TDWC1fFhn9g",
       "title": "A DeepDive into SIMD & Zig",
-      "views": 51,
+      "views": 55,
       "date": "2026-01-31T19:35:42Z",
       "tags": [
         "zig",
@@ -522,7 +568,7 @@
     {
       "id": "h31-NtagNoU",
       "title": "Memory Layout in Zig",
-      "views": 51,
+      "views": 52,
       "date": "2026-01-30T01:32:57Z",
       "tags": [
         "zig",
@@ -544,7 +590,7 @@
     {
       "id": "RDa6WtZmW8E",
       "title": "Mastering Serde in Rust ",
-      "views": 30,
+      "views": 33,
       "date": "2026-01-29T05:20:28Z",
       "tags": [
         "serde",
@@ -556,7 +602,7 @@
     {
       "id": "gBb1zn-QtY4",
       "title": "The Blue Screen Era",
-      "views": 45,
+      "views": 46,
       "date": "2026-01-29T02:37:33Z",
       "tags": [
         "turbo pascal",
@@ -567,7 +613,7 @@
     {
       "id": "Ul0ixBpd5iM",
       "title": "Velox: Bring Tauri to Swift",
-      "views": 36,
+      "views": 38,
       "date": "2026-01-27T23:10:59Z",
       "tags": [
         "swift",
@@ -578,7 +624,7 @@
     {
       "id": "43UjmZtW2JU",
       "title": "Mastering Memory in Rust",
-      "views": 42,
+      "views": 45,
       "date": "2026-01-27T11:21:20Z",
       "tags": [
         "rust",
@@ -615,7 +661,7 @@
     {
       "id": "3Fpey_L_XRU",
       "title": "Cloth Simulation ",
-      "views": 11,
+      "views": 12,
       "date": "2026-01-25T22:13:48Z",
       "tags": [
         "zig",
@@ -638,7 +684,7 @@
     {
       "id": "qbBA7GWZbu4",
       "title": "Smooth Motion",
-      "views": 47,
+      "views": 48,
       "date": "2026-01-25T01:05:25Z",
       "tags": [
         "bezier curves",
@@ -710,7 +756,7 @@
     {
       "id": "xVmoqBYlQMU",
       "title": "Mastering Rust Feature Flags",
-      "views": 47,
+      "views": 48,
       "date": "2026-01-19T17:09:56Z",
       "tags": [
         "rust",
@@ -733,7 +779,7 @@
     {
       "id": "LWc3AAHoxnU",
       "title": "Flutter App Template",
-      "views": 28,
+      "views": 30,
       "date": "2026-01-18T19:15:22Z",
       "tags": [
         "flutter",
@@ -848,7 +894,7 @@
     {
       "id": "yOOQNnaOLeM",
       "title": "Zig  Pragmatic Successor to C",
-      "views": 22,
+      "views": 24,
       "date": "2026-01-10T04:21:57Z",
       "tags": [
         "zig"
@@ -889,7 +935,7 @@
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 84,
+      "views": 85,
       "date": "2026-01-09T00:15:35Z",
       "tags": [
         "rust",
@@ -903,7 +949,7 @@
     {
       "id": "js95nIDeA-c",
       "title": "The Professional Rust Toolbox",
-      "views": 4,
+      "views": 5,
       "date": "2026-01-08T10:19:31Z",
       "tags": [
         "rust",
@@ -914,7 +960,7 @@
     {
       "id": "BAxPZdgmgRQ",
       "title": "The 2026 State of Al Agents",
-      "views": 2,
+      "views": 3,
       "date": "2026-01-08T09:41:38Z",
       "tags": [
         "ai",
@@ -1017,7 +1063,7 @@
     {
       "id": "T5FjMjTQCBI",
       "title": "타입스크립트와 번으로 배우는 프로그래밍 1",
-      "views": 73,
+      "views": 74,
       "date": "2026-01-10T07:09:48Z",
       "tags": []
     },
@@ -1065,7 +1111,7 @@
     {
       "id": "dsxuWtfzBGI",
       "title": "알고리즘에서 코드로  TypeScript 가이드",
-      "views": 11,
+      "views": 12,
       "date": "2026-01-14T13:28:26Z",
       "tags": [
         "알고리즘"
@@ -1074,7 +1120,7 @@
     {
       "id": "GVq5DvGFLpI",
       "title": "Vercel 대시보드 보안 안내서",
-      "views": 17,
+      "views": 19,
       "date": "2026-02-02T00:33:23Z",
       "tags": [
         "vercel",
@@ -1083,6 +1129,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-02-06T13:10:08.383Z",
-  "count": 102
+  "generatedAt": "2026-02-10T05:18:09.497Z",
+  "count": 107
 }
