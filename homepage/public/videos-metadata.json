@@ -3,7 +3,7 @@
     {
       "id": "V2cZl5s4EKU",
       "title": "스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작",
-      "views": 20,
+      "views": 21,
       "date": "2025-12-26T23:35:15Z",
       "tags": []
     },
@@ -42,7 +42,7 @@
     {
       "id": "CASZX56r-tk",
       "title": "Mi Cuaderno de Viaje: Andong",
-      "views": 13,
+      "views": 16,
       "date": "2026-01-04T02:59:34Z",
       "tags": [
         "viaje",
@@ -100,28 +100,35 @@
     {
       "id": "QLcNRIHYmj0",
       "title": "Un Viaje a Sokcho",
-      "views": 16,
+      "views": 17,
       "date": "2026-02-04T23:43:01Z",
       "tags": []
     },
     {
       "id": "rwNfzJanPmk",
       "title": "Ganghwa: Un Viaje en Tonos Pastel",
-      "views": 2,
+      "views": 6,
       "date": "2026-02-07T00:00:53Z",
       "tags": []
     },
     {
       "id": "rxQvDuohbt8",
       "title": "Jeju: Un Recuerdo en Tonos Pastel",
-      "views": 8,
+      "views": 10,
       "date": "2026-02-08T21:26:47Z",
+      "tags": []
+    },
+    {
+      "id": "kvdBJSRUchA",
+      "title": "Seúl 2026: Tu Diario de Viaje",
+      "views": 4,
+      "date": "2026-02-11T13:22:19Z",
       "tags": []
     },
     {
       "id": "ybR0RxXj2_M",
       "title": "2050: The Post-Labor Paradigm",
-      "views": 7,
+      "views": 10,
       "date": "2026-02-07T18:56:02Z",
       "tags": []
     },
@@ -192,9 +199,20 @@
       ]
     },
     {
+      "id": "eI2DXGISpbk",
+      "title": "BadgerDB: The Go-Native Key-Value Store",
+      "views": 17,
+      "date": "2026-02-13T00:09:38Z",
+      "tags": [
+        "go",
+        "badgerdb",
+        "key-value store"
+      ]
+    },
+    {
       "id": "MIZ0ATwu7C0",
       "title": "Architecting Meilisearch on AKS & Istio",
-      "views": 3,
+      "views": 20,
       "date": "2026-02-10T09:50:21Z",
       "tags": [
         "melisearch",
@@ -205,7 +223,7 @@
     {
       "id": "rgY4KTMFOMs",
       "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-      "views": 16,
+      "views": 19,
       "date": "2026-02-05T14:29:16Z",
       "tags": [
         "aks",
@@ -216,7 +234,7 @@
     {
       "id": "BsiQrEaF3kU",
       "title": "MotherDuck: Serverless DuckDB in the Cloud & Client",
-      "views": 22,
+      "views": 23,
       "date": "2026-02-04T11:42:09Z",
       "tags": [
         "duckdb",
@@ -226,7 +244,7 @@
     {
       "id": "Q4qm1hvVR2A",
       "title": "Dragonfly on AKS",
-      "views": 18,
+      "views": 19,
       "date": "2026-01-31T16:23:17Z",
       "tags": [
         "kubernetes",
@@ -239,7 +257,7 @@
     {
       "id": "WHonjixQgBY",
       "title": "The 2026 Architectural Standard",
-      "views": 47,
+      "views": 49,
       "date": "2026-01-31T16:07:10Z",
       "tags": [
         "kubernetes",
@@ -285,7 +303,7 @@
     {
       "id": "0U-SUJCmKAU",
       "title": "From Stateful to Secure",
-      "views": 43,
+      "views": 44,
       "date": "2026-01-16T06:38:21Z",
       "tags": [
         "stateful",
@@ -380,7 +398,7 @@
     {
       "id": "C5HqbzLRYZ0",
       "title": "K8s Services  AKS & Istio",
-      "views": 8,
+      "views": 11,
       "date": "2026-01-10T16:26:22Z",
       "tags": [
         "istio",
@@ -402,7 +420,7 @@
     {
       "id": "A7eoKD5m6Ek",
       "title": "Securely Exposing AKS Applications",
-      "views": 8,
+      "views": 9,
       "date": "2026-01-08T08:17:48Z",
       "tags": [
         "aks",
@@ -443,9 +461,76 @@
       ]
     },
     {
+      "id": "JfGgWiiCTA0",
+      "title": "Shannon: Autonomous Penetration Testing",
+      "views": 2,
+      "date": "2026-02-14T10:04:10Z",
+      "tags": [
+        "agent",
+        "exploits",
+        "white-box"
+      ]
+    },
+    {
+      "id": "zwVDEAKKPZY",
+      "title": "Go 1.26: The Era of Automated Modernization",
+      "views": 4,
+      "date": "2026-02-14T09:23:06Z",
+      "tags": [
+        "go",
+        "1.26",
+        "go fix",
+        "modernizers"
+      ]
+    },
+    {
+      "id": "cWozmWrqnxs",
+      "title": "The Repository Pattern",
+      "views": 10,
+      "date": "2026-02-13T18:01:39Z",
+      "tags": [
+        "decoupling",
+        "frontend",
+        "repository pattern"
+      ]
+    },
+    {
+      "id": "joYJ6rPN3UI",
+      "title": "Burn: The Rust Deep Learning Framework",
+      "views": 23,
+      "date": "2026-02-13T15:08:23Z",
+      "tags": [
+        "rust",
+        "burm",
+        "deep learning"
+      ]
+    },
+    {
+      "id": "Qo3oJv4uyBI",
+      "title": "High-Performance Go: Inside the 1.26 Release",
+      "views": 74,
+      "date": "2026-02-12T13:08:12Z",
+      "tags": [
+        "go",
+        "simd",
+        "greentea"
+      ]
+    },
+    {
+      "id": "cEwAbu6FFRo",
+      "title": "Compound Engineering",
+      "views": 27,
+      "date": "2026-02-11T13:08:01Z",
+      "tags": [
+        "every.to",
+        "al-native",
+        "plan first"
+      ]
+    },
+    {
       "id": "IZX3_9rZeMU",
       "title": "The Hybrid TUI Architecture",
-      "views": 3,
+      "views": 110,
       "date": "2026-02-10T10:11:11Z",
       "tags": [
         "opentui",
@@ -457,7 +542,7 @@
     {
       "id": "KDnTY0Svmr0",
       "title": "AEM + Meilisearch: A High-Performance Integration",
-      "views": 6,
+      "views": 11,
       "date": "2026-02-10T07:27:32Z",
       "tags": [
         "melisearch",
@@ -467,7 +552,7 @@
     {
       "id": "qxOOl1hx1zU",
       "title": "The Future of Al Programming:  2031 Strategic Outlook",
-      "views": 9,
+      "views": 98,
       "date": "2026-02-09T13:26:58Z",
       "tags": [
         "ai",
@@ -480,7 +565,7 @@
     {
       "id": "0Sed1oggMKY",
       "title": "Tokio: The Asynchronous Runtime for Rust",
-      "views": 13,
+      "views": 67,
       "date": "2026-02-08T20:27:32Z",
       "tags": [
         "tokio",
@@ -492,7 +577,7 @@
     {
       "id": "A96r5gqwUrI",
       "title": "Zig Algorithms: The Art of Zero-Cost Abstraction",
-      "views": 11,
+      "views": 14,
       "date": "2026-02-06T13:03:31Z",
       "tags": [
         "zig",
@@ -515,7 +600,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 18,
+      "views": 20,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -527,7 +612,7 @@
     {
       "id": "5st-kLcNrE8",
       "title": "Jujutsu (jj):  An Introduction of its Paradigm Shift",
-      "views": 99,
+      "views": 110,
       "date": "2026-02-06T00:13:53Z",
       "tags": [
         "git",
@@ -539,7 +624,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 283,
+      "views": 284,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -550,7 +635,7 @@
     {
       "id": "2Ni8zfsxW6o",
       "title": "Modernizing Legacy COBOL",
-      "views": 21,
+      "views": 22,
       "date": "2026-02-01T13:20:19Z",
       "tags": [
         "cobol",
@@ -562,7 +647,7 @@
     {
       "id": "d_0swhS1LyQ",
       "title": "Neural TTS in Pastel-HN",
-      "views": 43,
+      "views": 44,
       "date": "2026-02-01T12:24:48Z",
       "tags": [
         "rust",
@@ -577,7 +662,7 @@
     {
       "id": "TDWC1fFhn9g",
       "title": "A DeepDive into SIMD & Zig",
-      "views": 55,
+      "views": 58,
       "date": "2026-01-31T19:35:42Z",
       "tags": [
         "zig",
@@ -589,7 +674,7 @@
     {
       "id": "V2LbQqD1lMM",
       "title": "Ralph: The Autonomous Vibe Coding Workflow",
-      "views": 23,
+      "views": 24,
       "date": "2026-01-31T16:33:53Z",
       "tags": [
         "ai",
@@ -612,7 +697,7 @@
     {
       "id": "o9yaniXkM-0",
       "title": "Practical Data Oriented Design in Zig",
-      "views": 25,
+      "views": 27,
       "date": "2026-01-30T01:28:52Z",
       "tags": [
         "dod",
@@ -623,7 +708,7 @@
     {
       "id": "RDa6WtZmW8E",
       "title": "Mastering Serde in Rust ",
-      "views": 33,
+      "views": 35,
       "date": "2026-01-29T05:20:28Z",
       "tags": [
         "serde",
@@ -635,7 +720,7 @@
     {
       "id": "gBb1zn-QtY4",
       "title": "The Blue Screen Era",
-      "views": 46,
+      "views": 47,
       "date": "2026-01-29T02:37:33Z",
       "tags": [
         "turbo pascal",
@@ -657,7 +742,7 @@
     {
       "id": "43UjmZtW2JU",
       "title": "Mastering Memory in Rust",
-      "views": 45,
+      "views": 46,
       "date": "2026-01-27T11:21:20Z",
       "tags": [
         "rust",
@@ -778,7 +863,7 @@
     {
       "id": "9yov-ZVv-Bo",
       "title": "Hangul + WASM",
-      "views": 41,
+      "views": 42,
       "date": "2026-01-19T20:47:14Z",
       "tags": [
         "zig",
@@ -812,7 +897,7 @@
     {
       "id": "LWc3AAHoxnU",
       "title": "Flutter App Template",
-      "views": 30,
+      "views": 31,
       "date": "2026-01-18T19:15:22Z",
       "tags": [
         "flutter",
@@ -1162,6 +1247,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-02-10T17:19:08.623Z",
-  "count": 110
+  "generatedAt": "2026-02-14T11:32:06.293Z",
+  "count": 118
 }
