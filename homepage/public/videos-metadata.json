@@ -121,7 +121,7 @@
     {
       "id": "kvdBJSRUchA",
       "title": "Seúl 2026: Tu Diario de Viaje",
-      "views": 4,
+      "views": 5,
       "date": "2026-02-11T13:22:19Z",
       "tags": []
     },
@@ -201,7 +201,7 @@
     {
       "id": "eI2DXGISpbk",
       "title": "BadgerDB: The Go-Native Key-Value Store",
-      "views": 17,
+      "views": 24,
       "date": "2026-02-13T00:09:38Z",
       "tags": [
         "go",
@@ -461,9 +461,19 @@
       ]
     },
     {
+      "id": "kQc99Io3pCo",
+      "title": "HelixDB: The Unified Graph-Vector Database",
+      "views": 4,
+      "date": "2026-02-14T22:47:13Z",
+      "tags": [
+        "rust",
+        "graph-vector"
+      ]
+    },
+    {
       "id": "JfGgWiiCTA0",
       "title": "Shannon: Autonomous Penetration Testing",
-      "views": 2,
+      "views": 6,
       "date": "2026-02-14T10:04:10Z",
       "tags": [
         "agent",
@@ -474,7 +484,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 4,
+      "views": 36,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -486,7 +496,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 10,
+      "views": 125,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -497,7 +507,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 23,
+      "views": 36,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -508,7 +518,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 74,
+      "views": 93,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -519,7 +529,7 @@
     {
       "id": "cEwAbu6FFRo",
       "title": "Compound Engineering",
-      "views": 27,
+      "views": 58,
       "date": "2026-02-11T13:08:01Z",
       "tags": [
         "every.to",
@@ -530,7 +540,7 @@
     {
       "id": "IZX3_9rZeMU",
       "title": "The Hybrid TUI Architecture",
-      "views": 110,
+      "views": 111,
       "date": "2026-02-10T10:11:11Z",
       "tags": [
         "opentui",
@@ -552,7 +562,7 @@
     {
       "id": "qxOOl1hx1zU",
       "title": "The Future of Al Programming:  2031 Strategic Outlook",
-      "views": 98,
+      "views": 99,
       "date": "2026-02-09T13:26:58Z",
       "tags": [
         "ai",
@@ -600,7 +610,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 20,
+      "views": 21,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -612,7 +622,7 @@
     {
       "id": "5st-kLcNrE8",
       "title": "Jujutsu (jj):  An Introduction of its Paradigm Shift",
-      "views": 110,
+      "views": 111,
       "date": "2026-02-06T00:13:53Z",
       "tags": [
         "git",
@@ -624,7 +634,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 284,
+      "views": 287,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -635,7 +645,7 @@
     {
       "id": "2Ni8zfsxW6o",
       "title": "Modernizing Legacy COBOL",
-      "views": 22,
+      "views": 24,
       "date": "2026-02-01T13:20:19Z",
       "tags": [
         "cobol",
@@ -720,7 +730,7 @@
     {
       "id": "gBb1zn-QtY4",
       "title": "The Blue Screen Era",
-      "views": 47,
+      "views": 48,
       "date": "2026-01-29T02:37:33Z",
       "tags": [
         "turbo pascal",
@@ -1247,6 +1257,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-02-14T11:32:06.293Z",
-  "count": 118
+  "generatedAt": "2026-02-15T02:31:14.495Z",
+  "count": 119
 }
