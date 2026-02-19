@@ -128,7 +128,7 @@
     {
       "id": "9z6mOWQgU84",
       "title": "Navigating the Al Capital Cycle: 2026 & Beyond",
-      "views": 8,
+      "views": 10,
       "date": "2026-02-17T14:46:13Z",
       "tags": []
     },
@@ -213,9 +213,30 @@
       ]
     },
     {
+      "id": "mYClRFIlsFc",
+      "title": "ScyllaDB: The Next-Generation NoSQL Platform",
+      "views": 4,
+      "date": "2026-02-19T13:31:03Z",
+      "tags": [
+        "nosql",
+        "c++"
+      ]
+    },
+    {
+      "id": "7eoxSgjwYlM",
+      "title": "Bridging Helm and CUE for Deterministic Value Composition",
+      "views": 3,
+      "date": "2026-02-19T13:24:37Z",
+      "tags": [
+        "cue",
+        "composition",
+        "config-as-data"
+      ]
+    },
+    {
       "id": "5Ztm7JNVa8E",
       "title": "Drasi: The Future of Change-Driven Architecture",
-      "views": 11,
+      "views": 12,
       "date": "2026-02-17T21:28:39Z",
       "tags": [
         "change-driven",
@@ -238,7 +259,7 @@
     {
       "id": "okVlu1qseI4",
       "title": "Beyond Static Configuration",
-      "views": 17,
+      "views": 18,
       "date": "2026-02-15T08:48:55Z",
       "tags": [
         "shift left",
@@ -511,7 +532,7 @@
     {
       "id": "QBUQvfZJpaM",
       "title": "Modern Cryptography Standards: A Guide to AEAD",
-      "views": 4,
+      "views": 8,
       "date": "2026-02-18T23:24:48Z",
       "tags": [
         "aes-256-gcm",
@@ -546,7 +567,7 @@
     {
       "id": "kQc99Io3pCo",
       "title": "HelixDB: The Unified Graph-Vector Database",
-      "views": 19,
+      "views": 22,
       "date": "2026-02-14T22:47:13Z",
       "tags": [
         "rust",
@@ -567,7 +588,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 307,
+      "views": 318,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -579,7 +600,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 694,
+      "views": 696,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -590,7 +611,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 54,
+      "views": 55,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -601,7 +622,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 111,
+      "views": 116,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -612,7 +633,7 @@
     {
       "id": "cEwAbu6FFRo",
       "title": "Compound Engineering",
-      "views": 80,
+      "views": 81,
       "date": "2026-02-11T13:08:01Z",
       "tags": [
         "every.to",
@@ -623,7 +644,7 @@
     {
       "id": "IZX3_9rZeMU",
       "title": "The Hybrid TUI Architecture",
-      "views": 157,
+      "views": 180,
       "date": "2026-02-10T10:11:11Z",
       "tags": [
         "opentui",
@@ -658,7 +679,7 @@
     {
       "id": "0Sed1oggMKY",
       "title": "Tokio: The Asynchronous Runtime for Rust",
-      "views": 69,
+      "views": 71,
       "date": "2026-02-08T20:27:32Z",
       "tags": [
         "tokio",
@@ -670,7 +691,7 @@
     {
       "id": "A96r5gqwUrI",
       "title": "Zig Algorithms: The Art of Zero-Cost Abstraction",
-      "views": 15,
+      "views": 16,
       "date": "2026-02-06T13:03:31Z",
       "tags": [
         "zig",
@@ -717,7 +738,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 291,
+      "views": 292,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -790,7 +811,7 @@
     {
       "id": "o9yaniXkM-0",
       "title": "Practical Data Oriented Design in Zig",
-      "views": 27,
+      "views": 28,
       "date": "2026-01-30T01:28:52Z",
       "tags": [
         "dod",
@@ -1340,6 +1361,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-02-19T00:23:41.739Z",
-  "count": 127
+  "generatedAt": "2026-02-19T15:52:07.190Z",
+  "count": 129
 }
