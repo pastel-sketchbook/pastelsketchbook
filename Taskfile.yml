@@ -15,6 +15,12 @@ tasks:
     cmds:
       - bun run build
 
+  deploy:
+    desc: Deploy homepage to Vercel production
+    dir: homepage
+    cmds:
+      - bun run deploy:vercel
+
   push:
     desc: Push current jj revision to origin (creates/moves bookmark as needed)
     cmds:
