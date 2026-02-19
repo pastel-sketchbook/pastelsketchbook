@@ -121,21 +121,21 @@
     {
       "id": "kvdBJSRUchA",
       "title": "Seúl 2026: Tu Diario de Viaje",
-      "views": 7,
+      "views": 8,
       "date": "2026-02-11T13:22:19Z",
       "tags": []
     },
     {
       "id": "9z6mOWQgU84",
       "title": "Navigating the Al Capital Cycle: 2026 & Beyond",
-      "views": 2,
+      "views": 8,
       "date": "2026-02-17T14:46:13Z",
       "tags": []
     },
     {
       "id": "bn-Nvmxgur8",
       "title": "The 2026 Barbell Strategy",
-      "views": 3,
+      "views": 7,
       "date": "2026-02-17T14:24:35Z",
       "tags": []
     },
@@ -213,9 +213,20 @@
       ]
     },
     {
+      "id": "5Ztm7JNVa8E",
+      "title": "Drasi: The Future of Change-Driven Architecture",
+      "views": 11,
+      "date": "2026-02-17T21:28:39Z",
+      "tags": [
+        "change-driven",
+        "drasi",
+        "continuous queries"
+      ]
+    },
+    {
       "id": "P_xUJi_qt-Q",
       "title": "Advanced Architectural Synthesis",
-      "views": 13,
+      "views": 15,
       "date": "2026-02-15T15:41:25Z",
       "tags": [
         "distributed systems.",
@@ -227,7 +238,7 @@
     {
       "id": "okVlu1qseI4",
       "title": "Beyond Static Configuration",
-      "views": 15,
+      "views": 17,
       "date": "2026-02-15T08:48:55Z",
       "tags": [
         "shift left",
@@ -260,7 +271,7 @@
     {
       "id": "rgY4KTMFOMs",
       "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-      "views": 19,
+      "views": 21,
       "date": "2026-02-05T14:29:16Z",
       "tags": [
         "aks",
@@ -294,7 +305,7 @@
     {
       "id": "WHonjixQgBY",
       "title": "The 2026 Architectural Standard",
-      "views": 51,
+      "views": 52,
       "date": "2026-01-31T16:07:10Z",
       "tags": [
         "kubernetes",
@@ -498,9 +509,20 @@
       ]
     },
     {
+      "id": "QBUQvfZJpaM",
+      "title": "Modern Cryptography Standards: A Guide to AEAD",
+      "views": 4,
+      "date": "2026-02-18T23:24:48Z",
+      "tags": [
+        "aes-256-gcm",
+        "unique ivs",
+        "aead"
+      ]
+    },
+    {
       "id": "5Vloo08zQ7o",
       "title": "Bulletproof Frontend Architecture",
-      "views": 17,
+      "views": 20,
       "date": "2026-02-16T21:07:23Z",
       "tags": [
         "repository",
@@ -524,7 +546,7 @@
     {
       "id": "kQc99Io3pCo",
       "title": "HelixDB: The Unified Graph-Vector Database",
-      "views": 18,
+      "views": 19,
       "date": "2026-02-14T22:47:13Z",
       "tags": [
         "rust",
@@ -545,7 +567,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 247,
+      "views": 307,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -557,7 +579,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 682,
+      "views": 694,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -568,7 +590,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 51,
+      "views": 54,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -579,7 +601,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 103,
+      "views": 111,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -601,7 +623,7 @@
     {
       "id": "IZX3_9rZeMU",
       "title": "The Hybrid TUI Architecture",
-      "views": 125,
+      "views": 157,
       "date": "2026-02-10T10:11:11Z",
       "tags": [
         "opentui",
@@ -648,7 +670,7 @@
     {
       "id": "A96r5gqwUrI",
       "title": "Zig Algorithms: The Art of Zero-Cost Abstraction",
-      "views": 14,
+      "views": 15,
       "date": "2026-02-06T13:03:31Z",
       "tags": [
         "zig",
@@ -671,7 +693,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 24,
+      "views": 25,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -718,7 +740,7 @@
     {
       "id": "d_0swhS1LyQ",
       "title": "Neural TTS in Pastel-HN",
-      "views": 44,
+      "views": 45,
       "date": "2026-02-01T12:24:48Z",
       "tags": [
         "rust",
@@ -733,7 +755,7 @@
     {
       "id": "TDWC1fFhn9g",
       "title": "A DeepDive into SIMD & Zig",
-      "views": 63,
+      "views": 65,
       "date": "2026-01-31T19:35:42Z",
       "tags": [
         "zig",
@@ -884,7 +906,7 @@
     {
       "id": "P58Zt8A_1Mc",
       "title": "Swift Firefly",
-      "views": 111,
+      "views": 112,
       "date": "2026-01-24T08:32:27Z",
       "tags": [
         "swift",
@@ -945,7 +967,7 @@
     {
       "id": "xVmoqBYlQMU",
       "title": "Mastering Rust Feature Flags",
-      "views": 50,
+      "views": 51,
       "date": "2026-01-19T17:09:56Z",
       "tags": [
         "rust",
@@ -1092,7 +1114,7 @@
     {
       "id": "4_mBGmXA244",
       "title": "Data Centric Flutter Apps",
-      "views": 30,
+      "views": 31,
       "date": "2026-01-10T02:40:22Z",
       "tags": [
         "flutter",
@@ -1241,7 +1263,7 @@
     {
       "id": "TLqdeHlAo3A",
       "title": "From Bottlenecks to Breakthroughs:",
-      "views": 27,
+      "views": 28,
       "date": "2025-12-27T21:13:50Z",
       "tags": [
         "git",
@@ -1318,6 +1340,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-02-17T14:47:13.171Z",
-  "count": 125
+  "generatedAt": "2026-02-19T00:23:41.739Z",
+  "count": 127
 }
