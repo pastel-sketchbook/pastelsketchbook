@@ -121,14 +121,14 @@
     {
       "id": "kvdBJSRUchA",
       "title": "Seúl 2026: Tu Diario de Viaje",
-      "views": 9,
+      "views": 12,
       "date": "2026-02-11T13:22:19Z",
       "tags": []
     },
     {
       "id": "9z6mOWQgU84",
       "title": "Navigating the Al Capital Cycle: 2026 & Beyond",
-      "views": 12,
+      "views": 13,
       "date": "2026-02-17T14:46:13Z",
       "tags": []
     },
@@ -215,7 +215,7 @@
     {
       "id": "rk_3xU9OF-k",
       "title": "The Modern Platform Framework",
-      "views": 4,
+      "views": 16,
       "date": "2026-02-19T22:59:21Z",
       "tags": [
         "k8s",
@@ -236,7 +236,7 @@
     {
       "id": "7eoxSgjwYlM",
       "title": "Bridging Helm and CUE for Deterministic Value Composition",
-      "views": 7,
+      "views": 9,
       "date": "2026-02-19T13:24:37Z",
       "tags": [
         "cue",
@@ -248,7 +248,7 @@
     {
       "id": "5Ztm7JNVa8E",
       "title": "Drasi: The Future of Change-Driven Architecture",
-      "views": 12,
+      "views": 13,
       "date": "2026-02-17T21:28:39Z",
       "tags": [
         "change-driven",
@@ -259,7 +259,7 @@
     {
       "id": "P_xUJi_qt-Q",
       "title": "Advanced Architectural Synthesis",
-      "views": 16,
+      "views": 17,
       "date": "2026-02-15T15:41:25Z",
       "tags": [
         "distributed systems.",
@@ -542,6 +542,17 @@
       ]
     },
     {
+      "id": "3ybGkjogcFQ",
+      "title": "Modern State Architecture: The Repository Pattern",
+      "views": 3,
+      "date": "2026-02-20T12:47:49Z",
+      "tags": [
+        "signals",
+        "tanstack query",
+        "repository"
+      ]
+    },
+    {
       "id": "QBUQvfZJpaM",
       "title": "Modern Cryptography Standards: A Guide to AEAD",
       "views": 8,
@@ -555,7 +566,7 @@
     {
       "id": "5Vloo08zQ7o",
       "title": "Bulletproof Frontend Architecture",
-      "views": 20,
+      "views": 23,
       "date": "2026-02-16T21:07:23Z",
       "tags": [
         "repository",
@@ -579,7 +590,7 @@
     {
       "id": "kQc99Io3pCo",
       "title": "HelixDB: The Unified Graph-Vector Database",
-      "views": 23,
+      "views": 25,
       "date": "2026-02-14T22:47:13Z",
       "tags": [
         "rust",
@@ -600,7 +611,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 322,
+      "views": 329,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -612,7 +623,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 698,
+      "views": 697,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -623,7 +634,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 59,
+      "views": 61,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -634,7 +645,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 118,
+      "views": 128,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -645,7 +656,7 @@
     {
       "id": "cEwAbu6FFRo",
       "title": "Compound Engineering",
-      "views": 84,
+      "views": 86,
       "date": "2026-02-11T13:08:01Z",
       "tags": [
         "every.to",
@@ -656,7 +667,7 @@
     {
       "id": "IZX3_9rZeMU",
       "title": "The Hybrid TUI Architecture",
-      "views": 189,
+      "views": 225,
       "date": "2026-02-10T10:11:11Z",
       "tags": [
         "opentui",
@@ -691,7 +702,7 @@
     {
       "id": "0Sed1oggMKY",
       "title": "Tokio: The Asynchronous Runtime for Rust",
-      "views": 72,
+      "views": 73,
       "date": "2026-02-08T20:27:32Z",
       "tags": [
         "tokio",
@@ -738,7 +749,7 @@
     {
       "id": "5st-kLcNrE8",
       "title": "Jujutsu (jj):  An Introduction of its Paradigm Shift",
-      "views": 112,
+      "views": 113,
       "date": "2026-02-06T00:13:53Z",
       "tags": [
         "git",
@@ -1373,6 +1384,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-02-19T23:54:23.479Z",
-  "count": 130
+  "generatedAt": "2026-02-20T13:59:15.527Z",
+  "count": 131
 }
