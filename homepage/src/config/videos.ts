@@ -56,6 +56,10 @@ export const VIDEO_CONFIG = {
   ],
   kubernetes: ['3hSdKvqPcSE', 'y3WwL48DLYw', 'ORjARjbukhY', 'rk_3xU9OF-k', 'mYClRFIlsFc', '7eoxSgjwYlM', '5Ztm7JNVa8E', 'P_xUJi_qt-Q', 'okVlu1qseI4', 'eI2DXGISpbk', 'MIZ0ATwu7C0', 'rgY4KTMFOMs', 'BsiQrEaF3kU', 'Q4qm1hvVR2A', 'WHonjixQgBY', 'KpSjLQpswW4', '4b-H6ZaoNUE', '_sxPf3tHq3s', '0U-SUJCmKAU', 'VxWyvAO3qb8', 'A4-foXsdQiA', 'C6wLm6NRZW4', 'ctKLD4d146g', 'OnwiaDRj1-k', 'R2zktRqz81U', 'N4nRAfBZ3BE', 'C5HqbzLRYZ0', 'rJTUB-u8U2Y', 'A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q', 'FVdv_oTFyZQ'],
   development: [
+    'WMcKFQ200OE',
+    'Wa0EHhhKV8Q',
+    'jzjGcFkAnfs',
+    'WdK7PED1ug8',
     'HiaotGxHTfo',
     'DazzkNtnzec',
     'ARWkoc3E8uE',
@@ -67,7 +71,6 @@ export const VIDEO_CONFIG = {
     '5Vloo08zQ7o',
     '5-ZNXQegVhs',
     'kQc99Io3pCo',
-    'JfGgWiiCTA0',
     'zwVDEAKKPZY',
     'cWozmWrqnxs',
     'joYJ6rPN3UI',
@@ -133,6 +136,10 @@ export const VIDEO_CONFIG = {
     'FdmBtPScnQs',
     'wkbrVBCkx6Q'
   ],
+  security: [
+    'JfGgWiiCTA0',
+    '1MPD6MILLcQ'
+  ],
   programming: [
     'T5FjMjTQCBI',
     'F6aMGDfVAFg',
@@ -150,6 +157,7 @@ export const allVideoIds = [
   ...VIDEO_CONFIG.finance,
   ...VIDEO_CONFIG.kubernetes,
   ...VIDEO_CONFIG.development,
+  ...VIDEO_CONFIG.security,
   ...VIDEO_CONFIG.programming
 ]
 

@@ -94,7 +94,7 @@ function formatYouTubeDate(dateString: string): string {
 }
 
 function Showcase() {
-    const [activeTab, setActiveTab] = useState<"korea" | "finance" | "kubernetes" | "development" | "programming" | "all">("all")
+    const [activeTab, setActiveTab] = useState<"korea" | "finance" | "kubernetes" | "development" | "security" | "programming" | "all">("all")
     const [selectedVideoId, setSelectedVideoId] = useState<string | null>(null)
     const [searchQuery, setSearchQuery] = useState("")
     const [selectedTags, setSelectedTags] = useState<Set<string>>(new Set())
@@ -163,10 +163,11 @@ function Showcase() {
 
     const tabs = [
         { id: "all", label: "All Seeds" },
-        { id: "korea", label: "Viaje a Corea" },
+        { id: "development", label: "Development" },
         { id: "finance", label: "Finance" },
         { id: "kubernetes", label: "Kubernetes" },
-        { id: "development", label: "Development" },
+        { id: "security", label: "Security" },
+        { id: "korea", label: "Viaje a Corea" },
         { id: "programming", label: "프로그래밍" },
     ];
 
@@ -228,12 +229,12 @@ function Showcase() {
 
                     {/* Tabs now under title/desc */}
                     <div className="flex justify-center mb-12 overflow-x-auto pb-4 scrollbar-hide md:max-w-6xl md:mx-auto md:w-full">
-                        <div className="bg-white/50 backdrop-blur-sm p-1 rounded-full sketch-border border-[#1B3022]/5 flex flex-wrap md:flex-nowrap gap-1 md:gap-2 md:w-full md:justify-center">
+                        <div className="bg-white/50 backdrop-blur-sm p-1 rounded-full sketch-border border-[#1B3022]/5 flex flex-wrap md:flex-nowrap gap-0.5 md:gap-1 md:w-full md:justify-center">
                             {tabs.map(tab => (
                                 <button
                                     key={tab.id}
                                     onClick={() => setActiveTab(tab.id as any)}
-                                    className={`px-4 md:px-8 py-2 md:py-3 rounded-full text-xs md:text-sm font-bold uppercase tracking-widest transition-all duration-300 ${activeTab === tab.id
+                                    className={`px-3 md:px-6 py-2 md:py-3 rounded-full text-xs md:text-sm font-bold uppercase tracking-widest transition-all duration-300 ${activeTab === tab.id
                                         ? "bg-[#1B3022] text-white shadow-lg scale-105"
                                         : "text-[#1B3022]/40 hover:text-[#1B3022] hover:bg-white/50"
                                         }`}
@@ -367,15 +368,17 @@ function Showcase() {
                                             ? `Found ${filteredItems.length} results for "${searchQuery}"`
                                             : activeTab === "all"
                                                 ? "Our complete collection of knowledge seeds, grouped by area of study."
-                                                : activeTab === "korea"
-                                                    ? "A collection of sketches, journals, and moments from a journey through South Korea."
+                                                : activeTab === "development"
+                                                    ? "Deep dives into development practices, toolsets, and the creative process of building software."
                                                     : activeTab === "finance"
                                                         ? "A journey through markets, assets, and the art of wealth accumulation."
                                                         : activeTab === "kubernetes"
                                                             ? "Mastering the art of container orchestration. Scalable, resilient, and automated infrastructure."
-                                                            : activeTab === "programming"
-                                                                ? "Explorations in programming, TypeScript, and the craft of writing clean, maintainable code."
-                                                                : "Deep dives into development practices, toolsets, and the creative process of building software."
+                                                            : activeTab === "security"
+                                                                ? "Exploring cybersecurity, penetration testing, and the principles of building secure systems."
+                                                                : activeTab === "korea"
+                                                                    ? "A collection of sketches, journals, and moments from a journey through South Korea."
+                                                                    : "Explorations in programming, TypeScript, and the craft of writing clean, maintainable code."
                                     }
                                 />
                             ) : (

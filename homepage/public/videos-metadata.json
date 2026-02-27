@@ -114,7 +114,7 @@
     {
       "id": "rxQvDuohbt8",
       "title": "Jeju: Un Recuerdo en Tonos Pastel",
-      "views": 12,
+      "views": 13,
       "date": "2026-02-08T21:26:47Z",
       "tags": []
     },
@@ -128,7 +128,7 @@
     {
       "id": "9z6mOWQgU84",
       "title": "Navigating the Al Capital Cycle: 2026 & Beyond",
-      "views": 71,
+      "views": 80,
       "date": "2026-02-17T14:46:13Z",
       "tags": []
     },
@@ -215,7 +215,7 @@
     {
       "id": "3hSdKvqPcSE",
       "title": "Architecting AKS Node Auto-Provisioning",
-      "views": 3,
+      "views": 13,
       "date": "2026-02-25T23:24:20Z",
       "tags": [
         "aks",
@@ -227,7 +227,7 @@
     {
       "id": "y3WwL48DLYw",
       "title": "Kubernetes Auto-Scaling Strategies",
-      "views": 19,
+      "views": 26,
       "date": "2026-02-24T05:06:42Z",
       "tags": [
         "hpa",
@@ -239,7 +239,7 @@
     {
       "id": "ORjARjbukhY",
       "title": "The Golden Path",
-      "views": 20,
+      "views": 22,
       "date": "2026-02-21T10:33:08Z",
       "tags": [
         "golden",
@@ -250,7 +250,7 @@
     {
       "id": "rk_3xU9OF-k",
       "title": "The Modern Platform Framework",
-      "views": 25,
+      "views": 27,
       "date": "2026-02-19T22:59:21Z",
       "tags": [
         "k8s",
@@ -261,7 +261,7 @@
     {
       "id": "mYClRFIlsFc",
       "title": "ScyllaDB: The Next-Generation NoSQL Platform",
-      "views": 7,
+      "views": 8,
       "date": "2026-02-19T13:31:03Z",
       "tags": [
         "nosql",
@@ -271,7 +271,7 @@
     {
       "id": "7eoxSgjwYlM",
       "title": "Bridging Helm and CUE for Deterministic Value Composition",
-      "views": 15,
+      "views": 17,
       "date": "2026-02-19T13:24:37Z",
       "tags": [
         "cue",
@@ -283,7 +283,7 @@
     {
       "id": "5Ztm7JNVa8E",
       "title": "Drasi: The Future of Change-Driven Architecture",
-      "views": 26,
+      "views": 28,
       "date": "2026-02-17T21:28:39Z",
       "tags": [
         "change-driven",
@@ -294,7 +294,7 @@
     {
       "id": "P_xUJi_qt-Q",
       "title": "Advanced Architectural Synthesis",
-      "views": 24,
+      "views": 26,
       "date": "2026-02-15T15:41:25Z",
       "tags": [
         "distributed systems.",
@@ -373,7 +373,7 @@
     {
       "id": "WHonjixQgBY",
       "title": "The 2026 Architectural Standard",
-      "views": 52,
+      "views": 53,
       "date": "2026-01-31T16:07:10Z",
       "tags": [
         "kubernetes",
@@ -577,9 +577,58 @@
       ]
     },
     {
+      "id": "WMcKFQ200OE",
+      "title": "Flutter & Dart: The 2026 Roadmap",
+      "views": 11,
+      "date": "2026-02-27T13:24:25Z",
+      "tags": [
+        "flutter",
+        "wasm",
+        "2026",
+        "genai",
+        "desktop"
+      ]
+    },
+    {
+      "id": "Wa0EHhhKV8Q",
+      "title": "Architecting Action: 10 NotebookLM Prompts",
+      "views": 6,
+      "date": "2026-02-27T12:49:18Z",
+      "tags": [
+        "notebooklm",
+        "prompts",
+        "synthesizers",
+        "auditors",
+        "architects"
+      ]
+    },
+    {
+      "id": "jzjGcFkAnfs",
+      "title": "React Native vs. Flutter for Enterprise Apps",
+      "views": 10,
+      "date": "2026-02-26T23:12:29Z",
+      "tags": [
+        "flutter",
+        "greenfield",
+        "mobile-first"
+      ]
+    },
+    {
+      "id": "WdK7PED1ug8",
+      "title": "A Guide to Rust Smart Pointers",
+      "views": 21,
+      "date": "2026-02-26T09:38:48Z",
+      "tags": [
+        "rust",
+        "ownership",
+        "concurrency",
+        "optimization"
+      ]
+    },
+    {
       "id": "HiaotGxHTfo",
       "title": "PictureViewer",
-      "views": 8,
+      "views": 12,
       "date": "2026-02-25T13:09:13Z",
       "tags": [
         "swift",
@@ -590,7 +639,7 @@
     {
       "id": "DazzkNtnzec",
       "title": "Design Patterns in Go",
-      "views": 13,
+      "views": 72,
       "date": "2026-02-24T23:48:12Z",
       "tags": [
         "go",
@@ -601,7 +650,7 @@
     {
       "id": "ARWkoc3E8uE",
       "title": "Composition by Design",
-      "views": 18,
+      "views": 24,
       "date": "2026-02-23T23:33:01Z",
       "tags": [
         "gof",
@@ -614,7 +663,7 @@
     {
       "id": "Th5MMOFQbh8",
       "title": "Backend Patterns in Rust",
-      "views": 22,
+      "views": 25,
       "date": "2026-02-23T03:44:24Z",
       "tags": [
         "type safety",
@@ -627,7 +676,7 @@
     {
       "id": "SpNfrWmI8iE",
       "title": "Architecting Scalable Rust Backends",
-      "views": 35,
+      "views": 37,
       "date": "2026-02-22T10:43:18Z",
       "tags": [
         "facade",
@@ -640,7 +689,7 @@
     {
       "id": "H-gkXATx8r0",
       "title": "Cryptographic Usability & The Tink Library",
-      "views": 15,
+      "views": 16,
       "date": "2026-02-21T15:59:41Z",
       "tags": [
         "crypto",
@@ -652,7 +701,7 @@
     {
       "id": "3ybGkjogcFQ",
       "title": "Modern State Architecture: The Repository Pattern",
-      "views": 12,
+      "views": 15,
       "date": "2026-02-20T12:47:49Z",
       "tags": [
         "signals",
@@ -663,7 +712,7 @@
     {
       "id": "QBUQvfZJpaM",
       "title": "Modern Cryptography Standards: A Guide to AEAD",
-      "views": 13,
+      "views": 14,
       "date": "2026-02-18T23:24:48Z",
       "tags": [
         "aes-256-gcm",
@@ -699,7 +748,7 @@
     {
       "id": "kQc99Io3pCo",
       "title": "HelixDB: The Unified Graph-Vector Database",
-      "views": 28,
+      "views": 31,
       "date": "2026-02-14T22:47:13Z",
       "tags": [
         "rust",
@@ -707,20 +756,9 @@
       ]
     },
     {
-      "id": "JfGgWiiCTA0",
-      "title": "Shannon: Autonomous Penetration Testing",
-      "views": 19,
-      "date": "2026-02-14T10:04:10Z",
-      "tags": [
-        "agent",
-        "exploits",
-        "white-box"
-      ]
-    },
-    {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 371,
+      "views": 378,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -732,7 +770,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 718,
+      "views": 723,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -743,7 +781,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 86,
+      "views": 93,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -754,7 +792,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 152,
+      "views": 159,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -765,7 +803,7 @@
     {
       "id": "cEwAbu6FFRo",
       "title": "Compound Engineering",
-      "views": 90,
+      "views": 95,
       "date": "2026-02-11T13:08:01Z",
       "tags": [
         "every.to",
@@ -776,7 +814,7 @@
     {
       "id": "IZX3_9rZeMU",
       "title": "The Hybrid TUI Architecture",
-      "views": 477,
+      "views": 512,
       "date": "2026-02-10T10:11:11Z",
       "tags": [
         "opentui",
@@ -798,7 +836,7 @@
     {
       "id": "qxOOl1hx1zU",
       "title": "The Future of Al Programming:  2031 Strategic Outlook",
-      "views": 101,
+      "views": 102,
       "date": "2026-02-09T13:26:58Z",
       "tags": [
         "ai",
@@ -846,7 +884,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 30,
+      "views": 34,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -920,7 +958,7 @@
     {
       "id": "V2LbQqD1lMM",
       "title": "Ralph: The Autonomous Vibe Coding Workflow",
-      "views": 27,
+      "views": 29,
       "date": "2026-01-31T16:33:53Z",
       "tags": [
         "ai",
@@ -932,7 +970,7 @@
     {
       "id": "h31-NtagNoU",
       "title": "Memory Layout in Zig",
-      "views": 55,
+      "views": 56,
       "date": "2026-01-30T01:32:57Z",
       "tags": [
         "zig",
@@ -988,7 +1026,7 @@
     {
       "id": "43UjmZtW2JU",
       "title": "Mastering Memory in Rust",
-      "views": 47,
+      "views": 48,
       "date": "2026-01-27T11:21:20Z",
       "tags": [
         "rust",
@@ -1299,7 +1337,7 @@
     {
       "id": "7zFqW-ZcEbo",
       "title": "The Rust Architect's Sketchbook",
-      "views": 85,
+      "views": 86,
       "date": "2026-01-09T00:15:35Z",
       "tags": [
         "rust",
@@ -1386,7 +1424,7 @@
     {
       "id": "olsB3bJxA2A",
       "title": "Let's check about Zig",
-      "views": 333,
+      "views": 335,
       "date": "2025-12-28T09:28:00Z",
       "tags": [
         "zig"
@@ -1422,6 +1460,17 @@
         "git",
         "trunk based",
         "ado"
+      ]
+    },
+    {
+      "id": "JfGgWiiCTA0",
+      "title": "Shannon: Autonomous Penetration Testing",
+      "views": 22,
+      "date": "2026-02-14T10:04:10Z",
+      "tags": [
+        "agent",
+        "exploits",
+        "white-box"
       ]
     },
     {
@@ -1493,6 +1542,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-02-26T00:29:07.563Z",
-  "count": 140
+  "generatedAt": "2026-02-27T22:11:03.622Z",
+  "count": 144
 }

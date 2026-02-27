@@ -57,6 +57,7 @@ const PLAYLISTS: PlaylistConfig[] = [
   { id: 'PLOZ1_i7WA_ECACxs7BkfGh_ZxTSwQ_s7y', name: 'finance' },
   { id: 'PLOZ1_i7WA_EAeKcYgHWr9MjHlK8JCDJKr', name: 'kubernetes' },
   { id: 'PLOZ1_i7WA_EC7ePuZp2f1TPtjdyIdKwtc', name: 'development' },
+  { id: 'PLOZ1_i7WA_EC5yyJi_oSJ44bA2Ek7JcD0', name: 'security' },
   { id: 'PLOZ1_i7WA_EDVKibanO4XgyJJxa1ryWbE', name: 'programming' }
 ]
 
@@ -267,6 +268,9 @@ export const VIDEO_CONFIG = {
   development: [
     ${playlistData.development.map((id) => `'${id}'`).join(',\n    ')}
   ],
+  security: [
+    ${playlistData.security.map((id) => `'${id}'`).join(',\n    ')}
+  ],
   programming: [
     ${playlistData.programming.map((id) => `'${id}'`).join(',\n    ')}
   ]
@@ -277,6 +281,7 @@ export const allVideoIds = [
   ...VIDEO_CONFIG.finance,
   ...VIDEO_CONFIG.kubernetes,
   ...VIDEO_CONFIG.development,
+  ...VIDEO_CONFIG.security,
   ...VIDEO_CONFIG.programming
 ]
 
