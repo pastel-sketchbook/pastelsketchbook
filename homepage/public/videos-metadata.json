@@ -152,7 +152,7 @@
     {
       "id": "9z6mOWQgU84",
       "title": "Navigating the Al Capital Cycle: 2026 & Beyond",
-      "views": 80,
+      "views": 78,
       "date": "2026-02-17T14:46:13Z",
       "tags": []
     },
@@ -263,7 +263,7 @@
     {
       "id": "ORjARjbukhY",
       "title": "The Golden Path",
-      "views": 22,
+      "views": 23,
       "date": "2026-02-21T10:33:08Z",
       "tags": [
         "golden",
@@ -307,7 +307,7 @@
     {
       "id": "5Ztm7JNVa8E",
       "title": "Drasi: The Future of Change-Driven Architecture",
-      "views": 28,
+      "views": 27,
       "date": "2026-02-17T21:28:39Z",
       "tags": [
         "change-driven",
@@ -601,9 +601,21 @@
       ]
     },
     {
+      "id": "JeqaHMmSh1s",
+      "title": "The Complete Guide to Building Skills for Claude",
+      "views": 2,
+      "date": "2026-02-28T05:29:43Z",
+      "tags": [
+        "ai",
+        "llm",
+        "claude",
+        "skills"
+      ]
+    },
+    {
       "id": "WMcKFQ200OE",
       "title": "Flutter & Dart: The 2026 Roadmap",
-      "views": 11,
+      "views": 13,
       "date": "2026-02-27T13:24:25Z",
       "tags": [
         "flutter",
@@ -616,7 +628,7 @@
     {
       "id": "Wa0EHhhKV8Q",
       "title": "Architecting Action: 10 NotebookLM Prompts",
-      "views": 6,
+      "views": 7,
       "date": "2026-02-27T12:49:18Z",
       "tags": [
         "notebooklm",
@@ -640,7 +652,7 @@
     {
       "id": "WdK7PED1ug8",
       "title": "A Guide to Rust Smart Pointers",
-      "views": 22,
+      "views": 24,
       "date": "2026-02-26T09:38:48Z",
       "tags": [
         "rust",
@@ -663,7 +675,7 @@
     {
       "id": "DazzkNtnzec",
       "title": "Design Patterns in Go",
-      "views": 72,
+      "views": 82,
       "date": "2026-02-24T23:48:12Z",
       "tags": [
         "go",
@@ -674,7 +686,7 @@
     {
       "id": "ARWkoc3E8uE",
       "title": "Composition by Design",
-      "views": 25,
+      "views": 27,
       "date": "2026-02-23T23:33:01Z",
       "tags": [
         "gof",
@@ -725,7 +737,7 @@
     {
       "id": "3ybGkjogcFQ",
       "title": "Modern State Architecture: The Repository Pattern",
-      "views": 14,
+      "views": 15,
       "date": "2026-02-20T12:47:49Z",
       "tags": [
         "signals",
@@ -782,7 +794,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 378,
+      "views": 384,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -794,7 +806,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 723,
+      "views": 724,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -805,7 +817,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 92,
+      "views": 93,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -816,7 +828,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 158,
+      "views": 159,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -838,7 +850,7 @@
     {
       "id": "IZX3_9rZeMU",
       "title": "The Hybrid TUI Architecture",
-      "views": 517,
+      "views": 523,
       "date": "2026-02-10T10:11:11Z",
       "tags": [
         "opentui",
@@ -1489,7 +1501,7 @@
     {
       "id": "1MPD6MILLcQ",
       "title": "2025 Global Threat Report",
-      "views": 4,
+      "views": 7,
       "date": "2026-02-27T22:44:25Z",
       "tags": [
         "2025",
@@ -1579,6 +1591,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-02-27T22:53:10.915Z",
-  "count": 145
+  "generatedAt": "2026-02-28T05:34:46.879Z",
+  "count": 146
 }
