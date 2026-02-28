@@ -152,7 +152,7 @@
     {
       "id": "9z6mOWQgU84",
       "title": "Navigating the Al Capital Cycle: 2026 & Beyond",
-      "views": 78,
+      "views": 79,
       "date": "2026-02-17T14:46:13Z",
       "tags": []
     },
@@ -239,7 +239,7 @@
     {
       "id": "3hSdKvqPcSE",
       "title": "Architecting AKS Node Auto-Provisioning",
-      "views": 13,
+      "views": 14,
       "date": "2026-02-25T23:24:20Z",
       "tags": [
         "aks",
@@ -418,7 +418,7 @@
     {
       "id": "4b-H6ZaoNUE",
       "title": "Zero Trust in Kubernetes",
-      "views": 37,
+      "views": 38,
       "date": "2026-01-17T18:21:53Z",
       "tags": [
         "kubernetes",
@@ -601,9 +601,22 @@
       ]
     },
     {
+      "id": "AcpVuvtSXwI",
+      "title": "microgpt-zig: Atomic Al Training",
+      "views": 2,
+      "date": "2026-02-28T14:09:19Z",
+      "tags": [
+        "zig",
+        "microgpt",
+        "automics",
+        "training",
+        "gpt"
+      ]
+    },
+    {
       "id": "JeqaHMmSh1s",
       "title": "The Complete Guide to Building Skills for Claude",
-      "views": 2,
+      "views": 4,
       "date": "2026-02-28T05:29:43Z",
       "tags": [
         "ai",
@@ -615,7 +628,7 @@
     {
       "id": "WMcKFQ200OE",
       "title": "Flutter & Dart: The 2026 Roadmap",
-      "views": 13,
+      "views": 14,
       "date": "2026-02-27T13:24:25Z",
       "tags": [
         "flutter",
@@ -628,7 +641,7 @@
     {
       "id": "Wa0EHhhKV8Q",
       "title": "Architecting Action: 10 NotebookLM Prompts",
-      "views": 7,
+      "views": 12,
       "date": "2026-02-27T12:49:18Z",
       "tags": [
         "notebooklm",
@@ -641,7 +654,7 @@
     {
       "id": "jzjGcFkAnfs",
       "title": "React Native vs. Flutter for Enterprise Apps",
-      "views": 10,
+      "views": 13,
       "date": "2026-02-26T23:12:29Z",
       "tags": [
         "flutter",
@@ -686,7 +699,7 @@
     {
       "id": "ARWkoc3E8uE",
       "title": "Composition by Design",
-      "views": 27,
+      "views": 28,
       "date": "2026-02-23T23:33:01Z",
       "tags": [
         "gof",
@@ -725,7 +738,7 @@
     {
       "id": "H-gkXATx8r0",
       "title": "Cryptographic Usability & The Tink Library",
-      "views": 16,
+      "views": 17,
       "date": "2026-02-21T15:59:41Z",
       "tags": [
         "crypto",
@@ -748,7 +761,7 @@
     {
       "id": "QBUQvfZJpaM",
       "title": "Modern Cryptography Standards: A Guide to AEAD",
-      "views": 14,
+      "views": 15,
       "date": "2026-02-18T23:24:48Z",
       "tags": [
         "aes-256-gcm",
@@ -772,7 +785,7 @@
     {
       "id": "5-ZNXQegVhs",
       "title": "The Strategic Synthesis:Shift Left & Shift Right",
-      "views": 16,
+      "views": 18,
       "date": "2026-02-16T20:52:30Z",
       "tags": [
         "shift left",
@@ -794,7 +807,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 384,
+      "views": 388,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -828,7 +841,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 159,
+      "views": 161,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -850,7 +863,7 @@
     {
       "id": "IZX3_9rZeMU",
       "title": "The Hybrid TUI Architecture",
-      "views": 523,
+      "views": 526,
       "date": "2026-02-10T10:11:11Z",
       "tags": [
         "opentui",
@@ -920,7 +933,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 34,
+      "views": 35,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -994,7 +1007,7 @@
     {
       "id": "V2LbQqD1lMM",
       "title": "Ralph: The Autonomous Vibe Coding Workflow",
-      "views": 29,
+      "views": 30,
       "date": "2026-01-31T16:33:53Z",
       "tags": [
         "ai",
@@ -1499,9 +1512,22 @@
       ]
     },
     {
+      "id": "Oa3jaLNSZvM",
+      "title": "The Orchestrator's Blueprint",
+      "views": 3,
+      "date": "2026-02-28T16:18:04Z",
+      "tags": [
+        "swivel chair",
+        "soar",
+        "siem",
+        "xdr",
+        "security"
+      ]
+    },
+    {
       "id": "1MPD6MILLcQ",
       "title": "2025 Global Threat Report",
-      "views": 7,
+      "views": 10,
       "date": "2026-02-27T22:44:25Z",
       "tags": [
         "2025",
@@ -1591,6 +1617,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-02-28T05:34:46.879Z",
-  "count": 146
+  "generatedAt": "2026-02-28T16:54:45.626Z",
+  "count": 148
 }
