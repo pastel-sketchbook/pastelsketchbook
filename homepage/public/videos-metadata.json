@@ -239,7 +239,7 @@
     {
       "id": "3hSdKvqPcSE",
       "title": "Architecting AKS Node Auto-Provisioning",
-      "views": 14,
+      "views": 17,
       "date": "2026-02-25T23:24:20Z",
       "tags": [
         "aks",
@@ -295,7 +295,7 @@
     {
       "id": "7eoxSgjwYlM",
       "title": "Bridging Helm and CUE for Deterministic Value Composition",
-      "views": 17,
+      "views": 18,
       "date": "2026-02-19T13:24:37Z",
       "tags": [
         "cue",
@@ -397,7 +397,7 @@
     {
       "id": "WHonjixQgBY",
       "title": "The 2026 Architectural Standard",
-      "views": 53,
+      "views": 54,
       "date": "2026-01-31T16:07:10Z",
       "tags": [
         "kubernetes",
@@ -601,9 +601,33 @@
       ]
     },
     {
+      "id": "WahgsFhj3W0",
+      "title": "melos-rs: Architectural Anatomy",
+      "views": 4,
+      "date": "2026-03-01T15:00:36Z",
+      "tags": [
+        "rust",
+        "melos-rs",
+        "gof",
+        "design patterns"
+      ]
+    },
+    {
+      "id": "uqZ-mwxGf2c",
+      "title": "Modern Observability in Go",
+      "views": 3,
+      "date": "2026-03-01T14:36:52Z",
+      "tags": [
+        "go",
+        "echo",
+        "lgtm",
+        "observability"
+      ]
+    },
+    {
       "id": "AcpVuvtSXwI",
       "title": "microgpt-zig: Atomic Al Training",
-      "views": 2,
+      "views": 12,
       "date": "2026-02-28T14:09:19Z",
       "tags": [
         "zig",
@@ -616,7 +640,7 @@
     {
       "id": "JeqaHMmSh1s",
       "title": "The Complete Guide to Building Skills for Claude",
-      "views": 4,
+      "views": 8,
       "date": "2026-02-28T05:29:43Z",
       "tags": [
         "ai",
@@ -628,7 +652,7 @@
     {
       "id": "WMcKFQ200OE",
       "title": "Flutter & Dart: The 2026 Roadmap",
-      "views": 14,
+      "views": 28,
       "date": "2026-02-27T13:24:25Z",
       "tags": [
         "flutter",
@@ -641,7 +665,7 @@
     {
       "id": "Wa0EHhhKV8Q",
       "title": "Architecting Action: 10 NotebookLM Prompts",
-      "views": 12,
+      "views": 17,
       "date": "2026-02-27T12:49:18Z",
       "tags": [
         "notebooklm",
@@ -654,7 +678,7 @@
     {
       "id": "jzjGcFkAnfs",
       "title": "React Native vs. Flutter for Enterprise Apps",
-      "views": 13,
+      "views": 15,
       "date": "2026-02-26T23:12:29Z",
       "tags": [
         "flutter",
@@ -665,7 +689,7 @@
     {
       "id": "WdK7PED1ug8",
       "title": "A Guide to Rust Smart Pointers",
-      "views": 24,
+      "views": 26,
       "date": "2026-02-26T09:38:48Z",
       "tags": [
         "rust",
@@ -688,7 +712,7 @@
     {
       "id": "DazzkNtnzec",
       "title": "Design Patterns in Go",
-      "views": 82,
+      "views": 85,
       "date": "2026-02-24T23:48:12Z",
       "tags": [
         "go",
@@ -712,7 +736,7 @@
     {
       "id": "Th5MMOFQbh8",
       "title": "Backend Patterns in Rust",
-      "views": 25,
+      "views": 26,
       "date": "2026-02-23T03:44:24Z",
       "tags": [
         "type safety",
@@ -725,7 +749,7 @@
     {
       "id": "SpNfrWmI8iE",
       "title": "Architecting Scalable Rust Backends",
-      "views": 37,
+      "views": 39,
       "date": "2026-02-22T10:43:18Z",
       "tags": [
         "facade",
@@ -738,7 +762,7 @@
     {
       "id": "H-gkXATx8r0",
       "title": "Cryptographic Usability & The Tink Library",
-      "views": 17,
+      "views": 18,
       "date": "2026-02-21T15:59:41Z",
       "tags": [
         "crypto",
@@ -761,7 +785,7 @@
     {
       "id": "QBUQvfZJpaM",
       "title": "Modern Cryptography Standards: A Guide to AEAD",
-      "views": 15,
+      "views": 16,
       "date": "2026-02-18T23:24:48Z",
       "tags": [
         "aes-256-gcm",
@@ -797,7 +821,7 @@
     {
       "id": "kQc99Io3pCo",
       "title": "HelixDB: The Unified Graph-Vector Database",
-      "views": 31,
+      "views": 32,
       "date": "2026-02-14T22:47:13Z",
       "tags": [
         "rust",
@@ -807,7 +831,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 388,
+      "views": 415,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -819,7 +843,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 724,
+      "views": 727,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -830,7 +854,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 93,
+      "views": 96,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -841,7 +865,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 161,
+      "views": 163,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -863,7 +887,7 @@
     {
       "id": "IZX3_9rZeMU",
       "title": "The Hybrid TUI Architecture",
-      "views": 526,
+      "views": 532,
       "date": "2026-02-10T10:11:11Z",
       "tags": [
         "opentui",
@@ -898,7 +922,7 @@
     {
       "id": "0Sed1oggMKY",
       "title": "Tokio: The Asynchronous Runtime for Rust",
-      "views": 85,
+      "views": 87,
       "date": "2026-02-08T20:27:32Z",
       "tags": [
         "tokio",
@@ -910,7 +934,7 @@
     {
       "id": "A96r5gqwUrI",
       "title": "Zig Algorithms: The Art of Zero-Cost Abstraction",
-      "views": 19,
+      "views": 22,
       "date": "2026-02-06T13:03:31Z",
       "tags": [
         "zig",
@@ -933,7 +957,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 35,
+      "views": 40,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -957,7 +981,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 294,
+      "views": 295,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -1514,7 +1538,7 @@
     {
       "id": "Oa3jaLNSZvM",
       "title": "The Orchestrator's Blueprint",
-      "views": 3,
+      "views": 14,
       "date": "2026-02-28T16:18:04Z",
       "tags": [
         "swivel chair",
@@ -1527,7 +1551,7 @@
     {
       "id": "1MPD6MILLcQ",
       "title": "2025 Global Threat Report",
-      "views": 10,
+      "views": 11,
       "date": "2026-02-27T22:44:25Z",
       "tags": [
         "2025",
@@ -1617,6 +1641,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-02-28T16:54:45.626Z",
-  "count": 148
+  "generatedAt": "2026-03-01T15:16:33.457Z",
+  "count": 150
 }
