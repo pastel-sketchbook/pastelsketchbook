@@ -152,14 +152,14 @@
     {
       "id": "9z6mOWQgU84",
       "title": "Navigating the Al Capital Cycle: 2026 & Beyond",
-      "views": 79,
+      "views": 80,
       "date": "2026-02-17T14:46:13Z",
       "tags": []
     },
     {
       "id": "bn-Nvmxgur8",
       "title": "The 2026 Barbell Strategy",
-      "views": 8,
+      "views": 9,
       "date": "2026-02-17T14:24:35Z",
       "tags": []
     },
@@ -237,9 +237,20 @@
       ]
     },
     {
+      "id": "Pxh2PcNx9W8",
+      "title": "Modern Docker Networking & Traefik",
+      "views": 14,
+      "date": "2026-03-03T23:15:03Z",
+      "tags": [
+        "docker",
+        "traefik",
+        "networking"
+      ]
+    },
+    {
       "id": "3hSdKvqPcSE",
       "title": "Architecting AKS Node Auto-Provisioning",
-      "views": 17,
+      "views": 23,
       "date": "2026-02-25T23:24:20Z",
       "tags": [
         "aks",
@@ -251,7 +262,7 @@
     {
       "id": "y3WwL48DLYw",
       "title": "Kubernetes Auto-Scaling Strategies",
-      "views": 26,
+      "views": 28,
       "date": "2026-02-24T05:06:42Z",
       "tags": [
         "hpa",
@@ -285,7 +296,7 @@
     {
       "id": "mYClRFIlsFc",
       "title": "ScyllaDB: The Next-Generation NoSQL Platform",
-      "views": 8,
+      "views": 9,
       "date": "2026-02-19T13:31:03Z",
       "tags": [
         "nosql",
@@ -307,7 +318,7 @@
     {
       "id": "5Ztm7JNVa8E",
       "title": "Drasi: The Future of Change-Driven Architecture",
-      "views": 27,
+      "views": 28,
       "date": "2026-02-17T21:28:39Z",
       "tags": [
         "change-driven",
@@ -363,7 +374,7 @@
     {
       "id": "rgY4KTMFOMs",
       "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-      "views": 23,
+      "views": 25,
       "date": "2026-02-05T14:29:16Z",
       "tags": [
         "aks",
@@ -374,7 +385,7 @@
     {
       "id": "BsiQrEaF3kU",
       "title": "MotherDuck: Serverless DuckDB in the Cloud & Client",
-      "views": 25,
+      "views": 26,
       "date": "2026-02-04T11:42:09Z",
       "tags": [
         "duckdb",
@@ -493,7 +504,7 @@
     {
       "id": "ctKLD4d146g",
       "title": "The Codebase Lifecycle",
-      "views": 14,
+      "views": 15,
       "date": "2026-01-13T10:57:14Z",
       "tags": [
         "codebase",
@@ -601,9 +612,70 @@
       ]
     },
     {
+      "id": "IkVazryUiko",
+      "title": "Fuzzy Find Everything",
+      "views": 9,
+      "date": "2026-03-04T22:43:54Z",
+      "tags": [
+        "fzf",
+        "bat",
+        "eza",
+        "cli",
+        "ripgrep"
+      ]
+    },
+    {
+      "id": "xVdW3yUCbuU",
+      "title": "codeprobe",
+      "views": 19,
+      "date": "2026-03-04T14:12:28Z",
+      "tags": [
+        "rust",
+        "cli",
+        "codeprobe",
+        "copilot",
+        "map-reduce"
+      ]
+    },
+    {
+      "id": "gVZwfZVAuVE",
+      "title": "Deconstructing Elixir's 400x Type System Acceleration",
+      "views": 19,
+      "date": "2026-03-04T13:43:17Z",
+      "tags": [
+        "elixir",
+        "optimization",
+        "lazy bdd",
+        "v1.20"
+      ]
+    },
+    {
+      "id": "00kCzR10M1w",
+      "title": "The Road to SolidJS 2.0",
+      "views": 48,
+      "date": "2026-03-04T00:40:36Z",
+      "tags": [
+        "solidjs",
+        "producer",
+        "maturation"
+      ]
+    },
+    {
+      "id": "Hfut9CfJhN0",
+      "title": "Bubble Tea v2",
+      "views": 18,
+      "date": "2026-03-02T12:02:38Z",
+      "tags": [
+        "go",
+        "tui",
+        "declarative",
+        "colorprofile"
+      ]
+    },
+    {
       "id": "WahgsFhj3W0",
       "title": "melos-rs: Architectural Anatomy",
-      "views": 4,
+      "views": 15,
       "date": "2026-03-01T15:00:36Z",
       "tags": [
         "rust",
@@ -615,7 +687,7 @@
     {
       "id": "uqZ-mwxGf2c",
       "title": "Modern Observability in Go",
-      "views": 3,
+      "views": 84,
       "date": "2026-03-01T14:36:52Z",
       "tags": [
         "go",
@@ -627,7 +699,7 @@
     {
       "id": "AcpVuvtSXwI",
       "title": "microgpt-zig: Atomic Al Training",
-      "views": 12,
+      "views": 23,
       "date": "2026-02-28T14:09:19Z",
       "tags": [
         "zig",
@@ -640,7 +712,7 @@
     {
       "id": "JeqaHMmSh1s",
       "title": "The Complete Guide to Building Skills for Claude",
-      "views": 8,
+      "views": 531,
       "date": "2026-02-28T05:29:43Z",
       "tags": [
         "ai",
@@ -652,7 +724,7 @@
     {
       "id": "WMcKFQ200OE",
       "title": "Flutter & Dart: The 2026 Roadmap",
-      "views": 28,
+      "views": 46,
       "date": "2026-02-27T13:24:25Z",
       "tags": [
         "flutter",
@@ -665,7 +737,7 @@
     {
       "id": "Wa0EHhhKV8Q",
       "title": "Architecting Action: 10 NotebookLM Prompts",
-      "views": 17,
+      "views": 62,
       "date": "2026-02-27T12:49:18Z",
       "tags": [
         "notebooklm",
@@ -678,7 +750,7 @@
     {
       "id": "jzjGcFkAnfs",
       "title": "React Native vs. Flutter for Enterprise Apps",
-      "views": 15,
+      "views": 19,
       "date": "2026-02-26T23:12:29Z",
       "tags": [
         "flutter",
@@ -689,7 +761,7 @@
     {
       "id": "WdK7PED1ug8",
       "title": "A Guide to Rust Smart Pointers",
-      "views": 26,
+      "views": 31,
       "date": "2026-02-26T09:38:48Z",
       "tags": [
         "rust",
@@ -712,7 +784,7 @@
     {
       "id": "DazzkNtnzec",
       "title": "Design Patterns in Go",
-      "views": 85,
+      "views": 89,
       "date": "2026-02-24T23:48:12Z",
       "tags": [
         "go",
@@ -736,7 +808,7 @@
     {
       "id": "Th5MMOFQbh8",
       "title": "Backend Patterns in Rust",
-      "views": 26,
+      "views": 33,
       "date": "2026-02-23T03:44:24Z",
       "tags": [
         "type safety",
@@ -749,7 +821,7 @@
     {
       "id": "SpNfrWmI8iE",
       "title": "Architecting Scalable Rust Backends",
-      "views": 39,
+      "views": 40,
       "date": "2026-02-22T10:43:18Z",
       "tags": [
         "facade",
@@ -762,7 +834,7 @@
     {
       "id": "H-gkXATx8r0",
       "title": "Cryptographic Usability & The Tink Library",
-      "views": 18,
+      "views": 19,
       "date": "2026-02-21T15:59:41Z",
       "tags": [
         "crypto",
@@ -774,7 +846,7 @@
     {
       "id": "3ybGkjogcFQ",
       "title": "Modern State Architecture: The Repository Pattern",
-      "views": 15,
+      "views": 17,
       "date": "2026-02-20T12:47:49Z",
       "tags": [
         "signals",
@@ -809,7 +881,7 @@
     {
       "id": "5-ZNXQegVhs",
       "title": "The Strategic Synthesis:Shift Left & Shift Right",
-      "views": 18,
+      "views": 19,
       "date": "2026-02-16T20:52:30Z",
       "tags": [
         "shift left",
@@ -821,7 +893,7 @@
     {
       "id": "kQc99Io3pCo",
       "title": "HelixDB: The Unified Graph-Vector Database",
-      "views": 32,
+      "views": 36,
       "date": "2026-02-14T22:47:13Z",
       "tags": [
         "rust",
@@ -831,7 +903,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 415,
+      "views": 459,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -843,7 +915,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 727,
+      "views": 732,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -854,7 +926,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 96,
+      "views": 117,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -865,7 +937,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 163,
+      "views": 166,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -876,7 +948,7 @@
     {
       "id": "cEwAbu6FFRo",
       "title": "Compound Engineering",
-      "views": 95,
+      "views": 101,
       "date": "2026-02-11T13:08:01Z",
       "tags": [
         "every.to",
@@ -887,7 +959,7 @@
     {
       "id": "IZX3_9rZeMU",
       "title": "The Hybrid TUI Architecture",
-      "views": 532,
+      "views": 531,
       "date": "2026-02-10T10:11:11Z",
       "tags": [
         "opentui",
@@ -899,7 +971,7 @@
     {
       "id": "KDnTY0Svmr0",
       "title": "AEM + Meilisearch: A High-Performance Integration",
-      "views": 12,
+      "views": 13,
       "date": "2026-02-10T07:27:32Z",
       "tags": [
         "melisearch",
@@ -922,7 +994,7 @@
     {
       "id": "0Sed1oggMKY",
       "title": "Tokio: The Asynchronous Runtime for Rust",
-      "views": 87,
+      "views": 85,
       "date": "2026-02-08T20:27:32Z",
       "tags": [
         "tokio",
@@ -957,7 +1029,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 40,
+      "views": 52,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -981,7 +1053,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 295,
+      "views": 299,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -1019,7 +1091,7 @@
     {
       "id": "TDWC1fFhn9g",
       "title": "A DeepDive into SIMD & Zig",
-      "views": 70,
+      "views": 71,
       "date": "2026-01-31T19:35:42Z",
       "tags": [
         "zig",
@@ -1031,7 +1103,7 @@
     {
       "id": "V2LbQqD1lMM",
       "title": "Ralph: The Autonomous Vibe Coding Workflow",
-      "views": 30,
+      "views": 32,
       "date": "2026-01-31T16:33:53Z",
       "tags": [
         "ai",
@@ -1043,7 +1115,7 @@
     {
       "id": "h31-NtagNoU",
       "title": "Memory Layout in Zig",
-      "views": 56,
+      "views": 57,
       "date": "2026-01-30T01:32:57Z",
       "tags": [
         "zig",
@@ -1054,7 +1126,7 @@
     {
       "id": "o9yaniXkM-0",
       "title": "Practical Data Oriented Design in Zig",
-      "views": 29,
+      "views": 30,
       "date": "2026-01-30T01:28:52Z",
       "tags": [
         "dod",
@@ -1065,7 +1137,7 @@
     {
       "id": "RDa6WtZmW8E",
       "title": "Mastering Serde in Rust ",
-      "views": 38,
+      "views": 39,
       "date": "2026-01-29T05:20:28Z",
       "tags": [
         "serde",
@@ -1088,7 +1160,7 @@
     {
       "id": "Ul0ixBpd5iM",
       "title": "Velox: Bring Tauri to Swift",
-      "views": 42,
+      "views": 43,
       "date": "2026-01-27T23:10:59Z",
       "tags": [
         "swift",
@@ -1113,7 +1185,7 @@
     {
       "id": "US7oyxbcJCc",
       "title": "Cloth Simulation: A Performance Study",
-      "views": 11,
+      "views": 12,
       "date": "2026-01-26T04:41:26Z",
       "tags": [
         "zig",
@@ -1243,7 +1315,7 @@
     {
       "id": "5KB2zLGjaps",
       "title": "Conventional Commits",
-      "views": 11,
+      "views": 13,
       "date": "2026-01-19T10:21:27Z",
       "tags": [
         "git",
@@ -1536,22 +1608,35 @@
       ]
     },
     {
+      "id": "uhXcsWYhdkA",
+      "title": "The Strategic Roadmap for Data Classification",
+      "views": 11,
+      "date": "2026-03-02T23:46:29Z",
+      "tags": [
+        "nist",
+        "data",
+        "classification",
+        "sp 1800-39",
+        "security"
+      ]
+    },
+    {
       "id": "Oa3jaLNSZvM",
       "title": "The Orchestrator's Blueprint",
-      "views": 14,
+      "views": 24,
       "date": "2026-02-28T16:18:04Z",
       "tags": [
         "swivel chair",
         "soar",
         "siem",
         "xdr",
-        "security"
+        "shift left"
       ]
     },
     {
       "id": "1MPD6MILLcQ",
       "title": "2025 Global Threat Report",
-      "views": 11,
+      "views": 14,
       "date": "2026-02-27T22:44:25Z",
       "tags": [
         "2025",
@@ -1564,7 +1649,7 @@
     {
       "id": "JfGgWiiCTA0",
       "title": "Shannon: Autonomous Penetration Testing",
-      "views": 22,
+      "views": 24,
       "date": "2026-02-14T10:04:10Z",
       "tags": [
         "agent",
@@ -1605,7 +1690,7 @@
     {
       "id": "qyqLjeu8Hng",
       "title": "영어 리스닝  3000시간의 법칙",
-      "views": 52,
+      "views": 53,
       "date": "2026-01-13T10:40:26Z",
       "tags": [
         "영어 공부"
@@ -1632,7 +1717,7 @@
     {
       "id": "GVq5DvGFLpI",
       "title": "Vercel 대시보드 보안 안내서",
-      "views": 19,
+      "views": 20,
       "date": "2026-02-02T00:33:23Z",
       "tags": [
         "vercel",
@@ -1641,6 +1726,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-03-01T15:16:33.457Z",
-  "count": 150
+  "generatedAt": "2026-03-05T03:21:31.481Z",
+  "count": 157
 }
