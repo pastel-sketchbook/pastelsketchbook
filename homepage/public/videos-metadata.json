@@ -150,9 +150,16 @@
       ]
     },
     {
+      "id": "_4BC0zHGYTw",
+      "title": "The Mathematics of Human Capital Compounding",
+      "views": 6,
+      "date": "2026-03-05T13:10:46Z",
+      "tags": []
+    },
+    {
       "id": "9z6mOWQgU84",
       "title": "Navigating the Al Capital Cycle: 2026 & Beyond",
-      "views": 80,
+      "views": 83,
       "date": "2026-02-17T14:46:13Z",
       "tags": []
     },
@@ -237,9 +244,20 @@
       ]
     },
     {
+      "id": "aiYBPCkvhes",
+      "title": "kube-log-viewer",
+      "views": 6,
+      "date": "2026-03-05T12:32:56Z",
+      "tags": [
+        "tui",
+        "logs",
+        "kubernetes"
+      ]
+    },
+    {
       "id": "Pxh2PcNx9W8",
       "title": "Modern Docker Networking & Traefik",
-      "views": 14,
+      "views": 17,
       "date": "2026-03-03T23:15:03Z",
       "tags": [
         "docker",
@@ -318,7 +336,7 @@
     {
       "id": "5Ztm7JNVa8E",
       "title": "Drasi: The Future of Change-Driven Architecture",
-      "views": 28,
+      "views": 35,
       "date": "2026-02-17T21:28:39Z",
       "tags": [
         "change-driven",
@@ -592,7 +610,7 @@
     {
       "id": "8ycnldvJmuA",
       "title": "The Blueprint for Enterprise AI on Azure",
-      "views": 16,
+      "views": 18,
       "date": "2026-01-03T01:41:31Z",
       "tags": [
         "aks",
@@ -614,7 +632,7 @@
     {
       "id": "IkVazryUiko",
       "title": "Fuzzy Find Everything",
-      "views": 9,
+      "views": 24,
       "date": "2026-03-04T22:43:54Z",
       "tags": [
         "fzf",
@@ -627,7 +645,7 @@
     {
       "id": "xVdW3yUCbuU",
       "title": "codeprobe",
-      "views": 19,
+      "views": 23,
       "date": "2026-03-04T14:12:28Z",
       "tags": [
         "rust",
@@ -640,7 +658,7 @@
     {
       "id": "gVZwfZVAuVE",
       "title": "Deconstructing Elixir's 400x Type System Acceleration",
-      "views": 19,
+      "views": 23,
       "date": "2026-03-04T13:43:17Z",
       "tags": [
         "elixir",
@@ -652,7 +670,7 @@
     {
       "id": "00kCzR10M1w",
       "title": "The Road to SolidJS 2.0",
-      "views": 48,
+      "views": 53,
       "date": "2026-03-04T00:40:36Z",
       "tags": [
         "solidjs",
@@ -663,7 +681,7 @@
     {
       "id": "Hfut9CfJhN0",
       "title": "Bubble Tea v2",
-      "views": 18,
+      "views": 23,
       "date": "2026-03-02T12:02:38Z",
       "tags": [
         "go",
@@ -675,7 +693,7 @@
     {
       "id": "WahgsFhj3W0",
       "title": "melos-rs: Architectural Anatomy",
-      "views": 15,
+      "views": 17,
       "date": "2026-03-01T15:00:36Z",
       "tags": [
         "rust",
@@ -687,7 +705,7 @@
     {
       "id": "uqZ-mwxGf2c",
       "title": "Modern Observability in Go",
-      "views": 84,
+      "views": 88,
       "date": "2026-03-01T14:36:52Z",
       "tags": [
         "go",
@@ -712,7 +730,7 @@
     {
       "id": "JeqaHMmSh1s",
       "title": "The Complete Guide to Building Skills for Claude",
-      "views": 531,
+      "views": 539,
       "date": "2026-02-28T05:29:43Z",
       "tags": [
         "ai",
@@ -724,7 +742,7 @@
     {
       "id": "WMcKFQ200OE",
       "title": "Flutter & Dart: The 2026 Roadmap",
-      "views": 46,
+      "views": 47,
       "date": "2026-02-27T13:24:25Z",
       "tags": [
         "flutter",
@@ -750,7 +768,7 @@
     {
       "id": "jzjGcFkAnfs",
       "title": "React Native vs. Flutter for Enterprise Apps",
-      "views": 19,
+      "views": 20,
       "date": "2026-02-26T23:12:29Z",
       "tags": [
         "flutter",
@@ -761,7 +779,7 @@
     {
       "id": "WdK7PED1ug8",
       "title": "A Guide to Rust Smart Pointers",
-      "views": 31,
+      "views": 37,
       "date": "2026-02-26T09:38:48Z",
       "tags": [
         "rust",
@@ -857,7 +875,7 @@
     {
       "id": "QBUQvfZJpaM",
       "title": "Modern Cryptography Standards: A Guide to AEAD",
-      "views": 16,
+      "views": 18,
       "date": "2026-02-18T23:24:48Z",
       "tags": [
         "aes-256-gcm",
@@ -893,7 +911,7 @@
     {
       "id": "kQc99Io3pCo",
       "title": "HelixDB: The Unified Graph-Vector Database",
-      "views": 36,
+      "views": 37,
       "date": "2026-02-14T22:47:13Z",
       "tags": [
         "rust",
@@ -903,7 +921,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 459,
+      "views": 460,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -926,7 +944,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 117,
+      "views": 118,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -937,7 +955,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 166,
+      "views": 167,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -1053,7 +1071,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 299,
+      "views": 300,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -1623,7 +1641,7 @@
     {
       "id": "Oa3jaLNSZvM",
       "title": "The Orchestrator's Blueprint",
-      "views": 24,
+      "views": 26,
       "date": "2026-02-28T16:18:04Z",
       "tags": [
         "swivel chair",
@@ -1726,6 +1744,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-03-05T03:21:31.481Z",
-  "count": 157
+  "generatedAt": "2026-03-05T18:27:53.386Z",
+  "count": 159
 }
