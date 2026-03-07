@@ -57,6 +57,10 @@ export const VIDEO_CONFIG = {
   ],
   kubernetes: ['aiYBPCkvhes', 'Pxh2PcNx9W8', '3hSdKvqPcSE', 'y3WwL48DLYw', 'ORjARjbukhY', 'rk_3xU9OF-k', 'mYClRFIlsFc', '7eoxSgjwYlM', '5Ztm7JNVa8E', 'P_xUJi_qt-Q', 'okVlu1qseI4', 'eI2DXGISpbk', 'MIZ0ATwu7C0', 'rgY4KTMFOMs', 'BsiQrEaF3kU', 'Q4qm1hvVR2A', 'WHonjixQgBY', 'KpSjLQpswW4', '4b-H6ZaoNUE', '_sxPf3tHq3s', '0U-SUJCmKAU', 'VxWyvAO3qb8', 'A4-foXsdQiA', 'C6wLm6NRZW4', 'ctKLD4d146g', 'OnwiaDRj1-k', 'R2zktRqz81U', 'N4nRAfBZ3BE', 'C5HqbzLRYZ0', 'rJTUB-u8U2Y', 'A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q', 'FVdv_oTFyZQ'],
   development: [
+    '6WRiPikxs-Q',
+    'NztD5fYpXcg',
+    'vSjgNxi7W-4',
+    'nRxqSGBuB4s',
     'IkVazryUiko',
     'xVdW3yUCbuU',
     'gVZwfZVAuVE',
@@ -145,13 +149,14 @@ export const VIDEO_CONFIG = {
     'TLqdeHlAo3A',
     'wkbrVBCkx6Q',
     '_HJO94ELTNk',
-    'nRxqSGBuB4s'
+    'sGQrnPJSsPc'
   ],
   security: [
     'uhXcsWYhdkA',
     'Oa3jaLNSZvM',
     '1MPD6MILLcQ',
-    'JfGgWiiCTA0'
+    'JfGgWiiCTA0',
+    '1VjSLqfPf9s'
   ],
   programming: [
     'T5FjMjTQCBI',

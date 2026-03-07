@@ -152,7 +152,7 @@
     {
       "id": "_4BC0zHGYTw",
       "title": "The Mathematics of Human Capital Compounding",
-      "views": 6,
+      "views": 8,
       "date": "2026-03-05T13:10:46Z",
       "tags": []
     },
@@ -246,7 +246,7 @@
     {
       "id": "aiYBPCkvhes",
       "title": "kube-log-viewer",
-      "views": 6,
+      "views": 17,
       "date": "2026-03-05T12:32:56Z",
       "tags": [
         "tui",
@@ -268,7 +268,7 @@
     {
       "id": "3hSdKvqPcSE",
       "title": "Architecting AKS Node Auto-Provisioning",
-      "views": 23,
+      "views": 24,
       "date": "2026-02-25T23:24:20Z",
       "tags": [
         "aks",
@@ -292,7 +292,7 @@
     {
       "id": "ORjARjbukhY",
       "title": "The Golden Path",
-      "views": 23,
+      "views": 24,
       "date": "2026-02-21T10:33:08Z",
       "tags": [
         "golden",
@@ -314,7 +314,7 @@
     {
       "id": "mYClRFIlsFc",
       "title": "ScyllaDB: The Next-Generation NoSQL Platform",
-      "views": 9,
+      "views": 10,
       "date": "2026-02-19T13:31:03Z",
       "tags": [
         "nosql",
@@ -324,7 +324,7 @@
     {
       "id": "7eoxSgjwYlM",
       "title": "Bridging Helm and CUE for Deterministic Value Composition",
-      "views": 18,
+      "views": 19,
       "date": "2026-02-19T13:24:37Z",
       "tags": [
         "cue",
@@ -336,7 +336,7 @@
     {
       "id": "5Ztm7JNVa8E",
       "title": "Drasi: The Future of Change-Driven Architecture",
-      "views": 35,
+      "views": 39,
       "date": "2026-02-17T21:28:39Z",
       "tags": [
         "change-driven",
@@ -630,9 +630,62 @@
       ]
     },
     {
+      "id": "6WRiPikxs-Q",
+      "title": "The Architect's Baton",
+      "views": 3,
+      "date": "2026-03-07T21:29:48Z",
+      "tags": [
+        "swe",
+        "architecture.",
+        "macro",
+        "integrity",
+        "resilience"
+      ]
+    },
+    {
+      "id": "NztD5fYpXcg",
+      "title": "The 10-Lens Research Analysis Framework",
+      "views": 3,
+      "date": "2026-03-07T19:42:12Z",
+      "tags": [
+        "synthesizers",
+        "auditors",
+        "architects",
+        "presets",
+        "research-analysis"
+      ]
+    },
+    {
+      "id": "vSjgNxi7W-4",
+      "title": "yp: The Terminal User Interface Renaissance",
+      "views": 34,
+      "date": "2026-03-06T23:13:08Z",
+      "tags": [
+        "yp",
+        "tui",
+        "cli",
+        "hybrid",
+        "pipe",
+        "llm"
+      ]
+    },
+    {
+      "id": "nRxqSGBuB4s",
+      "title": "The Essential Algorithmic Toolkit",
+      "views": 22,
+      "date": "2026-03-06T12:55:45Z",
+      "tags": [
+        "algorithms",
+        "searching",
+        "sorting",
+        "tree",
+        "graphs"
+      ]
+    },
+    {
       "id": "IkVazryUiko",
       "title": "Fuzzy Find Everything",
-      "views": 24,
+      "views": 32,
       "date": "2026-03-04T22:43:54Z",
       "tags": [
         "fzf",
@@ -645,7 +698,7 @@
     {
       "id": "xVdW3yUCbuU",
       "title": "codeprobe",
-      "views": 23,
+      "views": 28,
       "date": "2026-03-04T14:12:28Z",
       "tags": [
         "rust",
@@ -658,7 +711,7 @@
     {
       "id": "gVZwfZVAuVE",
       "title": "Deconstructing Elixir's 400x Type System Acceleration",
-      "views": 23,
+      "views": 28,
       "date": "2026-03-04T13:43:17Z",
       "tags": [
         "elixir",
@@ -670,7 +723,7 @@
     {
       "id": "00kCzR10M1w",
       "title": "The Road to SolidJS 2.0",
-      "views": 53,
+      "views": 70,
       "date": "2026-03-04T00:40:36Z",
       "tags": [
         "solidjs",
@@ -681,7 +734,7 @@
     {
       "id": "Hfut9CfJhN0",
       "title": "Bubble Tea v2",
-      "views": 23,
+      "views": 27,
       "date": "2026-03-02T12:02:38Z",
       "tags": [
         "go",
@@ -693,7 +746,7 @@
     {
       "id": "WahgsFhj3W0",
       "title": "melos-rs: Architectural Anatomy",
-      "views": 17,
+      "views": 18,
       "date": "2026-03-01T15:00:36Z",
       "tags": [
         "rust",
@@ -705,7 +758,7 @@
     {
       "id": "uqZ-mwxGf2c",
       "title": "Modern Observability in Go",
-      "views": 88,
+      "views": 89,
       "date": "2026-03-01T14:36:52Z",
       "tags": [
         "go",
@@ -730,7 +783,7 @@
     {
       "id": "JeqaHMmSh1s",
       "title": "The Complete Guide to Building Skills for Claude",
-      "views": 539,
+      "views": 547,
       "date": "2026-02-28T05:29:43Z",
       "tags": [
         "ai",
@@ -742,7 +795,7 @@
     {
       "id": "WMcKFQ200OE",
       "title": "Flutter & Dart: The 2026 Roadmap",
-      "views": 47,
+      "views": 48,
       "date": "2026-02-27T13:24:25Z",
       "tags": [
         "flutter",
@@ -755,7 +808,7 @@
     {
       "id": "Wa0EHhhKV8Q",
       "title": "Architecting Action: 10 NotebookLM Prompts",
-      "views": 62,
+      "views": 64,
       "date": "2026-02-27T12:49:18Z",
       "tags": [
         "notebooklm",
@@ -768,7 +821,7 @@
     {
       "id": "jzjGcFkAnfs",
       "title": "React Native vs. Flutter for Enterprise Apps",
-      "views": 20,
+      "views": 31,
       "date": "2026-02-26T23:12:29Z",
       "tags": [
         "flutter",
@@ -779,7 +832,7 @@
     {
       "id": "WdK7PED1ug8",
       "title": "A Guide to Rust Smart Pointers",
-      "views": 37,
+      "views": 39,
       "date": "2026-02-26T09:38:48Z",
       "tags": [
         "rust",
@@ -791,7 +844,7 @@
     {
       "id": "HiaotGxHTfo",
       "title": "PictureViewer",
-      "views": 12,
+      "views": 13,
       "date": "2026-02-25T13:09:13Z",
       "tags": [
         "swift",
@@ -802,7 +855,7 @@
     {
       "id": "DazzkNtnzec",
       "title": "Design Patterns in Go",
-      "views": 89,
+      "views": 94,
       "date": "2026-02-24T23:48:12Z",
       "tags": [
         "go",
@@ -813,7 +866,7 @@
     {
       "id": "ARWkoc3E8uE",
       "title": "Composition by Design",
-      "views": 28,
+      "views": 29,
       "date": "2026-02-23T23:33:01Z",
       "tags": [
         "gof",
@@ -826,7 +879,7 @@
     {
       "id": "Th5MMOFQbh8",
       "title": "Backend Patterns in Rust",
-      "views": 33,
+      "views": 35,
       "date": "2026-02-23T03:44:24Z",
       "tags": [
         "type safety",
@@ -839,7 +892,7 @@
     {
       "id": "SpNfrWmI8iE",
       "title": "Architecting Scalable Rust Backends",
-      "views": 40,
+      "views": 41,
       "date": "2026-02-22T10:43:18Z",
       "tags": [
         "facade",
@@ -864,7 +917,7 @@
     {
       "id": "3ybGkjogcFQ",
       "title": "Modern State Architecture: The Repository Pattern",
-      "views": 17,
+      "views": 19,
       "date": "2026-02-20T12:47:49Z",
       "tags": [
         "signals",
@@ -875,7 +928,7 @@
     {
       "id": "QBUQvfZJpaM",
       "title": "Modern Cryptography Standards: A Guide to AEAD",
-      "views": 18,
+      "views": 19,
       "date": "2026-02-18T23:24:48Z",
       "tags": [
         "aes-256-gcm",
@@ -899,7 +952,7 @@
     {
       "id": "5-ZNXQegVhs",
       "title": "The Strategic Synthesis:Shift Left & Shift Right",
-      "views": 19,
+      "views": 20,
       "date": "2026-02-16T20:52:30Z",
       "tags": [
         "shift left",
@@ -911,7 +964,7 @@
     {
       "id": "kQc99Io3pCo",
       "title": "HelixDB: The Unified Graph-Vector Database",
-      "views": 37,
+      "views": 41,
       "date": "2026-02-14T22:47:13Z",
       "tags": [
         "rust",
@@ -921,7 +974,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 460,
+      "views": 495,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -933,7 +986,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 732,
+      "views": 744,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -944,7 +997,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 118,
+      "views": 133,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -955,7 +1008,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 167,
+      "views": 168,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -1012,7 +1065,7 @@
     {
       "id": "0Sed1oggMKY",
       "title": "Tokio: The Asynchronous Runtime for Rust",
-      "views": 85,
+      "views": 86,
       "date": "2026-02-08T20:27:32Z",
       "tags": [
         "tokio",
@@ -1047,7 +1100,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 52,
+      "views": 54,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -1071,7 +1124,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 300,
+      "views": 315,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -1144,7 +1197,7 @@
     {
       "id": "o9yaniXkM-0",
       "title": "Practical Data Oriented Design in Zig",
-      "views": 30,
+      "views": 31,
       "date": "2026-01-30T01:28:52Z",
       "tags": [
         "dod",
@@ -1490,7 +1543,7 @@
     {
       "id": "B2x09utLjtM",
       "title": "The Modern Delivery Flywheel",
-      "views": 4,
+      "views": 5,
       "date": "2026-01-09T08:50:53Z",
       "tags": [
         "trunk based",
@@ -1628,7 +1681,7 @@
     {
       "id": "uhXcsWYhdkA",
       "title": "The Strategic Roadmap for Data Classification",
-      "views": 11,
+      "views": 12,
       "date": "2026-03-02T23:46:29Z",
       "tags": [
         "nist",
@@ -1641,7 +1694,7 @@
     {
       "id": "Oa3jaLNSZvM",
       "title": "The Orchestrator's Blueprint",
-      "views": 26,
+      "views": 28,
       "date": "2026-02-28T16:18:04Z",
       "tags": [
         "swivel chair",
@@ -1667,7 +1720,7 @@
     {
       "id": "JfGgWiiCTA0",
       "title": "Shannon: Autonomous Penetration Testing",
-      "views": 24,
+      "views": 28,
       "date": "2026-02-14T10:04:10Z",
       "tags": [
         "agent",
@@ -1744,6 +1797,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-03-05T18:27:53.386Z",
-  "count": 159
+  "generatedAt": "2026-03-07T22:42:11.105Z",
+  "count": 163
 }
