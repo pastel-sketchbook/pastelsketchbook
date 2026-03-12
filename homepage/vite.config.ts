@@ -18,12 +18,11 @@ export default defineConfig(() => {
     build: {
       rollupOptions: {
         output: {
-          manualChunks: {
-            // Separate chunks for better code splitting
-            'recharts-chunk': ['recharts'],
-            'genai-chunk': ['@google/genai'],
-            'react-router-chunk': ['@tanstack/react-router'],
-            'framer-motion-chunk': ['framer-motion'],
+          manualChunks(id) {
+            if (id.includes('node_modules/recharts')) return 'recharts-chunk'
+            if (id.includes('node_modules/@google/genai')) return 'genai-chunk'
+            if (id.includes('node_modules/@tanstack/react-router')) return 'react-router-chunk'
+            if (id.includes('node_modules/framer-motion')) return 'framer-motion-chunk'
           },
         },
       },
