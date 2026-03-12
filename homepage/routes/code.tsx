@@ -27,45 +27,15 @@ interface Repository {
   forks: number
 }
 
-const GITHUB_ORG = 'pastel-sketchbook'
-
 async function fetchRepositories(): Promise<Repository[]> {
-  const repos: Repository[] = []
-  let page = 1
+  const response = await fetch('/repos.json')
 
-  while (true) {
-    const response = await fetch(
-      `https://api.github.com/orgs/${GITHUB_ORG}/repos?per_page=100&sort=pushed&direction=desc&page=${page}`,
-      { headers: { Accept: 'application/vnd.github.v3+json' } },
-    )
-
-    if (!response.ok) {
-      throw new Error(`GitHub API returned ${response.status}`)
-    }
-
-    const data = await response.json()
-    if (data.length === 0) break
-
-    for (const repo of data) {
-      if (repo.archived || repo.fork) continue
-      repos.push({
-        name: repo.name,
-        description: repo.description || '',
-        language: repo.language || 'Other',
-        license: repo.license?.spdx_id && repo.license.spdx_id !== 'NOASSERTION'
-          ? repo.license.spdx_id
-          : undefined,
-        url: repo.html_url,
-        updated: repo.pushed_at,
-        stars: repo.stargazers_count,
-        forks: repo.forks_count,
-      })
-    }
-
-    page++
+  if (!response.ok) {
+    throw new Error(`Failed to load repository data`)
   }
 
-  return repos
+  const data = await response.json()
+  return data.repos
 }
 
 const languageColors: Record<string, string> = {
@@ -131,7 +101,7 @@ function Code() {
               {tabs.map(tab => (
                 <button
                   key={tab.id}
-                  onClick={() => setActiveLanguage(tab.id as LanguageFilter)}
+                  onClick={() => setActiveLanguage(tab.id)}
                   className={`px-3 md:px-6 py-2 md:py-3 rounded-full text-xs md:text-sm font-bold uppercase tracking-widest transition-all duration-300 ${
                     activeLanguage === tab.id
                       ? 'bg-[#1B3022] text-white shadow-lg scale-105'

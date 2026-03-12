@@ -257,7 +257,7 @@
     {
       "id": "1PH7UB24xps",
       "title": "Architecting AKS Networking",
-      "views": 10,
+      "views": 12,
       "date": "2026-03-11T22:24:43Z",
       "tags": [
         "aks",
@@ -280,7 +280,7 @@
     {
       "id": "aiYBPCkvhes",
       "title": "kube-log-viewer",
-      "views": 20,
+      "views": 21,
       "date": "2026-03-05T12:32:56Z",
       "tags": [
         "tui",
@@ -291,7 +291,7 @@
     {
       "id": "Pxh2PcNx9W8",
       "title": "Modern Docker Networking & Traefik",
-      "views": 19,
+      "views": 21,
       "date": "2026-03-03T23:15:03Z",
       "tags": [
         "docker",
@@ -326,7 +326,7 @@
     {
       "id": "ORjARjbukhY",
       "title": "The Golden Path",
-      "views": 24,
+      "views": 25,
       "date": "2026-02-21T10:33:08Z",
       "tags": [
         "golden",
@@ -358,7 +358,7 @@
     {
       "id": "7eoxSgjwYlM",
       "title": "Bridging Helm and CUE for Deterministic Value Composition",
-      "views": 20,
+      "views": 22,
       "date": "2026-02-19T13:24:37Z",
       "tags": [
         "cue",
@@ -381,7 +381,7 @@
     {
       "id": "P_xUJi_qt-Q",
       "title": "Advanced Architectural Synthesis",
-      "views": 28,
+      "views": 29,
       "date": "2026-02-15T15:41:25Z",
       "tags": [
         "distributed systems.",
@@ -495,7 +495,7 @@
     {
       "id": "_sxPf3tHq3s",
       "title": "The 100+ Service Problem",
-      "views": 25,
+      "views": 27,
       "date": "2026-01-16T08:00:15Z",
       "tags": [
         "helm",
@@ -577,7 +577,7 @@
     {
       "id": "R2zktRqz81U",
       "title": "A Blueprint for Secure Azure Authentication in Go",
-      "views": 17,
+      "views": 18,
       "date": "2026-01-13T00:32:55Z",
       "tags": [
         "workload identity",
@@ -666,7 +666,7 @@
     {
       "id": "DIMW-iHlDxE",
       "title": "Mastering Comprehensive Rust",
-      "views": 20,
+      "views": 25,
       "date": "2026-03-11T22:16:29Z",
       "tags": [
         "rust",
@@ -688,7 +688,7 @@
     {
       "id": "84M1mVL0cjo",
       "title": "Pathways Over Tools",
-      "views": 14,
+      "views": 15,
       "date": "2026-03-10T00:39:56Z",
       "tags": [
         "autonomy",
@@ -748,7 +748,7 @@
     {
       "id": "6WRiPikxs-Q",
       "title": "The Architect's Baton",
-      "views": 119,
+      "views": 120,
       "date": "2026-03-07T21:29:48Z",
       "tags": [
         "swe",
@@ -886,7 +886,7 @@
     {
       "id": "AcpVuvtSXwI",
       "title": "microgpt-zig: Atomic Al Training",
-      "views": 27,
+      "views": 28,
       "date": "2026-02-28T14:09:19Z",
       "tags": [
         "zig",
@@ -899,7 +899,7 @@
     {
       "id": "JeqaHMmSh1s",
       "title": "The Complete Guide to Building Skills for Claude",
-      "views": 567,
+      "views": 569,
       "date": "2026-02-28T05:29:43Z",
       "tags": [
         "ai",
@@ -924,7 +924,7 @@
     {
       "id": "Wa0EHhhKV8Q",
       "title": "Architecting Action: 10 NotebookLM Prompts",
-      "views": 68,
+      "views": 69,
       "date": "2026-02-27T12:49:18Z",
       "tags": [
         "notebooklm",
@@ -1033,7 +1033,7 @@
     {
       "id": "3ybGkjogcFQ",
       "title": "Modern State Architecture: The Repository Pattern",
-      "views": 29,
+      "views": 31,
       "date": "2026-02-20T12:47:49Z",
       "tags": [
         "signals",
@@ -1090,7 +1090,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 530,
+      "views": 532,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -1113,7 +1113,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 148,
+      "views": 150,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -1146,7 +1146,7 @@
     {
       "id": "IZX3_9rZeMU",
       "title": "The Hybrid TUI Architecture",
-      "views": 533,
+      "views": 534,
       "date": "2026-02-10T10:11:11Z",
       "tags": [
         "opentui",
@@ -1216,7 +1216,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 66,
+      "views": 67,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -1925,6 +1925,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-03-12T16:40:16.916Z",
+  "generatedAt": "2026-03-12T22:24:15.249Z",
   "count": 174
 }

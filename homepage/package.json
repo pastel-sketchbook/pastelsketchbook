@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "prebuild": "bun scripts/sync-videos.ts",
+    "prebuild": "bun scripts/sync-videos.ts && bun scripts/sync-repos.ts",
     "build": "vite build",
     "preview": "vite preview",
     "sync:videos": "bun scripts/sync-videos.ts",
