@@ -16,6 +16,7 @@ BOOKMARK="$(
     | awk '{print $1}' \
     | sed 's/:$//' \
     | grep -v -x "$DEFAULT_BRANCH" \
+    | grep -v '@' \
     | head -n 1 || true
 )"
 
