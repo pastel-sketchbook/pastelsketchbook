@@ -42,6 +42,7 @@ export const VIDEO_CONFIG = {
     'oSqbvvcADmI'
   ],
   finance: [
+    '2NoJVXPpcco',
     '_4BC0zHGYTw',
     '9z6mOWQgU84',
     'bn-Nvmxgur8',
@@ -54,11 +55,12 @@ export const VIDEO_CONFIG = {
     'KBfVy5-M-5k',
     'MDNRiJN7aEg',
     'nnL78ZVifZU',
-    'tPDFgVAp4c4',
-    '2NoJVXPpcco'
+    'tPDFgVAp4c4'
   ],
-  kubernetes: ['LUOX5xkSyi0', 'u60g2nMtVi4', 'F09-7mNt3F4', '1PH7UB24xps', 'Hd767VA7Z-0', 'aiYBPCkvhes', 'Pxh2PcNx9W8', '3hSdKvqPcSE', 'y3WwL48DLYw', 'ORjARjbukhY', 'rk_3xU9OF-k', 'mYClRFIlsFc', '7eoxSgjwYlM', '5Ztm7JNVa8E', 'P_xUJi_qt-Q', 'okVlu1qseI4', 'eI2DXGISpbk', 'MIZ0ATwu7C0', 'rgY4KTMFOMs', 'BsiQrEaF3kU', 'Q4qm1hvVR2A', 'WHonjixQgBY', 'KpSjLQpswW4', '4b-H6ZaoNUE', '_sxPf3tHq3s', '0U-SUJCmKAU', 'VxWyvAO3qb8', 'A4-foXsdQiA', 'C6wLm6NRZW4', 'ctKLD4d146g', 'OnwiaDRj1-k', 'R2zktRqz81U', 'N4nRAfBZ3BE', 'C5HqbzLRYZ0', 'rJTUB-u8U2Y', 'A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q', 'FVdv_oTFyZQ', 'to1PClyd0YA'],
+  kubernetes: ['nJ10P-fRqZQ', 'to1PClyd0YA', 'LUOX5xkSyi0', 'u60g2nMtVi4', 'F09-7mNt3F4', '1PH7UB24xps', 'Hd767VA7Z-0', 'aiYBPCkvhes', 'Pxh2PcNx9W8', '3hSdKvqPcSE', 'y3WwL48DLYw', 'ORjARjbukhY', 'rk_3xU9OF-k', 'mYClRFIlsFc', '7eoxSgjwYlM', '5Ztm7JNVa8E', 'P_xUJi_qt-Q', 'okVlu1qseI4', 'eI2DXGISpbk', 'MIZ0ATwu7C0', 'rgY4KTMFOMs', 'BsiQrEaF3kU', 'Q4qm1hvVR2A', 'WHonjixQgBY', 'KpSjLQpswW4', '4b-H6ZaoNUE', '_sxPf3tHq3s', '0U-SUJCmKAU', 'VxWyvAO3qb8', 'A4-foXsdQiA', 'C6wLm6NRZW4', 'ctKLD4d146g', 'OnwiaDRj1-k', 'R2zktRqz81U', 'N4nRAfBZ3BE', 'C5HqbzLRYZ0', 'rJTUB-u8U2Y', 'A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q', 'FVdv_oTFyZQ', 'n-Yt33ZdEHw'],
   development: [
+    '0HEqwk9UMOc',
+    'Z98SHl4nSFI',
     'FOkG5ScxU88',
     'ZBW6YozOu78',
     'gu-5cim8mpA',
@@ -164,7 +166,8 @@ export const VIDEO_CONFIG = {
     'TLqdeHlAo3A',
     'wkbrVBCkx6Q',
     '_HJO94ELTNk',
-    'pghJdovSnqM'
+    'pghJdovSnqM',
+    '_zJ3_d1CODg'
   ],
   security: [
     '1VjSLqfPf9s',
