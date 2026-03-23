@@ -159,7 +159,7 @@
     {
       "id": "G-vvSNwm-jE",
       "title": "The Final 5 Years",
-      "views": 13,
+      "views": 15,
       "date": "2026-03-20T23:47:12Z",
       "tags": []
     },
@@ -274,7 +274,7 @@
     {
       "id": "QE51ybyrQDM",
       "title": "Designing the Event-Driven Landscape",
-      "views": 3,
+      "views": 12,
       "date": "2026-03-23T04:50:00Z",
       "tags": [
         "ces",
@@ -297,7 +297,7 @@
     {
       "id": "tcrNdx1yH_E",
       "title": "Continuous Flow",
-      "views": 9,
+      "views": 13,
       "date": "2026-03-22T14:47:34Z",
       "tags": [
         "azure",
@@ -788,9 +788,33 @@
       ]
     },
     {
+      "id": "ymYtSum-2qc",
+      "title": "zig-duckdb-ext",
+      "views": 4,
+      "date": "2026-03-24T09:56:13Z",
+      "tags": [
+        "zig",
+        "extension",
+        "duckdb"
+      ]
+    },
+    {
+      "id": "INNKxTAagE4",
+      "title": "Resilient Asynchronous Systems in Go",
+      "views": 8,
+      "date": "2026-03-24T02:07:42Z",
+      "tags": [
+        "go",
+        "rabbitmq",
+        "echo",
+        "opentelemetry",
+        "observability"
+      ]
+    },
+    {
       "id": "zrP3muXzQX4",
       "title": "Reins: The Framework for Al-Assisted Development",
-      "views": 2,
+      "views": 17,
       "date": "2026-03-23T11:19:38Z",
       "tags": [
         "reins",
@@ -802,7 +826,7 @@
     {
       "id": "vep9hSKc9I0",
       "title": "Dial9 Demo - Deep Observability in Async Rust",
-      "views": 42,
+      "views": 71,
       "date": "2026-03-22T10:40:21Z",
       "tags": [
         "rust",
@@ -828,7 +852,7 @@
     {
       "id": "_mwtz_8lBWc",
       "title": "The Geometry of Light",
-      "views": 25,
+      "views": 26,
       "date": "2026-03-21T12:19:50Z",
       "tags": [
         "graphics",
@@ -839,7 +863,7 @@
     {
       "id": "lY5TU8qHduM",
       "title": "The Flight Recorder for Tokio",
-      "views": 17,
+      "views": 18,
       "date": "2026-03-20T22:45:15Z",
       "tags": [
         "rust",
@@ -864,7 +888,7 @@
     {
       "id": "CXtHwJQphLI",
       "title": "Production-Ready RabbitMQ in Go",
-      "views": 79,
+      "views": 82,
       "date": "2026-03-20T03:40:50Z",
       "tags": [
         "go",
@@ -876,7 +900,7 @@
     {
       "id": "_zJ3_d1CODg",
       "title": "Bevy-Demo",
-      "views": 78,
+      "views": 82,
       "date": "2026-03-19T00:18:34Z",
       "tags": [
         "rust",
@@ -923,7 +947,7 @@
     {
       "id": "ZBW6YozOu78",
       "title": "Serverless Analytics with DuckDB & Python",
-      "views": 25,
+      "views": 27,
       "date": "2026-03-15T01:12:59Z",
       "tags": [
         "python",
@@ -1157,7 +1181,7 @@
     {
       "id": "00kCzR10M1w",
       "title": "The Road to SolidJS 2.0",
-      "views": 120,
+      "views": 123,
       "date": "2026-03-04T00:40:36Z",
       "tags": [
         "solidjs",
@@ -1168,7 +1192,7 @@
     {
       "id": "Hfut9CfJhN0",
       "title": "Bubble Tea v2",
-      "views": 36,
+      "views": 37,
       "date": "2026-03-02T12:02:38Z",
       "tags": [
         "go",
@@ -1204,7 +1228,7 @@
     {
       "id": "AcpVuvtSXwI",
       "title": "microgpt-zig: Atomic Al Training",
-      "views": 40,
+      "views": 41,
       "date": "2026-02-28T14:09:19Z",
       "tags": [
         "zig",
@@ -1217,7 +1241,7 @@
     {
       "id": "JeqaHMmSh1s",
       "title": "The Complete Guide to Building Skills for Claude",
-      "views": 607,
+      "views": 608,
       "date": "2026-02-28T05:29:43Z",
       "tags": [
         "ai",
@@ -1229,7 +1253,7 @@
     {
       "id": "WMcKFQ200OE",
       "title": "Flutter & Dart: The 2026 Roadmap",
-      "views": 57,
+      "views": 58,
       "date": "2026-02-27T13:24:25Z",
       "tags": [
         "flutter",
@@ -1326,7 +1350,7 @@
     {
       "id": "SpNfrWmI8iE",
       "title": "Architecting Scalable Rust Backends",
-      "views": 60,
+      "views": 61,
       "date": "2026-02-22T10:43:18Z",
       "tags": [
         "facade",
@@ -1374,7 +1398,7 @@
     {
       "id": "5Vloo08zQ7o",
       "title": "Bulletproof Frontend Architecture",
-      "views": 28,
+      "views": 29,
       "date": "2026-02-16T21:07:23Z",
       "tags": [
         "repository",
@@ -1398,7 +1422,7 @@
     {
       "id": "kQc99Io3pCo",
       "title": "HelixDB: The Unified Graph-Vector Database",
-      "views": 65,
+      "views": 66,
       "date": "2026-02-14T22:47:13Z",
       "tags": [
         "rust",
@@ -1408,7 +1432,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 632,
+      "views": 636,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -1420,7 +1444,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 758,
+      "views": 761,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -1431,7 +1455,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 199,
+      "views": 206,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -1442,7 +1466,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 179,
+      "views": 180,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -1453,7 +1477,7 @@
     {
       "id": "cEwAbu6FFRo",
       "title": "Compound Engineering",
-      "views": 111,
+      "views": 113,
       "date": "2026-02-11T13:08:01Z",
       "tags": [
         "every.to",
@@ -1464,7 +1488,7 @@
     {
       "id": "IZX3_9rZeMU",
       "title": "The Hybrid TUI Architecture",
-      "views": 535,
+      "views": 536,
       "date": "2026-02-10T10:11:11Z",
       "tags": [
         "opentui",
@@ -1534,7 +1558,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 82,
+      "views": 83,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -1558,7 +1582,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 347,
+      "views": 351,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -1620,7 +1644,7 @@
     {
       "id": "h31-NtagNoU",
       "title": "Memory Layout in Zig",
-      "views": 57,
+      "views": 58,
       "date": "2026-01-30T01:32:57Z",
       "tags": [
         "zig",
@@ -2115,7 +2139,7 @@
     {
       "id": "1VjSLqfPf9s",
       "title": "The NIST Cybersecurity Framework 2.0",
-      "views": 12,
+      "views": 13,
       "date": "2026-03-08T22:36:56Z",
       "tags": [
         "nist",
@@ -2166,7 +2190,7 @@
     {
       "id": "JfGgWiiCTA0",
       "title": "Shannon: Autonomous Penetration Testing",
-      "views": 34,
+      "views": 35,
       "date": "2026-02-14T10:04:10Z",
       "tags": [
         "agent",
@@ -2243,6 +2267,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-03-23T11:27:33.618Z",
-  "count": 202
+  "generatedAt": "2026-03-24T10:50:22.719Z",
+  "count": 204
 }
