@@ -15,7 +15,7 @@ updated: 2026-04-05
 | Metric | Value |
 |--------|-------|
 | Videos | 129 |
-| Total Views | 10.7K |
+| Total Views | 10.9K |
 | Most Recent | Apr 5, 2026 |
 | Oldest | Dec 27, 2025 |
 
@@ -24,13 +24,13 @@ updated: 2026-04-05
 ### Rust (32 videos)
 
 - [Building vibe-rust](https://youtu.be/BT08SXPvV6U) -- 25 views, Apr 4, 2026
-- [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) -- 1.3K views, Apr 3, 2026
+- [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) -- 1.5K views, Apr 3, 2026
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) -- 46 views, Mar 28, 2026
 - [Architectural Evolution of a Vision Tool](https://youtu.be/Qv9X3ZY474U) -- 48 views, Mar 28, 2026
 - [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) -- 101 views, Mar 22, 2026
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) -- 21 views, Mar 20, 2026
 - [Beat - Anatomy of a Real-Time Visualizer](https://youtu.be/lin_ycbQGtE) -- 25 views, Mar 20, 2026
-- [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) -- 100 views, Mar 18, 2026
+- [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) -- 101 views, Mar 18, 2026
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) -- 70 views, Mar 11, 2026
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) -- 33 views, Mar 4, 2026
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) -- 18 views, Mar 1, 2026
@@ -89,7 +89,7 @@ updated: 2026-04-05
 - [Generative Al at Scale](https://youtu.be/uU46ltIELqk) -- 12 views, Mar 27, 2026
 - [Writing Modern Go in the Age of Al](https://youtu.be/Z90u9EVf4M4) -- 188 views, Mar 26, 2026
 - [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) -- 133 views, Mar 24, 2026
-- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) -- 36 views, Mar 23, 2026
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) -- 37 views, Mar 23, 2026
 - [The Geometry of Light](https://youtu.be/_mwtz_8lBWc) -- 28 views, Mar 21, 2026
 - [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) -- 88 views, Mar 19, 2026
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) -- 132 views, Mar 18, 2026
@@ -112,7 +112,7 @@ updated: 2026-04-05
 
 ### Architecture (5 videos)
 
-- [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) -- 1.3K views, Apr 3, 2026
+- [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) -- 1.5K views, Apr 3, 2026
 - [The Architect's Baton](https://youtu.be/6WRiPikxs-Q) -- 125 views, Mar 7, 2026
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) -- 34 views, Feb 20, 2026
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) -- 30 views, Feb 16, 2026
@@ -128,7 +128,7 @@ updated: 2026-04-05
 
 ### Messaging (3 videos)
 
-- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) -- 36 views, Mar 23, 2026
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) -- 37 views, Mar 23, 2026
 - [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) -- 19 views, Mar 21, 2026
 - [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) -- 88 views, Mar 19, 2026
 
@@ -151,7 +151,7 @@ updated: 2026-04-05
 | 1 | The Open Market of Al Coding | 6 | Apr 5, 2026 | [Watch](https://youtu.be/T-NdEF6btbg) |
 | 2 | Building vibe-rust | 25 | Apr 4, 2026 | [Watch](https://youtu.be/BT08SXPvV6U) |
 | 3 | Reasoning Under Uncertainty | 12 | Apr 3, 2026 | [Watch](https://youtu.be/z2SA6P7WNoc) |
-| 4 | The Zero-Copy Architecture | 1.3K | Apr 3, 2026 | [Watch](https://youtu.be/54lO6XE-AeQ) |
+| 4 | The Zero-Copy Architecture | 1.5K | Apr 3, 2026 | [Watch](https://youtu.be/54lO6XE-AeQ) |
 | 5 | Architecting the Autonomous Enterprise | 15 | Apr 2, 2026 | [Watch](https://youtu.be/YoIXlqspLWE) |
 | 6 | The Transport Revolution: Deconstructing HTTP/3 | 167 | Apr 1, 2026 | [Watch](https://youtu.be/JWeu5aqAkR0) |
 | 7 | Reed: The Modern Terminal File Viewer | 128 | Mar 30, 2026 | [Watch](https://youtu.be/oUTf9j6fWJo) |
@@ -163,7 +163,7 @@ updated: 2026-04-05
 | 13 | Writing Modern Go in the Age of Al | 188 | Mar 26, 2026 | [Watch](https://youtu.be/Z90u9EVf4M4) |
 | 14 | Advancing Go Garbage Collection with Green Tea | 133 | Mar 24, 2026 | [Watch](https://youtu.be/yCJDmGrk8sM) |
 | 15 | zig-duckdb-ext | 57 | Mar 24, 2026 | [Watch](https://youtu.be/ymYtSum-2qc) |
-| 16 | Resilient Asynchronous Systems in Go | 36 | Mar 23, 2026 | [Watch](https://youtu.be/INNKxTAagE4) |
+| 16 | Resilient Asynchronous Systems in Go | 37 | Mar 23, 2026 | [Watch](https://youtu.be/INNKxTAagE4) |
 | 17 | Reins: The Framework for Al-Assisted Development | 54 | Mar 23, 2026 | [Watch](https://youtu.be/zrP3muXzQX4) |
 | 18 | Dial9 Demo - Deep Observability in Async Rust | 101 | Mar 22, 2026 | [Watch](https://youtu.be/vep9hSKc9I0) |
 | 19 | W3C Trace Context | 19 | Mar 21, 2026 | [Watch](https://youtu.be/wyIhJ3LMnRg) |
@@ -171,7 +171,7 @@ updated: 2026-04-05
 | 21 | The Flight Recorder for Tokio | 21 | Mar 20, 2026 | [Watch](https://youtu.be/lY5TU8qHduM) |
 | 22 | Beat - Anatomy of a Real-Time Visualizer | 25 | Mar 20, 2026 | [Watch](https://youtu.be/lin_ycbQGtE) |
 | 23 | Production-Ready RabbitMQ in Go | 88 | Mar 19, 2026 | [Watch](https://youtu.be/CXtHwJQphLI) |
-| 24 | Bevy-Demo | 100 | Mar 18, 2026 | [Watch](https://youtu.be/_zJ3_d1CODg) |
+| 24 | Bevy-Demo | 101 | Mar 18, 2026 | [Watch](https://youtu.be/_zJ3_d1CODg) |
 | 25 | How to Kill the Code Review | 132 | Mar 18, 2026 | [Watch](https://youtu.be/0HEqwk9UMOc) |
 | 26 | Rebalancing the SDLC in the Al Era | 17 | Mar 17, 2026 | [Watch](https://youtu.be/Z98SHl4nSFI) |
 | 27 | Building with Genkit Dart | 50 | Mar 15, 2026 | [Watch](https://youtu.be/FOkG5ScxU88) |

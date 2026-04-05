@@ -15,7 +15,7 @@ updated: 2026-04-05
 | Metric | Value |
 |--------|-------|
 | Videos | 8 |
-| Total Views | 204 |
+| Total Views | 205 |
 | Most Recent | Feb 1, 2026 |
 | Oldest | Jan 10, 2026 |
 ## All Videos
@@ -23,7 +23,7 @@ updated: 2026-04-05
 | # | Title | Views | Published | Link |
 |---|-------|-------|-----------|------|
 | 1 | Vercel 대시보드 보안 안내서 | 21 | Feb 1, 2026 | [Watch](https://youtu.be/GVq5DvGFLpI) |
-| 2 | 알고리즘에서 코드로  TypeScript 가이드 | 12 | Jan 14, 2026 | [Watch](https://youtu.be/dsxuWtfzBGI) |
+| 2 | 알고리즘에서 코드로  TypeScript 가이드 | 13 | Jan 14, 2026 | [Watch](https://youtu.be/dsxuWtfzBGI) |
 | 3 | 알고리즘 완전 정복 | 5 | Jan 14, 2026 | [Watch](https://youtu.be/iEn_PMcBlDk) |
 | 4 | 영어 리스닝  3000시간의 법칙 | 54 | Jan 13, 2026 | [Watch](https://youtu.be/qyqLjeu8Hng) |
 | 5 | 마음 속의 계산기 | 9 | Jan 11, 2026 | [Watch](https://youtu.be/gKYw0_jkNFI) |
