@@ -1,9 +1,9 @@
-import { Canvas, useFrame, useThree, type ThreeEvent } from '@react-three/fiber'
+import { Canvas } from '@react-three/fiber'
 import { OrbitControls } from '@react-three/drei'
 import { useRef, useMemo, useState, useCallback, useEffect } from 'react'
 import * as THREE from 'three'
-import type { WikiCategory, WikiBundle } from '../types/wiki'
-import { CATEGORY_COLORS, CATEGORY_LABELS, catLabel, fmtViews, fmtDate } from '../utils/wiki'
+import type { WikiBundle } from '../types/wiki'
+import { CATEGORY_COLORS, catLabel, fmtViews, fmtDate } from '../utils/wiki'
 import { VideoModal } from './VideoModal'
 
 // -- Types --
@@ -211,18 +211,15 @@ function simulate(nodes: GraphNode[], edges: GraphEdge[], iterations: number) {
   }
 }
 
-// -- Three.js Components --
+// -- Three.js Components (render-only, no event handlers) --
 
 function Nodes({
   nodes,
-  onHover,
-  onClick,
+  meshRef,
 }: {
   nodes: GraphNode[]
-  onHover: (node: GraphNode | null) => void
-  onClick: (idx: number) => void
+  meshRef: React.RefObject<THREE.InstancedMesh | null>
 }) {
-  const meshRef = useRef<THREE.InstancedMesh>(null)
   const tempObj = useMemo(() => new THREE.Object3D(), [])
   const tempColor = useMemo(() => new THREE.Color(), [])
 
@@ -246,46 +243,15 @@ function Nodes({
     meshRef.current.instanceMatrix.needsUpdate = true
     if (meshRef.current.instanceColor)
       meshRef.current.instanceColor.needsUpdate = true
-  }, [nodes, maxViews, tempObj, tempColor])
 
-  const handlePointerOver = useCallback(
-    (e: ThreeEvent<PointerEvent>) => {
-      e.stopPropagation()
-      if (e.instanceId !== undefined) {
-        onHover(nodes[e.instanceId] ?? null)
-        document.body.style.cursor = 'pointer'
-      }
-    },
-    [onHover, nodes],
-  )
-
-  const handlePointerOut = useCallback(() => {
-    onHover(null)
-    document.body.style.cursor = 'grab'
-  }, [onHover])
-
-  useEffect(() => {
-    return () => {
-      document.body.style.cursor = 'default'
-    }
-  }, [])
-
-  const handleClick = useCallback(
-    (e: ThreeEvent<MouseEvent>) => {
-      e.stopPropagation()
-      if (e.instanceId !== undefined) onClick(e.instanceId)
-    },
-    [onClick],
-  )
+    // Recompute bounding sphere to encompass all instance positions.
+    // Without this, the first raycast caches a tiny sphere from
+    // identity matrices and subsequent hit-tests silently miss.
+    meshRef.current.computeBoundingSphere()
+  }, [nodes, maxViews, tempObj, tempColor, meshRef])
 
   return (
-    <instancedMesh
-      ref={meshRef}
-      args={[undefined, undefined, nodes.length]}
-      onPointerOver={handlePointerOver}
-      onPointerOut={handlePointerOut}
-      onClick={handleClick}
-    >
+    <instancedMesh ref={meshRef} args={[undefined, undefined, nodes.length]}>
       <sphereGeometry args={[1, 16, 16]} />
       <meshBasicMaterial toneMapped={false} />
     </instancedMesh>
@@ -333,45 +299,19 @@ function Edges({ nodes, edges }: { nodes: GraphNode[]; edges: GraphEdge[] }) {
   )
 }
 
-function SlowRotate({ paused }: { paused: boolean }) {
-  const { scene } = useThree()
-  useFrame((_, delta) => {
-    if (!paused) scene.rotation.y += delta * 0.02
-  })
-  return null
-}
-
 function Scene({
-  wiki,
-  onSelect,
-  onHover,
-  isHovering,
+  nodes,
+  edges,
+  meshRef,
 }: {
-  wiki: WikiBundle
-  onSelect: (node: GraphNode | null) => void
-  onHover: (node: GraphNode | null) => void
-  isHovering: boolean
+  nodes: GraphNode[]
+  edges: GraphEdge[]
+  meshRef: React.RefObject<THREE.InstancedMesh | null>
 }) {
-  const { nodes, edges } = useMemo(() => {
-    const graph = buildGraph(wiki)
-    simulate(graph.nodes, graph.edges, 80)
-    return graph
-  }, [wiki])
-
-  const handleClick = useCallback(
-    (idx: number) => {
-      const node = nodes[idx]
-      if (node) onSelect(node)
-    },
-    [nodes, onSelect],
-  )
-
   return (
     <>
       <Edges nodes={nodes} edges={edges} />
-      <Nodes nodes={nodes} onHover={onHover} onClick={handleClick} />
-
-      <SlowRotate paused={isHovering} />
+      <Nodes nodes={nodes} meshRef={meshRef} />
       <OrbitControls
         enableDamping
         dampingFactor={0.05}
@@ -383,7 +323,7 @@ function Scene({
   )
 }
 
-// -- Hover Popup (HTML overlay) --
+// -- Hover Popup (HTML overlay, fixed positioning) --
 
 const POPUP_WIDTH = 320
 const POPUP_HEIGHT = 280
@@ -393,35 +333,29 @@ function HoverPopup({
   node,
   mouseX,
   mouseY,
-  containerRect,
 }: {
   node: GraphNode
   mouseX: number
   mouseY: number
-  containerRect: DOMRect
 }) {
   const color = CATEGORY_COLORS[node.category] || '#888'
 
-  // Position relative to container, clamped to stay in bounds
-  let left = mouseX - containerRect.left + POPUP_OFFSET
-  let top = mouseY - containerRect.top + POPUP_OFFSET
+  let left = mouseX + POPUP_OFFSET
+  let top = mouseY + POPUP_OFFSET
 
-  // Flip horizontally if overflowing right
-  if (left + POPUP_WIDTH > containerRect.width) {
-    left = mouseX - containerRect.left - POPUP_WIDTH - POPUP_OFFSET
+  if (left + POPUP_WIDTH > window.innerWidth) {
+    left = mouseX - POPUP_WIDTH - POPUP_OFFSET
   }
-  // Flip vertically if overflowing bottom
-  if (top + POPUP_HEIGHT > containerRect.height) {
-    top = mouseY - containerRect.top - POPUP_HEIGHT - POPUP_OFFSET
+  if (top + POPUP_HEIGHT > window.innerHeight) {
+    top = mouseY - POPUP_HEIGHT - POPUP_OFFSET
   }
 
-  // Clamp to container edges
-  left = Math.max(8, Math.min(left, containerRect.width - POPUP_WIDTH - 8))
-  top = Math.max(8, Math.min(top, containerRect.height - POPUP_HEIGHT - 8))
+  left = Math.max(8, Math.min(left, window.innerWidth - POPUP_WIDTH - 8))
+  top = Math.max(8, Math.min(top, window.innerHeight - POPUP_HEIGHT - 8))
 
   return (
     <div
-      className="absolute z-40 pointer-events-none"
+      className="fixed z-50 pointer-events-none"
       style={{ left, top, width: POPUP_WIDTH }}
     >
       <div className="bg-white rounded-xl shadow-2xl overflow-hidden border border-[#1e232b]/10">
@@ -438,9 +372,7 @@ function HoverPopup({
             className="absolute top-2 left-2 flex items-center gap-1.5 px-2.5 py-1 rounded-full text-white text-[9px] font-bold uppercase tracking-widest"
             style={{ backgroundColor: color }}
           >
-            <span
-              className="w-1.5 h-1.5 rounded-full bg-white/60 flex-shrink-0"
-            />
+            <span className="w-1.5 h-1.5 rounded-full bg-white/60 flex-shrink-0" />
             {catLabel(node.category)}
           </div>
         </div>
@@ -460,53 +392,126 @@ function HoverPopup({
   )
 }
 
-// -- Main Export --
+// -- DOM-based raycasting (bypasses R3F event system entirely) --
 
-export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
-  const [selectedVideoId, setSelectedVideoId] = useState<string | null>(null)
+function useGraphInteraction(
+  nodes: GraphNode[],
+  meshRef: React.RefObject<THREE.InstancedMesh | null>,
+  cameraRef: React.RefObject<THREE.Camera | null>,
+  glRef: React.RefObject<THREE.WebGLRenderer | null>,
+) {
   const [hoveredNode, setHoveredNode] = useState<GraphNode | null>(null)
+  const [selectedVideoId, setSelectedVideoId] = useState<string | null>(null)
   const [mousePos, setMousePos] = useState({ x: 0, y: 0 })
-  const containerRef = useRef<HTMLDivElement>(null)
 
-  const handleSelect = useCallback((node: GraphNode | null) => {
-    setSelectedVideoId(node?.id ?? null)
-  }, [])
+  const raycaster = useMemo(() => new THREE.Raycaster(), [])
+  const pointer = useMemo(() => new THREE.Vector2(), [])
+
+  const hitTest = useCallback(
+    (clientX: number, clientY: number): GraphNode | null => {
+      const camera = cameraRef.current
+      const gl = glRef.current
+      const mesh = meshRef.current
+      if (!camera || !gl || !mesh) return null
+
+      const rect = gl.domElement.getBoundingClientRect()
+      pointer.x = ((clientX - rect.left) / rect.width) * 2 - 1
+      pointer.y = -((clientY - rect.top) / rect.height) * 2 + 1
+
+      raycaster.setFromCamera(pointer, camera)
+      const hits = raycaster.intersectObject(mesh)
+
+      if (hits.length > 0 && hits[0].instanceId !== undefined) {
+        return nodes[hits[0].instanceId] ?? null
+      }
+      return null
+    },
+    [nodes, meshRef, cameraRef, glRef, raycaster, pointer],
+  )
 
   const handlePointerMove = useCallback(
     (e: React.PointerEvent) => {
       setMousePos({ x: e.clientX, y: e.clientY })
+      setHoveredNode(hitTest(e.clientX, e.clientY))
+    },
+    [hitTest],
+  )
+
+  const handleClick = useCallback(
+    (e: React.MouseEvent) => {
+      const node = hitTest(e.clientX, e.clientY)
+      if (node) setSelectedVideoId(node.id)
+    },
+    [hitTest],
+  )
+
+  return {
+    hoveredNode,
+    selectedVideoId,
+    setSelectedVideoId,
+    mousePos,
+    handlePointerMove,
+    handleClick,
+  }
+}
+
+// -- Main Export --
+
+export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
+  const meshRef = useRef<THREE.InstancedMesh | null>(null)
+  const cameraRef = useRef<THREE.Camera | null>(null)
+  const glRef = useRef<THREE.WebGLRenderer | null>(null)
+
+  const { nodes, edges } = useMemo(() => {
+    const graph = buildGraph(wiki)
+    simulate(graph.nodes, graph.edges, 80)
+    return graph
+  }, [wiki])
+
+  const {
+    hoveredNode,
+    selectedVideoId,
+    setSelectedVideoId,
+    mousePos,
+    handlePointerMove,
+    handleClick,
+  } = useGraphInteraction(nodes, meshRef, cameraRef, glRef)
+
+  const handleCreated = useCallback(
+    (state: { camera: THREE.Camera; gl: THREE.WebGLRenderer }) => {
+      cameraRef.current = state.camera
+      glRef.current = state.gl
     },
     [],
   )
 
-  const containerRect = containerRef.current?.getBoundingClientRect()
+  useEffect(() => {
+    return () => {
+      document.body.style.cursor = 'default'
+    }
+  }, [])
 
   return (
     <div
-      ref={containerRef}
       className="w-full relative"
       style={{ height: 'calc(100vh - 80px)' }}
       onPointerMove={handlePointerMove}
+      onClick={handleClick}
     >
       <Canvas
         camera={{ position: [0, 20, 60], fov: 50 }}
         gl={{ antialias: true, alpha: true, toneMapping: THREE.NoToneMapping }}
         style={{ cursor: hoveredNode ? 'pointer' : 'grab' }}
+        onCreated={handleCreated}
       >
-        <Scene
-          wiki={wiki}
-          onSelect={handleSelect}
-          onHover={setHoveredNode}
-          isHovering={hoveredNode !== null}
-        />
+        <Scene nodes={nodes} edges={edges} meshRef={meshRef} />
       </Canvas>
 
-      {hoveredNode && containerRect && (
+      {hoveredNode && (
         <HoverPopup
           node={hoveredNode}
           mouseX={mousePos.x}
           mouseY={mousePos.y}
-          containerRect={containerRect}
         />
       )}
 
