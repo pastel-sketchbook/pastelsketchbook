@@ -1,0 +1,44 @@
+---
+type: category
+category: programming
+tags: [알고리즘, vercel, 보안, 대시보드, 영어 공부, 주판]
+sources: 8
+updated: 2026-04-05
+---
+
+# Programming
+
+> Videos about programming languages, paradigms, and computer science concepts.
+
+## Summary
+
+| Metric | Value |
+|--------|-------|
+| Videos | 8 |
+| Total Views | 204 |
+| Most Recent | Feb 1, 2026 |
+| Oldest | Jan 10, 2026 |
+## All Videos
+
+| # | Title | Views | Published | Link |
+|---|-------|-------|-----------|------|
+| 1 | Vercel 대시보드 보안 안내서 | 21 | Feb 1, 2026 | [Watch](https://youtu.be/GVq5DvGFLpI) |
+| 2 | 알고리즘에서 코드로  TypeScript 가이드 | 12 | Jan 14, 2026 | [Watch](https://youtu.be/dsxuWtfzBGI) |
+| 3 | 알고리즘 완전 정복 | 5 | Jan 14, 2026 | [Watch](https://youtu.be/iEn_PMcBlDk) |
+| 4 | 영어 리스닝  3000시간의 법칙 | 54 | Jan 13, 2026 | [Watch](https://youtu.be/qyqLjeu8Hng) |
+| 5 | 마음 속의 계산기 | 9 | Jan 11, 2026 | [Watch](https://youtu.be/gKYw0_jkNFI) |
+| 6 | 타입스크립트와 번으로 만드는 TODO 리스트 | 9 | Jan 10, 2026 | [Watch](https://youtu.be/D1Hth_78ftg) |
+| 7 | 비동기 처리 - async/await | 18 | Jan 10, 2026 | [Watch](https://youtu.be/F6aMGDfVAFg) |
+| 8 | 타입스크립트와 번으로 배우는 프로그래밍 1 | 76 | Jan 10, 2026 | [Watch](https://youtu.be/T5FjMjTQCBI) |
+
+## Top Tags
+
+`알고리즘` (2) . `vercel` (1) . `보안` (1) . `대시보드` (1) . `영어 공부` (1) . `주판` (1)
+
+## See Also
+
+- [Development](development.md)
+- [Kubernetes](kubernetes.md) -- shared tags: `vercel`
+
+---
+*Auto-generated on Apr 5, 2026. Back to [index](index.md).*

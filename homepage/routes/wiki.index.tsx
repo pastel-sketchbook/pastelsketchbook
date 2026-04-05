@@ -1,0 +1,432 @@
+import { createFileRoute, Link } from '@tanstack/react-router'
+import { useState } from 'react'
+import { useQuery } from '@tanstack/react-query'
+import { ChunkErrorBoundary } from '../src/components/ui/ChunkErrorBoundary'
+import { motion, AnimatePresence } from 'framer-motion'
+import { fetchWikiBundle, fmtViews, fmtDate, catLabel } from '../src/utils/wiki'
+
+export const Route = createFileRoute('/wiki/')({
+  component: WikiWithErrorBoundary,
+})
+
+function WikiWithErrorBoundary() {
+  return (
+    <ChunkErrorBoundary chunkName="wiki">
+      <Wiki />
+    </ChunkErrorBoundary>
+  )
+}
+
+function Wiki() {
+  const [activeCategory, setActiveCategory] = useState<string | null>(null)
+  const [expandedClusters, setExpandedClusters] = useState<Set<string>>(
+    new Set(),
+  )
+
+  const {
+    data: wiki,
+    isLoading,
+    isError,
+    error,
+    refetch,
+  } = useQuery({
+    queryKey: ['wikiBundle'],
+    queryFn: fetchWikiBundle,
+    staleTime: 3600000,
+  })
+
+  if (isError) {
+    return (
+      <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
+        <div className="max-w-5xl mx-auto text-center">
+          <div className="inline-flex items-center justify-center w-16 h-16 mb-6 rounded-full bg-[#E76F51]/10">
+            <svg
+              className="w-8 h-8 text-[#E76F51]"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                d="M12 9v2m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+              />
+            </svg>
+          </div>
+          <h2 className="text-2xl font-serif italic text-[#1B3022] mb-2">
+            Failed to load wiki
+          </h2>
+          <p className="text-sm text-[#1B3022]/50 mb-6 max-w-md mx-auto">
+            {error instanceof Error
+              ? error.message
+              : 'An unexpected error occurred.'}
+          </p>
+          <button
+            onClick={() => refetch()}
+            className="px-6 py-3 rounded-full bg-[#1B3022] text-white text-xs font-bold uppercase tracking-widest hover:bg-[#2D4536] transition-all"
+          >
+            Retry
+          </button>
+        </div>
+      </div>
+    )
+  }
+
+  if (isLoading || !wiki) {
+    return (
+      <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
+        <div className="max-w-5xl mx-auto">
+          <div className="animate-pulse space-y-6">
+            <div className="h-12 bg-[#1B3022]/5 rounded-lg w-48" />
+            <div className="h-6 bg-[#1B3022]/5 rounded w-96" />
+            <div className="grid grid-cols-2 md:grid-cols-3 gap-4 mt-12">
+              {Array.from({ length: 6 }).map((_, i) => (
+                <div
+                  key={`skel-${i}`}
+                  className="h-32 bg-[#1B3022]/5 rounded-xl"
+                />
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    )
+  }
+
+  const totalViews = wiki.categories.reduce((s, c) => s + c.totalViews, 0)
+  const selected = activeCategory
+    ? wiki.categories.find((c) => c.name === activeCategory)
+    : null
+
+  const toggleCluster = (name: string) => {
+    setExpandedClusters((prev) => {
+      const next = new Set(prev)
+      if (next.has(name)) next.delete(name)
+      else next.add(name)
+      return next
+    })
+  }
+
+  return (
+    <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
+      <div className="max-w-5xl mx-auto">
+        {/* Header */}
+        <header className="text-center mb-16">
+          <motion.h1
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="text-5xl md:text-7xl mb-6 text-[#1B3022] tracking-tighter leading-none font-serif italic"
+          >
+            Wiki
+          </motion.h1>
+          <motion.p
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.2 }}
+            className="text-xl md:text-2xl text-[#1B3022]/60 font-serif italic max-w-2xl mx-auto mb-8"
+          >
+            A living knowledge base of {wiki.totalVideos} videos across{' '}
+            {wiki.categories.length} categories.
+          </motion.p>
+          <Link
+            to="/wiki/graph"
+            className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#1B3022] text-white text-xs font-bold uppercase tracking-widest hover:bg-[#2D4536] hover:scale-105 transition-all shadow-md"
+          >
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <circle cx="12" cy="12" r="2" strokeWidth="2" />
+              <circle cx="5" cy="6" r="2" strokeWidth="2" />
+              <circle cx="19" cy="6" r="2" strokeWidth="2" />
+              <circle cx="5" cy="18" r="2" strokeWidth="2" />
+              <circle cx="19" cy="18" r="2" strokeWidth="2" />
+              <path strokeWidth="1.5" d="M7 7l3 3M14 9l3-2M7 17l3-3M14 15l3 2" />
+            </svg>
+            Explore Graph View
+          </Link>
+        </header>
+
+        {/* Overview Stats */}
+        <motion.div
+          initial={{ opacity: 0, y: 10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.3 }}
+          className="grid grid-cols-3 gap-4 mb-12"
+        >
+          <div className="bg-white/50 backdrop-blur-sm p-6 rounded-xl sketch-border border-[#1B3022]/5 text-center">
+            <div className="text-3xl font-bold text-[#1B3022]">
+              {wiki.totalVideos}
+            </div>
+            <div className="text-xs font-bold uppercase tracking-widest text-[#1B3022]/40 mt-1">
+              Videos
+            </div>
+          </div>
+          <div className="bg-white/50 backdrop-blur-sm p-6 rounded-xl sketch-border border-[#1B3022]/5 text-center">
+            <div className="text-3xl font-bold text-[#1B3022]">
+              {fmtViews(totalViews)}
+            </div>
+            <div className="text-xs font-bold uppercase tracking-widest text-[#1B3022]/40 mt-1">
+              Total Views
+            </div>
+          </div>
+          <div className="bg-white/50 backdrop-blur-sm p-6 rounded-xl sketch-border border-[#1B3022]/5 text-center">
+            <div className="text-3xl font-bold text-[#1B3022]">
+              {wiki.categories.length}
+            </div>
+            <div className="text-xs font-bold uppercase tracking-widest text-[#1B3022]/40 mt-1">
+              Categories
+            </div>
+          </div>
+        </motion.div>
+
+        {/* Category Cards */}
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-4 mb-12">
+          {[...wiki.categories].sort((a, b) => b.videoCount - a.videoCount).map((cat, i) => (
+            <motion.button
+              key={cat.name}
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.3 + i * 0.05 }}
+              onClick={() =>
+                setActiveCategory(
+                  activeCategory === cat.name ? null : cat.name,
+                )
+              }
+              className={`text-left p-6 rounded-xl sketch-border transition-all duration-300 ${
+                activeCategory === cat.name
+                  ? 'bg-[#1B3022] text-white shadow-lg scale-[1.02]'
+                  : 'bg-white/50 backdrop-blur-sm border-[#1B3022]/5 hover:bg-white hover:shadow-md'
+              }`}
+            >
+              <h3
+                className={`font-serif italic text-lg mb-1 ${activeCategory === cat.name ? 'text-white' : 'text-[#1B3022]'}`}
+              >
+                {catLabel(cat.name)}
+              </h3>
+              <p
+                className={`text-xs mb-3 line-clamp-2 ${activeCategory === cat.name ? 'text-white/70' : 'text-[#1B3022]/50'}`}
+              >
+                {cat.description}
+              </p>
+              <div className="flex gap-4 text-xs font-bold uppercase tracking-widest">
+                <span
+                  className={
+                    activeCategory === cat.name
+                      ? 'text-white/60'
+                      : 'text-[#5F7D61]'
+                  }
+                >
+                  {cat.videoCount} videos
+                </span>
+                <span
+                  className={
+                    activeCategory === cat.name
+                      ? 'text-white/60'
+                      : 'text-[#D4A373]'
+                  }
+                >
+                  {fmtViews(cat.totalViews)} views
+                </span>
+              </div>
+            </motion.button>
+          ))}
+        </div>
+
+        {/* Cross-Category Tags */}
+        {!activeCategory && wiki.crossCategoryTags.length > 0 && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            className="mb-12"
+          >
+            <h2 className="text-sm font-bold uppercase tracking-widest text-[#1B3022]/40 mb-4">
+              Cross-Category Tags
+            </h2>
+            <div className="flex flex-wrap gap-2">
+              {wiki.crossCategoryTags.map((ct) => (
+                <span
+                  key={ct.tag}
+                  className="px-3 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-wider bg-[#E9C46A]/15 text-[#1B3022]/70 border border-[#E9C46A]/30"
+                  title={`Shared by: ${ct.categories.map(catLabel).join(', ')}`}
+                >
+                  {ct.tag}{' '}
+                  <span className="text-[#1B3022]/40">
+                    ({ct.categories.length})
+                  </span>
+                </span>
+              ))}
+            </div>
+          </motion.div>
+        )}
+
+        {/* Category Detail */}
+        <AnimatePresence mode="wait">
+          {selected && (
+            <motion.div
+              key={selected.name}
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -10 }}
+              transition={{ duration: 0.3 }}
+            >
+              {/* Related Categories */}
+              {selected.related.length > 0 && (
+                <div className="flex items-center gap-2 mb-6 text-xs">
+                  <span className="font-bold uppercase tracking-widest text-[#1B3022]/40">
+                    See also:
+                  </span>
+                  {selected.related.map((rel) => (
+                    <button
+                      key={rel}
+                      onClick={() => setActiveCategory(rel)}
+                      className="px-3 py-1 rounded-full bg-[#5F7D61]/10 text-[#5F7D61] font-bold uppercase tracking-wider hover:bg-[#5F7D61]/20 transition-colors"
+                    >
+                      {catLabel(rel)}
+                    </button>
+                  ))}
+                </div>
+              )}
+
+              {/* Topic Clusters */}
+              {selected.clusters.length > 0 && (
+                <div className="mb-8">
+                  <h2 className="text-sm font-bold uppercase tracking-widest text-[#1B3022]/40 mb-4">
+                    Topic Clusters
+                  </h2>
+                  <div className="space-y-3">
+                    {selected.clusters.map((cluster) => (
+                      <div
+                        key={cluster.name}
+                        className="bg-white/50 backdrop-blur-sm rounded-xl sketch-border border-[#1B3022]/5 overflow-hidden"
+                      >
+                        <button
+                          onClick={() => toggleCluster(cluster.name)}
+                          className="w-full flex items-center justify-between p-4 text-left hover:bg-white/50 transition-colors"
+                        >
+                          <div className="flex items-center gap-3">
+                            <h3 className="font-serif italic text-[#1B3022]">
+                              {cluster.name}
+                            </h3>
+                            <span className="px-2 py-0.5 rounded-full bg-[#5F7D61]/10 text-[10px] font-bold uppercase tracking-widest text-[#5F7D61]">
+                              {cluster.videos.length} videos
+                            </span>
+                          </div>
+                          <motion.svg
+                            animate={{
+                              rotate: expandedClusters.has(cluster.name)
+                                ? 180
+                                : 0,
+                            }}
+                            transition={{ duration: 0.2 }}
+                            className="w-4 h-4 text-[#1B3022]/30"
+                            fill="none"
+                            stroke="currentColor"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              strokeWidth="2"
+                              d="M19 9l-7 7-7-7"
+                            />
+                          </motion.svg>
+                        </button>
+                        <AnimatePresence>
+                          {expandedClusters.has(cluster.name) && (
+                            <motion.div
+                              initial={{ height: 0, opacity: 0 }}
+                              animate={{ height: 'auto', opacity: 1 }}
+                              exit={{ height: 0, opacity: 0 }}
+                              transition={{ duration: 0.2 }}
+                              className="overflow-hidden"
+                            >
+                              <div className="px-4 pb-4 space-y-2">
+                                {cluster.videos.map((v) => (
+                                  <a
+                                    key={v.id}
+                                    href={`https://youtu.be/${v.id}`}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="flex items-center justify-between py-2 px-3 rounded-lg hover:bg-[#FAF9F6] transition-colors group"
+                                  >
+                                    <span className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors truncate mr-4">
+                                      {v.title}
+                                    </span>
+                                    <span className="text-xs text-[#5F7D61] font-semibold flex-shrink-0">
+                                      {fmtViews(v.views)} views
+                                    </span>
+                                  </a>
+                                ))}
+                              </div>
+                            </motion.div>
+                          )}
+                        </AnimatePresence>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Top Tags */}
+              {selected.topTags.length > 0 && (
+                <div className="mb-8">
+                  <h2 className="text-sm font-bold uppercase tracking-widest text-[#1B3022]/40 mb-4">
+                    Top Tags
+                  </h2>
+                  <div className="flex flex-wrap gap-2">
+                    {selected.topTags.map((t) => (
+                      <span
+                        key={t.tag}
+                        className="px-3 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-wider bg-white/50 border border-[#5F7D61]/20 text-[#5F7D61]"
+                      >
+                        {t.tag}{' '}
+                        <span className="text-[#1B3022]/30">({t.count})</span>
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* All Videos */}
+              <div>
+                <h2 className="text-sm font-bold uppercase tracking-widest text-[#1B3022]/40 mb-4">
+                  All Videos ({selected.videos.length})
+                </h2>
+                <div className="bg-white/50 backdrop-blur-sm rounded-xl sketch-border border-[#1B3022]/5 overflow-hidden">
+                  <div className="divide-y divide-[#1B3022]/5">
+                    {selected.videos.map((v, i) => (
+                      <a
+                        key={v.id}
+                        href={`https://youtu.be/${v.id}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center gap-4 p-4 hover:bg-[#FAF9F6] transition-colors group"
+                      >
+                        <span className="text-xs text-[#1B3022]/20 font-bold w-8 text-right flex-shrink-0">
+                          {i + 1}
+                        </span>
+                        <span className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors flex-1 truncate">
+                          {v.title}
+                        </span>
+                        <span className="text-xs text-[#5F7D61] font-semibold flex-shrink-0">
+                          {fmtViews(v.views)}
+                        </span>
+                        <span className="text-xs text-[#1B3022]/60 flex-shrink-0 hidden sm:block">
+                          {fmtDate(v.date)}
+                        </span>
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+
+        {/* Footer */}
+        <div className="mt-16 text-center text-xs text-[#1B3022]/30">
+          Last updated: {fmtDate(wiki.generatedAt)}
+        </div>
+      </div>
+    </div>
+  )
+}

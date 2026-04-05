@@ -9,11 +9,19 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as WikiRouteImport } from './routes/wiki'
 import { Route as ShowcaseRouteImport } from './routes/showcase'
 import { Route as PodcastRouteImport } from './routes/podcast'
 import { Route as CodeRouteImport } from './routes/code'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as WikiIndexRouteImport } from './routes/wiki.index'
+import { Route as WikiGraphRouteImport } from './routes/wiki.graph'
 
+const WikiRoute = WikiRouteImport.update({
+  id: '/wiki',
+  path: '/wiki',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ShowcaseRoute = ShowcaseRouteImport.update({
   id: '/showcase',
   path: '/showcase',
@@ -34,18 +42,33 @@ const IndexRoute = IndexRouteImport.update({
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const WikiIndexRoute = WikiIndexRouteImport.update({
+  id: '/',
+  path: '/',
+  getParentRoute: () => WikiRoute,
+} as any)
+const WikiGraphRoute = WikiGraphRouteImport.update({
+  id: '/graph',
+  path: '/graph',
+  getParentRoute: () => WikiRoute,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/code': typeof CodeRoute
   '/podcast': typeof PodcastRoute
   '/showcase': typeof ShowcaseRoute
+  '/wiki': typeof WikiRouteWithChildren
+  '/wiki/graph': typeof WikiGraphRoute
+  '/wiki/': typeof WikiIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/code': typeof CodeRoute
   '/podcast': typeof PodcastRoute
   '/showcase': typeof ShowcaseRoute
+  '/wiki/graph': typeof WikiGraphRoute
+  '/wiki': typeof WikiIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
@@ -53,13 +76,31 @@ export interface FileRoutesById {
   '/code': typeof CodeRoute
   '/podcast': typeof PodcastRoute
   '/showcase': typeof ShowcaseRoute
+  '/wiki': typeof WikiRouteWithChildren
+  '/wiki/graph': typeof WikiGraphRoute
+  '/wiki/': typeof WikiIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/code' | '/podcast' | '/showcase'
+  fullPaths:
+    | '/'
+    | '/code'
+    | '/podcast'
+    | '/showcase'
+    | '/wiki'
+    | '/wiki/graph'
+    | '/wiki/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/code' | '/podcast' | '/showcase'
-  id: '__root__' | '/' | '/code' | '/podcast' | '/showcase'
+  to: '/' | '/code' | '/podcast' | '/showcase' | '/wiki/graph' | '/wiki'
+  id:
+    | '__root__'
+    | '/'
+    | '/code'
+    | '/podcast'
+    | '/showcase'
+    | '/wiki'
+    | '/wiki/graph'
+    | '/wiki/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
@@ -67,10 +108,18 @@ export interface RootRouteChildren {
   CodeRoute: typeof CodeRoute
   PodcastRoute: typeof PodcastRoute
   ShowcaseRoute: typeof ShowcaseRoute
+  WikiRoute: typeof WikiRouteWithChildren
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/wiki': {
+      id: '/wiki'
+      path: '/wiki'
+      fullPath: '/wiki'
+      preLoaderRoute: typeof WikiRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/showcase': {
       id: '/showcase'
       path: '/showcase'
@@ -99,14 +148,41 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/wiki/': {
+      id: '/wiki/'
+      path: '/'
+      fullPath: '/wiki/'
+      preLoaderRoute: typeof WikiIndexRouteImport
+      parentRoute: typeof WikiRoute
+    }
+    '/wiki/graph': {
+      id: '/wiki/graph'
+      path: '/graph'
+      fullPath: '/wiki/graph'
+      preLoaderRoute: typeof WikiGraphRouteImport
+      parentRoute: typeof WikiRoute
+    }
   }
 }
+
+interface WikiRouteChildren {
+  WikiGraphRoute: typeof WikiGraphRoute
+  WikiIndexRoute: typeof WikiIndexRoute
+}
+
+const WikiRouteChildren: WikiRouteChildren = {
+  WikiGraphRoute: WikiGraphRoute,
+  WikiIndexRoute: WikiIndexRoute,
+}
+
+const WikiRouteWithChildren = WikiRoute._addFileChildren(WikiRouteChildren)
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   CodeRoute: CodeRoute,
   PodcastRoute: PodcastRoute,
   ShowcaseRoute: ShowcaseRoute,
+  WikiRoute: WikiRouteWithChildren,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
