@@ -2,11 +2,20 @@ import { z } from 'zod'
 
 // -- Zod Schemas --
 
+export const WikiVideoDetailSchema = z.object({
+  summary: z.string(),
+  takeaways: z.array(z.string()),
+  topics: z.array(z.string()),
+})
+
 export const WikiVideoSchema = z.object({
   id: z.string(),
   title: z.string(),
   views: z.number().nonnegative(),
   date: z.string(),
+  category: z.string().optional(),
+  tags: z.array(z.string()).optional(),
+  detail: WikiVideoDetailSchema.optional(),
 })
 
 export const WikiClusterSchema = z.object({
@@ -40,3 +49,5 @@ export const WikiBundleSchema = z.object({
 // -- Inferred Types --
 
 export type WikiBundle = z.infer<typeof WikiBundleSchema>
+export type WikiVideo = z.infer<typeof WikiVideoSchema>
+export type WikiVideoDetail = z.infer<typeof WikiVideoDetailSchema>

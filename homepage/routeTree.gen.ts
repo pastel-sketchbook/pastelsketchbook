@@ -16,6 +16,7 @@ import { Route as CodeRouteImport } from './routes/code'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as WikiIndexRouteImport } from './routes/wiki.index'
 import { Route as WikiGraphRouteImport } from './routes/wiki.graph'
+import { Route as WikiVideoIdRouteImport } from './routes/wiki.video.$id'
 
 const WikiRoute = WikiRouteImport.update({
   id: '/wiki',
@@ -52,6 +53,11 @@ const WikiGraphRoute = WikiGraphRouteImport.update({
   path: '/graph',
   getParentRoute: () => WikiRoute,
 } as any)
+const WikiVideoIdRoute = WikiVideoIdRouteImport.update({
+  id: '/video/$id',
+  path: '/video/$id',
+  getParentRoute: () => WikiRoute,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
@@ -61,6 +67,7 @@ export interface FileRoutesByFullPath {
   '/wiki': typeof WikiRouteWithChildren
   '/wiki/graph': typeof WikiGraphRoute
   '/wiki/': typeof WikiIndexRoute
+  '/wiki/video/$id': typeof WikiVideoIdRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
@@ -69,6 +76,7 @@ export interface FileRoutesByTo {
   '/showcase': typeof ShowcaseRoute
   '/wiki/graph': typeof WikiGraphRoute
   '/wiki': typeof WikiIndexRoute
+  '/wiki/video/$id': typeof WikiVideoIdRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
@@ -79,6 +87,7 @@ export interface FileRoutesById {
   '/wiki': typeof WikiRouteWithChildren
   '/wiki/graph': typeof WikiGraphRoute
   '/wiki/': typeof WikiIndexRoute
+  '/wiki/video/$id': typeof WikiVideoIdRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
@@ -90,8 +99,16 @@ export interface FileRouteTypes {
     | '/wiki'
     | '/wiki/graph'
     | '/wiki/'
+    | '/wiki/video/$id'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/code' | '/podcast' | '/showcase' | '/wiki/graph' | '/wiki'
+  to:
+    | '/'
+    | '/code'
+    | '/podcast'
+    | '/showcase'
+    | '/wiki/graph'
+    | '/wiki'
+    | '/wiki/video/$id'
   id:
     | '__root__'
     | '/'
@@ -101,6 +118,7 @@ export interface FileRouteTypes {
     | '/wiki'
     | '/wiki/graph'
     | '/wiki/'
+    | '/wiki/video/$id'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
@@ -162,17 +180,26 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof WikiGraphRouteImport
       parentRoute: typeof WikiRoute
     }
+    '/wiki/video/$id': {
+      id: '/wiki/video/$id'
+      path: '/video/$id'
+      fullPath: '/wiki/video/$id'
+      preLoaderRoute: typeof WikiVideoIdRouteImport
+      parentRoute: typeof WikiRoute
+    }
   }
 }
 
 interface WikiRouteChildren {
   WikiGraphRoute: typeof WikiGraphRoute
   WikiIndexRoute: typeof WikiIndexRoute
+  WikiVideoIdRoute: typeof WikiVideoIdRoute
 }
 
 const WikiRouteChildren: WikiRouteChildren = {
   WikiGraphRoute: WikiGraphRoute,
   WikiIndexRoute: WikiIndexRoute,
+  WikiVideoIdRoute: WikiVideoIdRoute,
 }
 
 const WikiRouteWithChildren = WikiRoute._addFileChildren(WikiRouteChildren)

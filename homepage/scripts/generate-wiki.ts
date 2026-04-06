@@ -40,6 +40,61 @@ interface TopicCluster {
   tags: string[]
 }
 
+interface VideoDetail {
+  summary: string
+  takeaways: string[]
+  topics: string[]
+}
+
+/**
+ * Parse auto-generated detail markdown files from wiki/videos/details/.
+ * Returns a map of videoId -> { summary, takeaways, topics }.
+ */
+function loadVideoDetails(): Map<string, VideoDetail> {
+  const details = new Map<string, VideoDetail>()
+  if (!existsSync(WIKI_DETAILS)) return details
+
+  for (const file of readdirSync(WIKI_DETAILS)) {
+    if (!file.endsWith('.md')) continue
+    const id = file.replace(/\.md$/, '')
+    const content = readFileSync(resolve(WIKI_DETAILS, file), 'utf-8')
+
+    const summary = extractSection(content, 'Summary')
+    const takeawaysRaw = extractSection(content, 'Key Takeaways')
+    const topicsRaw = extractSection(content, 'Topics Covered')
+
+    // Only include if at least a summary exists
+    if (!summary) continue
+
+    const takeaways = takeawaysRaw
+      ? takeawaysRaw
+          .split('\n')
+          .map((line) => line.replace(/^-\s*/, '').trim())
+          .filter(Boolean)
+      : []
+
+    const topics = topicsRaw
+      ? topicsRaw
+          .split('·')
+          .map((t) => t.replace(/`/g, '').trim())
+          .filter(Boolean)
+      : []
+
+    details.set(id, { summary, takeaways, topics })
+  }
+  return details
+}
+
+/** Extract text between ## heading and the next ## or end of file. */
+function extractSection(md: string, heading: string): string | null {
+  const regex = new RegExp(
+    `^## ${heading}\\s*\\n([\\s\\S]*?)(?=^## |^---\\s*$|$)`,
+    'm',
+  )
+  const match = regex.exec(md)
+  return match ? match[1].trim() : null
+}
+
 const WIKI_ROOT = resolve('..', 'wiki')
 const WIKI_VIDEOS = resolve(WIKI_ROOT, 'videos')
 const WIKI_TAGS = resolve(WIKI_ROOT, 'videos', 'tags')
@@ -578,6 +633,23 @@ function main() {
   console.log('  log.md')
 
   // Generate JSON bundle for the web app
+  const videoDetails = loadVideoDetails()
+  console.log(`  loaded ${videoDetails.size} video detail pages`)
+
+  const enrichVideo = (v: VideoMetadata, category: string) => {
+    const base: Record<string, unknown> = {
+      id: v.id,
+      title: v.title,
+      views: v.views,
+      date: v.date,
+      category,
+    }
+    if (v.tags && v.tags.length > 0) base.tags = v.tags
+    const detail = videoDetails.get(v.id)
+    if (detail) base.detail = detail
+    return base
+  }
+
   const wikiBundle = {
     generatedAt: metadata.generatedAt,
     totalVideos: metadata.count,
@@ -606,19 +678,9 @@ function main() {
         topTags: tags.slice(0, 20).map(([tag, count]) => ({ tag, count })),
         clusters: clusters.map((c) => ({
           name: c.name,
-          videos: c.videos.map((v) => ({
-            id: v.id,
-            title: v.title,
-            views: v.views,
-            date: v.date,
-          })),
+          videos: c.videos.map((v) => enrichVideo(v, category)),
         })),
-        videos: videos.map((v) => ({
-          id: v.id,
-          title: v.title,
-          views: v.views,
-          date: v.date,
-        })),
+        videos: videos.map((v) => enrichVideo(v, category)),
       }
     }),
     crossCategoryTags: sharedTags.slice(0, 15).map((st) => ({

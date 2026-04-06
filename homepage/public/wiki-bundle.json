@@ -74,103 +74,184 @@
           "id": "z76NXRg1YWs",
           "title": "El Arte de Pedir Comida en Español",
           "views": 8,
-          "date": "2026-04-02T07:27:14Z"
+          "date": "2026-04-02T07:27:14Z",
+          "category": "korea"
         },
         {
           "id": "vH8kEIlJXf0",
           "title": "Guía de Supervivencia en Latinoamérica",
           "views": 10,
-          "date": "2026-03-27T15:55:56Z"
+          "date": "2026-03-27T15:55:56Z",
+          "category": "korea"
         },
         {
           "id": "oSqbvvcADmI",
           "title": "Guía de Supervivencia: Español para tu Llegada a Latinoamérica",
           "views": 7,
-          "date": "2026-03-15T21:16:17Z"
+          "date": "2026-03-15T21:16:17Z",
+          "category": "korea"
         },
         {
           "id": "kvdBJSRUchA",
           "title": "Seúl 2026: Tu Diario de Viaje",
           "views": 13,
-          "date": "2026-02-11T13:22:19Z"
+          "date": "2026-02-11T13:22:19Z",
+          "category": "korea",
+          "tags": [
+            "viaje",
+            "corea",
+            "seul"
+          ]
         },
         {
           "id": "rxQvDuohbt8",
           "title": "Jeju: Un Recuerdo en Tonos Pastel",
           "views": 13,
-          "date": "2026-02-08T21:26:47Z"
+          "date": "2026-02-08T21:26:47Z",
+          "category": "korea",
+          "tags": [
+            "viaje",
+            "corea",
+            "jeju"
+          ]
         },
         {
           "id": "rwNfzJanPmk",
           "title": "Ganghwa: Un Viaje en Tonos Pastel",
           "views": 6,
-          "date": "2026-02-07T00:00:53Z"
+          "date": "2026-02-07T00:00:53Z",
+          "category": "korea",
+          "tags": [
+            "viaje",
+            "corea",
+            "ganghwa"
+          ]
         },
         {
           "id": "QLcNRIHYmj0",
           "title": "Un Viaje a Sokcho",
           "views": 17,
-          "date": "2026-02-04T23:43:01Z"
+          "date": "2026-02-04T23:43:01Z",
+          "category": "korea",
+          "tags": [
+            "viaje",
+            "corea",
+            "sokcho"
+          ]
         },
         {
           "id": "nxuaOP3C1Ns",
           "title": "Bocetos de Daejeon",
           "views": 15,
-          "date": "2026-02-03T23:48:39Z"
+          "date": "2026-02-03T23:48:39Z",
+          "category": "korea",
+          "tags": [
+            "viaje",
+            "corea",
+            "daejeon"
+          ]
         },
         {
           "id": "awa_UWXFOao",
           "title": "Hasta pronto, Danyang",
           "views": 10,
-          "date": "2026-02-02T10:22:35Z"
+          "date": "2026-02-02T10:22:35Z",
+          "category": "korea",
+          "tags": [
+            "viaje",
+            "corea",
+            "danyang"
+          ]
         },
         {
           "id": "drVBXipEOAs",
           "title": "Jinju y Jirisan: el Valor a la Sabiduría",
           "views": 17,
-          "date": "2026-01-04T19:28:27Z"
+          "date": "2026-01-04T19:28:27Z",
+          "category": "korea",
+          "tags": [
+            "viaje",
+            "corea",
+            "jinju"
+          ]
         },
         {
           "id": "JlPl9MskqJM",
           "title": "Mi Cuaderno de Viaje: Yeosu",
           "views": 10,
-          "date": "2026-01-04T18:38:34Z"
+          "date": "2026-01-04T18:38:34Z",
+          "category": "korea",
+          "tags": [
+            "viaje",
+            "corea",
+            "yeosu"
+          ]
         },
         {
           "id": "EvcUSPWkOA8",
           "title": "Jeonju y Gochang: Apuntes de Corea",
           "views": 15,
-          "date": "2026-01-04T18:38:25Z"
+          "date": "2026-01-04T18:38:25Z",
+          "category": "korea",
+          "tags": [
+            "viaje",
+            "corea",
+            "jeonju"
+          ]
         },
         {
           "id": "CASZX56r-tk",
           "title": "Mi Cuaderno de Viaje: Andong",
           "views": 16,
-          "date": "2026-01-04T02:59:34Z"
+          "date": "2026-01-04T02:59:34Z",
+          "category": "korea",
+          "tags": [
+            "viaje",
+            "corea",
+            "andong"
+          ]
         },
         {
           "id": "4h84JgKkt94",
           "title": "Gyeongju: El Museo Sin Muros",
           "views": 10,
-          "date": "2026-01-03T00:31:42Z"
+          "date": "2026-01-03T00:31:42Z",
+          "category": "korea",
+          "tags": [
+            "viaje",
+            "corea",
+            "gyeongju"
+          ]
         },
         {
           "id": "vNHblhm9oQo",
           "title": "Mi Cuaderno de Busan",
           "views": 8,
-          "date": "2026-01-01T21:39:16Z"
+          "date": "2026-01-01T21:39:16Z",
+          "category": "korea",
+          "tags": [
+            "viaje",
+            "corea",
+            "busan"
+          ]
         },
         {
           "id": "L9sxbq8ugoU",
           "title": "Tu Viaje al Corazón de Corea",
           "views": 4,
-          "date": "2026-01-01T19:49:51Z"
+          "date": "2026-01-01T19:49:51Z",
+          "category": "korea",
+          "tags": [
+            "viaje",
+            "corea"
+          ]
         },
         {
           "id": "V2cZl5s4EKU",
           "title": "스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작",
           "views": 21,
-          "date": "2025-12-26T23:35:15Z"
+          "date": "2025-12-26T23:35:15Z",
+          "category": "korea"
         }
       ]
     },
@@ -201,13 +282,15 @@
               "id": "hnMR8rdGCnU",
               "title": "The Architecture of Fulfillment",
               "views": 45,
-              "date": "2026-03-26T11:26:49Z"
+              "date": "2026-03-26T11:26:49Z",
+              "category": "finance"
             },
             {
               "id": "nfD3KzIriM8",
               "title": "The architecture of wealth",
               "views": 8,
-              "date": "2026-01-16T22:17:34Z"
+              "date": "2026-01-16T22:17:34Z",
+              "category": "finance"
             }
           ]
         }
@@ -217,103 +300,124 @@
           "id": "hnMR8rdGCnU",
           "title": "The Architecture of Fulfillment",
           "views": 45,
-          "date": "2026-03-26T11:26:49Z"
+          "date": "2026-03-26T11:26:49Z",
+          "category": "finance"
         },
         {
           "id": "G-vvSNwm-jE",
           "title": "The Final 5 Years",
           "views": 19,
-          "date": "2026-03-20T23:47:12Z"
+          "date": "2026-03-20T23:47:12Z",
+          "category": "finance"
         },
         {
           "id": "_LrmdP64y6A",
           "title": "The Pomology Field Guide",
           "views": 18,
-          "date": "2026-03-19T22:13:16Z"
+          "date": "2026-03-19T22:13:16Z",
+          "category": "finance"
         },
         {
           "id": "2NoJVXPpcco",
           "title": "The 2026 Market Barbell",
           "views": 9,
-          "date": "2026-03-16T12:13:11Z"
+          "date": "2026-03-16T12:13:11Z",
+          "category": "finance"
         },
         {
           "id": "_4BC0zHGYTw",
           "title": "The Mathematics of Human Capital Compounding",
           "views": 14,
-          "date": "2026-03-05T13:10:46Z"
+          "date": "2026-03-05T13:10:46Z",
+          "category": "finance"
         },
         {
           "id": "9z6mOWQgU84",
           "title": "Navigating the Al Capital Cycle: 2026 & Beyond",
           "views": 87,
-          "date": "2026-02-17T14:46:13Z"
+          "date": "2026-02-17T14:46:13Z",
+          "category": "finance"
         },
         {
           "id": "bn-Nvmxgur8",
           "title": "The 2026 Barbell Strategy",
           "views": 12,
-          "date": "2026-02-17T14:24:35Z"
+          "date": "2026-02-17T14:24:35Z",
+          "category": "finance"
         },
         {
           "id": "ybR0RxXj2_M",
           "title": "2050: The Post-Labor Paradigm",
           "views": 10,
-          "date": "2026-02-07T18:56:02Z"
+          "date": "2026-02-07T18:56:02Z",
+          "category": "finance"
         },
         {
           "id": "K1O4kHjFJaQ",
           "title": "The Three Pillars of Financial Freedom",
           "views": 15,
-          "date": "2026-01-24T04:45:24Z"
+          "date": "2026-01-24T04:45:24Z",
+          "category": "finance"
         },
         {
           "id": "MBnVggs6k5g",
           "title": "The Exchange Rate of Your Life",
           "views": 17,
-          "date": "2026-01-22T23:21:20Z"
+          "date": "2026-01-22T23:21:20Z",
+          "category": "finance"
         },
         {
           "id": "nfD3KzIriM8",
           "title": "The architecture of wealth",
           "views": 8,
-          "date": "2026-01-16T22:17:34Z"
+          "date": "2026-01-16T22:17:34Z",
+          "category": "finance"
         },
         {
           "id": "s1BoGn9r7oE",
           "title": "The 2026  Playbook for High-Yield & Covered Call ETFs",
           "views": 2,
-          "date": "2026-01-05T23:11:19Z"
+          "date": "2026-01-05T23:11:19Z",
+          "category": "finance"
         },
         {
           "id": "EMXUbohWsWs",
           "title": "The 2026 Lifecycle ETF Playbook",
           "views": 9,
-          "date": "2026-01-04T07:12:28Z"
+          "date": "2026-01-04T07:12:28Z",
+          "category": "finance"
         },
         {
           "id": "KBfVy5-M-5k",
           "title": "The Retirement Red Zone",
           "views": 15,
-          "date": "2025-12-31T21:10:33Z"
+          "date": "2025-12-31T21:10:33Z",
+          "category": "finance"
         },
         {
           "id": "MDNRiJN7aEg",
           "title": "An Ambitious Ascent",
           "views": 11,
-          "date": "2025-12-29T08:43:50Z"
+          "date": "2025-12-29T08:43:50Z",
+          "category": "finance"
         },
         {
           "id": "nnL78ZVifZU",
           "title": "Reading the Market's Story",
           "views": 15,
-          "date": "2025-12-27T09:05:46Z"
+          "date": "2025-12-27T09:05:46Z",
+          "category": "finance"
         },
         {
           "id": "tPDFgVAp4c4",
           "title": "Breakout Stars and Dominant Titans",
           "views": 47,
-          "date": "2025-12-26T10:48:59Z"
+          "date": "2025-12-26T10:48:59Z",
+          "category": "finance",
+          "tags": [
+            "stocks",
+            "notebooklm"
+          ]
         }
       ]
     },
@@ -416,115 +520,243 @@
               "id": "BiYKKVsJROk",
               "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
               "views": 18,
-              "date": "2026-04-01T10:26:37Z"
+              "date": "2026-04-01T10:26:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "istio",
+                "argocd",
+                "gitops",
+                "wif"
+              ]
             },
             {
               "id": "nJ10P-fRqZQ",
               "title": "Modern Hybrid Identity ",
               "views": 7,
-              "date": "2026-03-17T22:31:43Z"
+              "date": "2026-03-17T22:31:43Z",
+              "category": "kubernetes",
+              "tags": [
+                "entra",
+                "aks",
+                "identity",
+                "ad",
+                "hybrid"
+              ]
             },
             {
               "id": "F09-7mNt3F4",
               "title": "Architecting AKS Networking - Trade-offs",
               "views": 14,
-              "date": "2026-03-12T10:45:55Z"
+              "date": "2026-03-12T10:45:55Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "networking",
+                "cni"
+              ]
             },
             {
               "id": "1PH7UB24xps",
               "title": "Architecting AKS Networking",
               "views": 16,
-              "date": "2026-03-11T22:24:43Z"
+              "date": "2026-03-11T22:24:43Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "networking",
+                "cni"
+              ]
             },
             {
               "id": "Hd767VA7Z-0",
               "title": "Strategic Implementation of Blue-Green Deployment",
               "views": 13,
-              "date": "2026-03-10T11:40:52Z"
+              "date": "2026-03-10T11:40:52Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "blue-green",
+                "zero downtime",
+                "istio"
+              ]
             },
             {
               "id": "Pxh2PcNx9W8",
               "title": "Modern Docker Networking & Traefik",
               "views": 38,
-              "date": "2026-03-03T23:15:03Z"
+              "date": "2026-03-03T23:15:03Z",
+              "category": "kubernetes",
+              "tags": [
+                "docker",
+                "traefik",
+                "networking"
+              ]
             },
             {
               "id": "3hSdKvqPcSE",
               "title": "Architecting AKS Node Auto-Provisioning",
               "views": 32,
-              "date": "2026-02-25T23:24:20Z"
+              "date": "2026-02-25T23:24:20Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "nap",
+                "hybrid",
+                "karpenter"
+              ]
             },
             {
               "id": "MIZ0ATwu7C0",
               "title": "Architecting Meilisearch on AKS & Istio",
               "views": 26,
-              "date": "2026-02-10T09:50:21Z"
+              "date": "2026-02-10T09:50:21Z",
+              "category": "kubernetes",
+              "tags": [
+                "melisearch",
+                "aks",
+                "istio"
+              ]
             },
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
               "views": 39,
-              "date": "2026-02-05T14:29:16Z"
+              "date": "2026-02-05T14:29:16Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "app registration",
+                "oauth2"
+              ]
             },
             {
               "id": "Q4qm1hvVR2A",
               "title": "Dragonfly on AKS",
               "views": 21,
-              "date": "2026-01-31T16:23:17Z"
+              "date": "2026-01-31T16:23:17Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "dragonfly",
+                "performance",
+                "aeraki",
+                "aks"
+              ]
             },
             {
               "id": "VxWyvAO3qb8",
               "title": "The Two-System Pattern",
               "views": 14,
-              "date": "2026-01-15T12:59:07Z"
+              "date": "2026-01-15T12:59:07Z",
+              "category": "kubernetes",
+              "tags": [
+                "nats",
+                "azure event hubs",
+                "aks",
+                "bridge"
+              ]
             },
             {
               "id": "A4-foXsdQiA",
               "title": "Securing Service-to-Service Communication in Kubernetes",
               "views": 23,
-              "date": "2026-01-15T03:44:26Z"
+              "date": "2026-01-15T03:44:26Z",
+              "category": "kubernetes",
+              "tags": [
+                "rust",
+                "mtls",
+                "istio",
+                "kubernetes",
+                "aks"
+              ]
             },
             {
               "id": "C6wLm6NRZW4",
               "title": "The Complete Codebase Lifecycle",
               "views": 6,
-              "date": "2026-01-14T10:07:05Z"
+              "date": "2026-01-14T10:07:05Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "acr",
+                "ci",
+                "cd",
+                "lifecycle"
+              ]
             },
             {
               "id": "N4nRAfBZ3BE",
               "title": "Choosing Your Messaging Fabric on AKS",
               "views": 5,
-              "date": "2026-01-10T21:55:01Z"
+              "date": "2026-01-10T21:55:01Z",
+              "category": "kubernetes",
+              "tags": [
+                "messaging",
+                "aks",
+                "nats",
+                "azure event hubs",
+                "rabbitmq"
+              ]
             },
             {
               "id": "C5HqbzLRYZ0",
               "title": "K8s Services  AKS & Istio",
               "views": 12,
-              "date": "2026-01-10T16:26:22Z"
+              "date": "2026-01-10T16:26:22Z",
+              "category": "kubernetes",
+              "tags": [
+                "istio",
+                "aks",
+                "kubernetes"
+              ]
             },
             {
               "id": "A7eoKD5m6Ek",
               "title": "Securely Exposing AKS Applications",
               "views": 9,
-              "date": "2026-01-08T08:17:48Z"
+              "date": "2026-01-08T08:17:48Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "public facing"
+              ]
             },
             {
               "id": "snRi_JET1bg",
               "title": "Deploying CSR Applications on Vercel Versus AKS",
               "views": 6,
-              "date": "2026-01-07T04:11:51Z"
+              "date": "2026-01-07T04:11:51Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "vercel",
+                "csr"
+              ]
             },
             {
               "id": "8ycnldvJmuA",
               "title": "The Blueprint for Enterprise AI on Azure",
               "views": 18,
-              "date": "2026-01-03T01:41:31Z"
+              "date": "2026-01-03T01:41:31Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "kubernetes"
+              ]
             },
             {
               "id": "ftODZr2_V5Q",
               "title": "Kubernetes Version Upgrade Strategy",
               "views": 29,
-              "date": "2025-12-26T11:21:45Z"
+              "date": "2025-12-26T11:21:45Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "aks",
+                "version",
+                "upgrade"
+              ]
             }
           ]
         },
@@ -535,49 +767,104 @@
               "id": "BiYKKVsJROk",
               "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
               "views": 18,
-              "date": "2026-04-01T10:26:37Z"
+              "date": "2026-04-01T10:26:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "istio",
+                "argocd",
+                "gitops",
+                "wif"
+              ]
             },
             {
               "id": "Hd767VA7Z-0",
               "title": "Strategic Implementation of Blue-Green Deployment",
               "views": 13,
-              "date": "2026-03-10T11:40:52Z"
+              "date": "2026-03-10T11:40:52Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "blue-green",
+                "zero downtime",
+                "istio"
+              ]
             },
             {
               "id": "P_xUJi_qt-Q",
               "title": "Advanced Architectural Synthesis",
               "views": 29,
-              "date": "2026-02-15T15:41:25Z"
+              "date": "2026-02-15T15:41:25Z",
+              "category": "kubernetes",
+              "tags": [
+                "distributed systems.",
+                "cqrs",
+                "service mesh",
+                "sidecar"
+              ]
             },
             {
               "id": "MIZ0ATwu7C0",
               "title": "Architecting Meilisearch on AKS & Istio",
               "views": 26,
-              "date": "2026-02-10T09:50:21Z"
+              "date": "2026-02-10T09:50:21Z",
+              "category": "kubernetes",
+              "tags": [
+                "melisearch",
+                "aks",
+                "istio"
+              ]
             },
             {
               "id": "0U-SUJCmKAU",
               "title": "From Stateful to Secure",
               "views": 46,
-              "date": "2026-01-16T06:38:21Z"
+              "date": "2026-01-16T06:38:21Z",
+              "category": "kubernetes",
+              "tags": [
+                "stateful",
+                "kubernetes",
+                "rabbitmq",
+                "mtls"
+              ]
             },
             {
               "id": "A4-foXsdQiA",
               "title": "Securing Service-to-Service Communication in Kubernetes",
               "views": 23,
-              "date": "2026-01-15T03:44:26Z"
+              "date": "2026-01-15T03:44:26Z",
+              "category": "kubernetes",
+              "tags": [
+                "rust",
+                "mtls",
+                "istio",
+                "kubernetes",
+                "aks"
+              ]
             },
             {
               "id": "OnwiaDRj1-k",
               "title": "Kubernetes Services & Istio",
               "views": 30,
-              "date": "2026-01-13T04:31:02Z"
+              "date": "2026-01-13T04:31:02Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "istio",
+                "service types"
+              ]
             },
             {
               "id": "C5HqbzLRYZ0",
               "title": "K8s Services  AKS & Istio",
               "views": 12,
-              "date": "2026-01-10T16:26:22Z"
+              "date": "2026-01-10T16:26:22Z",
+              "category": "kubernetes",
+              "tags": [
+                "istio",
+                "aks",
+                "kubernetes"
+              ]
             }
           ]
         },
@@ -588,49 +875,103 @@
               "id": "BiYKKVsJROk",
               "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
               "views": 18,
-              "date": "2026-04-01T10:26:37Z"
+              "date": "2026-04-01T10:26:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "istio",
+                "argocd",
+                "gitops",
+                "wif"
+              ]
             },
             {
               "id": "lexZnOlyml0",
               "title": "Agentic Platform Engineering with GitHub Copilot",
               "views": 60,
-              "date": "2026-03-27T03:34:28Z"
+              "date": "2026-03-27T03:34:28Z",
+              "category": "kubernetes",
+              "tags": [
+                "ai",
+                "copilot",
+                "agentic",
+                "platform",
+                "engineering"
+              ]
             },
             {
               "id": "QE51ybyrQDM",
               "title": "Designing the Event-Driven Landscape",
               "views": 66,
-              "date": "2026-03-23T04:50:00Z"
+              "date": "2026-03-23T04:50:00Z",
+              "category": "kubernetes",
+              "tags": [
+                "ces",
+                "cloudevents",
+                "spec"
+              ]
             },
             {
               "id": "n-Yt33ZdEHw",
               "title": "The Architecture of Modern Identity",
               "views": 62,
-              "date": "2026-03-18T23:55:13Z"
+              "date": "2026-03-18T23:55:13Z",
+              "category": "kubernetes",
+              "tags": [
+                "identity",
+                "kerberos",
+                "saml",
+                "oauth2",
+                "oidc",
+                "scim"
+              ]
             },
             {
               "id": "rk_3xU9OF-k",
               "title": "The Modern Platform Framework",
               "views": 27,
-              "date": "2026-02-19T22:59:21Z"
+              "date": "2026-02-19T22:59:21Z",
+              "category": "kubernetes",
+              "tags": [
+                "k8s",
+                "workload",
+                "framework"
+              ]
             },
             {
               "id": "mYClRFIlsFc",
               "title": "ScyllaDB: The Next-Generation NoSQL Platform",
               "views": 13,
-              "date": "2026-02-19T13:31:03Z"
+              "date": "2026-02-19T13:31:03Z",
+              "category": "kubernetes",
+              "tags": [
+                "nosql",
+                "c++"
+              ]
             },
             {
               "id": "5Ztm7JNVa8E",
               "title": "Drasi: The Future of Change-Driven Architecture",
               "views": 47,
-              "date": "2026-02-17T21:28:39Z"
+              "date": "2026-02-17T21:28:39Z",
+              "category": "kubernetes",
+              "tags": [
+                "change-driven",
+                "drasi",
+                "continuous queries"
+              ]
             },
             {
               "id": "rJTUB-u8U2Y",
               "title": "Kubernetes Cluster Architecture",
               "views": 12,
-              "date": "2026-01-10T03:23:02Z"
+              "date": "2026-01-10T03:23:02Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "cluster",
+                "architecture"
+              ]
             }
           ]
         },
@@ -641,43 +982,88 @@
               "id": "u60g2nMtVi4",
               "title": "The Data Singularity in Microsoft Fabric",
               "views": 15,
-              "date": "2026-03-13T20:39:27Z"
+              "date": "2026-03-13T20:39:27Z",
+              "category": "kubernetes",
+              "tags": [
+                "fablic",
+                "duckdb",
+                "polars",
+                "python"
+              ]
             },
             {
               "id": "mYClRFIlsFc",
               "title": "ScyllaDB: The Next-Generation NoSQL Platform",
               "views": 13,
-              "date": "2026-02-19T13:31:03Z"
+              "date": "2026-02-19T13:31:03Z",
+              "category": "kubernetes",
+              "tags": [
+                "nosql",
+                "c++"
+              ]
             },
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
               "views": 35,
-              "date": "2026-02-13T00:09:38Z"
+              "date": "2026-02-13T00:09:38Z",
+              "category": "kubernetes",
+              "tags": [
+                "go",
+                "badgerdb",
+                "key-value store"
+              ]
             },
             {
               "id": "MIZ0ATwu7C0",
               "title": "Architecting Meilisearch on AKS & Istio",
               "views": 26,
-              "date": "2026-02-10T09:50:21Z"
+              "date": "2026-02-10T09:50:21Z",
+              "category": "kubernetes",
+              "tags": [
+                "melisearch",
+                "aks",
+                "istio"
+              ]
             },
             {
               "id": "BsiQrEaF3kU",
               "title": "MotherDuck: Serverless DuckDB in the Cloud & Client",
               "views": 26,
-              "date": "2026-02-04T11:42:09Z"
+              "date": "2026-02-04T11:42:09Z",
+              "category": "kubernetes",
+              "tags": [
+                "duckdb",
+                "hybrid query"
+              ]
             },
             {
               "id": "Q4qm1hvVR2A",
               "title": "Dragonfly on AKS",
               "views": 21,
-              "date": "2026-01-31T16:23:17Z"
+              "date": "2026-01-31T16:23:17Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "dragonfly",
+                "performance",
+                "aeraki",
+                "aks"
+              ]
             },
             {
               "id": "N4nRAfBZ3BE",
               "title": "Choosing Your Messaging Fabric on AKS",
               "views": 5,
-              "date": "2026-01-10T21:55:01Z"
+              "date": "2026-01-10T21:55:01Z",
+              "category": "kubernetes",
+              "tags": [
+                "messaging",
+                "aks",
+                "nats",
+                "azure event hubs",
+                "rabbitmq"
+              ]
             }
           ]
         },
@@ -688,37 +1074,80 @@
               "id": "WRpjJV4SUKc",
               "title": "Architecting Real-Time State",
               "views": 21,
-              "date": "2026-04-05T12:14:36Z"
+              "date": "2026-04-05T12:14:36Z",
+              "category": "kubernetes",
+              "tags": [
+                "cdc",
+                "debezium",
+                "rabbitmq",
+                "outbox"
+              ]
             },
             {
               "id": "7iWL5-0C66s",
               "title": "Bridging the Mainframe to the Cloud",
               "views": 19,
-              "date": "2026-04-04T10:58:19Z"
+              "date": "2026-04-04T10:58:19Z",
+              "category": "kubernetes",
+              "tags": [
+                "mainframe",
+                "ibm mq",
+                "shovel",
+                "rabbitmq"
+              ]
             },
             {
               "id": "tcrNdx1yH_E",
               "title": "Continuous Flow",
               "views": 15,
-              "date": "2026-03-22T14:47:34Z"
+              "date": "2026-03-22T14:47:34Z",
+              "category": "kubernetes",
+              "tags": [
+                "azure",
+                "event hubs",
+                "sql mi",
+                "ces"
+              ]
             },
             {
               "id": "0U-SUJCmKAU",
               "title": "From Stateful to Secure",
               "views": 46,
-              "date": "2026-01-16T06:38:21Z"
+              "date": "2026-01-16T06:38:21Z",
+              "category": "kubernetes",
+              "tags": [
+                "stateful",
+                "kubernetes",
+                "rabbitmq",
+                "mtls"
+              ]
             },
             {
               "id": "VxWyvAO3qb8",
               "title": "The Two-System Pattern",
               "views": 14,
-              "date": "2026-01-15T12:59:07Z"
+              "date": "2026-01-15T12:59:07Z",
+              "category": "kubernetes",
+              "tags": [
+                "nats",
+                "azure event hubs",
+                "aks",
+                "bridge"
+              ]
             },
             {
               "id": "N4nRAfBZ3BE",
               "title": "Choosing Your Messaging Fabric on AKS",
               "views": 5,
-              "date": "2026-01-10T21:55:01Z"
+              "date": "2026-01-10T21:55:01Z",
+              "category": "kubernetes",
+              "tags": [
+                "messaging",
+                "aks",
+                "nats",
+                "azure event hubs",
+                "rabbitmq"
+              ]
             }
           ]
         },
@@ -729,37 +1158,75 @@
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
               "views": 39,
-              "date": "2026-02-05T14:29:16Z"
+              "date": "2026-02-05T14:29:16Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "app registration",
+                "oauth2"
+              ]
             },
             {
               "id": "KpSjLQpswW4",
               "title": "Secure Service-to-Service Authorization with SpiceDB",
               "views": 28,
-              "date": "2026-01-27T11:21:16Z"
+              "date": "2026-01-27T11:21:16Z",
+              "category": "kubernetes",
+              "tags": [
+                "spicedb",
+                "rebac"
+              ]
             },
             {
               "id": "4b-H6ZaoNUE",
               "title": "Zero Trust in Kubernetes",
               "views": 41,
-              "date": "2026-01-17T18:21:53Z"
+              "date": "2026-01-17T18:21:53Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "east-west",
+                "north-south",
+                "ztna",
+                "zts",
+                "workload identity"
+              ]
             },
             {
               "id": "0U-SUJCmKAU",
               "title": "From Stateful to Secure",
               "views": 46,
-              "date": "2026-01-16T06:38:21Z"
+              "date": "2026-01-16T06:38:21Z",
+              "category": "kubernetes",
+              "tags": [
+                "stateful",
+                "kubernetes",
+                "rabbitmq",
+                "mtls"
+              ]
             },
             {
               "id": "R2zktRqz81U",
               "title": "A Blueprint for Secure Azure Authentication in Go",
               "views": 18,
-              "date": "2026-01-13T00:32:55Z"
+              "date": "2026-01-13T00:32:55Z",
+              "category": "kubernetes",
+              "tags": [
+                "workload identity",
+                "azure",
+                "sdk"
+              ]
             },
             {
               "id": "A7eoKD5m6Ek",
               "title": "Securely Exposing AKS Applications",
               "views": 9,
-              "date": "2026-01-08T08:17:48Z"
+              "date": "2026-01-08T08:17:48Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "public facing"
+              ]
             }
           ]
         },
@@ -770,31 +1237,65 @@
               "id": "BiYKKVsJROk",
               "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
               "views": 18,
-              "date": "2026-04-01T10:26:37Z"
+              "date": "2026-04-01T10:26:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "istio",
+                "argocd",
+                "gitops",
+                "wif"
+              ]
             },
             {
               "id": "Hd767VA7Z-0",
               "title": "Strategic Implementation of Blue-Green Deployment",
               "views": 13,
-              "date": "2026-03-10T11:40:52Z"
+              "date": "2026-03-10T11:40:52Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "blue-green",
+                "zero downtime",
+                "istio"
+              ]
             },
             {
               "id": "ORjARjbukhY",
               "title": "The Golden Path",
               "views": 25,
-              "date": "2026-02-21T10:33:08Z"
+              "date": "2026-02-21T10:33:08Z",
+              "category": "kubernetes",
+              "tags": [
+                "golden",
+                "deployments",
+                "tandardization"
+              ]
             },
             {
               "id": "7eoxSgjwYlM",
               "title": "Bridging Helm and CUE for Deterministic Value Composition",
               "views": 23,
-              "date": "2026-02-19T13:24:37Z"
+              "date": "2026-02-19T13:24:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "cue",
+                "composition",
+                "config-as-data",
+                "shift left"
+              ]
             },
             {
               "id": "_sxPf3tHq3s",
               "title": "The 100+ Service Problem",
               "views": 27,
-              "date": "2026-01-16T08:00:15Z"
+              "date": "2026-01-16T08:00:15Z",
+              "category": "kubernetes",
+              "tags": [
+                "helm",
+                "ci/cd",
+                "kubernetes"
+              ]
             }
           ]
         },
@@ -805,31 +1306,65 @@
               "id": "BiYKKVsJROk",
               "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
               "views": 18,
-              "date": "2026-04-01T10:26:37Z"
+              "date": "2026-04-01T10:26:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "istio",
+                "argocd",
+                "gitops",
+                "wif"
+              ]
             },
             {
               "id": "ORjARjbukhY",
               "title": "The Golden Path",
               "views": 25,
-              "date": "2026-02-21T10:33:08Z"
+              "date": "2026-02-21T10:33:08Z",
+              "category": "kubernetes",
+              "tags": [
+                "golden",
+                "deployments",
+                "tandardization"
+              ]
             },
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
               "views": 35,
-              "date": "2026-02-13T00:09:38Z"
+              "date": "2026-02-13T00:09:38Z",
+              "category": "kubernetes",
+              "tags": [
+                "go",
+                "badgerdb",
+                "key-value store"
+              ]
             },
             {
               "id": "Q4qm1hvVR2A",
               "title": "Dragonfly on AKS",
               "views": 21,
-              "date": "2026-01-31T16:23:17Z"
+              "date": "2026-01-31T16:23:17Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "dragonfly",
+                "performance",
+                "aeraki",
+                "aks"
+              ]
             },
             {
               "id": "R2zktRqz81U",
               "title": "A Blueprint for Secure Azure Authentication in Go",
               "views": 18,
-              "date": "2026-01-13T00:32:55Z"
+              "date": "2026-01-13T00:32:55Z",
+              "category": "kubernetes",
+              "tags": [
+                "workload identity",
+                "azure",
+                "sdk"
+              ]
             }
           ]
         },
@@ -840,31 +1375,69 @@
               "id": "n-Yt33ZdEHw",
               "title": "The Architecture of Modern Identity",
               "views": 62,
-              "date": "2026-03-18T23:55:13Z"
+              "date": "2026-03-18T23:55:13Z",
+              "category": "kubernetes",
+              "tags": [
+                "identity",
+                "kerberos",
+                "saml",
+                "oauth2",
+                "oidc",
+                "scim"
+              ]
             },
             {
               "id": "nJ10P-fRqZQ",
               "title": "Modern Hybrid Identity ",
               "views": 7,
-              "date": "2026-03-17T22:31:43Z"
+              "date": "2026-03-17T22:31:43Z",
+              "category": "kubernetes",
+              "tags": [
+                "entra",
+                "aks",
+                "identity",
+                "ad",
+                "hybrid"
+              ]
             },
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
               "views": 39,
-              "date": "2026-02-05T14:29:16Z"
+              "date": "2026-02-05T14:29:16Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "app registration",
+                "oauth2"
+              ]
             },
             {
               "id": "4b-H6ZaoNUE",
               "title": "Zero Trust in Kubernetes",
               "views": 41,
-              "date": "2026-01-17T18:21:53Z"
+              "date": "2026-01-17T18:21:53Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "east-west",
+                "north-south",
+                "ztna",
+                "zts",
+                "workload identity"
+              ]
             },
             {
               "id": "R2zktRqz81U",
               "title": "A Blueprint for Secure Azure Authentication in Go",
               "views": 18,
-              "date": "2026-01-13T00:32:55Z"
+              "date": "2026-01-13T00:32:55Z",
+              "category": "kubernetes",
+              "tags": [
+                "workload identity",
+                "azure",
+                "sdk"
+              ]
             }
           ]
         },
@@ -875,31 +1448,63 @@
               "id": "to1PClyd0YA",
               "title": "Architecting Kubernetes with CUE",
               "views": 14,
-              "date": "2026-03-17T00:52:39Z"
+              "date": "2026-03-17T00:52:39Z",
+              "category": "kubernetes",
+              "tags": [
+                "cue",
+                "kubernetes",
+                "example"
+              ]
             },
             {
               "id": "LUOX5xkSyi0",
               "title": "CUE: Navigating the Core Features",
               "views": 28,
-              "date": "2026-03-16T10:38:39Z"
+              "date": "2026-03-16T10:38:39Z",
+              "category": "kubernetes",
+              "tags": [
+                "cue",
+                "core",
+                "features"
+              ]
             },
             {
               "id": "y3WwL48DLYw",
               "title": "Kubernetes Auto-Scaling Strategies",
               "views": 29,
-              "date": "2026-02-24T05:06:42Z"
+              "date": "2026-02-24T05:06:42Z",
+              "category": "kubernetes",
+              "tags": [
+                "hpa",
+                "vpa",
+                "auto-scaling",
+                "cue"
+              ]
             },
             {
               "id": "7eoxSgjwYlM",
               "title": "Bridging Helm and CUE for Deterministic Value Composition",
               "views": 23,
-              "date": "2026-02-19T13:24:37Z"
+              "date": "2026-02-19T13:24:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "cue",
+                "composition",
+                "config-as-data",
+                "shift left"
+              ]
             },
             {
               "id": "okVlu1qseI4",
               "title": "Beyond Static Configuration",
               "views": 25,
-              "date": "2026-02-15T08:48:55Z"
+              "date": "2026-02-15T08:48:55Z",
+              "category": "kubernetes",
+              "tags": [
+                "shift left",
+                "hermetic",
+                "cue"
+              ]
             }
           ]
         },
@@ -910,25 +1515,54 @@
               "id": "7iWL5-0C66s",
               "title": "Bridging the Mainframe to the Cloud",
               "views": 19,
-              "date": "2026-04-04T10:58:19Z"
+              "date": "2026-04-04T10:58:19Z",
+              "category": "kubernetes",
+              "tags": [
+                "mainframe",
+                "ibm mq",
+                "shovel",
+                "rabbitmq"
+              ]
             },
             {
               "id": "lexZnOlyml0",
               "title": "Agentic Platform Engineering with GitHub Copilot",
               "views": 60,
-              "date": "2026-03-27T03:34:28Z"
+              "date": "2026-03-27T03:34:28Z",
+              "category": "kubernetes",
+              "tags": [
+                "ai",
+                "copilot",
+                "agentic",
+                "platform",
+                "engineering"
+              ]
             },
             {
               "id": "n-Yt33ZdEHw",
               "title": "The Architecture of Modern Identity",
               "views": 62,
-              "date": "2026-03-18T23:55:13Z"
+              "date": "2026-03-18T23:55:13Z",
+              "category": "kubernetes",
+              "tags": [
+                "identity",
+                "kerberos",
+                "saml",
+                "oauth2",
+                "oidc",
+                "scim"
+              ]
             },
             {
               "id": "8ycnldvJmuA",
               "title": "The Blueprint for Enterprise AI on Azure",
               "views": 18,
-              "date": "2026-01-03T01:41:31Z"
+              "date": "2026-01-03T01:41:31Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "kubernetes"
+              ]
             }
           ]
         },
@@ -939,13 +1573,30 @@
               "id": "4b-H6ZaoNUE",
               "title": "Zero Trust in Kubernetes",
               "views": 41,
-              "date": "2026-01-17T18:21:53Z"
+              "date": "2026-01-17T18:21:53Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "east-west",
+                "north-south",
+                "ztna",
+                "zts",
+                "workload identity"
+              ]
             },
             {
               "id": "A4-foXsdQiA",
               "title": "Securing Service-to-Service Communication in Kubernetes",
               "views": 23,
-              "date": "2026-01-15T03:44:26Z"
+              "date": "2026-01-15T03:44:26Z",
+              "category": "kubernetes",
+              "tags": [
+                "rust",
+                "mtls",
+                "istio",
+                "kubernetes",
+                "aks"
+              ]
             }
           ]
         }
@@ -955,307 +1606,643 @@
           "id": "WRpjJV4SUKc",
           "title": "Architecting Real-Time State",
           "views": 21,
-          "date": "2026-04-05T12:14:36Z"
+          "date": "2026-04-05T12:14:36Z",
+          "category": "kubernetes",
+          "tags": [
+            "cdc",
+            "debezium",
+            "rabbitmq",
+            "outbox"
+          ]
         },
         {
           "id": "7Dchx829X_M",
           "title": "Architecting the edge for HTTP/3 and QUIC",
           "views": 35,
-          "date": "2026-04-05T00:11:43Z"
+          "date": "2026-04-05T00:11:43Z",
+          "category": "kubernetes",
+          "tags": [
+            "http/3",
+            "quic",
+            "udp",
+            "stateless",
+            "dual-stack"
+          ]
         },
         {
           "id": "7iWL5-0C66s",
           "title": "Bridging the Mainframe to the Cloud",
           "views": 19,
-          "date": "2026-04-04T10:58:19Z"
+          "date": "2026-04-04T10:58:19Z",
+          "category": "kubernetes",
+          "tags": [
+            "mainframe",
+            "ibm mq",
+            "shovel",
+            "rabbitmq"
+          ]
         },
         {
           "id": "BiYKKVsJROk",
           "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
           "views": 18,
-          "date": "2026-04-01T10:26:37Z"
+          "date": "2026-04-01T10:26:37Z",
+          "category": "kubernetes",
+          "tags": [
+            "aks",
+            "istio",
+            "argocd",
+            "gitops",
+            "wif"
+          ]
         },
         {
           "id": "fMjflPvjaJ8",
           "title": "Azure Enterprise Edge Lab",
           "views": 8,
-          "date": "2026-03-31T07:48:06Z"
+          "date": "2026-03-31T07:48:06Z",
+          "category": "kubernetes",
+          "tags": [
+            "azure",
+            "waf",
+            "edge",
+            "lab"
+          ]
         },
         {
           "id": "lexZnOlyml0",
           "title": "Agentic Platform Engineering with GitHub Copilot",
           "views": 60,
-          "date": "2026-03-27T03:34:28Z"
+          "date": "2026-03-27T03:34:28Z",
+          "category": "kubernetes",
+          "tags": [
+            "ai",
+            "copilot",
+            "agentic",
+            "platform",
+            "engineering"
+          ]
         },
         {
           "id": "QE51ybyrQDM",
           "title": "Designing the Event-Driven Landscape",
           "views": 66,
-          "date": "2026-03-23T04:50:00Z"
+          "date": "2026-03-23T04:50:00Z",
+          "category": "kubernetes",
+          "tags": [
+            "ces",
+            "cloudevents",
+            "spec"
+          ]
         },
         {
           "id": "RLlEbcXO6k8",
           "title": "Migrating Workloads from AWS to Azure",
           "views": 7,
-          "date": "2026-03-22T22:39:06Z"
+          "date": "2026-03-22T22:39:06Z",
+          "category": "kubernetes",
+          "tags": [
+            "azure",
+            "workload",
+            "migration",
+            "aws"
+          ]
         },
         {
           "id": "tcrNdx1yH_E",
           "title": "Continuous Flow",
           "views": 15,
-          "date": "2026-03-22T14:47:34Z"
+          "date": "2026-03-22T14:47:34Z",
+          "category": "kubernetes",
+          "tags": [
+            "azure",
+            "event hubs",
+            "sql mi",
+            "ces"
+          ]
         },
         {
           "id": "n-Yt33ZdEHw",
           "title": "The Architecture of Modern Identity",
           "views": 62,
-          "date": "2026-03-18T23:55:13Z"
+          "date": "2026-03-18T23:55:13Z",
+          "category": "kubernetes",
+          "tags": [
+            "identity",
+            "kerberos",
+            "saml",
+            "oauth2",
+            "oidc",
+            "scim"
+          ]
         },
         {
           "id": "nJ10P-fRqZQ",
           "title": "Modern Hybrid Identity ",
           "views": 7,
-          "date": "2026-03-17T22:31:43Z"
+          "date": "2026-03-17T22:31:43Z",
+          "category": "kubernetes",
+          "tags": [
+            "entra",
+            "aks",
+            "identity",
+            "ad",
+            "hybrid"
+          ]
         },
         {
           "id": "to1PClyd0YA",
           "title": "Architecting Kubernetes with CUE",
           "views": 14,
-          "date": "2026-03-17T00:52:39Z"
+          "date": "2026-03-17T00:52:39Z",
+          "category": "kubernetes",
+          "tags": [
+            "cue",
+            "kubernetes",
+            "example"
+          ]
         },
         {
           "id": "LUOX5xkSyi0",
           "title": "CUE: Navigating the Core Features",
           "views": 28,
-          "date": "2026-03-16T10:38:39Z"
+          "date": "2026-03-16T10:38:39Z",
+          "category": "kubernetes",
+          "tags": [
+            "cue",
+            "core",
+            "features"
+          ]
         },
         {
           "id": "u60g2nMtVi4",
           "title": "The Data Singularity in Microsoft Fabric",
           "views": 15,
-          "date": "2026-03-13T20:39:27Z"
+          "date": "2026-03-13T20:39:27Z",
+          "category": "kubernetes",
+          "tags": [
+            "fablic",
+            "duckdb",
+            "polars",
+            "python"
+          ]
         },
         {
           "id": "F09-7mNt3F4",
           "title": "Architecting AKS Networking - Trade-offs",
           "views": 14,
-          "date": "2026-03-12T10:45:55Z"
+          "date": "2026-03-12T10:45:55Z",
+          "category": "kubernetes",
+          "tags": [
+            "aks",
+            "networking",
+            "cni"
+          ]
         },
         {
           "id": "1PH7UB24xps",
           "title": "Architecting AKS Networking",
           "views": 16,
-          "date": "2026-03-11T22:24:43Z"
+          "date": "2026-03-11T22:24:43Z",
+          "category": "kubernetes",
+          "tags": [
+            "aks",
+            "networking",
+            "cni"
+          ]
         },
         {
           "id": "Hd767VA7Z-0",
           "title": "Strategic Implementation of Blue-Green Deployment",
           "views": 13,
-          "date": "2026-03-10T11:40:52Z"
+          "date": "2026-03-10T11:40:52Z",
+          "category": "kubernetes",
+          "tags": [
+            "aks",
+            "blue-green",
+            "zero downtime",
+            "istio"
+          ]
         },
         {
           "id": "aiYBPCkvhes",
           "title": "kube-log-viewer",
           "views": 24,
-          "date": "2026-03-05T12:32:56Z"
+          "date": "2026-03-05T12:32:56Z",
+          "category": "kubernetes",
+          "tags": [
+            "tui",
+            "logs",
+            "kubernetes"
+          ]
         },
         {
           "id": "Pxh2PcNx9W8",
           "title": "Modern Docker Networking & Traefik",
           "views": 38,
-          "date": "2026-03-03T23:15:03Z"
+          "date": "2026-03-03T23:15:03Z",
+          "category": "kubernetes",
+          "tags": [
+            "docker",
+            "traefik",
+            "networking"
+          ]
         },
         {
           "id": "3hSdKvqPcSE",
           "title": "Architecting AKS Node Auto-Provisioning",
           "views": 32,
-          "date": "2026-02-25T23:24:20Z"
+          "date": "2026-02-25T23:24:20Z",
+          "category": "kubernetes",
+          "tags": [
+            "aks",
+            "nap",
+            "hybrid",
+            "karpenter"
+          ]
         },
         {
           "id": "y3WwL48DLYw",
           "title": "Kubernetes Auto-Scaling Strategies",
           "views": 29,
-          "date": "2026-02-24T05:06:42Z"
+          "date": "2026-02-24T05:06:42Z",
+          "category": "kubernetes",
+          "tags": [
+            "hpa",
+            "vpa",
+            "auto-scaling",
+            "cue"
+          ]
         },
         {
           "id": "ORjARjbukhY",
           "title": "The Golden Path",
           "views": 25,
-          "date": "2026-02-21T10:33:08Z"
+          "date": "2026-02-21T10:33:08Z",
+          "category": "kubernetes",
+          "tags": [
+            "golden",
+            "deployments",
+            "tandardization"
+          ]
         },
         {
           "id": "rk_3xU9OF-k",
           "title": "The Modern Platform Framework",
           "views": 27,
-          "date": "2026-02-19T22:59:21Z"
+          "date": "2026-02-19T22:59:21Z",
+          "category": "kubernetes",
+          "tags": [
+            "k8s",
+            "workload",
+            "framework"
+          ]
         },
         {
           "id": "mYClRFIlsFc",
           "title": "ScyllaDB: The Next-Generation NoSQL Platform",
           "views": 13,
-          "date": "2026-02-19T13:31:03Z"
+          "date": "2026-02-19T13:31:03Z",
+          "category": "kubernetes",
+          "tags": [
+            "nosql",
+            "c++"
+          ]
         },
         {
           "id": "7eoxSgjwYlM",
           "title": "Bridging Helm and CUE for Deterministic Value Composition",
           "views": 23,
-          "date": "2026-02-19T13:24:37Z"
+          "date": "2026-02-19T13:24:37Z",
+          "category": "kubernetes",
+          "tags": [
+            "cue",
+            "composition",
+            "config-as-data",
+            "shift left"
+          ]
         },
         {
           "id": "5Ztm7JNVa8E",
           "title": "Drasi: The Future of Change-Driven Architecture",
           "views": 47,
-          "date": "2026-02-17T21:28:39Z"
+          "date": "2026-02-17T21:28:39Z",
+          "category": "kubernetes",
+          "tags": [
+            "change-driven",
+            "drasi",
+            "continuous queries"
+          ]
         },
         {
           "id": "P_xUJi_qt-Q",
           "title": "Advanced Architectural Synthesis",
           "views": 29,
-          "date": "2026-02-15T15:41:25Z"
+          "date": "2026-02-15T15:41:25Z",
+          "category": "kubernetes",
+          "tags": [
+            "distributed systems.",
+            "cqrs",
+            "service mesh",
+            "sidecar"
+          ]
         },
         {
           "id": "okVlu1qseI4",
           "title": "Beyond Static Configuration",
           "views": 25,
-          "date": "2026-02-15T08:48:55Z"
+          "date": "2026-02-15T08:48:55Z",
+          "category": "kubernetes",
+          "tags": [
+            "shift left",
+            "hermetic",
+            "cue"
+          ]
         },
         {
           "id": "eI2DXGISpbk",
           "title": "BadgerDB: The Go-Native Key-Value Store",
           "views": 35,
-          "date": "2026-02-13T00:09:38Z"
+          "date": "2026-02-13T00:09:38Z",
+          "category": "kubernetes",
+          "tags": [
+            "go",
+            "badgerdb",
+            "key-value store"
+          ]
         },
         {
           "id": "MIZ0ATwu7C0",
           "title": "Architecting Meilisearch on AKS & Istio",
           "views": 26,
-          "date": "2026-02-10T09:50:21Z"
+          "date": "2026-02-10T09:50:21Z",
+          "category": "kubernetes",
+          "tags": [
+            "melisearch",
+            "aks",
+            "istio"
+          ]
         },
         {
           "id": "rgY4KTMFOMs",
           "title": "Secure Web App with Azure AD/OAuth2 Proxy",
           "views": 39,
-          "date": "2026-02-05T14:29:16Z"
+          "date": "2026-02-05T14:29:16Z",
+          "category": "kubernetes",
+          "tags": [
+            "aks",
+            "app registration",
+            "oauth2"
+          ]
         },
         {
           "id": "BsiQrEaF3kU",
           "title": "MotherDuck: Serverless DuckDB in the Cloud & Client",
           "views": 26,
-          "date": "2026-02-04T11:42:09Z"
+          "date": "2026-02-04T11:42:09Z",
+          "category": "kubernetes",
+          "tags": [
+            "duckdb",
+            "hybrid query"
+          ]
         },
         {
           "id": "Q4qm1hvVR2A",
           "title": "Dragonfly on AKS",
           "views": 21,
-          "date": "2026-01-31T16:23:17Z"
+          "date": "2026-01-31T16:23:17Z",
+          "category": "kubernetes",
+          "tags": [
+            "kubernetes",
+            "dragonfly",
+            "performance",
+            "aeraki",
+            "aks"
+          ]
         },
         {
           "id": "WHonjixQgBY",
           "title": "The 2026 Architectural Standard",
           "views": 54,
-          "date": "2026-01-31T16:07:10Z"
+          "date": "2026-01-31T16:07:10Z",
+          "category": "kubernetes",
+          "tags": [
+            "kubernetes",
+            "infra",
+            "modern"
+          ]
         },
         {
           "id": "KpSjLQpswW4",
           "title": "Secure Service-to-Service Authorization with SpiceDB",
           "views": 28,
-          "date": "2026-01-27T11:21:16Z"
+          "date": "2026-01-27T11:21:16Z",
+          "category": "kubernetes",
+          "tags": [
+            "spicedb",
+            "rebac"
+          ]
         },
         {
           "id": "4b-H6ZaoNUE",
           "title": "Zero Trust in Kubernetes",
           "views": 41,
-          "date": "2026-01-17T18:21:53Z"
+          "date": "2026-01-17T18:21:53Z",
+          "category": "kubernetes",
+          "tags": [
+            "kubernetes",
+            "east-west",
+            "north-south",
+            "ztna",
+            "zts",
+            "workload identity"
+          ]
         },
         {
           "id": "_sxPf3tHq3s",
           "title": "The 100+ Service Problem",
           "views": 27,
-          "date": "2026-01-16T08:00:15Z"
+          "date": "2026-01-16T08:00:15Z",
+          "category": "kubernetes",
+          "tags": [
+            "helm",
+            "ci/cd",
+            "kubernetes"
+          ]
         },
         {
           "id": "0U-SUJCmKAU",
           "title": "From Stateful to Secure",
           "views": 46,
-          "date": "2026-01-16T06:38:21Z"
+          "date": "2026-01-16T06:38:21Z",
+          "category": "kubernetes",
+          "tags": [
+            "stateful",
+            "kubernetes",
+            "rabbitmq",
+            "mtls"
+          ]
         },
         {
           "id": "VxWyvAO3qb8",
           "title": "The Two-System Pattern",
           "views": 14,
-          "date": "2026-01-15T12:59:07Z"
+          "date": "2026-01-15T12:59:07Z",
+          "category": "kubernetes",
+          "tags": [
+            "nats",
+            "azure event hubs",
+            "aks",
+            "bridge"
+          ]
         },
         {
           "id": "A4-foXsdQiA",
           "title": "Securing Service-to-Service Communication in Kubernetes",
           "views": 23,
-          "date": "2026-01-15T03:44:26Z"
+          "date": "2026-01-15T03:44:26Z",
+          "category": "kubernetes",
+          "tags": [
+            "rust",
+            "mtls",
+            "istio",
+            "kubernetes",
+            "aks"
+          ]
         },
         {
           "id": "C6wLm6NRZW4",
           "title": "The Complete Codebase Lifecycle",
           "views": 6,
-          "date": "2026-01-14T10:07:05Z"
+          "date": "2026-01-14T10:07:05Z",
+          "category": "kubernetes",
+          "tags": [
+            "aks",
+            "acr",
+            "ci",
+            "cd",
+            "lifecycle"
+          ]
         },
         {
           "id": "ctKLD4d146g",
           "title": "The Codebase Lifecycle",
           "views": 16,
-          "date": "2026-01-13T10:57:14Z"
+          "date": "2026-01-13T10:57:14Z",
+          "category": "kubernetes",
+          "tags": [
+            "codebase",
+            "lifecycle"
+          ]
         },
         {
           "id": "OnwiaDRj1-k",
           "title": "Kubernetes Services & Istio",
           "views": 30,
-          "date": "2026-01-13T04:31:02Z"
+          "date": "2026-01-13T04:31:02Z",
+          "category": "kubernetes",
+          "tags": [
+            "kubernetes",
+            "istio",
+            "service types"
+          ]
         },
         {
           "id": "R2zktRqz81U",
           "title": "A Blueprint for Secure Azure Authentication in Go",
           "views": 18,
-          "date": "2026-01-13T00:32:55Z"
+          "date": "2026-01-13T00:32:55Z",
+          "category": "kubernetes",
+          "tags": [
+            "workload identity",
+            "azure",
+            "sdk"
+          ]
         },
         {
           "id": "N4nRAfBZ3BE",
           "title": "Choosing Your Messaging Fabric on AKS",
           "views": 5,
-          "date": "2026-01-10T21:55:01Z"
+          "date": "2026-01-10T21:55:01Z",
+          "category": "kubernetes",
+          "tags": [
+            "messaging",
+            "aks",
+            "nats",
+            "azure event hubs",
+            "rabbitmq"
+          ]
         },
         {
           "id": "C5HqbzLRYZ0",
           "title": "K8s Services  AKS & Istio",
           "views": 12,
-          "date": "2026-01-10T16:26:22Z"
+          "date": "2026-01-10T16:26:22Z",
+          "category": "kubernetes",
+          "tags": [
+            "istio",
+            "aks",
+            "kubernetes"
+          ]
         },
         {
           "id": "rJTUB-u8U2Y",
           "title": "Kubernetes Cluster Architecture",
           "views": 12,
-          "date": "2026-01-10T03:23:02Z"
+          "date": "2026-01-10T03:23:02Z",
+          "category": "kubernetes",
+          "tags": [
+            "kubernetes",
+            "cluster",
+            "architecture"
+          ]
         },
         {
           "id": "A7eoKD5m6Ek",
           "title": "Securely Exposing AKS Applications",
           "views": 9,
-          "date": "2026-01-08T08:17:48Z"
+          "date": "2026-01-08T08:17:48Z",
+          "category": "kubernetes",
+          "tags": [
+            "aks",
+            "public facing"
+          ]
         },
         {
           "id": "snRi_JET1bg",
           "title": "Deploying CSR Applications on Vercel Versus AKS",
           "views": 6,
-          "date": "2026-01-07T04:11:51Z"
+          "date": "2026-01-07T04:11:51Z",
+          "category": "kubernetes",
+          "tags": [
+            "aks",
+            "vercel",
+            "csr"
+          ]
         },
         {
           "id": "8ycnldvJmuA",
           "title": "The Blueprint for Enterprise AI on Azure",
           "views": 18,
-          "date": "2026-01-03T01:41:31Z"
+          "date": "2026-01-03T01:41:31Z",
+          "category": "kubernetes",
+          "tags": [
+            "aks",
+            "kubernetes"
+          ]
         },
         {
           "id": "ftODZr2_V5Q",
           "title": "Kubernetes Version Upgrade Strategy",
           "views": 29,
-          "date": "2025-12-26T11:21:45Z"
+          "date": "2025-12-26T11:21:45Z",
+          "category": "kubernetes",
+          "tags": [
+            "kubernetes",
+            "aks",
+            "version",
+            "upgrade"
+          ]
         }
       ]
     },
@@ -1359,193 +2346,449 @@
               "id": "BT08SXPvV6U",
               "title": "Building vibe-rust",
               "views": 33,
-              "date": "2026-04-04T14:34:30Z"
+              "date": "2026-04-04T14:34:30Z",
+              "category": "development",
+              "tags": [
+                "vibevoice",
+                "rust",
+                "onnx",
+                "rayon"
+              ]
             },
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
               "views": 2911,
-              "date": "2026-04-03T12:29:02Z"
+              "date": "2026-04-03T12:29:02Z",
+              "category": "development",
+              "tags": [
+                "zero-copy",
+                "i/o",
+                "modern",
+                "languages"
+              ],
+              "detail": {
+                "summary": "Zero-copy architecture is a high-performance design philosophy that eliminates the CPU's role as a manual data mover, instead using it as an orchestrator for direct hardware transfers. By bypassing user-space buffers and minimizing context switching, this approach significantly reduces latency and resource contention in data-intensive systems.",
+                "takeaways": [
+                  "Traditional IO operations are inefficient due to four context switches and two CPU-intensive data copies between kernel and user space."
+                ],
+                "topics": [
+                  "zero copy architecture",
+                  "context switching",
+                  "direct memory access (dma)",
+                  "sendfile system call",
+                  "serialization overhead",
+                  "apache kafka",
+                  "remote direct memory access (rdma)",
+                  "memory management"
+                ]
+              }
             },
             {
               "id": "F59lTcC6xJ0",
               "title": "Architectural Principles of Fearless Concurrency",
               "views": 46,
-              "date": "2026-03-28T22:00:43Z"
+              "date": "2026-03-28T22:00:43Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "rayon",
+                "tokio",
+                "concurrency",
+                "parallelism"
+              ]
             },
             {
               "id": "Qv9X3ZY474U",
               "title": "Architectural Evolution of a Vision Tool",
               "views": 48,
-              "date": "2026-03-28T13:11:01Z"
+              "date": "2026-03-28T13:11:01Z",
+              "category": "development",
+              "tags": [
+                "zig",
+                "rust",
+                "python",
+                "qwen3.5",
+                "vision"
+              ]
             },
             {
               "id": "vep9hSKc9I0",
               "title": "Dial9 Demo - Deep Observability in Async Rust",
               "views": 101,
-              "date": "2026-03-22T10:40:21Z"
+              "date": "2026-03-22T10:40:21Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "dial9",
+                "demo",
+                "telemetry",
+                "axum"
+              ]
             },
             {
               "id": "lY5TU8qHduM",
               "title": "The Flight Recorder for Tokio",
               "views": 22,
-              "date": "2026-03-20T22:45:15Z"
+              "date": "2026-03-20T22:45:15Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "tracing",
+                "dial9",
+                "tokio",
+                "telemetry"
+              ]
             },
             {
               "id": "lin_ycbQGtE",
               "title": "Beat - Anatomy of a Real-Time Visualizer",
               "views": 26,
-              "date": "2026-03-20T12:06:34Z"
+              "date": "2026-03-20T12:06:34Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "graphics",
+                "math",
+                "bevy"
+              ]
             },
             {
               "id": "_zJ3_d1CODg",
               "title": "Bevy-Demo",
               "views": 102,
-              "date": "2026-03-19T00:18:34Z"
+              "date": "2026-03-19T00:18:34Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "graphics",
+                "math",
+                "bevy"
+              ]
             },
             {
               "id": "DIMW-iHlDxE",
               "title": "Mastering Comprehensive Rust",
               "views": 71,
-              "date": "2026-03-11T22:16:29Z"
+              "date": "2026-03-11T22:16:29Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "typestate",
+                "soundness"
+              ]
             },
             {
               "id": "xVdW3yUCbuU",
               "title": "codeprobe",
               "views": 33,
-              "date": "2026-03-04T14:12:28Z"
+              "date": "2026-03-04T14:12:28Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "cli",
+                "codeprobe",
+                "copilot",
+                "map-reduce"
+              ]
             },
             {
               "id": "WahgsFhj3W0",
               "title": "melos-rs: Architectural Anatomy",
               "views": 18,
-              "date": "2026-03-01T15:00:36Z"
+              "date": "2026-03-01T15:00:36Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "melos-rs",
+                "gof",
+                "design patterns"
+              ]
             },
             {
               "id": "WdK7PED1ug8",
               "title": "A Guide to Rust Smart Pointers",
               "views": 43,
-              "date": "2026-02-26T09:38:48Z"
+              "date": "2026-02-26T09:38:48Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ownership",
+                "concurrency",
+                "optimization"
+              ]
             },
             {
               "id": "ARWkoc3E8uE",
               "title": "Composition by Design",
               "views": 31,
-              "date": "2026-02-23T23:33:01Z"
+              "date": "2026-02-23T23:33:01Z",
+              "category": "development",
+              "tags": [
+                "gof",
+                "composition",
+                "design patterns:",
+                "go",
+                "rust"
+              ]
             },
             {
               "id": "Th5MMOFQbh8",
               "title": "Backend Patterns in Rust",
               "views": 44,
-              "date": "2026-02-23T03:44:24Z"
+              "date": "2026-02-23T03:44:24Z",
+              "category": "development",
+              "tags": [
+                "type safety",
+                "rust",
+                "explicit state",
+                "backend",
+                "pattern"
+              ]
             },
             {
               "id": "SpNfrWmI8iE",
               "title": "Architecting Scalable Rust Backends",
               "views": 63,
-              "date": "2026-02-22T10:43:18Z"
+              "date": "2026-02-22T10:43:18Z",
+              "category": "development",
+              "tags": [
+                "facade",
+                "dispatch",
+                "async",
+                "gof",
+                "pattern"
+              ]
             },
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
               "views": 77,
-              "date": "2026-02-14T22:47:13Z"
+              "date": "2026-02-14T22:47:13Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "graph-vector"
+              ]
             },
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
               "views": 268,
-              "date": "2026-02-13T15:08:23Z"
+              "date": "2026-02-13T15:08:23Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "burm",
+                "deep learning"
+              ]
             },
             {
               "id": "qxOOl1hx1zU",
               "title": "The Future of Al Programming:  2031 Strategic Outlook",
               "views": 104,
-              "date": "2026-02-09T13:26:58Z"
+              "date": "2026-02-09T13:26:58Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "programming",
+                "rust",
+                "go",
+                "zig"
+              ]
             },
             {
               "id": "0Sed1oggMKY",
               "title": "Tokio: The Asynchronous Runtime for Rust",
               "views": 86,
-              "date": "2026-02-08T20:27:32Z"
+              "date": "2026-02-08T20:27:32Z",
+              "category": "development",
+              "tags": [
+                "tokio",
+                "rust",
+                "tracing",
+                "async"
+              ]
             },
             {
               "id": "ZlEq2jFb8tI",
               "title": "Mastering Rust Error Handling",
               "views": 16,
-              "date": "2026-02-06T12:28:35Z"
+              "date": "2026-02-06T12:28:35Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "anyhow",
+                "thoserror",
+                "tracing",
+                "color-eyre"
+              ]
             },
             {
               "id": "d_0swhS1LyQ",
               "title": "Neural TTS in Pastel-HN",
               "views": 45,
-              "date": "2026-02-01T12:24:48Z"
+              "date": "2026-02-01T12:24:48Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "tts",
+                "piper",
+                "tauri",
+                "pastel-hn",
+                "onnx",
+                "rodio"
+              ]
             },
             {
               "id": "RDa6WtZmW8E",
               "title": "Mastering Serde in Rust ",
               "views": 43,
-              "date": "2026-01-29T05:20:28Z"
+              "date": "2026-01-29T05:20:28Z",
+              "category": "development",
+              "tags": [
+                "serde",
+                "rust",
+                "zero copy",
+                "serialization"
+              ]
             },
             {
               "id": "43UjmZtW2JU",
               "title": "Mastering Memory in Rust",
               "views": 50,
-              "date": "2026-01-27T11:21:20Z"
+              "date": "2026-01-27T11:21:20Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "smart pointers",
+                "ownership",
+                "lifetimes",
+                "borrowing",
+                "memory safety"
+              ]
             },
             {
               "id": "cJl2cchaHL8",
               "title": "pastel-hn",
               "views": 58,
-              "date": "2026-01-25T05:05:15Z"
+              "date": "2026-01-25T05:05:15Z",
+              "category": "development",
+              "tags": [
+                "tauri",
+                "rust",
+                "hn",
+                "pastel-hn"
+              ]
             },
             {
               "id": "Pp36ysjfWd8",
               "title": "Hangul Typing",
               "views": 8,
-              "date": "2026-01-22T23:21:15Z"
+              "date": "2026-01-22T23:21:15Z",
+              "category": "development",
+              "tags": [
+                "hangul",
+                "zig",
+                "rust",
+                "typescript",
+                "tauri",
+                "wasm",
+                "hangul.wasm"
+              ]
             },
             {
               "id": "xVmoqBYlQMU",
               "title": "Mastering Rust Feature Flags",
               "views": 53,
-              "date": "2026-01-19T17:09:56Z"
+              "date": "2026-01-19T17:09:56Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "feature flags",
+                "optional",
+                "opt-out"
+              ]
             },
             {
               "id": "0NLj8g2hQNk",
               "title": "The Client's Guide to 'ra-token-authority'",
               "views": 12,
-              "date": "2026-01-16T18:34:39Z"
+              "date": "2026-01-16T18:34:39Z",
+              "category": "development",
+              "tags": [
+                "zero trust",
+                "ra-token-authority",
+                "paseto",
+                "mtls",
+                "msa",
+                "kubernetes"
+              ]
             },
             {
               "id": "0ttrfTfP864",
               "title": "ra-token-authority",
               "views": 21,
-              "date": "2026-01-16T16:34:51Z"
+              "date": "2026-01-16T16:34:51Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "paseto",
+                "token",
+                "zero trust",
+                "axum",
+                "tokio"
+              ]
             },
             {
               "id": "SeYrpzDTn6A",
               "title": "Modern Microservice Trust",
               "views": 19,
-              "date": "2026-01-13T23:06:41Z"
+              "date": "2026-01-13T23:06:41Z",
+              "category": "development",
+              "tags": [
+                "msa",
+                "paseto",
+                "rust"
+              ]
             },
             {
               "id": "7zFqW-ZcEbo",
               "title": "The Rust Architect's Sketchbook",
               "views": 90,
-              "date": "2026-01-09T00:15:35Z"
+              "date": "2026-01-09T00:15:35Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "anyhow",
+                "thiserror",
+                "axum",
+                "tracing",
+                "tokio"
+              ]
             },
             {
               "id": "js95nIDeA-c",
               "title": "The Professional Rust Toolbox",
               "views": 7,
-              "date": "2026-01-08T10:19:31Z"
+              "date": "2026-01-08T10:19:31Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "anyhow",
+                "toolbox"
+              ]
             },
             {
               "id": "axvxGj3yOgA",
               "title": "The Memory Management Trilemma",
               "views": 30,
-              "date": "2026-01-07T03:10:14Z"
+              "date": "2026-01-07T03:10:14Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "zig"
+              ]
             }
           ]
         },
@@ -1556,157 +2799,368 @@
               "id": "fv61JXUCbeo",
               "title": "Stitch Agent Skills",
               "views": 30,
-              "date": "2026-04-05T21:24:52Z"
+              "date": "2026-04-05T21:24:52Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "stitch",
+                "design",
+                "agent"
+              ]
             },
             {
               "id": "T-NdEF6btbg",
               "title": "The Open Market of Al Coding",
               "views": 24,
-              "date": "2026-04-05T12:38:23Z"
+              "date": "2026-04-05T12:38:23Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "omo",
+                "orchestrator",
+                "sysyphus",
+                "ultrawork"
+              ]
             },
             {
               "id": "z2SA6P7WNoc",
               "title": "Reasoning Under Uncertainty",
               "views": 37,
-              "date": "2026-04-03T22:11:58Z"
+              "date": "2026-04-03T22:11:58Z",
+              "category": "development",
+              "tags": [
+                "reasoning",
+                "bayesian",
+                "inference",
+                "posterior"
+              ]
             },
             {
               "id": "YoIXlqspLWE",
               "title": "Architecting the Autonomous Enterprise",
               "views": 17,
-              "date": "2026-04-02T22:43:47Z"
+              "date": "2026-04-02T22:43:47Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "paperclip",
+                "openclaw",
+                "hazl",
+                "qmd"
+              ]
             },
             {
               "id": "Y0DQGVALb7I",
               "title": "Building with Gemini: The Unified Ecosystem",
               "views": 51,
-              "date": "2026-03-30T00:13:52Z"
+              "date": "2026-03-30T00:13:52Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "gemini",
+                "unified",
+                "ecosystem"
+              ]
             },
             {
               "id": "uU46ltIELqk",
               "title": "Generative Al at Scale",
               "views": 12,
-              "date": "2026-03-27T23:03:40Z"
+              "date": "2026-03-27T23:03:40Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "google",
+                "cloud",
+                "generative",
+                "gemini"
+              ]
             },
             {
               "id": "Z90u9EVf4M4",
               "title": "Writing Modern Go in the Age of Al",
               "views": 188,
-              "date": "2026-03-26T22:28:15Z"
+              "date": "2026-03-26T22:28:15Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "jetbrains",
+                "modern"
+              ],
+              "detail": {
+                "summary": "This video addresses the tendency of AI coding agents to generate outdated Go code due to training data lag and frequency bias. It introduces the JetBrains Go modern guidelines, a framework that ensures AI-generated code adheres to contemporary standards and specific project versions via go.mod matching. By automating the use of modern idioms, developers can eliminate technical debt and leverage the full power of the current Go standard library.",
+                "takeaways": [
+                  "Large language models frequently default to legacy code patterns because older syntax is more statistically prevalent in their training data."
+                ],
+                "topics": [
+                  "modern go",
+                  "artificial intelligence",
+                  "software technical debt",
+                  "llm training bias",
+                  "go standard library",
+                  "jetbrains guidelines",
+                  "code maintainability",
+                  "go.mod versioning"
+                ]
+              }
             },
             {
               "id": "0HEqwk9UMOc",
               "title": "How to Kill the Code Review",
               "views": 133,
-              "date": "2026-03-18T11:10:57Z"
+              "date": "2026-03-18T11:10:57Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "code review",
+                "good code"
+              ]
             },
             {
               "id": "Z98SHl4nSFI",
               "title": "Rebalancing the SDLC in the Al Era",
               "views": 17,
-              "date": "2026-03-18T03:21:35Z"
+              "date": "2026-03-18T03:21:35Z",
+              "category": "development",
+              "tags": [
+                "sdlc",
+                "ai",
+                "shift-left",
+                "dora"
+              ]
             },
             {
               "id": "84M1mVL0cjo",
               "title": "Pathways Over Tools",
               "views": 19,
-              "date": "2026-03-10T00:39:56Z"
+              "date": "2026-03-10T00:39:56Z",
+              "category": "development",
+              "tags": [
+                "autonomy",
+                "pathways",
+                "ai",
+                "workflows"
+              ]
             },
             {
               "id": "4wX4mGuiTjw",
               "title": "Teaching an Ancient Calendar to a Microscopic AI",
               "views": 8,
-              "date": "2026-03-08T08:48:54Z"
+              "date": "2026-03-08T08:48:54Z",
+              "category": "development",
+              "tags": [
+                "migrogpt-zig",
+                "zig",
+                "gunghap",
+                "saju"
+              ]
             },
             {
               "id": "vSjgNxi7W-4",
               "title": "yp: The Terminal User Interface Renaissance",
               "views": 69,
-              "date": "2026-03-06T23:13:08Z"
+              "date": "2026-03-06T23:13:08Z",
+              "category": "development",
+              "tags": [
+                "yp",
+                "tui",
+                "cli",
+                "hybrid",
+                "pipe",
+                "llm"
+              ]
             },
             {
               "id": "xVdW3yUCbuU",
               "title": "codeprobe",
               "views": 33,
-              "date": "2026-03-04T14:12:28Z"
+              "date": "2026-03-04T14:12:28Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "cli",
+                "codeprobe",
+                "copilot",
+                "map-reduce"
+              ]
             },
             {
               "id": "AcpVuvtSXwI",
               "title": "microgpt-zig: Atomic Al Training",
               "views": 47,
-              "date": "2026-02-28T14:09:19Z"
+              "date": "2026-02-28T14:09:19Z",
+              "category": "development",
+              "tags": [
+                "zig",
+                "microgpt",
+                "automics",
+                "training",
+                "gpt"
+              ]
             },
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
               "views": 634,
-              "date": "2026-02-28T05:29:43Z"
+              "date": "2026-02-28T05:29:43Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "llm",
+                "claude",
+                "skills"
+              ],
+              "detail": {
+                "summary": "This video introduces a technical framework for building 'Skills' for Claude, which are standardized, portable instruction sets designed to move beyond inefficient ad hoc prompting. By combining the connectivity of the Model Context Protocol (MCP) with structured guidance, developers can create modular AI workflows that are consistent across the Claude ecosystem.",
+                "takeaways": [
+                  "Skills function as the 'recipe' or logic that directs how Claude uses the 'kitchen' or infrastructure provided by the Model Context Protocol."
+                ],
+                "topics": [
+                  "model context protocol",
+                  "skill development",
+                  "progressive disclosure",
+                  "token optimization",
+                  "yaml front matter",
+                  "workflow automation",
+                  "architectural standards"
+                ]
+              }
             },
             {
               "id": "WMcKFQ200OE",
               "title": "Flutter & Dart: The 2026 Roadmap",
               "views": 58,
-              "date": "2026-02-27T13:24:25Z"
+              "date": "2026-02-27T13:24:25Z",
+              "category": "development",
+              "tags": [
+                "flutter",
+                "wasm",
+                "2026",
+                "genai",
+                "desktop"
+              ]
             },
             {
               "id": "qxOOl1hx1zU",
               "title": "The Future of Al Programming:  2031 Strategic Outlook",
               "views": 104,
-              "date": "2026-02-09T13:26:58Z"
+              "date": "2026-02-09T13:26:58Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "programming",
+                "rust",
+                "go",
+                "zig"
+              ]
             },
             {
               "id": "V2LbQqD1lMM",
               "title": "Ralph: The Autonomous Vibe Coding Workflow",
               "views": 34,
-              "date": "2026-01-31T16:33:53Z"
+              "date": "2026-01-31T16:33:53Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "cli",
+                "workflow",
+                "automatic task"
+              ]
             },
             {
               "id": "MaP2i4dTiQk",
               "title": "Taming the Genie",
               "views": 15,
-              "date": "2026-01-23T08:12:08Z"
+              "date": "2026-01-23T08:12:08Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "design contest",
+                "augmented coding"
+              ]
             },
             {
               "id": "HOetEEw0ogM",
               "title": "Enterprise Agentic Al",
               "views": 35,
-              "date": "2026-01-18T16:14:21Z"
+              "date": "2026-01-18T16:14:21Z",
+              "category": "development",
+              "tags": [
+                "agentic ai",
+                "agile",
+                "digital employee"
+              ]
             },
             {
               "id": "tqDisu2tmG0",
               "title": "AI Agents  Idea to Tool",
               "views": 6,
-              "date": "2026-01-10T23:18:02Z"
+              "date": "2026-01-10T23:18:02Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "agents"
+              ]
             },
             {
               "id": "9oSUtndLto4",
               "title": "Unifying AI, Copilot & Power BI",
               "views": 13,
-              "date": "2026-01-10T16:58:52Z"
+              "date": "2026-01-10T16:58:52Z",
+              "category": "development",
+              "tags": [
+                "copilot",
+                "powerbi",
+                "azure ai foundry"
+              ]
             },
             {
               "id": "BAxPZdgmgRQ",
               "title": "The 2026 State of Al Agents",
               "views": 3,
-              "date": "2026-01-08T09:41:38Z"
+              "date": "2026-01-08T09:41:38Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "2026",
+                "agents"
+              ]
             },
             {
               "id": "z_Ydy_-cI1U",
               "title": "Micro-Processing the Hippo's Waste",
               "views": 2,
-              "date": "2026-01-07T05:32:04Z"
+              "date": "2026-01-07T05:32:04Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "agents",
+                "3270",
+                "zig"
+              ]
             },
             {
               "id": "Xhq99-YHXCY",
               "title": "Professional Al Agent Usage via the CLI",
               "views": 25,
-              "date": "2026-01-02T21:40:38Z"
+              "date": "2026-01-02T21:40:38Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "agent",
+                "cli"
+              ]
             },
             {
               "id": "IF5sNQH-01c",
               "title": "NotebookLM's Intelligence Flow",
               "views": 45,
-              "date": "2025-12-28T08:31:48Z"
+              "date": "2025-12-28T08:31:48Z",
+              "category": "development",
+              "tags": [
+                "notebooklm",
+                "ai"
+              ]
             }
           ]
         },
@@ -1717,139 +3171,340 @@
               "id": "uU46ltIELqk",
               "title": "Generative Al at Scale",
               "views": 12,
-              "date": "2026-03-27T23:03:40Z"
+              "date": "2026-03-27T23:03:40Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "google",
+                "cloud",
+                "generative",
+                "gemini"
+              ]
             },
             {
               "id": "Z90u9EVf4M4",
               "title": "Writing Modern Go in the Age of Al",
               "views": 188,
-              "date": "2026-03-26T22:28:15Z"
+              "date": "2026-03-26T22:28:15Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "jetbrains",
+                "modern"
+              ],
+              "detail": {
+                "summary": "This video addresses the tendency of AI coding agents to generate outdated Go code due to training data lag and frequency bias. It introduces the JetBrains Go modern guidelines, a framework that ensures AI-generated code adheres to contemporary standards and specific project versions via go.mod matching. By automating the use of modern idioms, developers can eliminate technical debt and leverage the full power of the current Go standard library.",
+                "takeaways": [
+                  "Large language models frequently default to legacy code patterns because older syntax is more statistically prevalent in their training data."
+                ],
+                "topics": [
+                  "modern go",
+                  "artificial intelligence",
+                  "software technical debt",
+                  "llm training bias",
+                  "go standard library",
+                  "jetbrains guidelines",
+                  "code maintainability",
+                  "go.mod versioning"
+                ]
+              }
             },
             {
               "id": "yCJDmGrk8sM",
               "title": "Advancing Go Garbage Collection with Green Tea",
               "views": 136,
-              "date": "2026-03-24T22:59:50Z"
+              "date": "2026-03-24T22:59:50Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "page-based",
+                "greentea"
+              ]
             },
             {
               "id": "INNKxTAagE4",
               "title": "Resilient Asynchronous Systems in Go",
               "views": 37,
-              "date": "2026-03-24T02:07:42Z"
+              "date": "2026-03-24T02:07:42Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "rabbitmq",
+                "echo",
+                "opentelemetry",
+                "observability"
+              ]
             },
             {
               "id": "_mwtz_8lBWc",
               "title": "The Geometry of Light",
               "views": 29,
-              "date": "2026-03-21T12:19:50Z"
+              "date": "2026-03-21T12:19:50Z",
+              "category": "development",
+              "tags": [
+                "graphics",
+                "pipeline",
+                "algorithms"
+              ]
             },
             {
               "id": "CXtHwJQphLI",
               "title": "Production-Ready RabbitMQ in Go",
               "views": 88,
-              "date": "2026-03-20T03:40:50Z"
+              "date": "2026-03-20T03:40:50Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "rabbitmq",
+                "pattern",
+                "messaging"
+              ]
             },
             {
               "id": "0HEqwk9UMOc",
               "title": "How to Kill the Code Review",
               "views": 133,
-              "date": "2026-03-18T11:10:57Z"
+              "date": "2026-03-18T11:10:57Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "code review",
+                "good code"
+              ]
             },
             {
               "id": "xfOATs8ncLM",
               "title": "Isolating Observability in Go",
               "views": 17,
-              "date": "2026-03-12T22:39:00Z"
+              "date": "2026-03-12T22:39:00Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "observability",
+                "pprof"
+              ]
             },
             {
               "id": "oxNF_GNuWpE",
               "title": "The Pragmatic Go Developer",
               "views": 45,
-              "date": "2026-03-10T22:01:11Z"
+              "date": "2026-03-10T22:01:11Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "pragmatic",
+                "pprof"
+              ]
             },
             {
               "id": "guwVjGsg3h4",
               "title": "The Pragmatics of Order",
               "views": 13,
-              "date": "2026-03-08T09:59:59Z"
+              "date": "2026-03-08T09:59:59Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "pdqsort",
+                "sorting"
+              ]
             },
             {
               "id": "nRxqSGBuB4s",
               "title": "The Essential Algorithmic Toolkit",
               "views": 55,
-              "date": "2026-03-06T12:55:45Z"
+              "date": "2026-03-06T12:55:45Z",
+              "category": "development",
+              "tags": [
+                "algorithms",
+                "searching",
+                "sorting",
+                "tree",
+                "graphs"
+              ]
             },
             {
               "id": "Hfut9CfJhN0",
               "title": "Bubble Tea v2",
               "views": 45,
-              "date": "2026-03-02T12:02:38Z"
+              "date": "2026-03-02T12:02:38Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "tui",
+                "declarative",
+                "colorprofile"
+              ]
             },
             {
               "id": "WahgsFhj3W0",
               "title": "melos-rs: Architectural Anatomy",
               "views": 18,
-              "date": "2026-03-01T15:00:36Z"
+              "date": "2026-03-01T15:00:36Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "melos-rs",
+                "gof",
+                "design patterns"
+              ]
             },
             {
               "id": "uqZ-mwxGf2c",
               "title": "Modern Observability in Go",
               "views": 106,
-              "date": "2026-03-01T14:36:52Z"
+              "date": "2026-03-01T14:36:52Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "echo",
+                "lgtm",
+                "observability"
+              ]
             },
             {
               "id": "DazzkNtnzec",
               "title": "Design Patterns in Go",
               "views": 109,
-              "date": "2026-02-24T23:48:12Z"
+              "date": "2026-02-24T23:48:12Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "composition",
+                "gof"
+              ]
             },
             {
               "id": "ARWkoc3E8uE",
               "title": "Composition by Design",
               "views": 31,
-              "date": "2026-02-23T23:33:01Z"
+              "date": "2026-02-23T23:33:01Z",
+              "category": "development",
+              "tags": [
+                "gof",
+                "composition",
+                "design patterns:",
+                "go",
+                "rust"
+              ]
             },
             {
               "id": "SpNfrWmI8iE",
               "title": "Architecting Scalable Rust Backends",
               "views": 63,
-              "date": "2026-02-22T10:43:18Z"
+              "date": "2026-02-22T10:43:18Z",
+              "category": "development",
+              "tags": [
+                "facade",
+                "dispatch",
+                "async",
+                "gof",
+                "pattern"
+              ]
             },
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
               "views": 690,
-              "date": "2026-02-14T09:23:06Z"
+              "date": "2026-02-14T09:23:06Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "1.26",
+                "go fix",
+                "modernizers"
+              ],
+              "detail": {
+                "summary": "Go 1.26 introduces a paradigm shift toward automated modernization, leveraging an AST-based analysis framework to evolve codebases via intent-based refactoring. The release focuses on streamlining developer workflows by providing tools that automatically transition legacy patterns to modern idioms, such as the new expression syntax and refined JSON tag handling.",
+                "takeaways": [
+                  "Go 1.26 shifts from manual refactoring to automated code evolution using a sophisticated AST-based analysis framework."
+                ],
+                "topics": [
+                  "go 1.26",
+                  "automated refactoring",
+                  "abstract syntax tree",
+                  "memory allocation",
+                  "json struct tags",
+                  "performance tuning",
+                  "golang toolchain",
+                  "generics"
+                ]
+              }
             },
             {
               "id": "Qo3oJv4uyBI",
               "title": "High-Performance Go: Inside the 1.26 Release",
               "views": 187,
-              "date": "2026-02-12T13:08:12Z"
+              "date": "2026-02-12T13:08:12Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "simd",
+                "greentea"
+              ],
+              "detail": {
+                "summary": "Go 1.26 introduces architectural innovations focused on high performance, specifically through direct SIMD instruction support and the new 'Green Tea' garbage collector. The release shifts Go toward a performance-first philosophy by exposing hardware primitives that were previously internal, reducing the overhead and maintenance burdens associated with manual assembly.",
+                "takeaways": [
+                  "Go 1.26 enables developers to use SIMD intrinsics like AVX-512 and Neon directly in user code via the experimental simd/arch package."
+                ],
+                "topics": [
+                  "go 1.26",
+                  "simd",
+                  "green tea garbage collector",
+                  "compiler intrinsics",
+                  "hardware acceleration",
+                  "memory management",
+                  "performance optimization",
+                  "avx-512"
+                ]
+              }
             },
             {
               "id": "qxOOl1hx1zU",
               "title": "The Future of Al Programming:  2031 Strategic Outlook",
               "views": 104,
-              "date": "2026-02-09T13:26:58Z"
+              "date": "2026-02-09T13:26:58Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "programming",
+                "rust",
+                "go",
+                "zig"
+              ]
             },
             {
               "id": "A96r5gqwUrI",
               "title": "Zig Algorithms: The Art of Zero-Cost Abstraction",
               "views": 24,
-              "date": "2026-02-06T13:03:31Z"
+              "date": "2026-02-06T13:03:31Z",
+              "category": "development",
+              "tags": [
+                "zig",
+                "algorithms"
+              ]
             },
             {
               "id": "2Ni8zfsxW6o",
               "title": "Modernizing Legacy COBOL",
               "views": 26,
-              "date": "2026-02-01T13:20:19Z"
+              "date": "2026-02-01T13:20:19Z",
+              "category": "development",
+              "tags": [
+                "cobol",
+                "go",
+                "java",
+                "modernization"
+              ]
             },
             {
               "id": "KCuGqld6nOc",
               "title": "The Go Concurrency Paradox",
               "views": 48,
-              "date": "2026-01-10T00:17:59Z"
+              "date": "2026-01-10T00:17:59Z",
+              "category": "development",
+              "tags": [
+                "go"
+              ]
             }
           ]
         },
@@ -1860,31 +3515,98 @@
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
               "views": 2911,
-              "date": "2026-04-03T12:29:02Z"
+              "date": "2026-04-03T12:29:02Z",
+              "category": "development",
+              "tags": [
+                "zero-copy",
+                "i/o",
+                "modern",
+                "languages"
+              ],
+              "detail": {
+                "summary": "Zero-copy architecture is a high-performance design philosophy that eliminates the CPU's role as a manual data mover, instead using it as an orchestrator for direct hardware transfers. By bypassing user-space buffers and minimizing context switching, this approach significantly reduces latency and resource contention in data-intensive systems.",
+                "takeaways": [
+                  "Traditional IO operations are inefficient due to four context switches and two CPU-intensive data copies between kernel and user space."
+                ],
+                "topics": [
+                  "zero copy architecture",
+                  "context switching",
+                  "direct memory access (dma)",
+                  "sendfile system call",
+                  "serialization overhead",
+                  "apache kafka",
+                  "remote direct memory access (rdma)",
+                  "memory management"
+                ]
+              }
             },
             {
               "id": "6WRiPikxs-Q",
               "title": "The Architect's Baton",
               "views": 125,
-              "date": "2026-03-07T21:29:48Z"
+              "date": "2026-03-07T21:29:48Z",
+              "category": "development",
+              "tags": [
+                "swe",
+                "architecture.",
+                "macro",
+                "integrity",
+                "resilience"
+              ]
             },
             {
               "id": "3ybGkjogcFQ",
               "title": "Modern State Architecture: The Repository Pattern",
               "views": 34,
-              "date": "2026-02-20T12:47:49Z"
+              "date": "2026-02-20T12:47:49Z",
+              "category": "development",
+              "tags": [
+                "signals",
+                "tanstack query",
+                "repository"
+              ]
             },
             {
               "id": "5Vloo08zQ7o",
               "title": "Bulletproof Frontend Architecture",
               "views": 30,
-              "date": "2026-02-16T21:07:23Z"
+              "date": "2026-02-16T21:07:23Z",
+              "category": "development",
+              "tags": [
+                "repository",
+                "adapter",
+                "anti-corruption layer",
+                "frontend"
+              ]
             },
             {
               "id": "IZX3_9rZeMU",
               "title": "The Hybrid TUI Architecture",
               "views": 538,
-              "date": "2026-02-10T10:11:11Z"
+              "date": "2026-02-10T10:11:11Z",
+              "category": "development",
+              "tags": [
+                "opentui",
+                "zig",
+                "solidjs",
+                "opencode"
+              ],
+              "detail": {
+                "summary": "The Open 2i architecture introduces a \"hybrid sandwich\" model for building high-performance terminal user interfaces by combining SolidJS for reactive state management with Zigg for low-level rendering. By replacing the traditional virtual DOM with fine-grained signals and leveraging Bun's FFI for binary data transfer, the system achieves stable 60 FPS performance with significantly reduced memory overhead. This approach bridges the gap between modern developer productivity and native execution speed through manual memory management and direct hardware communication.",
+                "takeaways": [
+                  "The hybrid 2i architecture uses a three-tier model: TypeScript/SolidJS for logic, Bun FFI for high-speed communication, and Zigg for performance-critical rendering."
+                ],
+                "topics": [
+                  "terminal user interface",
+                  "zigg",
+                  "solidjs",
+                  "bun ffi",
+                  "reactive programming",
+                  "memory management",
+                  "double buffering",
+                  "low latency"
+                ]
+              }
             }
           ]
         },
@@ -1895,31 +3617,60 @@
               "id": "ymYtSum-2qc",
               "title": "zig-duckdb-ext",
               "views": 58,
-              "date": "2026-03-24T09:56:13Z"
+              "date": "2026-03-24T09:56:13Z",
+              "category": "development",
+              "tags": [
+                "zig",
+                "extension",
+                "duckdb"
+              ]
             },
             {
               "id": "ZBW6YozOu78",
               "title": "Serverless Analytics with DuckDB & Python",
               "views": 34,
-              "date": "2026-03-15T01:12:59Z"
+              "date": "2026-03-15T01:12:59Z",
+              "category": "development",
+              "tags": [
+                "python",
+                "duckdb",
+                "demo"
+              ]
             },
             {
               "id": "gu-5cim8mpA",
               "title": "The Modern Al/BI Developer's Toolkit",
               "views": 20,
-              "date": "2026-03-14T20:10:34Z"
+              "date": "2026-03-14T20:10:34Z",
+              "category": "development",
+              "tags": [
+                "python",
+                "uv",
+                "toolkit",
+                "duckdb"
+              ]
             },
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
               "views": 77,
-              "date": "2026-02-14T22:47:13Z"
+              "date": "2026-02-14T22:47:13Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "graph-vector"
+              ]
             },
             {
               "id": "KDnTY0Svmr0",
               "title": "AEM + Meilisearch: A High-Performance Integration",
               "views": 14,
-              "date": "2026-02-10T07:27:32Z"
+              "date": "2026-02-10T07:27:32Z",
+              "category": "development",
+              "tags": [
+                "melisearch",
+                "aem"
+              ]
             }
           ]
         },
@@ -1930,19 +3681,42 @@
               "id": "INNKxTAagE4",
               "title": "Resilient Asynchronous Systems in Go",
               "views": 37,
-              "date": "2026-03-24T02:07:42Z"
+              "date": "2026-03-24T02:07:42Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "rabbitmq",
+                "echo",
+                "opentelemetry",
+                "observability"
+              ]
             },
             {
               "id": "wyIhJ3LMnRg",
               "title": "W3C Trace Context",
               "views": 19,
-              "date": "2026-03-21T13:19:14Z"
+              "date": "2026-03-21T13:19:14Z",
+              "category": "development",
+              "tags": [
+                "w3c",
+                "context",
+                "messaging",
+                "tracing",
+                "distributed"
+              ]
             },
             {
               "id": "CXtHwJQphLI",
               "title": "Production-Ready RabbitMQ in Go",
               "views": 88,
-              "date": "2026-03-20T03:40:50Z"
+              "date": "2026-03-20T03:40:50Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "rabbitmq",
+                "pattern",
+                "messaging"
+              ]
             }
           ]
         },
@@ -1953,19 +3727,43 @@
               "id": "0NLj8g2hQNk",
               "title": "The Client's Guide to 'ra-token-authority'",
               "views": 12,
-              "date": "2026-01-16T18:34:39Z"
+              "date": "2026-01-16T18:34:39Z",
+              "category": "development",
+              "tags": [
+                "zero trust",
+                "ra-token-authority",
+                "paseto",
+                "mtls",
+                "msa",
+                "kubernetes"
+              ]
             },
             {
               "id": "0ttrfTfP864",
               "title": "ra-token-authority",
               "views": 21,
-              "date": "2026-01-16T16:34:51Z"
+              "date": "2026-01-16T16:34:51Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "paseto",
+                "token",
+                "zero trust",
+                "axum",
+                "tokio"
+              ]
             },
             {
               "id": "2kvYb2pVe5o",
               "title": "From Blueprint to Battlefield",
               "views": 32,
-              "date": "2025-12-27T21:55:52Z"
+              "date": "2025-12-27T21:55:52Z",
+              "category": "development",
+              "tags": [
+                "identity",
+                "oidc",
+                "ssrf"
+              ]
             }
           ]
         },
@@ -1976,19 +3774,41 @@
               "id": "0NLj8g2hQNk",
               "title": "The Client's Guide to 'ra-token-authority'",
               "views": 12,
-              "date": "2026-01-16T18:34:39Z"
+              "date": "2026-01-16T18:34:39Z",
+              "category": "development",
+              "tags": [
+                "zero trust",
+                "ra-token-authority",
+                "paseto",
+                "mtls",
+                "msa",
+                "kubernetes"
+              ]
             },
             {
               "id": "0ttrfTfP864",
               "title": "ra-token-authority",
               "views": 21,
-              "date": "2026-01-16T16:34:51Z"
+              "date": "2026-01-16T16:34:51Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "paseto",
+                "token",
+                "zero trust",
+                "axum",
+                "tokio"
+              ]
             },
             {
               "id": "pzVOjl6mOD4",
               "title": "The Architect's Guide to Modern Token Security",
               "views": 26,
-              "date": "2025-12-30T03:57:17Z"
+              "date": "2025-12-30T03:57:17Z",
+              "category": "development",
+              "tags": [
+                "paseto"
+              ]
             }
           ]
         }
@@ -1998,787 +3818,1802 @@
           "id": "dDtVuJXVYJk",
           "title": "The Rules and The Rebellion",
           "views": 1,
-          "date": "2026-04-06T11:57:23Z"
+          "date": "2026-04-06T11:57:23Z",
+          "category": "development",
+          "tags": [
+            "atomicity",
+            "partial",
+            "transitive",
+            "independent",
+            "normal form",
+            "cqrs"
+          ]
         },
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
           "views": 30,
-          "date": "2026-04-05T21:24:52Z"
+          "date": "2026-04-05T21:24:52Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "stitch",
+            "design",
+            "agent"
+          ]
         },
         {
           "id": "T-NdEF6btbg",
           "title": "The Open Market of Al Coding",
           "views": 24,
-          "date": "2026-04-05T12:38:23Z"
+          "date": "2026-04-05T12:38:23Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "omo",
+            "orchestrator",
+            "sysyphus",
+            "ultrawork"
+          ]
         },
         {
           "id": "BT08SXPvV6U",
           "title": "Building vibe-rust",
           "views": 33,
-          "date": "2026-04-04T14:34:30Z"
+          "date": "2026-04-04T14:34:30Z",
+          "category": "development",
+          "tags": [
+            "vibevoice",
+            "rust",
+            "onnx",
+            "rayon"
+          ]
         },
         {
           "id": "z2SA6P7WNoc",
           "title": "Reasoning Under Uncertainty",
           "views": 37,
-          "date": "2026-04-03T22:11:58Z"
+          "date": "2026-04-03T22:11:58Z",
+          "category": "development",
+          "tags": [
+            "reasoning",
+            "bayesian",
+            "inference",
+            "posterior"
+          ]
         },
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
           "views": 2911,
-          "date": "2026-04-03T12:29:02Z"
+          "date": "2026-04-03T12:29:02Z",
+          "category": "development",
+          "tags": [
+            "zero-copy",
+            "i/o",
+            "modern",
+            "languages"
+          ],
+          "detail": {
+            "summary": "Zero-copy architecture is a high-performance design philosophy that eliminates the CPU's role as a manual data mover, instead using it as an orchestrator for direct hardware transfers. By bypassing user-space buffers and minimizing context switching, this approach significantly reduces latency and resource contention in data-intensive systems.",
+            "takeaways": [
+              "Traditional IO operations are inefficient due to four context switches and two CPU-intensive data copies between kernel and user space."
+            ],
+            "topics": [
+              "zero copy architecture",
+              "context switching",
+              "direct memory access (dma)",
+              "sendfile system call",
+              "serialization overhead",
+              "apache kafka",
+              "remote direct memory access (rdma)",
+              "memory management"
+            ]
+          }
         },
         {
           "id": "YoIXlqspLWE",
           "title": "Architecting the Autonomous Enterprise",
           "views": 17,
-          "date": "2026-04-02T22:43:47Z"
+          "date": "2026-04-02T22:43:47Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "paperclip",
+            "openclaw",
+            "hazl",
+            "qmd"
+          ]
         },
         {
           "id": "JWeu5aqAkR0",
           "title": "The Transport Revolution: Deconstructing HTTP/3",
           "views": 173,
-          "date": "2026-04-01T22:51:56Z"
+          "date": "2026-04-01T22:51:56Z",
+          "category": "development"
         },
         {
           "id": "oUTf9j6fWJo",
           "title": "Reed: The Modern Terminal File Viewer",
           "views": 134,
-          "date": "2026-03-30T22:20:06Z"
+          "date": "2026-03-30T22:20:06Z",
+          "category": "development",
+          "tags": [
+            "libghostty-vt",
+            "fzf",
+            "syntect",
+            "mmdc",
+            "termimad",
+            "reed"
+          ]
         },
         {
           "id": "Y0DQGVALb7I",
           "title": "Building with Gemini: The Unified Ecosystem",
           "views": 51,
-          "date": "2026-03-30T00:13:52Z"
+          "date": "2026-03-30T00:13:52Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "gemini",
+            "unified",
+            "ecosystem"
+          ]
         },
         {
           "id": "4i-ruNPOtB4",
           "title": "Dismantling the Agile Epic",
           "views": 41,
-          "date": "2026-03-29T09:07:23Z"
+          "date": "2026-03-29T09:07:23Z",
+          "category": "development",
+          "tags": [
+            "agile",
+            "capacity",
+            "half-day",
+            "slicing",
+            "predictability"
+          ]
         },
         {
           "id": "F59lTcC6xJ0",
           "title": "Architectural Principles of Fearless Concurrency",
           "views": 46,
-          "date": "2026-03-28T22:00:43Z"
+          "date": "2026-03-28T22:00:43Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "rayon",
+            "tokio",
+            "concurrency",
+            "parallelism"
+          ]
         },
         {
           "id": "Qv9X3ZY474U",
           "title": "Architectural Evolution of a Vision Tool",
           "views": 48,
-          "date": "2026-03-28T13:11:01Z"
+          "date": "2026-03-28T13:11:01Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "rust",
+            "python",
+            "qwen3.5",
+            "vision"
+          ]
         },
         {
           "id": "uU46ltIELqk",
           "title": "Generative Al at Scale",
           "views": 12,
-          "date": "2026-03-27T23:03:40Z"
+          "date": "2026-03-27T23:03:40Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "google",
+            "cloud",
+            "generative",
+            "gemini"
+          ]
         },
         {
           "id": "Z90u9EVf4M4",
           "title": "Writing Modern Go in the Age of Al",
           "views": 188,
-          "date": "2026-03-26T22:28:15Z"
+          "date": "2026-03-26T22:28:15Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "jetbrains",
+            "modern"
+          ],
+          "detail": {
+            "summary": "This video addresses the tendency of AI coding agents to generate outdated Go code due to training data lag and frequency bias. It introduces the JetBrains Go modern guidelines, a framework that ensures AI-generated code adheres to contemporary standards and specific project versions via go.mod matching. By automating the use of modern idioms, developers can eliminate technical debt and leverage the full power of the current Go standard library.",
+            "takeaways": [
+              "Large language models frequently default to legacy code patterns because older syntax is more statistically prevalent in their training data."
+            ],
+            "topics": [
+              "modern go",
+              "artificial intelligence",
+              "software technical debt",
+              "llm training bias",
+              "go standard library",
+              "jetbrains guidelines",
+              "code maintainability",
+              "go.mod versioning"
+            ]
+          }
         },
         {
           "id": "yCJDmGrk8sM",
           "title": "Advancing Go Garbage Collection with Green Tea",
           "views": 136,
-          "date": "2026-03-24T22:59:50Z"
+          "date": "2026-03-24T22:59:50Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "page-based",
+            "greentea"
+          ]
         },
         {
           "id": "ymYtSum-2qc",
           "title": "zig-duckdb-ext",
           "views": 58,
-          "date": "2026-03-24T09:56:13Z"
+          "date": "2026-03-24T09:56:13Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "extension",
+            "duckdb"
+          ]
         },
         {
           "id": "INNKxTAagE4",
           "title": "Resilient Asynchronous Systems in Go",
           "views": 37,
-          "date": "2026-03-24T02:07:42Z"
+          "date": "2026-03-24T02:07:42Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "rabbitmq",
+            "echo",
+            "opentelemetry",
+            "observability"
+          ]
         },
         {
           "id": "zrP3muXzQX4",
           "title": "Reins: The Framework for Al-Assisted Development",
           "views": 54,
-          "date": "2026-03-23T11:19:38Z"
+          "date": "2026-03-23T11:19:38Z",
+          "category": "development",
+          "tags": [
+            "reins",
+            "al-assisted",
+            "scaffolding",
+            "development"
+          ]
         },
         {
           "id": "vep9hSKc9I0",
           "title": "Dial9 Demo - Deep Observability in Async Rust",
           "views": 101,
-          "date": "2026-03-22T10:40:21Z"
+          "date": "2026-03-22T10:40:21Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "dial9",
+            "demo",
+            "telemetry",
+            "axum"
+          ]
         },
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
           "views": 19,
-          "date": "2026-03-21T13:19:14Z"
+          "date": "2026-03-21T13:19:14Z",
+          "category": "development",
+          "tags": [
+            "w3c",
+            "context",
+            "messaging",
+            "tracing",
+            "distributed"
+          ]
         },
         {
           "id": "_mwtz_8lBWc",
           "title": "The Geometry of Light",
           "views": 29,
-          "date": "2026-03-21T12:19:50Z"
+          "date": "2026-03-21T12:19:50Z",
+          "category": "development",
+          "tags": [
+            "graphics",
+            "pipeline",
+            "algorithms"
+          ]
         },
         {
           "id": "lY5TU8qHduM",
           "title": "The Flight Recorder for Tokio",
           "views": 22,
-          "date": "2026-03-20T22:45:15Z"
+          "date": "2026-03-20T22:45:15Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "tracing",
+            "dial9",
+            "tokio",
+            "telemetry"
+          ]
         },
         {
           "id": "lin_ycbQGtE",
           "title": "Beat - Anatomy of a Real-Time Visualizer",
           "views": 26,
-          "date": "2026-03-20T12:06:34Z"
+          "date": "2026-03-20T12:06:34Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "graphics",
+            "math",
+            "bevy"
+          ]
         },
         {
           "id": "CXtHwJQphLI",
           "title": "Production-Ready RabbitMQ in Go",
           "views": 88,
-          "date": "2026-03-20T03:40:50Z"
+          "date": "2026-03-20T03:40:50Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "rabbitmq",
+            "pattern",
+            "messaging"
+          ]
         },
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
           "views": 102,
-          "date": "2026-03-19T00:18:34Z"
+          "date": "2026-03-19T00:18:34Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "graphics",
+            "math",
+            "bevy"
+          ]
         },
         {
           "id": "0HEqwk9UMOc",
           "title": "How to Kill the Code Review",
           "views": 133,
-          "date": "2026-03-18T11:10:57Z"
+          "date": "2026-03-18T11:10:57Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "code review",
+            "good code"
+          ]
         },
         {
           "id": "Z98SHl4nSFI",
           "title": "Rebalancing the SDLC in the Al Era",
           "views": 17,
-          "date": "2026-03-18T03:21:35Z"
+          "date": "2026-03-18T03:21:35Z",
+          "category": "development",
+          "tags": [
+            "sdlc",
+            "ai",
+            "shift-left",
+            "dora"
+          ]
         },
         {
           "id": "FOkG5ScxU88",
           "title": "Building with Genkit Dart",
           "views": 50,
-          "date": "2026-03-15T19:49:00Z"
+          "date": "2026-03-15T19:49:00Z",
+          "category": "development",
+          "tags": [
+            "dart",
+            "genkit",
+            "demo",
+            "flutter"
+          ]
         },
         {
           "id": "ZBW6YozOu78",
           "title": "Serverless Analytics with DuckDB & Python",
           "views": 34,
-          "date": "2026-03-15T01:12:59Z"
+          "date": "2026-03-15T01:12:59Z",
+          "category": "development",
+          "tags": [
+            "python",
+            "duckdb",
+            "demo"
+          ]
         },
         {
           "id": "gu-5cim8mpA",
           "title": "The Modern Al/BI Developer's Toolkit",
           "views": 20,
-          "date": "2026-03-14T20:10:34Z"
+          "date": "2026-03-14T20:10:34Z",
+          "category": "development",
+          "tags": [
+            "python",
+            "uv",
+            "toolkit",
+            "duckdb"
+          ]
         },
         {
           "id": "a2kADxV0kBM",
           "title": "zig-twitter: Anatomy of a Hybrid Terminal Client",
           "views": 32,
-          "date": "2026-03-14T09:13:27Z"
+          "date": "2026-03-14T09:13:27Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "hybrid",
+            "cli",
+            "tui",
+            "opentui",
+            "ts",
+            "bun",
+            "solidjs"
+          ]
         },
         {
           "id": "2iIi1H9V-Hg",
           "title": "Announcing Genkit Dart",
           "views": 38,
-          "date": "2026-03-13T13:28:36Z"
+          "date": "2026-03-13T13:28:36Z",
+          "category": "development",
+          "tags": [
+            "dart",
+            "genkit",
+            "flutter"
+          ]
         },
         {
           "id": "xfOATs8ncLM",
           "title": "Isolating Observability in Go",
           "views": 17,
-          "date": "2026-03-12T22:39:00Z"
+          "date": "2026-03-12T22:39:00Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "observability",
+            "pprof"
+          ]
         },
         {
           "id": "DIMW-iHlDxE",
           "title": "Mastering Comprehensive Rust",
           "views": 71,
-          "date": "2026-03-11T22:16:29Z"
+          "date": "2026-03-11T22:16:29Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "typestate",
+            "soundness"
+          ]
         },
         {
           "id": "oxNF_GNuWpE",
           "title": "The Pragmatic Go Developer",
           "views": 45,
-          "date": "2026-03-10T22:01:11Z"
+          "date": "2026-03-10T22:01:11Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "pragmatic",
+            "pprof"
+          ]
         },
         {
           "id": "84M1mVL0cjo",
           "title": "Pathways Over Tools",
           "views": 19,
-          "date": "2026-03-10T00:39:56Z"
+          "date": "2026-03-10T00:39:56Z",
+          "category": "development",
+          "tags": [
+            "autonomy",
+            "pathways",
+            "ai",
+            "workflows"
+          ]
         },
         {
           "id": "7yqkfHo8Mwk",
           "title": "Engineering the Overnight Researcher in Zig",
           "views": 58,
-          "date": "2026-03-09T11:31:08Z"
+          "date": "2026-03-09T11:31:08Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "autoresearch",
+            "optimization",
+            "autonomous",
+            "simd"
+          ]
         },
         {
           "id": "guwVjGsg3h4",
           "title": "The Pragmatics of Order",
           "views": 13,
-          "date": "2026-03-08T09:59:59Z"
+          "date": "2026-03-08T09:59:59Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "pdqsort",
+            "sorting"
+          ]
         },
         {
           "id": "4wX4mGuiTjw",
           "title": "Teaching an Ancient Calendar to a Microscopic AI",
           "views": 8,
-          "date": "2026-03-08T08:48:54Z"
+          "date": "2026-03-08T08:48:54Z",
+          "category": "development",
+          "tags": [
+            "migrogpt-zig",
+            "zig",
+            "gunghap",
+            "saju"
+          ]
         },
         {
           "id": "sGQrnPJSsPc",
           "title": "A Semantic Operating System",
           "views": 92,
-          "date": "2026-03-08T08:24:38Z"
+          "date": "2026-03-08T08:24:38Z",
+          "category": "development",
+          "tags": [
+            "mma",
+            "dag",
+            "semantic os",
+            "reasoning as glue"
+          ]
         },
         {
           "id": "6WRiPikxs-Q",
           "title": "The Architect's Baton",
           "views": 125,
-          "date": "2026-03-07T21:29:48Z"
+          "date": "2026-03-07T21:29:48Z",
+          "category": "development",
+          "tags": [
+            "swe",
+            "architecture.",
+            "macro",
+            "integrity",
+            "resilience"
+          ]
         },
         {
           "id": "NztD5fYpXcg",
           "title": "The 10-Lens Research Analysis Framework",
           "views": 28,
-          "date": "2026-03-07T19:42:12Z"
+          "date": "2026-03-07T19:42:12Z",
+          "category": "development",
+          "tags": [
+            "synthesizers",
+            "auditors",
+            "architects",
+            "presets",
+            "research-analysis"
+          ]
         },
         {
           "id": "vSjgNxi7W-4",
           "title": "yp: The Terminal User Interface Renaissance",
           "views": 69,
-          "date": "2026-03-06T23:13:08Z"
+          "date": "2026-03-06T23:13:08Z",
+          "category": "development",
+          "tags": [
+            "yp",
+            "tui",
+            "cli",
+            "hybrid",
+            "pipe",
+            "llm"
+          ]
         },
         {
           "id": "nRxqSGBuB4s",
           "title": "The Essential Algorithmic Toolkit",
           "views": 55,
-          "date": "2026-03-06T12:55:45Z"
+          "date": "2026-03-06T12:55:45Z",
+          "category": "development",
+          "tags": [
+            "algorithms",
+            "searching",
+            "sorting",
+            "tree",
+            "graphs"
+          ]
         },
         {
           "id": "IkVazryUiko",
           "title": "Fuzzy Find Everything",
           "views": 56,
-          "date": "2026-03-04T22:43:54Z"
+          "date": "2026-03-04T22:43:54Z",
+          "category": "development",
+          "tags": [
+            "fzf",
+            "bat",
+            "eza",
+            "cli",
+            "ripgrep"
+          ]
         },
         {
           "id": "xVdW3yUCbuU",
           "title": "codeprobe",
           "views": 33,
-          "date": "2026-03-04T14:12:28Z"
+          "date": "2026-03-04T14:12:28Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "cli",
+            "codeprobe",
+            "copilot",
+            "map-reduce"
+          ]
         },
         {
           "id": "gVZwfZVAuVE",
           "title": "Deconstructing Elixir's 400x Type System Acceleration",
           "views": 38,
-          "date": "2026-03-04T13:43:17Z"
+          "date": "2026-03-04T13:43:17Z",
+          "category": "development",
+          "tags": [
+            "elixir",
+            "optimization",
+            "lazy bdd",
+            "v1.20"
+          ]
         },
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
           "views": 152,
-          "date": "2026-03-04T00:40:36Z"
+          "date": "2026-03-04T00:40:36Z",
+          "category": "development",
+          "tags": [
+            "solidjs",
+            "producer",
+            "maturation"
+          ]
         },
         {
           "id": "Hfut9CfJhN0",
           "title": "Bubble Tea v2",
           "views": 45,
-          "date": "2026-03-02T12:02:38Z"
+          "date": "2026-03-02T12:02:38Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "tui",
+            "declarative",
+            "colorprofile"
+          ]
         },
         {
           "id": "WahgsFhj3W0",
           "title": "melos-rs: Architectural Anatomy",
           "views": 18,
-          "date": "2026-03-01T15:00:36Z"
+          "date": "2026-03-01T15:00:36Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "melos-rs",
+            "gof",
+            "design patterns"
+          ]
         },
         {
           "id": "uqZ-mwxGf2c",
           "title": "Modern Observability in Go",
           "views": 106,
-          "date": "2026-03-01T14:36:52Z"
+          "date": "2026-03-01T14:36:52Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "echo",
+            "lgtm",
+            "observability"
+          ]
         },
         {
           "id": "AcpVuvtSXwI",
           "title": "microgpt-zig: Atomic Al Training",
           "views": 47,
-          "date": "2026-02-28T14:09:19Z"
+          "date": "2026-02-28T14:09:19Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "microgpt",
+            "automics",
+            "training",
+            "gpt"
+          ]
         },
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
           "views": 634,
-          "date": "2026-02-28T05:29:43Z"
+          "date": "2026-02-28T05:29:43Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "llm",
+            "claude",
+            "skills"
+          ],
+          "detail": {
+            "summary": "This video introduces a technical framework for building 'Skills' for Claude, which are standardized, portable instruction sets designed to move beyond inefficient ad hoc prompting. By combining the connectivity of the Model Context Protocol (MCP) with structured guidance, developers can create modular AI workflows that are consistent across the Claude ecosystem.",
+            "takeaways": [
+              "Skills function as the 'recipe' or logic that directs how Claude uses the 'kitchen' or infrastructure provided by the Model Context Protocol."
+            ],
+            "topics": [
+              "model context protocol",
+              "skill development",
+              "progressive disclosure",
+              "token optimization",
+              "yaml front matter",
+              "workflow automation",
+              "architectural standards"
+            ]
+          }
         },
         {
           "id": "WMcKFQ200OE",
           "title": "Flutter & Dart: The 2026 Roadmap",
           "views": 58,
-          "date": "2026-02-27T13:24:25Z"
+          "date": "2026-02-27T13:24:25Z",
+          "category": "development",
+          "tags": [
+            "flutter",
+            "wasm",
+            "2026",
+            "genai",
+            "desktop"
+          ]
         },
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
           "views": 86,
-          "date": "2026-02-27T12:49:18Z"
+          "date": "2026-02-27T12:49:18Z",
+          "category": "development",
+          "tags": [
+            "notebooklm",
+            "prompts",
+            "synthesizers",
+            "auditors",
+            "architects"
+          ]
         },
         {
           "id": "jzjGcFkAnfs",
           "title": "React Native vs. Flutter for Enterprise Apps",
           "views": 32,
-          "date": "2026-02-26T23:12:29Z"
+          "date": "2026-02-26T23:12:29Z",
+          "category": "development",
+          "tags": [
+            "flutter",
+            "greenfield",
+            "mobile-first"
+          ]
         },
         {
           "id": "WdK7PED1ug8",
           "title": "A Guide to Rust Smart Pointers",
           "views": 43,
-          "date": "2026-02-26T09:38:48Z"
+          "date": "2026-02-26T09:38:48Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "ownership",
+            "concurrency",
+            "optimization"
+          ]
         },
         {
           "id": "HiaotGxHTfo",
           "title": "PictureViewer",
           "views": 15,
-          "date": "2026-02-25T13:09:13Z"
+          "date": "2026-02-25T13:09:13Z",
+          "category": "development",
+          "tags": [
+            "swift",
+            "gpu-composited",
+            "animations"
+          ]
         },
         {
           "id": "DazzkNtnzec",
           "title": "Design Patterns in Go",
           "views": 109,
-          "date": "2026-02-24T23:48:12Z"
+          "date": "2026-02-24T23:48:12Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "composition",
+            "gof"
+          ]
         },
         {
           "id": "ARWkoc3E8uE",
           "title": "Composition by Design",
           "views": 31,
-          "date": "2026-02-23T23:33:01Z"
+          "date": "2026-02-23T23:33:01Z",
+          "category": "development",
+          "tags": [
+            "gof",
+            "composition",
+            "design patterns:",
+            "go",
+            "rust"
+          ]
         },
         {
           "id": "Th5MMOFQbh8",
           "title": "Backend Patterns in Rust",
           "views": 44,
-          "date": "2026-02-23T03:44:24Z"
+          "date": "2026-02-23T03:44:24Z",
+          "category": "development",
+          "tags": [
+            "type safety",
+            "rust",
+            "explicit state",
+            "backend",
+            "pattern"
+          ]
         },
         {
           "id": "SpNfrWmI8iE",
           "title": "Architecting Scalable Rust Backends",
           "views": 63,
-          "date": "2026-02-22T10:43:18Z"
+          "date": "2026-02-22T10:43:18Z",
+          "category": "development",
+          "tags": [
+            "facade",
+            "dispatch",
+            "async",
+            "gof",
+            "pattern"
+          ]
         },
         {
           "id": "H-gkXATx8r0",
           "title": "Cryptographic Usability & The Tink Library",
           "views": 19,
-          "date": "2026-02-21T15:59:41Z"
+          "date": "2026-02-21T15:59:41Z",
+          "category": "development",
+          "tags": [
+            "crypto",
+            "tink",
+            "gcm",
+            "aead"
+          ]
         },
         {
           "id": "3ybGkjogcFQ",
           "title": "Modern State Architecture: The Repository Pattern",
           "views": 34,
-          "date": "2026-02-20T12:47:49Z"
+          "date": "2026-02-20T12:47:49Z",
+          "category": "development",
+          "tags": [
+            "signals",
+            "tanstack query",
+            "repository"
+          ]
         },
         {
           "id": "QBUQvfZJpaM",
           "title": "Modern Cryptography Standards: A Guide to AEAD",
           "views": 29,
-          "date": "2026-02-18T23:24:48Z"
+          "date": "2026-02-18T23:24:48Z",
+          "category": "development",
+          "tags": [
+            "aes-256-gcm",
+            "unique ivs",
+            "aead",
+            "crypto"
+          ]
         },
         {
           "id": "5Vloo08zQ7o",
           "title": "Bulletproof Frontend Architecture",
           "views": 30,
-          "date": "2026-02-16T21:07:23Z"
+          "date": "2026-02-16T21:07:23Z",
+          "category": "development",
+          "tags": [
+            "repository",
+            "adapter",
+            "anti-corruption layer",
+            "frontend"
+          ]
         },
         {
           "id": "5-ZNXQegVhs",
           "title": "The Strategic Synthesis:Shift Left & Shift Right",
           "views": 20,
-          "date": "2026-02-16T20:52:30Z"
+          "date": "2026-02-16T20:52:30Z",
+          "category": "development",
+          "tags": [
+            "shift left",
+            "shift right",
+            "sdlc",
+            "dora"
+          ]
         },
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
           "views": 77,
-          "date": "2026-02-14T22:47:13Z"
+          "date": "2026-02-14T22:47:13Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "graph-vector"
+          ]
         },
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
           "views": 690,
-          "date": "2026-02-14T09:23:06Z"
+          "date": "2026-02-14T09:23:06Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "1.26",
+            "go fix",
+            "modernizers"
+          ],
+          "detail": {
+            "summary": "Go 1.26 introduces a paradigm shift toward automated modernization, leveraging an AST-based analysis framework to evolve codebases via intent-based refactoring. The release focuses on streamlining developer workflows by providing tools that automatically transition legacy patterns to modern idioms, such as the new expression syntax and refined JSON tag handling.",
+            "takeaways": [
+              "Go 1.26 shifts from manual refactoring to automated code evolution using a sophisticated AST-based analysis framework."
+            ],
+            "topics": [
+              "go 1.26",
+              "automated refactoring",
+              "abstract syntax tree",
+              "memory allocation",
+              "json struct tags",
+              "performance tuning",
+              "golang toolchain",
+              "generics"
+            ]
+          }
         },
         {
           "id": "cWozmWrqnxs",
           "title": "The Repository Pattern",
           "views": 765,
-          "date": "2026-02-13T18:01:39Z"
+          "date": "2026-02-13T18:01:39Z",
+          "category": "development",
+          "tags": [
+            "decoupling",
+            "frontend",
+            "repository"
+          ],
+          "detail": {
+            "summary": "The repository pattern is an architectural abstraction that decouples UI components from data access logic, preventing 'spaghetti code' and tight coupling with backend structures. By introducing a domain layer with interfaces and mappers, developers can centralize data transformation and create highly testable applications. This approach ensures that frontend code remains resilient to backend API changes and supports fast, reliable unit testing through mocking.",
+            "takeaways": [
+              "The repository pattern centralizes data fetching logic, preventing the duplication of API calls and transformation logic across multiple UI components."
+            ],
+            "topics": [
+              "repository pattern",
+              "frontend architecture",
+              "data mapping",
+              "separation of concerns",
+              "dependency injection",
+              "unit testing",
+              "domain-driven design",
+              "api abstraction"
+            ]
+          }
         },
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
           "views": 268,
-          "date": "2026-02-13T15:08:23Z"
+          "date": "2026-02-13T15:08:23Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "burm",
+            "deep learning"
+          ]
         },
         {
           "id": "Qo3oJv4uyBI",
           "title": "High-Performance Go: Inside the 1.26 Release",
           "views": 187,
-          "date": "2026-02-12T13:08:12Z"
+          "date": "2026-02-12T13:08:12Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "simd",
+            "greentea"
+          ],
+          "detail": {
+            "summary": "Go 1.26 introduces architectural innovations focused on high performance, specifically through direct SIMD instruction support and the new 'Green Tea' garbage collector. The release shifts Go toward a performance-first philosophy by exposing hardware primitives that were previously internal, reducing the overhead and maintenance burdens associated with manual assembly.",
+            "takeaways": [
+              "Go 1.26 enables developers to use SIMD intrinsics like AVX-512 and Neon directly in user code via the experimental simd/arch package."
+            ],
+            "topics": [
+              "go 1.26",
+              "simd",
+              "green tea garbage collector",
+              "compiler intrinsics",
+              "hardware acceleration",
+              "memory management",
+              "performance optimization",
+              "avx-512"
+            ]
+          }
         },
         {
           "id": "cEwAbu6FFRo",
           "title": "Compound Engineering",
           "views": 118,
-          "date": "2026-02-11T13:08:01Z"
+          "date": "2026-02-11T13:08:01Z",
+          "category": "development",
+          "tags": [
+            "every.to",
+            "al-native",
+            "plan first"
+          ]
         },
         {
           "id": "IZX3_9rZeMU",
           "title": "The Hybrid TUI Architecture",
           "views": 538,
-          "date": "2026-02-10T10:11:11Z"
+          "date": "2026-02-10T10:11:11Z",
+          "category": "development",
+          "tags": [
+            "opentui",
+            "zig",
+            "solidjs",
+            "opencode"
+          ],
+          "detail": {
+            "summary": "The Open 2i architecture introduces a \"hybrid sandwich\" model for building high-performance terminal user interfaces by combining SolidJS for reactive state management with Zigg for low-level rendering. By replacing the traditional virtual DOM with fine-grained signals and leveraging Bun's FFI for binary data transfer, the system achieves stable 60 FPS performance with significantly reduced memory overhead. This approach bridges the gap between modern developer productivity and native execution speed through manual memory management and direct hardware communication.",
+            "takeaways": [
+              "The hybrid 2i architecture uses a three-tier model: TypeScript/SolidJS for logic, Bun FFI for high-speed communication, and Zigg for performance-critical rendering."
+            ],
+            "topics": [
+              "terminal user interface",
+              "zigg",
+              "solidjs",
+              "bun ffi",
+              "reactive programming",
+              "memory management",
+              "double buffering",
+              "low latency"
+            ]
+          }
         },
         {
           "id": "KDnTY0Svmr0",
           "title": "AEM + Meilisearch: A High-Performance Integration",
           "views": 14,
-          "date": "2026-02-10T07:27:32Z"
+          "date": "2026-02-10T07:27:32Z",
+          "category": "development",
+          "tags": [
+            "melisearch",
+            "aem"
+          ]
         },
         {
           "id": "qxOOl1hx1zU",
           "title": "The Future of Al Programming:  2031 Strategic Outlook",
           "views": 104,
-          "date": "2026-02-09T13:26:58Z"
+          "date": "2026-02-09T13:26:58Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "programming",
+            "rust",
+            "go",
+            "zig"
+          ]
         },
         {
           "id": "0Sed1oggMKY",
           "title": "Tokio: The Asynchronous Runtime for Rust",
           "views": 86,
-          "date": "2026-02-08T20:27:32Z"
+          "date": "2026-02-08T20:27:32Z",
+          "category": "development",
+          "tags": [
+            "tokio",
+            "rust",
+            "tracing",
+            "async"
+          ]
         },
         {
           "id": "A96r5gqwUrI",
           "title": "Zig Algorithms: The Art of Zero-Cost Abstraction",
           "views": 24,
-          "date": "2026-02-06T13:03:31Z"
+          "date": "2026-02-06T13:03:31Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "algorithms"
+          ]
         },
         {
           "id": "ZlEq2jFb8tI",
           "title": "Mastering Rust Error Handling",
           "views": 16,
-          "date": "2026-02-06T12:28:35Z"
+          "date": "2026-02-06T12:28:35Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "anyhow",
+            "thoserror",
+            "tracing",
+            "color-eyre"
+          ]
         },
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
           "views": 102,
-          "date": "2026-02-06T00:14:00Z"
+          "date": "2026-02-06T00:14:00Z",
+          "category": "development",
+          "tags": [
+            "git",
+            "jujutsu",
+            "jj",
+            "workflow"
+          ]
         },
         {
           "id": "5st-kLcNrE8",
           "title": "Jujutsu (jj):  An Introduction of its Paradigm Shift",
           "views": 115,
-          "date": "2026-02-06T00:13:53Z"
+          "date": "2026-02-06T00:13:53Z",
+          "category": "development",
+          "tags": [
+            "git",
+            "jujutsu",
+            "jj",
+            "intro"
+          ]
         },
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
           "views": 365,
-          "date": "2026-02-02T10:14:00Z"
+          "date": "2026-02-02T10:14:00Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "fundamentals",
+            "features"
+          ]
         },
         {
           "id": "2Ni8zfsxW6o",
           "title": "Modernizing Legacy COBOL",
           "views": 26,
-          "date": "2026-02-01T13:20:19Z"
+          "date": "2026-02-01T13:20:19Z",
+          "category": "development",
+          "tags": [
+            "cobol",
+            "go",
+            "java",
+            "modernization"
+          ]
         },
         {
           "id": "d_0swhS1LyQ",
           "title": "Neural TTS in Pastel-HN",
           "views": 45,
-          "date": "2026-02-01T12:24:48Z"
+          "date": "2026-02-01T12:24:48Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "tts",
+            "piper",
+            "tauri",
+            "pastel-hn",
+            "onnx",
+            "rodio"
+          ]
         },
         {
           "id": "TDWC1fFhn9g",
           "title": "A DeepDive into SIMD & Zig",
           "views": 80,
-          "date": "2026-01-31T19:35:42Z"
+          "date": "2026-01-31T19:35:42Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "simd",
+            "vector",
+            "masking"
+          ]
         },
         {
           "id": "V2LbQqD1lMM",
           "title": "Ralph: The Autonomous Vibe Coding Workflow",
           "views": 34,
-          "date": "2026-01-31T16:33:53Z"
+          "date": "2026-01-31T16:33:53Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "cli",
+            "workflow",
+            "automatic task"
+          ]
         },
         {
           "id": "h31-NtagNoU",
           "title": "Memory Layout in Zig",
           "views": 59,
-          "date": "2026-01-30T01:32:57Z"
+          "date": "2026-01-30T01:32:57Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "soa",
+            "memory layout"
+          ]
         },
         {
           "id": "o9yaniXkM-0",
           "title": "Practical Data Oriented Design in Zig",
           "views": 42,
-          "date": "2026-01-30T01:28:52Z"
+          "date": "2026-01-30T01:28:52Z",
+          "category": "development",
+          "tags": [
+            "dod",
+            "soa",
+            "zig"
+          ]
         },
         {
           "id": "RDa6WtZmW8E",
           "title": "Mastering Serde in Rust ",
           "views": 43,
-          "date": "2026-01-29T05:20:28Z"
+          "date": "2026-01-29T05:20:28Z",
+          "category": "development",
+          "tags": [
+            "serde",
+            "rust",
+            "zero copy",
+            "serialization"
+          ]
         },
         {
           "id": "gBb1zn-QtY4",
           "title": "The Blue Screen Era",
           "views": 49,
-          "date": "2026-01-29T02:37:33Z"
+          "date": "2026-01-29T02:37:33Z",
+          "category": "development",
+          "tags": [
+            "turbo pascal",
+            "turbo c",
+            "borland"
+          ]
         },
         {
           "id": "Ul0ixBpd5iM",
           "title": "Velox: Bring Tauri to Swift",
           "views": 43,
-          "date": "2026-01-27T23:10:59Z"
+          "date": "2026-01-27T23:10:59Z",
+          "category": "development",
+          "tags": [
+            "swift",
+            "tauri",
+            "velox"
+          ]
         },
         {
           "id": "43UjmZtW2JU",
           "title": "Mastering Memory in Rust",
           "views": 50,
-          "date": "2026-01-27T11:21:20Z"
+          "date": "2026-01-27T11:21:20Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "smart pointers",
+            "ownership",
+            "lifetimes",
+            "borrowing",
+            "memory safety"
+          ]
         },
         {
           "id": "US7oyxbcJCc",
           "title": "Cloth Simulation: A Performance Study",
           "views": 12,
-          "date": "2026-01-26T04:41:26Z"
+          "date": "2026-01-26T04:41:26Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "cloth simulation",
+            "native",
+            "hybrid"
+          ]
         },
         {
           "id": "DCGTYftRGWE",
           "title": "Hardening a Prototype",
           "views": 23,
-          "date": "2026-01-26T04:27:03Z"
+          "date": "2026-01-26T04:27:03Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "native",
+            "cloth simulation"
+          ]
         },
         {
           "id": "3Fpey_L_XRU",
           "title": "Cloth Simulation ",
           "views": 12,
-          "date": "2026-01-25T22:13:48Z"
+          "date": "2026-01-25T22:13:48Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "wasm",
+            "verlet integration"
+          ]
         },
         {
           "id": "cJl2cchaHL8",
           "title": "pastel-hn",
           "views": 58,
-          "date": "2026-01-25T05:05:15Z"
+          "date": "2026-01-25T05:05:15Z",
+          "category": "development",
+          "tags": [
+            "tauri",
+            "rust",
+            "hn",
+            "pastel-hn"
+          ]
         },
         {
           "id": "qbBA7GWZbu4",
           "title": "Smooth Motion",
           "views": 48,
-          "date": "2026-01-25T01:05:25Z"
+          "date": "2026-01-25T01:05:25Z",
+          "category": "development",
+          "tags": [
+            "bezier curves",
+            "zig",
+            "wasm"
+          ]
         },
         {
           "id": "P58Zt8A_1Mc",
           "title": "Swift Firefly",
           "views": 112,
-          "date": "2026-01-24T08:32:27Z"
+          "date": "2026-01-24T08:32:27Z",
+          "category": "development",
+          "tags": [
+            "swift",
+            "zig",
+            "wasm"
+          ]
         },
         {
           "id": "MaP2i4dTiQk",
           "title": "Taming the Genie",
           "views": 15,
-          "date": "2026-01-23T08:12:08Z"
+          "date": "2026-01-23T08:12:08Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "design contest",
+            "augmented coding"
+          ]
         },
         {
           "id": "Pp36ysjfWd8",
           "title": "Hangul Typing",
           "views": 8,
-          "date": "2026-01-22T23:21:15Z"
+          "date": "2026-01-22T23:21:15Z",
+          "category": "development",
+          "tags": [
+            "hangul",
+            "zig",
+            "rust",
+            "typescript",
+            "tauri",
+            "wasm",
+            "hangul.wasm"
+          ]
         },
         {
           "id": "JBh6rzeS-Qc",
           "title": "Modern Dart",
           "views": 81,
-          "date": "2026-01-20T10:29:25Z"
+          "date": "2026-01-20T10:29:25Z",
+          "category": "development",
+          "tags": [
+            "dart",
+            "sound null safety",
+            "records",
+            "pattern matching",
+            "feature flags"
+          ]
         },
         {
           "id": "9yov-ZVv-Bo",
           "title": "Hangul + WASM",
           "views": 43,
-          "date": "2026-01-19T20:47:14Z"
+          "date": "2026-01-19T20:47:14Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "hangul",
+            "wasm"
+          ]
         },
         {
           "id": "xVmoqBYlQMU",
           "title": "Mastering Rust Feature Flags",
           "views": 53,
-          "date": "2026-01-19T17:09:56Z"
+          "date": "2026-01-19T17:09:56Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "feature flags",
+            "optional",
+            "opt-out"
+          ]
         },
         {
           "id": "5KB2zLGjaps",
           "title": "Conventional Commits",
           "views": 14,
-          "date": "2026-01-19T10:21:27Z"
+          "date": "2026-01-19T10:21:27Z",
+          "category": "development",
+          "tags": [
+            "git",
+            "conventional commit",
+            "semantic versioning"
+          ]
         },
         {
           "id": "LWc3AAHoxnU",
           "title": "Flutter App Template",
           "views": 36,
-          "date": "2026-01-18T19:15:22Z"
+          "date": "2026-01-18T19:15:22Z",
+          "category": "development",
+          "tags": [
+            "flutter",
+            "melos",
+            "riverpod",
+            "repository pattern"
+          ]
         },
         {
           "id": "Z06RjO-zFxI",
           "title": "The Modern Git Playbook",
           "views": 33,
-          "date": "2026-01-18T18:16:27Z"
+          "date": "2026-01-18T18:16:27Z",
+          "category": "development",
+          "tags": [
+            "git",
+            "command"
+          ]
         },
         {
           "id": "HOetEEw0ogM",
           "title": "Enterprise Agentic Al",
           "views": 35,
-          "date": "2026-01-18T16:14:21Z"
+          "date": "2026-01-18T16:14:21Z",
+          "category": "development",
+          "tags": [
+            "agentic ai",
+            "agile",
+            "digital employee"
+          ]
         },
         {
           "id": "0NLj8g2hQNk",
           "title": "The Client's Guide to 'ra-token-authority'",
           "views": 12,
-          "date": "2026-01-16T18:34:39Z"
+          "date": "2026-01-16T18:34:39Z",
+          "category": "development",
+          "tags": [
+            "zero trust",
+            "ra-token-authority",
+            "paseto",
+            "mtls",
+            "msa",
+            "kubernetes"
+          ]
         },
         {
           "id": "0ttrfTfP864",
           "title": "ra-token-authority",
           "views": 21,
-          "date": "2026-01-16T16:34:51Z"
+          "date": "2026-01-16T16:34:51Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "paseto",
+            "token",
+            "zero trust",
+            "axum",
+            "tokio"
+          ]
         },
         {
           "id": "SeYrpzDTn6A",
           "title": "Modern Microservice Trust",
           "views": 19,
-          "date": "2026-01-13T23:06:41Z"
+          "date": "2026-01-13T23:06:41Z",
+          "category": "development",
+          "tags": [
+            "msa",
+            "paseto",
+            "rust"
+          ]
         },
         {
           "id": "FDYu2fllfuE",
           "title": "The 98  Prediction Problem",
           "views": 3,
-          "date": "2026-01-13T03:29:33Z"
+          "date": "2026-01-13T03:29:33Z",
+          "category": "development",
+          "tags": [
+            "march madness",
+            "prediction"
+          ]
         },
         {
           "id": "tmerUd7eiy4",
           "title": "Beyond the Default ",
           "views": 11,
-          "date": "2026-01-11T18:29:42Z"
+          "date": "2026-01-11T18:29:42Z",
+          "category": "development",
+          "tags": [
+            "cli",
+            "zsh",
+            "antidote",
+            "starship"
+          ]
         },
         {
           "id": "tqDisu2tmG0",
           "title": "AI Agents  Idea to Tool",
           "views": 6,
-          "date": "2026-01-10T23:18:02Z"
+          "date": "2026-01-10T23:18:02Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "agents"
+          ]
         },
         {
           "id": "9oSUtndLto4",
           "title": "Unifying AI, Copilot & Power BI",
           "views": 13,
-          "date": "2026-01-10T16:58:52Z"
+          "date": "2026-01-10T16:58:52Z",
+          "category": "development",
+          "tags": [
+            "copilot",
+            "powerbi",
+            "azure ai foundry"
+          ]
         },
         {
           "id": "yOOQNnaOLeM",
           "title": "Zig  Pragmatic Successor to C",
           "views": 26,
-          "date": "2026-01-10T04:21:57Z"
+          "date": "2026-01-10T04:21:57Z",
+          "category": "development",
+          "tags": [
+            "zig"
+          ]
         },
         {
           "id": "4_mBGmXA244",
           "title": "Data Centric Flutter Apps",
           "views": 32,
-          "date": "2026-01-10T02:40:22Z"
+          "date": "2026-01-10T02:40:22Z",
+          "category": "development",
+          "tags": [
+            "flutter",
+            "dio",
+            "riverpod",
+            "freezed",
+            "melos"
+          ]
         },
         {
           "id": "KCuGqld6nOc",
           "title": "The Go Concurrency Paradox",
           "views": 48,
-          "date": "2026-01-10T00:17:59Z"
+          "date": "2026-01-10T00:17:59Z",
+          "category": "development",
+          "tags": [
+            "go"
+          ]
         },
         {
           "id": "B2x09utLjtM",
           "title": "The Modern Delivery Flywheel",
           "views": 9,
-          "date": "2026-01-09T08:50:53Z"
+          "date": "2026-01-09T08:50:53Z",
+          "category": "development",
+          "tags": [
+            "trunk based",
+            "git"
+          ]
         },
         {
           "id": "7zFqW-ZcEbo",
           "title": "The Rust Architect's Sketchbook",
           "views": 90,
-          "date": "2026-01-09T00:15:35Z"
+          "date": "2026-01-09T00:15:35Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "anyhow",
+            "thiserror",
+            "axum",
+            "tracing",
+            "tokio"
+          ]
         },
         {
           "id": "js95nIDeA-c",
           "title": "The Professional Rust Toolbox",
           "views": 7,
-          "date": "2026-01-08T10:19:31Z"
+          "date": "2026-01-08T10:19:31Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "anyhow",
+            "toolbox"
+          ]
         },
         {
           "id": "BAxPZdgmgRQ",
           "title": "The 2026 State of Al Agents",
           "views": 3,
-          "date": "2026-01-08T09:41:38Z"
+          "date": "2026-01-08T09:41:38Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "2026",
+            "agents"
+          ]
         },
         {
           "id": "z_Ydy_-cI1U",
           "title": "Micro-Processing the Hippo's Waste",
           "views": 2,
-          "date": "2026-01-07T05:32:04Z"
+          "date": "2026-01-07T05:32:04Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "agents",
+            "3270",
+            "zig"
+          ]
         },
         {
           "id": "axvxGj3yOgA",
           "title": "The Memory Management Trilemma",
           "views": 30,
-          "date": "2026-01-07T03:10:14Z"
+          "date": "2026-01-07T03:10:14Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "zig"
+          ]
         },
         {
           "id": "Xhq99-YHXCY",
           "title": "Professional Al Agent Usage via the CLI",
           "views": 25,
-          "date": "2026-01-02T21:40:38Z"
+          "date": "2026-01-02T21:40:38Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "agent",
+            "cli"
+          ]
         },
         {
           "id": "PNFlYx8HiOM",
           "title": "The Art of Git Gardening",
           "views": 15,
-          "date": "2025-12-31T20:13:22Z"
+          "date": "2025-12-31T20:13:22Z",
+          "category": "development",
+          "tags": [
+            "git"
+          ]
         },
         {
           "id": "pzVOjl6mOD4",
           "title": "The Architect's Guide to Modern Token Security",
           "views": 26,
-          "date": "2025-12-30T03:57:17Z"
+          "date": "2025-12-30T03:57:17Z",
+          "category": "development",
+          "tags": [
+            "paseto"
+          ]
         },
         {
           "id": "olsB3bJxA2A",
           "title": "Let's check about Zig",
           "views": 337,
-          "date": "2025-12-28T09:28:00Z"
+          "date": "2025-12-28T09:28:00Z",
+          "category": "development",
+          "tags": [
+            "zig"
+          ],
+          "detail": {
+            "summary": "Zig is presented as a pragmatic systems programming language that bridges the gap between the performance of C and the safety of Rust by prioritizing simplicity and explicit control. Through a case study of building a garbage-collected virtual machine, the video demonstrates how Zig's design avoids the 'unsafe' complexities of Rust while outperforming it in specific low-level benchmarks.",
+            "takeaways": [
+              "Zig eliminates hidden control flow, such as operator overloading and hidden allocations, ensuring that what you see in the code is exactly what executes."
+            ],
+            "topics": [
+              "zig",
+              "systems programming",
+              "memory management",
+              "comptime",
+              "c interoperability",
+              "garbage collection",
+              "pointer safety",
+              "cross-compilation"
+            ]
+          }
         },
         {
           "id": "IF5sNQH-01c",
           "title": "NotebookLM's Intelligence Flow",
           "views": 45,
-          "date": "2025-12-28T08:31:48Z"
+          "date": "2025-12-28T08:31:48Z",
+          "category": "development",
+          "tags": [
+            "notebooklm",
+            "ai"
+          ]
         },
         {
           "id": "2kvYb2pVe5o",
           "title": "From Blueprint to Battlefield",
           "views": 32,
-          "date": "2025-12-27T21:55:52Z"
+          "date": "2025-12-27T21:55:52Z",
+          "category": "development",
+          "tags": [
+            "identity",
+            "oidc",
+            "ssrf"
+          ]
         },
         {
           "id": "TLqdeHlAo3A",
           "title": "From Bottlenecks to Breakthroughs:",
           "views": 37,
-          "date": "2025-12-27T21:13:50Z"
+          "date": "2025-12-27T21:13:50Z",
+          "category": "development",
+          "tags": [
+            "git",
+            "trunk based",
+            "ado"
+          ]
         }
       ]
     },
@@ -2881,25 +5716,53 @@
               "id": "Zeg8zSOvoyE",
               "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
               "views": 50,
-              "date": "2026-03-31T22:42:44Z"
+              "date": "2026-03-31T22:42:44Z",
+              "category": "security",
+              "tags": [
+                "automonmous",
+                "llm",
+                "ai",
+                "zero-day"
+              ]
             },
             {
               "id": "taBP0Fr3uSQ",
               "title": "Anatomy of a Supply Chain Attack",
               "views": 29,
-              "date": "2026-03-26T11:52:33Z"
+              "date": "2026-03-26T11:52:33Z",
+              "category": "security",
+              "tags": [
+                "litellm",
+                "trivy",
+                "c2",
+                "pypi"
+              ]
             },
             {
               "id": "CA1nlknmR3g",
               "title": "Containing the Untrusted Agent",
               "views": 28,
-              "date": "2026-03-25T08:25:20Z"
+              "date": "2026-03-25T08:25:20Z",
+              "category": "security",
+              "tags": [
+                "security",
+                "ssrf",
+                "llm"
+              ]
             },
             {
               "id": "Oa3jaLNSZvM",
               "title": "The Orchestrator's Blueprint",
               "views": 33,
-              "date": "2026-02-28T16:18:04Z"
+              "date": "2026-02-28T16:18:04Z",
+              "category": "security",
+              "tags": [
+                "swivel chair",
+                "soar",
+                "siem",
+                "xdr",
+                "shift left"
+              ]
             }
           ]
         },
@@ -2910,25 +5773,53 @@
               "id": "Zeg8zSOvoyE",
               "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
               "views": 50,
-              "date": "2026-03-31T22:42:44Z"
+              "date": "2026-03-31T22:42:44Z",
+              "category": "security",
+              "tags": [
+                "automonmous",
+                "llm",
+                "ai",
+                "zero-day"
+              ]
             },
             {
               "id": "CA1nlknmR3g",
               "title": "Containing the Untrusted Agent",
               "views": 28,
-              "date": "2026-03-25T08:25:20Z"
+              "date": "2026-03-25T08:25:20Z",
+              "category": "security",
+              "tags": [
+                "security",
+                "ssrf",
+                "llm"
+              ]
             },
             {
               "id": "1VjSLqfPf9s",
               "title": "The NIST Cybersecurity Framework 2.0",
               "views": 15,
-              "date": "2026-03-08T22:36:56Z"
+              "date": "2026-03-08T22:36:56Z",
+              "category": "security",
+              "tags": [
+                "nist",
+                "csf",
+                "2.0",
+                "resilience"
+              ]
             },
             {
               "id": "uhXcsWYhdkA",
               "title": "The Strategic Roadmap for Data Classification",
               "views": 15,
-              "date": "2026-03-02T23:46:29Z"
+              "date": "2026-03-02T23:46:29Z",
+              "category": "security",
+              "tags": [
+                "nist",
+                "data",
+                "classification",
+                "sp 1800-39",
+                "security"
+              ]
             }
           ]
         }
@@ -2938,55 +5829,118 @@
           "id": "Zeg8zSOvoyE",
           "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
           "views": 50,
-          "date": "2026-03-31T22:42:44Z"
+          "date": "2026-03-31T22:42:44Z",
+          "category": "security",
+          "tags": [
+            "automonmous",
+            "llm",
+            "ai",
+            "zero-day"
+          ]
         },
         {
           "id": "HxB-cJIbEgE",
           "title": "2FA Orchestration in PingFederate",
           "views": 6,
-          "date": "2026-03-29T14:37:03Z"
+          "date": "2026-03-29T14:37:03Z",
+          "category": "security",
+          "tags": [
+            "2fa",
+            "orchestration",
+            "pingfederate"
+          ]
         },
         {
           "id": "taBP0Fr3uSQ",
           "title": "Anatomy of a Supply Chain Attack",
           "views": 29,
-          "date": "2026-03-26T11:52:33Z"
+          "date": "2026-03-26T11:52:33Z",
+          "category": "security",
+          "tags": [
+            "litellm",
+            "trivy",
+            "c2",
+            "pypi"
+          ]
         },
         {
           "id": "CA1nlknmR3g",
           "title": "Containing the Untrusted Agent",
           "views": 28,
-          "date": "2026-03-25T08:25:20Z"
+          "date": "2026-03-25T08:25:20Z",
+          "category": "security",
+          "tags": [
+            "security",
+            "ssrf",
+            "llm"
+          ]
         },
         {
           "id": "1VjSLqfPf9s",
           "title": "The NIST Cybersecurity Framework 2.0",
           "views": 15,
-          "date": "2026-03-08T22:36:56Z"
+          "date": "2026-03-08T22:36:56Z",
+          "category": "security",
+          "tags": [
+            "nist",
+            "csf",
+            "2.0",
+            "resilience"
+          ]
         },
         {
           "id": "uhXcsWYhdkA",
           "title": "The Strategic Roadmap for Data Classification",
           "views": 15,
-          "date": "2026-03-02T23:46:29Z"
+          "date": "2026-03-02T23:46:29Z",
+          "category": "security",
+          "tags": [
+            "nist",
+            "data",
+            "classification",
+            "sp 1800-39",
+            "security"
+          ]
         },
         {
           "id": "Oa3jaLNSZvM",
           "title": "The Orchestrator's Blueprint",
           "views": 33,
-          "date": "2026-02-28T16:18:04Z"
+          "date": "2026-02-28T16:18:04Z",
+          "category": "security",
+          "tags": [
+            "swivel chair",
+            "soar",
+            "siem",
+            "xdr",
+            "shift left"
+          ]
         },
         {
           "id": "1MPD6MILLcQ",
           "title": "2025 Global Threat Report",
           "views": 14,
-          "date": "2026-02-27T22:44:25Z"
+          "date": "2026-02-27T22:44:25Z",
+          "category": "security",
+          "tags": [
+            "2025",
+            "threat",
+            "crowdstrike",
+            "report",
+            "global"
+          ]
         },
         {
           "id": "JfGgWiiCTA0",
           "title": "Shannon: Autonomous Penetration Testing",
           "views": 37,
-          "date": "2026-02-14T10:04:10Z"
+          "date": "2026-02-14T10:04:10Z",
+          "category": "security",
+          "tags": [
+            "agent",
+            "exploits",
+            "white-box"
+          ]
         }
       ]
     },
@@ -3030,49 +5984,74 @@
           "id": "GVq5DvGFLpI",
           "title": "Vercel 대시보드 보안 안내서",
           "views": 21,
-          "date": "2026-02-02T00:33:23Z"
+          "date": "2026-02-02T00:33:23Z",
+          "category": "programming",
+          "tags": [
+            "vercel",
+            "보안",
+            "대시보드"
+          ]
         },
         {
           "id": "dsxuWtfzBGI",
           "title": "알고리즘에서 코드로  TypeScript 가이드",
           "views": 13,
-          "date": "2026-01-14T13:28:26Z"
+          "date": "2026-01-14T13:28:26Z",
+          "category": "programming",
+          "tags": [
+            "알고리즘"
+          ]
         },
         {
           "id": "iEn_PMcBlDk",
           "title": "알고리즘 완전 정복",
           "views": 5,
-          "date": "2026-01-14T13:09:13Z"
+          "date": "2026-01-14T13:09:13Z",
+          "category": "programming",
+          "tags": [
+            "알고리즘"
+          ]
         },
         {
           "id": "qyqLjeu8Hng",
           "title": "영어 리스닝  3000시간의 법칙",
           "views": 54,
-          "date": "2026-01-13T10:40:26Z"
+          "date": "2026-01-13T10:40:26Z",
+          "category": "programming",
+          "tags": [
+            "영어 공부"
+          ]
         },
         {
           "id": "gKYw0_jkNFI",
           "title": "마음 속의 계산기",
           "views": 9,
-          "date": "2026-01-11T14:51:55Z"
+          "date": "2026-01-11T14:51:55Z",
+          "category": "programming",
+          "tags": [
+            "주판"
+          ]
         },
         {
           "id": "D1Hth_78ftg",
           "title": "타입스크립트와 번으로 만드는 TODO 리스트",
           "views": 9,
-          "date": "2026-01-10T07:12:38Z"
+          "date": "2026-01-10T07:12:38Z",
+          "category": "programming"
         },
         {
           "id": "F6aMGDfVAFg",
           "title": "비동기 처리 - async/await",
           "views": 18,
-          "date": "2026-01-10T07:11:59Z"
+          "date": "2026-01-10T07:11:59Z",
+          "category": "programming"
         },
         {
           "id": "T5FjMjTQCBI",
           "title": "타입스크립트와 번으로 배우는 프로그래밍 1",
           "views": 76,
-          "date": "2026-01-10T07:09:48Z"
+          "date": "2026-01-10T07:09:48Z",
+          "category": "programming"
         }
       ]
     }

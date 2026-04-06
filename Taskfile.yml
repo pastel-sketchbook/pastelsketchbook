@@ -9,6 +9,12 @@ env:
   ORIGIN: '{{.ORIGIN}}'
 
 tasks:
+  dev:
+    desc: Start the homepage dev server
+    dir: homepage
+    cmds:
+      - bun run dev
+
   build:
     desc: Build the homepage app
     dir: homepage

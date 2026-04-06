@@ -339,20 +339,24 @@ function Wiki() {
                             >
                               <div className="px-4 pb-4 space-y-2">
                                 {cluster.videos.map((v) => (
-                                  <a
+                                  <Link
                                     key={v.id}
-                                    href={`https://youtu.be/${v.id}`}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
+                                    to="/wiki/video/$id"
+                                    params={{ id: v.id }}
                                     className="flex items-center justify-between py-2 px-3 rounded-lg hover:bg-[#FAF9F6] transition-colors group"
                                   >
-                                    <span className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors truncate mr-4">
+                                    <span className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors truncate mr-4 flex items-center gap-1.5">
                                       {v.title}
+                                      {v.detail && (
+                                        <svg className="w-4 h-4 text-[#E76F51] flex-shrink-0" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" aria-label="Has wiki summary">
+                                          <path strokeLinecap="round" strokeLinejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                                        </svg>
+                                      )}
                                     </span>
                                     <span className="text-xs text-[#5F7D61] font-semibold flex-shrink-0">
                                       {fmtViews(v.views)} views
                                     </span>
-                                  </a>
+                                  </Link>
                                 ))}
                               </div>
                             </motion.div>
@@ -392,18 +396,22 @@ function Wiki() {
                 <div className="bg-white/50 backdrop-blur-sm rounded-xl sketch-border border-[#1B3022]/5 overflow-hidden">
                   <div className="divide-y divide-[#1B3022]/5">
                     {selected.videos.map((v, i) => (
-                      <a
+                      <Link
                         key={v.id}
-                        href={`https://youtu.be/${v.id}`}
-                        target="_blank"
-                        rel="noopener noreferrer"
+                        to="/wiki/video/$id"
+                        params={{ id: v.id }}
                         className="flex items-center gap-4 p-4 hover:bg-[#FAF9F6] transition-colors group"
                       >
                         <span className="text-xs text-[#1B3022]/20 font-bold w-8 text-right flex-shrink-0">
                           {i + 1}
                         </span>
-                        <span className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors flex-1 truncate">
+                        <span className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors flex-1 truncate flex items-center gap-1.5">
                           {v.title}
+                          {v.detail && (
+                            <svg className="w-4 h-4 text-[#E76F51] flex-shrink-0" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" aria-label="Has wiki summary">
+                              <path strokeLinecap="round" strokeLinejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                            </svg>
+                          )}
                         </span>
                         <span className="text-xs text-[#5F7D61] font-semibold flex-shrink-0">
                           {fmtViews(v.views)}
@@ -411,7 +419,7 @@ function Wiki() {
                         <span className="text-xs text-[#1B3022]/60 flex-shrink-0 hidden sm:block">
                           {fmtDate(v.date)}
                         </span>
-                      </a>
+                      </Link>
                     ))}
                   </div>
                 </div>
