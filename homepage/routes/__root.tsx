@@ -160,7 +160,7 @@ function Header() {
               <Link to="/" hash="vision" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Vision</Link>
               <Link to="/showcase" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Showcase</Link>
               <Link to="/code" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Code</Link>
-              <Link to="/wiki" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Wiki</Link>
+              <Link to="/wiki" search={{ tag: undefined }} onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Wiki</Link>
               <Link to="/podcast" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Podcast</Link>
               <Link to="/" hash="cycle" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">How it Works</Link>
               <Link to="/" hash="spark" onClick={() => setIsMenuOpen(false)} className="text-[#D4A373] hover:text-[#E76F51] transition-colors py-2">Spark AI</Link>

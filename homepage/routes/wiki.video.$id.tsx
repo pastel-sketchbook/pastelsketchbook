@@ -71,6 +71,7 @@ function VideoDetail() {
           </p>
           <Link
             to="/wiki"
+            search={{ tag: undefined }}
             className="px-6 py-3 rounded-full bg-[#1B3022] text-white text-xs font-bold uppercase tracking-widest hover:bg-[#2D4536] transition-all"
           >
             Back to Wiki
@@ -109,6 +110,7 @@ function VideoDetail() {
           </p>
           <Link
             to="/wiki"
+            search={{ tag: undefined }}
             className="px-6 py-3 rounded-full bg-[#1B3022] text-white text-xs font-bold uppercase tracking-widest hover:bg-[#2D4536] transition-all"
           >
             Back to Wiki
@@ -131,6 +133,7 @@ function VideoDetail() {
         >
           <Link
             to="/wiki"
+            search={{ tag: undefined }}
             className="hover:text-[#5F7D61] transition-colors"
           >
             Wiki
@@ -140,7 +143,7 @@ function VideoDetail() {
             <>
               <Link
                 to="/wiki"
-                search={{}}
+                search={{ tag: undefined }}
                 className="hover:text-[#5F7D61] transition-colors"
               >
                 {catLabel(video.category)}
@@ -265,7 +268,7 @@ function VideoDetail() {
                       key={i}
                       className="bg-white rounded-xl sketch-border border-[#1B3022]/5 p-5 flex gap-4"
                     >
-                      <span className="flex-shrink-0 w-7 h-7 rounded-full bg-[#5F7D61]/10 text-[#5F7D61] text-xs font-bold flex items-center justify-center mt-0.5">
+                      <span className="flex-shrink-0 w-7 h-7 rounded-full bg-[#E76F51]/10 text-[#E76F51] text-xs font-bold flex items-center justify-center mt-0.5">
                         {i + 1}
                       </span>
                       <span className="text-[#1B3022]/80 leading-relaxed">
@@ -322,12 +325,14 @@ function VideoDetail() {
             </h2>
             <div className="flex flex-wrap gap-2">
               {video.tags.map((tag) => (
-                <span
+                <Link
                   key={tag}
-                  className="px-3 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-wider bg-white/50 border border-[#5F7D61]/20 text-[#5F7D61]"
+                  to="/wiki"
+                  search={{ tag }}
+                  className="px-3 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-wider bg-white/50 border border-[#5F7D61]/20 text-[#5F7D61] hover:bg-[#5F7D61] hover:text-white transition-colors cursor-pointer"
                 >
                   {tag}
-                </span>
+                </Link>
               ))}
             </div>
           </motion.section>
@@ -342,6 +347,7 @@ function VideoDetail() {
         >
           <Link
             to="/wiki"
+            search={{ tag: undefined }}
             className="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-[#1B3022]/40 hover:text-[#5F7D61] transition-colors"
           >
             <svg

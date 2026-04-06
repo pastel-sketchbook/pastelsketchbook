@@ -1,5 +1,5 @@
-import { createFileRoute, Link } from '@tanstack/react-router'
-import { useState } from 'react'
+import { createFileRoute, Link, useSearch } from '@tanstack/react-router'
+import { useState, useEffect } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import { ChunkErrorBoundary } from '../src/components/ui/ChunkErrorBoundary'
 import { motion, AnimatePresence } from 'framer-motion'
@@ -7,6 +7,9 @@ import { fetchWikiBundle, fmtViews, fmtDate, catLabel } from '../src/utils/wiki'
 
 export const Route = createFileRoute('/wiki/')({
   component: WikiWithErrorBoundary,
+  validateSearch: (search: Record<string, unknown>) => ({
+    tag: typeof search.tag === 'string' ? search.tag : undefined,
+  }),
 })
 
 function WikiWithErrorBoundary() {
@@ -18,6 +21,7 @@ function WikiWithErrorBoundary() {
 }
 
 function Wiki() {
+  const { tag } = useSearch({ from: '/wiki/' })
   const [activeCategory, setActiveCategory] = useState<string | null>(null)
   const [expandedClusters, setExpandedClusters] = useState<Set<string>>(
     new Set(),
@@ -34,6 +38,15 @@ function Wiki() {
     queryFn: fetchWikiBundle,
     staleTime: 3600000,
   })
+
+  // Resolve ?tag= search param to a category
+  useEffect(() => {
+    if (!tag || !wiki) return
+    const match = wiki.categories.find((c) =>
+      c.topTags?.some((t) => t.tag.toLowerCase() === tag.toLowerCase()),
+    )
+    if (match) setActiveCategory(match.name)
+  }, [tag, wiki])
 
   if (isError) {
     return (

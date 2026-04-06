@@ -88,8 +88,8 @@ function loadVideoDetails(): Map<string, VideoDetail> {
 /** Extract text between ## heading and the next ## or end of file. */
 function extractSection(md: string, heading: string): string | null {
   const regex = new RegExp(
-    `^## ${heading}\\s*\\n([\\s\\S]*?)(?=^## |^---\\s*$|$)`,
-    'm',
+    `^## ${heading}\\s*\\n([\\s\\S]*?)(?=^## |^---\\s*$)`,
+    'mg',
   )
   const match = regex.exec(md)
   return match ? match[1].trim() : null

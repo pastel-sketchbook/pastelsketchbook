@@ -71,6 +71,7 @@ function GraphPage() {
             </button>
             <Link
               to="/wiki"
+              search={{ tag: undefined }}
               className="px-6 py-3 rounded-full bg-[#1e232b]/10 text-[#1e232b]/70 text-xs font-bold uppercase tracking-widest hover:bg-[#1e232b]/20 transition-all"
             >
               Back to Wiki
@@ -112,6 +113,7 @@ function GraphPage() {
       <div className="absolute top-24 left-6 z-10">
         <Link
           to="/wiki"
+          search={{ tag: undefined }}
           className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[#1e232b]/10 backdrop-blur-sm text-[#1e232b]/70 text-xs font-bold uppercase tracking-widest hover:bg-[#1e232b]/20 transition-all"
         >
           <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
