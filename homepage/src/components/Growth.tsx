@@ -4,7 +4,7 @@ import { motion, useScroll, useTransform } from "framer-motion";
 
 // Lazy load Recharts to reduce initial bundle size
 const Recharts = lazy(() => import("recharts").then(mod => ({
-    default: ({ width, height, data }: any) => (
+    default: ({ width, height, data }: { width: number; height: number; data: { year: string; value: number }[] }) => (
         <mod.AreaChart width={width} height={height} data={data}>
             <defs>
                 <linearGradient id="colorValue" x1="0" y1="0" x2="0" y2="1">
@@ -14,10 +14,10 @@ const Recharts = lazy(() => import("recharts").then(mod => ({
             </defs>
             <mod.CartesianGrid strokeDasharray="3 3" vertical={false} stroke="hsl(var(--n) / 0.067)" />
             <mod.XAxis dataKey="year" axisLine={false} tickLine={false} tick={{ fill: 'hsl(var(--n) / 0.333)', fontSize: 12, fontWeight: 'bold' }} />
-            <mod.YAxis axisLine={false} tickLine={false} tick={{ fill: 'hsl(var(--n) / 0.333)', fontSize: 12, fontWeight: 'bold' }} tickFormatter={(val) => `$${val / 1000}k`} />
+            <mod.YAxis axisLine={false} tickLine={false} tick={{ fill: 'hsl(var(--n) / 0.333)', fontSize: 12, fontWeight: 'bold' }} tickFormatter={(val: number) => `$${val / 1000}k`} />
             <mod.Tooltip
                 contentStyle={{ borderRadius: '20px', border: '1.5px solid hsl(var(--n) / 0.133)', backgroundColor: 'hsl(var(--b1))', boxShadow: 'none' }}
-                formatter={(value: any) => [`$${Number(value || 0).toLocaleString()}`, 'Fund Value']}
+                formatter={(value) => [`$${Number(value || 0).toLocaleString()}`, 'Fund Value']}
             />
             <mod.Area type="monotone" dataKey="value" stroke="hsl(var(--s))" strokeWidth={2} fillOpacity={1} fill="url(#colorValue)" strokeDasharray="5 5" />
         </mod.AreaChart>

@@ -60,9 +60,7 @@ function GraphPage() {
             Failed to load graph
           </h2>
           <p className="text-sm text-[#1e232b]/50 mb-6 max-w-md mx-auto">
-            {error instanceof Error
-              ? error.message
-              : 'An unexpected error occurred.'}
+            Something went wrong loading the graph. Please try again.
           </p>
           <div className="flex gap-3 justify-center">
             <button

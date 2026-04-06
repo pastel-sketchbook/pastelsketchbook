@@ -45,14 +45,6 @@ describe('SketchButton Component', () => {
     expect(button).toBeInTheDocument()
   })
 
-  it('should support size prop for different sizes', () => {
-    const { container } = render(
-      <SketchButton size="large">Large Button</SketchButton>
-    )
-    const button = container.querySelector('button')
-    expect(button).toBeInTheDocument()
-  })
-
   it('should support className prop for custom styling', () => {
     const { container } = render(
       <SketchButton className="custom-class">Button</SketchButton>

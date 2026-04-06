@@ -47,7 +47,7 @@ async function generateMetadata() {
     }
 
     // Transform response
-    const videos = (data.items || []).map((item: any) => ({
+    const videos = (data.items || []).map((item: { id: string; snippet: { title: string; publishedAt: string }; statistics: { viewCount: string } }) => ({
       id: item.id,
       title: item.snippet.title || '',
       views: Number(item.statistics.viewCount) || 0,
@@ -78,4 +78,7 @@ async function generateMetadata() {
   }
   }
 
-generateMetadata()
+generateMetadata().catch((err) => {
+  console.error('Fatal error:', err instanceof Error ? err.message : String(err))
+  process.exit(1)
+})

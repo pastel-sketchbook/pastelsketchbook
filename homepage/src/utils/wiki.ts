@@ -2,7 +2,7 @@ import { WikiBundleSchema, type WikiBundle } from '../types/wiki'
 
 // -- Display Labels --
 
-export const CATEGORY_LABELS: Record<string, string> = {
+const CATEGORY_LABELS: Record<string, string> = {
   korea: 'Learn Spanish',
   programming: '\ud504\ub85c\uadf8\ub798\ubc0d',
 }

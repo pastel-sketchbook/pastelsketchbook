@@ -15,4 +15,5 @@ Use [Task](https://taskfile.dev) for streamlined git push workflows:
 | `task push` | Push current revision (auto-creates bookmark from description) |
 | `task push:main` | Move `main` bookmark to @ and push |
 | `task push:force` | Force push current bookmark |
+| `task wiki:details` | Generate per-video wiki pages (transcript + Gemini summary) |
 | `task status` | Show jj status and all bookmarks |

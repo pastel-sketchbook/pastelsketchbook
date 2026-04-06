@@ -1,3 +1,5 @@
+/// <reference types="bun" />
+
 const GITHUB_ORG = 'pastel-sketchbook'
 const OUTPUT_PATH = './public/repos.json'
 

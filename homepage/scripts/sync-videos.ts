@@ -29,8 +29,8 @@ function loadEnv() {
         }
       }
     })
-  } catch (e) {
-    // .env.local not found, continue with existing env vars
+  } catch {
+    // .env.local not found — expected in CI or when env is set externally
   }
 }
 
@@ -143,7 +143,7 @@ async function fetchVideoMetadata(
         throw new Error(`YouTube API error: ${data.error.message}`)
       }
 
-      const batchMetadata = (data.items || []).map((item: any) => ({
+      const batchMetadata = (data.items || []).map((item: { id: string; snippet: { title: string; publishedAt: string; tags?: string[] }; statistics: { viewCount: string } }) => ({
          id: item.id,
          title: item.snippet.title || '',
          views: Number(item.statistics.viewCount) || 0,
@@ -333,4 +333,7 @@ Object.entries(VIDEO_CONFIG).forEach(([category, ids]) => {
   }
 }
 
-syncVideos()
+syncVideos().catch((err) => {
+  console.error('Fatal error:', err instanceof Error ? err.message : String(err))
+  process.exit(1)
+})

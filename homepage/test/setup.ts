@@ -4,6 +4,19 @@ import * as matchers from '@testing-library/jest-dom/matchers'
 
 extendExpect(expect, matchers)
 
+/**
+ * Assign a mock to `global.fetch` without triggering TS2741.
+ *
+ * Bun types declare a `fetch` namespace with a `preconnect` static method,
+ * so `global.fetch = vi.fn(...)` fails because `vi.fn()` doesn't carry that
+ * property. This helper encapsulates the single `as any` cast so every
+ * test file can call `mockFetch(vi.fn(...))` instead.
+ */
+// biome-ignore lint/suspicious/noExplicitAny: single cast to work around Bun fetch namespace
+export function mockFetch(fn: any): void {
+  ;(global as any).fetch = fn
+}
+
 // Suppress happy-dom DOMException noise from iframe/fetch teardowns
 const originalStderrWrite = process.stderr.write.bind(process.stderr)
 process.stderr.write = ((chunk: any, ...args: any[]) => {
@@ -67,21 +80,23 @@ const mockVideoMetadata = {
   timestamp: new Date().toISOString()
 }
 
-global.fetch = vi.fn((url: string) => {
-  if (url.includes('/api/videos/metadata')) {
-    return Promise.resolve({
-      ok: true,
-      json: () => Promise.resolve(mockVideoMetadata)
-    })
-  }
-  if (url.includes('/videos-metadata.json')) {
-    return Promise.resolve({
-      ok: true,
-      json: () => Promise.resolve({ videos: mockVideoMetadata.videos })
-    })
-  }
-  return Promise.reject(new Error('Not mocked'))
-}) as any
+mockFetch(
+  vi.fn((url: string) => {
+    if (url.includes('/api/videos/metadata')) {
+      return Promise.resolve({
+        ok: true,
+        json: () => Promise.resolve(mockVideoMetadata)
+      })
+    }
+    if (url.includes('/videos-metadata.json')) {
+      return Promise.resolve({
+        ok: true,
+        json: () => Promise.resolve({ videos: mockVideoMetadata.videos })
+      })
+    }
+    return Promise.reject(new Error('Not mocked'))
+  })
+)
 
 function extendExpect(expect: any, matchers: any) {
   Object.keys(matchers).forEach((key) => {

@@ -8,7 +8,7 @@ interface VideoModalProps {
 }
 
 export function VideoModal({ videoId, onClose }: VideoModalProps) {
-    const [scale, setScale] = useState(VIDEO_MODAL_CONFIG.scale.INITIAL)
+    const [scale, setScale] = useState<number>(VIDEO_MODAL_CONFIG.scale.INITIAL)
     const [isHoveringControls, setIsHoveringControls] = useState(false)
     const { MIN: MIN_SCALE, MAX: MAX_SCALE, STEP: SCALE_STEP } = VIDEO_MODAL_CONFIG.scale
     const { MIN: MIN_OPACITY, MAX: MAX_OPACITY } = VIDEO_MODAL_CONFIG.opacity
@@ -86,7 +86,7 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                             initial={{ opacity: 0, y: 4 }}
                             animate={{ opacity: isHoveringControls ? 1 : 0, y: isHoveringControls ? 0 : 4 }}
                             transition={{ duration: 0.2 }}
-                            pointerEvents={isHoveringControls ? 'auto' : 'none'}
+                            style={{ pointerEvents: isHoveringControls ? 'auto' : 'none' }}
                             role="group"
                             aria-label="Video player zoom controls"
                         >

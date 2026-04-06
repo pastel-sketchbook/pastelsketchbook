@@ -1,6 +1,7 @@
 import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest'
 import health from '../api/health'
 import type { VercelRequest, VercelResponse } from '@vercel/node'
+import { mockFetch } from './setup'
 
 function createMockRequest(overrides: Partial<VercelRequest> = {}): VercelRequest {
   return {
@@ -55,12 +56,12 @@ describe('API Routes: /api/health', () => {
     it('should return status object with required fields', async () => {
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true,
           status: 200
         } as any)
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -79,12 +80,12 @@ describe('API Routes: /api/health', () => {
     it('should return HTTP 200 when healthy', async () => {
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true,
           status: 200
         } as any)
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -99,9 +100,9 @@ describe('API Routes: /api/health', () => {
     it('should return HTTP 503 when degraded', async () => {
       process.env.VITE_YOUTUBE_API_KEY = undefined
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.reject(new Error('Network error'))
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -118,9 +119,9 @@ describe('API Routes: /api/health', () => {
     it('should return HTTP 500 when unhealthy', async () => {
       process.env.VITE_YOUTUBE_API_KEY = undefined
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.reject(new Error('API error'))
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -140,11 +141,11 @@ describe('API Routes: /api/health', () => {
       const savedEnv = process.env.VITE_YOUTUBE_API_KEY
       delete process.env.VITE_YOUTUBE_API_KEY
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true
         } as any)
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -163,11 +164,11 @@ describe('API Routes: /api/health', () => {
     it('should mark environment as ok if API key present', async () => {
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true
         } as any)
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -183,12 +184,12 @@ describe('API Routes: /api/health', () => {
     it('should mark API as ok if YouTube API succeeds', async () => {
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true,
           status: 200
         } as any)
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -203,12 +204,12 @@ describe('API Routes: /api/health', () => {
     it('should mark API as failed if YouTube API returns error', async () => {
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: false,
           status: 403
         } as any)
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -222,9 +223,9 @@ describe('API Routes: /api/health', () => {
     it('should mark API as failed if fetch throws', async () => {
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.reject(new Error('Network timeout'))
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -238,19 +239,19 @@ describe('API Routes: /api/health', () => {
     it('should include response time in API check', async () => {
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(
+      mockFetch(vi.fn(
         () =>
-          new Promise((resolve) => {
+          new Promise<Response>((resolve) => {
             setTimeout(
               () =>
                 resolve({
                   ok: true,
                   status: 200
-                } as any),
+                } as Response),
               10
             )
           })
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -266,11 +267,11 @@ describe('API Routes: /api/health', () => {
     it('should mark fallback as ok by default', async () => {
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true
         } as any)
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -286,11 +287,11 @@ describe('API Routes: /api/health', () => {
     it('should be healthy when all checks pass', async () => {
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true
         } as any)
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -305,11 +306,11 @@ describe('API Routes: /api/health', () => {
     it('should be degraded when one check fails', async () => {
       process.env.VITE_YOUTUBE_API_KEY = undefined
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true
         } as any)
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -324,9 +325,9 @@ describe('API Routes: /api/health', () => {
     it('should be unhealthy when multiple checks fail', async () => {
       process.env.VITE_YOUTUBE_API_KEY = undefined
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.reject(new Error('Network error'))
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -345,11 +346,11 @@ describe('API Routes: /api/health', () => {
     it('should set Content-Type header', async () => {
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true
         } as any)
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -365,11 +366,11 @@ describe('API Routes: /api/health', () => {
     it('should set Cache-Control to no-cache', async () => {
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true
         } as any)
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()
@@ -384,11 +385,11 @@ describe('API Routes: /api/health', () => {
     it('should include ISO 8601 timestamp', async () => {
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true
         } as any)
-      )
+      ))
 
       const req = createMockRequest()
       const res = createMockResponse()

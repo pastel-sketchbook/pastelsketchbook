@@ -33,7 +33,7 @@ export function PodcastPlayer({ audioSrc, transcriptSrc, title, episodeNumber }:
     useEffect(() => {
         fetch(transcriptSrc)
             .then(res => res.json())
-            .then((data: any[]) => {
+            .then((data: { text: string; timestamp: [number, number?] }[]) => {
                 // Map the JSON structure (timestamp: [start, end]) to our internal structure
                 const formattedTranscript = data.map(item => ({
                     text: item.text,

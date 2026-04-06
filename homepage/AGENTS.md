@@ -74,8 +74,8 @@ Podcast/media route placeholder
 - No global state management (Context, Redux, etc.)
 
 ### Environment Variables
-- **VITE_API_KEY**: Google GenAI API key (required, client-side)
-- **VITE_API_MODEL**: AI model name (default: "gemini-3-flash-preview", client-side)
+- **VITE_GEMINI_API_KEY**: Google GenAI API key (required, client-side)
+- **VITE_GEMINI_API_MODEL**: AI model name (default: "gemini-3-flash-preview", client-side)
 - **VITE_YOUTUBE_API_KEY**: YouTube Data API key (server-side only, required for metadata generation)
   - Needed: Local development (metadata generation), Vercel deployment (API route)
   - Not needed: Client code (API route handles it)
@@ -218,6 +218,14 @@ bun run test:coverage   # Run tests with coverage report
 - Modify data arrays in `src/components/Growth.tsx`
 - Recharts configuration in same file
 
+### Generating Video Detail Pages
+- Script: `scripts/generate-video-details.ts`
+- Fetches YouTube transcripts + summarizes via Gemini
+- Writes per-video wiki pages to `wiki/videos/details/{id}.md`
+- Run via Taskfile: `task wiki:details` (top 10), `task wiki:details -- --all`
+- Requires `VITE_GEMINI_API_KEY` in `.env.local`
+- Incremental: skips existing pages unless `--force`
+
 ## Code Splitting & Error Handling
 
 ### Route-Based Code Splitting (Implemented)
@@ -263,15 +271,15 @@ cp homepage/.env.example homepage/.env.local
 
 2. Add your API keys to `.env.local`:
 ```
-VITE_API_KEY=your-gemini-api-key-here
-VITE_API_MODEL=gemini-3-flash-preview
+VITE_GEMINI_API_KEY=your-gemini-api-key-here
+VITE_GEMINI_API_MODEL=gemini-3-flash-preview
 VITE_YOUTUBE_API_KEY=your-youtube-api-key-here
 ```
 
 3. Run dev server
 
 **Notes**:
-- **Spark AI**: Requires `VITE_API_KEY`. App renders without it, but AI features won't work.
+- **Spark AI**: Requires `VITE_GEMINI_API_KEY`. App renders without it, but AI features won't work.
 - **YouTube Metadata**: Requires `VITE_YOUTUBE_API_KEY` for local metadata generation. On Vercel, set this in project settings instead.
 - The `prebuild` script automatically generates `public/videos-metadata.json` before build if the API key is available.
 
@@ -327,7 +335,7 @@ This ensures:
 **Overall**: Application reviewed and approved for production. Security grade A. All recommendations implemented.
 
 ### API Key Management
-- ✅ `VITE_API_KEY` (Google GenAI) - Client-side only, intentional for third-party service
+- ✅ `VITE_GEMINI_API_KEY` (Google GenAI) - Client-side only, intentional for third-party service
 - ✅ `VITE_YOUTUBE_API_KEY` - **Server-side only**, never exposed to client
 - ✅ `.env.local` must NOT be committed (verified in .gitignore)
 - ✅ Vercel project: Set secrets in project settings, never in git

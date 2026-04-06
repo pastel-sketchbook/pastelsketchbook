@@ -41,6 +41,12 @@ tasks:
     cmds:
       - ./scripts/branch-delete.sh {{.BRANCH}}
 
+  wiki:details:
+    desc: Generate per-video wiki detail pages (transcript + Gemini summary)
+    dir: homepage
+    cmds:
+      - bun scripts/generate-video-details.ts {{.CLI_ARGS | default "--top 10"}}
+
   status:
     desc: Show jj status and bookmark info
     cmds:

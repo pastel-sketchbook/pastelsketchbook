@@ -1,8 +1,10 @@
-import React from "react";
+import type { ReactNode } from "react";
+import type { HTMLMotionProps } from "framer-motion";
 import { motion } from "framer-motion";
 
-interface SketchButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
+export interface SketchButtonProps extends Omit<HTMLMotionProps<"button">, "ref"> {
     variant?: "primary" | "secondary" | "outline";
+    children?: ReactNode;
 }
 
 export function SketchButton({ children, className = "", variant = "primary", ...props }: SketchButtonProps) {

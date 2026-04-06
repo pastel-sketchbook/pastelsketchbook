@@ -22,7 +22,7 @@ describe('VideoModal - Zoom Controls', () => {
     })
 
     it('should increase scale when zoom in button clicked', async () => {
-      const user = userEvent.setup()
+      const user = userEvent.setup({ pointerEventsCheck: 0 })
       render(<VideoModal {...defaultProps} />)
 
       const zoomInBtn = screen.getByLabelText(/Increase video size/i)
@@ -34,7 +34,7 @@ describe('VideoModal - Zoom Controls', () => {
     })
 
     it('should decrease scale when zoom out button clicked', async () => {
-      const user = userEvent.setup()
+      const user = userEvent.setup({ pointerEventsCheck: 0 })
       render(<VideoModal {...defaultProps} />)
 
       const zoomInBtn = screen.getByLabelText(/Increase video size/i)
@@ -49,7 +49,7 @@ describe('VideoModal - Zoom Controls', () => {
     })
 
     it('should disable zoom out at minimum scale (60%)', async () => {
-      const user = userEvent.setup()
+      const user = userEvent.setup({ pointerEventsCheck: 0 })
       render(<VideoModal {...defaultProps} />)
 
       const zoomOutBtn = screen.getByLabelText(/Decrease video size/i)
@@ -66,7 +66,7 @@ describe('VideoModal - Zoom Controls', () => {
     })
 
     it('should disable zoom in at maximum scale (140%)', async () => {
-      const user = userEvent.setup()
+      const user = userEvent.setup({ pointerEventsCheck: 0 })
       render(<VideoModal {...defaultProps} />)
 
       const zoomInBtn = screen.getByLabelText(/Increase video size/i)

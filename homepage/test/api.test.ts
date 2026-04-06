@@ -162,7 +162,7 @@ describe('YouTube Metadata API', () => {
 
   describe('Input Validation', () => {
     it('should validate that ids parameter exists', () => {
-      const ids = undefined
+      let ids: string | undefined
       const isValid = Boolean(ids && typeof ids === 'string' && ids.trim().length > 0)
 
       expect(isValid).toBe(false)
@@ -192,7 +192,7 @@ describe('YouTube Metadata API', () => {
 
   describe('Error Handling', () => {
     it('should return 405 for non-GET requests', () => {
-      const method = 'POST'
+      const method: string = 'POST'
       const isAllowed = method === 'GET'
 
       expect(isAllowed).toBe(false)
@@ -207,7 +207,7 @@ describe('YouTube Metadata API', () => {
     })
 
     it('should return 400 for missing ids parameter', () => {
-      const ids = undefined
+      let ids: string | undefined
       const isValid = Boolean(ids && typeof ids === 'string' && ids.trim().length > 0)
 
       expect(isValid).toBe(false)

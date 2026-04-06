@@ -1,6 +1,7 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest'
 import metadata from '../api/videos/metadata'
 import type { VercelRequest, VercelResponse } from '@vercel/node'
+import { mockFetch } from './setup'
 
 // Mock VercelRequest and VercelResponse
 function createMockRequest(overrides: Partial<VercelRequest> = {}): VercelRequest {
@@ -147,7 +148,7 @@ describe('API Routes: /api/videos/metadata', () => {
       const res = createMockResponse()
 
       // Mock the YouTube API response
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true,
           json: () =>
@@ -166,7 +167,7 @@ describe('API Routes: /api/videos/metadata', () => {
               ]
             })
         } as any)
-      )
+      ))
 
       await metadata(req, res)
 
@@ -182,13 +183,13 @@ describe('API Routes: /api/videos/metadata', () => {
       })
       const res = createMockResponse()
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true,
           json: () =>
             Promise.resolve({ items: [] })
         } as any)
-      )
+      ))
 
       await metadata(req, res)
 
@@ -244,13 +245,13 @@ describe('API Routes: /api/videos/metadata', () => {
       })
       const res = createMockResponse()
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true,
           json: () =>
             Promise.resolve({ items: [] })
         } as any)
-      )
+      ))
 
       await metadata(req, res)
 
@@ -270,13 +271,13 @@ describe('API Routes: /api/videos/metadata', () => {
       })
       const res = createMockResponse()
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true,
           json: () =>
             Promise.resolve({ items: [] })
         } as any)
-      )
+      ))
 
       await metadata(req, res)
 
@@ -317,13 +318,13 @@ describe('API Routes: /api/videos/metadata', () => {
 
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: false,
           status: 403,
           statusText: 'Forbidden'
         } as any)
-      )
+      ))
 
       await metadata(req, res)
 
@@ -340,9 +341,9 @@ describe('API Routes: /api/videos/metadata', () => {
 
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.reject(new Error('Network error'))
-      )
+      ))
 
       await metadata(req, res)
 
@@ -359,9 +360,9 @@ describe('API Routes: /api/videos/metadata', () => {
 
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.reject(new Error('Sensitive error details'))
-      )
+      ))
 
       await metadata(req, res)
 
@@ -380,7 +381,7 @@ describe('API Routes: /api/videos/metadata', () => {
 
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      global.fetch = vi.fn(() =>
+      mockFetch(vi.fn(() =>
         Promise.resolve({
           ok: true,
           json: () =>
@@ -399,7 +400,7 @@ describe('API Routes: /api/videos/metadata', () => {
               ]
             })
         } as any)
-      )
+      ))
 
       await metadata(req, res)
 

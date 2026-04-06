@@ -1,20 +1,19 @@
 import React, { forwardRef } from "react";
 
-interface SketchBoxProps extends React.HTMLAttributes<HTMLDivElement> {
-    children: React.ReactNode;
-    as?: React.ElementType;
+export interface SketchBoxProps extends React.HTMLAttributes<HTMLDivElement> {
+    children?: React.ReactNode;
 }
 
 export const SketchBox = forwardRef<HTMLDivElement, SketchBoxProps>(
-    ({ children, className = "", as: Component = "div", ...props }, ref) => {
+    ({ children, className = "", ...props }, ref) => {
         return (
-            <Component
+            <div
                 ref={ref}
                 className={`sketch-border border-pastel-dark/10 group hover:shadow-lg transition-all animate-scribble ${className}`}
                 {...props}
             >
                 {children}
-            </Component>
+            </div>
         );
     }
 );

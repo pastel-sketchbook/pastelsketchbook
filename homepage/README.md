@@ -49,8 +49,8 @@ cp .env.example .env.local
 
 4. Add your Google GenAI API key to `.env.local`:
 ```
-VITE_API_KEY=your-actual-api-key
-VITE_API_MODEL=gemini-3-flash-preview
+VITE_GEMINI_API_KEY=your-actual-api-key
+VITE_GEMINI_API_MODEL=gemini-3-flash-preview
 ```
 
 ### Development
@@ -108,13 +108,13 @@ homepage/
 
 | Variable | Required | Scope | Description |
 |----------|----------|-------|-------------|
-| `VITE_API_KEY` | Yes | Client-side | Google GenAI API key for Spark AI |
-| `VITE_API_MODEL` | No | Client-side | AI model name (default: "gemini-3-flash-preview") |
+| `VITE_GEMINI_API_KEY` | Yes | Client-side | Google GenAI API key for Spark AI |
+| `VITE_GEMINI_API_MODEL` | No | Client-side | AI model name (default: "gemini-3-flash-preview") |
 | `VITE_YOUTUBE_API_KEY` | No | Server-side only | YouTube Data API key for video metadata (local dev & Vercel deploy) |
 
 **Note**: All `VITE_` prefixed variables are accessible in client-side code via `import.meta.env`. Server-side functions can access non-prefixed variables.
 
-**Graceful Handling**: The app will render even without environment variables. A warning will be logged to console if variables are missing. Spark AI features will only work when `VITE_API_KEY` is properly configured. Videos will use static cached metadata if the YouTube API is unavailable.
+**Graceful Handling**: The app will render even without environment variables. A warning will be logged to console if variables are missing. Spark AI features will only work when `VITE_GEMINI_API_KEY` is properly configured. Videos will use static cached metadata if the YouTube API is unavailable.
 
 ## Available Scripts
 
@@ -183,7 +183,7 @@ Coverage reports are generated in the `coverage/` directory in HTML, LCOV, and J
 
 ## Security Notes
 
-- The API key is used client-side via `VITE_API_KEY`
+- The API key is used client-side via `VITE_GEMINI_API_KEY`
 - Ensure your Google GenAI API has proper rate limiting and restrictions
 - Never commit `.env.local` to version control
 

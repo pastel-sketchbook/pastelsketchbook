@@ -1,6 +1,6 @@
 interface ImportMetaEnv {
-  readonly VITE_API_KEY: string
-  readonly VITE_API_MODEL: string
+  readonly VITE_GEMINI_API_KEY: string
+  readonly VITE_GEMINI_API_MODEL: string
   // Note: VITE_YOUTUBE_API_KEY is server-side only (in Vercel functions)
   // Client code should call /api/videos/metadata instead
 }

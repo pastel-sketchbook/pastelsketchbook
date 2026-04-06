@@ -58,9 +58,7 @@ function Wiki() {
             Failed to load wiki
           </h2>
           <p className="text-sm text-[#1B3022]/50 mb-6 max-w-md mx-auto">
-            {error instanceof Error
-              ? error.message
-              : 'An unexpected error occurred.'}
+            Something went wrong loading the wiki. Please try again.
           </p>
           <button
             onClick={() => refetch()}

@@ -39,7 +39,4 @@ export const WikiBundleSchema = z.object({
 
 // -- Inferred Types --
 
-export type WikiVideo = z.infer<typeof WikiVideoSchema>
-export type WikiCluster = z.infer<typeof WikiClusterSchema>
-export type WikiCategory = z.infer<typeof WikiCategorySchema>
 export type WikiBundle = z.infer<typeof WikiBundleSchema>

@@ -16,7 +16,7 @@
  * Runs automatically after sync-videos.ts via prebuild.
  */
 
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs'
+import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from 'fs'
 import { resolve } from 'path'
 import { VIDEO_CONFIG } from '../src/config/videos'
 
@@ -42,6 +42,8 @@ interface TopicCluster {
 
 const WIKI_ROOT = resolve('..', 'wiki')
 const WIKI_VIDEOS = resolve(WIKI_ROOT, 'videos')
+const WIKI_TAGS = resolve(WIKI_ROOT, 'videos', 'tags')
+const WIKI_DETAILS = resolve(WIKI_ROOT, 'videos', 'details')
 const METADATA_PATH = resolve('public', 'videos-metadata.json')
 
 const CATEGORY_META: Record<

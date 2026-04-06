@@ -81,6 +81,18 @@ interface YouTubeVideo {
   tags?: string[]
 }
 
+interface YouTubeApiItem {
+  id: string
+  snippet: {
+    title: string
+    publishedAt: string
+    tags?: string[]
+  }
+  statistics: {
+    viewCount: string
+  }
+}
+
 interface ApiResponse {
   videos: YouTubeVideo[]
   cached?: boolean
@@ -149,7 +161,7 @@ function checkRateLimit(ip: string): boolean {
 
 export default async function handler(
   req: VercelRequest,
-  res: VercelResponse<ApiResponse | { error: string }>
+  res: VercelResponse
 ) {
   // Set CORS headers for all responses
   setCorsHeaders(req, res)
@@ -235,7 +247,7 @@ export default async function handler(
     const data = await response.json()
 
     // Extract and transform video metadata
-    const videos: YouTubeVideo[] = (data.items || []).map((item: any) => ({
+    const videos: YouTubeVideo[] = (data.items || []).map((item: YouTubeApiItem) => ({
       id: item.id,
       title: item.snippet.title || '',
       views: Number(item.statistics.viewCount) || 0,
@@ -259,10 +271,11 @@ export default async function handler(
     })
   } catch (error) {
     const duration = Date.now() - startTime
-    logApiError('Error fetching YouTube metadata', error, {
-      durationMs: duration,
-      videoCount: idList.length
-    })
+    logApiError(
+      'Error fetching YouTube metadata',
+      error instanceof Error ? error : String(error),
+      { durationMs: duration, videoCount: idList.length }
+    )
     return res.status(500).json({
       error: 'Internal server error'
     })

@@ -15,7 +15,7 @@ This is a monorepo containing multiple applications:
 ```
 pastel-sketchbook/
 ├── homepage/           # Landing page & primary app (React + TanStack Router + Vite)
-├── docs/               # Project documentation
+├── wiki/               # LLM-maintained knowledge base (videos, tags, details)
 ├── .github/            # GitHub workflows
 └── README.md          # This file
 ```
@@ -70,8 +70,8 @@ cp homepage/.env.example homepage/.env.local
 
 2. Add your API keys to `homepage/.env.local`:
 ```env
-VITE_API_KEY=your-google-genai-api-key
-VITE_API_MODEL=gemini-3-flash-preview
+VITE_GEMINI_API_KEY=your-google-genai-api-key
+VITE_GEMINI_API_MODEL=gemini-3-flash-preview
 VITE_YOUTUBE_API_KEY=your-youtube-api-key
 ```
 

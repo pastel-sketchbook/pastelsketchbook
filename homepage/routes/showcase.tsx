@@ -24,8 +24,16 @@ function ShowcaseWithErrorBoundary() {
   )
 }
 
+interface VideoMetadataItem {
+  id: string
+  title: string
+  views: number
+  date: string
+  tags?: string[]
+}
+
 interface MetadataResult {
-    videos: any[]
+    videos: VideoMetadataItem[]
     source: 'api' | 'fallback' | 'placeholder'
     error?: string
 }
@@ -129,7 +137,7 @@ function Showcase() {
         }
     }, [metadataError, showAlert])
 
-    const allItems: VideoItem[] = videoMetadata.map((item: any) => ({
+    const allItems: VideoItem[] = videoMetadata.map((item) => ({
         ...item,
         date: formatYouTubeDate(item.date),
         category: videoCategories[item.id],
@@ -161,7 +169,9 @@ function Showcase() {
         return b.views - a.views;
     });
 
-    const tabs = [
+    type TabId = "korea" | "finance" | "kubernetes" | "development" | "security" | "programming" | "all"
+
+    const tabs: { id: TabId; label: string }[] = [
         { id: "all", label: "All Seeds" },
         { id: "development", label: "Development" },
         { id: "finance", label: "Finance" },
@@ -233,7 +243,7 @@ function Showcase() {
                             {tabs.map(tab => (
                                 <button
                                     key={tab.id}
-                                    onClick={() => setActiveTab(tab.id as any)}
+                                    onClick={() => setActiveTab(tab.id)}
                                     className={`px-3 md:px-6 py-2 md:py-3 rounded-full text-xs md:text-sm font-bold uppercase tracking-widest transition-all duration-300 ${activeTab === tab.id
                                         ? "bg-[#1B3022] text-white shadow-lg scale-105"
                                         : "text-[#1B3022]/40 hover:text-[#1B3022] hover:bg-white/50"

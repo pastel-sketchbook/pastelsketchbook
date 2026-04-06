@@ -2,7 +2,7 @@ import { createRoot } from 'react-dom/client'
 import { App } from './App'
 
 const checkEnv = () => {
-  const required: (keyof ImportMetaEnv)[] = ['VITE_API_KEY', 'VITE_API_MODEL']
+  const required = ['VITE_GEMINI_API_KEY', 'VITE_GEMINI_API_MODEL'] as const
   const missing: string[] = []
 
   required.forEach((key) => {
