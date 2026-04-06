@@ -97,7 +97,7 @@ function Code() {
           </motion.p>
 
           <div className="flex justify-center mb-12 overflow-x-auto pb-4 scrollbar-hide md:max-w-6xl md:mx-auto md:w-full">
-            <div className="bg-white/50 backdrop-blur-sm p-1 rounded-full sketch-border border-[#1B3022]/5 flex flex-wrap md:flex-nowrap gap-0.5 md:gap-1 md:w-full md:justify-center">
+            <div className="bg-white p-1 rounded-full sketch-border border-[#1B3022]/5 flex flex-wrap md:flex-nowrap gap-0.5 md:gap-1 md:w-full md:justify-center">
               {tabs.map(tab => (
                 <button
                   key={tab.id}
@@ -129,7 +129,7 @@ function Code() {
                 value={searchQuery}
                 onChange={e => setSearchQuery(e.target.value)}
                 placeholder="Search repositories..."
-                className="w-full bg-white/50 backdrop-blur-sm pl-14 pr-6 py-4 rounded-full sketch-border border-[#1B3022]/5 text-[#1B3022] placeholder-[#1B3022]/30 text-sm focus:outline-none focus:border-[#5F7D61]/30 transition-colors"
+                className="w-full bg-white pl-14 pr-6 py-4 rounded-full sketch-border border-[#1B3022]/5 text-[#1B3022] placeholder-[#1B3022]/30 text-sm focus:outline-none focus:border-[#5F7D61]/30 transition-colors"
               />
               {searchQuery && (
                 <button
@@ -158,7 +158,7 @@ function Code() {
               {isLoading ? (
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   {Array.from({ length: 6 }).map((_, i) => (
-                    <div key={i} className="bg-white/50 backdrop-blur-sm p-6 rounded-2xl sketch-border border-[#1B3022]/5 animate-pulse">
+                    <div key={i} className="bg-white p-6 rounded-2xl sketch-border border-[#1B3022]/5 animate-pulse">
                       <div className="flex items-center gap-2 mb-3">
                         <div className="w-5 h-5 bg-[#1B3022]/10 rounded" />
                         <div className="h-5 w-32 bg-[#1B3022]/10 rounded" />
@@ -183,7 +183,7 @@ function Code() {
                       initial={{ opacity: 0, y: 20 }}
                       animate={{ opacity: 1, y: 0 }}
                       transition={{ delay: index * 0.05, duration: 0.3 }}
-                      className="group bg-white/50 backdrop-blur-sm p-6 rounded-2xl sketch-border border-[#1B3022]/5 hover:shadow-lg hover:border-[#5F7D61]/20 transition-all duration-300 hover:-translate-y-1"
+                      className="group bg-white p-6 rounded-2xl sketch-border border-[#1B3022]/5 hover:shadow-lg hover:border-[#5F7D61]/20 transition-all duration-300 hover:-translate-y-1"
                     >
                       <div className="flex items-start justify-between mb-3">
                         <div className="flex items-center gap-2">

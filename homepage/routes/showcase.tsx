@@ -239,7 +239,7 @@ function Showcase() {
 
                     {/* Tabs now under title/desc */}
                     <div className="flex justify-center mb-12 overflow-x-auto pb-4 scrollbar-hide md:max-w-6xl md:mx-auto md:w-full">
-                        <div className="bg-white/50 backdrop-blur-sm p-1 rounded-full sketch-border border-[#1B3022]/5 flex flex-wrap md:flex-nowrap gap-0.5 md:gap-1 md:w-full md:justify-center">
+                        <div className="bg-white p-1 rounded-full sketch-border border-[#1B3022]/5 flex flex-wrap md:flex-nowrap gap-0.5 md:gap-1 md:w-full md:justify-center">
                             {tabs.map(tab => (
                                 <button
                                     key={tab.id}
@@ -261,7 +261,7 @@ function Showcase() {
                             setSearchQuery={setSearchQuery}
                             className="flex-1 w-full"
                         />
-                        <div className="flex items-center gap-3 bg-white/50 backdrop-blur-sm p-1.5 rounded-full sketch-border border-[#1B3022]/5 h-[58px] flex-shrink-0">
+                        <div className="flex items-center gap-3 bg-white p-1.5 rounded-full sketch-border border-[#1B3022]/5 h-[58px] flex-shrink-0">
                             <span className="text-[10px] font-bold uppercase tracking-widest text-[#1B3022]/40 pl-6">Sort by:</span>
                             <button
                                 onClick={() => setSortBy("date")}

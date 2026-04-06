@@ -19,7 +19,7 @@ export function VideoSearch({ searchQuery, setSearchQuery, className = "" }: Vid
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder="Search by title..."
-                className="w-full pl-12 pr-6 py-4 rounded-full bg-white/50 backdrop-blur-sm border-2 border-pastel-dark/5 outline-none transition-all focus:border-pastel-tan/30 focus:bg-white sketch-border shadow-sm text-pastel-dark"
+                className="w-full pl-12 pr-6 py-4 rounded-full bg-white border-2 border-pastel-dark/5 outline-none transition-all focus:border-pastel-tan/30 sketch-border shadow-sm text-pastel-dark"
             />
             {searchQuery && (
                 <button

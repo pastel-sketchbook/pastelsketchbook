@@ -246,7 +246,7 @@ function VideoDetail() {
               <h2 className="text-sm font-bold uppercase tracking-widest text-[#1B3022]/40 mb-3">
                 Summary
               </h2>
-              <div className="bg-white/50 backdrop-blur-sm rounded-xl sketch-border border-[#1B3022]/5 p-6">
+              <div className="bg-white rounded-xl sketch-border border-[#1B3022]/5 p-6">
                 <p className="text-[#1B3022] leading-relaxed font-serif">
                   {detail.summary}
                 </p>
@@ -259,19 +259,20 @@ function VideoDetail() {
                 <h2 className="text-sm font-bold uppercase tracking-widest text-[#1B3022]/40 mb-3">
                   Key Takeaways
                 </h2>
-                <div className="bg-white/50 backdrop-blur-sm rounded-xl sketch-border border-[#1B3022]/5 p-6">
-                  <ul className="space-y-3">
-                    {detail.takeaways.map((t, i) => (
-                      <li key={i} className="flex gap-3">
-                        <span className="flex-shrink-0 w-6 h-6 rounded-full bg-[#5F7D61]/10 text-[#5F7D61] text-xs font-bold flex items-center justify-center mt-0.5">
-                          {i + 1}
-                        </span>
-                        <span className="text-[#1B3022]/80 leading-relaxed">
-                          {t}
-                        </span>
-                      </li>
-                    ))}
-                  </ul>
+                <div className="space-y-3">
+                  {detail.takeaways.map((t, i) => (
+                    <div
+                      key={i}
+                      className="bg-white rounded-xl sketch-border border-[#1B3022]/5 p-5 flex gap-4"
+                    >
+                      <span className="flex-shrink-0 w-7 h-7 rounded-full bg-[#5F7D61]/10 text-[#5F7D61] text-xs font-bold flex items-center justify-center mt-0.5">
+                        {i + 1}
+                      </span>
+                      <span className="text-[#1B3022]/80 leading-relaxed">
+                        {t}
+                      </span>
+                    </div>
+                  ))}
                 </div>
               </section>
             )}
@@ -300,7 +301,7 @@ function VideoDetail() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.2 }}
-            className="bg-white/50 backdrop-blur-sm rounded-xl sketch-border border-[#1B3022]/5 p-8 text-center"
+            className="bg-white rounded-xl sketch-border border-[#1B3022]/5 p-8 text-center"
           >
             <p className="text-sm text-[#1B3022]/50 font-serif italic">
               Detailed summary not yet available for this video.

@@ -70,7 +70,7 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                         onClick={(e) => e.stopPropagation()}
                     >
                         <button
-                            className="absolute top-4 right-4 z-10 p-2 bg-white/50 backdrop-blur-md rounded-full text-pastel-dark hover:bg-white transition-colors shadow-sm"
+                            className="absolute top-4 right-4 z-10 p-2 bg-white rounded-full text-pastel-dark hover:bg-white transition-colors shadow-sm"
                             onClick={onClose}
                             aria-label="Close video"
                         >

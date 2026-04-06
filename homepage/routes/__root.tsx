@@ -256,7 +256,7 @@ function Footer() {
           <p className="text-[#1B3022]/60 mb-12 max-w-lg mx-auto">We are at the very beginning of this journey. Join us as a founding member.</p>
 
           <div className="flex flex-col md:flex-row gap-8 justify-center items-center">
-            <div className="bg-white/50 backdrop-blur-sm p-8 rounded-2xl shadow-sm border border-[#1B3022]/5 w-full max-w-sm hover:shadow-md transition-shadow">
+            <div className="bg-white p-8 rounded-2xl shadow-sm border border-[#1B3022]/5 w-full max-w-sm hover:shadow-md transition-shadow">
               <div className="w-24 h-24 bg-white mx-auto mb-6 flex items-center justify-center sketch-border border-[#1B3022]/10 rotate-3">
                 <svg className="w-12 h-12 text-[#1B3022]" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                   <path d="M12 4v1m6 11h2m-6 0h-2v4m0-11v3m0 0h.01M12 12h4.01M16 20h4M4 12h4m12 0h2M5 8l2-2 2 2M5 16l2 2 2-2" strokeWidth="1.5" strokeLinecap="round" />
@@ -275,7 +275,7 @@ function Footer() {
               </a>
             </div>
 
-            <div className="bg-white/50 backdrop-blur-sm p-8 rounded-2xl shadow-sm border border-[#E76F51]/10 w-full max-w-sm hover:shadow-md transition-shadow">
+            <div className="bg-white p-8 rounded-2xl shadow-sm border border-[#E76F51]/10 w-full max-w-sm hover:shadow-md transition-shadow">
               <div className="w-24 h-24 bg-white mx-auto mb-6 flex items-center justify-center sketch-border border-[#E76F51]/10 -rotate-2">
                 <svg className="w-12 h-12 text-[#E76F51]" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                   <path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />

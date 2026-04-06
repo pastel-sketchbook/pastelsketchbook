@@ -148,7 +148,7 @@ export function SparkAI() {
                 outline-none transition-all duration-300 shadow-sm
                 sketch-hover sketch-focus text-xl text-pastel-dark placeholder-pastel-dark/20
                 ${isTyping ? "animate-pop" : ""}
-                ${topic.length > 0 ? "bg-white pr-16" : "bg-white/50"}
+                ${topic.length > 0 ? "bg-white pr-16" : "bg-white"}
               `}
             />
             <AnimatePresence>

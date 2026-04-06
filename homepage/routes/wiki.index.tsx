@@ -150,7 +150,7 @@ function Wiki() {
           transition={{ delay: 0.3 }}
           className="grid grid-cols-3 gap-4 mb-12"
         >
-          <div className="bg-white/50 backdrop-blur-sm p-6 rounded-xl sketch-border border-[#1B3022]/5 text-center">
+          <div className="bg-white p-6 rounded-xl sketch-border border-[#1B3022]/5 text-center">
             <div className="text-3xl font-bold text-[#1B3022]">
               {wiki.totalVideos}
             </div>
@@ -158,7 +158,7 @@ function Wiki() {
               Videos
             </div>
           </div>
-          <div className="bg-white/50 backdrop-blur-sm p-6 rounded-xl sketch-border border-[#1B3022]/5 text-center">
+          <div className="bg-white p-6 rounded-xl sketch-border border-[#1B3022]/5 text-center">
             <div className="text-3xl font-bold text-[#1B3022]">
               {fmtViews(totalViews)}
             </div>
@@ -166,7 +166,7 @@ function Wiki() {
               Total Views
             </div>
           </div>
-          <div className="bg-white/50 backdrop-blur-sm p-6 rounded-xl sketch-border border-[#1B3022]/5 text-center">
+          <div className="bg-white p-6 rounded-xl sketch-border border-[#1B3022]/5 text-center">
             <div className="text-3xl font-bold text-[#1B3022]">
               {wiki.categories.length}
             </div>
@@ -192,7 +192,7 @@ function Wiki() {
               className={`text-left p-6 rounded-xl sketch-border transition-all duration-300 ${
                 activeCategory === cat.name
                   ? 'bg-[#1B3022] text-white shadow-lg scale-[1.02]'
-                  : 'bg-white/50 backdrop-blur-sm border-[#1B3022]/5 hover:bg-white hover:shadow-md'
+                  : 'bg-white border-[#1B3022]/5 hover:bg-white hover:shadow-md'
               }`}
             >
               <h3
@@ -294,7 +294,7 @@ function Wiki() {
                     {selected.clusters.map((cluster) => (
                       <div
                         key={cluster.name}
-                        className="bg-white/50 backdrop-blur-sm rounded-xl sketch-border border-[#1B3022]/5 overflow-hidden"
+                        className="bg-white rounded-xl sketch-border border-[#1B3022]/5 overflow-hidden"
                       >
                         <button
                           onClick={() => toggleCluster(cluster.name)}
@@ -393,7 +393,7 @@ function Wiki() {
                 <h2 className="text-sm font-bold uppercase tracking-widest text-[#1B3022]/40 mb-4">
                   All Videos ({selected.videos.length})
                 </h2>
-                <div className="bg-white/50 backdrop-blur-sm rounded-xl sketch-border border-[#1B3022]/5 overflow-hidden">
+                <div className="bg-white rounded-xl sketch-border border-[#1B3022]/5 overflow-hidden">
                   <div className="divide-y divide-[#1B3022]/5">
                     {selected.videos.map((v, i) => (
                       <Link
