@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [llm, security, nist, automonmous, ai, zero-day, 2fa, orchestration, pingfederate, litellm]
 sources: 9
-updated: 2026-04-05
+updated: 2026-04-06
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-04-05
 | Metric | Value |
 |--------|-------|
 | Videos | 9 |
-| Total Views | 222 |
+| Total Views | 227 |
 | Most Recent | Mar 31, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -23,14 +23,14 @@ updated: 2026-04-05
 
 ### AI & ML (4 videos)
 
-- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 48 views, Mar 31, 2026
-- [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) -- 26 views, Mar 26, 2026
+- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 50 views, Mar 31, 2026
+- [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) -- 29 views, Mar 26, 2026
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 28 views, Mar 25, 2026
 - [The Orchestrator's Blueprint](https://youtu.be/Oa3jaLNSZvM) -- 33 views, Feb 28, 2026
 
 ### Security (4 videos)
 
-- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 48 views, Mar 31, 2026
+- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 50 views, Mar 31, 2026
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 28 views, Mar 25, 2026
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) -- 15 views, Mar 8, 2026
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) -- 15 views, Mar 2, 2026
@@ -39,9 +39,9 @@ updated: 2026-04-05
 
 | # | Title | Views | Published | Link |
 |---|-------|-------|-----------|------|
-| 1 | Black-Hat LLMs: The End of the 20-Year Security Balance | 48 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) |
+| 1 | Black-Hat LLMs: The End of the 20-Year Security Balance | 50 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) |
 | 2 | 2FA Orchestration in PingFederate | 6 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) |
-| 3 | Anatomy of a Supply Chain Attack | 26 | Mar 26, 2026 | [Watch](https://youtu.be/taBP0Fr3uSQ) |
+| 3 | Anatomy of a Supply Chain Attack | 29 | Mar 26, 2026 | [Watch](https://youtu.be/taBP0Fr3uSQ) |
 | 4 | Containing the Untrusted Agent | 28 | Mar 25, 2026 | [Watch](https://youtu.be/CA1nlknmR3g) |
 | 5 | The NIST Cybersecurity Framework 2.0 | 15 | Mar 8, 2026 | [Watch](https://youtu.be/1VjSLqfPf9s) |
 | 6 | The Strategic Roadmap for Data Classification | 15 | Mar 2, 2026 | [Watch](https://youtu.be/uhXcsWYhdkA) |
@@ -56,7 +56,7 @@ updated: 2026-04-05
 ## See Also
 
 - [Kubernetes](kubernetes.md) -- shared tags: `ai`, `shift left`
-- [Development](development.md) -- shared tags: `ai`, `shift left`, `resilience`, `llm`, `agent`, `ssrf`
+- [Development](development.md) -- shared tags: `ai`, `shift left`, `agent`, `resilience`, `llm`, `ssrf`
 
 ---
-*Auto-generated on Apr 5, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 6, 2026. Back to [index](index.md).*

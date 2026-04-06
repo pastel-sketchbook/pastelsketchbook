@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 231
-updated: 2026-04-05
+sources: 233
+updated: 2026-04-06
 ---
 
 # Video Wiki Index
@@ -13,20 +13,20 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 231 |
-| Total Views | 13.1K |
+| Total Videos | 233 |
+| Total Views | 14.7K |
 | Categories | 6 |
-| Last Updated | Apr 5, 2026 |
+| Last Updated | Apr 6, 2026 |
 
 ## Categories
 
 ### [Korea](korea.md)
 
-Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 17 videos, 199 total views.
+Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 17 videos, 200 total views.
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 17 videos, 341 total views.
+Videos covering personal finance, investing, and economics. 17 videos, 353 total views.
 
 ### [Kubernetes](kubernetes.md)
 
@@ -34,11 +34,11 @@ Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 129 videos, 10.9K total views.
+Videos about software development, tools, workflows, and engineering practices. 131 videos, 12.5K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 9 videos, 222 total views.
+Videos on cybersecurity, application security, and security engineering. 9 videos, 227 total views.
 
 ### [Programming](programming.md)
 
@@ -64,7 +64,7 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `python` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `tui` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `composition` | [Kubernetes](kubernetes.md), [Development](development.md) |
-| `go` | [Kubernetes](kubernetes.md), [Development](development.md) |
+| `cqrs` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Apr 5, 2026. See [wiki index](../index.md).*
+*Auto-generated on Apr 6, 2026. See [wiki index](../index.md).*

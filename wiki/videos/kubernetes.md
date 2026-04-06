@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, cue, rabbitmq, azure, networking, ces, workload, identity]
 sources: 51
-updated: 2026-04-05
+updated: 2026-04-06
 ---
 
 # Kubernetes
@@ -77,7 +77,7 @@ updated: 2026-04-05
 
 ### Messaging (6 videos)
 
-- [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) -- 8 views, Apr 5, 2026
+- [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) -- 21 views, Apr 5, 2026
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 19 views, Apr 4, 2026
 - [Continuous Flow](https://youtu.be/tcrNdx1yH_E) -- 15 views, Mar 22, 2026
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) -- 46 views, Jan 16, 2026
@@ -141,8 +141,8 @@ updated: 2026-04-05
 
 | # | Title | Views | Published | Link |
 |---|-------|-------|-----------|------|
-| 1 | Architecting Real-Time State | 8 | Apr 5, 2026 | [Watch](https://youtu.be/WRpjJV4SUKc) |
-| 2 | Architecting the edge for HTTP/3 and QUIC | 31 | Apr 4, 2026 | [Watch](https://youtu.be/7Dchx829X_M) |
+| 1 | Architecting Real-Time State | 21 | Apr 5, 2026 | [Watch](https://youtu.be/WRpjJV4SUKc) |
+| 2 | Architecting the edge for HTTP/3 and QUIC | 35 | Apr 4, 2026 | [Watch](https://youtu.be/7Dchx829X_M) |
 | 3 | Bridging the Mainframe to the Cloud | 19 | Apr 4, 2026 | [Watch](https://youtu.be/7iWL5-0C66s) |
 | 4 | Advanced Microservices Blueprint on Azure Kubernetes Service | 18 | Apr 1, 2026 | [Watch](https://youtu.be/BiYKKVsJROk) |
 | 5 | Azure Enterprise Edge Lab | 8 | Mar 31, 2026 | [Watch](https://youtu.be/fMjflPvjaJ8) |
@@ -200,8 +200,8 @@ updated: 2026-04-05
 ## See Also
 
 - [Security](security.md) -- shared tags: `ai`, `shift left`
-- [Development](development.md) -- shared tags: `ai`, `shift left`, `rabbitmq`, `copilot`, `identity`, `oidc`, `hybrid`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `composition`, `go`, `melisearch`, `modern`, `mtls`, `rust`, `messaging`
+- [Development](development.md) -- shared tags: `ai`, `shift left`, `rabbitmq`, `copilot`, `identity`, `oidc`, `hybrid`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `composition`, `cqrs`, `go`, `melisearch`, `modern`, `mtls`, `rust`, `messaging`
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on Apr 5, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 6, 2026. Back to [index](index.md).*
