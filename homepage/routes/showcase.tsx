@@ -182,7 +182,7 @@ function Showcase() {
     ];
 
     return (
-        <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
+        <div className="min-h-screen pt-32 pb-24 px-6">
             <AnimatePresence>
                 {metadataError && showAlert && (
                     <motion.div

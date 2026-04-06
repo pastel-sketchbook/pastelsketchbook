@@ -77,7 +77,7 @@ function Code() {
   ]
 
   return (
-    <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
+    <div className="min-h-screen pt-32 pb-24 px-6">
       <div className="max-w-6xl mx-auto">
         <header className="text-center mb-16">
           <motion.h1

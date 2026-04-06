@@ -26,7 +26,7 @@ function RootComponent() {
       >
         Skip to content
       </a>
-      <div className="min-h-screen overflow-x-hidden bg-[#FAF9F6] text-[#1B3022] selection:bg-[#D4A373]/30">
+      <div className="min-h-screen overflow-x-hidden text-[#1B3022] selection:bg-[#D4A373]/30">
         <Header />
         <Suspense
           fallback={
@@ -222,7 +222,7 @@ function NavLink({ href, label, isAccent = false }: { href: string, label: strin
 
 function Footer() {
   return (
-    <footer className="bg-[#FAF9F6] pt-24 border-t border-[#1B3022]/5">
+    <footer className="pt-24 border-t border-[#1B3022]/5">
       <div className="max-w-6xl mx-auto px-6">
         <div className="text-center mb-24">
           <h2 className="text-4xl md:text-5xl italic mb-16 text-[#1B3022]">Who is this for?</h2>

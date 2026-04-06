@@ -43,8 +43,8 @@ function VideoDetail() {
 
   if (isLoading || !wiki) {
     return (
-      <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
-        <div className="max-w-5xl mx-auto animate-pulse space-y-6">
+      <div className="min-h-screen pt-32 pb-24 px-6">
+        <div className="max-w-6xl mx-auto animate-pulse space-y-6">
           <div className="h-4 bg-[#1B3022]/5 rounded w-32" />
           <div className="h-10 bg-[#1B3022]/5 rounded-lg w-3/4" />
           <div className="h-4 bg-[#1B3022]/5 rounded w-48" />
@@ -61,8 +61,8 @@ function VideoDetail() {
 
   if (isError) {
     return (
-      <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
-        <div className="max-w-5xl mx-auto text-center">
+      <div className="min-h-screen pt-32 pb-24 px-6">
+        <div className="max-w-6xl mx-auto text-center">
           <h2 className="text-2xl font-serif italic text-[#1B3022] mb-2">
             Failed to load video
           </h2>
@@ -84,8 +84,8 @@ function VideoDetail() {
 
   if (!video) {
     return (
-      <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
-        <div className="max-w-5xl mx-auto text-center">
+      <div className="min-h-screen pt-32 pb-24 px-6">
+        <div className="max-w-6xl mx-auto text-center">
           <div className="inline-flex items-center justify-center w-16 h-16 mb-6 rounded-full bg-[#E9C46A]/15">
             <svg
               className="w-8 h-8 text-[#E9C46A]"
@@ -121,8 +121,8 @@ function VideoDetail() {
   const detail = video.detail
 
   return (
-    <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
-      <div className="max-w-5xl mx-auto">
+    <div className="min-h-screen pt-32 pb-24 px-6">
+      <div className="max-w-6xl mx-auto">
         {/* Breadcrumb */}
         <motion.nav
           initial={{ opacity: 0 }}

@@ -16,7 +16,7 @@ function PodcastWithErrorBoundary() {
 
 function PodcastPage() {
   return (
-    <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24">
+    <div className="min-h-screen pt-32 pb-24">
       <PodcastPlayer
         audioSrc="/podcasts/episode_1.m4a"
         transcriptSrc="/podcasts/episode_1.transcript.json"

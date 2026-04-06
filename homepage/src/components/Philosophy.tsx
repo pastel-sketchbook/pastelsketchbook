@@ -21,7 +21,7 @@ const SectionDivider = ({ className = "" }) => (
 export function Philosophy() {
     return (
         <>
-            <section id="vision" className="py-32 px-6 bg-pastel-bg">
+            <section id="vision" className="py-32 px-6">
                 <motion.div
                     initial={{ opacity: 0 }}
                     whileInView={{ opacity: 1 }}
@@ -64,7 +64,7 @@ export function Philosophy() {
 
             <SectionDivider />
 
-            <section id="problem" className="py-32 px-6 bg-pastel-bg">
+            <section id="problem" className="py-32 px-6">
                 <div className="max-w-6xl mx-auto">
                     <motion.h2
                         initial={{ opacity: 0, scale: 0.9 }}
@@ -122,7 +122,7 @@ export function Philosophy() {
                 </div>
             </section>
 
-            <section className="py-32 px-6 overflow-hidden bg-pastel-bg">
+            <section className="py-32 px-6 overflow-hidden">
                 <div className="max-w-6xl mx-auto text-center">
                     <h2 className="text-5xl md:text-6xl mb-16 italic font-serif text-pastel-dark">We're building a digital community garden.</h2>
 
@@ -157,7 +157,7 @@ export function Philosophy() {
 
             <SectionDivider />
 
-            <section id="cycle" className="py-32 px-6 bg-pastel-bg">
+            <section id="cycle" className="py-32 px-6">
                 <div className="max-w-6xl mx-auto text-center">
                     <h2 className="text-5xl md:text-6xl mb-6 italic font-serif text-pastel-dark">A Virtuous Cycle</h2>
                     <p className="text-2xl text-pastel-dark/50 mb-20 font-serif italic">From Curiosity to Collective Capital</p>

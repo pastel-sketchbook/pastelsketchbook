@@ -37,8 +37,8 @@ function Wiki() {
 
   if (isError) {
     return (
-      <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
-        <div className="max-w-5xl mx-auto text-center">
+      <div className="min-h-screen pt-32 pb-24 px-6">
+        <div className="max-w-6xl mx-auto text-center">
           <div className="inline-flex items-center justify-center w-16 h-16 mb-6 rounded-full bg-[#E76F51]/10">
             <svg
               className="w-8 h-8 text-[#E76F51]"
@@ -73,8 +73,8 @@ function Wiki() {
 
   if (isLoading || !wiki) {
     return (
-      <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
-        <div className="max-w-5xl mx-auto">
+      <div className="min-h-screen pt-32 pb-24 px-6">
+        <div className="max-w-6xl mx-auto">
           <div className="animate-pulse space-y-6">
             <div className="h-12 bg-[#1B3022]/5 rounded-lg w-48" />
             <div className="h-6 bg-[#1B3022]/5 rounded w-96" />
@@ -107,8 +107,8 @@ function Wiki() {
   }
 
   return (
-    <div className="bg-[#FAF9F6] min-h-screen pt-32 pb-24 px-6">
-      <div className="max-w-5xl mx-auto">
+    <div className="min-h-screen pt-32 pb-24 px-6">
+      <div className="max-w-6xl mx-auto">
         {/* Header */}
         <header className="text-center mb-16">
           <motion.h1

@@ -56,7 +56,7 @@ export function Growth() {
 
     return (
         <>
-            <section id="investment" className="py-32 px-6 bg-pastel-bg" ref={investmentRef}>
+            <section id="investment" className="py-32 px-6" ref={investmentRef}>
                 <motion.div
                     initial={{ opacity: 0, x: -20 }}
                     whileInView={{ opacity: 1, x: 0 }}
@@ -102,7 +102,7 @@ export function Growth() {
                 </motion.div>
             </section>
 
-            <section id="growth" className="py-32 px-6 bg-pastel-bg">
+            <section id="growth" className="py-32 px-6">
                 <div className="max-w-6xl mx-auto">
                     <div className="text-center mb-24">
                         <h2 className="text-5xl md:text-6xl italic mb-6 font-serif text-pastel-dark">The Power of Time</h2>

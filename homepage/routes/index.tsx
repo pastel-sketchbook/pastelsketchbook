@@ -11,7 +11,7 @@ export const Route = createFileRoute("/")({
 
 function Index() {
   return (
-    <div className="bg-[#FAF9F6]">
+    <div>
       <Hero />
       <Philosophy />
       <SketchErrorBoundary name="Spark AI">

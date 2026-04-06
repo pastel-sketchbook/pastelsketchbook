@@ -109,7 +109,7 @@ export function SparkAI() {
   return (
     <section
       id="spark"
-      className="py-32 px-6 bg-pastel-bg border-y border-pastel-dark/5"
+      className="py-32 px-6 border-y border-pastel-dark/5"
     >
       <motion.div
         initial={{ opacity: 0 }}
