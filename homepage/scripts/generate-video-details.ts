@@ -15,6 +15,7 @@
 
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs'
 import { resolve } from 'path'
+import { execSync } from 'child_process'
 import { fetchTranscript } from 'youtube-transcript'
 import { GoogleGenAI } from '@google/genai'
 import { VIDEO_CONFIG } from '../src/config/videos'
@@ -46,12 +47,21 @@ const METADATA_PATH = resolve('public', 'videos-metadata.json')
 // Truncate transcript to stay within Gemini context limits
 const MAX_TRANSCRIPT_CHARS = 30_000
 
-const SYSTEM_PROMPT = `You are a technical content analyst. Given a video transcript, produce a structured analysis.
+const TRANSCRIPT_RETRIES = 3
+const TRANSCRIPT_RETRY_DELAY = 2000
+
+const SYSTEM_PROMPT = `You are a technical content analyst specializing in software engineering, programming languages, and systems design. Given a video transcript, produce a structured analysis.
+
+Guidelines:
+- Identify the specific technologies, languages, frameworks, or tools discussed (e.g., Zig, Rust, Go, Kubernetes).
+- Capture architectural decisions, trade-offs, and design philosophy — not just surface features.
+- For programming language videos, highlight what makes the language distinct (e.g., comptime in Zig, borrow checker in Rust).
+- Use precise technical terminology; avoid vague generalities.
 
 Respond in JSON with these fields:
-- "summary": A concise 2-3 sentence summary of what the video covers and its main thesis.
-- "takeaways": An array of 3-5 key takeaways, each a single clear sentence.
-- "topics": An array of 3-8 key topics or concepts discussed (short phrases, lowercase).`
+- "summary": A concise 2-3 sentence summary of what the video covers and its main thesis. Name the specific technology.
+- "takeaways": An array of 3-5 key takeaways, each a single clear sentence with concrete details.
+- "topics": An array of 3-8 key topics or concepts discussed (short phrases, lowercase, e.g. "zig comptime", "manual memory management").`
 
 // -- Env --
 
@@ -135,14 +145,22 @@ function parseArgs(): {
 // -- Transcript --
 
 async function getTranscript(videoId: string): Promise<string | null> {
-  try {
-    const segments = await fetchTranscript(videoId)
-    const full = segments.map((s) => s.text).join(' ')
-    return full.slice(0, MAX_TRANSCRIPT_CHARS)
-  } catch (err) {
-    console.warn(`    ⚠ Transcript unavailable: ${err instanceof Error ? err.message : err}`)
-    return null
+  for (let attempt = 1; attempt <= TRANSCRIPT_RETRIES; attempt++) {
+    try {
+      const segments = await fetchTranscript(videoId)
+      const full = segments.map((s) => s.text).join(' ')
+      return full.slice(0, MAX_TRANSCRIPT_CHARS)
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : String(err)
+      if (attempt < TRANSCRIPT_RETRIES) {
+        console.warn(`    [warn] Transcript attempt ${attempt}/${TRANSCRIPT_RETRIES} failed: ${msg}`)
+        await sleep(TRANSCRIPT_RETRY_DELAY * attempt)
+      } else {
+        console.warn(`    [warn] Transcript unavailable after ${TRANSCRIPT_RETRIES} attempts: ${msg}`)
+      }
+    }
   }
+  return null
 }
 
 // -- Gemini --
@@ -165,7 +183,7 @@ async function summarize(
     const text = response.text ?? ''
     return JSON.parse(text) as GeminiResult
   } catch (parseError) {
-    console.warn(`    ⚠ Failed to parse Gemini JSON response: ${parseError instanceof Error ? parseError.message : String(parseError)}`)
+    console.warn(`    [warn] Failed to parse Gemini JSON response: ${parseError instanceof Error ? parseError.message : String(parseError)}`)
     return {
       summary: 'Summary could not be generated.',
       takeaways: ['Analysis pending.'],
@@ -266,12 +284,12 @@ async function main() {
   const modelName = process.env.VITE_GEMINI_API_MODEL || 'gemini-3-flash-preview'
 
   if (!apiKey) {
-    console.error('❌ VITE_GEMINI_API_KEY not set. Required for Gemini summarization.')
+    console.error('[error] VITE_GEMINI_API_KEY not set. Required for Gemini summarization.')
     process.exit(1)
   }
 
   if (!existsSync(METADATA_PATH)) {
-    console.error('❌ videos-metadata.json not found. Run sync:videos first.')
+    console.error('[error] videos-metadata.json not found. Run sync:videos first.')
     process.exit(1)
   }
 
@@ -310,7 +328,7 @@ async function main() {
   let generated = 0
   let skipped = 0
 
-  console.log(`\n📝 Generating video details (${runLabel})\n`)
+  console.log(`\nGenerating video details (${runLabel})\n`)
 
   for (let i = 0; i < selected.length; i++) {
     const video = selected[i]
@@ -336,7 +354,7 @@ async function main() {
       try {
         result = await summarize(ai, modelName, transcript)
       } catch (err) {
-        console.warn(`    ⚠ Gemini error: ${err instanceof Error ? err.message : err}`)
+        console.warn(`    [warn] Gemini error: ${err instanceof Error ? err.message : err}`)
       }
       await sleep(1000)
     }
@@ -345,14 +363,30 @@ async function main() {
     const page = generateDetailPage(video, category, result, transcript !== null)
     writeFileSync(outPath, page)
     generated++
-    console.log(`    ✓ Written: details/${video.id}.md`)
+    console.log(`    Written: details/${video.id}.md`)
   }
 
   if (generated > 0) {
     appendLog(generated, runLabel)
   }
 
-  console.log(`\n✅ Done. Generated ${generated}, skipped ${skipped} existing.`)
+  console.log(`\nDone. Generated ${generated}, skipped ${skipped} existing.`)
+
+  // Re-run wiki generation so category pages and wiki-bundle.json
+  // pick up the newly created detail pages immediately.
+  if (generated > 0) {
+    console.log('\nRegenerating wiki pages to link new detail pages...')
+    try {
+      execSync('bun scripts/generate-wiki.ts', {
+        cwd: resolve(import.meta.dir, '..'),
+        stdio: 'inherit',
+      })
+    } catch (err) {
+      console.warn(
+        `[warn] Wiki regeneration failed: ${err instanceof Error ? err.message : String(err)}`,
+      )
+    }
+  }
 }
 
 main().catch((err) => {

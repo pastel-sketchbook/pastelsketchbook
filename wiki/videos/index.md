@@ -14,7 +14,7 @@ The LLM reads this index first to locate relevant pages when answering queries.
 | Metric | Value |
 |--------|-------|
 | Total Videos | 233 |
-| Total Views | 14.7K |
+| Total Views | 15.5K |
 | Categories | 6 |
 | Last Updated | Apr 6, 2026 |
 
@@ -26,7 +26,7 @@ Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 17 videos, 353 total views.
+Videos covering personal finance, investing, and economics. 17 videos, 354 total views.
 
 ### [Kubernetes](kubernetes.md)
 
@@ -34,11 +34,11 @@ Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 131 videos, 12.5K total views.
+Videos about software development, tools, workflows, and engineering practices. 131 videos, 13.2K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 9 videos, 227 total views.
+Videos on cybersecurity, application security, and security engineering. 9 videos, 228 total views.
 
 ### [Programming](programming.md)
 

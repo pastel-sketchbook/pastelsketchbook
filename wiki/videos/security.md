@@ -15,7 +15,7 @@ updated: 2026-04-06
 | Metric | Value |
 |--------|-------|
 | Videos | 9 |
-| Total Views | 227 |
+| Total Views | 228 |
 | Most Recent | Mar 31, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -23,31 +23,31 @@ updated: 2026-04-06
 
 ### AI & ML (4 videos)
 
-- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 50 views, Mar 31, 2026
+- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 51 views, Mar 31, 2026
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) -- 29 views, Mar 26, 2026
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 28 views, Mar 25, 2026
 - [The Orchestrator's Blueprint](https://youtu.be/Oa3jaLNSZvM) -- 33 views, Feb 28, 2026
 
 ### Security (4 videos)
 
-- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 50 views, Mar 31, 2026
+- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 51 views, Mar 31, 2026
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 28 views, Mar 25, 2026
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) -- 15 views, Mar 8, 2026
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) -- 15 views, Mar 2, 2026
 
 ## All Videos
 
-| # | Title | Views | Published | Link |
-|---|-------|-------|-----------|------|
-| 1 | Black-Hat LLMs: The End of the 20-Year Security Balance | 50 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) |
-| 2 | 2FA Orchestration in PingFederate | 6 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) |
-| 3 | Anatomy of a Supply Chain Attack | 29 | Mar 26, 2026 | [Watch](https://youtu.be/taBP0Fr3uSQ) |
-| 4 | Containing the Untrusted Agent | 28 | Mar 25, 2026 | [Watch](https://youtu.be/CA1nlknmR3g) |
-| 5 | The NIST Cybersecurity Framework 2.0 | 15 | Mar 8, 2026 | [Watch](https://youtu.be/1VjSLqfPf9s) |
-| 6 | The Strategic Roadmap for Data Classification | 15 | Mar 2, 2026 | [Watch](https://youtu.be/uhXcsWYhdkA) |
-| 7 | The Orchestrator's Blueprint | 33 | Feb 28, 2026 | [Watch](https://youtu.be/Oa3jaLNSZvM) |
-| 8 | 2025 Global Threat Report | 14 | Feb 27, 2026 | [Watch](https://youtu.be/1MPD6MILLcQ) |
-| 9 | Shannon: Autonomous Penetration Testing | 37 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) |
+| # | Title | Views | Published | Link | Detail |
+|---|-------|-------|-----------|------|--------|
+| 1 | Black-Hat LLMs: The End of the 20-Year Security Balance | 51 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) |  |
+| 2 | 2FA Orchestration in PingFederate | 6 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) |  |
+| 3 | Anatomy of a Supply Chain Attack | 29 | Mar 26, 2026 | [Watch](https://youtu.be/taBP0Fr3uSQ) |  |
+| 4 | Containing the Untrusted Agent | 28 | Mar 25, 2026 | [Watch](https://youtu.be/CA1nlknmR3g) |  |
+| 5 | The NIST Cybersecurity Framework 2.0 | 15 | Mar 8, 2026 | [Watch](https://youtu.be/1VjSLqfPf9s) |  |
+| 6 | The Strategic Roadmap for Data Classification | 15 | Mar 2, 2026 | [Watch](https://youtu.be/uhXcsWYhdkA) |  |
+| 7 | The Orchestrator's Blueprint | 33 | Feb 28, 2026 | [Watch](https://youtu.be/Oa3jaLNSZvM) |  |
+| 8 | 2025 Global Threat Report | 14 | Feb 27, 2026 | [Watch](https://youtu.be/1MPD6MILLcQ) |  |
+| 9 | Shannon: Autonomous Penetration Testing | 37 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) |  |
 
 ## Top Tags
 

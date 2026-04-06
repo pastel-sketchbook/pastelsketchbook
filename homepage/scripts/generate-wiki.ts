@@ -47,6 +47,18 @@ interface VideoDetail {
 }
 
 /**
+ * Collect IDs of all existing detail markdown files in wiki/videos/details/.
+ */
+function loadDetailIds(): Set<string> {
+  const ids = new Set<string>()
+  if (!existsSync(WIKI_DETAILS)) return ids
+  for (const file of readdirSync(WIKI_DETAILS)) {
+    if (file.endsWith('.md')) ids.add(file.replace(/\.md$/, ''))
+  }
+  return ids
+}
+
+/**
  * Parse auto-generated detail markdown files from wiki/videos/details/.
  * Returns a map of videoId -> { summary, takeaways, topics }.
  */
@@ -282,6 +294,7 @@ function generateCategoryPage(
   lookup: Map<string, VideoMetadata>,
   generatedAt: string,
   allCategoryTags: Record<string, Map<string, number>>,
+  detailIds: Set<string>,
 ): string {
   const meta = CATEGORY_META[category] || {
     description: `Videos in the ${category} category.`,
@@ -331,8 +344,11 @@ function generateCategoryPage(
         '',
       )
       for (const v of c.videos) {
+        const detailLink = detailIds.has(v.id)
+          ? ` · [Details](details/${v.id}.md)`
+          : ''
         lines.push(
-          `- [${v.title}](https://youtu.be/${v.id}) -- ${fmtViews(v.views)} views, ${fmtDate(v.date)}`,
+          `- [${v.title}](https://youtu.be/${v.id}) -- ${fmtViews(v.views)} views, ${fmtDate(v.date)}${detailLink}`,
         )
       }
       lines.push('')
@@ -343,13 +359,16 @@ function generateCategoryPage(
   lines.push(
     '## All Videos',
     '',
-    '| # | Title | Views | Published | Link |',
-    '|---|-------|-------|-----------|------|',
+    '| # | Title | Views | Published | Link | Detail |',
+    '|---|-------|-------|-----------|------|--------|',
   )
   for (let i = 0; i < videos.length; i++) {
     const v = videos[i]
+    const detailCell = detailIds.has(v.id)
+      ? `[Wiki](details/${v.id}.md)`
+      : ''
     lines.push(
-      `| ${i + 1} | ${v.title} | ${fmtViews(v.views)} | ${fmtDate(v.date)} | [Watch](https://youtu.be/${v.id}) |`,
+      `| ${i + 1} | ${v.title} | ${fmtViews(v.views)} | ${fmtDate(v.date)} | [Watch](https://youtu.be/${v.id}) | ${detailCell} |`,
     )
   }
 
@@ -596,6 +615,9 @@ function main() {
 
   const sharedTags = findSharedTags(allCategoryTags)
 
+  // Load detail page IDs for cross-linking in category pages
+  const detailIds = loadDetailIds()
+
   // Second pass: generate pages with cross-references
   for (const [category, videoIds] of Object.entries(VIDEO_CONFIG)) {
     const page = generateCategoryPage(
@@ -604,6 +626,7 @@ function main() {
       lookup,
       metadata.generatedAt,
       allCategoryTags,
+      detailIds,
     )
     writeFileSync(resolve(WIKI_VIDEOS, `${category}.md`), page)
     console.log(`  ${category}.md (${categoryCounts[category]} videos)`)

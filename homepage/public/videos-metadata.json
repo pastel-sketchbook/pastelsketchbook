@@ -187,7 +187,7 @@
     {
       "id": "_LrmdP64y6A",
       "title": "The Pomology Field Guide",
-      "views": 18,
+      "views": 19,
       "date": "2026-03-19T22:13:16Z",
       "tags": []
     },
@@ -295,7 +295,7 @@
     {
       "id": "WRpjJV4SUKc",
       "title": "Architecting Real-Time State",
-      "views": 21,
+      "views": 24,
       "date": "2026-04-05T12:14:36Z",
       "tags": [
         "cdc",
@@ -307,7 +307,7 @@
     {
       "id": "7Dchx829X_M",
       "title": "Architecting the edge for HTTP/3 and QUIC",
-      "views": 35,
+      "views": 39,
       "date": "2026-04-05T00:11:43Z",
       "tags": [
         "http/3",
@@ -320,7 +320,7 @@
     {
       "id": "7iWL5-0C66s",
       "title": "Bridging the Mainframe to the Cloud",
-      "views": 19,
+      "views": 20,
       "date": "2026-04-04T10:58:19Z",
       "tags": [
         "mainframe",
@@ -357,7 +357,7 @@
     {
       "id": "lexZnOlyml0",
       "title": "Agentic Platform Engineering with GitHub Copilot",
-      "views": 60,
+      "views": 61,
       "date": "2026-03-27T03:34:28Z",
       "tags": [
         "ai",
@@ -886,7 +886,7 @@
     {
       "id": "dDtVuJXVYJk",
       "title": "The Rules and The Rebellion",
-      "views": 1,
+      "views": 9,
       "date": "2026-04-06T11:57:23Z",
       "tags": [
         "atomicity",
@@ -900,7 +900,7 @@
     {
       "id": "fv61JXUCbeo",
       "title": "Stitch Agent Skills",
-      "views": 30,
+      "views": 120,
       "date": "2026-04-05T21:24:52Z",
       "tags": [
         "ai",
@@ -912,7 +912,7 @@
     {
       "id": "T-NdEF6btbg",
       "title": "The Open Market of Al Coding",
-      "views": 24,
+      "views": 38,
       "date": "2026-04-05T12:38:23Z",
       "tags": [
         "ai",
@@ -925,7 +925,7 @@
     {
       "id": "BT08SXPvV6U",
       "title": "Building vibe-rust",
-      "views": 33,
+      "views": 36,
       "date": "2026-04-04T14:34:30Z",
       "tags": [
         "vibevoice",
@@ -937,7 +937,7 @@
     {
       "id": "z2SA6P7WNoc",
       "title": "Reasoning Under Uncertainty",
-      "views": 37,
+      "views": 89,
       "date": "2026-04-03T22:11:58Z",
       "tags": [
         "reasoning",
@@ -949,7 +949,7 @@
     {
       "id": "54lO6XE-AeQ",
       "title": "The Zero-Copy Architecture",
-      "views": 2911,
+      "views": 3500,
       "date": "2026-04-03T12:29:02Z",
       "tags": [
         "zero-copy",
@@ -961,7 +961,7 @@
     {
       "id": "YoIXlqspLWE",
       "title": "Architecting the Autonomous Enterprise",
-      "views": 17,
+      "views": 19,
       "date": "2026-04-02T22:43:47Z",
       "tags": [
         "ai",
@@ -974,7 +974,7 @@
     {
       "id": "JWeu5aqAkR0",
       "title": "The Transport Revolution: Deconstructing HTTP/3",
-      "views": 173,
+      "views": 176,
       "date": "2026-04-01T22:51:56Z",
       "tags": []
     },
@@ -1070,7 +1070,7 @@
     {
       "id": "yCJDmGrk8sM",
       "title": "Advancing Go Garbage Collection with Green Tea",
-      "views": 136,
+      "views": 137,
       "date": "2026-03-24T22:59:50Z",
       "tags": [
         "go",
@@ -1130,7 +1130,7 @@
     {
       "id": "wyIhJ3LMnRg",
       "title": "W3C Trace Context",
-      "views": 19,
+      "views": 20,
       "date": "2026-03-21T13:19:14Z",
       "tags": [
         "w3c",
@@ -1203,7 +1203,7 @@
     {
       "id": "0HEqwk9UMOc",
       "title": "How to Kill the Code Review",
-      "views": 133,
+      "views": 134,
       "date": "2026-03-18T11:10:57Z",
       "tags": [
         "ai",
@@ -1394,7 +1394,7 @@
     {
       "id": "NztD5fYpXcg",
       "title": "The 10-Lens Research Analysis Framework",
-      "views": 28,
+      "views": 29,
       "date": "2026-03-07T19:42:12Z",
       "tags": [
         "synthesizers",
@@ -1557,7 +1557,7 @@
     {
       "id": "Wa0EHhhKV8Q",
       "title": "Architecting Action: 10 NotebookLM Prompts",
-      "views": 86,
+      "views": 87,
       "date": "2026-02-27T12:49:18Z",
       "tags": [
         "notebooklm",
@@ -1723,7 +1723,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 690,
+      "views": 692,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -1746,7 +1746,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 268,
+      "views": 272,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -1757,7 +1757,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 187,
+      "views": 188,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -1779,7 +1779,7 @@
     {
       "id": "IZX3_9rZeMU",
       "title": "The Hybrid TUI Architecture",
-      "views": 538,
+      "views": 539,
       "date": "2026-02-10T10:11:11Z",
       "tags": [
         "opentui",
@@ -1849,7 +1849,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 102,
+      "views": 105,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -2430,7 +2430,7 @@
     {
       "id": "Zeg8zSOvoyE",
       "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-      "views": 50,
+      "views": 51,
       "date": "2026-03-31T22:42:44Z",
       "tags": [
         "automonmous",
@@ -2604,6 +2604,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-06T12:23:54.698Z",
+  "generatedAt": "2026-04-06T21:05:00.603Z",
   "count": 233
 }
