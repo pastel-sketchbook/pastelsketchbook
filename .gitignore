@@ -1,3 +1,7 @@
 Curiosity_Compounded.md
 Curiosity_Compounded.pdf
 pastel-sketchbook.zip
+
+# Zig build artifacts
+tools/*/zig-out/
+tools/*/.zig-cache/

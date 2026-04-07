@@ -1,0 +1,11 @@
+.{
+    .name = .yt_transcript,
+    .version = "0.1.0",
+    .minimum_zig_version = "0.15.2",
+    .fingerprint = 0xb563dc32f7a67d0a,
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}

@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, cue, rabbitmq, azure, networking, ces, workload, identity]
 sources: 51
-updated: 2026-04-06
+updated: 2026-04-07
 ---
 
 # Kubernetes
@@ -58,7 +58,7 @@ updated: 2026-04-06
 
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 18 views, Apr 1, 2026
 - [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) -- 61 views, Mar 26, 2026
-- [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) -- 66 views, Mar 22, 2026
+- [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) -- 67 views, Mar 22, 2026
 - [The Architecture of Modern Identity](https://youtu.be/n-Yt33ZdEHw) -- 62 views, Mar 18, 2026
 - [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) -- 27 views, Feb 19, 2026
 - [ScyllaDB: The Next-Generation NoSQL Platform](https://youtu.be/mYClRFIlsFc) -- 13 views, Feb 19, 2026
@@ -69,7 +69,7 @@ updated: 2026-04-06
 
 - [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) -- 15 views, Mar 13, 2026
 - [ScyllaDB: The Next-Generation NoSQL Platform](https://youtu.be/mYClRFIlsFc) -- 13 views, Feb 19, 2026
-- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 35 views, Feb 12, 2026
+- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 36 views, Feb 12, 2026
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) -- 26 views, Feb 10, 2026
 - [MotherDuck: Serverless DuckDB in the Cloud & Client](https://youtu.be/BsiQrEaF3kU) -- 26 views, Feb 4, 2026
 - [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) -- 21 views, Jan 31, 2026
@@ -77,8 +77,8 @@ updated: 2026-04-06
 
 ### Messaging (6 videos)
 
-- [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) -- 24 views, Apr 5, 2026
-- [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 20 views, Apr 4, 2026
+- [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) -- 32 views, Apr 5, 2026
+- [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 21 views, Apr 4, 2026
 - [Continuous Flow](https://youtu.be/tcrNdx1yH_E) -- 15 views, Mar 22, 2026
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) -- 46 views, Jan 16, 2026
 - [The Two-System Pattern](https://youtu.be/VxWyvAO3qb8) -- 14 views, Jan 15, 2026
@@ -105,7 +105,7 @@ updated: 2026-04-06
 
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 18 views, Apr 1, 2026
 - [The Golden Path](https://youtu.be/ORjARjbukhY) -- 25 views, Feb 21, 2026
-- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 35 views, Feb 12, 2026
+- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 36 views, Feb 12, 2026
 - [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) -- 21 views, Jan 31, 2026
 - [A Blueprint for Secure Azure Authentication in Go](https://youtu.be/R2zktRqz81U) -- 18 views, Jan 12, 2026
 
@@ -127,7 +127,7 @@ updated: 2026-04-06
 
 ### AI & ML (4 videos)
 
-- [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 20 views, Apr 4, 2026
+- [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 21 views, Apr 4, 2026
 - [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) -- 61 views, Mar 26, 2026
 - [The Architecture of Modern Identity](https://youtu.be/n-Yt33ZdEHw) -- 62 views, Mar 18, 2026
 - [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) -- 18 views, Jan 2, 2026
@@ -141,13 +141,13 @@ updated: 2026-04-06
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Architecting Real-Time State | 24 | Apr 5, 2026 | [Watch](https://youtu.be/WRpjJV4SUKc) |  |
-| 2 | Architecting the edge for HTTP/3 and QUIC | 39 | Apr 4, 2026 | [Watch](https://youtu.be/7Dchx829X_M) |  |
-| 3 | Bridging the Mainframe to the Cloud | 20 | Apr 4, 2026 | [Watch](https://youtu.be/7iWL5-0C66s) |  |
+| 1 | Architecting Real-Time State | 32 | Apr 5, 2026 | [Watch](https://youtu.be/WRpjJV4SUKc) |  |
+| 2 | Architecting the edge for HTTP/3 and QUIC | 56 | Apr 4, 2026 | [Watch](https://youtu.be/7Dchx829X_M) |  |
+| 3 | Bridging the Mainframe to the Cloud | 21 | Apr 4, 2026 | [Watch](https://youtu.be/7iWL5-0C66s) |  |
 | 4 | Advanced Microservices Blueprint on Azure Kubernetes Service | 18 | Apr 1, 2026 | [Watch](https://youtu.be/BiYKKVsJROk) |  |
 | 5 | Azure Enterprise Edge Lab | 8 | Mar 31, 2026 | [Watch](https://youtu.be/fMjflPvjaJ8) |  |
 | 6 | Agentic Platform Engineering with GitHub Copilot | 61 | Mar 26, 2026 | [Watch](https://youtu.be/lexZnOlyml0) |  |
-| 7 | Designing the Event-Driven Landscape | 66 | Mar 22, 2026 | [Watch](https://youtu.be/QE51ybyrQDM) |  |
+| 7 | Designing the Event-Driven Landscape | 67 | Mar 22, 2026 | [Watch](https://youtu.be/QE51ybyrQDM) |  |
 | 8 | Migrating Workloads from AWS to Azure | 7 | Mar 22, 2026 | [Watch](https://youtu.be/RLlEbcXO6k8) |  |
 | 9 | Continuous Flow | 15 | Mar 22, 2026 | [Watch](https://youtu.be/tcrNdx1yH_E) |  |
 | 10 | The Architecture of Modern Identity | 62 | Mar 18, 2026 | [Watch](https://youtu.be/n-Yt33ZdEHw) |  |
@@ -169,7 +169,7 @@ updated: 2026-04-06
 | 26 | Drasi: The Future of Change-Driven Architecture | 47 | Feb 17, 2026 | [Watch](https://youtu.be/5Ztm7JNVa8E) |  |
 | 27 | Advanced Architectural Synthesis | 29 | Feb 15, 2026 | [Watch](https://youtu.be/P_xUJi_qt-Q) |  |
 | 28 | Beyond Static Configuration | 25 | Feb 15, 2026 | [Watch](https://youtu.be/okVlu1qseI4) |  |
-| 29 | BadgerDB: The Go-Native Key-Value Store | 35 | Feb 12, 2026 | [Watch](https://youtu.be/eI2DXGISpbk) |  |
+| 29 | BadgerDB: The Go-Native Key-Value Store | 36 | Feb 12, 2026 | [Watch](https://youtu.be/eI2DXGISpbk) |  |
 | 30 | Architecting Meilisearch on AKS & Istio | 26 | Feb 10, 2026 | [Watch](https://youtu.be/MIZ0ATwu7C0) |  |
 | 31 | Secure Web App with Azure AD/OAuth2 Proxy | 39 | Feb 5, 2026 | [Watch](https://youtu.be/rgY4KTMFOMs) |  |
 | 32 | MotherDuck: Serverless DuckDB in the Cloud & Client | 26 | Feb 4, 2026 | [Watch](https://youtu.be/BsiQrEaF3kU) |  |
@@ -204,4 +204,4 @@ updated: 2026-04-06
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on Apr 6, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 7, 2026. Back to [index](index.md).*

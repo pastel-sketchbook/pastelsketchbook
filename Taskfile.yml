@@ -47,9 +47,21 @@ tasks:
     cmds:
       - ./scripts/branch-delete.sh {{.BRANCH}}
 
+  tools:yt-transcript:
+    desc: Build the yt-transcript CLI (Zig)
+    dir: tools/yt-transcript
+    cmds:
+      - zig build -Doptimize=ReleaseFast
+    sources:
+      - src/**/*.zig
+      - build.zig
+    generates:
+      - zig-out/bin/yt-transcript
+
   wiki:details:
     desc: Generate per-video wiki detail pages (transcript + Gemini summary)
     dir: homepage
+    deps: [tools:yt-transcript]
     cmds:
       - bun scripts/generate-video-details.ts {{.CLI_ARGS | default "--top 10"}}
 

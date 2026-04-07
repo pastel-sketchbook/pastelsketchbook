@@ -16,7 +16,6 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs'
 import { resolve } from 'path'
 import { execSync } from 'child_process'
-import { fetchTranscript } from 'youtube-transcript'
 import { GoogleGenAI } from '@google/genai'
 import { VIDEO_CONFIG } from '../src/config/videos'
 
@@ -144,12 +143,16 @@ function parseArgs(): {
 
 // -- Transcript --
 
+const YT_TRANSCRIPT_BIN = resolve('..', 'tools', 'yt-transcript', 'zig-out', 'bin', 'yt-transcript')
+
 async function getTranscript(videoId: string): Promise<string | null> {
   for (let attempt = 1; attempt <= TRANSCRIPT_RETRIES; attempt++) {
     try {
-      const segments = await fetchTranscript(videoId)
-      const full = segments.map((s) => s.text).join(' ')
-      return full.slice(0, MAX_TRANSCRIPT_CHARS)
+      const result = execSync(
+        `${YT_TRANSCRIPT_BIN} ${videoId} --max-chars ${MAX_TRANSCRIPT_CHARS}`,
+        { encoding: 'utf-8', timeout: 30_000, stdio: ['pipe', 'pipe', 'pipe'] },
+      )
+      return result.trim()
     } catch (err) {
       const msg = err instanceof Error ? err.message : String(err)
       if (attempt < TRANSCRIPT_RETRIES) {

@@ -97,7 +97,7 @@ Triggered by `task wiki:details` (or `bun scripts/generate-video-details.ts`).
 Generates per-video detail pages in `wiki/videos/details/`:
 
 1. Selects videos (default: top 10 by views; supports `--all`, `--category`, `--id`).
-2. Fetches YouTube transcript via `youtube-transcript` package.
+2. Fetches YouTube transcript via `yt-transcript` CLI (`tools/yt-transcript/`).
 3. Summarizes transcript via Gemini (structured JSON: summary, takeaways, topics).
 4. Writes `wiki/videos/details/{video-id}.md` with frontmatter, summary, key
    takeaways, topics covered, and tag links.
