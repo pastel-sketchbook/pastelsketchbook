@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-07T12:38:29.286Z",
-  "totalVideos": 235,
+  "generatedAt": "2026-04-08T12:12:32.976Z",
+  "totalVideos": 237,
   "categories": [
     {
       "name": "korea",
@@ -9,7 +9,7 @@
         "finance"
       ],
       "videoCount": 17,
-      "totalViews": 200,
+      "totalViews": 202,
       "topTags": [
         {
           "tag": "viaje",
@@ -73,7 +73,7 @@
         {
           "id": "z76NXRg1YWs",
           "title": "El Arte de Pedir Comida en Español",
-          "views": 8,
+          "views": 9,
           "date": "2026-04-02T07:27:14Z",
           "category": "korea"
         },
@@ -249,7 +249,7 @@
         {
           "id": "V2cZl5s4EKU",
           "title": "스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작",
-          "views": 21,
+          "views": 22,
           "date": "2025-12-26T23:35:15Z",
           "category": "korea"
         }
@@ -262,8 +262,8 @@
         "korea",
         "development"
       ],
-      "videoCount": 17,
-      "totalViews": 354,
+      "videoCount": 18,
+      "totalViews": 357,
       "topTags": [
         {
           "tag": "stocks",
@@ -296,6 +296,13 @@
         }
       ],
       "videos": [
+        {
+          "id": "HFmkEvxyJE4",
+          "title": "The Final Five Years",
+          "views": 3,
+          "date": "2026-04-08T03:21:12Z",
+          "category": "finance"
+        },
         {
           "id": "hnMR8rdGCnU",
           "title": "The Architecture of Fulfillment",
@@ -428,8 +435,8 @@
         "security",
         "development"
       ],
-      "videoCount": 51,
-      "totalViews": 1308,
+      "videoCount": 52,
+      "totalViews": 1363,
       "topTags": [
         {
           "tag": "aks",
@@ -444,20 +451,32 @@
           "count": 6
         },
         {
-          "tag": "cue",
+          "tag": "rabbitmq",
           "count": 5
         },
         {
-          "tag": "rabbitmq",
-          "count": 4
+          "tag": "cue",
+          "count": 5
         },
         {
           "tag": "azure",
           "count": 4
         },
         {
+          "tag": "hybrid",
+          "count": 3
+        },
+        {
           "tag": "networking",
           "count": 3
+        },
+        {
+          "tag": "debezium",
+          "count": 2
+        },
+        {
+          "tag": "cdc",
+          "count": 2
         },
         {
           "tag": "ces",
@@ -473,10 +492,6 @@
         },
         {
           "tag": "oauth2",
-          "count": 2
-        },
-        {
-          "tag": "hybrid",
           "count": 2
         },
         {
@@ -502,14 +517,6 @@
         {
           "tag": "nats",
           "count": 2
-        },
-        {
-          "tag": "azure event hubs",
-          "count": 2
-        },
-        {
-          "tag": "lifecycle",
-          "count": 2
         }
       ],
       "clusters": [
@@ -519,7 +526,7 @@
             {
               "id": "BiYKKVsJROk",
               "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
-              "views": 18,
+              "views": 19,
               "date": "2026-04-01T10:26:37Z",
               "category": "kubernetes",
               "tags": [
@@ -761,12 +768,133 @@
           ]
         },
         {
+          "name": "Architecture",
+          "videos": [
+            {
+              "id": "KdLQEv3Tiiw",
+              "title": "Mastering Hybrid CDC Architectures",
+              "views": 7,
+              "date": "2026-04-08T02:45:20Z",
+              "category": "kubernetes",
+              "tags": [
+                "debezium",
+                "rabbitmq",
+                "kubenetes",
+                "cdc",
+                "hybrid"
+              ]
+            },
+            {
+              "id": "BiYKKVsJROk",
+              "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
+              "views": 19,
+              "date": "2026-04-01T10:26:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "istio",
+                "argocd",
+                "gitops",
+                "wif"
+              ]
+            },
+            {
+              "id": "lexZnOlyml0",
+              "title": "Agentic Platform Engineering with GitHub Copilot",
+              "views": 63,
+              "date": "2026-03-27T03:34:28Z",
+              "category": "kubernetes",
+              "tags": [
+                "ai",
+                "copilot",
+                "agentic",
+                "platform",
+                "engineering"
+              ]
+            },
+            {
+              "id": "QE51ybyrQDM",
+              "title": "Designing the Event-Driven Landscape",
+              "views": 67,
+              "date": "2026-03-23T04:50:00Z",
+              "category": "kubernetes",
+              "tags": [
+                "ces",
+                "cloudevents",
+                "spec"
+              ]
+            },
+            {
+              "id": "n-Yt33ZdEHw",
+              "title": "The Architecture of Modern Identity",
+              "views": 62,
+              "date": "2026-03-18T23:55:13Z",
+              "category": "kubernetes",
+              "tags": [
+                "identity",
+                "kerberos",
+                "saml",
+                "oauth2",
+                "oidc",
+                "scim"
+              ]
+            },
+            {
+              "id": "rk_3xU9OF-k",
+              "title": "The Modern Platform Framework",
+              "views": 27,
+              "date": "2026-02-19T22:59:21Z",
+              "category": "kubernetes",
+              "tags": [
+                "k8s",
+                "workload",
+                "framework"
+              ]
+            },
+            {
+              "id": "mYClRFIlsFc",
+              "title": "ScyllaDB: The Next-Generation NoSQL Platform",
+              "views": 13,
+              "date": "2026-02-19T13:31:03Z",
+              "category": "kubernetes",
+              "tags": [
+                "nosql",
+                "c++"
+              ]
+            },
+            {
+              "id": "5Ztm7JNVa8E",
+              "title": "Drasi: The Future of Change-Driven Architecture",
+              "views": 47,
+              "date": "2026-02-17T21:28:39Z",
+              "category": "kubernetes",
+              "tags": [
+                "change-driven",
+                "drasi",
+                "continuous queries"
+              ]
+            },
+            {
+              "id": "rJTUB-u8U2Y",
+              "title": "Kubernetes Cluster Architecture",
+              "views": 12,
+              "date": "2026-01-10T03:23:02Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "cluster",
+                "architecture"
+              ]
+            }
+          ]
+        },
+        {
           "name": "Service Mesh",
           "videos": [
             {
               "id": "BiYKKVsJROk",
               "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
-              "views": 18,
+              "views": 19,
               "date": "2026-04-01T10:26:37Z",
               "category": "kubernetes",
               "tags": [
@@ -869,108 +997,99 @@
           ]
         },
         {
-          "name": "Architecture",
+          "name": "Messaging",
           "videos": [
             {
-              "id": "BiYKKVsJROk",
-              "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
-              "views": 18,
-              "date": "2026-04-01T10:26:37Z",
+              "id": "KdLQEv3Tiiw",
+              "title": "Mastering Hybrid CDC Architectures",
+              "views": 7,
+              "date": "2026-04-08T02:45:20Z",
               "category": "kubernetes",
               "tags": [
-                "aks",
-                "istio",
-                "argocd",
-                "gitops",
-                "wif"
+                "debezium",
+                "rabbitmq",
+                "kubenetes",
+                "cdc",
+                "hybrid"
               ]
             },
             {
-              "id": "lexZnOlyml0",
-              "title": "Agentic Platform Engineering with GitHub Copilot",
-              "views": 61,
-              "date": "2026-03-27T03:34:28Z",
+              "id": "WRpjJV4SUKc",
+              "title": "Architecting Real-Time State",
+              "views": 52,
+              "date": "2026-04-05T12:14:36Z",
               "category": "kubernetes",
               "tags": [
-                "ai",
-                "copilot",
-                "agentic",
-                "platform",
-                "engineering"
+                "cdc",
+                "debezium",
+                "rabbitmq",
+                "outbox"
               ]
             },
             {
-              "id": "QE51ybyrQDM",
-              "title": "Designing the Event-Driven Landscape",
-              "views": 67,
-              "date": "2026-03-23T04:50:00Z",
+              "id": "7iWL5-0C66s",
+              "title": "Bridging the Mainframe to the Cloud",
+              "views": 21,
+              "date": "2026-04-04T10:58:19Z",
               "category": "kubernetes",
               "tags": [
-                "ces",
-                "cloudevents",
-                "spec"
+                "mainframe",
+                "ibm mq",
+                "shovel",
+                "rabbitmq"
               ]
             },
             {
-              "id": "n-Yt33ZdEHw",
-              "title": "The Architecture of Modern Identity",
-              "views": 62,
-              "date": "2026-03-18T23:55:13Z",
+              "id": "tcrNdx1yH_E",
+              "title": "Continuous Flow",
+              "views": 15,
+              "date": "2026-03-22T14:47:34Z",
               "category": "kubernetes",
               "tags": [
-                "identity",
-                "kerberos",
-                "saml",
-                "oauth2",
-                "oidc",
-                "scim"
+                "azure",
+                "event hubs",
+                "sql mi",
+                "ces"
               ]
             },
             {
-              "id": "rk_3xU9OF-k",
-              "title": "The Modern Platform Framework",
-              "views": 27,
-              "date": "2026-02-19T22:59:21Z",
+              "id": "0U-SUJCmKAU",
+              "title": "From Stateful to Secure",
+              "views": 46,
+              "date": "2026-01-16T06:38:21Z",
               "category": "kubernetes",
               "tags": [
-                "k8s",
-                "workload",
-                "framework"
-              ]
-            },
-            {
-              "id": "mYClRFIlsFc",
-              "title": "ScyllaDB: The Next-Generation NoSQL Platform",
-              "views": 13,
-              "date": "2026-02-19T13:31:03Z",
-              "category": "kubernetes",
-              "tags": [
-                "nosql",
-                "c++"
-              ]
-            },
-            {
-              "id": "5Ztm7JNVa8E",
-              "title": "Drasi: The Future of Change-Driven Architecture",
-              "views": 47,
-              "date": "2026-02-17T21:28:39Z",
-              "category": "kubernetes",
-              "tags": [
-                "change-driven",
-                "drasi",
-                "continuous queries"
-              ]
-            },
-            {
-              "id": "rJTUB-u8U2Y",
-              "title": "Kubernetes Cluster Architecture",
-              "views": 12,
-              "date": "2026-01-10T03:23:02Z",
-              "category": "kubernetes",
-              "tags": [
+                "stateful",
                 "kubernetes",
-                "cluster",
-                "architecture"
+                "rabbitmq",
+                "mtls"
+              ]
+            },
+            {
+              "id": "VxWyvAO3qb8",
+              "title": "The Two-System Pattern",
+              "views": 14,
+              "date": "2026-01-15T12:59:07Z",
+              "category": "kubernetes",
+              "tags": [
+                "nats",
+                "azure event hubs",
+                "aks",
+                "bridge"
+              ]
+            },
+            {
+              "id": "N4nRAfBZ3BE",
+              "title": "Choosing Your Messaging Fabric on AKS",
+              "views": 5,
+              "date": "2026-01-10T21:55:01Z",
+              "category": "kubernetes",
+              "tags": [
+                "messaging",
+                "aks",
+                "nats",
+                "azure event hubs",
+                "rabbitmq"
               ]
             }
           ]
@@ -1049,90 +1168,6 @@
                 "performance",
                 "aeraki",
                 "aks"
-              ]
-            },
-            {
-              "id": "N4nRAfBZ3BE",
-              "title": "Choosing Your Messaging Fabric on AKS",
-              "views": 5,
-              "date": "2026-01-10T21:55:01Z",
-              "category": "kubernetes",
-              "tags": [
-                "messaging",
-                "aks",
-                "nats",
-                "azure event hubs",
-                "rabbitmq"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Messaging",
-          "videos": [
-            {
-              "id": "WRpjJV4SUKc",
-              "title": "Architecting Real-Time State",
-              "views": 32,
-              "date": "2026-04-05T12:14:36Z",
-              "category": "kubernetes",
-              "tags": [
-                "cdc",
-                "debezium",
-                "rabbitmq",
-                "outbox"
-              ]
-            },
-            {
-              "id": "7iWL5-0C66s",
-              "title": "Bridging the Mainframe to the Cloud",
-              "views": 21,
-              "date": "2026-04-04T10:58:19Z",
-              "category": "kubernetes",
-              "tags": [
-                "mainframe",
-                "ibm mq",
-                "shovel",
-                "rabbitmq"
-              ]
-            },
-            {
-              "id": "tcrNdx1yH_E",
-              "title": "Continuous Flow",
-              "views": 15,
-              "date": "2026-03-22T14:47:34Z",
-              "category": "kubernetes",
-              "tags": [
-                "azure",
-                "event hubs",
-                "sql mi",
-                "ces"
-              ]
-            },
-            {
-              "id": "0U-SUJCmKAU",
-              "title": "From Stateful to Secure",
-              "views": 46,
-              "date": "2026-01-16T06:38:21Z",
-              "category": "kubernetes",
-              "tags": [
-                "stateful",
-                "kubernetes",
-                "rabbitmq",
-                "mtls"
-              ]
-            },
-            {
-              "id": "VxWyvAO3qb8",
-              "title": "The Two-System Pattern",
-              "views": 14,
-              "date": "2026-01-15T12:59:07Z",
-              "category": "kubernetes",
-              "tags": [
-                "nats",
-                "azure event hubs",
-                "aks",
-                "bridge"
               ]
             },
             {
@@ -1236,7 +1271,7 @@
             {
               "id": "BiYKKVsJROk",
               "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
-              "views": 18,
+              "views": 19,
               "date": "2026-04-01T10:26:37Z",
               "category": "kubernetes",
               "tags": [
@@ -1305,7 +1340,7 @@
             {
               "id": "BiYKKVsJROk",
               "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
-              "views": 18,
+              "views": 19,
               "date": "2026-04-01T10:26:37Z",
               "category": "kubernetes",
               "tags": [
@@ -1527,7 +1562,7 @@
             {
               "id": "lexZnOlyml0",
               "title": "Agentic Platform Engineering with GitHub Copilot",
-              "views": 61,
+              "views": 63,
               "date": "2026-03-27T03:34:28Z",
               "category": "kubernetes",
               "tags": [
@@ -1603,9 +1638,23 @@
       ],
       "videos": [
         {
+          "id": "KdLQEv3Tiiw",
+          "title": "Mastering Hybrid CDC Architectures",
+          "views": 7,
+          "date": "2026-04-08T02:45:20Z",
+          "category": "kubernetes",
+          "tags": [
+            "debezium",
+            "rabbitmq",
+            "kubenetes",
+            "cdc",
+            "hybrid"
+          ]
+        },
+        {
           "id": "WRpjJV4SUKc",
           "title": "Architecting Real-Time State",
-          "views": 32,
+          "views": 52,
           "date": "2026-04-05T12:14:36Z",
           "category": "kubernetes",
           "tags": [
@@ -1618,7 +1667,7 @@
         {
           "id": "7Dchx829X_M",
           "title": "Architecting the edge for HTTP/3 and QUIC",
-          "views": 56,
+          "views": 80,
           "date": "2026-04-05T00:11:43Z",
           "category": "kubernetes",
           "tags": [
@@ -1645,7 +1694,7 @@
         {
           "id": "BiYKKVsJROk",
           "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
-          "views": 18,
+          "views": 19,
           "date": "2026-04-01T10:26:37Z",
           "category": "kubernetes",
           "tags": [
@@ -1672,7 +1721,7 @@
         {
           "id": "lexZnOlyml0",
           "title": "Agentic Platform Engineering with GitHub Copilot",
-          "views": 61,
+          "views": 63,
           "date": "2026-03-27T03:34:28Z",
           "category": "kubernetes",
           "tags": [
@@ -1698,7 +1747,7 @@
         {
           "id": "RLlEbcXO6k8",
           "title": "Migrating Workloads from AWS to Azure",
-          "views": 7,
+          "views": 8,
           "date": "2026-03-22T22:39:06Z",
           "category": "kubernetes",
           "tags": [
@@ -2255,7 +2304,7 @@
         "security"
       ],
       "videoCount": 133,
-      "totalViews": 13874,
+      "totalViews": 14054,
       "topTags": [
         {
           "tag": "rust",
@@ -2345,7 +2394,7 @@
             {
               "id": "BT08SXPvV6U",
               "title": "Building vibe-rust",
-              "views": 38,
+              "views": 50,
               "date": "2026-04-04T14:34:30Z",
               "category": "development",
               "tags": [
@@ -2358,7 +2407,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 3927,
+              "views": 3978,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -2598,7 +2647,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 274,
+              "views": 278,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -2842,7 +2891,7 @@
             {
               "id": "fv61JXUCbeo",
               "title": "Stitch Agent Skills",
-              "views": 221,
+              "views": 239,
               "date": "2026-04-05T21:24:52Z",
               "category": "development",
               "tags": [
@@ -2855,7 +2904,7 @@
             {
               "id": "T-NdEF6btbg",
               "title": "The Open Market of Al Coding",
-              "views": 64,
+              "views": 77,
               "date": "2026-04-05T12:38:23Z",
               "category": "development",
               "tags": [
@@ -2869,7 +2918,7 @@
             {
               "id": "z2SA6P7WNoc",
               "title": "Reasoning Under Uncertainty",
-              "views": 130,
+              "views": 136,
               "date": "2026-04-03T22:11:58Z",
               "category": "development",
               "tags": [
@@ -2882,7 +2931,7 @@
             {
               "id": "YoIXlqspLWE",
               "title": "Architecting the Autonomous Enterprise",
-              "views": 19,
+              "views": 21,
               "date": "2026-04-02T22:43:47Z",
               "category": "development",
               "tags": [
@@ -3069,7 +3118,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 634,
+              "views": 635,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -3242,7 +3291,7 @@
             {
               "id": "IYfTi_HNDl4",
               "title": "Building Production-Grade RabbitMQ in Go",
-              "views": 14,
+              "views": 54,
               "date": "2026-04-06T22:28:09Z",
               "category": "development",
               "tags": [
@@ -3493,7 +3542,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 693,
+              "views": 694,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -3501,7 +3550,27 @@
                 "1.26",
                 "go fix",
                 "modernizers"
-              ]
+              ],
+              "detail": {
+                "summary": "Go 1.26 introduces a paradigm shift toward automated modernization, leveraging an AST-based analysis framework to evolve codebases via intent-based refactoring. The release focuses on streamlining developer workflows by providing tools that automatically transition legacy patterns to modern idioms, such as the new expression syntax and refined JSON tag handling.",
+                "takeaways": [
+                  "Go 1.26 shifts from manual refactoring to automated code evolution using a sophisticated AST-based analysis framework.",
+                  "New expression syntax allows for one-step allocation and initialization of pointers to primitive values.",
+                  "Specialized 'modernizer' tools automate the transition to safer and more performant patterns, such as replacing omitempty with omitzero.",
+                  "Developers can selectively apply modernization updates using granular flags to ensure a controlled and predictable migration process.",
+                  "Intelligent inlining helps eliminate technical debt by replacing custom internal utility functions with native Go equivalents."
+                ],
+                "topics": [
+                  "go 1.26",
+                  "automated refactoring",
+                  "abstract syntax tree",
+                  "memory allocation",
+                  "json struct tags",
+                  "performance tuning",
+                  "golang toolchain",
+                  "generics"
+                ]
+              }
             },
             {
               "id": "Qo3oJv4uyBI",
@@ -3591,7 +3660,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 3927,
+              "views": 3978,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -3765,7 +3834,7 @@
             {
               "id": "IYfTi_HNDl4",
               "title": "Building Production-Grade RabbitMQ in Go",
-              "views": 14,
+              "views": 54,
               "date": "2026-04-06T22:28:09Z",
               "category": "development",
               "tags": [
@@ -3915,7 +3984,7 @@
         {
           "id": "ea5lpF3RyzE",
           "title": "RFC 862 and the Echo Protocol",
-          "views": 2,
+          "views": 10,
           "date": "2026-04-07T11:46:58Z",
           "category": "development",
           "tags": [
@@ -3929,7 +3998,7 @@
         {
           "id": "IYfTi_HNDl4",
           "title": "Building Production-Grade RabbitMQ in Go",
-          "views": 14,
+          "views": 54,
           "date": "2026-04-06T22:28:09Z",
           "category": "development",
           "tags": [
@@ -3942,7 +4011,7 @@
         {
           "id": "dDtVuJXVYJk",
           "title": "The Rules and The Rebellion",
-          "views": 12,
+          "views": 20,
           "date": "2026-04-06T11:57:23Z",
           "category": "development",
           "tags": [
@@ -3957,7 +4026,7 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 221,
+          "views": 239,
           "date": "2026-04-05T21:24:52Z",
           "category": "development",
           "tags": [
@@ -3970,7 +4039,7 @@
         {
           "id": "T-NdEF6btbg",
           "title": "The Open Market of Al Coding",
-          "views": 64,
+          "views": 77,
           "date": "2026-04-05T12:38:23Z",
           "category": "development",
           "tags": [
@@ -3984,7 +4053,7 @@
         {
           "id": "BT08SXPvV6U",
           "title": "Building vibe-rust",
-          "views": 38,
+          "views": 50,
           "date": "2026-04-04T14:34:30Z",
           "category": "development",
           "tags": [
@@ -3997,7 +4066,7 @@
         {
           "id": "z2SA6P7WNoc",
           "title": "Reasoning Under Uncertainty",
-          "views": 130,
+          "views": 136,
           "date": "2026-04-03T22:11:58Z",
           "category": "development",
           "tags": [
@@ -4010,7 +4079,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 3927,
+          "views": 3978,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -4043,7 +4112,7 @@
         {
           "id": "YoIXlqspLWE",
           "title": "Architecting the Autonomous Enterprise",
-          "views": 19,
+          "views": 21,
           "date": "2026-04-02T22:43:47Z",
           "category": "development",
           "tags": [
@@ -4057,14 +4126,14 @@
         {
           "id": "JWeu5aqAkR0",
           "title": "The Transport Revolution: Deconstructing HTTP/3",
-          "views": 180,
+          "views": 186,
           "date": "2026-04-01T22:51:56Z",
           "category": "development"
         },
         {
           "id": "oUTf9j6fWJo",
           "title": "Reed: The Modern Terminal File Viewer",
-          "views": 135,
+          "views": 137,
           "date": "2026-03-30T22:20:06Z",
           "category": "development",
           "tags": [
@@ -4485,7 +4554,7 @@
         {
           "id": "7yqkfHo8Mwk",
           "title": "Engineering the Overnight Researcher in Zig",
-          "views": 60,
+          "views": 61,
           "date": "2026-03-09T11:31:08Z",
           "category": "development",
           "tags": [
@@ -4571,7 +4640,7 @@
         {
           "id": "NztD5fYpXcg",
           "title": "The 10-Lens Research Analysis Framework",
-          "views": 29,
+          "views": 30,
           "date": "2026-03-07T19:42:12Z",
           "category": "development",
           "tags": [
@@ -4720,7 +4789,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 634,
+          "views": 635,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -4766,7 +4835,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 87,
+          "views": 89,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -4896,7 +4965,7 @@
         {
           "id": "QBUQvfZJpaM",
           "title": "Modern Cryptography Standards: A Guide to AEAD",
-          "views": 29,
+          "views": 30,
           "date": "2026-02-18T23:24:48Z",
           "category": "development",
           "tags": [
@@ -4946,7 +5015,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 693,
+          "views": 694,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -4954,7 +5023,27 @@
             "1.26",
             "go fix",
             "modernizers"
-          ]
+          ],
+          "detail": {
+            "summary": "Go 1.26 introduces a paradigm shift toward automated modernization, leveraging an AST-based analysis framework to evolve codebases via intent-based refactoring. The release focuses on streamlining developer workflows by providing tools that automatically transition legacy patterns to modern idioms, such as the new expression syntax and refined JSON tag handling.",
+            "takeaways": [
+              "Go 1.26 shifts from manual refactoring to automated code evolution using a sophisticated AST-based analysis framework.",
+              "New expression syntax allows for one-step allocation and initialization of pointers to primitive values.",
+              "Specialized 'modernizer' tools automate the transition to safer and more performant patterns, such as replacing omitempty with omitzero.",
+              "Developers can selectively apply modernization updates using granular flags to ensure a controlled and predictable migration process.",
+              "Intelligent inlining helps eliminate technical debt by replacing custom internal utility functions with native Go equivalents."
+            ],
+            "topics": [
+              "go 1.26",
+              "automated refactoring",
+              "abstract syntax tree",
+              "memory allocation",
+              "json struct tags",
+              "performance tuning",
+              "golang toolchain",
+              "generics"
+            ]
+          }
         },
         {
           "id": "cWozmWrqnxs",
@@ -4990,7 +5079,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 274,
+          "views": 278,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -5162,7 +5251,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 106,
+          "views": 108,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -5267,7 +5356,7 @@
         {
           "id": "o9yaniXkM-0",
           "title": "Practical Data Oriented Design in Zig",
-          "views": 43,
+          "views": 44,
           "date": "2026-01-30T01:28:52Z",
           "category": "development",
           "tags": [
@@ -5821,7 +5910,7 @@
         "development"
       ],
       "videoCount": 9,
-      "totalViews": 229,
+      "totalViews": 233,
       "topTags": [
         {
           "tag": "llm",
@@ -5911,7 +6000,7 @@
             {
               "id": "Zeg8zSOvoyE",
               "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-              "views": 52,
+              "views": 55,
               "date": "2026-03-31T22:42:44Z",
               "category": "security",
               "tags": [
@@ -5937,7 +6026,7 @@
             {
               "id": "CA1nlknmR3g",
               "title": "Containing the Untrusted Agent",
-              "views": 28,
+              "views": 29,
               "date": "2026-03-25T08:25:20Z",
               "category": "security",
               "tags": [
@@ -5968,7 +6057,7 @@
             {
               "id": "Zeg8zSOvoyE",
               "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-              "views": 52,
+              "views": 55,
               "date": "2026-03-31T22:42:44Z",
               "category": "security",
               "tags": [
@@ -5981,7 +6070,7 @@
             {
               "id": "CA1nlknmR3g",
               "title": "Containing the Untrusted Agent",
-              "views": 28,
+              "views": 29,
               "date": "2026-03-25T08:25:20Z",
               "category": "security",
               "tags": [
@@ -6024,7 +6113,7 @@
         {
           "id": "Zeg8zSOvoyE",
           "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-          "views": 52,
+          "views": 55,
           "date": "2026-03-31T22:42:44Z",
           "category": "security",
           "tags": [
@@ -6062,7 +6151,7 @@
         {
           "id": "CA1nlknmR3g",
           "title": "Containing the Untrusted Agent",
-          "views": 28,
+          "views": 29,
           "date": "2026-03-25T08:25:20Z",
           "category": "security",
           "tags": [
@@ -6284,6 +6373,13 @@
       ]
     },
     {
+      "tag": "hybrid",
+      "categories": [
+        "kubernetes",
+        "development"
+      ]
+    },
+    {
       "tag": "copilot",
       "categories": [
         "kubernetes",
@@ -6299,13 +6395,6 @@
     },
     {
       "tag": "oidc",
-      "categories": [
-        "kubernetes",
-        "development"
-      ]
-    },
-    {
-      "tag": "hybrid",
       "categories": [
         "kubernetes",
         "development"

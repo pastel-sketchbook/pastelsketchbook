@@ -3,7 +3,7 @@
     {
       "id": "V2cZl5s4EKU",
       "title": "스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작",
-      "views": 21,
+      "views": 22,
       "date": "2025-12-26T23:35:15Z",
       "tags": []
     },
@@ -166,8 +166,15 @@
     {
       "id": "z76NXRg1YWs",
       "title": "El Arte de Pedir Comida en Español",
-      "views": 8,
+      "views": 9,
       "date": "2026-04-02T07:27:14Z",
+      "tags": []
+    },
+    {
+      "id": "HFmkEvxyJE4",
+      "title": "The Final Five Years",
+      "views": 3,
+      "date": "2026-04-08T03:21:12Z",
       "tags": []
     },
     {
@@ -293,9 +300,22 @@
       ]
     },
     {
+      "id": "KdLQEv3Tiiw",
+      "title": "Mastering Hybrid CDC Architectures",
+      "views": 7,
+      "date": "2026-04-08T02:45:20Z",
+      "tags": [
+        "debezium",
+        "rabbitmq",
+        "kubenetes",
+        "cdc",
+        "hybrid"
+      ]
+    },
+    {
       "id": "WRpjJV4SUKc",
       "title": "Architecting Real-Time State",
-      "views": 32,
+      "views": 52,
       "date": "2026-04-05T12:14:36Z",
       "tags": [
         "cdc",
@@ -307,7 +327,7 @@
     {
       "id": "7Dchx829X_M",
       "title": "Architecting the edge for HTTP/3 and QUIC",
-      "views": 56,
+      "views": 80,
       "date": "2026-04-05T00:11:43Z",
       "tags": [
         "http/3",
@@ -332,7 +352,7 @@
     {
       "id": "BiYKKVsJROk",
       "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
-      "views": 18,
+      "views": 19,
       "date": "2026-04-01T10:26:37Z",
       "tags": [
         "aks",
@@ -357,7 +377,7 @@
     {
       "id": "lexZnOlyml0",
       "title": "Agentic Platform Engineering with GitHub Copilot",
-      "views": 61,
+      "views": 63,
       "date": "2026-03-27T03:34:28Z",
       "tags": [
         "ai",
@@ -381,7 +401,7 @@
     {
       "id": "RLlEbcXO6k8",
       "title": "Migrating Workloads from AWS to Azure",
-      "views": 7,
+      "views": 8,
       "date": "2026-03-22T22:39:06Z",
       "tags": [
         "azure",
@@ -886,7 +906,7 @@
     {
       "id": "ea5lpF3RyzE",
       "title": "RFC 862 and the Echo Protocol",
-      "views": 2,
+      "views": 10,
       "date": "2026-04-07T11:46:58Z",
       "tags": [
         "rfc",
@@ -899,7 +919,7 @@
     {
       "id": "IYfTi_HNDl4",
       "title": "Building Production-Grade RabbitMQ in Go",
-      "views": 14,
+      "views": 54,
       "date": "2026-04-06T22:28:09Z",
       "tags": [
         "go",
@@ -911,7 +931,7 @@
     {
       "id": "dDtVuJXVYJk",
       "title": "The Rules and The Rebellion",
-      "views": 12,
+      "views": 20,
       "date": "2026-04-06T11:57:23Z",
       "tags": [
         "atomicity",
@@ -925,7 +945,7 @@
     {
       "id": "fv61JXUCbeo",
       "title": "Stitch Agent Skills",
-      "views": 221,
+      "views": 239,
       "date": "2026-04-05T21:24:52Z",
       "tags": [
         "ai",
@@ -937,7 +957,7 @@
     {
       "id": "T-NdEF6btbg",
       "title": "The Open Market of Al Coding",
-      "views": 64,
+      "views": 77,
       "date": "2026-04-05T12:38:23Z",
       "tags": [
         "ai",
@@ -950,7 +970,7 @@
     {
       "id": "BT08SXPvV6U",
       "title": "Building vibe-rust",
-      "views": 38,
+      "views": 50,
       "date": "2026-04-04T14:34:30Z",
       "tags": [
         "vibevoice",
@@ -962,7 +982,7 @@
     {
       "id": "z2SA6P7WNoc",
       "title": "Reasoning Under Uncertainty",
-      "views": 130,
+      "views": 136,
       "date": "2026-04-03T22:11:58Z",
       "tags": [
         "reasoning",
@@ -974,7 +994,7 @@
     {
       "id": "54lO6XE-AeQ",
       "title": "The Zero-Copy Architecture",
-      "views": 3927,
+      "views": 3978,
       "date": "2026-04-03T12:29:02Z",
       "tags": [
         "zero-copy",
@@ -986,7 +1006,7 @@
     {
       "id": "YoIXlqspLWE",
       "title": "Architecting the Autonomous Enterprise",
-      "views": 19,
+      "views": 21,
       "date": "2026-04-02T22:43:47Z",
       "tags": [
         "ai",
@@ -999,14 +1019,14 @@
     {
       "id": "JWeu5aqAkR0",
       "title": "The Transport Revolution: Deconstructing HTTP/3",
-      "views": 180,
+      "views": 186,
       "date": "2026-04-01T22:51:56Z",
       "tags": []
     },
     {
       "id": "oUTf9j6fWJo",
       "title": "Reed: The Modern Terminal File Viewer",
-      "views": 135,
+      "views": 137,
       "date": "2026-03-30T22:20:06Z",
       "tags": [
         "libghostty-vt",
@@ -1358,7 +1378,7 @@
     {
       "id": "7yqkfHo8Mwk",
       "title": "Engineering the Overnight Researcher in Zig",
-      "views": 60,
+      "views": 61,
       "date": "2026-03-09T11:31:08Z",
       "tags": [
         "zig",
@@ -1419,7 +1439,7 @@
     {
       "id": "NztD5fYpXcg",
       "title": "The 10-Lens Research Analysis Framework",
-      "views": 29,
+      "views": 30,
       "date": "2026-03-07T19:42:12Z",
       "tags": [
         "synthesizers",
@@ -1557,7 +1577,7 @@
     {
       "id": "JeqaHMmSh1s",
       "title": "The Complete Guide to Building Skills for Claude",
-      "views": 634,
+      "views": 635,
       "date": "2026-02-28T05:29:43Z",
       "tags": [
         "ai",
@@ -1582,7 +1602,7 @@
     {
       "id": "Wa0EHhhKV8Q",
       "title": "Architecting Action: 10 NotebookLM Prompts",
-      "views": 87,
+      "views": 89,
       "date": "2026-02-27T12:49:18Z",
       "tags": [
         "notebooklm",
@@ -1702,7 +1722,7 @@
     {
       "id": "QBUQvfZJpaM",
       "title": "Modern Cryptography Standards: A Guide to AEAD",
-      "views": 29,
+      "views": 30,
       "date": "2026-02-18T23:24:48Z",
       "tags": [
         "aes-256-gcm",
@@ -1748,7 +1768,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 693,
+      "views": 694,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -1771,7 +1791,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 274,
+      "views": 278,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -1874,7 +1894,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 106,
+      "views": 108,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -1971,7 +1991,7 @@
     {
       "id": "o9yaniXkM-0",
       "title": "Practical Data Oriented Design in Zig",
-      "views": 43,
+      "views": 44,
       "date": "2026-01-30T01:28:52Z",
       "tags": [
         "dod",
@@ -2455,7 +2475,7 @@
     {
       "id": "Zeg8zSOvoyE",
       "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-      "views": 52,
+      "views": 55,
       "date": "2026-03-31T22:42:44Z",
       "tags": [
         "automonmous",
@@ -2490,7 +2510,7 @@
     {
       "id": "CA1nlknmR3g",
       "title": "Containing the Untrusted Agent",
-      "views": 28,
+      "views": 29,
       "date": "2026-03-25T08:25:20Z",
       "tags": [
         "security",
@@ -2629,6 +2649,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-07T12:38:29.286Z",
-  "count": 235
+  "generatedAt": "2026-04-08T12:12:32.976Z",
+  "count": 237
 }

@@ -3,7 +3,7 @@ type: category
 category: development
 tags: [rust, zig, go, ai, cli, git, flutter, wasm, tokio, tracing]
 sources: 133
-updated: 2026-04-07
+updated: 2026-04-08
 ---
 
 # Development
@@ -15,7 +15,7 @@ updated: 2026-04-07
 | Metric | Value |
 |--------|-------|
 | Videos | 133 |
-| Total Views | 13.9K |
+| Total Views | 14.1K |
 | Most Recent | Apr 7, 2026 |
 | Oldest | Dec 27, 2025 |
 
@@ -23,8 +23,8 @@ updated: 2026-04-07
 
 ### Rust (32 videos)
 
-- [Building vibe-rust](https://youtu.be/BT08SXPvV6U) -- 38 views, Apr 4, 2026
-- [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) -- 3.9K views, Apr 3, 2026 · [Details](details/54lO6XE-AeQ.md)
+- [Building vibe-rust](https://youtu.be/BT08SXPvV6U) -- 50 views, Apr 4, 2026
+- [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) -- 4.0K views, Apr 3, 2026 · [Details](details/54lO6XE-AeQ.md)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) -- 46 views, Mar 28, 2026
 - [Architectural Evolution of a Vision Tool](https://youtu.be/Qv9X3ZY474U) -- 49 views, Mar 28, 2026 · [Details](details/Qv9X3ZY474U.md)
 - [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) -- 102 views, Mar 22, 2026
@@ -39,7 +39,7 @@ updated: 2026-04-07
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) -- 44 views, Feb 22, 2026
 - [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) -- 63 views, Feb 22, 2026
 - [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) -- 78 views, Feb 14, 2026
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) -- 274 views, Feb 13, 2026 · [Details](details/joYJ6rPN3UI.md)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) -- 278 views, Feb 13, 2026 · [Details](details/joYJ6rPN3UI.md)
 - [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) -- 104 views, Feb 9, 2026
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) -- 86 views, Feb 8, 2026
 - [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) -- 16 views, Feb 6, 2026
@@ -58,10 +58,10 @@ updated: 2026-04-07
 
 ### AI & ML (26 videos)
 
-- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) -- 221 views, Apr 5, 2026
-- [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) -- 64 views, Apr 5, 2026
-- [Reasoning Under Uncertainty](https://youtu.be/z2SA6P7WNoc) -- 130 views, Apr 3, 2026
-- [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) -- 19 views, Apr 2, 2026
+- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) -- 239 views, Apr 5, 2026
+- [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) -- 77 views, Apr 5, 2026
+- [Reasoning Under Uncertainty](https://youtu.be/z2SA6P7WNoc) -- 136 views, Apr 3, 2026
+- [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) -- 21 views, Apr 2, 2026
 - [Building with Gemini: The Unified Ecosystem](https://youtu.be/Y0DQGVALb7I) -- 51 views, Mar 29, 2026
 - [Generative Al at Scale](https://youtu.be/uU46ltIELqk) -- 12 views, Mar 27, 2026
 - [Writing Modern Go in the Age of Al](https://youtu.be/Z90u9EVf4M4) -- 188 views, Mar 26, 2026 · [Details](details/Z90u9EVf4M4.md)
@@ -72,7 +72,7 @@ updated: 2026-04-07
 - [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) -- 70 views, Mar 6, 2026
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) -- 33 views, Mar 4, 2026
 - [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) -- 47 views, Feb 28, 2026
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) -- 634 views, Feb 27, 2026 · [Details](details/JeqaHMmSh1s.md)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) -- 635 views, Feb 27, 2026 · [Details](details/JeqaHMmSh1s.md)
 - [Flutter & Dart: The 2026 Roadmap](https://youtu.be/WMcKFQ200OE) -- 58 views, Feb 27, 2026
 - [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) -- 104 views, Feb 9, 2026
 - [Ralph: The Autonomous Vibe Coding Workflow](https://youtu.be/V2LbQqD1lMM) -- 34 views, Jan 31, 2026
@@ -87,7 +87,7 @@ updated: 2026-04-07
 
 ### Go (24 videos)
 
-- [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) -- 14 views, Apr 6, 2026
+- [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) -- 54 views, Apr 6, 2026
 - [Generative Al at Scale](https://youtu.be/uU46ltIELqk) -- 12 views, Mar 27, 2026
 - [Writing Modern Go in the Age of Al](https://youtu.be/Z90u9EVf4M4) -- 188 views, Mar 26, 2026 · [Details](details/Z90u9EVf4M4.md)
 - [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) -- 139 views, Mar 24, 2026
@@ -105,7 +105,7 @@ updated: 2026-04-07
 - [Design Patterns in Go](https://youtu.be/DazzkNtnzec) -- 109 views, Feb 24, 2026
 - [Composition by Design](https://youtu.be/ARWkoc3E8uE) -- 31 views, Feb 23, 2026
 - [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) -- 63 views, Feb 22, 2026
-- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) -- 693 views, Feb 14, 2026 · [Details](details/zwVDEAKKPZY.md)
+- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) -- 694 views, Feb 14, 2026 · [Details](details/zwVDEAKKPZY.md)
 - [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) -- 189 views, Feb 12, 2026 · [Details](details/Qo3oJv4uyBI.md)
 - [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) -- 104 views, Feb 9, 2026
 - [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) -- 24 views, Feb 6, 2026
@@ -114,7 +114,7 @@ updated: 2026-04-07
 
 ### Architecture (5 videos)
 
-- [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) -- 3.9K views, Apr 3, 2026 · [Details](details/54lO6XE-AeQ.md)
+- [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) -- 4.0K views, Apr 3, 2026 · [Details](details/54lO6XE-AeQ.md)
 - [The Architect's Baton](https://youtu.be/6WRiPikxs-Q) -- 125 views, Mar 7, 2026
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) -- 34 views, Feb 20, 2026
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) -- 30 views, Feb 16, 2026
@@ -130,7 +130,7 @@ updated: 2026-04-07
 
 ### Messaging (4 videos)
 
-- [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) -- 14 views, Apr 6, 2026
+- [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) -- 54 views, Apr 6, 2026
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) -- 37 views, Mar 23, 2026
 - [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) -- 21 views, Mar 21, 2026
 - [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) -- 88 views, Mar 19, 2026
@@ -151,17 +151,17 @@ updated: 2026-04-07
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | RFC 862 and the Echo Protocol | 2 | Apr 7, 2026 | [Watch](https://youtu.be/ea5lpF3RyzE) |  |
-| 2 | Building Production-Grade RabbitMQ in Go | 14 | Apr 6, 2026 | [Watch](https://youtu.be/IYfTi_HNDl4) |  |
-| 3 | The Rules and The Rebellion | 12 | Apr 6, 2026 | [Watch](https://youtu.be/dDtVuJXVYJk) |  |
-| 4 | Stitch Agent Skills | 221 | Apr 5, 2026 | [Watch](https://youtu.be/fv61JXUCbeo) |  |
-| 5 | The Open Market of Al Coding | 64 | Apr 5, 2026 | [Watch](https://youtu.be/T-NdEF6btbg) |  |
-| 6 | Building vibe-rust | 38 | Apr 4, 2026 | [Watch](https://youtu.be/BT08SXPvV6U) |  |
-| 7 | Reasoning Under Uncertainty | 130 | Apr 3, 2026 | [Watch](https://youtu.be/z2SA6P7WNoc) |  |
-| 8 | The Zero-Copy Architecture | 3.9K | Apr 3, 2026 | [Watch](https://youtu.be/54lO6XE-AeQ) | [Wiki](details/54lO6XE-AeQ.md) |
-| 9 | Architecting the Autonomous Enterprise | 19 | Apr 2, 2026 | [Watch](https://youtu.be/YoIXlqspLWE) |  |
-| 10 | The Transport Revolution: Deconstructing HTTP/3 | 180 | Apr 1, 2026 | [Watch](https://youtu.be/JWeu5aqAkR0) |  |
-| 11 | Reed: The Modern Terminal File Viewer | 135 | Mar 30, 2026 | [Watch](https://youtu.be/oUTf9j6fWJo) |  |
+| 1 | RFC 862 and the Echo Protocol | 10 | Apr 7, 2026 | [Watch](https://youtu.be/ea5lpF3RyzE) |  |
+| 2 | Building Production-Grade RabbitMQ in Go | 54 | Apr 6, 2026 | [Watch](https://youtu.be/IYfTi_HNDl4) |  |
+| 3 | The Rules and The Rebellion | 20 | Apr 6, 2026 | [Watch](https://youtu.be/dDtVuJXVYJk) |  |
+| 4 | Stitch Agent Skills | 239 | Apr 5, 2026 | [Watch](https://youtu.be/fv61JXUCbeo) |  |
+| 5 | The Open Market of Al Coding | 77 | Apr 5, 2026 | [Watch](https://youtu.be/T-NdEF6btbg) |  |
+| 6 | Building vibe-rust | 50 | Apr 4, 2026 | [Watch](https://youtu.be/BT08SXPvV6U) |  |
+| 7 | Reasoning Under Uncertainty | 136 | Apr 3, 2026 | [Watch](https://youtu.be/z2SA6P7WNoc) |  |
+| 8 | The Zero-Copy Architecture | 4.0K | Apr 3, 2026 | [Watch](https://youtu.be/54lO6XE-AeQ) | [Wiki](details/54lO6XE-AeQ.md) |
+| 9 | Architecting the Autonomous Enterprise | 21 | Apr 2, 2026 | [Watch](https://youtu.be/YoIXlqspLWE) |  |
+| 10 | The Transport Revolution: Deconstructing HTTP/3 | 186 | Apr 1, 2026 | [Watch](https://youtu.be/JWeu5aqAkR0) |  |
+| 11 | Reed: The Modern Terminal File Viewer | 137 | Mar 30, 2026 | [Watch](https://youtu.be/oUTf9j6fWJo) |  |
 | 12 | Building with Gemini: The Unified Ecosystem | 51 | Mar 29, 2026 | [Watch](https://youtu.be/Y0DQGVALb7I) |  |
 | 13 | Dismantling the Agile Epic | 41 | Mar 29, 2026 | [Watch](https://youtu.be/4i-ruNPOtB4) |  |
 | 14 | Architectural Principles of Fearless Concurrency | 46 | Mar 28, 2026 | [Watch](https://youtu.be/F59lTcC6xJ0) |  |
@@ -190,12 +190,12 @@ updated: 2026-04-07
 | 37 | Mastering Comprehensive Rust | 71 | Mar 11, 2026 | [Watch](https://youtu.be/DIMW-iHlDxE) |  |
 | 38 | The Pragmatic Go Developer | 45 | Mar 10, 2026 | [Watch](https://youtu.be/oxNF_GNuWpE) |  |
 | 39 | Pathways Over Tools | 19 | Mar 9, 2026 | [Watch](https://youtu.be/84M1mVL0cjo) |  |
-| 40 | Engineering the Overnight Researcher in Zig | 60 | Mar 9, 2026 | [Watch](https://youtu.be/7yqkfHo8Mwk) |  |
+| 40 | Engineering the Overnight Researcher in Zig | 61 | Mar 9, 2026 | [Watch](https://youtu.be/7yqkfHo8Mwk) |  |
 | 41 | The Pragmatics of Order | 13 | Mar 8, 2026 | [Watch](https://youtu.be/guwVjGsg3h4) |  |
 | 42 | Teaching an Ancient Calendar to a Microscopic AI | 8 | Mar 8, 2026 | [Watch](https://youtu.be/4wX4mGuiTjw) | [Wiki](details/4wX4mGuiTjw.md) |
 | 43 | A Semantic Operating System | 92 | Mar 8, 2026 | [Watch](https://youtu.be/sGQrnPJSsPc) |  |
 | 44 | The Architect's Baton | 125 | Mar 7, 2026 | [Watch](https://youtu.be/6WRiPikxs-Q) |  |
-| 45 | The 10-Lens Research Analysis Framework | 29 | Mar 7, 2026 | [Watch](https://youtu.be/NztD5fYpXcg) |  |
+| 45 | The 10-Lens Research Analysis Framework | 30 | Mar 7, 2026 | [Watch](https://youtu.be/NztD5fYpXcg) |  |
 | 46 | yp: The Terminal User Interface Renaissance | 70 | Mar 6, 2026 | [Watch](https://youtu.be/vSjgNxi7W-4) |  |
 | 47 | The Essential Algorithmic Toolkit | 55 | Mar 6, 2026 | [Watch](https://youtu.be/nRxqSGBuB4s) |  |
 | 48 | Fuzzy Find Everything | 56 | Mar 4, 2026 | [Watch](https://youtu.be/IkVazryUiko) |  |
@@ -206,9 +206,9 @@ updated: 2026-04-07
 | 53 | melos-rs: Architectural Anatomy | 18 | Mar 1, 2026 | [Watch](https://youtu.be/WahgsFhj3W0) |  |
 | 54 | Modern Observability in Go | 106 | Mar 1, 2026 | [Watch](https://youtu.be/uqZ-mwxGf2c) |  |
 | 55 | microgpt-zig: Atomic Al Training | 47 | Feb 28, 2026 | [Watch](https://youtu.be/AcpVuvtSXwI) |  |
-| 56 | The Complete Guide to Building Skills for Claude | 634 | Feb 27, 2026 | [Watch](https://youtu.be/JeqaHMmSh1s) | [Wiki](details/JeqaHMmSh1s.md) |
+| 56 | The Complete Guide to Building Skills for Claude | 635 | Feb 27, 2026 | [Watch](https://youtu.be/JeqaHMmSh1s) | [Wiki](details/JeqaHMmSh1s.md) |
 | 57 | Flutter & Dart: The 2026 Roadmap | 58 | Feb 27, 2026 | [Watch](https://youtu.be/WMcKFQ200OE) |  |
-| 58 | Architecting Action: 10 NotebookLM Prompts | 87 | Feb 27, 2026 | [Watch](https://youtu.be/Wa0EHhhKV8Q) |  |
+| 58 | Architecting Action: 10 NotebookLM Prompts | 89 | Feb 27, 2026 | [Watch](https://youtu.be/Wa0EHhhKV8Q) |  |
 | 59 | React Native vs. Flutter for Enterprise Apps | 32 | Feb 26, 2026 | [Watch](https://youtu.be/jzjGcFkAnfs) |  |
 | 60 | A Guide to Rust Smart Pointers | 43 | Feb 26, 2026 | [Watch](https://youtu.be/WdK7PED1ug8) |  |
 | 61 | PictureViewer | 15 | Feb 25, 2026 | [Watch](https://youtu.be/HiaotGxHTfo) |  |
@@ -218,13 +218,13 @@ updated: 2026-04-07
 | 65 | Architecting Scalable Rust Backends | 63 | Feb 22, 2026 | [Watch](https://youtu.be/SpNfrWmI8iE) |  |
 | 66 | Cryptographic Usability & The Tink Library | 19 | Feb 21, 2026 | [Watch](https://youtu.be/H-gkXATx8r0) |  |
 | 67 | Modern State Architecture: The Repository Pattern | 34 | Feb 20, 2026 | [Watch](https://youtu.be/3ybGkjogcFQ) |  |
-| 68 | Modern Cryptography Standards: A Guide to AEAD | 29 | Feb 18, 2026 | [Watch](https://youtu.be/QBUQvfZJpaM) |  |
+| 68 | Modern Cryptography Standards: A Guide to AEAD | 30 | Feb 18, 2026 | [Watch](https://youtu.be/QBUQvfZJpaM) |  |
 | 69 | Bulletproof Frontend Architecture | 30 | Feb 16, 2026 | [Watch](https://youtu.be/5Vloo08zQ7o) |  |
 | 70 | The Strategic Synthesis:Shift Left & Shift Right | 20 | Feb 16, 2026 | [Watch](https://youtu.be/5-ZNXQegVhs) |  |
 | 71 | HelixDB: The Unified Graph-Vector Database | 78 | Feb 14, 2026 | [Watch](https://youtu.be/kQc99Io3pCo) |  |
-| 72 | Go 1.26: The Era of Automated Modernization | 693 | Feb 14, 2026 | [Watch](https://youtu.be/zwVDEAKKPZY) | [Wiki](details/zwVDEAKKPZY.md) |
+| 72 | Go 1.26: The Era of Automated Modernization | 694 | Feb 14, 2026 | [Watch](https://youtu.be/zwVDEAKKPZY) | [Wiki](details/zwVDEAKKPZY.md) |
 | 73 | The Repository Pattern | 765 | Feb 13, 2026 | [Watch](https://youtu.be/cWozmWrqnxs) | [Wiki](details/cWozmWrqnxs.md) |
-| 74 | Burn: The Rust Deep Learning Framework | 274 | Feb 13, 2026 | [Watch](https://youtu.be/joYJ6rPN3UI) | [Wiki](details/joYJ6rPN3UI.md) |
+| 74 | Burn: The Rust Deep Learning Framework | 278 | Feb 13, 2026 | [Watch](https://youtu.be/joYJ6rPN3UI) | [Wiki](details/joYJ6rPN3UI.md) |
 | 75 | High-Performance Go: Inside the 1.26 Release | 189 | Feb 12, 2026 | [Watch](https://youtu.be/Qo3oJv4uyBI) | [Wiki](details/Qo3oJv4uyBI.md) |
 | 76 | Compound Engineering | 118 | Feb 11, 2026 | [Watch](https://youtu.be/cEwAbu6FFRo) |  |
 | 77 | The Hybrid TUI Architecture | 539 | Feb 10, 2026 | [Watch](https://youtu.be/IZX3_9rZeMU) | [Wiki](details/IZX3_9rZeMU.md) |
@@ -233,7 +233,7 @@ updated: 2026-04-07
 | 80 | Tokio: The Asynchronous Runtime for Rust | 86 | Feb 8, 2026 | [Watch](https://youtu.be/0Sed1oggMKY) |  |
 | 81 | Zig Algorithms: The Art of Zero-Cost Abstraction | 24 | Feb 6, 2026 | [Watch](https://youtu.be/A96r5gqwUrI) |  |
 | 82 | Mastering Rust Error Handling | 16 | Feb 6, 2026 | [Watch](https://youtu.be/ZlEq2jFb8tI) |  |
-| 83 | Jujutsu (jj) for Git-compatible Workflow | 106 | Feb 5, 2026 | [Watch](https://youtu.be/TmlqoKqMD2Y) |  |
+| 83 | Jujutsu (jj) for Git-compatible Workflow | 108 | Feb 5, 2026 | [Watch](https://youtu.be/TmlqoKqMD2Y) |  |
 | 84 | Jujutsu (jj):  An Introduction of its Paradigm Shift | 115 | Feb 5, 2026 | [Watch](https://youtu.be/5st-kLcNrE8) |  |
 | 85 | A Comprehensive Guide to Zig Fundamentals and Features | 367 | Feb 2, 2026 | [Watch](https://youtu.be/xV2EAL3NAVM) | [Wiki](details/xV2EAL3NAVM.md) |
 | 86 | Modernizing Legacy COBOL | 26 | Feb 1, 2026 | [Watch](https://youtu.be/2Ni8zfsxW6o) |  |
@@ -241,7 +241,7 @@ updated: 2026-04-07
 | 88 | A DeepDive into SIMD & Zig | 80 | Jan 31, 2026 | [Watch](https://youtu.be/TDWC1fFhn9g) |  |
 | 89 | Ralph: The Autonomous Vibe Coding Workflow | 34 | Jan 31, 2026 | [Watch](https://youtu.be/V2LbQqD1lMM) |  |
 | 90 | Memory Layout in Zig | 59 | Jan 29, 2026 | [Watch](https://youtu.be/h31-NtagNoU) |  |
-| 91 | Practical Data Oriented Design in Zig | 43 | Jan 29, 2026 | [Watch](https://youtu.be/o9yaniXkM-0) |  |
+| 91 | Practical Data Oriented Design in Zig | 44 | Jan 29, 2026 | [Watch](https://youtu.be/o9yaniXkM-0) |  |
 | 92 | Mastering Serde in Rust  | 43 | Jan 28, 2026 | [Watch](https://youtu.be/RDa6WtZmW8E) |  |
 | 93 | The Blue Screen Era | 49 | Jan 28, 2026 | [Watch](https://youtu.be/gBb1zn-QtY4) |  |
 | 94 | Velox: Bring Tauri to Swift | 43 | Jan 27, 2026 | [Watch](https://youtu.be/Ul0ixBpd5iM) |  |
@@ -291,10 +291,10 @@ updated: 2026-04-07
 
 ## See Also
 
-- [Kubernetes](kubernetes.md) -- shared tags: `ai`, `shift left`, `rabbitmq`, `copilot`, `identity`, `oidc`, `hybrid`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `composition`, `cqrs`, `go`, `melisearch`, `modern`, `mtls`, `rust`, `messaging`
+- [Kubernetes](kubernetes.md) -- shared tags: `ai`, `shift left`, `rabbitmq`, `hybrid`, `copilot`, `identity`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `composition`, `cqrs`, `go`, `melisearch`, `modern`, `mtls`, `rust`, `messaging`
 - [Programming](programming.md)
 - [Security](security.md) -- shared tags: `ai`, `shift left`, `agent`, `resilience`, `llm`, `ssrf`
 - [Finance](finance.md) -- shared tags: `notebooklm`
 
 ---
-*Auto-generated on Apr 7, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 8, 2026. Back to [index](index.md).*

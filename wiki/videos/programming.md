@@ -3,7 +3,7 @@ type: category
 category: programming
 tags: [알고리즘, vercel, 보안, 대시보드, 영어 공부, 주판]
 sources: 8
-updated: 2026-04-07
+updated: 2026-04-08
 ---
 
 # Programming
@@ -41,4 +41,4 @@ updated: 2026-04-07
 - [Kubernetes](kubernetes.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on Apr 7, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 8, 2026. Back to [index](index.md).*

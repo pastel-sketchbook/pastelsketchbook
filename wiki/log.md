@@ -25,3 +25,7 @@ Synced 235 videos across 6 categories (korea=17, finance=17, kubernetes=51, deve
 ## [2026-04-07] ingest | Video Details
 
 Generated 1 video detail pages (single: zwVDEAKKPZY).
+
+## [2026-04-08] ingest | Video Metadata Sync
+
+Synced 237 videos across 6 categories (korea=17, finance=18, kubernetes=52, development=133, security=9, programming=8).
