@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [stocks, notebooklm]
 sources: 18
-updated: 2026-04-08
+updated: 2026-04-09
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-04-08
 | Metric | Value |
 |--------|-------|
 | Videos | 18 |
-| Total Views | 357 |
+| Total Views | 365 |
 | Most Recent | Apr 7, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -23,15 +23,15 @@ updated: 2026-04-08
 
 ### Architecture (2 videos)
 
-- [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 45 views, Mar 26, 2026
+- [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 46 views, Mar 26, 2026
 - [The architecture of wealth](https://youtu.be/nfD3KzIriM8) -- 8 views, Jan 16, 2026
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | The Final Five Years | 3 | Apr 7, 2026 | [Watch](https://youtu.be/HFmkEvxyJE4) |  |
-| 2 | The Architecture of Fulfillment | 45 | Mar 26, 2026 | [Watch](https://youtu.be/hnMR8rdGCnU) |  |
+| 1 | The Final Five Years | 10 | Apr 7, 2026 | [Watch](https://youtu.be/HFmkEvxyJE4) |  |
+| 2 | The Architecture of Fulfillment | 46 | Mar 26, 2026 | [Watch](https://youtu.be/hnMR8rdGCnU) |  |
 | 3 | The Final 5 Years | 19 | Mar 20, 2026 | [Watch](https://youtu.be/G-vvSNwm-jE) |  |
 | 4 | The Pomology Field Guide | 19 | Mar 19, 2026 | [Watch](https://youtu.be/_LrmdP64y6A) |  |
 | 5 | The 2026 Market Barbell | 9 | Mar 16, 2026 | [Watch](https://youtu.be/2NoJVXPpcco) |  |
@@ -59,4 +59,4 @@ updated: 2026-04-08
 - [Development](development.md) -- shared tags: `notebooklm`
 
 ---
-*Auto-generated on Apr 8, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 9, 2026. Back to [index](index.md).*

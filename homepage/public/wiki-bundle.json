@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-08T12:12:32.976Z",
-  "totalVideos": 237,
+  "generatedAt": "2026-04-09T22:25:42.403Z",
+  "totalVideos": 240,
   "categories": [
     {
       "name": "korea",
@@ -9,7 +9,7 @@
         "finance"
       ],
       "videoCount": 17,
-      "totalViews": 202,
+      "totalViews": 203,
       "topTags": [
         {
           "tag": "viaje",
@@ -73,7 +73,7 @@
         {
           "id": "z76NXRg1YWs",
           "title": "El Arte de Pedir Comida en Español",
-          "views": 9,
+          "views": 10,
           "date": "2026-04-02T07:27:14Z",
           "category": "korea"
         },
@@ -263,7 +263,7 @@
         "development"
       ],
       "videoCount": 18,
-      "totalViews": 357,
+      "totalViews": 365,
       "topTags": [
         {
           "tag": "stocks",
@@ -281,7 +281,7 @@
             {
               "id": "hnMR8rdGCnU",
               "title": "The Architecture of Fulfillment",
-              "views": 45,
+              "views": 46,
               "date": "2026-03-26T11:26:49Z",
               "category": "finance"
             },
@@ -299,14 +299,14 @@
         {
           "id": "HFmkEvxyJE4",
           "title": "The Final Five Years",
-          "views": 3,
+          "views": 10,
           "date": "2026-04-08T03:21:12Z",
           "category": "finance"
         },
         {
           "id": "hnMR8rdGCnU",
           "title": "The Architecture of Fulfillment",
-          "views": 45,
+          "views": 46,
           "date": "2026-03-26T11:26:49Z",
           "category": "finance"
         },
@@ -436,7 +436,7 @@
         "development"
       ],
       "videoCount": 52,
-      "totalViews": 1363,
+      "totalViews": 1392,
       "topTags": [
         {
           "tag": "aks",
@@ -628,7 +628,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 39,
+              "views": 40,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -732,7 +732,7 @@
             {
               "id": "snRi_JET1bg",
               "title": "Deploying CSR Applications on Vercel Versus AKS",
-              "views": 6,
+              "views": 8,
               "date": "2026-01-07T04:11:51Z",
               "category": "kubernetes",
               "tags": [
@@ -773,7 +773,7 @@
             {
               "id": "KdLQEv3Tiiw",
               "title": "Mastering Hybrid CDC Architectures",
-              "views": 7,
+              "views": 14,
               "date": "2026-04-08T02:45:20Z",
               "category": "kubernetes",
               "tags": [
@@ -801,7 +801,7 @@
             {
               "id": "lexZnOlyml0",
               "title": "Agentic Platform Engineering with GitHub Copilot",
-              "views": 63,
+              "views": 64,
               "date": "2026-03-27T03:34:28Z",
               "category": "kubernetes",
               "tags": [
@@ -1002,7 +1002,7 @@
             {
               "id": "KdLQEv3Tiiw",
               "title": "Mastering Hybrid CDC Architectures",
-              "views": 7,
+              "views": 14,
               "date": "2026-04-08T02:45:20Z",
               "category": "kubernetes",
               "tags": [
@@ -1016,7 +1016,7 @@
             {
               "id": "WRpjJV4SUKc",
               "title": "Architecting Real-Time State",
-              "views": 52,
+              "views": 66,
               "date": "2026-04-05T12:14:36Z",
               "category": "kubernetes",
               "tags": [
@@ -1029,7 +1029,7 @@
             {
               "id": "7iWL5-0C66s",
               "title": "Bridging the Mainframe to the Cloud",
-              "views": 21,
+              "views": 22,
               "date": "2026-04-04T10:58:19Z",
               "category": "kubernetes",
               "tags": [
@@ -1192,7 +1192,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 39,
+              "views": 40,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -1438,7 +1438,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 39,
+              "views": 40,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -1549,7 +1549,7 @@
             {
               "id": "7iWL5-0C66s",
               "title": "Bridging the Mainframe to the Cloud",
-              "views": 21,
+              "views": 22,
               "date": "2026-04-04T10:58:19Z",
               "category": "kubernetes",
               "tags": [
@@ -1562,7 +1562,7 @@
             {
               "id": "lexZnOlyml0",
               "title": "Agentic Platform Engineering with GitHub Copilot",
-              "views": 63,
+              "views": 64,
               "date": "2026-03-27T03:34:28Z",
               "category": "kubernetes",
               "tags": [
@@ -1640,7 +1640,7 @@
         {
           "id": "KdLQEv3Tiiw",
           "title": "Mastering Hybrid CDC Architectures",
-          "views": 7,
+          "views": 14,
           "date": "2026-04-08T02:45:20Z",
           "category": "kubernetes",
           "tags": [
@@ -1654,7 +1654,7 @@
         {
           "id": "WRpjJV4SUKc",
           "title": "Architecting Real-Time State",
-          "views": 52,
+          "views": 66,
           "date": "2026-04-05T12:14:36Z",
           "category": "kubernetes",
           "tags": [
@@ -1667,7 +1667,7 @@
         {
           "id": "7Dchx829X_M",
           "title": "Architecting the edge for HTTP/3 and QUIC",
-          "views": 80,
+          "views": 83,
           "date": "2026-04-05T00:11:43Z",
           "category": "kubernetes",
           "tags": [
@@ -1681,7 +1681,7 @@
         {
           "id": "7iWL5-0C66s",
           "title": "Bridging the Mainframe to the Cloud",
-          "views": 21,
+          "views": 22,
           "date": "2026-04-04T10:58:19Z",
           "category": "kubernetes",
           "tags": [
@@ -1721,7 +1721,7 @@
         {
           "id": "lexZnOlyml0",
           "title": "Agentic Platform Engineering with GitHub Copilot",
-          "views": 63,
+          "views": 64,
           "date": "2026-03-27T03:34:28Z",
           "category": "kubernetes",
           "tags": [
@@ -2035,7 +2035,7 @@
         {
           "id": "rgY4KTMFOMs",
           "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-          "views": 39,
+          "views": 40,
           "date": "2026-02-05T14:29:16Z",
           "category": "kubernetes",
           "tags": [
@@ -2260,7 +2260,7 @@
         {
           "id": "snRi_JET1bg",
           "title": "Deploying CSR Applications on Vercel Versus AKS",
-          "views": 6,
+          "views": 8,
           "date": "2026-01-07T04:11:51Z",
           "category": "kubernetes",
           "tags": [
@@ -2303,8 +2303,8 @@
         "programming",
         "security"
       ],
-      "videoCount": 133,
-      "totalViews": 14054,
+      "videoCount": 136,
+      "totalViews": 14213,
       "topTags": [
         {
           "tag": "rust",
@@ -2315,16 +2315,16 @@
           "count": 24
         },
         {
-          "tag": "go",
-          "count": 17
+          "tag": "ai",
+          "count": 18
         },
         {
-          "tag": "ai",
-          "count": 17
+          "tag": "go",
+          "count": 18
         },
         {
           "tag": "cli",
-          "count": 7
+          "count": 8
         },
         {
           "tag": "git",
@@ -2347,6 +2347,10 @@
           "count": 5
         },
         {
+          "tag": "rabbitmq",
+          "count": 4
+        },
+        {
           "tag": "pattern",
           "count": 4
         },
@@ -2363,11 +2367,15 @@
           "count": 4
         },
         {
-          "tag": "echo",
+          "tag": "llm",
           "count": 3
         },
         {
-          "tag": "rabbitmq",
+          "tag": "2026",
+          "count": 3
+        },
+        {
+          "tag": "echo",
           "count": 3
         },
         {
@@ -2376,14 +2384,6 @@
         },
         {
           "tag": "duckdb",
-          "count": 3
-        },
-        {
-          "tag": "observability",
-          "count": 3
-        },
-        {
-          "tag": "demo",
           "count": 3
         }
       ],
@@ -2394,7 +2394,7 @@
             {
               "id": "BT08SXPvV6U",
               "title": "Building vibe-rust",
-              "views": 50,
+              "views": 53,
               "date": "2026-04-04T14:34:30Z",
               "category": "development",
               "tags": [
@@ -2407,7 +2407,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 3978,
+              "views": 4012,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -2440,7 +2440,7 @@
             {
               "id": "F59lTcC6xJ0",
               "title": "Architectural Principles of Fearless Concurrency",
-              "views": 46,
+              "views": 47,
               "date": "2026-03-28T22:00:43Z",
               "category": "development",
               "tags": [
@@ -2454,7 +2454,7 @@
             {
               "id": "Qv9X3ZY474U",
               "title": "Architectural Evolution of a Vision Tool",
-              "views": 49,
+              "views": 50,
               "date": "2026-03-28T13:11:01Z",
               "category": "development",
               "tags": [
@@ -2647,7 +2647,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 278,
+              "views": 284,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -2793,7 +2793,7 @@
             {
               "id": "xVmoqBYlQMU",
               "title": "Mastering Rust Feature Flags",
-              "views": 53,
+              "views": 54,
               "date": "2026-01-19T17:09:56Z",
               "category": "development",
               "tags": [
@@ -2848,7 +2848,7 @@
             {
               "id": "7zFqW-ZcEbo",
               "title": "The Rust Architect's Sketchbook",
-              "views": 90,
+              "views": 91,
               "date": "2026-01-09T00:15:35Z",
               "category": "development",
               "tags": [
@@ -2875,7 +2875,7 @@
             {
               "id": "axvxGj3yOgA",
               "title": "The Memory Management Trilemma",
-              "views": 30,
+              "views": 31,
               "date": "2026-01-07T03:10:14Z",
               "category": "development",
               "tags": [
@@ -2889,22 +2889,37 @@
           "name": "AI & ML",
           "videos": [
             {
+              "id": "BzvpasWYESU",
+              "title": "The LLM Wiki Paradigm",
+              "views": 3,
+              "date": "2026-04-09T22:17:25Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "llm",
+                "rag",
+                "wiki",
+                "markdown"
+              ]
+            },
+            {
               "id": "fv61JXUCbeo",
               "title": "Stitch Agent Skills",
-              "views": 239,
+              "views": 255,
               "date": "2026-04-05T21:24:52Z",
               "category": "development",
               "tags": [
                 "ai",
                 "stitch",
                 "design",
-                "agent"
+                "agent",
+                "skill"
               ]
             },
             {
               "id": "T-NdEF6btbg",
               "title": "The Open Market of Al Coding",
-              "views": 77,
+              "views": 78,
               "date": "2026-04-05T12:38:23Z",
               "category": "development",
               "tags": [
@@ -2918,7 +2933,7 @@
             {
               "id": "z2SA6P7WNoc",
               "title": "Reasoning Under Uncertainty",
-              "views": 136,
+              "views": 141,
               "date": "2026-04-03T22:11:58Z",
               "category": "development",
               "tags": [
@@ -2931,7 +2946,7 @@
             {
               "id": "YoIXlqspLWE",
               "title": "Architecting the Autonomous Enterprise",
-              "views": 21,
+              "views": 22,
               "date": "2026-04-02T22:43:47Z",
               "category": "development",
               "tags": [
@@ -2972,7 +2987,7 @@
             {
               "id": "Z90u9EVf4M4",
               "title": "Writing Modern Go in the Age of Al",
-              "views": 188,
+              "views": 189,
               "date": "2026-03-26T22:28:15Z",
               "category": "development",
               "tags": [
@@ -3118,7 +3133,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 635,
+              "views": 636,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -3289,9 +3304,21 @@
           "name": "Go",
           "videos": [
             {
+              "id": "MuDJGnGTn3k",
+              "title": "Leetgo",
+              "views": 4,
+              "date": "2026-04-09T09:55:24Z",
+              "category": "development",
+              "tags": [
+                "leetcode",
+                "cli",
+                "go"
+              ]
+            },
+            {
               "id": "IYfTi_HNDl4",
               "title": "Building Production-Grade RabbitMQ in Go",
-              "views": 54,
+              "views": 65,
               "date": "2026-04-06T22:28:09Z",
               "category": "development",
               "tags": [
@@ -3318,7 +3345,7 @@
             {
               "id": "Z90u9EVf4M4",
               "title": "Writing Modern Go in the Age of Al",
-              "views": 188,
+              "views": 189,
               "date": "2026-03-26T22:28:15Z",
               "category": "development",
               "tags": [
@@ -3350,7 +3377,7 @@
             {
               "id": "yCJDmGrk8sM",
               "title": "Advancing Go Garbage Collection with Green Tea",
-              "views": 139,
+              "views": 140,
               "date": "2026-03-24T22:59:50Z",
               "category": "development",
               "tags": [
@@ -3388,7 +3415,7 @@
             {
               "id": "CXtHwJQphLI",
               "title": "Production-Ready RabbitMQ in Go",
-              "views": 88,
+              "views": 89,
               "date": "2026-03-20T03:40:50Z",
               "category": "development",
               "tags": [
@@ -3463,7 +3490,7 @@
             {
               "id": "Hfut9CfJhN0",
               "title": "Bubble Tea v2",
-              "views": 45,
+              "views": 47,
               "date": "2026-03-02T12:02:38Z",
               "category": "development",
               "tags": [
@@ -3489,7 +3516,7 @@
             {
               "id": "uqZ-mwxGf2c",
               "title": "Modern Observability in Go",
-              "views": 106,
+              "views": 107,
               "date": "2026-03-01T14:36:52Z",
               "category": "development",
               "tags": [
@@ -3542,7 +3569,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 694,
+              "views": 697,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -3575,7 +3602,7 @@
             {
               "id": "Qo3oJv4uyBI",
               "title": "High-Performance Go: Inside the 1.26 Release",
-              "views": 189,
+              "views": 190,
               "date": "2026-02-12T13:08:12Z",
               "category": "development",
               "tags": [
@@ -3655,12 +3682,163 @@
           ]
         },
         {
+          "name": "Data & Databases",
+          "videos": [
+            {
+              "id": "am9FvNiJ24M",
+              "title": "The 2026 Change Data Capture Blueprint",
+              "views": 11,
+              "date": "2026-04-08T22:14:35Z",
+              "category": "development",
+              "tags": [
+                "cdc",
+                "debezium",
+                "rabbitmq",
+                "scylladb",
+                "2026"
+              ]
+            },
+            {
+              "id": "ymYtSum-2qc",
+              "title": "zig-duckdb-ext",
+              "views": 59,
+              "date": "2026-03-24T09:56:13Z",
+              "category": "development",
+              "tags": [
+                "zig",
+                "extension",
+                "duckdb"
+              ]
+            },
+            {
+              "id": "ZBW6YozOu78",
+              "title": "Serverless Analytics with DuckDB & Python",
+              "views": 35,
+              "date": "2026-03-15T01:12:59Z",
+              "category": "development",
+              "tags": [
+                "python",
+                "duckdb",
+                "demo"
+              ]
+            },
+            {
+              "id": "gu-5cim8mpA",
+              "title": "The Modern Al/BI Developer's Toolkit",
+              "views": 20,
+              "date": "2026-03-14T20:10:34Z",
+              "category": "development",
+              "tags": [
+                "python",
+                "uv",
+                "toolkit",
+                "duckdb"
+              ]
+            },
+            {
+              "id": "kQc99Io3pCo",
+              "title": "HelixDB: The Unified Graph-Vector Database",
+              "views": 78,
+              "date": "2026-02-14T22:47:13Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "graph-vector"
+              ]
+            },
+            {
+              "id": "KDnTY0Svmr0",
+              "title": "AEM + Meilisearch: A High-Performance Integration",
+              "views": 14,
+              "date": "2026-02-10T07:27:32Z",
+              "category": "development",
+              "tags": [
+                "melisearch",
+                "aem"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Messaging",
+          "videos": [
+            {
+              "id": "am9FvNiJ24M",
+              "title": "The 2026 Change Data Capture Blueprint",
+              "views": 11,
+              "date": "2026-04-08T22:14:35Z",
+              "category": "development",
+              "tags": [
+                "cdc",
+                "debezium",
+                "rabbitmq",
+                "scylladb",
+                "2026"
+              ]
+            },
+            {
+              "id": "IYfTi_HNDl4",
+              "title": "Building Production-Grade RabbitMQ in Go",
+              "views": 65,
+              "date": "2026-04-06T22:28:09Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "rabbitmq",
+                "pattern",
+                "production"
+              ]
+            },
+            {
+              "id": "INNKxTAagE4",
+              "title": "Resilient Asynchronous Systems in Go",
+              "views": 37,
+              "date": "2026-03-24T02:07:42Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "rabbitmq",
+                "echo",
+                "opentelemetry",
+                "observability"
+              ]
+            },
+            {
+              "id": "wyIhJ3LMnRg",
+              "title": "W3C Trace Context",
+              "views": 22,
+              "date": "2026-03-21T13:19:14Z",
+              "category": "development",
+              "tags": [
+                "w3c",
+                "context",
+                "messaging",
+                "tracing",
+                "distributed"
+              ]
+            },
+            {
+              "id": "CXtHwJQphLI",
+              "title": "Production-Ready RabbitMQ in Go",
+              "views": 89,
+              "date": "2026-03-20T03:40:50Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "rabbitmq",
+                "pattern",
+                "messaging"
+              ]
+            }
+          ]
+        },
+        {
           "name": "Architecture",
           "videos": [
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 3978,
+              "views": 4012,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -3765,129 +3943,6 @@
           ]
         },
         {
-          "name": "Data & Databases",
-          "videos": [
-            {
-              "id": "ymYtSum-2qc",
-              "title": "zig-duckdb-ext",
-              "views": 59,
-              "date": "2026-03-24T09:56:13Z",
-              "category": "development",
-              "tags": [
-                "zig",
-                "extension",
-                "duckdb"
-              ]
-            },
-            {
-              "id": "ZBW6YozOu78",
-              "title": "Serverless Analytics with DuckDB & Python",
-              "views": 34,
-              "date": "2026-03-15T01:12:59Z",
-              "category": "development",
-              "tags": [
-                "python",
-                "duckdb",
-                "demo"
-              ]
-            },
-            {
-              "id": "gu-5cim8mpA",
-              "title": "The Modern Al/BI Developer's Toolkit",
-              "views": 20,
-              "date": "2026-03-14T20:10:34Z",
-              "category": "development",
-              "tags": [
-                "python",
-                "uv",
-                "toolkit",
-                "duckdb"
-              ]
-            },
-            {
-              "id": "kQc99Io3pCo",
-              "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 78,
-              "date": "2026-02-14T22:47:13Z",
-              "category": "development",
-              "tags": [
-                "rust",
-                "graph-vector"
-              ]
-            },
-            {
-              "id": "KDnTY0Svmr0",
-              "title": "AEM + Meilisearch: A High-Performance Integration",
-              "views": 14,
-              "date": "2026-02-10T07:27:32Z",
-              "category": "development",
-              "tags": [
-                "melisearch",
-                "aem"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Messaging",
-          "videos": [
-            {
-              "id": "IYfTi_HNDl4",
-              "title": "Building Production-Grade RabbitMQ in Go",
-              "views": 54,
-              "date": "2026-04-06T22:28:09Z",
-              "category": "development",
-              "tags": [
-                "go",
-                "rabbitmq",
-                "pattern",
-                "production"
-              ]
-            },
-            {
-              "id": "INNKxTAagE4",
-              "title": "Resilient Asynchronous Systems in Go",
-              "views": 37,
-              "date": "2026-03-24T02:07:42Z",
-              "category": "development",
-              "tags": [
-                "go",
-                "rabbitmq",
-                "echo",
-                "opentelemetry",
-                "observability"
-              ]
-            },
-            {
-              "id": "wyIhJ3LMnRg",
-              "title": "W3C Trace Context",
-              "views": 21,
-              "date": "2026-03-21T13:19:14Z",
-              "category": "development",
-              "tags": [
-                "w3c",
-                "context",
-                "messaging",
-                "tracing",
-                "distributed"
-              ]
-            },
-            {
-              "id": "CXtHwJQphLI",
-              "title": "Production-Ready RabbitMQ in Go",
-              "views": 88,
-              "date": "2026-03-20T03:40:50Z",
-              "category": "development",
-              "tags": [
-                "go",
-                "rabbitmq",
-                "pattern",
-                "messaging"
-              ]
-            }
-          ]
-        },
-        {
           "name": "Identity & Auth",
           "videos": [
             {
@@ -3982,9 +4037,49 @@
       ],
       "videos": [
         {
+          "id": "BzvpasWYESU",
+          "title": "The LLM Wiki Paradigm",
+          "views": 3,
+          "date": "2026-04-09T22:17:25Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "llm",
+            "rag",
+            "wiki",
+            "markdown"
+          ]
+        },
+        {
+          "id": "MuDJGnGTn3k",
+          "title": "Leetgo",
+          "views": 4,
+          "date": "2026-04-09T09:55:24Z",
+          "category": "development",
+          "tags": [
+            "leetcode",
+            "cli",
+            "go"
+          ]
+        },
+        {
+          "id": "am9FvNiJ24M",
+          "title": "The 2026 Change Data Capture Blueprint",
+          "views": 11,
+          "date": "2026-04-08T22:14:35Z",
+          "category": "development",
+          "tags": [
+            "cdc",
+            "debezium",
+            "rabbitmq",
+            "scylladb",
+            "2026"
+          ]
+        },
+        {
           "id": "ea5lpF3RyzE",
           "title": "RFC 862 and the Echo Protocol",
-          "views": 10,
+          "views": 25,
           "date": "2026-04-07T11:46:58Z",
           "category": "development",
           "tags": [
@@ -3998,7 +4093,7 @@
         {
           "id": "IYfTi_HNDl4",
           "title": "Building Production-Grade RabbitMQ in Go",
-          "views": 54,
+          "views": 65,
           "date": "2026-04-06T22:28:09Z",
           "category": "development",
           "tags": [
@@ -4011,7 +4106,7 @@
         {
           "id": "dDtVuJXVYJk",
           "title": "The Rules and The Rebellion",
-          "views": 20,
+          "views": 27,
           "date": "2026-04-06T11:57:23Z",
           "category": "development",
           "tags": [
@@ -4026,20 +4121,21 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 239,
+          "views": 255,
           "date": "2026-04-05T21:24:52Z",
           "category": "development",
           "tags": [
             "ai",
             "stitch",
             "design",
-            "agent"
+            "agent",
+            "skill"
           ]
         },
         {
           "id": "T-NdEF6btbg",
           "title": "The Open Market of Al Coding",
-          "views": 77,
+          "views": 78,
           "date": "2026-04-05T12:38:23Z",
           "category": "development",
           "tags": [
@@ -4053,7 +4149,7 @@
         {
           "id": "BT08SXPvV6U",
           "title": "Building vibe-rust",
-          "views": 50,
+          "views": 53,
           "date": "2026-04-04T14:34:30Z",
           "category": "development",
           "tags": [
@@ -4066,7 +4162,7 @@
         {
           "id": "z2SA6P7WNoc",
           "title": "Reasoning Under Uncertainty",
-          "views": 136,
+          "views": 141,
           "date": "2026-04-03T22:11:58Z",
           "category": "development",
           "tags": [
@@ -4079,7 +4175,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 3978,
+          "views": 4012,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -4112,7 +4208,7 @@
         {
           "id": "YoIXlqspLWE",
           "title": "Architecting the Autonomous Enterprise",
-          "views": 21,
+          "views": 22,
           "date": "2026-04-02T22:43:47Z",
           "category": "development",
           "tags": [
@@ -4126,7 +4222,7 @@
         {
           "id": "JWeu5aqAkR0",
           "title": "The Transport Revolution: Deconstructing HTTP/3",
-          "views": 186,
+          "views": 190,
           "date": "2026-04-01T22:51:56Z",
           "category": "development"
         },
@@ -4175,7 +4271,7 @@
         {
           "id": "F59lTcC6xJ0",
           "title": "Architectural Principles of Fearless Concurrency",
-          "views": 46,
+          "views": 47,
           "date": "2026-03-28T22:00:43Z",
           "category": "development",
           "tags": [
@@ -4189,7 +4285,7 @@
         {
           "id": "Qv9X3ZY474U",
           "title": "Architectural Evolution of a Vision Tool",
-          "views": 49,
+          "views": 50,
           "date": "2026-03-28T13:11:01Z",
           "category": "development",
           "tags": [
@@ -4237,7 +4333,7 @@
         {
           "id": "Z90u9EVf4M4",
           "title": "Writing Modern Go in the Age of Al",
-          "views": 188,
+          "views": 189,
           "date": "2026-03-26T22:28:15Z",
           "category": "development",
           "tags": [
@@ -4269,7 +4365,7 @@
         {
           "id": "yCJDmGrk8sM",
           "title": "Advancing Go Garbage Collection with Green Tea",
-          "views": 139,
+          "views": 140,
           "date": "2026-03-24T22:59:50Z",
           "category": "development",
           "tags": [
@@ -4307,7 +4403,7 @@
         {
           "id": "zrP3muXzQX4",
           "title": "Reins: The Framework for Al-Assisted Development",
-          "views": 54,
+          "views": 55,
           "date": "2026-03-23T11:19:38Z",
           "category": "development",
           "tags": [
@@ -4334,7 +4430,7 @@
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
-          "views": 21,
+          "views": 22,
           "date": "2026-03-21T13:19:14Z",
           "category": "development",
           "tags": [
@@ -4387,7 +4483,7 @@
         {
           "id": "CXtHwJQphLI",
           "title": "Production-Ready RabbitMQ in Go",
-          "views": 88,
+          "views": 89,
           "date": "2026-03-20T03:40:50Z",
           "category": "development",
           "tags": [
@@ -4451,7 +4547,7 @@
         {
           "id": "ZBW6YozOu78",
           "title": "Serverless Analytics with DuckDB & Python",
-          "views": 34,
+          "views": 35,
           "date": "2026-03-15T01:12:59Z",
           "category": "development",
           "tags": [
@@ -4554,7 +4650,7 @@
         {
           "id": "7yqkfHo8Mwk",
           "title": "Engineering the Overnight Researcher in Zig",
-          "views": 61,
+          "views": 62,
           "date": "2026-03-09T11:31:08Z",
           "category": "development",
           "tags": [
@@ -4724,7 +4820,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 152,
+          "views": 154,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -4736,7 +4832,7 @@
         {
           "id": "Hfut9CfJhN0",
           "title": "Bubble Tea v2",
-          "views": 45,
+          "views": 47,
           "date": "2026-03-02T12:02:38Z",
           "category": "development",
           "tags": [
@@ -4762,7 +4858,7 @@
         {
           "id": "uqZ-mwxGf2c",
           "title": "Modern Observability in Go",
-          "views": 106,
+          "views": 107,
           "date": "2026-03-01T14:36:52Z",
           "category": "development",
           "tags": [
@@ -4789,7 +4885,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 635,
+          "views": 636,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -4835,7 +4931,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 89,
+          "views": 90,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -5015,7 +5111,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 694,
+          "views": 697,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -5048,7 +5144,7 @@
         {
           "id": "cWozmWrqnxs",
           "title": "The Repository Pattern",
-          "views": 765,
+          "views": 768,
           "date": "2026-02-13T18:01:39Z",
           "category": "development",
           "tags": [
@@ -5079,7 +5175,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 278,
+          "views": 284,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -5111,7 +5207,7 @@
         {
           "id": "Qo3oJv4uyBI",
           "title": "High-Performance Go: Inside the 1.26 Release",
-          "views": 189,
+          "views": 190,
           "date": "2026-02-12T13:08:12Z",
           "category": "development",
           "tags": [
@@ -5143,7 +5239,7 @@
         {
           "id": "cEwAbu6FFRo",
           "title": "Compound Engineering",
-          "views": 118,
+          "views": 120,
           "date": "2026-02-11T13:08:01Z",
           "category": "development",
           "tags": [
@@ -5251,7 +5347,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 108,
+          "views": 111,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -5277,7 +5373,7 @@
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 367,
+          "views": 371,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -5356,7 +5452,7 @@
         {
           "id": "o9yaniXkM-0",
           "title": "Practical Data Oriented Design in Zig",
-          "views": 44,
+          "views": 46,
           "date": "2026-01-30T01:28:52Z",
           "category": "development",
           "tags": [
@@ -5445,7 +5541,7 @@
         {
           "id": "3Fpey_L_XRU",
           "title": "Cloth Simulation ",
-          "views": 12,
+          "views": 13,
           "date": "2026-01-25T22:13:48Z",
           "category": "development",
           "tags": [
@@ -5548,7 +5644,7 @@
         {
           "id": "xVmoqBYlQMU",
           "title": "Mastering Rust Feature Flags",
-          "views": 53,
+          "views": 54,
           "date": "2026-01-19T17:09:56Z",
           "category": "development",
           "tags": [
@@ -5743,7 +5839,7 @@
         {
           "id": "7zFqW-ZcEbo",
           "title": "The Rust Architect's Sketchbook",
-          "views": 90,
+          "views": 91,
           "date": "2026-01-09T00:15:35Z",
           "category": "development",
           "tags": [
@@ -5795,7 +5891,7 @@
         {
           "id": "axvxGj3yOgA",
           "title": "The Memory Management Trilemma",
-          "views": 30,
+          "views": 31,
           "date": "2026-01-07T03:10:14Z",
           "category": "development",
           "tags": [
@@ -5910,7 +6006,7 @@
         "development"
       ],
       "videoCount": 9,
-      "totalViews": 233,
+      "totalViews": 241,
       "topTags": [
         {
           "tag": "llm",
@@ -6000,7 +6096,7 @@
             {
               "id": "Zeg8zSOvoyE",
               "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-              "views": 55,
+              "views": 57,
               "date": "2026-03-31T22:42:44Z",
               "category": "security",
               "tags": [
@@ -6026,7 +6122,7 @@
             {
               "id": "CA1nlknmR3g",
               "title": "Containing the Untrusted Agent",
-              "views": 29,
+              "views": 30,
               "date": "2026-03-25T08:25:20Z",
               "category": "security",
               "tags": [
@@ -6057,7 +6153,7 @@
             {
               "id": "Zeg8zSOvoyE",
               "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-              "views": 55,
+              "views": 57,
               "date": "2026-03-31T22:42:44Z",
               "category": "security",
               "tags": [
@@ -6070,7 +6166,7 @@
             {
               "id": "CA1nlknmR3g",
               "title": "Containing the Untrusted Agent",
-              "views": 29,
+              "views": 30,
               "date": "2026-03-25T08:25:20Z",
               "category": "security",
               "tags": [
@@ -6082,7 +6178,7 @@
             {
               "id": "1VjSLqfPf9s",
               "title": "The NIST Cybersecurity Framework 2.0",
-              "views": 15,
+              "views": 16,
               "date": "2026-03-08T22:36:56Z",
               "category": "security",
               "tags": [
@@ -6113,7 +6209,7 @@
         {
           "id": "Zeg8zSOvoyE",
           "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-          "views": 55,
+          "views": 57,
           "date": "2026-03-31T22:42:44Z",
           "category": "security",
           "tags": [
@@ -6126,7 +6222,7 @@
         {
           "id": "HxB-cJIbEgE",
           "title": "2FA Orchestration in PingFederate",
-          "views": 6,
+          "views": 7,
           "date": "2026-03-29T14:37:03Z",
           "category": "security",
           "tags": [
@@ -6151,7 +6247,7 @@
         {
           "id": "CA1nlknmR3g",
           "title": "Containing the Untrusted Agent",
-          "views": 29,
+          "views": 30,
           "date": "2026-03-25T08:25:20Z",
           "category": "security",
           "tags": [
@@ -6163,7 +6259,7 @@
         {
           "id": "1VjSLqfPf9s",
           "title": "The NIST Cybersecurity Framework 2.0",
-          "views": 15,
+          "views": 16,
           "date": "2026-03-08T22:36:56Z",
           "category": "security",
           "tags": [
@@ -6218,7 +6314,7 @@
         {
           "id": "JfGgWiiCTA0",
           "title": "Shannon: Autonomous Penetration Testing",
-          "views": 37,
+          "views": 40,
           "date": "2026-02-14T10:04:10Z",
           "category": "security",
           "tags": [
@@ -6366,7 +6462,21 @@
       ]
     },
     {
+      "tag": "debezium",
+      "categories": [
+        "kubernetes",
+        "development"
+      ]
+    },
+    {
       "tag": "rabbitmq",
+      "categories": [
+        "kubernetes",
+        "development"
+      ]
+    },
+    {
+      "tag": "cdc",
       "categories": [
         "kubernetes",
         "development"
@@ -6430,20 +6540,6 @@
     },
     {
       "tag": "tui",
-      "categories": [
-        "kubernetes",
-        "development"
-      ]
-    },
-    {
-      "tag": "composition",
-      "categories": [
-        "kubernetes",
-        "development"
-      ]
-    },
-    {
-      "tag": "cqrs",
       "categories": [
         "kubernetes",
         "development"
