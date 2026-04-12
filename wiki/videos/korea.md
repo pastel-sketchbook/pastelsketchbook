@@ -3,7 +3,7 @@ type: category
 category: korea
 tags: [viaje, corea, seul, jeju, ganghwa, sokcho, daejeon, danyang, jinju, yeosu]
 sources: 17
-updated: 2026-04-09
+updated: 2026-04-12
 ---
 
 # Korea
@@ -15,14 +15,14 @@ updated: 2026-04-09
 | Metric | Value |
 |--------|-------|
 | Videos | 17 |
-| Total Views | 203 |
+| Total Views | 205 |
 | Most Recent | Apr 2, 2026 |
 | Oldest | Dec 26, 2025 |
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | El Arte de Pedir Comida en Español | 10 | Apr 2, 2026 | [Watch](https://youtu.be/z76NXRg1YWs) |  |
+| 1 | El Arte de Pedir Comida en Español | 11 | Apr 2, 2026 | [Watch](https://youtu.be/z76NXRg1YWs) |  |
 | 2 | Guía de Supervivencia en Latinoamérica | 10 | Mar 27, 2026 | [Watch](https://youtu.be/vH8kEIlJXf0) |  |
 | 3 | Guía de Supervivencia: Español para tu Llegada a Latinoamérica | 7 | Mar 15, 2026 | [Watch](https://youtu.be/oSqbvvcADmI) |  |
 | 4 | Seúl 2026: Tu Diario de Viaje | 13 | Feb 11, 2026 | [Watch](https://youtu.be/kvdBJSRUchA) |  |
@@ -31,7 +31,7 @@ updated: 2026-04-09
 | 7 | Un Viaje a Sokcho | 17 | Feb 4, 2026 | [Watch](https://youtu.be/QLcNRIHYmj0) |  |
 | 8 | Bocetos de Daejeon | 15 | Feb 3, 2026 | [Watch](https://youtu.be/nxuaOP3C1Ns) |  |
 | 9 | Hasta pronto, Danyang | 10 | Feb 2, 2026 | [Watch](https://youtu.be/awa_UWXFOao) |  |
-| 10 | Jinju y Jirisan: el Valor a la Sabiduría | 17 | Jan 4, 2026 | [Watch](https://youtu.be/drVBXipEOAs) |  |
+| 10 | Jinju y Jirisan: el Valor a la Sabiduría | 18 | Jan 4, 2026 | [Watch](https://youtu.be/drVBXipEOAs) |  |
 | 11 | Mi Cuaderno de Viaje: Yeosu | 10 | Jan 4, 2026 | [Watch](https://youtu.be/JlPl9MskqJM) |  |
 | 12 | Jeonju y Gochang: Apuntes de Corea | 15 | Jan 4, 2026 | [Watch](https://youtu.be/EvcUSPWkOA8) |  |
 | 13 | Mi Cuaderno de Viaje: Andong | 16 | Jan 3, 2026 | [Watch](https://youtu.be/CASZX56r-tk) |  |
@@ -49,4 +49,4 @@ updated: 2026-04-09
 - [Finance](finance.md)
 
 ---
-*Auto-generated on Apr 9, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 12, 2026. Back to [index](index.md).*
