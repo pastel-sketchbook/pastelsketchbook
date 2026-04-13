@@ -322,7 +322,7 @@
     {
       "id": "oHdhgeF4wlI",
       "title": "A Trillion Transactions",
-      "views": 6,
+      "views": 15,
       "date": "2026-04-12T14:38:25Z",
       "tags": [
         "curiosity",
@@ -334,7 +334,7 @@
     {
       "id": "a8heWpae5p0",
       "title": "minikv: Distributed Systems Meets Data Science",
-      "views": 12,
+      "views": 13,
       "date": "2026-04-12T04:50:10Z",
       "tags": [
         "rust",
@@ -755,7 +755,7 @@
     {
       "id": "KpSjLQpswW4",
       "title": "Secure Service-to-Service Authorization with SpiceDB",
-      "views": 28,
+      "views": 29,
       "date": "2026-01-27T11:21:16Z",
       "tags": [
         "spicedb",
@@ -948,9 +948,23 @@
       ]
     },
     {
+      "id": "tyR8SdHpOeY",
+      "title": "Book-Finder Architecture",
+      "views": 6,
+      "date": "2026-04-13T00:06:42Z",
+      "tags": [
+        "zig",
+        "franklin",
+        "open library",
+        "library of congress",
+        "marc",
+        "wasm"
+      ]
+    },
+    {
       "id": "-tZGlR8Zztg",
       "title": "The Illusion of Design",
-      "views": 17,
+      "views": 18,
       "date": "2026-04-11T07:48:34Z",
       "tags": [
         "curiosity",
@@ -962,7 +976,7 @@
     {
       "id": "QC-vaMcjq3M",
       "title": "zig-lottie: Compiling Motion",
-      "views": 44,
+      "views": 48,
       "date": "2026-04-11T05:33:18Z",
       "tags": [
         "zig",
@@ -974,7 +988,7 @@
     {
       "id": "s585HlqiyMQ",
       "title": "The Calculus of ALOHA Networks",
-      "views": 43,
+      "views": 47,
       "date": "2026-04-10T19:12:04Z",
       "tags": [
         "curiosity",
@@ -996,7 +1010,7 @@
     {
       "id": "TEGFwsAcxK8",
       "title": "Agent Skills for Flutter",
-      "views": 54,
+      "views": 63,
       "date": "2026-04-10T13:02:35Z",
       "tags": [
         "ai",
@@ -1008,7 +1022,7 @@
     {
       "id": "BzvpasWYESU",
       "title": "The LLM Wiki Paradigm",
-      "views": 1783,
+      "views": 2046,
       "date": "2026-04-09T22:17:25Z",
       "tags": [
         "ai",
@@ -1021,7 +1035,7 @@
     {
       "id": "MuDJGnGTn3k",
       "title": "Leetgo",
-      "views": 52,
+      "views": 51,
       "date": "2026-04-09T09:55:24Z",
       "tags": [
         "leetcode",
@@ -1058,7 +1072,7 @@
     {
       "id": "IYfTi_HNDl4",
       "title": "Building Production-Grade RabbitMQ in Go",
-      "views": 72,
+      "views": 71,
       "date": "2026-04-06T22:28:09Z",
       "tags": [
         "go",
@@ -1070,7 +1084,7 @@
     {
       "id": "dDtVuJXVYJk",
       "title": "The Rules and The Rebellion",
-      "views": 29,
+      "views": 27,
       "date": "2026-04-06T11:57:23Z",
       "tags": [
         "atomicity",
@@ -1134,7 +1148,7 @@
     {
       "id": "54lO6XE-AeQ",
       "title": "The Zero-Copy Architecture",
-      "views": 4058,
+      "views": 4062,
       "date": "2026-04-03T12:29:02Z",
       "tags": [
         "zero-copy",
@@ -1446,7 +1460,7 @@
     {
       "id": "a2kADxV0kBM",
       "title": "zig-twitter: Anatomy of a Hybrid Terminal Client",
-      "views": 32,
+      "views": 33,
       "date": "2026-03-14T09:13:27Z",
       "tags": [
         "zig",
@@ -1908,7 +1922,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 707,
+      "views": 708,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -1920,7 +1934,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 770,
+      "views": 771,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -1931,7 +1945,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 298,
+      "views": 299,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -2034,7 +2048,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 113,
+      "views": 114,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -2615,7 +2629,7 @@
     {
       "id": "u8XCBK6lGw0",
       "title": "Custom Graphs in Microsoft Sentinel (Preview)",
-      "views": 27,
+      "views": 28,
       "date": "2026-04-11T15:44:17Z",
       "tags": [
         "sentinel",
@@ -2801,6 +2815,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-12T20:49:33.592Z",
-  "count": 250
+  "generatedAt": "2026-04-13T04:48:00.232Z",
+  "count": 251
 }

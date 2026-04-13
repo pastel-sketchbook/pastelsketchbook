@@ -3,7 +3,7 @@ type: category
 category: programming
 tags: [알고리즘, vercel, 보안, 대시보드, 영어 공부, 주판]
 sources: 8
-updated: 2026-04-12
+updated: 2026-04-13
 ---
 
 # Programming

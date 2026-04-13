@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-04-12
+updated: 2026-04-13
 ---
 
 # Pastel Sketchbook Wiki
@@ -10,7 +10,7 @@ Built following the [LLM Wiki pattern](llm-wiki.md).
 
 ## Sections
 
-- [Videos](videos/index.md) -- 250 videos across 6 categories.
+- [Videos](videos/index.md) -- 251 videos across 6 categories.
 
 ## How to Use
 

@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [llm, security, nist, sentinel, context, custom graph, fabric, automonmous, ai, zero-day]
 sources: 10
-updated: 2026-04-12
+updated: 2026-04-13
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-04-12
 | Metric | Value |
 |--------|-------|
 | Videos | 10 |
-| Total Views | 287 |
+| Total Views | 288 |
 | Most Recent | Apr 11, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -39,7 +39,7 @@ updated: 2026-04-12
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Custom Graphs in Microsoft Sentinel (Preview) | 27 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) |  |
+| 1 | Custom Graphs in Microsoft Sentinel (Preview) | 28 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) |  |
 | 2 | Black-Hat LLMs: The End of the 20-Year Security Balance | 64 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) |  |
 | 3 | 2FA Orchestration in PingFederate | 8 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) |  |
 | 4 | Anatomy of a Supply Chain Attack | 31 | Mar 26, 2026 | [Watch](https://youtu.be/taBP0Fr3uSQ) |  |

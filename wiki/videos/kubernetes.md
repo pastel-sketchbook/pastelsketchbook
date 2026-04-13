@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, rabbitmq, cue, azure, hybrid, networking, rust, debezium]
 sources: 54
-updated: 2026-04-12
+updated: 2026-04-13
 ---
 
 # Kubernetes
@@ -89,7 +89,7 @@ updated: 2026-04-12
 ### Security (6 videos)
 
 - [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) -- 40 views, Feb 5, 2026
-- [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) -- 28 views, Jan 27, 2026
+- [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) -- 29 views, Jan 27, 2026
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 42 views, Jan 17, 2026
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) -- 46 views, Jan 16, 2026
 - [A Blueprint for Secure Azure Authentication in Go](https://youtu.be/R2zktRqz81U) -- 18 views, Jan 12, 2026
@@ -136,7 +136,7 @@ updated: 2026-04-12
 
 ### Rust (3 videos)
 
-- [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) -- 12 views, Apr 11, 2026
+- [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) -- 13 views, Apr 11, 2026
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 42 views, Jan 17, 2026
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) -- 23 views, Jan 14, 2026
 
@@ -144,8 +144,8 @@ updated: 2026-04-12
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | A Trillion Transactions | 6 | Apr 12, 2026 | [Watch](https://youtu.be/oHdhgeF4wlI) |  |
-| 2 | minikv: Distributed Systems Meets Data Science | 12 | Apr 11, 2026 | [Watch](https://youtu.be/a8heWpae5p0) |  |
+| 1 | A Trillion Transactions | 15 | Apr 12, 2026 | [Watch](https://youtu.be/oHdhgeF4wlI) |  |
+| 2 | minikv: Distributed Systems Meets Data Science | 13 | Apr 11, 2026 | [Watch](https://youtu.be/a8heWpae5p0) |  |
 | 3 | Mastering Hybrid CDC Architectures | 14 | Apr 7, 2026 | [Watch](https://youtu.be/KdLQEv3Tiiw) |  |
 | 4 | Architecting Real-Time State | 67 | Apr 5, 2026 | [Watch](https://youtu.be/WRpjJV4SUKc) |  |
 | 5 | Architecting the edge for HTTP/3 and QUIC | 84 | Apr 4, 2026 | [Watch](https://youtu.be/7Dchx829X_M) |  |
@@ -181,7 +181,7 @@ updated: 2026-04-12
 | 35 | MotherDuck: Serverless DuckDB in the Cloud & Client | 26 | Feb 4, 2026 | [Watch](https://youtu.be/BsiQrEaF3kU) |  |
 | 36 | Dragonfly on AKS | 21 | Jan 31, 2026 | [Watch](https://youtu.be/Q4qm1hvVR2A) |  |
 | 37 | The 2026 Architectural Standard | 54 | Jan 31, 2026 | [Watch](https://youtu.be/WHonjixQgBY) |  |
-| 38 | Secure Service-to-Service Authorization with SpiceDB | 28 | Jan 27, 2026 | [Watch](https://youtu.be/KpSjLQpswW4) |  |
+| 38 | Secure Service-to-Service Authorization with SpiceDB | 29 | Jan 27, 2026 | [Watch](https://youtu.be/KpSjLQpswW4) |  |
 | 39 | Zero Trust in Kubernetes | 42 | Jan 17, 2026 | [Watch](https://youtu.be/4b-H6ZaoNUE) |  |
 | 40 | The 100+ Service Problem | 27 | Jan 16, 2026 | [Watch](https://youtu.be/_sxPf3tHq3s) |  |
 | 41 | From Stateful to Secure | 46 | Jan 16, 2026 | [Watch](https://youtu.be/0U-SUJCmKAU) |  |
