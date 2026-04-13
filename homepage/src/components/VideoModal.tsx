@@ -10,6 +10,18 @@ interface VideoModalProps {
 export function VideoModal({ videoId, onClose }: VideoModalProps) {
     const [scale, setScale] = useState<number>(VIDEO_MODAL_CONFIG.scale.INITIAL)
     const [isHoveringControls, setIsHoveringControls] = useState(false)
+    const [copied, setCopied] = useState(false)
+
+    const handleCopyUrl = async () => {
+        if (!videoId) return
+        try {
+            await navigator.clipboard.writeText(`https://www.youtube.com/watch?v=${videoId}`)
+            setCopied(true)
+            setTimeout(() => setCopied(false), 2000)
+        } catch (err) {
+            console.error('Failed to copy URL:', err)
+        }
+    }
     const { MIN: MIN_SCALE, MAX: MAX_SCALE, STEP: SCALE_STEP } = VIDEO_MODAL_CONFIG.scale
     const { MIN: MIN_OPACITY, MAX: MAX_OPACITY } = VIDEO_MODAL_CONFIG.opacity
 
@@ -69,15 +81,33 @@ export function VideoModal({ videoId, onClose }: VideoModalProps) {
                         className="relative w-full max-w-5xl aspect-video bg-white sketch-border border-pastel-dark/10 shadow-2xl overflow-hidden rounded-2xl"
                         onClick={(e) => e.stopPropagation()}
                     >
-                        <button
-                            className="absolute top-4 right-4 z-10 p-2 bg-white rounded-full text-pastel-dark hover:bg-white transition-colors shadow-sm"
-                            onClick={onClose}
-                            aria-label="Close video"
-                        >
-                            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
-                            </svg>
-                        </button>
+                        <div className="absolute top-4 right-4 z-10 flex items-center gap-2">
+                            <button
+                                className="p-2 bg-white rounded-full text-pastel-dark hover:bg-white transition-colors shadow-sm"
+                                onClick={handleCopyUrl}
+                                aria-label="Copy YouTube URL"
+                                title="Copy YouTube URL"
+                            >
+                                {copied ? (
+                                    <svg className="w-5 h-5 text-[#5F7D61]" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                                    </svg>
+                                ) : (
+                                    <svg className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" d="M13.19 8.688a4.5 4.5 0 011.242 7.244l-4.5 4.5a4.5 4.5 0 01-6.364-6.364l1.757-1.757m9.193-9.193a4.5 4.5 0 00-6.364 0l-4.5 4.5a4.5 4.5 0 001.242 7.244" />
+                                    </svg>
+                                )}
+                            </button>
+                            <button
+                                className="p-2 bg-white rounded-full text-pastel-dark hover:bg-white transition-colors shadow-sm"
+                                onClick={onClose}
+                                aria-label="Close video"
+                            >
+                                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
+                                </svg>
+                            </button>
+                        </div>
 
                         <motion.div
                             className="absolute bottom-0 left-1/2 -translate-x-1/2 z-10 flex gap-1.5 items-center pb-2"

@@ -1,4 +1,5 @@
 import { createFileRoute, Link } from '@tanstack/react-router'
+import { useState } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import { ChunkErrorBoundary } from '../src/components/ui/ChunkErrorBoundary'
 import { motion } from 'framer-motion'
@@ -30,6 +31,18 @@ function findVideo(
 
 function VideoDetail() {
   const { id } = Route.useParams()
+  const [isPlaying, setIsPlaying] = useState(false)
+  const [copied, setCopied] = useState(false)
+
+  const handleCopyUrl = async () => {
+    try {
+      await navigator.clipboard.writeText(`https://www.youtube.com/watch?v=${id}`)
+      setCopied(true)
+      setTimeout(() => setCopied(false), 2000)
+    } catch (err) {
+      console.error('Failed to copy URL:', err)
+    }
+  }
 
   const {
     data: wiki,
@@ -182,37 +195,47 @@ function VideoDetail() {
           <span>{fmtDate(video.date)}</span>
         </motion.div>
 
-        {/* YouTube thumbnail + link */}
+        {/* Video player */}
         <motion.div
           initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.15 }}
           className="mb-10"
         >
-          <a
-            href={`https://youtu.be/${video.id}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="block relative group rounded-xl overflow-hidden sketch-border border-[#1B3022]/5"
-          >
-            <img
-              src={`https://img.youtube.com/vi/${video.id}/maxresdefault.jpg`}
-              alt={video.title}
-              className="w-full aspect-video object-cover transition-transform duration-500 group-hover:scale-105"
-            />
-            <div className="absolute inset-0 flex items-center justify-center bg-[#1B3022]/10 group-hover:bg-[#1B3022]/20 transition-colors">
-              <div className="w-16 h-16 bg-white/90 backdrop-blur-sm rounded-full flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
-                <svg
-                  className="w-8 h-8 text-[#E76F51] ml-1"
-                  fill="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M8 5v14l11-7z" />
-                </svg>
-              </div>
-            </div>
-          </a>
-          <div className="mt-3 text-center">
+          <div className="relative rounded-xl overflow-hidden sketch-border border-[#1B3022]/5">
+            {isPlaying ? (
+              <iframe
+                src={`https://www.youtube.com/embed/${video.id}?autoplay=1`}
+                className="w-full aspect-video"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              />
+            ) : (
+              <button
+                onClick={() => setIsPlaying(true)}
+                className="block w-full relative group cursor-pointer"
+                aria-label={`Play ${video.title}`}
+              >
+                <img
+                  src={`https://img.youtube.com/vi/${video.id}/maxresdefault.jpg`}
+                  alt={video.title}
+                  className="w-full aspect-video object-cover transition-transform duration-500 group-hover:scale-105"
+                />
+                <div className="absolute inset-0 flex items-center justify-center bg-[#1B3022]/10 group-hover:bg-[#1B3022]/20 transition-colors">
+                  <div className="w-16 h-16 bg-white/90 backdrop-blur-sm rounded-full flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
+                    <svg
+                      className="w-8 h-8 text-[#E76F51] ml-1"
+                      fill="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path d="M8 5v14l11-7z" />
+                    </svg>
+                  </div>
+                </div>
+              </button>
+            )}
+          </div>
+          <div className="mt-3 flex items-center justify-center gap-4">
             <a
               href={`https://youtu.be/${video.id}`}
               target="_blank"
@@ -234,6 +257,27 @@ function VideoDetail() {
               </svg>
               Watch on YouTube
             </a>
+            <button
+              onClick={handleCopyUrl}
+              className="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-widest text-[#5F7D61] hover:text-[#1B3022] transition-colors"
+              aria-label="Copy YouTube URL"
+            >
+              {copied ? (
+                <>
+                  <svg className="w-4 h-4 text-[#5F7D61]" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                  </svg>
+                  Copied!
+                </>
+              ) : (
+                <>
+                  <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M13.19 8.688a4.5 4.5 0 011.242 7.244l-4.5 4.5a4.5 4.5 0 01-6.364-6.364l1.757-1.757m9.193-9.193a4.5 4.5 0 00-6.364 0l-4.5 4.5a4.5 4.5 0 001.242 7.244" />
+                  </svg>
+                  Copy URL
+                </>
+              )}
+            </button>
           </div>
         </motion.div>
 

@@ -2,6 +2,7 @@ import { createFileRoute, Link, useSearch } from '@tanstack/react-router'
 import { useState, useEffect } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import { ChunkErrorBoundary } from '../src/components/ui/ChunkErrorBoundary'
+import { VideoModal } from '../src/components/VideoModal'
 import { motion, AnimatePresence } from 'framer-motion'
 import { fetchWikiBundle, fmtViews, fmtDate, catLabel } from '../src/utils/wiki'
 
@@ -26,6 +27,7 @@ function Wiki() {
   const [expandedClusters, setExpandedClusters] = useState<Set<string>>(
     new Set(),
   )
+  const [playingVideoId, setPlayingVideoId] = useState<string | null>(null)
 
   const {
     data: wiki,
@@ -352,24 +354,35 @@ function Wiki() {
                             >
                               <div className="px-4 pb-4 space-y-2">
                                 {cluster.videos.map((v) => (
-                                  <Link
+                                  <div
                                     key={v.id}
-                                    to="/wiki/video/$id"
-                                    params={{ id: v.id }}
                                     className="flex items-center justify-between py-2 px-3 rounded-lg hover:bg-[#FAF9F6] transition-colors group"
                                   >
-                                    <span className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors truncate mr-4 flex items-center gap-1.5">
+                                    <button
+                                      onClick={() => setPlayingVideoId(v.id)}
+                                      className="flex-shrink-0 w-7 h-7 rounded-full bg-[#E76F51]/10 text-[#E76F51] flex items-center justify-center hover:bg-[#E76F51]/20 transition-colors mr-3"
+                                      aria-label={`Play ${v.title}`}
+                                    >
+                                      <svg className="w-3 h-3 ml-0.5" fill="currentColor" viewBox="0 0 24 24">
+                                        <path d="M8 5v14l11-7z" />
+                                      </svg>
+                                    </button>
+                                    <Link
+                                      to="/wiki/video/$id"
+                                      params={{ id: v.id }}
+                                      className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors truncate mr-4 flex items-center gap-1.5 flex-1"
+                                    >
                                       {v.title}
                                       {v.detail && (
                                         <svg className="w-4 h-4 text-[#E76F51] flex-shrink-0" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" aria-label="Has wiki summary">
                                           <path strokeLinecap="round" strokeLinejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                                         </svg>
                                       )}
-                                    </span>
+                                    </Link>
                                     <span className="text-xs text-[#5F7D61] font-semibold flex-shrink-0">
                                       {fmtViews(v.views)} views
                                     </span>
-                                  </Link>
+                                  </div>
                                 ))}
                               </div>
                             </motion.div>
@@ -409,30 +422,41 @@ function Wiki() {
                 <div className="bg-white rounded-xl sketch-border border-[#1B3022]/5 overflow-hidden">
                   <div className="divide-y divide-[#1B3022]/5">
                     {selected.videos.map((v, i) => (
-                      <Link
+                      <div
                         key={v.id}
-                        to="/wiki/video/$id"
-                        params={{ id: v.id }}
                         className="flex items-center gap-4 p-4 hover:bg-[#FAF9F6] transition-colors group"
                       >
                         <span className="text-xs text-[#1B3022]/20 font-bold w-8 text-right flex-shrink-0">
                           {i + 1}
                         </span>
-                        <span className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors flex-1 truncate flex items-center gap-1.5">
+                        <button
+                          onClick={() => setPlayingVideoId(v.id)}
+                          className="flex-shrink-0 w-7 h-7 rounded-full bg-[#E76F51]/10 text-[#E76F51] flex items-center justify-center hover:bg-[#E76F51]/20 transition-colors"
+                          aria-label={`Play ${v.title}`}
+                        >
+                          <svg className="w-3 h-3 ml-0.5" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M8 5v14l11-7z" />
+                          </svg>
+                        </button>
+                        <Link
+                          to="/wiki/video/$id"
+                          params={{ id: v.id }}
+                          className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors flex-1 truncate flex items-center gap-1.5"
+                        >
                           {v.title}
                           {v.detail && (
                             <svg className="w-4 h-4 text-[#E76F51] flex-shrink-0" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" aria-label="Has wiki summary">
                               <path strokeLinecap="round" strokeLinejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                             </svg>
                           )}
-                        </span>
+                        </Link>
                         <span className="text-xs text-[#5F7D61] font-semibold flex-shrink-0">
                           {fmtViews(v.views)}
                         </span>
                         <span className="text-xs text-[#1B3022]/60 flex-shrink-0 hidden sm:block">
                           {fmtDate(v.date)}
                         </span>
-                      </Link>
+                      </div>
                     ))}
                   </div>
                 </div>
@@ -446,6 +470,11 @@ function Wiki() {
           Last updated: {fmtDate(wiki.generatedAt)}
         </div>
       </div>
+
+      <VideoModal
+        videoId={playingVideoId}
+        onClose={() => setPlayingVideoId(null)}
+      />
     </div>
   )
 }
