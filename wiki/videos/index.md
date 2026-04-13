@@ -14,9 +14,9 @@ The LLM reads this index first to locate relevant pages when answering queries.
 | Metric | Value |
 |--------|-------|
 | Total Videos | 251 |
-| Total Views | 19.3K |
+| Total Views | 19.4K |
 | Categories | 6 |
-| Last Updated | Apr 12, 2026 |
+| Last Updated | Apr 13, 2026 |
 
 ## Categories
 
@@ -26,7 +26,7 @@ Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 20 videos, 376 total views.
+Videos covering personal finance, investing, and economics. 20 videos, 381 total views.
 
 ### [Kubernetes](kubernetes.md)
 
@@ -34,11 +34,11 @@ Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 142 videos, 16.8K total views.
+Videos about software development, tools, workflows, and engineering practices. 142 videos, 16.9K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 10 videos, 288 total views.
+Videos on cybersecurity, application security, and security engineering. 10 videos, 290 total views.
 
 ### [Programming](programming.md)
 
@@ -67,4 +67,4 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `duckdb` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Apr 12, 2026. See [wiki index](../index.md).*
+*Auto-generated on Apr 13, 2026. See [wiki index](../index.md).*

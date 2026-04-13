@@ -15,7 +15,7 @@ updated: 2026-04-13
 | Metric | Value |
 |--------|-------|
 | Videos | 20 |
-| Total Views | 376 |
+| Total Views | 381 |
 | Most Recent | Apr 12, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -30,8 +30,8 @@ updated: 2026-04-13
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Nesting in Global Finance | 2 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) |  |
-| 2 | The Mystery of the Nickel Coke | 7 | Apr 10, 2026 | [Watch](https://youtu.be/l9UUqD2Bz2E) |  |
+| 1 | Nesting in Global Finance | 6 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) |  |
+| 2 | The Mystery of the Nickel Coke | 8 | Apr 10, 2026 | [Watch](https://youtu.be/l9UUqD2Bz2E) |  |
 | 3 | The Final Five Years | 12 | Apr 7, 2026 | [Watch](https://youtu.be/HFmkEvxyJE4) |  |
 | 4 | The Architecture of Fulfillment | 46 | Mar 26, 2026 | [Watch](https://youtu.be/hnMR8rdGCnU) |  |
 | 5 | The Final 5 Years | 19 | Mar 20, 2026 | [Watch](https://youtu.be/G-vvSNwm-jE) |  |
@@ -62,4 +62,4 @@ updated: 2026-04-13
 - [Kubernetes](kubernetes.md) -- shared tags: `curiosity`
 
 ---
-*Auto-generated on Apr 12, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 13, 2026. Back to [index](index.md).*

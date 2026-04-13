@@ -136,7 +136,7 @@ updated: 2026-04-13
 
 ### Rust (3 videos)
 
-- [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) -- 13 views, Apr 11, 2026
+- [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) -- 14 views, Apr 11, 2026
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 42 views, Jan 17, 2026
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) -- 23 views, Jan 14, 2026
 
@@ -144,11 +144,11 @@ updated: 2026-04-13
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | A Trillion Transactions | 15 | Apr 12, 2026 | [Watch](https://youtu.be/oHdhgeF4wlI) |  |
-| 2 | minikv: Distributed Systems Meets Data Science | 13 | Apr 11, 2026 | [Watch](https://youtu.be/a8heWpae5p0) |  |
+| 1 | A Trillion Transactions | 26 | Apr 12, 2026 | [Watch](https://youtu.be/oHdhgeF4wlI) |  |
+| 2 | minikv: Distributed Systems Meets Data Science | 14 | Apr 11, 2026 | [Watch](https://youtu.be/a8heWpae5p0) |  |
 | 3 | Mastering Hybrid CDC Architectures | 14 | Apr 7, 2026 | [Watch](https://youtu.be/KdLQEv3Tiiw) |  |
 | 4 | Architecting Real-Time State | 67 | Apr 5, 2026 | [Watch](https://youtu.be/WRpjJV4SUKc) |  |
-| 5 | Architecting the edge for HTTP/3 and QUIC | 84 | Apr 4, 2026 | [Watch](https://youtu.be/7Dchx829X_M) |  |
+| 5 | Architecting the edge for HTTP/3 and QUIC | 85 | Apr 4, 2026 | [Watch](https://youtu.be/7Dchx829X_M) |  |
 | 6 | Bridging the Mainframe to the Cloud | 22 | Apr 4, 2026 | [Watch](https://youtu.be/7iWL5-0C66s) |  |
 | 7 | Advanced Microservices Blueprint on Azure Kubernetes Service | 21 | Apr 1, 2026 | [Watch](https://youtu.be/BiYKKVsJROk) |  |
 | 8 | Azure Enterprise Edge Lab | 8 | Mar 31, 2026 | [Watch](https://youtu.be/fMjflPvjaJ8) |  |
@@ -211,4 +211,4 @@ updated: 2026-04-13
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on Apr 12, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 13, 2026. Back to [index](index.md).*

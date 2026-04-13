@@ -209,8 +209,8 @@ export const VIDEO_CONFIG = {
     'IF5sNQH-01c',
     '2kvYb2pVe5o',
     'TLqdeHlAo3A',
-    'pghJdovSnqM',
-    'X65YHZUnFq0'
+    'X65YHZUnFq0',
+    'a1hIA6KQUFE'
   ],
   security: [
     'u8XCBK6lGw0',

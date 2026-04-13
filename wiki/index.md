@@ -26,4 +26,4 @@ or orphan pages.
 See [AGENTS.md](AGENTS.md) for the full schema and operating instructions.
 
 ---
-*Last updated: Apr 12, 2026.*
+*Last updated: Apr 13, 2026.*

@@ -173,7 +173,7 @@
     {
       "id": "YYVxMSqBqe8",
       "title": "Nesting in Global Finance",
-      "views": 2,
+      "views": 6,
       "date": "2026-04-12T20:20:01Z",
       "tags": [
         "curiosity"
@@ -182,7 +182,7 @@
     {
       "id": "l9UUqD2Bz2E",
       "title": "The Mystery of the Nickel Coke",
-      "views": 7,
+      "views": 8,
       "date": "2026-04-10T15:32:57Z",
       "tags": [
         "curiosity"
@@ -322,7 +322,7 @@
     {
       "id": "oHdhgeF4wlI",
       "title": "A Trillion Transactions",
-      "views": 15,
+      "views": 26,
       "date": "2026-04-12T14:38:25Z",
       "tags": [
         "curiosity",
@@ -334,7 +334,7 @@
     {
       "id": "a8heWpae5p0",
       "title": "minikv: Distributed Systems Meets Data Science",
-      "views": 13,
+      "views": 14,
       "date": "2026-04-12T04:50:10Z",
       "tags": [
         "rust",
@@ -371,7 +371,7 @@
     {
       "id": "7Dchx829X_M",
       "title": "Architecting the edge for HTTP/3 and QUIC",
-      "views": 84,
+      "views": 85,
       "date": "2026-04-05T00:11:43Z",
       "tags": [
         "http/3",
@@ -950,7 +950,7 @@
     {
       "id": "tyR8SdHpOeY",
       "title": "Book-Finder Architecture",
-      "views": 6,
+      "views": 15,
       "date": "2026-04-13T00:06:42Z",
       "tags": [
         "zig",
@@ -964,7 +964,7 @@
     {
       "id": "-tZGlR8Zztg",
       "title": "The Illusion of Design",
-      "views": 18,
+      "views": 24,
       "date": "2026-04-11T07:48:34Z",
       "tags": [
         "curiosity",
@@ -976,7 +976,7 @@
     {
       "id": "QC-vaMcjq3M",
       "title": "zig-lottie: Compiling Motion",
-      "views": 48,
+      "views": 54,
       "date": "2026-04-11T05:33:18Z",
       "tags": [
         "zig",
@@ -988,7 +988,7 @@
     {
       "id": "s585HlqiyMQ",
       "title": "The Calculus of ALOHA Networks",
-      "views": 47,
+      "views": 51,
       "date": "2026-04-10T19:12:04Z",
       "tags": [
         "curiosity",
@@ -999,7 +999,7 @@
     {
       "id": "LackTxguXFg",
       "title": "The Programmer's Guide to Essential RFCs",
-      "views": 66,
+      "views": 79,
       "date": "2026-04-10T16:29:16Z",
       "tags": [
         "curiosity",
@@ -1010,7 +1010,7 @@
     {
       "id": "TEGFwsAcxK8",
       "title": "Agent Skills for Flutter",
-      "views": 63,
+      "views": 71,
       "date": "2026-04-10T13:02:35Z",
       "tags": [
         "ai",
@@ -1022,7 +1022,7 @@
     {
       "id": "BzvpasWYESU",
       "title": "The LLM Wiki Paradigm",
-      "views": 2046,
+      "views": 2118,
       "date": "2026-04-09T22:17:25Z",
       "tags": [
         "ai",
@@ -1046,7 +1046,7 @@
     {
       "id": "am9FvNiJ24M",
       "title": "The 2026 Change Data Capture Blueprint",
-      "views": 18,
+      "views": 19,
       "date": "2026-04-08T22:14:35Z",
       "tags": [
         "cdc",
@@ -1098,7 +1098,7 @@
     {
       "id": "fv61JXUCbeo",
       "title": "Stitch Agent Skills",
-      "views": 258,
+      "views": 259,
       "date": "2026-04-05T21:24:52Z",
       "tags": [
         "ai",
@@ -1111,7 +1111,7 @@
     {
       "id": "T-NdEF6btbg",
       "title": "The Open Market of Al Coding",
-      "views": 89,
+      "views": 90,
       "date": "2026-04-05T12:38:23Z",
       "tags": [
         "ai",
@@ -1148,7 +1148,7 @@
     {
       "id": "54lO6XE-AeQ",
       "title": "The Zero-Copy Architecture",
-      "views": 4062,
+      "views": 4067,
       "date": "2026-04-03T12:29:02Z",
       "tags": [
         "zero-copy",
@@ -1329,7 +1329,7 @@
     {
       "id": "wyIhJ3LMnRg",
       "title": "W3C Trace Context",
-      "views": 24,
+      "views": 27,
       "date": "2026-03-21T13:19:14Z",
       "tags": [
         "w3c",
@@ -1671,7 +1671,7 @@
     {
       "id": "00kCzR10M1w",
       "title": "The Road to SolidJS 2.0",
-      "views": 158,
+      "views": 159,
       "date": "2026-03-04T00:40:36Z",
       "tags": [
         "solidjs",
@@ -1731,7 +1731,7 @@
     {
       "id": "JeqaHMmSh1s",
       "title": "The Complete Guide to Building Skills for Claude",
-      "views": 639,
+      "views": 640,
       "date": "2026-02-28T05:29:43Z",
       "tags": [
         "ai",
@@ -1756,7 +1756,7 @@
     {
       "id": "Wa0EHhhKV8Q",
       "title": "Architecting Action: 10 NotebookLM Prompts",
-      "views": 92,
+      "views": 93,
       "date": "2026-02-27T12:49:18Z",
       "tags": [
         "notebooklm",
@@ -1912,7 +1912,7 @@
     {
       "id": "kQc99Io3pCo",
       "title": "HelixDB: The Unified Graph-Vector Database",
-      "views": 80,
+      "views": 83,
       "date": "2026-02-14T22:47:13Z",
       "tags": [
         "rust",
@@ -1922,7 +1922,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 708,
+      "views": 709,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -1945,7 +1945,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 299,
+      "views": 301,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -1956,7 +1956,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 191,
+      "views": 192,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -2072,7 +2072,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 385,
+      "views": 386,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -2629,7 +2629,7 @@
     {
       "id": "u8XCBK6lGw0",
       "title": "Custom Graphs in Microsoft Sentinel (Preview)",
-      "views": 28,
+      "views": 29,
       "date": "2026-04-11T15:44:17Z",
       "tags": [
         "sentinel",
@@ -2664,7 +2664,7 @@
     {
       "id": "taBP0Fr3uSQ",
       "title": "Anatomy of a Supply Chain Attack",
-      "views": 31,
+      "views": 32,
       "date": "2026-03-26T11:52:33Z",
       "tags": [
         "litellm",
@@ -2815,6 +2815,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-13T04:48:00.232Z",
+  "generatedAt": "2026-04-13T12:25:36.135Z",
   "count": 251
 }
