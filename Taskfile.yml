@@ -16,10 +16,22 @@ tasks:
       - bun run dev
 
   build:
-    desc: Build the homepage app
+    desc: Build homepage and run due semiannual analysis
     dir: homepage
     cmds:
       - bun run build
+
+  wiki:analysis:
+    desc: Generate semiannual channel analysis now
+    dir: homepage
+    cmds:
+      - bun run wiki:analysis
+
+  wiki:analysis:if-due:
+    desc: Generate semiannual channel analysis only in Apr/Oct
+    dir: homepage
+    cmds:
+      - bun run wiki:analysis:if-due
 
   deploy:
     desc: Deploy homepage to Vercel production
@@ -64,6 +76,13 @@ tasks:
     deps: [tools:yt-transcript]
     cmds:
       - bun scripts/generate-video-details.ts {{.CLI_ARGS | default "--top 10"}}
+
+  wiki:transcripts:
+    desc: Export raw video transcripts into wiki/raw/transcripts
+    dir: homepage
+    deps: [tools:yt-transcript]
+    cmds:
+      - bun run wiki:transcripts {{.CLI_ARGS | default "--top 10"}}
 
   status:
     desc: Show jj status and bookmark info

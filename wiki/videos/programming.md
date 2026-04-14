@@ -3,7 +3,7 @@ type: category
 category: programming
 tags: [알고리즘, vercel, 보안, 대시보드, 영어 공부, 주판]
 sources: 8
-updated: 2026-04-13
+updated: 2026-04-14
 ---
 
 # Programming
@@ -15,7 +15,7 @@ updated: 2026-04-13
 | Metric | Value |
 |--------|-------|
 | Videos | 8 |
-| Total Views | 205 |
+| Total Views | 206 |
 | Most Recent | Feb 1, 2026 |
 | Oldest | Jan 10, 2026 |
 ## All Videos
@@ -29,7 +29,7 @@ updated: 2026-04-13
 | 5 | 마음 속의 계산기 | 9 | Jan 11, 2026 | [Watch](https://youtu.be/gKYw0_jkNFI) |  |
 | 6 | 타입스크립트와 번으로 만드는 TODO 리스트 | 9 | Jan 10, 2026 | [Watch](https://youtu.be/D1Hth_78ftg) |  |
 | 7 | 비동기 처리 - async/await | 18 | Jan 10, 2026 | [Watch](https://youtu.be/F6aMGDfVAFg) |  |
-| 8 | 타입스크립트와 번으로 배우는 프로그래밍 1 | 76 | Jan 10, 2026 | [Watch](https://youtu.be/T5FjMjTQCBI) |  |
+| 8 | 타입스크립트와 번으로 배우는 프로그래밍 1 | 77 | Jan 10, 2026 | [Watch](https://youtu.be/T5FjMjTQCBI) |  |
 
 ## Top Tags
 
@@ -41,4 +41,4 @@ updated: 2026-04-13
 - [Kubernetes](kubernetes.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on Apr 13, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 14, 2026. Back to [index](index.md).*

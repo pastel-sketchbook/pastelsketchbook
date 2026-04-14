@@ -41,3 +41,21 @@ Synced 250 videos across 6 categories (korea=17, finance=20, kubernetes=54, deve
 ## [2026-04-13] ingest | Video Metadata Sync
 
 Synced 251 videos across 6 categories (korea=17, finance=20, kubernetes=54, development=142, security=10, programming=8).
+
+## [2026-04-14] enrich | Channel Analysis from PDF
+
+Created `wiki/channel-analysis.md` by synthesizing `PS_wiki_analysis.pdf` into
+the existing wiki schema (channel snapshot, concept map, category alignment,
+and enrichment guidance). Updated `wiki/index.md` with a link to the new page.
+
+## [2026-04-13] enrich | Semiannual Channel Analysis (2026-04)
+
+Generated channel analysis for 2026-04 from `videos-metadata.json` and category pages. Wrote `wiki/channel-analysis-2026-04.md` and refreshed `wiki/channel-analysis.md` (251 videos).
+
+## [2026-04-14] ingest | Video Transcripts
+
+Exported 10 transcript files (top 10 by views) to `wiki/raw/transcripts`.
+
+## [2026-04-14] ingest | Video Metadata Sync
+
+Synced 253 videos across 6 categories (korea=17, finance=20, kubernetes=54, development=144, security=10, programming=8).

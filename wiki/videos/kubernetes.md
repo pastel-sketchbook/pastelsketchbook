@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, rabbitmq, cue, azure, hybrid, networking, rust, debezium]
 sources: 54
-updated: 2026-04-13
+updated: 2026-04-14
 ---
 
 # Kubernetes
@@ -29,7 +29,7 @@ updated: 2026-04-13
 - [Architecting AKS Networking](https://youtu.be/1PH7UB24xps) -- 16 views, Mar 11, 2026
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) -- 13 views, Mar 10, 2026
 - [Modern Docker Networking & Traefik](https://youtu.be/Pxh2PcNx9W8) -- 38 views, Mar 3, 2026
-- [Architecting AKS Node Auto-Provisioning](https://youtu.be/3hSdKvqPcSE) -- 33 views, Feb 25, 2026
+- [Architecting AKS Node Auto-Provisioning](https://youtu.be/3hSdKvqPcSE) -- 34 views, Feb 25, 2026
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) -- 26 views, Feb 10, 2026
 - [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) -- 40 views, Feb 5, 2026
 - [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) -- 21 views, Jan 31, 2026
@@ -45,7 +45,7 @@ updated: 2026-04-13
 
 ### Architecture (9 videos)
 
-- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) -- 14 views, Apr 7, 2026
+- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) -- 15 views, Apr 7, 2026
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026
 - [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) -- 66 views, Mar 26, 2026
 - [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) -- 68 views, Mar 22, 2026
@@ -68,7 +68,7 @@ updated: 2026-04-13
 
 ### Messaging (7 videos)
 
-- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) -- 14 views, Apr 7, 2026
+- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) -- 15 views, Apr 7, 2026
 - [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) -- 67 views, Apr 5, 2026
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 22 views, Apr 4, 2026
 - [Continuous Flow](https://youtu.be/tcrNdx1yH_E) -- 15 views, Mar 22, 2026
@@ -80,7 +80,7 @@ updated: 2026-04-13
 
 - [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) -- 15 views, Mar 13, 2026
 - [ScyllaDB: The Next-Generation NoSQL Platform](https://youtu.be/mYClRFIlsFc) -- 13 views, Feb 19, 2026
-- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 37 views, Feb 12, 2026
+- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 38 views, Feb 12, 2026
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) -- 26 views, Feb 10, 2026
 - [MotherDuck: Serverless DuckDB in the Cloud & Client](https://youtu.be/BsiQrEaF3kU) -- 26 views, Feb 4, 2026
 - [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) -- 21 views, Jan 31, 2026
@@ -107,7 +107,7 @@ updated: 2026-04-13
 
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026
 - [The Golden Path](https://youtu.be/ORjARjbukhY) -- 25 views, Feb 21, 2026
-- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 37 views, Feb 12, 2026
+- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 38 views, Feb 12, 2026
 - [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) -- 21 views, Jan 31, 2026
 - [A Blueprint for Secure Azure Authentication in Go](https://youtu.be/R2zktRqz81U) -- 18 views, Jan 12, 2026
 
@@ -136,7 +136,7 @@ updated: 2026-04-13
 
 ### Rust (3 videos)
 
-- [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) -- 14 views, Apr 11, 2026
+- [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) -- 15 views, Apr 11, 2026
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 42 views, Jan 17, 2026
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) -- 23 views, Jan 14, 2026
 
@@ -145,8 +145,8 @@ updated: 2026-04-13
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
 | 1 | A Trillion Transactions | 26 | Apr 12, 2026 | [Watch](https://youtu.be/oHdhgeF4wlI) |  |
-| 2 | minikv: Distributed Systems Meets Data Science | 14 | Apr 11, 2026 | [Watch](https://youtu.be/a8heWpae5p0) |  |
-| 3 | Mastering Hybrid CDC Architectures | 14 | Apr 7, 2026 | [Watch](https://youtu.be/KdLQEv3Tiiw) |  |
+| 2 | minikv: Distributed Systems Meets Data Science | 15 | Apr 11, 2026 | [Watch](https://youtu.be/a8heWpae5p0) |  |
+| 3 | Mastering Hybrid CDC Architectures | 15 | Apr 7, 2026 | [Watch](https://youtu.be/KdLQEv3Tiiw) |  |
 | 4 | Architecting Real-Time State | 67 | Apr 5, 2026 | [Watch](https://youtu.be/WRpjJV4SUKc) |  |
 | 5 | Architecting the edge for HTTP/3 and QUIC | 85 | Apr 4, 2026 | [Watch](https://youtu.be/7Dchx829X_M) |  |
 | 6 | Bridging the Mainframe to the Cloud | 22 | Apr 4, 2026 | [Watch](https://youtu.be/7iWL5-0C66s) |  |
@@ -166,7 +166,7 @@ updated: 2026-04-13
 | 20 | Strategic Implementation of Blue-Green Deployment | 13 | Mar 10, 2026 | [Watch](https://youtu.be/Hd767VA7Z-0) |  |
 | 21 | kube-log-viewer | 24 | Mar 5, 2026 | [Watch](https://youtu.be/aiYBPCkvhes) |  |
 | 22 | Modern Docker Networking & Traefik | 38 | Mar 3, 2026 | [Watch](https://youtu.be/Pxh2PcNx9W8) |  |
-| 23 | Architecting AKS Node Auto-Provisioning | 33 | Feb 25, 2026 | [Watch](https://youtu.be/3hSdKvqPcSE) |  |
+| 23 | Architecting AKS Node Auto-Provisioning | 34 | Feb 25, 2026 | [Watch](https://youtu.be/3hSdKvqPcSE) |  |
 | 24 | Kubernetes Auto-Scaling Strategies | 29 | Feb 23, 2026 | [Watch](https://youtu.be/y3WwL48DLYw) |  |
 | 25 | The Golden Path | 25 | Feb 21, 2026 | [Watch](https://youtu.be/ORjARjbukhY) |  |
 | 26 | The Modern Platform Framework | 27 | Feb 19, 2026 | [Watch](https://youtu.be/rk_3xU9OF-k) |  |
@@ -175,7 +175,7 @@ updated: 2026-04-13
 | 29 | Drasi: The Future of Change-Driven Architecture | 47 | Feb 17, 2026 | [Watch](https://youtu.be/5Ztm7JNVa8E) |  |
 | 30 | Advanced Architectural Synthesis | 29 | Feb 15, 2026 | [Watch](https://youtu.be/P_xUJi_qt-Q) |  |
 | 31 | Beyond Static Configuration | 25 | Feb 15, 2026 | [Watch](https://youtu.be/okVlu1qseI4) |  |
-| 32 | BadgerDB: The Go-Native Key-Value Store | 37 | Feb 12, 2026 | [Watch](https://youtu.be/eI2DXGISpbk) |  |
+| 32 | BadgerDB: The Go-Native Key-Value Store | 38 | Feb 12, 2026 | [Watch](https://youtu.be/eI2DXGISpbk) |  |
 | 33 | Architecting Meilisearch on AKS & Istio | 26 | Feb 10, 2026 | [Watch](https://youtu.be/MIZ0ATwu7C0) |  |
 | 34 | Secure Web App with Azure AD/OAuth2 Proxy | 40 | Feb 5, 2026 | [Watch](https://youtu.be/rgY4KTMFOMs) |  |
 | 35 | MotherDuck: Serverless DuckDB in the Cloud & Client | 26 | Feb 4, 2026 | [Watch](https://youtu.be/BsiQrEaF3kU) |  |
@@ -211,4 +211,4 @@ updated: 2026-04-13
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on Apr 13, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 14, 2026. Back to [index](index.md).*

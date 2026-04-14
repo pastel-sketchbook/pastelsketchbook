@@ -5,3 +5,4 @@ pastel-sketchbook.zip
 # Zig build artifacts
 tools/*/zig-out/
 tools/*/.zig-cache/
+/PS_wiki_analysis.pdf

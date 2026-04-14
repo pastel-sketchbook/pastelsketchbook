@@ -3,7 +3,7 @@ type: category
 category: korea
 tags: [viaje, corea, seul, jeju, ganghwa, sokcho, daejeon, danyang, jinju, yeosu]
 sources: 17
-updated: 2026-04-13
+updated: 2026-04-14
 ---
 
 # Korea
@@ -15,7 +15,7 @@ updated: 2026-04-13
 | Metric | Value |
 |--------|-------|
 | Videos | 17 |
-| Total Views | 205 |
+| Total Views | 210 |
 | Most Recent | Apr 2, 2026 |
 | Oldest | Dec 26, 2025 |
 ## All Videos
@@ -30,15 +30,15 @@ updated: 2026-04-13
 | 6 | Ganghwa: Un Viaje en Tonos Pastel | 6 | Feb 6, 2026 | [Watch](https://youtu.be/rwNfzJanPmk) |  |
 | 7 | Un Viaje a Sokcho | 17 | Feb 4, 2026 | [Watch](https://youtu.be/QLcNRIHYmj0) |  |
 | 8 | Bocetos de Daejeon | 15 | Feb 3, 2026 | [Watch](https://youtu.be/nxuaOP3C1Ns) |  |
-| 9 | Hasta pronto, Danyang | 10 | Feb 2, 2026 | [Watch](https://youtu.be/awa_UWXFOao) |  |
+| 9 | Hasta pronto, Danyang | 11 | Feb 2, 2026 | [Watch](https://youtu.be/awa_UWXFOao) |  |
 | 10 | Jinju y Jirisan: el Valor a la Sabiduría | 18 | Jan 4, 2026 | [Watch](https://youtu.be/drVBXipEOAs) |  |
 | 11 | Mi Cuaderno de Viaje: Yeosu | 10 | Jan 4, 2026 | [Watch](https://youtu.be/JlPl9MskqJM) |  |
-| 12 | Jeonju y Gochang: Apuntes de Corea | 15 | Jan 4, 2026 | [Watch](https://youtu.be/EvcUSPWkOA8) |  |
+| 12 | Jeonju y Gochang: Apuntes de Corea | 16 | Jan 4, 2026 | [Watch](https://youtu.be/EvcUSPWkOA8) |  |
 | 13 | Mi Cuaderno de Viaje: Andong | 16 | Jan 3, 2026 | [Watch](https://youtu.be/CASZX56r-tk) |  |
 | 14 | Gyeongju: El Museo Sin Muros | 10 | Jan 2, 2026 | [Watch](https://youtu.be/4h84JgKkt94) |  |
 | 15 | Mi Cuaderno de Busan | 8 | Jan 1, 2026 | [Watch](https://youtu.be/vNHblhm9oQo) |  |
 | 16 | Tu Viaje al Corazón de Corea | 4 | Jan 1, 2026 | [Watch](https://youtu.be/L9sxbq8ugoU) |  |
-| 17 | 스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작 | 22 | Dec 26, 2025 | [Watch](https://youtu.be/V2cZl5s4EKU) |  |
+| 17 | 스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작 | 25 | Dec 26, 2025 | [Watch](https://youtu.be/V2cZl5s4EKU) |  |
 
 ## Top Tags
 
@@ -49,4 +49,4 @@ updated: 2026-04-13
 - [Finance](finance.md)
 
 ---
-*Auto-generated on Apr 13, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 14, 2026. Back to [index](index.md).*

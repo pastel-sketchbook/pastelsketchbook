@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-13T12:25:36.135Z",
-  "totalVideos": 251,
+  "generatedAt": "2026-04-14T10:09:22.558Z",
+  "totalVideos": 253,
   "categories": [
     {
       "name": "korea",
@@ -9,7 +9,7 @@
         "finance"
       ],
       "videoCount": 17,
-      "totalViews": 205,
+      "totalViews": 210,
       "topTags": [
         {
           "tag": "viaje",
@@ -154,7 +154,7 @@
         {
           "id": "awa_UWXFOao",
           "title": "Hasta pronto, Danyang",
-          "views": 10,
+          "views": 11,
           "date": "2026-02-02T10:22:35Z",
           "category": "korea",
           "tags": [
@@ -190,7 +190,7 @@
         {
           "id": "EvcUSPWkOA8",
           "title": "Jeonju y Gochang: Apuntes de Corea",
-          "views": 15,
+          "views": 16,
           "date": "2026-01-04T18:38:25Z",
           "category": "korea",
           "tags": [
@@ -249,7 +249,7 @@
         {
           "id": "V2cZl5s4EKU",
           "title": "스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작",
-          "views": 22,
+          "views": 25,
           "date": "2025-12-26T23:35:15Z",
           "category": "korea"
         }
@@ -263,7 +263,7 @@
         "development"
       ],
       "videoCount": 20,
-      "totalViews": 381,
+      "totalViews": 380,
       "topTags": [
         {
           "tag": "curiosity",
@@ -313,7 +313,7 @@
         {
           "id": "l9UUqD2Bz2E",
           "title": "The Mystery of the Nickel Coke",
-          "views": 8,
+          "views": 7,
           "date": "2026-04-10T15:32:57Z",
           "category": "finance",
           "tags": [
@@ -463,7 +463,7 @@
         "development"
       ],
       "videoCount": 54,
-      "totalViews": 1444,
+      "totalViews": 1448,
       "topTags": [
         {
           "tag": "aks",
@@ -630,7 +630,7 @@
             {
               "id": "3hSdKvqPcSE",
               "title": "Architecting AKS Node Auto-Provisioning",
-              "views": 33,
+              "views": 34,
               "date": "2026-02-25T23:24:20Z",
               "category": "kubernetes",
               "tags": [
@@ -800,7 +800,7 @@
             {
               "id": "KdLQEv3Tiiw",
               "title": "Mastering Hybrid CDC Architectures",
-              "views": 14,
+              "views": 15,
               "date": "2026-04-08T02:45:20Z",
               "category": "kubernetes",
               "tags": [
@@ -1029,7 +1029,7 @@
             {
               "id": "KdLQEv3Tiiw",
               "title": "Mastering Hybrid CDC Architectures",
-              "views": 14,
+              "views": 15,
               "date": "2026-04-08T02:45:20Z",
               "category": "kubernetes",
               "tags": [
@@ -1151,7 +1151,7 @@
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 37,
+              "views": 38,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -1393,7 +1393,7 @@
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 37,
+              "views": 38,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -1634,7 +1634,7 @@
             {
               "id": "a8heWpae5p0",
               "title": "minikv: Distributed Systems Meets Data Science",
-              "views": 14,
+              "views": 15,
               "date": "2026-04-12T04:50:10Z",
               "category": "kubernetes",
               "tags": [
@@ -1693,7 +1693,7 @@
         {
           "id": "a8heWpae5p0",
           "title": "minikv: Distributed Systems Meets Data Science",
-          "views": 14,
+          "views": 15,
           "date": "2026-04-12T04:50:10Z",
           "category": "kubernetes",
           "tags": [
@@ -1706,7 +1706,7 @@
         {
           "id": "KdLQEv3Tiiw",
           "title": "Mastering Hybrid CDC Architectures",
-          "views": 14,
+          "views": 15,
           "date": "2026-04-08T02:45:20Z",
           "category": "kubernetes",
           "tags": [
@@ -1966,7 +1966,7 @@
         {
           "id": "3hSdKvqPcSE",
           "title": "Architecting AKS Node Auto-Provisioning",
-          "views": 33,
+          "views": 34,
           "date": "2026-02-25T23:24:20Z",
           "category": "kubernetes",
           "tags": [
@@ -2077,7 +2077,7 @@
         {
           "id": "eI2DXGISpbk",
           "title": "BadgerDB: The Go-Native Key-Value Store",
-          "views": 37,
+          "views": 38,
           "date": "2026-02-13T00:09:38Z",
           "category": "kubernetes",
           "tags": [
@@ -2369,8 +2369,8 @@
         "programming",
         "security"
       ],
-      "videoCount": 142,
-      "totalViews": 16903,
+      "videoCount": 144,
+      "totalViews": 17185,
       "topTags": [
         {
           "tag": "rust",
@@ -2473,7 +2473,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4067,
+              "views": 4074,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -2595,7 +2595,7 @@
             {
               "id": "_zJ3_d1CODg",
               "title": "Bevy-Demo",
-              "views": 104,
+              "views": 110,
               "date": "2026-03-19T00:18:34Z",
               "category": "development",
               "tags": [
@@ -2702,7 +2702,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 83,
+              "views": 86,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -2713,7 +2713,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 301,
+              "views": 304,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -2955,9 +2955,22 @@
           "name": "AI & ML",
           "videos": [
             {
+              "id": "j8lMpSezavQ",
+              "title": "The Local SOTA Engine for Your Digital Brain",
+              "views": 21,
+              "date": "2026-04-13T22:32:31Z",
+              "category": "development",
+              "tags": [
+                "bm25",
+                "semantic",
+                "ranking",
+                "qmd"
+              ]
+            },
+            {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 71,
+              "views": 94,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -2970,7 +2983,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2118,
+              "views": 2245,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -2984,7 +2997,7 @@
             {
               "id": "fv61JXUCbeo",
               "title": "Stitch Agent Skills",
-              "views": 259,
+              "views": 260,
               "date": "2026-04-05T21:24:52Z",
               "category": "development",
               "tags": [
@@ -2998,7 +3011,7 @@
             {
               "id": "T-NdEF6btbg",
               "title": "The Open Market of Al Coding",
-              "views": 90,
+              "views": 91,
               "date": "2026-04-05T12:38:23Z",
               "category": "development",
               "tags": [
@@ -3012,7 +3025,7 @@
             {
               "id": "z2SA6P7WNoc",
               "title": "Reasoning Under Uncertainty",
-              "views": 146,
+              "views": 147,
               "date": "2026-04-03T22:11:58Z",
               "category": "development",
               "tags": [
@@ -3039,7 +3052,7 @@
             {
               "id": "Y0DQGVALb7I",
               "title": "Building with Gemini: The Unified Ecosystem",
-              "views": 53,
+              "views": 54,
               "date": "2026-03-30T00:13:52Z",
               "category": "development",
               "tags": [
@@ -3212,7 +3225,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 640,
+              "views": 642,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -3648,7 +3661,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 709,
+              "views": 712,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -3766,7 +3779,7 @@
             {
               "id": "tyR8SdHpOeY",
               "title": "Book-Finder Architecture",
-              "views": 15,
+              "views": 21,
               "date": "2026-04-13T00:06:42Z",
               "category": "development",
               "tags": [
@@ -3781,7 +3794,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4067,
+              "views": 4074,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -3942,7 +3955,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 83,
+              "views": 86,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -4010,7 +4023,7 @@
             {
               "id": "wyIhJ3LMnRg",
               "title": "W3C Trace Context",
-              "views": 27,
+              "views": 29,
               "date": "2026-03-21T13:19:14Z",
               "category": "development",
               "tags": [
@@ -4131,9 +4144,36 @@
       ],
       "videos": [
         {
+          "id": "j8lMpSezavQ",
+          "title": "The Local SOTA Engine for Your Digital Brain",
+          "views": 21,
+          "date": "2026-04-13T22:32:31Z",
+          "category": "development",
+          "tags": [
+            "bm25",
+            "semantic",
+            "ranking",
+            "qmd"
+          ]
+        },
+        {
+          "id": "a1hIA6KQUFE",
+          "title": "The Center Has a Bias",
+          "views": 13,
+          "date": "2026-04-13T12:41:52Z",
+          "category": "development",
+          "tags": [
+            "criticism",
+            "engagement",
+            "adoption",
+            "experimentation",
+            "insight"
+          ]
+        },
+        {
           "id": "tyR8SdHpOeY",
           "title": "Book-Finder Architecture",
-          "views": 15,
+          "views": 21,
           "date": "2026-04-13T00:06:42Z",
           "category": "development",
           "tags": [
@@ -4148,7 +4188,7 @@
         {
           "id": "-tZGlR8Zztg",
           "title": "The Illusion of Design",
-          "views": 24,
+          "views": 25,
           "date": "2026-04-11T07:48:34Z",
           "category": "development",
           "tags": [
@@ -4161,7 +4201,7 @@
         {
           "id": "QC-vaMcjq3M",
           "title": "zig-lottie: Compiling Motion",
-          "views": 54,
+          "views": 64,
           "date": "2026-04-11T05:33:18Z",
           "category": "development",
           "tags": [
@@ -4174,7 +4214,7 @@
         {
           "id": "s585HlqiyMQ",
           "title": "The Calculus of ALOHA Networks",
-          "views": 51,
+          "views": 71,
           "date": "2026-04-10T19:12:04Z",
           "category": "development",
           "tags": [
@@ -4186,7 +4226,7 @@
         {
           "id": "LackTxguXFg",
           "title": "The Programmer's Guide to Essential RFCs",
-          "views": 79,
+          "views": 94,
           "date": "2026-04-10T16:29:16Z",
           "category": "development",
           "tags": [
@@ -4198,7 +4238,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 71,
+          "views": 94,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -4211,7 +4251,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2118,
+          "views": 2245,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -4251,7 +4291,7 @@
         {
           "id": "ea5lpF3RyzE",
           "title": "RFC 862 and the Echo Protocol",
-          "views": 36,
+          "views": 37,
           "date": "2026-04-07T11:46:58Z",
           "category": "development",
           "tags": [
@@ -4293,7 +4333,7 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 259,
+          "views": 260,
           "date": "2026-04-05T21:24:52Z",
           "category": "development",
           "tags": [
@@ -4307,7 +4347,7 @@
         {
           "id": "T-NdEF6btbg",
           "title": "The Open Market of Al Coding",
-          "views": 90,
+          "views": 91,
           "date": "2026-04-05T12:38:23Z",
           "category": "development",
           "tags": [
@@ -4334,7 +4374,7 @@
         {
           "id": "z2SA6P7WNoc",
           "title": "Reasoning Under Uncertainty",
-          "views": 146,
+          "views": 147,
           "date": "2026-04-03T22:11:58Z",
           "category": "development",
           "tags": [
@@ -4347,7 +4387,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4067,
+          "views": 4074,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -4394,7 +4434,7 @@
         {
           "id": "JWeu5aqAkR0",
           "title": "The Transport Revolution: Deconstructing HTTP/3",
-          "views": 196,
+          "views": 197,
           "date": "2026-04-01T22:51:56Z",
           "category": "development"
         },
@@ -4416,7 +4456,7 @@
         {
           "id": "Y0DQGVALb7I",
           "title": "Building with Gemini: The Unified Ecosystem",
-          "views": 53,
+          "views": 54,
           "date": "2026-03-30T00:13:52Z",
           "category": "development",
           "tags": [
@@ -4429,7 +4469,7 @@
         {
           "id": "4i-ruNPOtB4",
           "title": "Dismantling the Agile Epic",
-          "views": 43,
+          "views": 44,
           "date": "2026-03-29T09:07:23Z",
           "category": "development",
           "tags": [
@@ -4602,7 +4642,7 @@
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
-          "views": 27,
+          "views": 29,
           "date": "2026-03-21T13:19:14Z",
           "category": "development",
           "tags": [
@@ -4668,7 +4708,7 @@
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
-          "views": 104,
+          "views": 110,
           "date": "2026-03-19T00:18:34Z",
           "category": "development",
           "tags": [
@@ -4706,7 +4746,7 @@
         {
           "id": "FOkG5ScxU88",
           "title": "Building with Genkit Dart",
-          "views": 51,
+          "views": 53,
           "date": "2026-03-15T19:49:00Z",
           "category": "development",
           "tags": [
@@ -4822,7 +4862,7 @@
         {
           "id": "7yqkfHo8Mwk",
           "title": "Engineering the Overnight Researcher in Zig",
-          "views": 67,
+          "views": 68,
           "date": "2026-03-09T11:31:08Z",
           "category": "development",
           "tags": [
@@ -5057,7 +5097,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 640,
+          "views": 642,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -5103,7 +5143,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 93,
+          "views": 94,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -5233,7 +5273,7 @@
         {
           "id": "QBUQvfZJpaM",
           "title": "Modern Cryptography Standards: A Guide to AEAD",
-          "views": 31,
+          "views": 32,
           "date": "2026-02-18T23:24:48Z",
           "category": "development",
           "tags": [
@@ -5272,7 +5312,7 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 83,
+          "views": 86,
           "date": "2026-02-14T22:47:13Z",
           "category": "development",
           "tags": [
@@ -5283,7 +5323,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 709,
+          "views": 712,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -5316,7 +5356,7 @@
         {
           "id": "cWozmWrqnxs",
           "title": "The Repository Pattern",
-          "views": 771,
+          "views": 772,
           "date": "2026-02-13T18:01:39Z",
           "category": "development",
           "tags": [
@@ -5347,7 +5387,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 301,
+          "views": 304,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -5519,7 +5559,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 114,
+          "views": 116,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -5545,7 +5585,7 @@
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 386,
+          "views": 389,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -6106,7 +6146,7 @@
         {
           "id": "olsB3bJxA2A",
           "title": "Let's check about Zig",
-          "views": 339,
+          "views": 340,
           "date": "2025-12-28T09:28:00Z",
           "category": "development",
           "tags": [
@@ -6159,7 +6199,7 @@
         {
           "id": "TLqdeHlAo3A",
           "title": "From Bottlenecks to Breakthroughs:",
-          "views": 37,
+          "views": 38,
           "date": "2025-12-27T21:13:50Z",
           "category": "development",
           "tags": [
@@ -6178,7 +6218,7 @@
         "development"
       ],
       "videoCount": 10,
-      "totalViews": 290,
+      "totalViews": 299,
       "topTags": [
         {
           "tag": "llm",
@@ -6268,7 +6308,7 @@
             {
               "id": "Zeg8zSOvoyE",
               "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-              "views": 64,
+              "views": 67,
               "date": "2026-03-31T22:42:44Z",
               "category": "security",
               "tags": [
@@ -6325,7 +6365,7 @@
             {
               "id": "Zeg8zSOvoyE",
               "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-              "views": 64,
+              "views": 67,
               "date": "2026-03-31T22:42:44Z",
               "category": "security",
               "tags": [
@@ -6350,7 +6390,7 @@
             {
               "id": "1VjSLqfPf9s",
               "title": "The NIST Cybersecurity Framework 2.0",
-              "views": 17,
+              "views": 18,
               "date": "2026-03-08T22:36:56Z",
               "category": "security",
               "tags": [
@@ -6381,7 +6421,7 @@
         {
           "id": "u8XCBK6lGw0",
           "title": "Custom Graphs in Microsoft Sentinel (Preview)",
-          "views": 29,
+          "views": 34,
           "date": "2026-04-11T15:44:17Z",
           "category": "security",
           "tags": [
@@ -6394,7 +6434,7 @@
         {
           "id": "Zeg8zSOvoyE",
           "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-          "views": 64,
+          "views": 67,
           "date": "2026-03-31T22:42:44Z",
           "category": "security",
           "tags": [
@@ -6444,7 +6484,7 @@
         {
           "id": "1VjSLqfPf9s",
           "title": "The NIST Cybersecurity Framework 2.0",
-          "views": 17,
+          "views": 18,
           "date": "2026-03-08T22:36:56Z",
           "category": "security",
           "tags": [
@@ -6517,7 +6557,7 @@
         "development"
       ],
       "videoCount": 8,
-      "totalViews": 205,
+      "totalViews": 206,
       "topTags": [
         {
           "tag": "알고리즘",
@@ -6615,7 +6655,7 @@
         {
           "id": "T5FjMjTQCBI",
           "title": "타입스크립트와 번으로 배우는 프로그래밍 1",
-          "views": 76,
+          "views": 77,
           "date": "2026-01-10T07:09:48Z",
           "category": "programming"
         }
