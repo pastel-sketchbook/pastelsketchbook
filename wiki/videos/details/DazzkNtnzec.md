@@ -1,0 +1,37 @@
+---
+type: video
+videoId: DazzkNtnzec
+category: development
+tags: [go, composition, gof]
+views: 109
+date: 2026-02-24T23:48:12Z
+summarized: 2026-04-14T10:20:12.934Z
+---
+
+# Design Patterns in Go
+
+> [development](../development.md) · 109 views · Feb 24, 2026
+> [Watch on YouTube](https://youtu.be/DazzkNtnzec)
+
+## Summary
+
+This guide explores the transition from traditional object-oriented inheritance to Go’s composition-centric architecture. It demonstrates how to implement classic Gang of Four design patterns—such as Strategy, Observer, and Adapter—using Go-specific features like implicit interfaces and struct embedding to create decoupled, testable systems.
+
+## Key Takeaways
+
+- Go replaces deep class hierarchies ('is-a' relationships) with composition ('has-a' relationships), utilizing struct embedding and method promotion to build flexible architectures.
+- Interfaces in Go are satisfied implicitly through duck typing, which decouples components and allows diverse types to satisfy a common interface without an explicit 'implements' keyword.
+- The Interface Segregation Principle is a core tenet in Go, favoring small, single-purpose interfaces that can be composed into larger ones, similar to the io.Reader and io.Writer implementations in the standard library.
+- The Strategy and Observer patterns are reimagined in Go to eliminate complex conditional logic and enable event-driven architectures by treating algorithms and subscribers as interchangeable interfaces.
+- Structural patterns like the Adapter and Decorator are used to wrap legacy systems or add dynamic behaviors like logging and caching without modifying the underlying service logic.
+
+## Topics Covered
+
+`composition over inheritance` · `struct embedding` · `implicit interfaces` · `duck typing` · `interface segregation principle` · `dependency injection` · `method promotion` · `functional decorators`
+
+## Tags
+
+[go](../tags/go.md) · [composition](../tags/composition.md) · [gof](../tags/gof.md)
+
+---
+*Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

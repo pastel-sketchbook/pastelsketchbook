@@ -1,0 +1,1504 @@
+{
+  "generatedAt": "2026-04-14T10:32:48.904Z",
+  "runLabel": "all videos",
+  "selected": 253,
+  "generated": 4,
+  "skipped": 0,
+  "failedCount": 249,
+  "failed": [
+    {
+      "id": "BzvpasWYESU",
+      "title": "The LLM Wiki Paradigm",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "cWozmWrqnxs",
+      "title": "The Repository Pattern",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "JeqaHMmSh1s",
+      "title": "The Complete Guide to Building Skills for Claude",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "IZX3_9rZeMU",
+      "title": "The Hybrid TUI Architecture",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "xV2EAL3NAVM",
+      "title": "A Comprehensive Guide to Zig Fundamentals and Features",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "olsB3bJxA2A",
+      "title": "Let's check about Zig",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "joYJ6rPN3UI",
+      "title": "Burn: The Rust Deep Learning Framework",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "fv61JXUCbeo",
+      "title": "Stitch Agent Skills",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "JWeu5aqAkR0",
+      "title": "The Transport Revolution: Deconstructing HTTP/3",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Qo3oJv4uyBI",
+      "title": "High-Performance Go: Inside the 1.26 Release",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Z90u9EVf4M4",
+      "title": "Writing Modern Go in the Age of Al",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "00kCzR10M1w",
+      "title": "The Road to SolidJS 2.0",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "z2SA6P7WNoc",
+      "title": "Reasoning Under Uncertainty",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "yCJDmGrk8sM",
+      "title": "Advancing Go Garbage Collection with Green Tea",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "oUTf9j6fWJo",
+      "title": "Reed: The Modern Terminal File Viewer",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "0HEqwk9UMOc",
+      "title": "How to Kill the Code Review",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "6WRiPikxs-Q",
+      "title": "The Architect's Baton",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "cEwAbu6FFRo",
+      "title": "Compound Engineering",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "TmlqoKqMD2Y",
+      "title": "Jujutsu (jj) for Git-compatible Workflow",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "5st-kLcNrE8",
+      "title": "Jujutsu (jj):  An Introduction of its Paradigm Shift",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "P58Zt8A_1Mc",
+      "title": "Swift Firefly",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "_zJ3_d1CODg",
+      "title": "Bevy-Demo",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "DazzkNtnzec",
+      "title": "Design Patterns in Go",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "uqZ-mwxGf2c",
+      "title": "Modern Observability in Go",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "qxOOl1hx1zU",
+      "title": "The Future of Al Programming:  2031 Strategic Outlook",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "vep9hSKc9I0",
+      "title": "Dial9 Demo - Deep Observability in Async Rust",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "LackTxguXFg",
+      "title": "The Programmer's Guide to Essential RFCs",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "TEGFwsAcxK8",
+      "title": "Agent Skills for Flutter",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "sGQrnPJSsPc",
+      "title": "A Semantic Operating System",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Wa0EHhhKV8Q",
+      "title": "Architecting Action: 10 NotebookLM Prompts",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "T-NdEF6btbg",
+      "title": "The Open Market of Al Coding",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "7zFqW-ZcEbo",
+      "title": "The Rust Architect's Sketchbook",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "CXtHwJQphLI",
+      "title": "Production-Ready RabbitMQ in Go",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "9z6mOWQgU84",
+      "title": "Navigating the Al Capital Cycle: 2026 & Beyond",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "kQc99Io3pCo",
+      "title": "HelixDB: The Unified Graph-Vector Database",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "0Sed1oggMKY",
+      "title": "Tokio: The Asynchronous Runtime for Rust",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "7Dchx829X_M",
+      "title": "Architecting the edge for HTTP/3 and QUIC",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "JBh6rzeS-Qc",
+      "title": "Modern Dart",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "TDWC1fFhn9g",
+      "title": "A DeepDive into SIMD & Zig",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "T5FjMjTQCBI",
+      "title": "타입스크립트와 번으로 배우는 프로그래밍 1",
+      "category": "programming",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "s585HlqiyMQ",
+      "title": "The Calculus of ALOHA Networks",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "IYfTi_HNDl4",
+      "title": "Building Production-Grade RabbitMQ in Go",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "DIMW-iHlDxE",
+      "title": "Mastering Comprehensive Rust",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "vSjgNxi7W-4",
+      "title": "yp: The Terminal User Interface Renaissance",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "QE51ybyrQDM",
+      "title": "Designing the Event-Driven Landscape",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "7yqkfHo8Mwk",
+      "title": "Engineering the Overnight Researcher in Zig",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "WRpjJV4SUKc",
+      "title": "Architecting Real-Time State",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Zeg8zSOvoyE",
+      "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
+      "category": "security",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "lexZnOlyml0",
+      "title": "Agentic Platform Engineering with GitHub Copilot",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "SpNfrWmI8iE",
+      "title": "Architecting Scalable Rust Backends",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "QC-vaMcjq3M",
+      "title": "zig-lottie: Compiling Motion",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "n-Yt33ZdEHw",
+      "title": "The Architecture of Modern Identity",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "ymYtSum-2qc",
+      "title": "zig-duckdb-ext",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "BT08SXPvV6U",
+      "title": "Building vibe-rust",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "h31-NtagNoU",
+      "title": "Memory Layout in Zig",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "WMcKFQ200OE",
+      "title": "Flutter & Dart: The 2026 Roadmap",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "cJl2cchaHL8",
+      "title": "pastel-hn",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "zrP3muXzQX4",
+      "title": "Reins: The Framework for Al-Assisted Development",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "IkVazryUiko",
+      "title": "Fuzzy Find Everything",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "nRxqSGBuB4s",
+      "title": "The Essential Algorithmic Toolkit",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "WHonjixQgBY",
+      "title": "The 2026 Architectural Standard",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Y0DQGVALb7I",
+      "title": "Building with Gemini: The Unified Ecosystem",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "xVmoqBYlQMU",
+      "title": "Mastering Rust Feature Flags",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "qyqLjeu8Hng",
+      "title": "영어 리스닝  3000시간의 법칙",
+      "category": "programming",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "FOkG5ScxU88",
+      "title": "Building with Genkit Dart",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "MuDJGnGTn3k",
+      "title": "Leetgo",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Qv9X3ZY474U",
+      "title": "Architectural Evolution of a Vision Tool",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "43UjmZtW2JU",
+      "title": "Mastering Memory in Rust",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Hfut9CfJhN0",
+      "title": "Bubble Tea v2",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "gBb1zn-QtY4",
+      "title": "The Blue Screen Era",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "F59lTcC6xJ0",
+      "title": "Architectural Principles of Fearless Concurrency",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "qbBA7GWZbu4",
+      "title": "Smooth Motion",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "KCuGqld6nOc",
+      "title": "The Go Concurrency Paradox",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "tPDFgVAp4c4",
+      "title": "Breakout Stars and Dominant Titans",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "5Ztm7JNVa8E",
+      "title": "Drasi: The Future of Change-Driven Architecture",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "AcpVuvtSXwI",
+      "title": "microgpt-zig: Atomic Al Training",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "o9yaniXkM-0",
+      "title": "Practical Data Oriented Design in Zig",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "hnMR8rdGCnU",
+      "title": "The Architecture of Fulfillment",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "0U-SUJCmKAU",
+      "title": "From Stateful to Secure",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "oxNF_GNuWpE",
+      "title": "The Pragmatic Go Developer",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Th5MMOFQbh8",
+      "title": "Backend Patterns in Rust",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "d_0swhS1LyQ",
+      "title": "Neural TTS in Pastel-HN",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "IF5sNQH-01c",
+      "title": "NotebookLM's Intelligence Flow",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "4i-ruNPOtB4",
+      "title": "Dismantling the Agile Epic",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "RDa6WtZmW8E",
+      "title": "Mastering Serde in Rust ",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "WdK7PED1ug8",
+      "title": "A Guide to Rust Smart Pointers",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Ul0ixBpd5iM",
+      "title": "Velox: Bring Tauri to Swift",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "9yov-ZVv-Bo",
+      "title": "Hangul + WASM",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "JfGgWiiCTA0",
+      "title": "Shannon: Autonomous Penetration Testing",
+      "category": "security",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "4b-H6ZaoNUE",
+      "title": "Zero Trust in Kubernetes",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "rgY4KTMFOMs",
+      "title": "Secure Web App with Azure AD/OAuth2 Proxy",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "2iIi1H9V-Hg",
+      "title": "Announcing Genkit Dart",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "gVZwfZVAuVE",
+      "title": "Deconstructing Elixir's 400x Type System Acceleration",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Pxh2PcNx9W8",
+      "title": "Modern Docker Networking & Traefik",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "eI2DXGISpbk",
+      "title": "BadgerDB: The Go-Native Key-Value Store",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "TLqdeHlAo3A",
+      "title": "From Bottlenecks to Breakthroughs:",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "ea5lpF3RyzE",
+      "title": "RFC 862 and the Echo Protocol",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "INNKxTAagE4",
+      "title": "Resilient Asynchronous Systems in Go",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "ZBW6YozOu78",
+      "title": "Serverless Analytics with DuckDB & Python",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "LWc3AAHoxnU",
+      "title": "Flutter App Template",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "HOetEEw0ogM",
+      "title": "Enterprise Agentic Al",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "3hSdKvqPcSE",
+      "title": "Architecting AKS Node Auto-Provisioning",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "3ybGkjogcFQ",
+      "title": "Modern State Architecture: The Repository Pattern",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "V2LbQqD1lMM",
+      "title": "Ralph: The Autonomous Vibe Coding Workflow",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "u8XCBK6lGw0",
+      "title": "Custom Graphs in Microsoft Sentinel (Preview)",
+      "category": "security",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Oa3jaLNSZvM",
+      "title": "The Orchestrator's Blueprint",
+      "category": "security",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "a2kADxV0kBM",
+      "title": "zig-twitter: Anatomy of a Hybrid Terminal Client",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "xVdW3yUCbuU",
+      "title": "codeprobe",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Z06RjO-zFxI",
+      "title": "The Modern Git Playbook",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "CA1nlknmR3g",
+      "title": "Containing the Untrusted Agent",
+      "category": "security",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "jzjGcFkAnfs",
+      "title": "React Native vs. Flutter for Enterprise Apps",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "QBUQvfZJpaM",
+      "title": "Modern Cryptography Standards: A Guide to AEAD",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "4_mBGmXA244",
+      "title": "Data Centric Flutter Apps",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "2kvYb2pVe5o",
+      "title": "From Blueprint to Battlefield",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "taBP0Fr3uSQ",
+      "title": "Anatomy of a Supply Chain Attack",
+      "category": "security",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "NztD5fYpXcg",
+      "title": "The 10-Lens Research Analysis Framework",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "ARWkoc3E8uE",
+      "title": "Composition by Design",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "axvxGj3yOgA",
+      "title": "The Memory Management Trilemma",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "OnwiaDRj1-k",
+      "title": "Kubernetes Services & Istio",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "5Vloo08zQ7o",
+      "title": "Bulletproof Frontend Architecture",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "y3WwL48DLYw",
+      "title": "Kubernetes Auto-Scaling Strategies",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "P_xUJi_qt-Q",
+      "title": "Advanced Architectural Synthesis",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "KpSjLQpswW4",
+      "title": "Secure Service-to-Service Authorization with SpiceDB",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "ftODZr2_V5Q",
+      "title": "Kubernetes Version Upgrade Strategy",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "wyIhJ3LMnRg",
+      "title": "W3C Trace Context",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "_mwtz_8lBWc",
+      "title": "The Geometry of Light",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "LUOX5xkSyi0",
+      "title": "CUE: Navigating the Core Features",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "rk_3xU9OF-k",
+      "title": "The Modern Platform Framework",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "_sxPf3tHq3s",
+      "title": "The 100+ Service Problem",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "dDtVuJXVYJk",
+      "title": "The Rules and The Rebellion",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "2Ni8zfsxW6o",
+      "title": "Modernizing Legacy COBOL",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "oHdhgeF4wlI",
+      "title": "A Trillion Transactions",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "MIZ0ATwu7C0",
+      "title": "Architecting Meilisearch on AKS & Istio",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "BsiQrEaF3kU",
+      "title": "MotherDuck: Serverless DuckDB in the Cloud & Client",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "lin_ycbQGtE",
+      "title": "Beat - Anatomy of a Real-Time Visualizer",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "yOOQNnaOLeM",
+      "title": "Zig  Pragmatic Successor to C",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "pzVOjl6mOD4",
+      "title": "The Architect's Guide to Modern Token Security",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "V2cZl5s4EKU",
+      "title": "스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "ORjARjbukhY",
+      "title": "The Golden Path",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "okVlu1qseI4",
+      "title": "Beyond Static Configuration",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Xhq99-YHXCY",
+      "title": "Professional Al Agent Usage via the CLI",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "aiYBPCkvhes",
+      "title": "kube-log-viewer",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "A96r5gqwUrI",
+      "title": "Zig Algorithms: The Art of Zero-Cost Abstraction",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "7eoxSgjwYlM",
+      "title": "Bridging Helm and CUE for Deterministic Value Composition",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "A4-foXsdQiA",
+      "title": "Securing Service-to-Service Communication in Kubernetes",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "YoIXlqspLWE",
+      "title": "Architecting the Autonomous Enterprise",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "lY5TU8qHduM",
+      "title": "The Flight Recorder for Tokio",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "DCGTYftRGWE",
+      "title": "Hardening a Prototype",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "7iWL5-0C66s",
+      "title": "Bridging the Mainframe to the Cloud",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "BiYKKVsJROk",
+      "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Q4qm1hvVR2A",
+      "title": "Dragonfly on AKS",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "j8lMpSezavQ",
+      "title": "The Local SOTA Engine for Your Digital Brain",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "tyR8SdHpOeY",
+      "title": "Book-Finder Architecture",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "0ttrfTfP864",
+      "title": "ra-token-authority",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "GVq5DvGFLpI",
+      "title": "Vercel 대시보드 보안 안내서",
+      "category": "programming",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "gu-5cim8mpA",
+      "title": "The Modern Al/BI Developer's Toolkit",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "5-ZNXQegVhs",
+      "title": "The Strategic Synthesis:Shift Left & Shift Right",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "G-vvSNwm-jE",
+      "title": "The Final 5 Years",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "_LrmdP64y6A",
+      "title": "The Pomology Field Guide",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "am9FvNiJ24M",
+      "title": "The 2026 Change Data Capture Blueprint",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "84M1mVL0cjo",
+      "title": "Pathways Over Tools",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "H-gkXATx8r0",
+      "title": "Cryptographic Usability & The Tink Library",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "SeYrpzDTn6A",
+      "title": "Modern Microservice Trust",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "drVBXipEOAs",
+      "title": "Jinju y Jirisan: el Valor a la Sabiduría",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "R2zktRqz81U",
+      "title": "A Blueprint for Secure Azure Authentication in Go",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "8ycnldvJmuA",
+      "title": "The Blueprint for Enterprise AI on Azure",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Z98SHl4nSFI",
+      "title": "Rebalancing the SDLC in the Al Era",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "WahgsFhj3W0",
+      "title": "melos-rs: Architectural Anatomy",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "1VjSLqfPf9s",
+      "title": "The NIST Cybersecurity Framework 2.0",
+      "category": "security",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "F6aMGDfVAFg",
+      "title": "비동기 처리 - async/await",
+      "category": "programming",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "QLcNRIHYmj0",
+      "title": "Un Viaje a Sokcho",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "MBnVggs6k5g",
+      "title": "The Exchange Rate of Your Life",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "xfOATs8ncLM",
+      "title": "Isolating Observability in Go",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "CASZX56r-tk",
+      "title": "Mi Cuaderno de Viaje: Andong",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "EvcUSPWkOA8",
+      "title": "Jeonju y Gochang: Apuntes de Corea",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "ctKLD4d146g",
+      "title": "The Codebase Lifecycle",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "ZlEq2jFb8tI",
+      "title": "Mastering Rust Error Handling",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "PNFlYx8HiOM",
+      "title": "The Art of Git Gardening",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "uhXcsWYhdkA",
+      "title": "The Strategic Roadmap for Data Classification",
+      "category": "security",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "nxuaOP3C1Ns",
+      "title": "Bocetos de Daejeon",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "K1O4kHjFJaQ",
+      "title": "The Three Pillars of Financial Freedom",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "KBfVy5-M-5k",
+      "title": "The Retirement Red Zone",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "nnL78ZVifZU",
+      "title": "Reading the Market's Story",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "a8heWpae5p0",
+      "title": "minikv: Distributed Systems Meets Data Science",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "KdLQEv3Tiiw",
+      "title": "Mastering Hybrid CDC Architectures",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "tcrNdx1yH_E",
+      "title": "Continuous Flow",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "u60g2nMtVi4",
+      "title": "The Data Singularity in Microsoft Fabric",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "HiaotGxHTfo",
+      "title": "PictureViewer",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "MaP2i4dTiQk",
+      "title": "Taming the Genie",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "_4BC0zHGYTw",
+      "title": "The Mathematics of Human Capital Compounding",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "to1PClyd0YA",
+      "title": "Architecting Kubernetes with CUE",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "F09-7mNt3F4",
+      "title": "Architecting AKS Networking - Trade-offs",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "VxWyvAO3qb8",
+      "title": "The Two-System Pattern",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "KDnTY0Svmr0",
+      "title": "AEM + Meilisearch: A High-Performance Integration",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "5KB2zLGjaps",
+      "title": "Conventional Commits",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "1MPD6MILLcQ",
+      "title": "2025 Global Threat Report",
+      "category": "security",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "rxQvDuohbt8",
+      "title": "Jeju: Un Recuerdo en Tonos Pastel",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "kvdBJSRUchA",
+      "title": "Seúl 2026: Tu Diario de Viaje",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Hd767VA7Z-0",
+      "title": "Strategic Implementation of Blue-Green Deployment",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "mYClRFIlsFc",
+      "title": "ScyllaDB: The Next-Generation NoSQL Platform",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "a1hIA6KQUFE",
+      "title": "The Center Has a Bias",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "uU46ltIELqk",
+      "title": "Generative Al at Scale",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "guwVjGsg3h4",
+      "title": "The Pragmatics of Order",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "3Fpey_L_XRU",
+      "title": "Cloth Simulation ",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "9oSUtndLto4",
+      "title": "Unifying AI, Copilot & Power BI",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "dsxuWtfzBGI",
+      "title": "알고리즘에서 코드로  TypeScript 가이드",
+      "category": "programming",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "HFmkEvxyJE4",
+      "title": "The Final Five Years",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "bn-Nvmxgur8",
+      "title": "The 2026 Barbell Strategy",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "C5HqbzLRYZ0",
+      "title": "K8s Services  AKS & Istio",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "rJTUB-u8U2Y",
+      "title": "Kubernetes Cluster Architecture",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "US7oyxbcJCc",
+      "title": "Cloth Simulation: A Performance Study",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "0NLj8g2hQNk",
+      "title": "The Client's Guide to 'ra-token-authority'",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "awa_UWXFOao",
+      "title": "Hasta pronto, Danyang",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "z76NXRg1YWs",
+      "title": "El Arte de Pedir Comida en Español",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "MDNRiJN7aEg",
+      "title": "An Ambitious Ascent",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "tmerUd7eiy4",
+      "title": "Beyond the Default ",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "4h84JgKkt94",
+      "title": "Gyeongju: El Museo Sin Muros",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "JlPl9MskqJM",
+      "title": "Mi Cuaderno de Viaje: Yeosu",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "vH8kEIlJXf0",
+      "title": "Guía de Supervivencia en Latinoamérica",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "ybR0RxXj2_M",
+      "title": "2050: The Post-Labor Paradigm",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "2NoJVXPpcco",
+      "title": "The 2026 Market Barbell",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "EMXUbohWsWs",
+      "title": "The 2026 Lifecycle ETF Playbook",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "A7eoKD5m6Ek",
+      "title": "Securely Exposing AKS Applications",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "4wX4mGuiTjw",
+      "title": "Teaching an Ancient Calendar to a Microscopic AI",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "B2x09utLjtM",
+      "title": "The Modern Delivery Flywheel",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "D1Hth_78ftg",
+      "title": "타입스크립트와 번으로 만드는 TODO 리스트",
+      "category": "programming",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "gKYw0_jkNFI",
+      "title": "마음 속의 계산기",
+      "category": "programming",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "vNHblhm9oQo",
+      "title": "Mi Cuaderno de Busan",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "nfD3KzIriM8",
+      "title": "The architecture of wealth",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "fMjflPvjaJ8",
+      "title": "Azure Enterprise Edge Lab",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "RLlEbcXO6k8",
+      "title": "Migrating Workloads from AWS to Azure",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "snRi_JET1bg",
+      "title": "Deploying CSR Applications on Vercel Versus AKS",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "Pp36ysjfWd8",
+      "title": "Hangul Typing",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "HxB-cJIbEgE",
+      "title": "2FA Orchestration in PingFederate",
+      "category": "security",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "oSqbvvcADmI",
+      "title": "Guía de Supervivencia: Español para tu Llegada a Latinoamérica",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "l9UUqD2Bz2E",
+      "title": "The Mystery of the Nickel Coke",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "nJ10P-fRqZQ",
+      "title": "Modern Hybrid Identity ",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "js95nIDeA-c",
+      "title": "The Professional Rust Toolbox",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "rwNfzJanPmk",
+      "title": "Ganghwa: Un Viaje en Tonos Pastel",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "YYVxMSqBqe8",
+      "title": "Nesting in Global Finance",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "C6wLm6NRZW4",
+      "title": "The Complete Codebase Lifecycle",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "tqDisu2tmG0",
+      "title": "AI Agents  Idea to Tool",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "N4nRAfBZ3BE",
+      "title": "Choosing Your Messaging Fabric on AKS",
+      "category": "kubernetes",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "iEn_PMcBlDk",
+      "title": "알고리즘 완전 정복",
+      "category": "programming",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "L9sxbq8ugoU",
+      "title": "Tu Viaje al Corazón de Corea",
+      "category": "korea",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "BAxPZdgmgRQ",
+      "title": "The 2026 State of Al Agents",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "FDYu2fllfuE",
+      "title": "The 98  Prediction Problem",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "s1BoGn9r7oE",
+      "title": "The 2026  Playbook for High-Yield & Covered Call ETFs",
+      "category": "finance",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    },
+    {
+      "id": "z_Ydy_-cI1U",
+      "title": "Micro-Processing the Hippo's Waste",
+      "category": "development",
+      "reason": "gemini quota exceeded (429/resource_exhausted)"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-14T10:09:22.558Z",
-  "totalVideos": 253,
+  "generatedAt": "2026-04-17T03:25:16.981Z",
+  "totalVideos": 259,
   "categories": [
     {
       "name": "korea",
@@ -262,12 +262,12 @@
         "korea",
         "development"
       ],
-      "videoCount": 20,
-      "totalViews": 380,
+      "videoCount": 21,
+      "totalViews": 385,
       "topTags": [
         {
           "tag": "curiosity",
-          "count": 3
+          "count": 4
         },
         {
           "tag": "stocks",
@@ -301,6 +301,16 @@
       ],
       "videos": [
         {
+          "id": "vzwjAlEz_bI",
+          "title": "The End of the American Penny",
+          "views": 3,
+          "date": "2026-04-16T00:01:10Z",
+          "category": "finance",
+          "tags": [
+            "curiosity"
+          ]
+        },
+        {
           "id": "YYVxMSqBqe8",
           "title": "Nesting in Global Finance",
           "views": 6,
@@ -313,7 +323,7 @@
         {
           "id": "l9UUqD2Bz2E",
           "title": "The Mystery of the Nickel Coke",
-          "views": 7,
+          "views": 8,
           "date": "2026-04-10T15:32:57Z",
           "category": "finance",
           "tags": [
@@ -323,7 +333,7 @@
         {
           "id": "HFmkEvxyJE4",
           "title": "The Final Five Years",
-          "views": 12,
+          "views": 13,
           "date": "2026-04-08T03:21:12Z",
           "category": "finance"
         },
@@ -370,7 +380,27 @@
           "title": "Navigating the Al Capital Cycle: 2026 & Beyond",
           "views": 87,
           "date": "2026-02-17T14:46:13Z",
-          "category": "finance"
+          "category": "finance",
+          "detail": {
+            "summary": "This strategic analysis examines the long-term AI capital cycle, forecasting a transition from the current infrastructure-heavy buildout phase to an application-driven productivity era, and eventually a market defined by the scarcity of real assets by 2050. It argues for a disciplined deleveraging strategy in 2026 to survive a predicted 'cleansing correction' caused by the widening gap between massive capital expenditures and actual revenue returns.",
+            "takeaways": [
+              "A 'cleansing correction' is projected for 2026 with a 60% probability, likely resulting in 30-55% corrections for the Magnificent 7 and a purge of unprofitable AI and SaaS pure plays.",
+              "The 2030-2040 phase marks the transition from 'building the brain' to 'using the brain,' where humanoid robotics and AI operating systems are expected to drive a 50% labor replacement rate.",
+              "Strategic risk indicators for 2026 include a rising 30% project abandonment rate in proof-of-concepts, circular financing loops between startups and GPU providers, and physical power constraints.",
+              "By the 2040s, the commoditization of digital intelligence will shift capital toward 'absolute scarcity' assets such as land, Bitcoin, and physical resources that AI cannot replicate.",
+              "Immediate tactical priorities involve concentrating on 'Cash Flow Kings' with superior free-cash-flow-to-capex ratios while maintaining 15-35% of portfolios in cash or short-term bonds."
+            ],
+            "topics": [
+              "ai capital cycle",
+              "strategic deleveraging",
+              "humanoid robotics",
+              "data center infrastructure",
+              "capital expenditure (capex) vs revenue",
+              "post-agi scarcity",
+              "small modular reactors",
+              "k-shaped economy"
+            ]
+          }
         },
         {
           "id": "bn-Nvmxgur8",
@@ -462,8 +492,8 @@
         "security",
         "development"
       ],
-      "videoCount": 54,
-      "totalViews": 1448,
+      "videoCount": 55,
+      "totalViews": 1493,
       "topTags": [
         {
           "tag": "aks",
@@ -478,6 +508,10 @@
           "count": 6
         },
         {
+          "tag": "azure",
+          "count": 5
+        },
+        {
           "tag": "rabbitmq",
           "count": 5
         },
@@ -486,16 +520,16 @@
           "count": 5
         },
         {
-          "tag": "azure",
-          "count": 4
-        },
-        {
           "tag": "hybrid",
           "count": 3
         },
         {
           "tag": "networking",
           "count": 3
+        },
+        {
+          "tag": "wif",
+          "count": 2
         },
         {
           "tag": "rust",
@@ -540,10 +574,6 @@
         {
           "tag": "workload identity",
           "count": 2
-        },
-        {
-          "tag": "mtls",
-          "count": 2
         }
       ],
       "clusters": [
@@ -567,7 +597,7 @@
             {
               "id": "nJ10P-fRqZQ",
               "title": "Modern Hybrid Identity ",
-              "views": 7,
+              "views": 8,
               "date": "2026-03-17T22:31:43Z",
               "category": "kubernetes",
               "tags": [
@@ -600,7 +630,12 @@
                 "aks",
                 "networking",
                 "cni"
-              ]
+              ],
+              "detail": {
+                "summary": "*Transcript unavailable for this video.*",
+                "takeaways": [],
+                "topics": []
+              }
             },
             {
               "id": "Hd767VA7Z-0",
@@ -655,7 +690,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 40,
+              "views": 42,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -800,7 +835,7 @@
             {
               "id": "KdLQEv3Tiiw",
               "title": "Mastering Hybrid CDC Architectures",
-              "views": 15,
+              "views": 16,
               "date": "2026-04-08T02:45:20Z",
               "category": "kubernetes",
               "tags": [
@@ -842,7 +877,7 @@
             {
               "id": "QE51ybyrQDM",
               "title": "Designing the Event-Driven Landscape",
-              "views": 68,
+              "views": 69,
               "date": "2026-03-23T04:50:00Z",
               "category": "kubernetes",
               "tags": [
@@ -1029,7 +1064,7 @@
             {
               "id": "KdLQEv3Tiiw",
               "title": "Mastering Hybrid CDC Architectures",
-              "views": 15,
+              "views": 16,
               "date": "2026-04-08T02:45:20Z",
               "category": "kubernetes",
               "tags": [
@@ -1043,7 +1078,7 @@
             {
               "id": "WRpjJV4SUKc",
               "title": "Architecting Real-Time State",
-              "views": 67,
+              "views": 72,
               "date": "2026-04-05T12:14:36Z",
               "category": "kubernetes",
               "tags": [
@@ -1051,12 +1086,32 @@
                 "debezium",
                 "rabbitmq",
                 "outbox"
-              ]
+              ],
+              "detail": {
+                "summary": "This video outlines a technical blueprint for architecting real-time state synchronization using Debezium for log-based Change Data Capture (CDC) and RabbitMQ as a message broker within Kubernetes. The session argues that log-based CDC is superior to query-based polling because it captures every state change, including hard deletes, with minimal impact on the source database.",
+                "takeaways": [
+                  "Log-based CDC via Debezium provides millisecond latency and high-fidelity data capture by reading transaction logs like the Postgres WAL or MySQL binlog, avoiding the performance penalties of traditional polling.",
+                  "The Debezium standalone topology enables streaming directly to RabbitMQ, bypassing the operational overhead of managing a Kafka cluster while utilizing RabbitMQ's topic exchanges for flexible wildcard-based routing.",
+                  "Stateful management in Kubernetes is critical; Debezium offsets must be stored in persistent volumes to ensure the connector can resume from the exact point in the transaction log after pod restarts.",
+                  "To prevent critical system failures, teams must monitor replication slot lag, as a stalled connector can cause transaction logs to accumulate and rapidly exhaust database disk space.",
+                  "Downstream consumers must be designed for idempotency to handle Debezium's 'at-least-once' delivery guarantee and prevent data inconsistency during retries."
+                ],
+                "topics": [
+                  "change data capture (cdc)",
+                  "debezium standalone",
+                  "rabbitmq topic exchange",
+                  "outbox pattern",
+                  "kubernetes persistent volumes",
+                  "replication slot lag",
+                  "write-ahead log",
+                  "distributed tracing"
+                ]
+              }
             },
             {
               "id": "7iWL5-0C66s",
               "title": "Bridging the Mainframe to the Cloud",
-              "views": 22,
+              "views": 24,
               "date": "2026-04-04T10:58:19Z",
               "category": "kubernetes",
               "tags": [
@@ -1151,7 +1206,7 @@
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 38,
+              "views": 41,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -1214,12 +1269,94 @@
           ]
         },
         {
+          "name": "CI/CD & DevOps",
+          "videos": [
+            {
+              "id": "mGMaqTvWrCc",
+              "title": "Building an End-to-End MLOps Pipeline",
+              "views": 20,
+              "date": "2026-04-14T23:21:34Z",
+              "category": "kubernetes",
+              "tags": [
+                "azure",
+                "mlops",
+                "pipeline",
+                "wif"
+              ]
+            },
+            {
+              "id": "BiYKKVsJROk",
+              "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
+              "views": 21,
+              "date": "2026-04-01T10:26:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "istio",
+                "argocd",
+                "gitops",
+                "wif"
+              ]
+            },
+            {
+              "id": "Hd767VA7Z-0",
+              "title": "Strategic Implementation of Blue-Green Deployment",
+              "views": 13,
+              "date": "2026-03-10T11:40:52Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "blue-green",
+                "zero downtime",
+                "istio"
+              ]
+            },
+            {
+              "id": "ORjARjbukhY",
+              "title": "The Golden Path",
+              "views": 25,
+              "date": "2026-02-21T10:33:08Z",
+              "category": "kubernetes",
+              "tags": [
+                "golden",
+                "deployments",
+                "tandardization"
+              ]
+            },
+            {
+              "id": "7eoxSgjwYlM",
+              "title": "Bridging Helm and CUE for Deterministic Value Composition",
+              "views": 23,
+              "date": "2026-02-19T13:24:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "cue",
+                "composition",
+                "config-as-data",
+                "shift left"
+              ]
+            },
+            {
+              "id": "_sxPf3tHq3s",
+              "title": "The 100+ Service Problem",
+              "views": 27,
+              "date": "2026-01-16T08:00:15Z",
+              "category": "kubernetes",
+              "tags": [
+                "helm",
+                "ci/cd",
+                "kubernetes"
+              ]
+            }
+          ]
+        },
+        {
           "name": "Security",
           "videos": [
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 40,
+              "views": 42,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -1293,69 +1430,71 @@
           ]
         },
         {
-          "name": "CI/CD & DevOps",
+          "name": "AI & ML",
           "videos": [
             {
-              "id": "BiYKKVsJROk",
-              "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
-              "views": 21,
-              "date": "2026-04-01T10:26:37Z",
+              "id": "mGMaqTvWrCc",
+              "title": "Building an End-to-End MLOps Pipeline",
+              "views": 20,
+              "date": "2026-04-14T23:21:34Z",
               "category": "kubernetes",
               "tags": [
-                "aks",
-                "istio",
-                "argocd",
-                "gitops",
+                "azure",
+                "mlops",
+                "pipeline",
                 "wif"
               ]
             },
             {
-              "id": "Hd767VA7Z-0",
-              "title": "Strategic Implementation of Blue-Green Deployment",
-              "views": 13,
-              "date": "2026-03-10T11:40:52Z",
+              "id": "7iWL5-0C66s",
+              "title": "Bridging the Mainframe to the Cloud",
+              "views": 24,
+              "date": "2026-04-04T10:58:19Z",
+              "category": "kubernetes",
+              "tags": [
+                "mainframe",
+                "ibm mq",
+                "shovel",
+                "rabbitmq"
+              ]
+            },
+            {
+              "id": "lexZnOlyml0",
+              "title": "Agentic Platform Engineering with GitHub Copilot",
+              "views": 66,
+              "date": "2026-03-27T03:34:28Z",
+              "category": "kubernetes",
+              "tags": [
+                "ai",
+                "copilot",
+                "agentic",
+                "platform",
+                "engineering"
+              ]
+            },
+            {
+              "id": "n-Yt33ZdEHw",
+              "title": "The Architecture of Modern Identity",
+              "views": 62,
+              "date": "2026-03-18T23:55:13Z",
+              "category": "kubernetes",
+              "tags": [
+                "identity",
+                "kerberos",
+                "saml",
+                "oauth2",
+                "oidc",
+                "scim"
+              ]
+            },
+            {
+              "id": "8ycnldvJmuA",
+              "title": "The Blueprint for Enterprise AI on Azure",
+              "views": 18,
+              "date": "2026-01-03T01:41:31Z",
               "category": "kubernetes",
               "tags": [
                 "aks",
-                "blue-green",
-                "zero downtime",
-                "istio"
-              ]
-            },
-            {
-              "id": "ORjARjbukhY",
-              "title": "The Golden Path",
-              "views": 25,
-              "date": "2026-02-21T10:33:08Z",
-              "category": "kubernetes",
-              "tags": [
-                "golden",
-                "deployments",
-                "tandardization"
-              ]
-            },
-            {
-              "id": "7eoxSgjwYlM",
-              "title": "Bridging Helm and CUE for Deterministic Value Composition",
-              "views": 23,
-              "date": "2026-02-19T13:24:37Z",
-              "category": "kubernetes",
-              "tags": [
-                "cue",
-                "composition",
-                "config-as-data",
-                "shift left"
-              ]
-            },
-            {
-              "id": "_sxPf3tHq3s",
-              "title": "The 100+ Service Problem",
-              "views": 27,
-              "date": "2026-01-16T08:00:15Z",
-              "category": "kubernetes",
-              "tags": [
-                "helm",
-                "ci/cd",
                 "kubernetes"
               ]
             }
@@ -1393,7 +1532,7 @@
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 38,
+              "views": 41,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -1451,7 +1590,7 @@
             {
               "id": "nJ10P-fRqZQ",
               "title": "Modern Hybrid Identity ",
-              "views": 7,
+              "views": 8,
               "date": "2026-03-17T22:31:43Z",
               "category": "kubernetes",
               "tags": [
@@ -1465,7 +1604,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 40,
+              "views": 42,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -1571,70 +1710,12 @@
           ]
         },
         {
-          "name": "AI & ML",
-          "videos": [
-            {
-              "id": "7iWL5-0C66s",
-              "title": "Bridging the Mainframe to the Cloud",
-              "views": 22,
-              "date": "2026-04-04T10:58:19Z",
-              "category": "kubernetes",
-              "tags": [
-                "mainframe",
-                "ibm mq",
-                "shovel",
-                "rabbitmq"
-              ]
-            },
-            {
-              "id": "lexZnOlyml0",
-              "title": "Agentic Platform Engineering with GitHub Copilot",
-              "views": 66,
-              "date": "2026-03-27T03:34:28Z",
-              "category": "kubernetes",
-              "tags": [
-                "ai",
-                "copilot",
-                "agentic",
-                "platform",
-                "engineering"
-              ]
-            },
-            {
-              "id": "n-Yt33ZdEHw",
-              "title": "The Architecture of Modern Identity",
-              "views": 62,
-              "date": "2026-03-18T23:55:13Z",
-              "category": "kubernetes",
-              "tags": [
-                "identity",
-                "kerberos",
-                "saml",
-                "oauth2",
-                "oidc",
-                "scim"
-              ]
-            },
-            {
-              "id": "8ycnldvJmuA",
-              "title": "The Blueprint for Enterprise AI on Azure",
-              "views": 18,
-              "date": "2026-01-03T01:41:31Z",
-              "category": "kubernetes",
-              "tags": [
-                "aks",
-                "kubernetes"
-              ]
-            }
-          ]
-        },
-        {
           "name": "Rust",
           "videos": [
             {
               "id": "a8heWpae5p0",
               "title": "minikv: Distributed Systems Meets Data Science",
-              "views": 15,
+              "views": 17,
               "date": "2026-04-12T04:50:10Z",
               "category": "kubernetes",
               "tags": [
@@ -1678,9 +1759,22 @@
       ],
       "videos": [
         {
+          "id": "mGMaqTvWrCc",
+          "title": "Building an End-to-End MLOps Pipeline",
+          "views": 20,
+          "date": "2026-04-14T23:21:34Z",
+          "category": "kubernetes",
+          "tags": [
+            "azure",
+            "mlops",
+            "pipeline",
+            "wif"
+          ]
+        },
+        {
           "id": "oHdhgeF4wlI",
           "title": "A Trillion Transactions",
-          "views": 26,
+          "views": 30,
           "date": "2026-04-12T14:38:25Z",
           "category": "kubernetes",
           "tags": [
@@ -1693,7 +1787,7 @@
         {
           "id": "a8heWpae5p0",
           "title": "minikv: Distributed Systems Meets Data Science",
-          "views": 15,
+          "views": 17,
           "date": "2026-04-12T04:50:10Z",
           "category": "kubernetes",
           "tags": [
@@ -1706,7 +1800,7 @@
         {
           "id": "KdLQEv3Tiiw",
           "title": "Mastering Hybrid CDC Architectures",
-          "views": 15,
+          "views": 16,
           "date": "2026-04-08T02:45:20Z",
           "category": "kubernetes",
           "tags": [
@@ -1720,7 +1814,7 @@
         {
           "id": "WRpjJV4SUKc",
           "title": "Architecting Real-Time State",
-          "views": 67,
+          "views": 72,
           "date": "2026-04-05T12:14:36Z",
           "category": "kubernetes",
           "tags": [
@@ -1728,12 +1822,32 @@
             "debezium",
             "rabbitmq",
             "outbox"
-          ]
+          ],
+          "detail": {
+            "summary": "This video outlines a technical blueprint for architecting real-time state synchronization using Debezium for log-based Change Data Capture (CDC) and RabbitMQ as a message broker within Kubernetes. The session argues that log-based CDC is superior to query-based polling because it captures every state change, including hard deletes, with minimal impact on the source database.",
+            "takeaways": [
+              "Log-based CDC via Debezium provides millisecond latency and high-fidelity data capture by reading transaction logs like the Postgres WAL or MySQL binlog, avoiding the performance penalties of traditional polling.",
+              "The Debezium standalone topology enables streaming directly to RabbitMQ, bypassing the operational overhead of managing a Kafka cluster while utilizing RabbitMQ's topic exchanges for flexible wildcard-based routing.",
+              "Stateful management in Kubernetes is critical; Debezium offsets must be stored in persistent volumes to ensure the connector can resume from the exact point in the transaction log after pod restarts.",
+              "To prevent critical system failures, teams must monitor replication slot lag, as a stalled connector can cause transaction logs to accumulate and rapidly exhaust database disk space.",
+              "Downstream consumers must be designed for idempotency to handle Debezium's 'at-least-once' delivery guarantee and prevent data inconsistency during retries."
+            ],
+            "topics": [
+              "change data capture (cdc)",
+              "debezium standalone",
+              "rabbitmq topic exchange",
+              "outbox pattern",
+              "kubernetes persistent volumes",
+              "replication slot lag",
+              "write-ahead log",
+              "distributed tracing"
+            ]
+          }
         },
         {
           "id": "7Dchx829X_M",
           "title": "Architecting the edge for HTTP/3 and QUIC",
-          "views": 85,
+          "views": 89,
           "date": "2026-04-05T00:11:43Z",
           "category": "kubernetes",
           "tags": [
@@ -1747,7 +1861,7 @@
         {
           "id": "7iWL5-0C66s",
           "title": "Bridging the Mainframe to the Cloud",
-          "views": 22,
+          "views": 24,
           "date": "2026-04-04T10:58:19Z",
           "category": "kubernetes",
           "tags": [
@@ -1801,7 +1915,7 @@
         {
           "id": "QE51ybyrQDM",
           "title": "Designing the Event-Driven Landscape",
-          "views": 68,
+          "views": 69,
           "date": "2026-03-23T04:50:00Z",
           "category": "kubernetes",
           "tags": [
@@ -1854,7 +1968,7 @@
         {
           "id": "nJ10P-fRqZQ",
           "title": "Modern Hybrid Identity ",
-          "views": 7,
+          "views": 8,
           "date": "2026-03-17T22:31:43Z",
           "category": "kubernetes",
           "tags": [
@@ -1924,7 +2038,12 @@
             "aks",
             "networking",
             "cni"
-          ]
+          ],
+          "detail": {
+            "summary": "*Transcript unavailable for this video.*",
+            "takeaways": [],
+            "topics": []
+          }
         },
         {
           "id": "Hd767VA7Z-0",
@@ -2077,7 +2196,7 @@
         {
           "id": "eI2DXGISpbk",
           "title": "BadgerDB: The Go-Native Key-Value Store",
-          "views": 38,
+          "views": 41,
           "date": "2026-02-13T00:09:38Z",
           "category": "kubernetes",
           "tags": [
@@ -2101,7 +2220,7 @@
         {
           "id": "rgY4KTMFOMs",
           "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-          "views": 40,
+          "views": 42,
           "date": "2026-02-05T14:29:16Z",
           "category": "kubernetes",
           "tags": [
@@ -2369,8 +2488,8 @@
         "programming",
         "security"
       ],
-      "videoCount": 144,
-      "totalViews": 17185,
+      "videoCount": 148,
+      "totalViews": 17779,
       "topTags": [
         {
           "tag": "rust",
@@ -2378,11 +2497,11 @@
         },
         {
           "tag": "zig",
-          "count": 26
+          "count": 27
         },
         {
           "tag": "ai",
-          "count": 19
+          "count": 20
         },
         {
           "tag": "go",
@@ -2417,6 +2536,10 @@
           "count": 5
         },
         {
+          "tag": "curiosity",
+          "count": 4
+        },
+        {
           "tag": "rabbitmq",
           "count": 4
         },
@@ -2433,7 +2556,11 @@
           "count": 4
         },
         {
-          "tag": "curiosity",
+          "tag": "rfc",
+          "count": 3
+        },
+        {
+          "tag": "context",
           "count": 3
         },
         {
@@ -2442,14 +2569,6 @@
         },
         {
           "tag": "llm",
-          "count": 3
-        },
-        {
-          "tag": "2026",
-          "count": 3
-        },
-        {
-          "tag": "echo",
           "count": 3
         }
       ],
@@ -2460,7 +2579,7 @@
             {
               "id": "BT08SXPvV6U",
               "title": "Building vibe-rust",
-              "views": 59,
+              "views": 60,
               "date": "2026-04-04T14:34:30Z",
               "category": "development",
               "tags": [
@@ -2473,7 +2592,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4074,
+              "views": 4101,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -2483,30 +2602,30 @@
                 "languages"
               ],
               "detail": {
-                "summary": "Zero-copy architecture is a high-performance design philosophy that eliminates the CPU's role as a manual data mover, instead using it as an orchestrator for direct hardware transfers. By bypassing user-space buffers and minimizing context switching, this approach significantly reduces latency and resource contention in data-intensive systems.",
+                "summary": "This video provides a deep dive into zero-copy architecture, an optimization strategy that eliminates the CPU's role as a middleman in data movement. It argues that by leveraging system calls like sendfile and shared memory formats, systems can bypass redundant context switches and memory-to-memory copies to achieve maximum throughput.",
                 "takeaways": [
-                  "Traditional IO operations are inefficient due to four context switches and two CPU-intensive data copies between kernel and user space.",
-                  "System-level zero copy utilizes the sendfile system call to pipe data directly from storage to the network interface, cutting overhead by half.",
-                  "Application-level zero copy avoids the 'serialization tax' using technologies like Apache Arrow and FlatBuffers that allow for direct memory access without decoding.",
-                  "Modern languages like Go and Rust provide implicit abstractions to automatically use zero-copy system calls, while Zig offers explicit low-level control.",
-                  "Advanced frameworks like DPDK and RDMA push efficiency further by bypassing the OS kernel or even the remote CPU during machine-to-machine transfers."
+                  "Traditional I/O requires four context switches and four data copies, two of which consume expensive CPU cycles, whereas zero-copy reduces this to two switches and zero CPU copies.",
+                  "System-level zero-copy uses DMA to transfer data directly between hardware interfaces and kernel buffers, a technique utilized by Apache Kafka and Nginx for high-performance streaming.",
+                  "Application-level zero-copy reduces overhead through shared columnar formats (Apache Arrow) and binary structures (FlatBuffers) that eliminate the 'deserialization tax' and redundant allocations.",
+                  "Hardware-focused optimizations like DPDK and RDMA provide the ultimate performance tier by bypassing the Linux kernel network stack and enabling direct machine-to-machine memory transfers.",
+                  "Modern language toolchains provide a spectrum of control: Go and Rust offer implicit optimizations via standard library abstractions, while Zig provides explicit access to raw POSIX system calls."
                 ],
                 "topics": [
-                  "zero copy architecture",
-                  "context switching",
-                  "direct memory access (dma)",
+                  "zero-copy architecture",
                   "sendfile system call",
-                  "serialization overhead",
-                  "apache kafka",
-                  "remote direct memory access (rdma)",
-                  "memory management"
+                  "direct memory access (dma)",
+                  "context switching",
+                  "kernel vs user space",
+                  "apache arrow",
+                  "netty compositebytebuf",
+                  "dpdk and rdma"
                 ]
               }
             },
             {
               "id": "F59lTcC6xJ0",
               "title": "Architectural Principles of Fearless Concurrency",
-              "views": 48,
+              "views": 49,
               "date": "2026-03-28T22:00:43Z",
               "category": "development",
               "tags": [
@@ -2554,7 +2673,7 @@
             {
               "id": "vep9hSKc9I0",
               "title": "Dial9 Demo - Deep Observability in Async Rust",
-              "views": 103,
+              "views": 104,
               "date": "2026-03-22T10:40:21Z",
               "category": "development",
               "tags": [
@@ -2568,7 +2687,7 @@
             {
               "id": "lY5TU8qHduM",
               "title": "The Flight Recorder for Tokio",
-              "views": 23,
+              "views": 25,
               "date": "2026-03-20T22:45:15Z",
               "category": "development",
               "tags": [
@@ -2595,7 +2714,7 @@
             {
               "id": "_zJ3_d1CODg",
               "title": "Bevy-Demo",
-              "views": 110,
+              "views": 116,
               "date": "2026-03-19T00:18:34Z",
               "category": "development",
               "tags": [
@@ -2603,7 +2722,27 @@
                 "graphics",
                 "math",
                 "bevy"
-              ]
+              ],
+              "detail": {
+                "summary": "This technical analysis explores the architectural synergy between the Bevy game engine's Entity Component System (ECS) and fundamental game mathematics. It posits that high-performance, maintainable games are built by decoupling data from logic and utilizing Rust's type system to enforce mathematical safety and deterministic simulations.",
+                "takeaways": [
+                  "Bevy's ECS architecture maximizes modularity by treating entities as mere integer IDs, components as raw data, and systems as pure functions that query component intersections.",
+                  "Temporal consistency is achieved by separating variable rendering frame rates from fixed 120Hz update cycles for physics and game logic to ensure cross-platform determinism.",
+                  "Numerical integration selection is performance-critical: Symplectic Euler is preferred for energy conservation in orbital mechanics, while Verlet integration offers superior stability for position-based constraints like ropes and cloth.",
+                  "Rust-specific idioms such as 'let-else' guards and 'validated types' (e.g., Dir3) are used to eliminate common game dev bugs like null-pointer-style errors and NaN propagation from zero-vector normalization.",
+                  "Physically accurate emergent behaviors, such as the Boids algorithm and Cellular Automata, require specific memory strategies like double-buffering and toroidal wrapping to prevent state corruption."
+                ],
+                "topics": [
+                  "bevy engine",
+                  "entity component system",
+                  "rust idioms",
+                  "numerical integration",
+                  "verlet integration",
+                  "quaternion math",
+                  "boids algorithm",
+                  "position based dynamics"
+                ]
+              }
             },
             {
               "id": "DIMW-iHlDxE",
@@ -2702,7 +2841,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 86,
+              "views": 89,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -2713,7 +2852,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 304,
+              "views": 314,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -2924,7 +3063,27 @@
                 "axum",
                 "tracing",
                 "tokio"
-              ]
+              ],
+              "detail": {
+                "summary": "The Rust Architect Sketchbook provides a comprehensive blueprint for designing high-performance systems by leveraging the Rust ecosystem's modular libraries. It argues that a robust architecture relies on the strict separation of IO-bound and CPU-bound workloads while utilizing the Tower ecosystem as a unifying abstraction for networking services.",
+                "takeaways": [
+                  "To prevent thread starvation in asynchronous runpoints, CPU-intensive tasks should be offloaded from Tokio to Rayon using the spawn_blocking bridge.",
+                  "The Tower Service trait serves as a universal interface for both Axum and Tonic, allowing developers to build composable middleware layers for authentication, logging, and rate limiting.",
+                  "Multiple protocols like HTTP and gRPC can be multiplexed on a single port by using tower::steer to route requests based on content-type headers.",
+                  "Error handling strategy should be bifurcated between 'thiserror' for matchable, structured library errors and 'anyhow' for flexible application-level error propagation.",
+                  "Observability is achieved through the tracing crate, which utilizes spans and the instrument macro to capture structured, event-based diagnostic data throughout a request's lifecycle."
+                ],
+                "topics": [
+                  "tokio async runtime",
+                  "rayon data parallelism",
+                  "tower service abstraction",
+                  "tonic grpc framework",
+                  "axum web framework",
+                  "serde serialization",
+                  "thiserror vs anyhow",
+                  "tracing observability"
+                ]
+              }
             },
             {
               "id": "js95nIDeA-c",
@@ -2955,9 +3114,21 @@
           "name": "AI & ML",
           "videos": [
             {
+              "id": "lsjfczYFBeQ",
+              "title": "The Evolution of RFCs in the Al Era",
+              "views": 11,
+              "date": "2026-04-16T22:17:14Z",
+              "category": "development",
+              "tags": [
+                "curiosity",
+                "ai",
+                "rfc"
+              ]
+            },
+            {
               "id": "j8lMpSezavQ",
               "title": "The Local SOTA Engine for Your Digital Brain",
-              "views": 21,
+              "views": 43,
               "date": "2026-04-13T22:32:31Z",
               "category": "development",
               "tags": [
@@ -2970,7 +3141,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 94,
+              "views": 98,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -2983,7 +3154,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2245,
+              "views": 2374,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -2992,12 +3163,32 @@
                 "rag",
                 "wiki",
                 "markdown"
-              ]
+              ],
+              "detail": {
+                "summary": "The LLM Wiki paradigm replaces traditional stateless Retrieval-Augmented Generation (RAG) with a stateful, persistent architecture where large language models act as continuous compilers of a markdown-based knowledge graph. By separating immutable raw sources from synthesized markdown files and employing a structured three-layer architecture, the system enables organizational knowledge to compound over time rather than being rediscovered for every query.",
+                "takeaways": [
+                  "The architecture shifts from amnesiac stateless retrieval to a persistent system where every query result is automatically filed back into a markdown directory to facilitate future synthesis.",
+                  "A three-layer system design maintains data integrity by strictly separating immutable raw sources from the synthesized markdown wiki and the governing schema templates.",
+                  "Automated linting and divergence checks allow LLM agents to maintain knowledge health by fixing broken links, flagging stale claims, and autonomously generating counter-arguments to reduce bias.",
+                  "Spatial and temporal navigation is managed through lightweight index.md and log.md files, allowing LLMs to traverse the knowledge graph without requiring complex semantic search infrastructure at moderate scales.",
+                  "The human role shifts from repetitive data maintenance to editor-in-chief, focusing on strategic curation and high-level verification while the LLM handles intensive bookkeeping and formatting tasks."
+                ],
+                "topics": [
+                  "llm wiki paradigm",
+                  "retrieval augmented generation",
+                  "stateful knowledge management",
+                  "markdown as code",
+                  "divergence check",
+                  "automated linting",
+                  "immutable truth layer",
+                  "knowledge compounding"
+                ]
+              }
             },
             {
               "id": "fv61JXUCbeo",
               "title": "Stitch Agent Skills",
-              "views": 260,
+              "views": 261,
               "date": "2026-04-05T21:24:52Z",
               "category": "development",
               "tags": [
@@ -3006,12 +3197,32 @@
                 "design",
                 "agent",
                 "skill"
-              ]
+              ],
+              "detail": {
+                "summary": "Stitch agent skills is an initiative designed to bridge the gap between AI-generated design and production-grade software by leveraging the Model Context Protocol (MCP). The framework allows AI agents like Claude and Cursor to move beyond generic 'AI default' outputs by injecting domain-specific UI/UX rules, structured React code construction, and programmatic video demonstrations into their context windows.",
+                "takeaways": [
+                  "The MCP hub acts as a central integration layer to inject design systems, aesthetic calibration, and AST-validated code workflows directly into LLM prompts.",
+                  "Aesthetic parameters such as density, variance, and motion are programmatically enforced via a semantic design.md file, including logic constraints like forcing monospace numbers when density exceeds a specific threshold.",
+                  "The system enforces 'anti-slop' design standards by banning generic patterns like pure black or neon glows in favor of sophisticated palettes (e.g., Zinc 950) and premium typography like Geist and Cabinet Grotesque.",
+                  "A structured design-to-code pipeline transforms monolithic HTML into modular React architectures, utilizing TypeScript interfaces, custom hooks for logic separation, and automated AST validation.",
+                  "Integrated Remotion workflows enable the programmatic generation of high-fidelity MP4 walkthroughs by fetching project screens and applying physics-based transitions."
+                ],
+                "topics": [
+                  "model context protocol (mcp)",
+                  "google stitch",
+                  "react component modularization",
+                  "ast validation",
+                  "remotion programmatic video",
+                  "tailwind css orchestration",
+                  "ui/ux design systems",
+                  "typescript interface enforcement"
+                ]
+              }
             },
             {
               "id": "T-NdEF6btbg",
               "title": "The Open Market of Al Coding",
-              "views": 91,
+              "views": 94,
               "date": "2026-04-05T12:38:23Z",
               "category": "development",
               "tags": [
@@ -3020,12 +3231,32 @@
                 "orchestrator",
                 "sysyphus",
                 "ultrawork"
-              ]
+              ],
+              "detail": {
+                "summary": "Oh My Open Agent (OMO) is a multi-model orchestrator designed to replace single-model AI coding tools with a parallel, specialized agent architecture. It addresses the 'nice prison' of model lock-in by routing specific tasks like planning, research, and surgical code editing to an ecosystem of frontier models including Claude, GPT-4/5, and Gemini.",
+                "takeaways": [
+                  "OMO replaces traditional whitespace-dependent code editing with a 'hash-anchored surgical edit' mechanism that tags code lines with unique hashes to prevent file corruption and stale-line errors.",
+                  "The system utilizes a hierarchical context management strategy where domain-specific 'agents.md' files at root and subdirectory levels allow for localized project rules and improved token efficiency.",
+                  "The platform employs on-demand Model Context Protocol (MCP) servers that spin up for specific tasks and terminate immediately after, preventing context window bloat.",
+                  "Task routing is handled through a 'Smart Task Routing' system that categorizes requests into Visual, Deep, Quick, or UltraBrain paths based on logic complexity and latency requirements.",
+                  "Deep integration with professional developer tools like LSP for workspace-wide refactoring and T-Max for interactive terminal sessions allows the agent to handle live debugging and complex environment interactions."
+                ],
+                "topics": [
+                  "multi-model orchestration",
+                  "hash-anchored surgical edits",
+                  "model context protocol (mcp)",
+                  "hierarchical context mapping",
+                  "autonomous agent architecture",
+                  "language server protocol (lsp)",
+                  "parallel execution",
+                  "token efficiency"
+                ]
+              }
             },
             {
               "id": "z2SA6P7WNoc",
               "title": "Reasoning Under Uncertainty",
-              "views": 147,
+              "views": 152,
               "date": "2026-04-03T22:11:58Z",
               "category": "development",
               "tags": [
@@ -3033,7 +3264,27 @@
                 "bayesian",
                 "inference",
                 "posterior"
-              ]
+              ],
+              "detail": {
+                "summary": "This presentation explores Bayesian inference as a mathematically optimal framework for decision-making and reasoning under uncertainty. It contrasts the iterative 'degree of belief' approach of Bayesian statistics with the 'fixed frequency' model of frequentist statistics, demonstrating how new evidence dynamically updates our understanding of reality.",
+                "takeaways": [
+                  "Bayesian inference operates as a continuous iterative cycle where the posterior belief of one calculation becomes the prior for the next update.",
+                  "The medical testing paradox illustrates the base rate fallacy, showing that the rarity of a condition often exerts more influence on the final probability than the accuracy of the test itself.",
+                  "Naive Bayes classifiers enable efficient classification by treating features as independent variables, allowing for rapid posterior probability calculations in applications like spam filtering.",
+                  "The fundamental architectural divide in statistics is that frequentists treat parameters as fixed constants, while Bayesians treat parameters as random variables with probability distributions.",
+                  "Practical engineering implementations of Bayesian logic include Simultaneous Localization and Mapping (SLAM) in robotics, BM25 ranking in search engines, and early-stopping in A/B testing."
+                ],
+                "topics": [
+                  "bayesian inference",
+                  "prior and posterior probability",
+                  "naive bayes algorithm",
+                  "base rate fallacy",
+                  "markov chain monte carlo",
+                  "credible intervals vs confidence intervals",
+                  "slam",
+                  "frequentist vs bayesian"
+                ]
+              }
             },
             {
               "id": "YoIXlqspLWE",
@@ -3225,7 +3476,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 642,
+              "views": 643,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -3257,7 +3508,7 @@
             {
               "id": "WMcKFQ200OE",
               "title": "Flutter & Dart: The 2026 Roadmap",
-              "views": 58,
+              "views": 60,
               "date": "2026-02-27T13:24:25Z",
               "category": "development",
               "tags": [
@@ -3410,7 +3661,7 @@
             {
               "id": "IYfTi_HNDl4",
               "title": "Building Production-Grade RabbitMQ in Go",
-              "views": 71,
+              "views": 73,
               "date": "2026-04-06T22:28:09Z",
               "category": "development",
               "tags": [
@@ -3469,14 +3720,34 @@
             {
               "id": "yCJDmGrk8sM",
               "title": "Advancing Go Garbage Collection with Green Tea",
-              "views": 142,
+              "views": 143,
               "date": "2026-03-24T22:59:50Z",
               "category": "development",
               "tags": [
                 "go",
                 "page-based",
                 "greentea"
-              ]
+              ],
+              "detail": {
+                "summary": "This analysis explores 'Green Tea,' a fundamental redesign of the Go garbage collection (GC) mechanism that transitions from object-based graph flooding to page-based memory management. The new algorithm significantly reduces CPU overhead and memory latency by aligning the Go runtime with modern hardware architectures, specifically targeting the 35% of marking time previously wasted on memory fetch stalls.",
+                "takeaways": [
+                  "Green Tea replaces the traditional depth-first search of the object graph with a page-oriented FIFO approach that processes 8KB contiguous memory blocks.",
+                  "The algorithm introduces an 'accumulation' phase that groups scattered memory requests into sequential sweeps, maximizing hardware prefetch efficiency and L1/L2 cache utilization.",
+                  "Performance benchmarks show a 10% to 40% reduction in GC CPU costs, with an additional 10% gain achieved through SIMD vectorization using the VGF2P8 instruction on modern CPUs.",
+                  "The implementation utilizes a three-stage pipeline to handle metadata bits, expanding single-bit 'seen' values into 8-bit words for high-speed bitwise processing.",
+                  "Go 1.25 will introduce Green Tea as an experimental opt-in feature, while Go 1.26 is planned to make it the default feature-complete runtime behavior."
+                ],
+                "topics": [
+                  "go garbage collection",
+                  "page-based memory management",
+                  "hardware sympathy",
+                  "avx-512 vectorization",
+                  "cache locality",
+                  "numa awareness",
+                  "simd pipeline",
+                  "go 1.26 runtime"
+                ]
+              }
             },
             {
               "id": "INNKxTAagE4",
@@ -3507,7 +3778,7 @@
             {
               "id": "CXtHwJQphLI",
               "title": "Production-Ready RabbitMQ in Go",
-              "views": 89,
+              "views": 90,
               "date": "2026-03-20T03:40:50Z",
               "category": "development",
               "tags": [
@@ -3515,7 +3786,27 @@
                 "rabbitmq",
                 "pattern",
                 "messaging"
-              ]
+              ],
+              "detail": {
+                "summary": "This video outlines the architectural requirements for building production-ready RabbitMQ systems using the Go programming language. It argues that standard library behaviors are insufficient for distributed systems and proposes a framework centered on self-healing connections, robust routing topologies, and end-to-end observability.",
+                "takeaways": [
+                  "Implement the 'Wrapper Pattern' to encapsulate AMQP connection management, using a background loop to listen for notify-close signals and trigger automated reconnects.",
+                  "Utilize a 'Consumer Registry' to map queue names to handler functions, enabling the system to automatically redeclare queues and respawn listener goroutines after a network disruption.",
+                  "Ensure data integrity by disabling auto-acknowledgments and configuring Dead Letter Exchanges (DLX) to quarantine 'poison' messages that fail processing.",
+                  "Bridge the observability gap in asynchronous messaging by injecting OpenTelemetry trace contexts into AMQP message headers to maintain a single continuous distributed trace.",
+                  "Optimize workload distribution by using fair dispatch policies with a Quality of Service (QoS) setting of one to prevent over-allocation of tasks to busy workers."
+                ],
+                "topics": [
+                  "rabbitmq",
+                  "golang",
+                  "amqp",
+                  "distributed tracing",
+                  "opentelemetry",
+                  "dead letter exchange",
+                  "self-healing architecture",
+                  "message routing patterns"
+                ]
+              }
             },
             {
               "id": "0HEqwk9UMOc",
@@ -3582,7 +3873,7 @@
             {
               "id": "Hfut9CfJhN0",
               "title": "Bubble Tea v2",
-              "views": 49,
+              "views": 50,
               "date": "2026-03-02T12:02:38Z",
               "category": "development",
               "tags": [
@@ -3616,19 +3907,59 @@
                 "echo",
                 "lgtm",
                 "observability"
-              ]
+              ],
+              "detail": {
+                "summary": "This video outlines a practical architectural guide for implementing the LGTM observability stack (Loki, Grafana, Tempo, Mimir) within the Go ecosystem. It advocates for using OpenTelemetry and structured logging to create a unified monitoring system where metrics, traces, and logs are seamlessly correlated through context propagation.",
+                "takeaways": [
+                  "Utilize OpenTelemetry middleware for the Echo framework to automate trace context extraction and span generation with zero boilerplate.",
+                  "Decouple logging from web frameworks by passing the standard library context.Context to business logic instead of echo.Context, ensuring logs remain accessible across all architectural tiers.",
+                  "Implement a custom context-aware slog handler to automatically inject OTLP trace and span IDs into log records for instant correlation in Grafana.",
+                  "Adopt the RED method (Rate, Errors, Duration) as a fundamental metrics framework, using OTLP middleware to capture P99 latency and request volume automatically.",
+                  "Transition from standard output exporters to OTLP gRPC exporters in production to enable efficient, environment-variable-driven telemetry routing to a central collector."
+                ],
+                "topics": [
+                  "lgtm stack",
+                  "opentelemetry",
+                  "go slog",
+                  "distributed tracing",
+                  "echo web framework",
+                  "red method",
+                  "context propagation",
+                  "otlp grpc"
+                ]
+              }
             },
             {
               "id": "DazzkNtnzec",
               "title": "Design Patterns in Go",
-              "views": 109,
+              "views": 110,
               "date": "2026-02-24T23:48:12Z",
               "category": "development",
               "tags": [
                 "go",
                 "composition",
                 "gof"
-              ]
+              ],
+              "detail": {
+                "summary": "This guide explores the transition from traditional object-oriented inheritance to Go’s composition-centric architecture. It demonstrates how to implement classic Gang of Four design patterns—such as Strategy, Observer, and Adapter—using Go-specific features like implicit interfaces and struct embedding to create decoupled, testable systems.",
+                "takeaways": [
+                  "Go replaces deep class hierarchies ('is-a' relationships) with composition ('has-a' relationships), utilizing struct embedding and method promotion to build flexible architectures.",
+                  "Interfaces in Go are satisfied implicitly through duck typing, which decouples components and allows diverse types to satisfy a common interface without an explicit 'implements' keyword.",
+                  "The Interface Segregation Principle is a core tenet in Go, favoring small, single-purpose interfaces that can be composed into larger ones, similar to the io.Reader and io.Writer implementations in the standard library.",
+                  "The Strategy and Observer patterns are reimagined in Go to eliminate complex conditional logic and enable event-driven architectures by treating algorithms and subscribers as interchangeable interfaces.",
+                  "Structural patterns like the Adapter and Decorator are used to wrap legacy systems or add dynamic behaviors like logging and caching without modifying the underlying service logic."
+                ],
+                "topics": [
+                  "composition over inheritance",
+                  "struct embedding",
+                  "implicit interfaces",
+                  "duck typing",
+                  "interface segregation principle",
+                  "dependency injection",
+                  "method promotion",
+                  "functional decorators"
+                ]
+              }
             },
             {
               "id": "ARWkoc3E8uE",
@@ -3661,7 +3992,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 712,
+              "views": 720,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -3671,30 +4002,30 @@
                 "modernizers"
               ],
               "detail": {
-                "summary": "Go 1.26 introduces a paradigm shift toward automated modernization, leveraging an AST-based analysis framework to evolve codebases via intent-based refactoring. The release focuses on streamlining developer workflows by providing tools that automatically transition legacy patterns to modern idioms, such as the new expression syntax and refined JSON tag handling.",
+                "summary": "Go 1.26 introduces a paradigm shift toward automated modernization and intent-based code evolution, leveraging the Go analysis framework for safe, AST-based refactoring. The release focuses on reducing technical debt at scale by automatically transitioning legacy patterns to modern idioms like the new expression syntax and generic slices functions.",
                 "takeaways": [
-                  "Go 1.26 shifts from manual refactoring to automated code evolution using a sophisticated AST-based analysis framework.",
-                  "New expression syntax allows for one-step allocation and initialization of pointers to primitive values.",
-                  "Specialized 'modernizer' tools automate the transition to safer and more performant patterns, such as replacing omitempty with omitzero.",
-                  "Developers can selectively apply modernization updates using granular flags to ensure a controlled and predictable migration process.",
-                  "Intelligent inlining helps eliminate technical debt by replacing custom internal utility functions with native Go equivalents."
+                  "Refactoring in Go 1.26 moves from error-prone text replacement to context-aware manipulation of the Abstract Syntax Tree (AST) using tools like goofix.",
+                  "The new expression syntax simplifies pointer allocation, allowing developers to allocate and initialize primitive values in a single step, such as 'new(42)'.",
+                  "The 'omitzero' struct tag is introduced to provide precise JSON serialization, replacing 'omitempty' to avoid unintentionally dropping meaningful zero values like false or 0.",
+                  "Automated 'modernizers' can detect and replace custom utility functions and legacy patterns, such as converting fmt.Sprintf to strconv.Itoa or sort.Slice to slices.SortFunc.",
+                  "Granular execution flags allow developers to incrementally adopt language updates, ensuring large-scale codebase evolution remains controlled and predictable."
                 ],
                 "topics": [
-                  "go 1.26",
-                  "automated refactoring",
+                  "go analysis framework",
                   "abstract syntax tree",
-                  "memory allocation",
-                  "json struct tags",
-                  "performance tuning",
-                  "golang toolchain",
-                  "generics"
+                  "automated refactoring",
+                  "omitzero struct tags",
+                  "loop variable capture",
+                  "slices generics",
+                  "intelligent inlining",
+                  "technical debt management"
                 ]
               }
             },
             {
               "id": "Qo3oJv4uyBI",
               "title": "High-Performance Go: Inside the 1.26 Release",
-              "views": 192,
+              "views": 194,
               "date": "2026-02-12T13:08:12Z",
               "category": "development",
               "tags": [
@@ -3751,7 +4082,7 @@
             {
               "id": "2Ni8zfsxW6o",
               "title": "Modernizing Legacy COBOL",
-              "views": 27,
+              "views": 28,
               "date": "2026-02-01T13:20:19Z",
               "category": "development",
               "tags": [
@@ -3779,7 +4110,7 @@
             {
               "id": "tyR8SdHpOeY",
               "title": "Book-Finder Architecture",
-              "views": 21,
+              "views": 24,
               "date": "2026-04-13T00:06:42Z",
               "category": "development",
               "tags": [
@@ -3794,7 +4125,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4074,
+              "views": 4101,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -3804,23 +4135,23 @@
                 "languages"
               ],
               "detail": {
-                "summary": "Zero-copy architecture is a high-performance design philosophy that eliminates the CPU's role as a manual data mover, instead using it as an orchestrator for direct hardware transfers. By bypassing user-space buffers and minimizing context switching, this approach significantly reduces latency and resource contention in data-intensive systems.",
+                "summary": "This video provides a deep dive into zero-copy architecture, an optimization strategy that eliminates the CPU's role as a middleman in data movement. It argues that by leveraging system calls like sendfile and shared memory formats, systems can bypass redundant context switches and memory-to-memory copies to achieve maximum throughput.",
                 "takeaways": [
-                  "Traditional IO operations are inefficient due to four context switches and two CPU-intensive data copies between kernel and user space.",
-                  "System-level zero copy utilizes the sendfile system call to pipe data directly from storage to the network interface, cutting overhead by half.",
-                  "Application-level zero copy avoids the 'serialization tax' using technologies like Apache Arrow and FlatBuffers that allow for direct memory access without decoding.",
-                  "Modern languages like Go and Rust provide implicit abstractions to automatically use zero-copy system calls, while Zig offers explicit low-level control.",
-                  "Advanced frameworks like DPDK and RDMA push efficiency further by bypassing the OS kernel or even the remote CPU during machine-to-machine transfers."
+                  "Traditional I/O requires four context switches and four data copies, two of which consume expensive CPU cycles, whereas zero-copy reduces this to two switches and zero CPU copies.",
+                  "System-level zero-copy uses DMA to transfer data directly between hardware interfaces and kernel buffers, a technique utilized by Apache Kafka and Nginx for high-performance streaming.",
+                  "Application-level zero-copy reduces overhead through shared columnar formats (Apache Arrow) and binary structures (FlatBuffers) that eliminate the 'deserialization tax' and redundant allocations.",
+                  "Hardware-focused optimizations like DPDK and RDMA provide the ultimate performance tier by bypassing the Linux kernel network stack and enabling direct machine-to-machine memory transfers.",
+                  "Modern language toolchains provide a spectrum of control: Go and Rust offer implicit optimizations via standard library abstractions, while Zig provides explicit access to raw POSIX system calls."
                 ],
                 "topics": [
-                  "zero copy architecture",
-                  "context switching",
-                  "direct memory access (dma)",
+                  "zero-copy architecture",
                   "sendfile system call",
-                  "serialization overhead",
-                  "apache kafka",
-                  "remote direct memory access (rdma)",
-                  "memory management"
+                  "direct memory access (dma)",
+                  "context switching",
+                  "kernel vs user space",
+                  "apache arrow",
+                  "netty compositebytebuf",
+                  "dpdk and rdma"
                 ]
               }
             },
@@ -3836,7 +4167,27 @@
                 "macro",
                 "integrity",
                 "resilience"
-              ]
+              ],
+              "detail": {
+                "summary": "This analysis explores the 'architect's baton' concept, detailing the transition of software engineers from manual coders to strategic conductors in the AI era. It posits that while AI manages micro-level syntax and boilerplate, human value now centers on system-wide orchestration, verification of AI outputs, and high-level architectural integrity.",
+                "takeaways": [
+                  "Software engineers must shift focus from syntax generation to systemic synthesis, managing architectural complexity that exceeds the current context windows of AI models.",
+                  "Decoupled design patterns such as Repository, Adapter, and Facade are critical for isolating AI-generated logic from core application business rules to prevent architectural leakage.",
+                  "Maintaining production reliability requires forensic debugging through OpenTelemetry and distributed trace IDs to identify unique AI failure modes like logical hallucinations and leaky abstractions.",
+                  "Low-level systems knowledge, specifically memory management and concurrency models, is becoming a primary competitive advantage for identifying performance bottlenecks in automated code.",
+                  "Prompts and reasoning paths must be treated as deployable code, necessitating rigorous versioning, validation layers, and automated testing pipelines."
+                ],
+                "topics": [
+                  "systemic synthesis",
+                  "decoupled architecture",
+                  "opentelemetry",
+                  "distributed race conditions",
+                  "cloud-native infrastructure",
+                  "leaky abstractions",
+                  "context management",
+                  "design patterns"
+                ]
+              }
             },
             {
               "id": "3ybGkjogcFQ",
@@ -3904,7 +4255,7 @@
             {
               "id": "am9FvNiJ24M",
               "title": "The 2026 Change Data Capture Blueprint",
-              "views": 19,
+              "views": 22,
               "date": "2026-04-08T22:14:35Z",
               "category": "development",
               "tags": [
@@ -3930,7 +4281,7 @@
             {
               "id": "ZBW6YozOu78",
               "title": "Serverless Analytics with DuckDB & Python",
-              "views": 36,
+              "views": 37,
               "date": "2026-03-15T01:12:59Z",
               "category": "development",
               "tags": [
@@ -3955,7 +4306,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 86,
+              "views": 89,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -3982,7 +4333,7 @@
             {
               "id": "am9FvNiJ24M",
               "title": "The 2026 Change Data Capture Blueprint",
-              "views": 19,
+              "views": 22,
               "date": "2026-04-08T22:14:35Z",
               "category": "development",
               "tags": [
@@ -3996,7 +4347,7 @@
             {
               "id": "IYfTi_HNDl4",
               "title": "Building Production-Grade RabbitMQ in Go",
-              "views": 71,
+              "views": 73,
               "date": "2026-04-06T22:28:09Z",
               "category": "development",
               "tags": [
@@ -4023,7 +4374,7 @@
             {
               "id": "wyIhJ3LMnRg",
               "title": "W3C Trace Context",
-              "views": 29,
+              "views": 34,
               "date": "2026-03-21T13:19:14Z",
               "category": "development",
               "tags": [
@@ -4037,7 +4388,7 @@
             {
               "id": "CXtHwJQphLI",
               "title": "Production-Ready RabbitMQ in Go",
-              "views": 89,
+              "views": 90,
               "date": "2026-03-20T03:40:50Z",
               "category": "development",
               "tags": [
@@ -4045,7 +4396,27 @@
                 "rabbitmq",
                 "pattern",
                 "messaging"
-              ]
+              ],
+              "detail": {
+                "summary": "This video outlines the architectural requirements for building production-ready RabbitMQ systems using the Go programming language. It argues that standard library behaviors are insufficient for distributed systems and proposes a framework centered on self-healing connections, robust routing topologies, and end-to-end observability.",
+                "takeaways": [
+                  "Implement the 'Wrapper Pattern' to encapsulate AMQP connection management, using a background loop to listen for notify-close signals and trigger automated reconnects.",
+                  "Utilize a 'Consumer Registry' to map queue names to handler functions, enabling the system to automatically redeclare queues and respawn listener goroutines after a network disruption.",
+                  "Ensure data integrity by disabling auto-acknowledgments and configuring Dead Letter Exchanges (DLX) to quarantine 'poison' messages that fail processing.",
+                  "Bridge the observability gap in asynchronous messaging by injecting OpenTelemetry trace contexts into AMQP message headers to maintain a single continuous distributed trace.",
+                  "Optimize workload distribution by using fair dispatch policies with a Quality of Service (QoS) setting of one to prevent over-allocation of tasks to busy workers."
+                ],
+                "topics": [
+                  "rabbitmq",
+                  "golang",
+                  "amqp",
+                  "distributed tracing",
+                  "opentelemetry",
+                  "dead letter exchange",
+                  "self-healing architecture",
+                  "message routing patterns"
+                ]
+              }
             }
           ]
         },
@@ -4144,9 +4515,60 @@
       ],
       "videos": [
         {
+          "id": "lsjfczYFBeQ",
+          "title": "The Evolution of RFCs in the Al Era",
+          "views": 11,
+          "date": "2026-04-16T22:17:14Z",
+          "category": "development",
+          "tags": [
+            "curiosity",
+            "ai",
+            "rfc"
+          ]
+        },
+        {
+          "id": "X65YHZUnFq0",
+          "title": "OpenFeature: The Standard for Feature Flagging",
+          "views": 9,
+          "date": "2026-04-16T17:02:54Z",
+          "category": "development",
+          "tags": [
+            "feature flag",
+            "api",
+            "context",
+            "a/b testing"
+          ]
+        },
+        {
+          "id": "hTEG3TsuUPQ",
+          "title": "Zig 0.16.0: Architectural Decoupling",
+          "views": 231,
+          "date": "2026-04-15T14:24:06Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "v0.16",
+            "i/o",
+            "zig-pkg",
+            "cryptographic"
+          ]
+        },
+        {
+          "id": "Qg6vQrmCilg",
+          "title": "Beyond the Ratio",
+          "views": 11,
+          "date": "2026-04-14T11:28:06Z",
+          "category": "development",
+          "tags": [
+            "design",
+            "wcag",
+            "apca"
+          ]
+        },
+        {
           "id": "j8lMpSezavQ",
           "title": "The Local SOTA Engine for Your Digital Brain",
-          "views": 21,
+          "views": 43,
           "date": "2026-04-13T22:32:31Z",
           "category": "development",
           "tags": [
@@ -4159,7 +4581,7 @@
         {
           "id": "a1hIA6KQUFE",
           "title": "The Center Has a Bias",
-          "views": 13,
+          "views": 34,
           "date": "2026-04-13T12:41:52Z",
           "category": "development",
           "tags": [
@@ -4173,7 +4595,7 @@
         {
           "id": "tyR8SdHpOeY",
           "title": "Book-Finder Architecture",
-          "views": 21,
+          "views": 24,
           "date": "2026-04-13T00:06:42Z",
           "category": "development",
           "tags": [
@@ -4188,7 +4610,7 @@
         {
           "id": "-tZGlR8Zztg",
           "title": "The Illusion of Design",
-          "views": 25,
+          "views": 29,
           "date": "2026-04-11T07:48:34Z",
           "category": "development",
           "tags": [
@@ -4196,12 +4618,17 @@
             "pattern",
             "randomness",
             "context"
-          ]
+          ],
+          "detail": {
+            "summary": "*Transcript unavailable for this video.*",
+            "takeaways": [],
+            "topics": []
+          }
         },
         {
           "id": "QC-vaMcjq3M",
           "title": "zig-lottie: Compiling Motion",
-          "views": 64,
+          "views": 72,
           "date": "2026-04-11T05:33:18Z",
           "category": "development",
           "tags": [
@@ -4214,7 +4641,7 @@
         {
           "id": "s585HlqiyMQ",
           "title": "The Calculus of ALOHA Networks",
-          "views": 71,
+          "views": 77,
           "date": "2026-04-10T19:12:04Z",
           "category": "development",
           "tags": [
@@ -4226,7 +4653,7 @@
         {
           "id": "LackTxguXFg",
           "title": "The Programmer's Guide to Essential RFCs",
-          "views": 94,
+          "views": 99,
           "date": "2026-04-10T16:29:16Z",
           "category": "development",
           "tags": [
@@ -4238,7 +4665,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 94,
+          "views": 98,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -4251,7 +4678,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2245,
+          "views": 2374,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -4260,7 +4687,27 @@
             "rag",
             "wiki",
             "markdown"
-          ]
+          ],
+          "detail": {
+            "summary": "The LLM Wiki paradigm replaces traditional stateless Retrieval-Augmented Generation (RAG) with a stateful, persistent architecture where large language models act as continuous compilers of a markdown-based knowledge graph. By separating immutable raw sources from synthesized markdown files and employing a structured three-layer architecture, the system enables organizational knowledge to compound over time rather than being rediscovered for every query.",
+            "takeaways": [
+              "The architecture shifts from amnesiac stateless retrieval to a persistent system where every query result is automatically filed back into a markdown directory to facilitate future synthesis.",
+              "A three-layer system design maintains data integrity by strictly separating immutable raw sources from the synthesized markdown wiki and the governing schema templates.",
+              "Automated linting and divergence checks allow LLM agents to maintain knowledge health by fixing broken links, flagging stale claims, and autonomously generating counter-arguments to reduce bias.",
+              "Spatial and temporal navigation is managed through lightweight index.md and log.md files, allowing LLMs to traverse the knowledge graph without requiring complex semantic search infrastructure at moderate scales.",
+              "The human role shifts from repetitive data maintenance to editor-in-chief, focusing on strategic curation and high-level verification while the LLM handles intensive bookkeeping and formatting tasks."
+            ],
+            "topics": [
+              "llm wiki paradigm",
+              "retrieval augmented generation",
+              "stateful knowledge management",
+              "markdown as code",
+              "divergence check",
+              "automated linting",
+              "immutable truth layer",
+              "knowledge compounding"
+            ]
+          }
         },
         {
           "id": "MuDJGnGTn3k",
@@ -4277,7 +4724,7 @@
         {
           "id": "am9FvNiJ24M",
           "title": "The 2026 Change Data Capture Blueprint",
-          "views": 19,
+          "views": 22,
           "date": "2026-04-08T22:14:35Z",
           "category": "development",
           "tags": [
@@ -4305,7 +4752,7 @@
         {
           "id": "IYfTi_HNDl4",
           "title": "Building Production-Grade RabbitMQ in Go",
-          "views": 71,
+          "views": 73,
           "date": "2026-04-06T22:28:09Z",
           "category": "development",
           "tags": [
@@ -4318,7 +4765,7 @@
         {
           "id": "dDtVuJXVYJk",
           "title": "The Rules and The Rebellion",
-          "views": 27,
+          "views": 31,
           "date": "2026-04-06T11:57:23Z",
           "category": "development",
           "tags": [
@@ -4333,7 +4780,7 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 260,
+          "views": 261,
           "date": "2026-04-05T21:24:52Z",
           "category": "development",
           "tags": [
@@ -4342,12 +4789,32 @@
             "design",
             "agent",
             "skill"
-          ]
+          ],
+          "detail": {
+            "summary": "Stitch agent skills is an initiative designed to bridge the gap between AI-generated design and production-grade software by leveraging the Model Context Protocol (MCP). The framework allows AI agents like Claude and Cursor to move beyond generic 'AI default' outputs by injecting domain-specific UI/UX rules, structured React code construction, and programmatic video demonstrations into their context windows.",
+            "takeaways": [
+              "The MCP hub acts as a central integration layer to inject design systems, aesthetic calibration, and AST-validated code workflows directly into LLM prompts.",
+              "Aesthetic parameters such as density, variance, and motion are programmatically enforced via a semantic design.md file, including logic constraints like forcing monospace numbers when density exceeds a specific threshold.",
+              "The system enforces 'anti-slop' design standards by banning generic patterns like pure black or neon glows in favor of sophisticated palettes (e.g., Zinc 950) and premium typography like Geist and Cabinet Grotesque.",
+              "A structured design-to-code pipeline transforms monolithic HTML into modular React architectures, utilizing TypeScript interfaces, custom hooks for logic separation, and automated AST validation.",
+              "Integrated Remotion workflows enable the programmatic generation of high-fidelity MP4 walkthroughs by fetching project screens and applying physics-based transitions."
+            ],
+            "topics": [
+              "model context protocol (mcp)",
+              "google stitch",
+              "react component modularization",
+              "ast validation",
+              "remotion programmatic video",
+              "tailwind css orchestration",
+              "ui/ux design systems",
+              "typescript interface enforcement"
+            ]
+          }
         },
         {
           "id": "T-NdEF6btbg",
           "title": "The Open Market of Al Coding",
-          "views": 91,
+          "views": 94,
           "date": "2026-04-05T12:38:23Z",
           "category": "development",
           "tags": [
@@ -4356,12 +4823,32 @@
             "orchestrator",
             "sysyphus",
             "ultrawork"
-          ]
+          ],
+          "detail": {
+            "summary": "Oh My Open Agent (OMO) is a multi-model orchestrator designed to replace single-model AI coding tools with a parallel, specialized agent architecture. It addresses the 'nice prison' of model lock-in by routing specific tasks like planning, research, and surgical code editing to an ecosystem of frontier models including Claude, GPT-4/5, and Gemini.",
+            "takeaways": [
+              "OMO replaces traditional whitespace-dependent code editing with a 'hash-anchored surgical edit' mechanism that tags code lines with unique hashes to prevent file corruption and stale-line errors.",
+              "The system utilizes a hierarchical context management strategy where domain-specific 'agents.md' files at root and subdirectory levels allow for localized project rules and improved token efficiency.",
+              "The platform employs on-demand Model Context Protocol (MCP) servers that spin up for specific tasks and terminate immediately after, preventing context window bloat.",
+              "Task routing is handled through a 'Smart Task Routing' system that categorizes requests into Visual, Deep, Quick, or UltraBrain paths based on logic complexity and latency requirements.",
+              "Deep integration with professional developer tools like LSP for workspace-wide refactoring and T-Max for interactive terminal sessions allows the agent to handle live debugging and complex environment interactions."
+            ],
+            "topics": [
+              "multi-model orchestration",
+              "hash-anchored surgical edits",
+              "model context protocol (mcp)",
+              "hierarchical context mapping",
+              "autonomous agent architecture",
+              "language server protocol (lsp)",
+              "parallel execution",
+              "token efficiency"
+            ]
+          }
         },
         {
           "id": "BT08SXPvV6U",
           "title": "Building vibe-rust",
-          "views": 59,
+          "views": 60,
           "date": "2026-04-04T14:34:30Z",
           "category": "development",
           "tags": [
@@ -4374,7 +4861,7 @@
         {
           "id": "z2SA6P7WNoc",
           "title": "Reasoning Under Uncertainty",
-          "views": 147,
+          "views": 152,
           "date": "2026-04-03T22:11:58Z",
           "category": "development",
           "tags": [
@@ -4382,12 +4869,32 @@
             "bayesian",
             "inference",
             "posterior"
-          ]
+          ],
+          "detail": {
+            "summary": "This presentation explores Bayesian inference as a mathematically optimal framework for decision-making and reasoning under uncertainty. It contrasts the iterative 'degree of belief' approach of Bayesian statistics with the 'fixed frequency' model of frequentist statistics, demonstrating how new evidence dynamically updates our understanding of reality.",
+            "takeaways": [
+              "Bayesian inference operates as a continuous iterative cycle where the posterior belief of one calculation becomes the prior for the next update.",
+              "The medical testing paradox illustrates the base rate fallacy, showing that the rarity of a condition often exerts more influence on the final probability than the accuracy of the test itself.",
+              "Naive Bayes classifiers enable efficient classification by treating features as independent variables, allowing for rapid posterior probability calculations in applications like spam filtering.",
+              "The fundamental architectural divide in statistics is that frequentists treat parameters as fixed constants, while Bayesians treat parameters as random variables with probability distributions.",
+              "Practical engineering implementations of Bayesian logic include Simultaneous Localization and Mapping (SLAM) in robotics, BM25 ranking in search engines, and early-stopping in A/B testing."
+            ],
+            "topics": [
+              "bayesian inference",
+              "prior and posterior probability",
+              "naive bayes algorithm",
+              "base rate fallacy",
+              "markov chain monte carlo",
+              "credible intervals vs confidence intervals",
+              "slam",
+              "frequentist vs bayesian"
+            ]
+          }
         },
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4074,
+          "views": 4101,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -4397,23 +4904,23 @@
             "languages"
           ],
           "detail": {
-            "summary": "Zero-copy architecture is a high-performance design philosophy that eliminates the CPU's role as a manual data mover, instead using it as an orchestrator for direct hardware transfers. By bypassing user-space buffers and minimizing context switching, this approach significantly reduces latency and resource contention in data-intensive systems.",
+            "summary": "This video provides a deep dive into zero-copy architecture, an optimization strategy that eliminates the CPU's role as a middleman in data movement. It argues that by leveraging system calls like sendfile and shared memory formats, systems can bypass redundant context switches and memory-to-memory copies to achieve maximum throughput.",
             "takeaways": [
-              "Traditional IO operations are inefficient due to four context switches and two CPU-intensive data copies between kernel and user space.",
-              "System-level zero copy utilizes the sendfile system call to pipe data directly from storage to the network interface, cutting overhead by half.",
-              "Application-level zero copy avoids the 'serialization tax' using technologies like Apache Arrow and FlatBuffers that allow for direct memory access without decoding.",
-              "Modern languages like Go and Rust provide implicit abstractions to automatically use zero-copy system calls, while Zig offers explicit low-level control.",
-              "Advanced frameworks like DPDK and RDMA push efficiency further by bypassing the OS kernel or even the remote CPU during machine-to-machine transfers."
+              "Traditional I/O requires four context switches and four data copies, two of which consume expensive CPU cycles, whereas zero-copy reduces this to two switches and zero CPU copies.",
+              "System-level zero-copy uses DMA to transfer data directly between hardware interfaces and kernel buffers, a technique utilized by Apache Kafka and Nginx for high-performance streaming.",
+              "Application-level zero-copy reduces overhead through shared columnar formats (Apache Arrow) and binary structures (FlatBuffers) that eliminate the 'deserialization tax' and redundant allocations.",
+              "Hardware-focused optimizations like DPDK and RDMA provide the ultimate performance tier by bypassing the Linux kernel network stack and enabling direct machine-to-machine memory transfers.",
+              "Modern language toolchains provide a spectrum of control: Go and Rust offer implicit optimizations via standard library abstractions, while Zig provides explicit access to raw POSIX system calls."
             ],
             "topics": [
-              "zero copy architecture",
-              "context switching",
-              "direct memory access (dma)",
+              "zero-copy architecture",
               "sendfile system call",
-              "serialization overhead",
-              "apache kafka",
-              "remote direct memory access (rdma)",
-              "memory management"
+              "direct memory access (dma)",
+              "context switching",
+              "kernel vs user space",
+              "apache arrow",
+              "netty compositebytebuf",
+              "dpdk and rdma"
             ]
           }
         },
@@ -4434,9 +4941,29 @@
         {
           "id": "JWeu5aqAkR0",
           "title": "The Transport Revolution: Deconstructing HTTP/3",
-          "views": 197,
+          "views": 198,
           "date": "2026-04-01T22:51:56Z",
-          "category": "development"
+          "category": "development",
+          "detail": {
+            "summary": "This video provides an architectural deep dive into the evolution of web protocols, focusing on the transition from HTTP/2 to HTTP/3 and the implementation of the QUIC transport protocol. The central thesis is that HTTP/3 represents a 'transport revolution' by replacing TCP with QUIC over UDP to eliminate head-of-line blocking and improve mobile resilience, albeit at the cost of increased computational overhead.",
+            "takeaways": [
+              "HTTP/3 eliminates TCP-level head-of-line blocking by using independent streams within the QUIC protocol, ensuring a single lost packet only stalls its specific stream.",
+              "The protocol integrates TLS 1.3 natively to achieve 1-RTT handshakes for new connections and 0-RTT for returning users, significantly reducing the time to first byte.",
+              "QUIC introduces connection migration by using unique connection IDs instead of IP-bound sockets, allowing seamless transitions between networks like Wi-Fi and cellular without dropping sessions.",
+              "The architectural shift moves transport management from the hardware-optimized OS kernel to user space, resulting in higher server CPU utilization compared to legacy TCP.",
+              "Deployment challenges persist due to corporate firewalls often blocking UDP for anti-DoS reasons, forcing performance-degrading fallbacks to HTTP/2 over TCP."
+            ],
+            "topics": [
+              "http/3 quic",
+              "head-of-line blocking",
+              "udp vs tcp",
+              "tls 1.3 handshake",
+              "connection migration",
+              "multiplexing",
+              "user space processing",
+              "binary framing"
+            ]
+          }
         },
         {
           "id": "oUTf9j6fWJo",
@@ -4483,7 +5010,7 @@
         {
           "id": "F59lTcC6xJ0",
           "title": "Architectural Principles of Fearless Concurrency",
-          "views": 48,
+          "views": 49,
           "date": "2026-03-28T22:00:43Z",
           "category": "development",
           "tags": [
@@ -4577,14 +5104,34 @@
         {
           "id": "yCJDmGrk8sM",
           "title": "Advancing Go Garbage Collection with Green Tea",
-          "views": 142,
+          "views": 143,
           "date": "2026-03-24T22:59:50Z",
           "category": "development",
           "tags": [
             "go",
             "page-based",
             "greentea"
-          ]
+          ],
+          "detail": {
+            "summary": "This analysis explores 'Green Tea,' a fundamental redesign of the Go garbage collection (GC) mechanism that transitions from object-based graph flooding to page-based memory management. The new algorithm significantly reduces CPU overhead and memory latency by aligning the Go runtime with modern hardware architectures, specifically targeting the 35% of marking time previously wasted on memory fetch stalls.",
+            "takeaways": [
+              "Green Tea replaces the traditional depth-first search of the object graph with a page-oriented FIFO approach that processes 8KB contiguous memory blocks.",
+              "The algorithm introduces an 'accumulation' phase that groups scattered memory requests into sequential sweeps, maximizing hardware prefetch efficiency and L1/L2 cache utilization.",
+              "Performance benchmarks show a 10% to 40% reduction in GC CPU costs, with an additional 10% gain achieved through SIMD vectorization using the VGF2P8 instruction on modern CPUs.",
+              "The implementation utilizes a three-stage pipeline to handle metadata bits, expanding single-bit 'seen' values into 8-bit words for high-speed bitwise processing.",
+              "Go 1.25 will introduce Green Tea as an experimental opt-in feature, while Go 1.26 is planned to make it the default feature-complete runtime behavior."
+            ],
+            "topics": [
+              "go garbage collection",
+              "page-based memory management",
+              "hardware sympathy",
+              "avx-512 vectorization",
+              "cache locality",
+              "numa awareness",
+              "simd pipeline",
+              "go 1.26 runtime"
+            ]
+          }
         },
         {
           "id": "ymYtSum-2qc",
@@ -4628,7 +5175,7 @@
         {
           "id": "vep9hSKc9I0",
           "title": "Dial9 Demo - Deep Observability in Async Rust",
-          "views": 103,
+          "views": 104,
           "date": "2026-03-22T10:40:21Z",
           "category": "development",
           "tags": [
@@ -4642,7 +5189,7 @@
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
-          "views": 29,
+          "views": 34,
           "date": "2026-03-21T13:19:14Z",
           "category": "development",
           "tags": [
@@ -4668,7 +5215,7 @@
         {
           "id": "lY5TU8qHduM",
           "title": "The Flight Recorder for Tokio",
-          "views": 23,
+          "views": 25,
           "date": "2026-03-20T22:45:15Z",
           "category": "development",
           "tags": [
@@ -4695,7 +5242,7 @@
         {
           "id": "CXtHwJQphLI",
           "title": "Production-Ready RabbitMQ in Go",
-          "views": 89,
+          "views": 90,
           "date": "2026-03-20T03:40:50Z",
           "category": "development",
           "tags": [
@@ -4703,12 +5250,32 @@
             "rabbitmq",
             "pattern",
             "messaging"
-          ]
+          ],
+          "detail": {
+            "summary": "This video outlines the architectural requirements for building production-ready RabbitMQ systems using the Go programming language. It argues that standard library behaviors are insufficient for distributed systems and proposes a framework centered on self-healing connections, robust routing topologies, and end-to-end observability.",
+            "takeaways": [
+              "Implement the 'Wrapper Pattern' to encapsulate AMQP connection management, using a background loop to listen for notify-close signals and trigger automated reconnects.",
+              "Utilize a 'Consumer Registry' to map queue names to handler functions, enabling the system to automatically redeclare queues and respawn listener goroutines after a network disruption.",
+              "Ensure data integrity by disabling auto-acknowledgments and configuring Dead Letter Exchanges (DLX) to quarantine 'poison' messages that fail processing.",
+              "Bridge the observability gap in asynchronous messaging by injecting OpenTelemetry trace contexts into AMQP message headers to maintain a single continuous distributed trace.",
+              "Optimize workload distribution by using fair dispatch policies with a Quality of Service (QoS) setting of one to prevent over-allocation of tasks to busy workers."
+            ],
+            "topics": [
+              "rabbitmq",
+              "golang",
+              "amqp",
+              "distributed tracing",
+              "opentelemetry",
+              "dead letter exchange",
+              "self-healing architecture",
+              "message routing patterns"
+            ]
+          }
         },
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
-          "views": 110,
+          "views": 116,
           "date": "2026-03-19T00:18:34Z",
           "category": "development",
           "tags": [
@@ -4716,7 +5283,27 @@
             "graphics",
             "math",
             "bevy"
-          ]
+          ],
+          "detail": {
+            "summary": "This technical analysis explores the architectural synergy between the Bevy game engine's Entity Component System (ECS) and fundamental game mathematics. It posits that high-performance, maintainable games are built by decoupling data from logic and utilizing Rust's type system to enforce mathematical safety and deterministic simulations.",
+            "takeaways": [
+              "Bevy's ECS architecture maximizes modularity by treating entities as mere integer IDs, components as raw data, and systems as pure functions that query component intersections.",
+              "Temporal consistency is achieved by separating variable rendering frame rates from fixed 120Hz update cycles for physics and game logic to ensure cross-platform determinism.",
+              "Numerical integration selection is performance-critical: Symplectic Euler is preferred for energy conservation in orbital mechanics, while Verlet integration offers superior stability for position-based constraints like ropes and cloth.",
+              "Rust-specific idioms such as 'let-else' guards and 'validated types' (e.g., Dir3) are used to eliminate common game dev bugs like null-pointer-style errors and NaN propagation from zero-vector normalization.",
+              "Physically accurate emergent behaviors, such as the Boids algorithm and Cellular Automata, require specific memory strategies like double-buffering and toroidal wrapping to prevent state corruption."
+            ],
+            "topics": [
+              "bevy engine",
+              "entity component system",
+              "rust idioms",
+              "numerical integration",
+              "verlet integration",
+              "quaternion math",
+              "boids algorithm",
+              "position based dynamics"
+            ]
+          }
         },
         {
           "id": "0HEqwk9UMOc",
@@ -4759,7 +5346,7 @@
         {
           "id": "ZBW6YozOu78",
           "title": "Serverless Analytics with DuckDB & Python",
-          "views": 36,
+          "views": 37,
           "date": "2026-03-15T01:12:59Z",
           "category": "development",
           "tags": [
@@ -4801,7 +5388,7 @@
         {
           "id": "2iIi1H9V-Hg",
           "title": "Announcing Genkit Dart",
-          "views": 39,
+          "views": 40,
           "date": "2026-03-13T13:28:36Z",
           "category": "development",
           "tags": [
@@ -4862,7 +5449,7 @@
         {
           "id": "7yqkfHo8Mwk",
           "title": "Engineering the Overnight Researcher in Zig",
-          "views": 68,
+          "views": 71,
           "date": "2026-03-09T11:31:08Z",
           "category": "development",
           "tags": [
@@ -4929,7 +5516,27 @@
             "dag",
             "semantic os",
             "reasoning as glue"
-          ]
+          ],
+          "detail": {
+            "summary": "The video introduces the Semantic Operating System and Micro Module Architecture (MMA), a paradigm shift from traditional monolithic software to agentic systems. It posits that by replacing rigid, human-authored control flows with model-driven reasoning, systems can achieve autonomous orchestration through a decentralized network of 'cognitive atoms' and semantic contracts.",
+            "takeaways": [
+              "Micro Module Architecture (MMA) transitions computing from deterministic, hard-coded logic to emergent behavior where control flow is inferred by a model in real-time.",
+              "The 'Cognitive Atom' serves as the fundamental building block, defined by a core deterministic capability, strict input/output schemas, and semantic descriptions that allow for dynamic integration without glue code.",
+              "System reliability is maintained through a six-layer stack incorporating a registry for capability discovery and a meta-controller that validates plans and enforces organizational policies.",
+              "Engineering effort shifts from writing procedural code to defining high-level constraints, safety policies, and evaluation metrics to govern how autonomous agents navigate complex task graphs.",
+              "Failure modes migrate from procedural errors like null pointers to reasoning failures such as intent misinterpretation or hallucinated schema semantics, requiring new validation and audit logs."
+            ],
+            "topics": [
+              "semantic operating system",
+              "micro module architecture",
+              "cognitive atom",
+              "latent code",
+              "cognitive directed acyclic graph",
+              "meta controller",
+              "hallucination detection",
+              "failure mode migration"
+            ]
+          }
         },
         {
           "id": "6WRiPikxs-Q",
@@ -4943,7 +5550,27 @@
             "macro",
             "integrity",
             "resilience"
-          ]
+          ],
+          "detail": {
+            "summary": "This analysis explores the 'architect's baton' concept, detailing the transition of software engineers from manual coders to strategic conductors in the AI era. It posits that while AI manages micro-level syntax and boilerplate, human value now centers on system-wide orchestration, verification of AI outputs, and high-level architectural integrity.",
+            "takeaways": [
+              "Software engineers must shift focus from syntax generation to systemic synthesis, managing architectural complexity that exceeds the current context windows of AI models.",
+              "Decoupled design patterns such as Repository, Adapter, and Facade are critical for isolating AI-generated logic from core application business rules to prevent architectural leakage.",
+              "Maintaining production reliability requires forensic debugging through OpenTelemetry and distributed trace IDs to identify unique AI failure modes like logical hallucinations and leaky abstractions.",
+              "Low-level systems knowledge, specifically memory management and concurrency models, is becoming a primary competitive advantage for identifying performance bottlenecks in automated code.",
+              "Prompts and reasoning paths must be treated as deployable code, necessitating rigorous versioning, validation layers, and automated testing pipelines."
+            ],
+            "topics": [
+              "systemic synthesis",
+              "decoupled architecture",
+              "opentelemetry",
+              "distributed race conditions",
+              "cloud-native infrastructure",
+              "leaky abstractions",
+              "context management",
+              "design patterns"
+            ]
+          }
         },
         {
           "id": "NztD5fYpXcg",
@@ -5032,19 +5659,39 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 159,
+          "views": 168,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
             "solidjs",
             "producer",
             "maturation"
-          ]
+          ],
+          "detail": {
+            "summary": "SolidJS 2.0 is an evolutionary advancement of the framework's fine-grained reactivity model designed to address limitations in asynchronous state and rendering efficiency. The update introduces first-class non-nullable async signals, immutable diffable stores via producer patterns, and a more resilient rendering pipeline through automatic batching and concurrent transitions.",
+            "takeaways": [
+              "Asynchronous computations are promoted to first-class citizens with non-nullable signals to eliminate intermediate undefined states and defensive coding patterns.",
+              "The new state management model adopts the producer pattern, allowing mutable-style syntax to perform immutable updates on diffable stores for better scalability and ergonomics.",
+              "Rendering performance is enhanced by automatic batching of updates and the introduction of flush boundaries to give developers precise control over reactive propagation.",
+              "Server-side rendering transitions to a pull-based, run-once model to improve throughput and incorporates self-healing error boundaries for localized fault recovery.",
+              "Graph serialization is implemented as a foundational prerequisite to enable Hot Module Replacement (HMR) and resumability by restoring the reactive state tree."
+            ],
+            "topics": [
+              "fine-grained reactivity",
+              "non-nullable async signals",
+              "producer pattern",
+              "immutable diffable stores",
+              "automatic batching",
+              "concurrent transitions",
+              "graph serialization",
+              "pull-based ssr"
+            ]
+          }
         },
         {
           "id": "Hfut9CfJhN0",
           "title": "Bubble Tea v2",
-          "views": 49,
+          "views": 50,
           "date": "2026-03-02T12:02:38Z",
           "category": "development",
           "tags": [
@@ -5078,7 +5725,27 @@
             "echo",
             "lgtm",
             "observability"
-          ]
+          ],
+          "detail": {
+            "summary": "This video outlines a practical architectural guide for implementing the LGTM observability stack (Loki, Grafana, Tempo, Mimir) within the Go ecosystem. It advocates for using OpenTelemetry and structured logging to create a unified monitoring system where metrics, traces, and logs are seamlessly correlated through context propagation.",
+            "takeaways": [
+              "Utilize OpenTelemetry middleware for the Echo framework to automate trace context extraction and span generation with zero boilerplate.",
+              "Decouple logging from web frameworks by passing the standard library context.Context to business logic instead of echo.Context, ensuring logs remain accessible across all architectural tiers.",
+              "Implement a custom context-aware slog handler to automatically inject OTLP trace and span IDs into log records for instant correlation in Grafana.",
+              "Adopt the RED method (Rate, Errors, Duration) as a fundamental metrics framework, using OTLP middleware to capture P99 latency and request volume automatically.",
+              "Transition from standard output exporters to OTLP gRPC exporters in production to enable efficient, environment-variable-driven telemetry routing to a central collector."
+            ],
+            "topics": [
+              "lgtm stack",
+              "opentelemetry",
+              "go slog",
+              "distributed tracing",
+              "echo web framework",
+              "red method",
+              "context propagation",
+              "otlp grpc"
+            ]
+          }
         },
         {
           "id": "AcpVuvtSXwI",
@@ -5097,7 +5764,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 642,
+          "views": 643,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -5129,7 +5796,7 @@
         {
           "id": "WMcKFQ200OE",
           "title": "Flutter & Dart: The 2026 Roadmap",
-          "views": 58,
+          "views": 60,
           "date": "2026-02-27T13:24:25Z",
           "category": "development",
           "tags": [
@@ -5152,7 +5819,27 @@
             "synthesizers",
             "auditors",
             "architects"
-          ]
+          ],
+          "detail": {
+            "summary": "The video introduces the Insight Architects toolkit, a framework of 10 strategic prompts designed to optimize NotebookLM for advanced information synthesis and decision-making. The system moves beyond basic AI summarization by categorizing workflows into three domains: Synthesizers for distillation, Auditors for verification, and Architects for operational execution.",
+            "takeaways": [
+              "The framework utilizes expert persona prompting, such as a veteran with 15 years of experience, to force the AI to bypass generic summaries and identify high-impact, groundbreaking insights.",
+              "The Auditor persona implements a rigorous evidence hierarchy, categorizing claims from anecdotal to meta-analytical to prevent accepting confident assertions as established facts.",
+              "The Stakeholder Translator strategy uses a single source of truth to automatically refract insights into specialized technical, strategic, and practical outputs for engineers, executives, and end-users.",
+              "Architecture-focused prompts bridge the gap between theory and practice by building functional decision trees and implementation blueprints that account for edge cases and methodological vulnerabilities.",
+              "Strategic 'White Space' discovery identifies missing information by generating expert questions that current source materials fail to address, highlighting opportunities for novel research."
+            ],
+            "topics": [
+              "notebooklm",
+              "persona-based prompting",
+              "evidence hierarchy",
+              "stakeholder communication",
+              "assumption excavation",
+              "knowledge operationalization",
+              "strategic synthesis",
+              "methodological auditing"
+            ]
+          }
         },
         {
           "id": "jzjGcFkAnfs",
@@ -5194,14 +5881,34 @@
         {
           "id": "DazzkNtnzec",
           "title": "Design Patterns in Go",
-          "views": 109,
+          "views": 110,
           "date": "2026-02-24T23:48:12Z",
           "category": "development",
           "tags": [
             "go",
             "composition",
             "gof"
-          ]
+          ],
+          "detail": {
+            "summary": "This guide explores the transition from traditional object-oriented inheritance to Go’s composition-centric architecture. It demonstrates how to implement classic Gang of Four design patterns—such as Strategy, Observer, and Adapter—using Go-specific features like implicit interfaces and struct embedding to create decoupled, testable systems.",
+            "takeaways": [
+              "Go replaces deep class hierarchies ('is-a' relationships) with composition ('has-a' relationships), utilizing struct embedding and method promotion to build flexible architectures.",
+              "Interfaces in Go are satisfied implicitly through duck typing, which decouples components and allows diverse types to satisfy a common interface without an explicit 'implements' keyword.",
+              "The Interface Segregation Principle is a core tenet in Go, favoring small, single-purpose interfaces that can be composed into larger ones, similar to the io.Reader and io.Writer implementations in the standard library.",
+              "The Strategy and Observer patterns are reimagined in Go to eliminate complex conditional logic and enable event-driven architectures by treating algorithms and subscribers as interchangeable interfaces.",
+              "Structural patterns like the Adapter and Decorator are used to wrap legacy systems or add dynamic behaviors like logging and caching without modifying the underlying service logic."
+            ],
+            "topics": [
+              "composition over inheritance",
+              "struct embedding",
+              "implicit interfaces",
+              "duck typing",
+              "interface segregation principle",
+              "dependency injection",
+              "method promotion",
+              "functional decorators"
+            ]
+          }
         },
         {
           "id": "ARWkoc3E8uE",
@@ -5273,7 +5980,7 @@
         {
           "id": "QBUQvfZJpaM",
           "title": "Modern Cryptography Standards: A Guide to AEAD",
-          "views": 32,
+          "views": 34,
           "date": "2026-02-18T23:24:48Z",
           "category": "development",
           "tags": [
@@ -5312,7 +6019,7 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 86,
+          "views": 89,
           "date": "2026-02-14T22:47:13Z",
           "category": "development",
           "tags": [
@@ -5323,7 +6030,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 712,
+          "views": 720,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -5333,30 +6040,30 @@
             "modernizers"
           ],
           "detail": {
-            "summary": "Go 1.26 introduces a paradigm shift toward automated modernization, leveraging an AST-based analysis framework to evolve codebases via intent-based refactoring. The release focuses on streamlining developer workflows by providing tools that automatically transition legacy patterns to modern idioms, such as the new expression syntax and refined JSON tag handling.",
+            "summary": "Go 1.26 introduces a paradigm shift toward automated modernization and intent-based code evolution, leveraging the Go analysis framework for safe, AST-based refactoring. The release focuses on reducing technical debt at scale by automatically transitioning legacy patterns to modern idioms like the new expression syntax and generic slices functions.",
             "takeaways": [
-              "Go 1.26 shifts from manual refactoring to automated code evolution using a sophisticated AST-based analysis framework.",
-              "New expression syntax allows for one-step allocation and initialization of pointers to primitive values.",
-              "Specialized 'modernizer' tools automate the transition to safer and more performant patterns, such as replacing omitempty with omitzero.",
-              "Developers can selectively apply modernization updates using granular flags to ensure a controlled and predictable migration process.",
-              "Intelligent inlining helps eliminate technical debt by replacing custom internal utility functions with native Go equivalents."
+              "Refactoring in Go 1.26 moves from error-prone text replacement to context-aware manipulation of the Abstract Syntax Tree (AST) using tools like goofix.",
+              "The new expression syntax simplifies pointer allocation, allowing developers to allocate and initialize primitive values in a single step, such as 'new(42)'.",
+              "The 'omitzero' struct tag is introduced to provide precise JSON serialization, replacing 'omitempty' to avoid unintentionally dropping meaningful zero values like false or 0.",
+              "Automated 'modernizers' can detect and replace custom utility functions and legacy patterns, such as converting fmt.Sprintf to strconv.Itoa or sort.Slice to slices.SortFunc.",
+              "Granular execution flags allow developers to incrementally adopt language updates, ensuring large-scale codebase evolution remains controlled and predictable."
             ],
             "topics": [
-              "go 1.26",
-              "automated refactoring",
+              "go analysis framework",
               "abstract syntax tree",
-              "memory allocation",
-              "json struct tags",
-              "performance tuning",
-              "golang toolchain",
-              "generics"
+              "automated refactoring",
+              "omitzero struct tags",
+              "loop variable capture",
+              "slices generics",
+              "intelligent inlining",
+              "technical debt management"
             ]
           }
         },
         {
           "id": "cWozmWrqnxs",
           "title": "The Repository Pattern",
-          "views": 772,
+          "views": 774,
           "date": "2026-02-13T18:01:39Z",
           "category": "development",
           "tags": [
@@ -5387,7 +6094,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 304,
+          "views": 314,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -5419,7 +6126,7 @@
         {
           "id": "Qo3oJv4uyBI",
           "title": "High-Performance Go: Inside the 1.26 Release",
-          "views": 192,
+          "views": 194,
           "date": "2026-02-12T13:08:12Z",
           "category": "development",
           "tags": [
@@ -5451,14 +6158,34 @@
         {
           "id": "cEwAbu6FFRo",
           "title": "Compound Engineering",
-          "views": 121,
+          "views": 123,
           "date": "2026-02-11T13:08:01Z",
           "category": "development",
           "tags": [
             "every.to",
             "al-native",
             "plan first"
-          ]
+          ],
+          "detail": {
+            "summary": "Compound Engineering is an AI-native software development philosophy that aims to reverse codebase entropy by ensuring every unit of work facilitates future development. The framework shifts the engineering focus from manual coding to architectural planning and systematic learning, utilizing specialized agent swarms to achieve exponential productivity gains.",
+            "takeaways": [
+              "The engineering effort is redistributed into an 80/20 split, where 80% of time is dedicated to planning and review, while only 20% is spent on agent-led execution.",
+              "Codebase decay is mitigated by the 'compound' phase, where engineering 'taste' and recurring patterns are codified into a central intelligence hub like claude.md using YAML front matter.",
+              "The workflow utilizes 'agent swarms'—specialized autonomous entities like the Security Sentinel and Performance Oracle—to perform parallelized, domain-specific code reviews and validations.",
+              "Standardized development commands such as /workflow/plan and /workflow/work leverage git worktrees for isolated, validated execution environments that automate testing and linting.",
+              "Maturity in this paradigm scales from Level 0 manual coding to Level 5 parallel cloud orchestration, where compute power replaces human attention as the primary development bottleneck."
+            ],
+            "topics": [
+              "compound engineering",
+              "ai-native development",
+              "codebase entropy",
+              "agentic workflows",
+              "git worktrees",
+              "claude.md",
+              "parallelization",
+              "architectural boundaries"
+            ]
+          }
         },
         {
           "id": "IZX3_9rZeMU",
@@ -5559,7 +6286,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 116,
+          "views": 120,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -5567,7 +6294,27 @@
             "jujutsu",
             "jj",
             "workflow"
-          ]
+          ],
+          "detail": {
+            "summary": "Jujutsu (JJ) is a Git-compatible version control system designed to improve developer velocity and reduce mental overhead by automating snapshots and treating conflicts as non-blocking data. The tool acts as a local 'architect' for restructuring history and managing changes while leveraging Git as a 'courier' for remote synchronization and team collaboration.",
+            "takeaways": [
+              "Jujutsu eliminates the need for manual staging by implementing automatic snapshots, ensuring every file modification is immediately captured in the working copy commit.",
+              "The system introduces a 'conflict as data' paradigm, where conflicts are stored directly within commits rather than blocking the repository state, allowing developers to rebase, push, and resolve conflicts asynchronously.",
+              "JJ follows a 'work first, name later' philosophy, utilizing anonymous changes for local development and only requiring bookmarks (branch equivalents) when work is ready to be shared via Git.",
+              "History manipulation is simplified through high-level commands like 'jj squash' and 'jj split', which allow for effortless correction of mistakes and restructuring of commits without the complexity of interactive rebasing.",
+              "The tool is fully co-located with existing Git repositories, respecting .gitignore patterns and using standard Git protocols for remote operations, enabling gradual adoption without infrastructure changes."
+            ],
+            "topics": [
+              "jujutsu vcs",
+              "git compatibility",
+              "automatic snapshots",
+              "conflict as data",
+              "malleable history",
+              "revsets",
+              "anonymous changes",
+              "distributed version control"
+            ]
+          }
         },
         {
           "id": "5st-kLcNrE8",
@@ -5580,12 +6327,32 @@
             "jujutsu",
             "jj",
             "intro"
-          ]
+          ],
+          "detail": {
+            "summary": "Jujutsu (JJ) is a Rust-based version control system that functions as a Git-compatible front-end, designed to prioritize developer ergonomics over underlying database implementation. The project's main thesis is that by abstracting the staging area, treating conflicts as first-class data, and providing stable identities for logical changes, version control can become a non-blocking and fearless process.",
+            "takeaways": [
+              "Jujutsu eliminates the staging area by treating the working copy itself as a functional commit in the graph, enabling automatic background snapshotting.",
+              "The system introduces a distinction between stable Change IDs and brittle Commit IDs, allowing users to rewrite history and rebase without losing the logical identity of their work.",
+              "Merge conflicts are handled as first-class citizens, meaning they are stored as data within a commit rather than halting the workflow, allowing developers to switch branches or push unresolved states.",
+              "A permanent operation log records every action, providing a robust 'undo' capability that facilitates fearless experimentation with complex repository operations.",
+              "Collocated workspaces allow JJ to coexist with standard Git directories, enabling individual developers to use JJ's advanced features while remaining fully compatible with their team's Git-based CI/CD and hosting."
+            ],
+            "topics": [
+              "jujutsu (jj)",
+              "git compatibility",
+              "first-class conflicts",
+              "revsets",
+              "stacked changes",
+              "change ids",
+              "operation log",
+              "anonymous branching"
+            ]
+          }
         },
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 389,
+          "views": 393,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -5597,7 +6364,7 @@
         {
           "id": "2Ni8zfsxW6o",
           "title": "Modernizing Legacy COBOL",
-          "views": 27,
+          "views": 28,
           "date": "2026-02-01T13:20:19Z",
           "category": "development",
           "tags": [
@@ -5626,7 +6393,7 @@
         {
           "id": "TDWC1fFhn9g",
           "title": "A DeepDive into SIMD & Zig",
-          "views": 80,
+          "views": 81,
           "date": "2026-01-31T19:35:42Z",
           "category": "development",
           "tags": [
@@ -5634,7 +6401,27 @@
             "simd",
             "vector",
             "masking"
-          ]
+          ],
+          "detail": {
+            "summary": "This technical deep dive explores the implementation of Single Instruction Multiple Data (SIMD) processing within the Zig programming language. The video demonstrates how Zig's first-class vector primitives allow developers to leverage hardware-level parallelism without the complexity of platform-specific intrinsics, significantly improving performance for batch data processing.",
+            "takeaways": [
+              "Zig integrates vectors as first-class primitives via the @Vector type, allowing for seamless coercion from arrays and avoiding the friction of manual intrinsics found in C++ or Rust.",
+              "Hardware-level parallelism is achieved through vector registers (such as 256-bit or 512-bit) which execute a single instruction across multiple data points in one clock cycle.",
+              "Handling the remainder problem—where data size does not match vector width—is best addressed through masking or padding rather than falling back to sequential scalar loops.",
+              "The @select built-in function enables branchless conditional logic across vectors, preventing the performance overhead associated with traditional CPU branching.",
+              "Modern architectures like AVX-512 and ARM SVE provide hardware-level support for masking, allowing for efficient partial vector processing without software-emulated overhead."
+            ],
+            "topics": [
+              "simd vs sisd",
+              "zig @vector primitives",
+              "vector registers",
+              "branchless programming",
+              "data masking and stencils",
+              "avx-512 and arm sve",
+              "elementwise operations",
+              "remainder loop optimization"
+            ]
+          }
         },
         {
           "id": "V2LbQqD1lMM",
@@ -5664,7 +6451,7 @@
         {
           "id": "o9yaniXkM-0",
           "title": "Practical Data Oriented Design in Zig",
-          "views": 47,
+          "views": 52,
           "date": "2026-01-30T01:28:52Z",
           "category": "development",
           "tags": [
@@ -5797,7 +6584,26 @@
             "swift",
             "zig",
             "wasm"
-          ]
+          ],
+          "detail": {
+            "summary": "Swift Firefly is an experimental macOS desktop application that leverages Zig for high-performance simulation logic compiled to WebAssembly and integrated into a Swift host via WASMKit. The project demonstrates a portable architecture where compute-intensive math and physics are decoupled from platform-specific rendering and window management.",
+            "takeaways": [
+              "Zig's ability to compile to standalone WebAssembly modules results in extremely small binaries, approximately 7.7 KB, by avoiding heavy runtime overhead.",
+              "The architecture utilizes a passive WASM module driven by a Swift host, which manages the application lifecycle and ensures 60 FPS synchronization using CVDisplayLink.",
+              "Data exchange is optimized by using WASM linear memory, allowing the Swift host to access simulation state directly via pointers to avoid serialization and copying overhead.",
+              "The core logic implements specialized math for Bezier curves and a custom XorShift64 pseudo-random number generator in Zig for consistent cross-platform performance."
+            ],
+            "topics": [
+              "zig programming language",
+              "webassembly interop",
+              "wasmkit",
+              "linear memory",
+              "macos development",
+              "cross-platform architecture",
+              "xorshift64",
+              "cvdisplaylink"
+            ]
+          }
         },
         {
           "id": "MaP2i4dTiQk",
@@ -6061,7 +6867,27 @@
             "axum",
             "tracing",
             "tokio"
-          ]
+          ],
+          "detail": {
+            "summary": "The Rust Architect Sketchbook provides a comprehensive blueprint for designing high-performance systems by leveraging the Rust ecosystem's modular libraries. It argues that a robust architecture relies on the strict separation of IO-bound and CPU-bound workloads while utilizing the Tower ecosystem as a unifying abstraction for networking services.",
+            "takeaways": [
+              "To prevent thread starvation in asynchronous runpoints, CPU-intensive tasks should be offloaded from Tokio to Rayon using the spawn_blocking bridge.",
+              "The Tower Service trait serves as a universal interface for both Axum and Tonic, allowing developers to build composable middleware layers for authentication, logging, and rate limiting.",
+              "Multiple protocols like HTTP and gRPC can be multiplexed on a single port by using tower::steer to route requests based on content-type headers.",
+              "Error handling strategy should be bifurcated between 'thiserror' for matchable, structured library errors and 'anyhow' for flexible application-level error propagation.",
+              "Observability is achieved through the tracing crate, which utilizes spans and the instrument macro to capture structured, event-based diagnostic data throughout a request's lifecycle."
+            ],
+            "topics": [
+              "tokio async runtime",
+              "rayon data parallelism",
+              "tower service abstraction",
+              "tonic grpc framework",
+              "axum web framework",
+              "serde serialization",
+              "thiserror vs anyhow",
+              "tracing observability"
+            ]
+          }
         },
         {
           "id": "js95nIDeA-c",
@@ -6146,7 +6972,7 @@
         {
           "id": "olsB3bJxA2A",
           "title": "Let's check about Zig",
-          "views": 340,
+          "views": 341,
           "date": "2025-12-28T09:28:00Z",
           "category": "development",
           "tags": [
@@ -6199,7 +7025,7 @@
         {
           "id": "TLqdeHlAo3A",
           "title": "From Bottlenecks to Breakthroughs:",
-          "views": 38,
+          "views": 40,
           "date": "2025-12-27T21:13:50Z",
           "category": "development",
           "tags": [
@@ -6218,7 +7044,7 @@
         "development"
       ],
       "videoCount": 10,
-      "totalViews": 299,
+      "totalViews": 323,
       "topTags": [
         {
           "tag": "llm",
@@ -6321,7 +7147,7 @@
             {
               "id": "taBP0Fr3uSQ",
               "title": "Anatomy of a Supply Chain Attack",
-              "views": 32,
+              "views": 35,
               "date": "2026-03-26T11:52:33Z",
               "category": "security",
               "tags": [
@@ -6334,7 +7160,7 @@
             {
               "id": "CA1nlknmR3g",
               "title": "Containing the Untrusted Agent",
-              "views": 33,
+              "views": 34,
               "date": "2026-03-25T08:25:20Z",
               "category": "security",
               "tags": [
@@ -6346,7 +7172,7 @@
             {
               "id": "Oa3jaLNSZvM",
               "title": "The Orchestrator's Blueprint",
-              "views": 34,
+              "views": 35,
               "date": "2026-02-28T16:18:04Z",
               "category": "security",
               "tags": [
@@ -6378,7 +7204,7 @@
             {
               "id": "CA1nlknmR3g",
               "title": "Containing the Untrusted Agent",
-              "views": 33,
+              "views": 34,
               "date": "2026-03-25T08:25:20Z",
               "category": "security",
               "tags": [
@@ -6421,7 +7247,7 @@
         {
           "id": "u8XCBK6lGw0",
           "title": "Custom Graphs in Microsoft Sentinel (Preview)",
-          "views": 34,
+          "views": 52,
           "date": "2026-04-11T15:44:17Z",
           "category": "security",
           "tags": [
@@ -6447,7 +7273,7 @@
         {
           "id": "HxB-cJIbEgE",
           "title": "2FA Orchestration in PingFederate",
-          "views": 8,
+          "views": 9,
           "date": "2026-03-29T14:37:03Z",
           "category": "security",
           "tags": [
@@ -6459,7 +7285,7 @@
         {
           "id": "taBP0Fr3uSQ",
           "title": "Anatomy of a Supply Chain Attack",
-          "views": 32,
+          "views": 35,
           "date": "2026-03-26T11:52:33Z",
           "category": "security",
           "tags": [
@@ -6472,7 +7298,7 @@
         {
           "id": "CA1nlknmR3g",
           "title": "Containing the Untrusted Agent",
-          "views": 33,
+          "views": 34,
           "date": "2026-03-25T08:25:20Z",
           "category": "security",
           "tags": [
@@ -6511,7 +7337,7 @@
         {
           "id": "Oa3jaLNSZvM",
           "title": "The Orchestrator's Blueprint",
-          "views": 34,
+          "views": 35,
           "date": "2026-02-28T16:18:04Z",
           "category": "security",
           "tags": [
@@ -6695,6 +7521,13 @@
       ]
     },
     {
+      "tag": "pipeline",
+      "categories": [
+        "kubernetes",
+        "development"
+      ]
+    },
+    {
       "tag": "rust",
       "categories": [
         "kubernetes",
@@ -6759,13 +7592,6 @@
     },
     {
       "tag": "features",
-      "categories": [
-        "kubernetes",
-        "development"
-      ]
-    },
-    {
-      "tag": "duckdb",
       "categories": [
         "kubernetes",
         "development"

@@ -39,8 +39,17 @@ interface GeminiResult {
   topics: string[]
 }
 
+interface FailedDetailEntry {
+  id: string
+  title: string
+  category: string
+  reason: string
+}
+
 const WIKI_ROOT = resolve('..', 'wiki')
 const WIKI_DETAILS = resolve(WIKI_ROOT, 'videos', 'details')
+const RAW_TRANSCRIPTS_DIR = resolve(WIKI_ROOT, 'raw', 'transcripts')
+const FAILED_REPORT_PATH = resolve(WIKI_DETAILS, '_failed.json')
 const METADATA_PATH = resolve('public', 'videos-metadata.json')
 
 // Truncate transcript to stay within Gemini context limits
@@ -109,6 +118,62 @@ function resolveCategory(videoId: string): string {
 
 function sleep(ms: number): Promise<void> {
   return new Promise((r) => setTimeout(r, ms))
+}
+
+function isQuotaError(message: string): boolean {
+  const m = message.toLowerCase()
+  return (
+    m.includes('resource_exhausted') ||
+    m.includes('quota') ||
+    (m.includes('429') && m.includes('gemini'))
+  )
+}
+
+function writeFailedReport(
+  failed: FailedDetailEntry[],
+  runLabel: string,
+  totalSelected: number,
+  generated: number,
+  skipped: number,
+): void {
+  const payload = {
+    generatedAt: new Date().toISOString(),
+    runLabel,
+    selected: totalSelected,
+    generated,
+    skipped,
+    failedCount: failed.length,
+    failed,
+  }
+  writeFileSync(FAILED_REPORT_PATH, `${JSON.stringify(payload, null, 2)}\n`)
+}
+
+function loadTranscriptFromRaw(videoId: string): string | null {
+  const rawPath = resolve(RAW_TRANSCRIPTS_DIR, `${videoId}.md`)
+  if (!existsSync(rawPath)) return null
+
+  const content = readFileSync(rawPath, 'utf-8')
+  const match = content.match(/\n## Transcript\n\n([\s\S]*?)\n---\n\*Captured on/m)
+  if (!match) return null
+
+  const transcript = match[1].trim()
+  return transcript.length > 0 ? transcript : null
+}
+
+function hasFullDetailContent(detailPath: string): boolean {
+  if (!existsSync(detailPath)) return false
+
+  const content = readFileSync(detailPath, 'utf-8')
+
+  const hasSummary = /\n## Summary\n\n[\s\S]+?(?=\n## |\n---\n\*)/m.test(content)
+  const hasTakeaways = /\n## Key Takeaways\n\n- /m.test(content)
+  const hasTopics = /\n## Topics Covered\n\n`/m.test(content)
+
+  const isPlaceholder =
+    content.includes('Summary could not be generated.') ||
+    content.includes('*Transcript unavailable for this video.*')
+
+  return hasSummary && hasTakeaways && hasTopics && !isPlaceholder
 }
 
 function parseArgs(): {
@@ -330,6 +395,11 @@ async function main() {
   const ai = new GoogleGenAI({ apiKey })
   let generated = 0
   let skipped = 0
+  let loadedFromRaw = 0
+  let fetchedFromYoutube = 0
+  let missingTranscript = 0
+  let skippedComplete = 0
+  const failed: FailedDetailEntry[] = []
 
   console.log(`\nGenerating video details (${runLabel})\n`)
 
@@ -343,13 +413,25 @@ async function main() {
       continue
     }
 
+    if (args.force && hasFullDetailContent(outPath)) {
+      console.log(`  [${i + 1}/${selected.length}] Skipping: ${video.title} (already complete)`)
+      skipped++
+      skippedComplete++
+      continue
+    }
+
     console.log(`  [${i + 1}/${selected.length}] Processing: ${video.title} (${fmtViews(video.views)} views)`)
 
     const category = resolveCategory(video.id)
 
-    // Fetch transcript
-    const transcript = await getTranscript(video.id)
-    await sleep(500)
+    let transcript = loadTranscriptFromRaw(video.id)
+    if (transcript) {
+      loadedFromRaw++
+    } else {
+      transcript = await getTranscript(video.id)
+      await sleep(500)
+      if (transcript) fetchedFromYoutube++
+    }
 
     // Summarize via Gemini
     let result: GeminiResult | null = null
@@ -357,9 +439,22 @@ async function main() {
       try {
         result = await summarize(ai, modelName, transcript)
       } catch (err) {
-        console.warn(`    [warn] Gemini error: ${err instanceof Error ? err.message : err}`)
+        const msg = err instanceof Error ? err.message : String(err)
+        console.warn(`    [warn] Gemini error: ${msg}`)
+        if (isQuotaError(msg)) {
+          failed.push({
+            id: video.id,
+            title: video.title,
+            category,
+            reason: 'gemini quota exceeded (429/resource_exhausted)',
+          })
+          console.warn('    [skip] Marked as failed detail due to Gemini quota.')
+          continue
+        }
       }
       await sleep(1000)
+    } else {
+      missingTranscript++
     }
 
     // Write page
@@ -373,7 +468,14 @@ async function main() {
     appendLog(generated, runLabel)
   }
 
+  writeFailedReport(failed, runLabel, selected.length, generated, skipped)
+
   console.log(`\nDone. Generated ${generated}, skipped ${skipped} existing.`)
+  if (args.force) {
+    console.log(`Force-mode complete skips: ${skippedComplete}`)
+  }
+  console.log(`Transcript source: raw=${loadedFromRaw}, youtube=${fetchedFromYoutube}, missing=${missingTranscript}`)
+  console.log(`Failed detail report: ${FAILED_REPORT_PATH} (${failed.length} failures)`)
 
   // Re-run wiki generation so category pages and wiki-bundle.json
   // pick up the newly created detail pages immediately.

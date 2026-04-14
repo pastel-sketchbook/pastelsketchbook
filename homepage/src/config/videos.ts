@@ -44,6 +44,7 @@ export const VIDEO_CONFIG = {
     'z76NXRg1YWs'
   ],
   finance: [
+    'vzwjAlEz_bI',
     'YYVxMSqBqe8',
     'l9UUqD2Bz2E',
     'HFmkEvxyJE4',
@@ -63,10 +64,15 @@ export const VIDEO_CONFIG = {
     'KBfVy5-M-5k',
     'MDNRiJN7aEg',
     'nnL78ZVifZU',
-    'tPDFgVAp4c4'
+    'tPDFgVAp4c4',
+    '1smShC18TWA'
   ],
-  kubernetes: ['oHdhgeF4wlI', 'a8heWpae5p0', 'KdLQEv3Tiiw', 'WRpjJV4SUKc', '7Dchx829X_M', '7iWL5-0C66s', 'BiYKKVsJROk', 'fMjflPvjaJ8', 'lexZnOlyml0', 'QE51ybyrQDM', 'RLlEbcXO6k8', 'tcrNdx1yH_E', 'n-Yt33ZdEHw', 'nJ10P-fRqZQ', 'to1PClyd0YA', 'LUOX5xkSyi0', 'u60g2nMtVi4', 'F09-7mNt3F4', '1PH7UB24xps', 'Hd767VA7Z-0', 'aiYBPCkvhes', 'Pxh2PcNx9W8', '3hSdKvqPcSE', 'y3WwL48DLYw', 'ORjARjbukhY', 'rk_3xU9OF-k', 'mYClRFIlsFc', '7eoxSgjwYlM', '5Ztm7JNVa8E', 'P_xUJi_qt-Q', 'okVlu1qseI4', 'eI2DXGISpbk', 'MIZ0ATwu7C0', 'rgY4KTMFOMs', 'BsiQrEaF3kU', 'Q4qm1hvVR2A', 'WHonjixQgBY', 'KpSjLQpswW4', '4b-H6ZaoNUE', '_sxPf3tHq3s', '0U-SUJCmKAU', 'VxWyvAO3qb8', 'A4-foXsdQiA', 'C6wLm6NRZW4', 'ctKLD4d146g', 'OnwiaDRj1-k', 'R2zktRqz81U', 'N4nRAfBZ3BE', 'C5HqbzLRYZ0', 'rJTUB-u8U2Y', 'A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q', 'mGMaqTvWrCc'],
+  kubernetes: ['mGMaqTvWrCc', 'oHdhgeF4wlI', 'a8heWpae5p0', 'KdLQEv3Tiiw', 'WRpjJV4SUKc', '7Dchx829X_M', '7iWL5-0C66s', 'BiYKKVsJROk', 'fMjflPvjaJ8', 'lexZnOlyml0', 'QE51ybyrQDM', 'RLlEbcXO6k8', 'tcrNdx1yH_E', 'n-Yt33ZdEHw', 'nJ10P-fRqZQ', 'to1PClyd0YA', 'LUOX5xkSyi0', 'u60g2nMtVi4', 'F09-7mNt3F4', '1PH7UB24xps', 'Hd767VA7Z-0', 'aiYBPCkvhes', 'Pxh2PcNx9W8', '3hSdKvqPcSE', 'y3WwL48DLYw', 'ORjARjbukhY', 'rk_3xU9OF-k', 'mYClRFIlsFc', '7eoxSgjwYlM', '5Ztm7JNVa8E', 'P_xUJi_qt-Q', 'okVlu1qseI4', 'eI2DXGISpbk', 'MIZ0ATwu7C0', 'rgY4KTMFOMs', 'BsiQrEaF3kU', 'Q4qm1hvVR2A', 'WHonjixQgBY', 'KpSjLQpswW4', '4b-H6ZaoNUE', '_sxPf3tHq3s', '0U-SUJCmKAU', 'VxWyvAO3qb8', 'A4-foXsdQiA', 'C6wLm6NRZW4', 'ctKLD4d146g', 'OnwiaDRj1-k', 'R2zktRqz81U', 'N4nRAfBZ3BE', 'C5HqbzLRYZ0', 'rJTUB-u8U2Y', 'A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q'],
   development: [
+    'lsjfczYFBeQ',
+    'X65YHZUnFq0',
+    'hTEG3TsuUPQ',
+    'Qg6vQrmCilg',
     'j8lMpSezavQ',
     'a1hIA6KQUFE',
     'tyR8SdHpOeY',
@@ -211,8 +217,10 @@ export const VIDEO_CONFIG = {
     'IF5sNQH-01c',
     '2kvYb2pVe5o',
     'TLqdeHlAo3A',
-    'X65YHZUnFq0',
-    'Qg6vQrmCilg'
+    'VHuQi_1t5qQ',
+    'E8f87EV4k3A',
+    'brRRpsAaN9E',
+    'xkHQhOgapfY'
   ],
   security: [
     'u8XCBK6lGw0',

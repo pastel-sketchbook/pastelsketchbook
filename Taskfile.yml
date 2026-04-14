@@ -84,6 +84,11 @@ tasks:
     cmds:
       - bun run wiki:transcripts {{.CLI_ARGS | default "--top 10"}}
 
+  zmd:lookup:
+    desc: "Search wiki context via zmd (example: task zmd:lookup -- 'LLM wiki')"
+    cmds:
+      - zmd context {{.CLI_ARGS}}
+
   status:
     desc: Show jj status and bookmark info
     cmds:
