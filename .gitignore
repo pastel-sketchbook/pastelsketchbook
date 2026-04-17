@@ -6,3 +6,4 @@ pastel-sketchbook.zip
 tools/*/zig-out/
 tools/*/.zig-cache/
 /PS_wiki_analysis.pdf
+/.qmd/data.db

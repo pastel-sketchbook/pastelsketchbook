@@ -1,0 +1,32 @@
+---
+type: video
+videoId: n-Yt33ZdEHw
+category: kubernetes
+tags: []
+views: 62
+date: 2026-03-18T23:55:13Z
+summarized: 2026-04-16T22:00:00.000Z
+---
+
+# The Architecture of Modern Identity
+
+> [kubernetes](../kubernetes.md) · 62 views · Mar 18, 2026
+> [Watch on YouTube](https://youtu.be/n-Yt33ZdEHw)
+
+## Summary
+
+This video examines the multi-layered architecture of modern enterprise identity management, covering how Kerberos, SAML, OAuth 2.0, OIDC, and SCIM protocols integrate into a cohesive security framework. It describes a four-layer model: Kerberos as the internal network foundation (Layer 1), SAML/OIDC as the cloud bridge for SSO (Layer 2), OAuth 2.0 for API and microservice security (Layer 3), and SCIM for automated identity lifecycle provisioning (background layer). The goal is balancing robust security with frictionless user experience.
+
+## Key Takeaways
+
+- Kerberos (Layer 1) secures internal network authentication using ticket-based symmetric key cryptography, verifying identities without transmitting passwords across the network.
+- SAML and OIDC (Layer 2) extend single sign-on capabilities from on-premises to cloud and web applications, serving as the bridge between internal and external identity.
+- OAuth 2.0 (Layer 3) secures API-level access and microservice-to-microservice traffic, operating independently from user-facing authentication.
+- SCIM automates the full identity lifecycle (provisioning and deprovisioning) in the background, ensuring that access grants and revocations happen without manual intervention.
+
+## Topics Covered
+
+`kerberos` · `saml` · `oauth 2.0` · `oidc` · `scim` · `identity management` · `single sign-on` · `zero trust`
+
+---
+*Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

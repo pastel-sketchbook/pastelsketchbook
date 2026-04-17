@@ -1,0 +1,32 @@
+---
+type: video
+videoId: JfGgWiiCTA0
+category: security
+tags: []
+views: 43
+date: 2026-02-14T10:04:10Z
+summarized: 2026-04-16T22:00:00.000Z
+---
+
+# Shannon: Autonomous Penetration Testing
+
+> [security](../security.md) · 43 views · Feb 14, 2026
+> [Watch on YouTube](https://youtu.be/JfGgWiiCTA0)
+
+## Summary
+
+This video introduces Shannon, an autonomous AI agent for white-box penetration testing that operates on the principle of "proof by exploitation" — producing verified exploits with screenshots, database dumps, and reproduction proofs rather than theoretical vulnerability alerts. Shannon uses a self-driving autonomous workflow requiring no human intervention once started, with full source code access to understand application logic and internal routes. The presentation covers Shannon's architecture, capabilities, and how it represents a shift from traditional vulnerability scanning to agentic security testing.
+
+## Key Takeaways
+
+- Shannon is an autonomous AI agent for white-box penetration testing that produces verified exploits (screenshots, database dumps, reproduction proofs) instead of theoretical alerts, eliminating false positives.
+- The agent operates with a fully autonomous self-driving workflow — once started, it independently makes decisions to navigate and test the target environment.
+- White-box methodology requires full source code access, enabling deeper analysis of application logic and internal routes than traditional black-box scanning tools.
+- Shannon represents a fundamental shift from reactive vulnerability scanning to agentic proof-by-exploitation security testing.
+
+## Topics Covered
+
+`autonomous penetration testing` · `ai security agent` · `white-box testing` · `proof by exploitation` · `vulnerability detection` · `shannon`
+
+---
+*Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

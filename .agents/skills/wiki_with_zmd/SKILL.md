@@ -58,7 +58,24 @@ task wiki:transcripts -- --all
 zmd update wiki
 ```
 
-3) Generate details from raw transcripts first (with YouTube fallback)
+3) Generate details from raw transcripts
+
+**Preferred: Direct LLM generation (no Gemini API needed)**
+
+Read each raw transcript (`wiki/raw/transcripts/<VIDEO_ID>.md`), analyze the
+`## Transcript` section, and write the detail page to
+`wiki/videos/details/<VIDEO_ID>.md`. Use the Task tool with parallel batches
+for bulk generation. Each detail page must include:
+
+- Frontmatter: `type`, `videoId`, `category`, `tags`, `views`, `date`, `summarized`
+- `## Summary` — 2-3 sentences naming specific technologies
+- `## Key Takeaways` — 3-5 concrete, single-sentence takeaways
+- `## Topics Covered` — 3-8 backtick-wrapped lowercase topic phrases
+- `## Tags` — only if the raw transcript has a `tags` frontmatter field
+
+See any existing complete detail page for the exact template.
+
+**Fallback: Script-based generation (requires Gemini API key)**
 
 ```bash
 task wiki:details -- --top 50
@@ -164,3 +181,13 @@ zmd get "zmd://wiki/raw/transcripts/<VIDEO_ID>.md"
 - Prefer incremental generation and failure-targeted retries.
 - Keep `wiki/log.md` append-only and parseable.
 - Reindex (`zmd update wiki`) after any bulk wiki changes.
+- **Do not commit empty or stub files:**
+  - `wiki/raw/transcripts/*.md` files must contain a `## Transcript` section
+    with actual transcript text. Files that are zero-byte, frontmatter-only,
+    or missing the transcript body must not be committed.
+  - `wiki/videos/details/*.md` files must contain synthesized content sections
+    (`## Summary`, `## Key Takeaways`, `## Topics Covered`). Stub files that
+    only have frontmatter + title + footer but no analysis content must not be
+    committed. Regenerate them either by direct LLM analysis of the raw
+    transcript (preferred) or with `task wiki:details -- --id <VIDEO_ID> --force`
+    before committing.

@@ -1,0 +1,32 @@
+---
+type: video
+videoId: MIZ0ATwu7C0
+category: kubernetes
+tags: []
+views: 26
+date: 2026-02-10T09:50:21Z
+summarized: 2026-04-16T22:00:00.000Z
+---
+
+# Architecting Meilisearch on AKS & Istio
+
+> [kubernetes](../kubernetes.md) · 26 views · Feb 10, 2026
+> [Watch on YouTube](https://youtu.be/MIZ0ATwu7C0)
+
+## Summary
+
+This video provides a technical blueprint for deploying Meilisearch on Azure Kubernetes Service within an Istio service mesh, targeting sub-50ms search latency in a zero-trust mTLS environment. It addresses three core challenges: speed (Meilisearch's dependency on LMDB and Linux kernel page cache), state (single-node architecture requiring dedicated persistent block storage, incompatible with NFS/SMB), and security (reconciling Istio sidecar mTLS proxies and kubelet health probes with latency budgets).
+
+## Key Takeaways
+
+- Meilisearch relies on LMDB (Lightning Memory-Mapped Database) and the Linux kernel page cache for sub-50ms query performance, making storage I/O characteristics critical.
+- Shared file systems like NFS and SMB are incompatible with Meilisearch's architecture due to unacceptable latency; dedicated persistent block storage is required.
+- Istio sidecar proxies and mTLS encryption add latency layers that must be carefully tuned to stay within the 50ms search latency budget.
+- Kubelet health probes in a zero-trust Istio mesh require special configuration since the probes bypass the sidecar proxy by default.
+
+## Topics Covered
+
+`meilisearch` · `azure kubernetes service` · `istio service mesh` · `mtls` · `lmdb` · `zero trust` · `persistent storage`
+
+---
+*Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

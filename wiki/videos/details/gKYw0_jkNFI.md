@@ -1,0 +1,32 @@
+---
+type: video
+videoId: gKYw0_jkNFI
+category: programming
+tags: []
+views: 9
+date: 2026-01-11T14:51:55Z
+summarized: 2026-04-16T22:00:00.000Z
+---
+
+# 마음 속의 계산기
+
+> [programming](../programming.md) · 9 views · Jan 11, 2026
+> [Watch on YouTube](https://youtu.be/gKYw0_jkNFI)
+
+## Summary
+
+This Korean-language video explores the abacus (soroban/suanpan) as a brain training tool, tracing its 5,000-year history from Sumerian sand counting to the Chinese suanpan around 190 CE. The core thesis is that skilled practitioners develop a "mental abacus"—a virtual abacus in the mind—that enables faster calculation than electronic calculators. The video references James Stigler's 1984 research discovery of this phenomenon and a 2016 Columbia University study validating its cognitive effects on trained practitioners.
+
+## Key Takeaways
+
+- The abacus uses a beam system where upper beads represent 5 and lower beads represent 1, enabling representation of 0-9 on a single rod through positional combinations.
+- James Stigler's 1984 research discovered that skilled practitioners mentally visualize and manipulate abacus beads without a physical device, performing calculations faster than electronic calculators.
+- A 2016 Columbia University study validated that practitioners with at least one year of abacus training show measurable cognitive enhancements in mental arithmetic.
+- The abacus's true power is not as a calculation device but as a brain training tool that builds spatial-numerical mental models.
+
+## Topics Covered
+
+`mental abacus` · `soroban training` · `cognitive enhancement` · `mental arithmetic` · `abacus history` · `brain training research`
+
+---
+*Auto-generated on Apr 16, 2026. Back to [programming](../programming.md) · [index](../index.md).*
