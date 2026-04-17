@@ -15,6 +15,7 @@ import { Route as PodcastRouteImport } from './routes/podcast'
 import { Route as CodeRouteImport } from './routes/code'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as WikiIndexRouteImport } from './routes/wiki.index'
+import { Route as WikiLearningPlanRouteImport } from './routes/wiki.learning-plan'
 import { Route as WikiGraphRouteImport } from './routes/wiki.graph'
 import { Route as WikiVideoIdRouteImport } from './routes/wiki.video.$id'
 
@@ -48,6 +49,11 @@ const WikiIndexRoute = WikiIndexRouteImport.update({
   path: '/',
   getParentRoute: () => WikiRoute,
 } as any)
+const WikiLearningPlanRoute = WikiLearningPlanRouteImport.update({
+  id: '/learning-plan',
+  path: '/learning-plan',
+  getParentRoute: () => WikiRoute,
+} as any)
 const WikiGraphRoute = WikiGraphRouteImport.update({
   id: '/graph',
   path: '/graph',
@@ -66,6 +72,7 @@ export interface FileRoutesByFullPath {
   '/showcase': typeof ShowcaseRoute
   '/wiki': typeof WikiRouteWithChildren
   '/wiki/graph': typeof WikiGraphRoute
+  '/wiki/learning-plan': typeof WikiLearningPlanRoute
   '/wiki/': typeof WikiIndexRoute
   '/wiki/video/$id': typeof WikiVideoIdRoute
 }
@@ -75,6 +82,7 @@ export interface FileRoutesByTo {
   '/podcast': typeof PodcastRoute
   '/showcase': typeof ShowcaseRoute
   '/wiki/graph': typeof WikiGraphRoute
+  '/wiki/learning-plan': typeof WikiLearningPlanRoute
   '/wiki': typeof WikiIndexRoute
   '/wiki/video/$id': typeof WikiVideoIdRoute
 }
@@ -86,6 +94,7 @@ export interface FileRoutesById {
   '/showcase': typeof ShowcaseRoute
   '/wiki': typeof WikiRouteWithChildren
   '/wiki/graph': typeof WikiGraphRoute
+  '/wiki/learning-plan': typeof WikiLearningPlanRoute
   '/wiki/': typeof WikiIndexRoute
   '/wiki/video/$id': typeof WikiVideoIdRoute
 }
@@ -98,6 +107,7 @@ export interface FileRouteTypes {
     | '/showcase'
     | '/wiki'
     | '/wiki/graph'
+    | '/wiki/learning-plan'
     | '/wiki/'
     | '/wiki/video/$id'
   fileRoutesByTo: FileRoutesByTo
@@ -107,6 +117,7 @@ export interface FileRouteTypes {
     | '/podcast'
     | '/showcase'
     | '/wiki/graph'
+    | '/wiki/learning-plan'
     | '/wiki'
     | '/wiki/video/$id'
   id:
@@ -117,6 +128,7 @@ export interface FileRouteTypes {
     | '/showcase'
     | '/wiki'
     | '/wiki/graph'
+    | '/wiki/learning-plan'
     | '/wiki/'
     | '/wiki/video/$id'
   fileRoutesById: FileRoutesById
@@ -173,6 +185,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof WikiIndexRouteImport
       parentRoute: typeof WikiRoute
     }
+    '/wiki/learning-plan': {
+      id: '/wiki/learning-plan'
+      path: '/learning-plan'
+      fullPath: '/wiki/learning-plan'
+      preLoaderRoute: typeof WikiLearningPlanRouteImport
+      parentRoute: typeof WikiRoute
+    }
     '/wiki/graph': {
       id: '/wiki/graph'
       path: '/graph'
@@ -192,12 +211,14 @@ declare module '@tanstack/react-router' {
 
 interface WikiRouteChildren {
   WikiGraphRoute: typeof WikiGraphRoute
+  WikiLearningPlanRoute: typeof WikiLearningPlanRoute
   WikiIndexRoute: typeof WikiIndexRoute
   WikiVideoIdRoute: typeof WikiVideoIdRoute
 }
 
 const WikiRouteChildren: WikiRouteChildren = {
   WikiGraphRoute: WikiGraphRoute,
+  WikiLearningPlanRoute: WikiLearningPlanRoute,
   WikiIndexRoute: WikiIndexRoute,
   WikiVideoIdRoute: WikiVideoIdRoute,
 }

@@ -69,7 +69,7 @@ updated: 2026-04-17
 ### Messaging (7 videos)
 
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) -- 16 views, Apr 7, 2026 · [Details](details/KdLQEv3Tiiw.md)
-- [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) -- 72 views, Apr 5, 2026 · [Details](details/WRpjJV4SUKc.md)
+- [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) -- 73 views, Apr 5, 2026 · [Details](details/WRpjJV4SUKc.md)
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 24 views, Apr 4, 2026 · [Details](details/7iWL5-0C66s.md)
 - [Continuous Flow](https://youtu.be/tcrNdx1yH_E) -- 15 views, Mar 22, 2026 · [Details](details/tcrNdx1yH_E.md)
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) -- 46 views, Jan 16, 2026 · [Details](details/0U-SUJCmKAU.md)
@@ -88,7 +88,7 @@ updated: 2026-04-17
 
 ### CI/CD & DevOps (6 videos)
 
-- [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) -- 20 views, Apr 14, 2026
+- [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) -- 22 views, Apr 14, 2026 · [Details](details/mGMaqTvWrCc.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) -- 13 views, Mar 10, 2026 · [Details](details/Hd767VA7Z-0.md)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) -- 25 views, Feb 21, 2026 · [Details](details/ORjARjbukhY.md)
@@ -106,7 +106,7 @@ updated: 2026-04-17
 
 ### AI & ML (5 videos)
 
-- [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) -- 20 views, Apr 14, 2026
+- [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) -- 22 views, Apr 14, 2026 · [Details](details/mGMaqTvWrCc.md)
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 24 views, Apr 4, 2026 · [Details](details/7iWL5-0C66s.md)
 - [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) -- 66 views, Mar 26, 2026 · [Details](details/lexZnOlyml0.md)
 - [The Architecture of Modern Identity](https://youtu.be/n-Yt33ZdEHw) -- 62 views, Mar 18, 2026 · [Details](details/n-Yt33ZdEHw.md)
@@ -146,11 +146,11 @@ updated: 2026-04-17
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Building an End-to-End MLOps Pipeline | 20 | Apr 14, 2026 | [Watch](https://youtu.be/mGMaqTvWrCc) |  |
+| 1 | Building an End-to-End MLOps Pipeline | 22 | Apr 14, 2026 | [Watch](https://youtu.be/mGMaqTvWrCc) | [Wiki](details/mGMaqTvWrCc.md) |
 | 2 | A Trillion Transactions | 30 | Apr 12, 2026 | [Watch](https://youtu.be/oHdhgeF4wlI) | [Wiki](details/oHdhgeF4wlI.md) |
 | 3 | minikv: Distributed Systems Meets Data Science | 17 | Apr 11, 2026 | [Watch](https://youtu.be/a8heWpae5p0) | [Wiki](details/a8heWpae5p0.md) |
 | 4 | Mastering Hybrid CDC Architectures | 16 | Apr 7, 2026 | [Watch](https://youtu.be/KdLQEv3Tiiw) | [Wiki](details/KdLQEv3Tiiw.md) |
-| 5 | Architecting Real-Time State | 72 | Apr 5, 2026 | [Watch](https://youtu.be/WRpjJV4SUKc) | [Wiki](details/WRpjJV4SUKc.md) |
+| 5 | Architecting Real-Time State | 73 | Apr 5, 2026 | [Watch](https://youtu.be/WRpjJV4SUKc) | [Wiki](details/WRpjJV4SUKc.md) |
 | 6 | Architecting the edge for HTTP/3 and QUIC | 89 | Apr 4, 2026 | [Watch](https://youtu.be/7Dchx829X_M) | [Wiki](details/7Dchx829X_M.md) |
 | 7 | Bridging the Mainframe to the Cloud | 24 | Apr 4, 2026 | [Watch](https://youtu.be/7iWL5-0C66s) | [Wiki](details/7iWL5-0C66s.md) |
 | 8 | Advanced Microservices Blueprint on Azure Kubernetes Service | 21 | Apr 1, 2026 | [Watch](https://youtu.be/BiYKKVsJROk) | [Wiki](details/BiYKKVsJROk.md) |
@@ -214,4 +214,4 @@ updated: 2026-04-17
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on Apr 16, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 17, 2026. Back to [index](index.md).*

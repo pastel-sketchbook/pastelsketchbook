@@ -142,20 +142,31 @@ function Wiki() {
             A living knowledge base of {wiki.totalVideos} videos across{' '}
             {wiki.categories.length} categories.
           </motion.p>
-          <Link
-            to="/wiki/graph"
-            className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#1B3022] text-white text-xs font-bold uppercase tracking-widest hover:bg-[#2D4536] hover:scale-105 transition-all shadow-md"
-          >
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <circle cx="12" cy="12" r="2" strokeWidth="2" />
-              <circle cx="5" cy="6" r="2" strokeWidth="2" />
-              <circle cx="19" cy="6" r="2" strokeWidth="2" />
-              <circle cx="5" cy="18" r="2" strokeWidth="2" />
-              <circle cx="19" cy="18" r="2" strokeWidth="2" />
-              <path strokeWidth="1.5" d="M7 7l3 3M14 9l3-2M7 17l3-3M14 15l3 2" />
-            </svg>
-            Explore Graph View
-          </Link>
+          <div className="flex items-center justify-center gap-3 flex-wrap">
+            <Link
+              to="/wiki/learning-plan"
+              className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#5F7D61] text-white text-xs font-bold uppercase tracking-widest hover:bg-[#4a6a4c] hover:scale-105 transition-all shadow-md"
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
+              </svg>
+              Learning Plan
+            </Link>
+            <Link
+              to="/wiki/graph"
+              className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-[#1B3022] text-white text-xs font-bold uppercase tracking-widest hover:bg-[#2D4536] hover:scale-105 transition-all shadow-md"
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <circle cx="12" cy="12" r="2" strokeWidth="2" />
+                <circle cx="5" cy="6" r="2" strokeWidth="2" />
+                <circle cx="19" cy="6" r="2" strokeWidth="2" />
+                <circle cx="5" cy="18" r="2" strokeWidth="2" />
+                <circle cx="19" cy="18" r="2" strokeWidth="2" />
+                <path strokeWidth="1.5" d="M7 7l3 3M14 9l3-2M7 17l3-3M14 15l3 2" />
+              </svg>
+              Explore Graph View
+            </Link>
+          </div>
         </header>
 
         {/* Overview Stats */}

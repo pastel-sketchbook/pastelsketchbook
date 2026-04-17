@@ -200,7 +200,7 @@
     {
       "id": "HFmkEvxyJE4",
       "title": "The Final Five Years",
-      "views": 13,
+      "views": 14,
       "date": "2026-04-08T03:21:12Z",
       "tags": []
     },
@@ -331,7 +331,7 @@
     {
       "id": "mGMaqTvWrCc",
       "title": "Building an End-to-End MLOps Pipeline",
-      "views": 20,
+      "views": 22,
       "date": "2026-04-14T23:21:34Z",
       "tags": [
         "azure",
@@ -380,7 +380,7 @@
     {
       "id": "WRpjJV4SUKc",
       "title": "Architecting Real-Time State",
-      "views": 72,
+      "views": 73,
       "date": "2026-04-05T12:14:36Z",
       "tags": [
         "cdc",
@@ -969,9 +969,36 @@
       ]
     },
     {
+      "id": "VHuQi_1t5qQ",
+      "title": "Mastering Go Pointers",
+      "views": 2,
+      "date": "2026-04-17T18:20:09Z",
+      "tags": [
+        "go",
+        "pointer",
+        "gc",
+        "slice",
+        "map",
+        "stack",
+        "heap"
+      ]
+    },
+    {
+      "id": "E8f87EV4k3A",
+      "title": "A Compiler, Not a Renderer",
+      "views": 18,
+      "date": "2026-04-17T12:06:22Z",
+      "tags": [
+        "zig",
+        "mmdc",
+        "mermaid",
+        "compiler"
+      ]
+    },
+    {
       "id": "lsjfczYFBeQ",
       "title": "The Evolution of RFCs in the Al Era",
-      "views": 11,
+      "views": 19,
       "date": "2026-04-16T22:17:14Z",
       "tags": [
         "curiosity",
@@ -982,7 +1009,7 @@
     {
       "id": "X65YHZUnFq0",
       "title": "OpenFeature: The Standard for Feature Flagging",
-      "views": 9,
+      "views": 14,
       "date": "2026-04-16T17:02:54Z",
       "tags": [
         "feature flag",
@@ -994,7 +1021,7 @@
     {
       "id": "hTEG3TsuUPQ",
       "title": "Zig 0.16.0: Architectural Decoupling",
-      "views": 231,
+      "views": 355,
       "date": "2026-04-15T14:24:06Z",
       "tags": [
         "zig",
@@ -1018,7 +1045,7 @@
     {
       "id": "j8lMpSezavQ",
       "title": "The Local SOTA Engine for Your Digital Brain",
-      "views": 43,
+      "views": 48,
       "date": "2026-04-13T22:32:31Z",
       "tags": [
         "bm25",
@@ -1030,7 +1057,7 @@
     {
       "id": "a1hIA6KQUFE",
       "title": "The Center Has a Bias",
-      "views": 34,
+      "views": 36,
       "date": "2026-04-13T12:41:52Z",
       "tags": [
         "criticism",
@@ -1043,7 +1070,7 @@
     {
       "id": "tyR8SdHpOeY",
       "title": "Book-Finder Architecture",
-      "views": 24,
+      "views": 25,
       "date": "2026-04-13T00:06:42Z",
       "tags": [
         "zig",
@@ -1069,7 +1096,7 @@
     {
       "id": "QC-vaMcjq3M",
       "title": "zig-lottie: Compiling Motion",
-      "views": 72,
+      "views": 73,
       "date": "2026-04-11T05:33:18Z",
       "tags": [
         "zig",
@@ -1115,7 +1142,7 @@
     {
       "id": "BzvpasWYESU",
       "title": "The LLM Wiki Paradigm",
-      "views": 2374,
+      "views": 2394,
       "date": "2026-04-09T22:17:25Z",
       "tags": [
         "ai",
@@ -1177,7 +1204,7 @@
     {
       "id": "dDtVuJXVYJk",
       "title": "The Rules and The Rebellion",
-      "views": 31,
+      "views": 33,
       "date": "2026-04-06T11:57:23Z",
       "tags": [
         "atomicity",
@@ -1241,7 +1268,7 @@
     {
       "id": "54lO6XE-AeQ",
       "title": "The Zero-Copy Architecture",
-      "views": 4101,
+      "views": 4112,
       "date": "2026-04-03T12:29:02Z",
       "tags": [
         "zero-copy",
@@ -1266,14 +1293,14 @@
     {
       "id": "JWeu5aqAkR0",
       "title": "The Transport Revolution: Deconstructing HTTP/3",
-      "views": 198,
+      "views": 199,
       "date": "2026-04-01T22:51:56Z",
       "tags": []
     },
     {
       "id": "oUTf9j6fWJo",
       "title": "Reed: The Modern Terminal File Viewer",
-      "views": 139,
+      "views": 140,
       "date": "2026-03-30T22:20:06Z",
       "tags": [
         "libghostty-vt",
@@ -1764,7 +1791,7 @@
     {
       "id": "00kCzR10M1w",
       "title": "The Road to SolidJS 2.0",
-      "views": 168,
+      "views": 171,
       "date": "2026-03-04T00:40:36Z",
       "tags": [
         "solidjs",
@@ -1775,7 +1802,7 @@
     {
       "id": "Hfut9CfJhN0",
       "title": "Bubble Tea v2",
-      "views": 50,
+      "views": 51,
       "date": "2026-03-02T12:02:38Z",
       "tags": [
         "go",
@@ -1824,7 +1851,7 @@
     {
       "id": "JeqaHMmSh1s",
       "title": "The Complete Guide to Building Skills for Claude",
-      "views": 643,
+      "views": 644,
       "date": "2026-02-28T05:29:43Z",
       "tags": [
         "ai",
@@ -2027,7 +2054,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 774,
+      "views": 775,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -2038,7 +2065,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 314,
+      "views": 315,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -2141,7 +2168,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 120,
+      "views": 125,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -2165,7 +2192,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 393,
+      "views": 396,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -2238,7 +2265,7 @@
     {
       "id": "o9yaniXkM-0",
       "title": "Practical Data Oriented Design in Zig",
-      "views": 52,
+      "views": 55,
       "date": "2026-01-30T01:28:52Z",
       "tags": [
         "dod",
@@ -2249,7 +2276,7 @@
     {
       "id": "RDa6WtZmW8E",
       "title": "Mastering Serde in Rust ",
-      "views": 44,
+      "views": 45,
       "date": "2026-01-29T05:20:28Z",
       "tags": [
         "serde",
@@ -2734,7 +2761,7 @@
     {
       "id": "Zeg8zSOvoyE",
       "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-      "views": 67,
+      "views": 70,
       "date": "2026-03-31T22:42:44Z",
       "tags": [
         "automonmous",
@@ -2908,6 +2935,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-17T03:25:16.981Z",
-  "count": 259
+  "generatedAt": "2026-04-17T21:39:04.026Z",
+  "count": 261
 }
