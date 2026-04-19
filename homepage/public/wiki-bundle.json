@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T21:39:04.026Z",
-  "totalVideos": 261,
+  "generatedAt": "2026-04-19T02:57:10.240Z",
+  "totalVideos": 266,
   "categories": [
     {
       "name": "korea",
@@ -547,12 +547,12 @@
         "korea",
         "development"
       ],
-      "videoCount": 21,
-      "totalViews": 386,
+      "videoCount": 22,
+      "totalViews": 393,
       "topTags": [
         {
           "tag": "curiosity",
-          "count": 4
+          "count": 5
         },
         {
           "tag": "stocks",
@@ -619,6 +619,16 @@
         }
       ],
       "videos": [
+        {
+          "id": "1smShC18TWA",
+          "title": "Decoding the Black Box of Global Finance",
+          "views": 6,
+          "date": "2026-04-17T22:28:02Z",
+          "category": "finance",
+          "tags": [
+            "curiosity"
+          ]
+        },
         {
           "id": "vzwjAlEz_bI",
           "title": "The End of the American Penny",
@@ -703,7 +713,7 @@
         {
           "id": "HFmkEvxyJE4",
           "title": "The Final Five Years",
-          "views": 14,
+          "views": 15,
           "date": "2026-04-08T03:21:12Z",
           "category": "finance",
           "detail": {
@@ -1151,8 +1161,8 @@
         "security",
         "development"
       ],
-      "videoCount": 55,
-      "totalViews": 1496,
+      "videoCount": 57,
+      "totalViews": 1551,
       "topTags": [
         {
           "tag": "aks",
@@ -1163,12 +1173,12 @@
           "count": 13
         },
         {
-          "tag": "istio",
+          "tag": "azure",
           "count": 6
         },
         {
-          "tag": "azure",
-          "count": 5
+          "tag": "istio",
+          "count": 6
         },
         {
           "tag": "rabbitmq",
@@ -1179,6 +1189,14 @@
           "count": 5
         },
         {
+          "tag": "cdc",
+          "count": 3
+        },
+        {
+          "tag": "rust",
+          "count": 3
+        },
+        {
           "tag": "hybrid",
           "count": 3
         },
@@ -1187,19 +1205,19 @@
           "count": 3
         },
         {
+          "tag": "aws",
+          "count": 2
+        },
+        {
+          "tag": "go",
+          "count": 2
+        },
+        {
           "tag": "wif",
           "count": 2
         },
         {
-          "tag": "rust",
-          "count": 2
-        },
-        {
           "tag": "debezium",
-          "count": 2
-        },
-        {
-          "tag": "cdc",
           "count": 2
         },
         {
@@ -1224,14 +1242,6 @@
         },
         {
           "tag": "cni",
-          "count": 2
-        },
-        {
-          "tag": "shift left",
-          "count": 2
-        },
-        {
-          "tag": "workload identity",
           "count": 2
         }
       ],
@@ -2081,6 +2091,235 @@
           ]
         },
         {
+          "name": "Data & Databases",
+          "videos": [
+            {
+              "id": "nomIVRSBEG4",
+              "title": "Consuming CDC with ScyllaDB",
+              "views": 33,
+              "date": "2026-04-18T04:36:03Z",
+              "category": "kubernetes",
+              "tags": [
+                "scylladb",
+                "cdc",
+                "rust",
+                "java",
+                "go"
+              ]
+            },
+            {
+              "id": "u60g2nMtVi4",
+              "title": "The Data Singularity in Microsoft Fabric",
+              "views": 15,
+              "date": "2026-03-13T20:39:27Z",
+              "category": "kubernetes",
+              "tags": [
+                "fablic",
+                "duckdb",
+                "polars",
+                "python"
+              ],
+              "detail": {
+                "summary": "This video argues that the \"big data\" era's default reliance on distributed computing is outdated for most analytical workloads, introducing the concept of a \"data singularity\" where modern single-node hardware (CPU/RAM) can handle datasets under 100GB without distribution overhead. It demonstrates how Microsoft Fabric's Python notebooks combined with DuckDB enable lightweight, high-performance analytics pipelines that eliminate JVM overhead and complex cluster management, running in a native Python 3.10/3.11 environment with near-instant startup.",
+                "takeaways": [
+                  "Most analytical datasets remain under 100GB, meaning modern single-node hardware can process them without the overhead of distributed computing frameworks.",
+                  "Microsoft Fabric Python notebooks run in native Python 3.10/3.11 environments, eliminating JVM overhead and providing near-instant live pool startup times.",
+                  "DuckDB within Fabric notebooks enables high-performance analytical queries on single nodes, replacing the need for Spark or other distributed engines for sub-100GB workloads.",
+                  "The \"data singularity\" paradigm shift means distributed computing is no longer the default requirement for modern data engineering — it's an exception for truly massive datasets."
+                ],
+                "topics": [
+                  "microsoft fabric",
+                  "duckdb",
+                  "python notebooks",
+                  "data engineering",
+                  "single-node analytics",
+                  "jvm overhead elimination"
+                ]
+              }
+            },
+            {
+              "id": "mYClRFIlsFc",
+              "title": "ScyllaDB: The Next-Generation NoSQL Platform",
+              "views": 13,
+              "date": "2026-02-19T13:31:03Z",
+              "category": "kubernetes",
+              "tags": [
+                "nosql",
+                "c++"
+              ],
+              "detail": {
+                "summary": "This technical deep dive covers ScyllaDB, a high-performance NoSQL database built in C++ on a shard-per-core architecture that provides API compatibility with Apache Cassandra (CQL) and DynamoDB (Alternator). By eliminating JVM overhead and garbage collection pauses, ScyllaDB delivers millions of operations per second with predictable single-digit millisecond latency. The video examines the connection state paradox at 10M+ concurrent connections and how ScyllaDB's shared-nothing architecture addresses real-time application demands.",
+                "takeaways": [
+                  "ScyllaDB's shard-per-core architecture in C++ eliminates JVM garbage collection pauses, delivering 10x higher throughput than Java-based alternatives like Cassandra with predictable single-digit millisecond latency.",
+                  "Full API compatibility with Apache Cassandra (CQL) and Amazon DynamoDB (via Alternator) enables drop-in adoption for teams already using these protocols.",
+                  "The shared-nothing model assigns each CPU core its own shard of data, eliminating cross-core contention and enabling efficient utilization of modern multi-core processors.",
+                  "Real-time applications like mobile chat face a \"connection state paradox\" at 10M+ concurrent connections that ScyllaDB's architecture is specifically designed to handle."
+                ],
+                "topics": [
+                  "scylladb",
+                  "shard-per-core",
+                  "nosql",
+                  "apache cassandra",
+                  "dynamodb compatibility",
+                  "c++ database",
+                  "real-time applications"
+                ]
+              }
+            },
+            {
+              "id": "eI2DXGISpbk",
+              "title": "BadgerDB: The Go-Native Key-Value Store",
+              "views": 43,
+              "date": "2026-02-13T00:09:38Z",
+              "category": "kubernetes",
+              "tags": [
+                "go",
+                "badgerdb",
+                "key-value store"
+              ],
+              "detail": {
+                "summary": "This video introduces BadgerDB, a pure Go embeddable key-value store engineered for SSDs and built as a high-performance alternative to RocksDB. Developed by the Dgraph team to eliminate CGo bottlenecks, BadgerDB implements the WiscKey thesis of separating keys from values to reduce write amplification inherent in traditional LSM-tree stores like LevelDB and RocksDB. Now at stable v4.x, it powers petabyte-scale datasets in production environments.",
+                "takeaways": [
+                  "BadgerDB eliminates the CGo friction of integrating C++ stores like RocksDB, which causes build complexity, difficult memory profiling, and scheduler conflicts between Go and C++ threads.",
+                  "The WiscKey thesis separates keys from values during LSM-tree compaction, dramatically reducing write amplification compared to traditional stores that rewrite both together.",
+                  "Pure Go architecture provides native access to Go's profiling tools (pprof), efficient goroutine management, and fast compilation without cross-language integration overhead.",
+                  "BadgerDB v4.x already powers petabyte-scale datasets in demanding production environments, proving its reliability at scale."
+                ],
+                "topics": [
+                  "badgerdb",
+                  "lsm-tree",
+                  "wisckey thesis",
+                  "write amplification",
+                  "pure go storage",
+                  "ssd optimization",
+                  "key-value store"
+                ]
+              }
+            },
+            {
+              "id": "MIZ0ATwu7C0",
+              "title": "Architecting Meilisearch on AKS & Istio",
+              "views": 26,
+              "date": "2026-02-10T09:50:21Z",
+              "category": "kubernetes",
+              "tags": [
+                "melisearch",
+                "aks",
+                "istio"
+              ],
+              "detail": {
+                "summary": "This video provides a technical blueprint for deploying Meilisearch on Azure Kubernetes Service within an Istio service mesh, targeting sub-50ms search latency in a zero-trust mTLS environment. It addresses three core challenges: speed (Meilisearch's dependency on LMDB and Linux kernel page cache), state (single-node architecture requiring dedicated persistent block storage, incompatible with NFS/SMB), and security (reconciling Istio sidecar mTLS proxies and kubelet health probes with latency budgets).",
+                "takeaways": [
+                  "Meilisearch relies on LMDB (Lightning Memory-Mapped Database) and the Linux kernel page cache for sub-50ms query performance, making storage I/O characteristics critical.",
+                  "Shared file systems like NFS and SMB are incompatible with Meilisearch's architecture due to unacceptable latency; dedicated persistent block storage is required.",
+                  "Istio sidecar proxies and mTLS encryption add latency layers that must be carefully tuned to stay within the 50ms search latency budget.",
+                  "Kubelet health probes in a zero-trust Istio mesh require special configuration since the probes bypass the sidecar proxy by default."
+                ],
+                "topics": [
+                  "meilisearch",
+                  "azure kubernetes service",
+                  "istio service mesh",
+                  "mtls",
+                  "lmdb",
+                  "zero trust",
+                  "persistent storage"
+                ]
+              }
+            },
+            {
+              "id": "BsiQrEaF3kU",
+              "title": "MotherDuck: Serverless DuckDB in the Cloud & Client",
+              "views": 26,
+              "date": "2026-02-04T11:42:09Z",
+              "category": "kubernetes",
+              "tags": [
+                "duckdb",
+                "hybrid query"
+              ],
+              "detail": {
+                "summary": "This presentation explores MotherDuck's hybrid query processing architecture based on the CIDR 2024 paper, which runs DuckDB across both cloud and client in a \"1.5 tier\" data architecture. It argues that the big data era is giving way to \"easy data\" where single-node scale-up systems handle 95%+ of enterprise workloads (most databases are under 1TB, most queries touch less than 10GB) without the operational overhead of distributed clusters.",
+                "takeaways": [
+                  "Over 95% of databases are smaller than 1TB and 95%+ of queries involve less than 10GB, making distributed cluster overhead unnecessary for most workloads.",
+                  "MotherDuck's 1.5-tier architecture runs DuckDB on both client and cloud, enabling hybrid query processing that eliminates traditional three-tier rigidity.",
+                  "The shift from \"big data\" scale-out clusters to \"easy data\" single-node scale-up provides instant elasticity with near-zero management overhead.",
+                  "Hybrid execution allows queries to leverage local compute for small datasets while transparently offloading to cloud for larger analytical workloads."
+                ],
+                "topics": [
+                  "duckdb",
+                  "motherduck",
+                  "hybrid query processing",
+                  "1.5 tier architecture",
+                  "serverless analytics",
+                  "single-node databases"
+                ]
+              }
+            },
+            {
+              "id": "Q4qm1hvVR2A",
+              "title": "Dragonfly on AKS",
+              "views": 21,
+              "date": "2026-01-31T16:23:17Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "dragonfly",
+                "performance",
+                "aeraki",
+                "aks"
+              ],
+              "detail": {
+                "summary": "This video covers deploying Dragonfly as a high-performance in-memory data store on Azure Kubernetes Service (AKS) integrated with the Istio service mesh. It highlights the \"multi-core gap\" where legacy single-threaded systems like Redis waste 31 of 32 available CPU cores, while Dragonfly's shared-nothing architecture utilizes all cores for maximum throughput. The session bridges AKS, Istio, and Dragonfly to create a scalable, high-efficiency infrastructure.",
+                "takeaways": [
+                  "Redis's single-threaded event loop creates a multi-core gap, leaving 31 of 32 cores idle on modern Azure E5v5 instances.",
+                  "Dragonfly uses a shared-nothing architecture where each thread operates independently, enabling full multi-core utilization.",
+                  "The deployment integrates Dragonfly with Istio service mesh on AKS for mTLS, traffic management, and observability.",
+                  "Moving from shared-memory structures to per-thread isolated data eliminates contention and maximizes parallel throughput."
+                ],
+                "topics": [
+                  "dragonfly db",
+                  "redis alternative",
+                  "aks deployment",
+                  "shared-nothing architecture",
+                  "multi-core utilization",
+                  "istio integration"
+                ]
+              }
+            },
+            {
+              "id": "N4nRAfBZ3BE",
+              "title": "Choosing Your Messaging Fabric on AKS",
+              "views": 5,
+              "date": "2026-01-10T21:55:01Z",
+              "category": "kubernetes",
+              "tags": [
+                "messaging",
+                "aks",
+                "nats",
+                "azure event hubs",
+                "rabbitmq"
+              ],
+              "detail": {
+                "summary": "This architectural decision guide compares self-managed message brokers (RabbitMQ, NATS) versus managed PaaS offerings (Azure Service Bus, Azure Event Hubs) for asynchronous communication on Azure Kubernetes Service. The core trade-off is operational control versus managed simplicity: self-managed brokers provide full configuration and topology control but require deep DevOps expertise for monitoring, patching, and disaster recovery, while managed services shift that operational burden to Azure at the cost of less granular control.",
+                "takeaways": [
+                  "Self-managed brokers like RabbitMQ and NATS on AKS provide full control over configuration, tuning, and topology but require specialized DevOps staffing for day-2 operations including patching and disaster recovery.",
+                  "Managed services like Azure Service Bus and Event Hubs eliminate operational overhead but reduce granular control over broker internals and introduce vendor lock-in.",
+                  "The decision is fundamentally about operational ownership: who is responsible for monitoring, scaling, and recovering the messaging layer when things fail.",
+                  "Loss of internal DevOps knowledge for self-managed brokers creates organizational risk that managed services inherently mitigate."
+                ],
+                "topics": [
+                  "azure kubernetes service",
+                  "rabbitmq",
+                  "nats",
+                  "azure service bus",
+                  "azure event hubs",
+                  "messaging architecture",
+                  "event-driven design"
+                ]
+              }
+            }
+          ]
+        },
+        {
           "name": "Service Mesh",
           "videos": [
             {
@@ -2365,7 +2604,7 @@
             {
               "id": "WRpjJV4SUKc",
               "title": "Architecting Real-Time State",
-              "views": 73,
+              "views": 74,
               "date": "2026-04-05T12:14:36Z",
               "category": "kubernetes",
               "tags": [
@@ -2550,71 +2789,87 @@
           ]
         },
         {
-          "name": "Data & Databases",
+          "name": "Go",
           "videos": [
             {
-              "id": "u60g2nMtVi4",
-              "title": "The Data Singularity in Microsoft Fabric",
-              "views": 15,
-              "date": "2026-03-13T20:39:27Z",
+              "id": "nomIVRSBEG4",
+              "title": "Consuming CDC with ScyllaDB",
+              "views": 33,
+              "date": "2026-04-18T04:36:03Z",
               "category": "kubernetes",
               "tags": [
-                "fablic",
-                "duckdb",
-                "polars",
-                "python"
+                "scylladb",
+                "cdc",
+                "rust",
+                "java",
+                "go"
+              ]
+            },
+            {
+              "id": "BiYKKVsJROk",
+              "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
+              "views": 21,
+              "date": "2026-04-01T10:26:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "istio",
+                "argocd",
+                "gitops",
+                "wif"
               ],
               "detail": {
-                "summary": "This video argues that the \"big data\" era's default reliance on distributed computing is outdated for most analytical workloads, introducing the concept of a \"data singularity\" where modern single-node hardware (CPU/RAM) can handle datasets under 100GB without distribution overhead. It demonstrates how Microsoft Fabric's Python notebooks combined with DuckDB enable lightweight, high-performance analytics pipelines that eliminate JVM overhead and complex cluster management, running in a native Python 3.10/3.11 environment with near-instant startup.",
+                "summary": "This presentation details a four-layer microservices architecture on AKS integrating Istio service mesh, Argo CD GitOps, and Azure Workload Identity Federation for zero-trust deployments. The layers stack from AKS platform and workload identity at the base, through Istio mTLS and traffic management, Argo CD automated deployment synced to git repositories, up to the application layer.",
                 "takeaways": [
-                  "Most analytical datasets remain under 100GB, meaning modern single-node hardware can process them without the overhead of distributed computing frameworks.",
-                  "Microsoft Fabric Python notebooks run in native Python 3.10/3.11 environments, eliminating JVM overhead and providing near-instant live pool startup times.",
-                  "DuckDB within Fabric notebooks enables high-performance analytical queries on single nodes, replacing the need for Spark or other distributed engines for sub-100GB workloads.",
-                  "The \"data singularity\" paradigm shift means distributed computing is no longer the default requirement for modern data engineering — it's an exception for truly massive datasets."
+                  "The four-layer architecture stacks AKS platform, Istio service mesh, Argo CD GitOps, and microservices application for comprehensive security and automation.",
+                  "Azure Workload Identity Federation eliminates long-lived credentials by providing verified managed identity for every service.",
+                  "Istio handles mTLS for service-to-service encryption and traffic management without application code changes.",
+                  "Argo CD ensures the cluster state remains continuously synchronized with git repositories through automated GitOps deployment."
                 ],
                 "topics": [
-                  "microsoft fabric",
-                  "duckdb",
-                  "python notebooks",
-                  "data engineering",
-                  "single-node analytics",
-                  "jvm overhead elimination"
+                  "aks",
+                  "istio service mesh",
+                  "argo cd",
+                  "gitops",
+                  "workload identity federation",
+                  "zero trust",
+                  "mutual tls"
                 ]
               }
             },
             {
-              "id": "mYClRFIlsFc",
-              "title": "ScyllaDB: The Next-Generation NoSQL Platform",
-              "views": 13,
-              "date": "2026-02-19T13:31:03Z",
+              "id": "ORjARjbukhY",
+              "title": "The Golden Path",
+              "views": 25,
+              "date": "2026-02-21T10:33:08Z",
               "category": "kubernetes",
               "tags": [
-                "nosql",
-                "c++"
+                "golden",
+                "deployments",
+                "tandardization"
               ],
               "detail": {
-                "summary": "This technical deep dive covers ScyllaDB, a high-performance NoSQL database built in C++ on a shard-per-core architecture that provides API compatibility with Apache Cassandra (CQL) and DynamoDB (Alternator). By eliminating JVM overhead and garbage collection pauses, ScyllaDB delivers millions of operations per second with predictable single-digit millisecond latency. The video examines the connection state paradox at 10M+ concurrent connections and how ScyllaDB's shared-nothing architecture addresses real-time application demands.",
+                "summary": "This video presents a comprehensive architecture v2.0 blueprint for massive Kubernetes deployments organized in three concentric layers: core services/data, service mesh/orchestration, and security boundary/compliance. It advocates moving from binary public-vs-internal security categorization to a three-dimensional model that considers runtime stack, workload archetype, and blast radius. The golden path framework provides standardized platform engineering guidelines for scalable, secure infrastructure.",
                 "takeaways": [
-                  "ScyllaDB's shard-per-core architecture in C++ eliminates JVM garbage collection pauses, delivering 10x higher throughput than Java-based alternatives like Cassandra with predictable single-digit millisecond latency.",
-                  "Full API compatibility with Apache Cassandra (CQL) and Amazon DynamoDB (via Alternator) enables drop-in adoption for teams already using these protocols.",
-                  "The shared-nothing model assigns each CPU core its own shard of data, eliminating cross-core contention and enabling efficient utilization of modern multi-core processors.",
-                  "Real-time applications like mobile chat face a \"connection state paradox\" at 10M+ concurrent connections that ScyllaDB's architecture is specifically designed to handle."
+                  "The architecture v2.0 uses three concentric layers: core services/data, service mesh/orchestration, and security/compliance boundary.",
+                  "Binary public-vs-internal security models are inadequate; modern systems need classification by runtime stack, workload archetype, and blast radius.",
+                  "The golden path serves as a construction manual for platform engineering, ensuring consistency across large-scale Kubernetes deployments.",
+                  "Multi-dimensional workload categorization (edge, transactional, analytical, streaming, batch) replaces simplistic network zone thinking."
                 ],
                 "topics": [
-                  "scylladb",
-                  "shard-per-core",
-                  "nosql",
-                  "apache cassandra",
-                  "dynamodb compatibility",
-                  "c++ database",
-                  "real-time applications"
+                  "platform engineering",
+                  "kubernetes architecture",
+                  "security boundaries",
+                  "service mesh",
+                  "workload archetypes",
+                  "blast radius"
                 ]
               }
             },
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 41,
+              "views": 43,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -2638,64 +2893,6 @@
                   "pure go storage",
                   "ssd optimization",
                   "key-value store"
-                ]
-              }
-            },
-            {
-              "id": "MIZ0ATwu7C0",
-              "title": "Architecting Meilisearch on AKS & Istio",
-              "views": 26,
-              "date": "2026-02-10T09:50:21Z",
-              "category": "kubernetes",
-              "tags": [
-                "melisearch",
-                "aks",
-                "istio"
-              ],
-              "detail": {
-                "summary": "This video provides a technical blueprint for deploying Meilisearch on Azure Kubernetes Service within an Istio service mesh, targeting sub-50ms search latency in a zero-trust mTLS environment. It addresses three core challenges: speed (Meilisearch's dependency on LMDB and Linux kernel page cache), state (single-node architecture requiring dedicated persistent block storage, incompatible with NFS/SMB), and security (reconciling Istio sidecar mTLS proxies and kubelet health probes with latency budgets).",
-                "takeaways": [
-                  "Meilisearch relies on LMDB (Lightning Memory-Mapped Database) and the Linux kernel page cache for sub-50ms query performance, making storage I/O characteristics critical.",
-                  "Shared file systems like NFS and SMB are incompatible with Meilisearch's architecture due to unacceptable latency; dedicated persistent block storage is required.",
-                  "Istio sidecar proxies and mTLS encryption add latency layers that must be carefully tuned to stay within the 50ms search latency budget.",
-                  "Kubelet health probes in a zero-trust Istio mesh require special configuration since the probes bypass the sidecar proxy by default."
-                ],
-                "topics": [
-                  "meilisearch",
-                  "azure kubernetes service",
-                  "istio service mesh",
-                  "mtls",
-                  "lmdb",
-                  "zero trust",
-                  "persistent storage"
-                ]
-              }
-            },
-            {
-              "id": "BsiQrEaF3kU",
-              "title": "MotherDuck: Serverless DuckDB in the Cloud & Client",
-              "views": 26,
-              "date": "2026-02-04T11:42:09Z",
-              "category": "kubernetes",
-              "tags": [
-                "duckdb",
-                "hybrid query"
-              ],
-              "detail": {
-                "summary": "This presentation explores MotherDuck's hybrid query processing architecture based on the CIDR 2024 paper, which runs DuckDB across both cloud and client in a \"1.5 tier\" data architecture. It argues that the big data era is giving way to \"easy data\" where single-node scale-up systems handle 95%+ of enterprise workloads (most databases are under 1TB, most queries touch less than 10GB) without the operational overhead of distributed clusters.",
-                "takeaways": [
-                  "Over 95% of databases are smaller than 1TB and 95%+ of queries involve less than 10GB, making distributed cluster overhead unnecessary for most workloads.",
-                  "MotherDuck's 1.5-tier architecture runs DuckDB on both client and cloud, enabling hybrid query processing that eliminates traditional three-tier rigidity.",
-                  "The shift from \"big data\" scale-out clusters to \"easy data\" single-node scale-up provides instant elasticity with near-zero management overhead.",
-                  "Hybrid execution allows queries to leverage local compute for small datasets while transparently offloading to cloud for larger analytical workloads."
-                ],
-                "topics": [
-                  "duckdb",
-                  "motherduck",
-                  "hybrid query processing",
-                  "1.5 tier architecture",
-                  "serverless analytics",
-                  "single-node databases"
                 ]
               }
             },
@@ -2731,34 +2928,31 @@
               }
             },
             {
-              "id": "N4nRAfBZ3BE",
-              "title": "Choosing Your Messaging Fabric on AKS",
-              "views": 5,
-              "date": "2026-01-10T21:55:01Z",
+              "id": "R2zktRqz81U",
+              "title": "A Blueprint for Secure Azure Authentication in Go",
+              "views": 18,
+              "date": "2026-01-13T00:32:55Z",
               "category": "kubernetes",
               "tags": [
-                "messaging",
-                "aks",
-                "nats",
-                "azure event hubs",
-                "rabbitmq"
+                "workload identity",
+                "azure",
+                "sdk"
               ],
               "detail": {
-                "summary": "This architectural decision guide compares self-managed message brokers (RabbitMQ, NATS) versus managed PaaS offerings (Azure Service Bus, Azure Event Hubs) for asynchronous communication on Azure Kubernetes Service. The core trade-off is operational control versus managed simplicity: self-managed brokers provide full configuration and topology control but require deep DevOps expertise for monitoring, patching, and disaster recovery, while managed services shift that operational burden to Azure at the cost of less granular control.",
+                "summary": "This video provides a comprehensive guide to the Azure Identity SDK for Go, covering the full spectrum of credential types from environment-based authentication to service principal credentials, developer tool credentials, and cloud-native managed identities. It walks through selecting the appropriate credential type for development vs. production environments and implementing robust authentication between Go applications and the Azure ecosystem.",
                 "takeaways": [
-                  "Self-managed brokers like RabbitMQ and NATS on AKS provide full control over configuration, tuning, and topology but require specialized DevOps staffing for day-2 operations including patching and disaster recovery.",
-                  "Managed services like Azure Service Bus and Event Hubs eliminate operational overhead but reduce granular control over broker internals and introduce vendor lock-in.",
-                  "The decision is fundamentally about operational ownership: who is responsible for monitoring, scaling, and recovering the messaging layer when things fail.",
-                  "Loss of internal DevOps knowledge for self-managed brokers creates organizational risk that managed services inherently mitigate."
+                  "The Azure Identity SDK for Go offers environment credentials, service principal credentials (client secret, certificate, assertion), developer tool credentials (Azure CLI, PowerShell, VS Code), and managed identities.",
+                  "Service principal credentials using client secret, certificate, or assertion enable secure app-to-Azure authentication for service-to-service communication.",
+                  "Developer tool credentials allow using existing Azure CLI or PowerShell login sessions during local development without separate credential management.",
+                  "Managed identities in cloud-native environments eliminate the need for stored secrets by leveraging Azure's built-in identity infrastructure."
                 ],
                 "topics": [
-                  "azure kubernetes service",
-                  "rabbitmq",
-                  "nats",
-                  "azure service bus",
-                  "azure event hubs",
-                  "messaging architecture",
-                  "event-driven design"
+                  "azure identity sdk",
+                  "go authentication",
+                  "service principals",
+                  "managed identity",
+                  "azure cli credential",
+                  "credential types"
                 ]
               }
             }
@@ -2770,7 +2964,7 @@
             {
               "id": "mGMaqTvWrCc",
               "title": "Building an End-to-End MLOps Pipeline",
-              "views": 22,
+              "views": 25,
               "date": "2026-04-14T23:21:34Z",
               "category": "kubernetes",
               "tags": [
@@ -3138,7 +3332,7 @@
             {
               "id": "mGMaqTvWrCc",
               "title": "Building an End-to-End MLOps Pipeline",
-              "views": 22,
+              "views": 25,
               "date": "2026-04-14T23:21:34Z",
               "category": "kubernetes",
               "tags": [
@@ -3286,162 +3480,6 @@
                   "ci/cd pipeline",
                   "multi-tenant architecture",
                   "cloud-native ai"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "name": "Go",
-          "videos": [
-            {
-              "id": "BiYKKVsJROk",
-              "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
-              "views": 21,
-              "date": "2026-04-01T10:26:37Z",
-              "category": "kubernetes",
-              "tags": [
-                "aks",
-                "istio",
-                "argocd",
-                "gitops",
-                "wif"
-              ],
-              "detail": {
-                "summary": "This presentation details a four-layer microservices architecture on AKS integrating Istio service mesh, Argo CD GitOps, and Azure Workload Identity Federation for zero-trust deployments. The layers stack from AKS platform and workload identity at the base, through Istio mTLS and traffic management, Argo CD automated deployment synced to git repositories, up to the application layer.",
-                "takeaways": [
-                  "The four-layer architecture stacks AKS platform, Istio service mesh, Argo CD GitOps, and microservices application for comprehensive security and automation.",
-                  "Azure Workload Identity Federation eliminates long-lived credentials by providing verified managed identity for every service.",
-                  "Istio handles mTLS for service-to-service encryption and traffic management without application code changes.",
-                  "Argo CD ensures the cluster state remains continuously synchronized with git repositories through automated GitOps deployment."
-                ],
-                "topics": [
-                  "aks",
-                  "istio service mesh",
-                  "argo cd",
-                  "gitops",
-                  "workload identity federation",
-                  "zero trust",
-                  "mutual tls"
-                ]
-              }
-            },
-            {
-              "id": "ORjARjbukhY",
-              "title": "The Golden Path",
-              "views": 25,
-              "date": "2026-02-21T10:33:08Z",
-              "category": "kubernetes",
-              "tags": [
-                "golden",
-                "deployments",
-                "tandardization"
-              ],
-              "detail": {
-                "summary": "This video presents a comprehensive architecture v2.0 blueprint for massive Kubernetes deployments organized in three concentric layers: core services/data, service mesh/orchestration, and security boundary/compliance. It advocates moving from binary public-vs-internal security categorization to a three-dimensional model that considers runtime stack, workload archetype, and blast radius. The golden path framework provides standardized platform engineering guidelines for scalable, secure infrastructure.",
-                "takeaways": [
-                  "The architecture v2.0 uses three concentric layers: core services/data, service mesh/orchestration, and security/compliance boundary.",
-                  "Binary public-vs-internal security models are inadequate; modern systems need classification by runtime stack, workload archetype, and blast radius.",
-                  "The golden path serves as a construction manual for platform engineering, ensuring consistency across large-scale Kubernetes deployments.",
-                  "Multi-dimensional workload categorization (edge, transactional, analytical, streaming, batch) replaces simplistic network zone thinking."
-                ],
-                "topics": [
-                  "platform engineering",
-                  "kubernetes architecture",
-                  "security boundaries",
-                  "service mesh",
-                  "workload archetypes",
-                  "blast radius"
-                ]
-              }
-            },
-            {
-              "id": "eI2DXGISpbk",
-              "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 41,
-              "date": "2026-02-13T00:09:38Z",
-              "category": "kubernetes",
-              "tags": [
-                "go",
-                "badgerdb",
-                "key-value store"
-              ],
-              "detail": {
-                "summary": "This video introduces BadgerDB, a pure Go embeddable key-value store engineered for SSDs and built as a high-performance alternative to RocksDB. Developed by the Dgraph team to eliminate CGo bottlenecks, BadgerDB implements the WiscKey thesis of separating keys from values to reduce write amplification inherent in traditional LSM-tree stores like LevelDB and RocksDB. Now at stable v4.x, it powers petabyte-scale datasets in production environments.",
-                "takeaways": [
-                  "BadgerDB eliminates the CGo friction of integrating C++ stores like RocksDB, which causes build complexity, difficult memory profiling, and scheduler conflicts between Go and C++ threads.",
-                  "The WiscKey thesis separates keys from values during LSM-tree compaction, dramatically reducing write amplification compared to traditional stores that rewrite both together.",
-                  "Pure Go architecture provides native access to Go's profiling tools (pprof), efficient goroutine management, and fast compilation without cross-language integration overhead.",
-                  "BadgerDB v4.x already powers petabyte-scale datasets in demanding production environments, proving its reliability at scale."
-                ],
-                "topics": [
-                  "badgerdb",
-                  "lsm-tree",
-                  "wisckey thesis",
-                  "write amplification",
-                  "pure go storage",
-                  "ssd optimization",
-                  "key-value store"
-                ]
-              }
-            },
-            {
-              "id": "Q4qm1hvVR2A",
-              "title": "Dragonfly on AKS",
-              "views": 21,
-              "date": "2026-01-31T16:23:17Z",
-              "category": "kubernetes",
-              "tags": [
-                "kubernetes",
-                "dragonfly",
-                "performance",
-                "aeraki",
-                "aks"
-              ],
-              "detail": {
-                "summary": "This video covers deploying Dragonfly as a high-performance in-memory data store on Azure Kubernetes Service (AKS) integrated with the Istio service mesh. It highlights the \"multi-core gap\" where legacy single-threaded systems like Redis waste 31 of 32 available CPU cores, while Dragonfly's shared-nothing architecture utilizes all cores for maximum throughput. The session bridges AKS, Istio, and Dragonfly to create a scalable, high-efficiency infrastructure.",
-                "takeaways": [
-                  "Redis's single-threaded event loop creates a multi-core gap, leaving 31 of 32 cores idle on modern Azure E5v5 instances.",
-                  "Dragonfly uses a shared-nothing architecture where each thread operates independently, enabling full multi-core utilization.",
-                  "The deployment integrates Dragonfly with Istio service mesh on AKS for mTLS, traffic management, and observability.",
-                  "Moving from shared-memory structures to per-thread isolated data eliminates contention and maximizes parallel throughput."
-                ],
-                "topics": [
-                  "dragonfly db",
-                  "redis alternative",
-                  "aks deployment",
-                  "shared-nothing architecture",
-                  "multi-core utilization",
-                  "istio integration"
-                ]
-              }
-            },
-            {
-              "id": "R2zktRqz81U",
-              "title": "A Blueprint for Secure Azure Authentication in Go",
-              "views": 18,
-              "date": "2026-01-13T00:32:55Z",
-              "category": "kubernetes",
-              "tags": [
-                "workload identity",
-                "azure",
-                "sdk"
-              ],
-              "detail": {
-                "summary": "This video provides a comprehensive guide to the Azure Identity SDK for Go, covering the full spectrum of credential types from environment-based authentication to service principal credentials, developer tool credentials, and cloud-native managed identities. It walks through selecting the appropriate credential type for development vs. production environments and implementing robust authentication between Go applications and the Azure ecosystem.",
-                "takeaways": [
-                  "The Azure Identity SDK for Go offers environment credentials, service principal credentials (client secret, certificate, assertion), developer tool credentials (Azure CLI, PowerShell, VS Code), and managed identities.",
-                  "Service principal credentials using client secret, certificate, or assertion enable secure app-to-Azure authentication for service-to-service communication.",
-                  "Developer tool credentials allow using existing Azure CLI or PowerShell login sessions during local development without separate credential management.",
-                  "Managed identities in cloud-native environments eliminate the need for stored secrets by leveraging Azure's built-in identity infrastructure."
-                ],
-                "topics": [
-                  "azure identity sdk",
-                  "go authentication",
-                  "service principals",
-                  "managed identity",
-                  "azure cli credential",
-                  "credential types"
                 ]
               }
             }
@@ -3765,6 +3803,20 @@
           "name": "Rust",
           "videos": [
             {
+              "id": "nomIVRSBEG4",
+              "title": "Consuming CDC with ScyllaDB",
+              "views": 33,
+              "date": "2026-04-18T04:36:03Z",
+              "category": "kubernetes",
+              "tags": [
+                "scylladb",
+                "cdc",
+                "rust",
+                "java",
+                "go"
+              ]
+            },
+            {
               "id": "a8heWpae5p0",
               "title": "minikv: Distributed Systems Meets Data Science",
               "views": 17,
@@ -3863,9 +3915,37 @@
       ],
       "videos": [
         {
+          "id": "PMgUhFxrjPc",
+          "title": "The Cloud Rosetta Stone",
+          "views": 11,
+          "date": "2026-04-18T15:16:01Z",
+          "category": "kubernetes",
+          "tags": [
+            "azure",
+            "aws",
+            "gcp",
+            "cloud",
+            "services"
+          ]
+        },
+        {
+          "id": "nomIVRSBEG4",
+          "title": "Consuming CDC with ScyllaDB",
+          "views": 33,
+          "date": "2026-04-18T04:36:03Z",
+          "category": "kubernetes",
+          "tags": [
+            "scylladb",
+            "cdc",
+            "rust",
+            "java",
+            "go"
+          ]
+        },
+        {
           "id": "mGMaqTvWrCc",
           "title": "Building an End-to-End MLOps Pipeline",
-          "views": 22,
+          "views": 25,
           "date": "2026-04-14T23:21:34Z",
           "category": "kubernetes",
           "tags": [
@@ -3896,7 +3976,7 @@
         {
           "id": "oHdhgeF4wlI",
           "title": "A Trillion Transactions",
-          "views": 30,
+          "views": 33,
           "date": "2026-04-12T14:38:25Z",
           "category": "kubernetes",
           "tags": [
@@ -3989,7 +4069,7 @@
         {
           "id": "WRpjJV4SUKc",
           "title": "Architecting Real-Time State",
-          "views": 73,
+          "views": 74,
           "date": "2026-04-05T12:14:36Z",
           "category": "kubernetes",
           "tags": [
@@ -4022,7 +4102,7 @@
         {
           "id": "7Dchx829X_M",
           "title": "Architecting the edge for HTTP/3 and QUIC",
-          "views": 89,
+          "views": 90,
           "date": "2026-04-05T00:11:43Z",
           "category": "kubernetes",
           "tags": [
@@ -4207,7 +4287,7 @@
         {
           "id": "RLlEbcXO6k8",
           "title": "Migrating Workloads from AWS to Azure",
-          "views": 8,
+          "views": 9,
           "date": "2026-03-22T22:39:06Z",
           "category": "kubernetes",
           "tags": [
@@ -4820,7 +4900,7 @@
         {
           "id": "eI2DXGISpbk",
           "title": "BadgerDB: The Go-Native Key-Value Store",
-          "views": 41,
+          "views": 43,
           "date": "2026-02-13T00:09:38Z",
           "category": "kubernetes",
           "tags": [
@@ -5509,12 +5589,12 @@
         "programming",
         "security"
       ],
-      "videoCount": 150,
-      "totalViews": 17999,
+      "videoCount": 152,
+      "totalViews": 18318,
       "topTags": [
         {
           "tag": "rust",
-          "count": 29
+          "count": 30
         },
         {
           "tag": "zig",
@@ -5529,16 +5609,16 @@
           "count": 19
         },
         {
+          "tag": "flutter",
+          "count": 8
+        },
+        {
           "tag": "wasm",
           "count": 8
         },
         {
           "tag": "cli",
           "count": 8
-        },
-        {
-          "tag": "flutter",
-          "count": 7
         },
         {
           "tag": "git",
@@ -5598,9 +5678,22 @@
           "name": "Rust",
           "videos": [
             {
+              "id": "izLrX-02IQk",
+              "title": "Rust 1.95.0",
+              "views": 8,
+              "date": "2026-04-18T20:42:55Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "v1.95.0",
+                "cfg_select!",
+                "if-let guard"
+              ]
+            },
+            {
               "id": "BT08SXPvV6U",
               "title": "Building vibe-rust",
-              "views": 60,
+              "views": 62,
               "date": "2026-04-04T14:34:30Z",
               "category": "development",
               "tags": [
@@ -5631,7 +5724,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4112,
+              "views": 4116,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -6070,7 +6163,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 89,
+              "views": 90,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -6097,7 +6190,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 315,
+              "views": 318,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -6597,9 +6690,20 @@
           "name": "AI & ML",
           "videos": [
             {
+              "id": "q-6cUColzQQ",
+              "title": "Flutter Web Explained",
+              "views": 11,
+              "date": "2026-04-18T12:37:49Z",
+              "category": "development",
+              "tags": [
+                "flutter",
+                "web"
+              ]
+            },
+            {
               "id": "E8f87EV4k3A",
               "title": "A Compiler, Not a Renderer",
-              "views": 18,
+              "views": 51,
               "date": "2026-04-17T12:06:22Z",
               "category": "development",
               "tags": [
@@ -6612,7 +6716,7 @@
             {
               "id": "lsjfczYFBeQ",
               "title": "The Evolution of RFCs in the Al Era",
-              "views": 19,
+              "views": 28,
               "date": "2026-04-16T22:17:14Z",
               "category": "development",
               "tags": [
@@ -6642,7 +6746,7 @@
             {
               "id": "j8lMpSezavQ",
               "title": "The Local SOTA Engine for Your Digital Brain",
-              "views": 48,
+              "views": 51,
               "date": "2026-04-13T22:32:31Z",
               "category": "development",
               "tags": [
@@ -6673,7 +6777,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 98,
+              "views": 103,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -6703,7 +6807,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2394,
+              "views": 2417,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -6805,7 +6909,7 @@
             {
               "id": "z2SA6P7WNoc",
               "title": "Reasoning Under Uncertainty",
-              "views": 152,
+              "views": 154,
               "date": "2026-04-03T22:11:58Z",
               "category": "development",
               "tags": [
@@ -7145,7 +7249,7 @@
             {
               "id": "AcpVuvtSXwI",
               "title": "microgpt-zig: Atomic Al Training",
-              "views": 47,
+              "views": 50,
               "date": "2026-02-28T14:09:19Z",
               "category": "development",
               "tags": [
@@ -7176,7 +7280,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 644,
+              "views": 646,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -7535,7 +7639,7 @@
             {
               "id": "VHuQi_1t5qQ",
               "title": "Mastering Go Pointers",
-              "views": 2,
+              "views": 32,
               "date": "2026-04-17T18:20:09Z",
               "category": "development",
               "tags": [
@@ -7580,7 +7684,7 @@
             {
               "id": "IYfTi_HNDl4",
               "title": "Building Production-Grade RabbitMQ in Go",
-              "views": 73,
+              "views": 75,
               "date": "2026-04-06T22:28:09Z",
               "category": "development",
               "tags": [
@@ -7673,7 +7777,7 @@
             {
               "id": "yCJDmGrk8sM",
               "title": "Advancing Go Garbage Collection with Green Tea",
-              "views": 143,
+              "views": 144,
               "date": "2026-03-24T22:59:50Z",
               "category": "development",
               "tags": [
@@ -7946,7 +8050,7 @@
             {
               "id": "Hfut9CfJhN0",
               "title": "Bubble Tea v2",
-              "views": 51,
+              "views": 53,
               "date": "2026-03-02T12:02:38Z",
               "category": "development",
               "tags": [
@@ -8040,7 +8144,7 @@
             {
               "id": "DazzkNtnzec",
               "title": "Design Patterns in Go",
-              "views": 110,
+              "views": 112,
               "date": "2026-02-24T23:48:12Z",
               "category": "development",
               "tags": [
@@ -8134,7 +8238,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 720,
+              "views": 724,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -8321,7 +8425,7 @@
             {
               "id": "tyR8SdHpOeY",
               "title": "Book-Finder Architecture",
-              "views": 25,
+              "views": 28,
               "date": "2026-04-13T00:06:42Z",
               "category": "development",
               "tags": [
@@ -8353,7 +8457,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4112,
+              "views": 4116,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -8549,7 +8653,7 @@
             {
               "id": "ymYtSum-2qc",
               "title": "zig-duckdb-ext",
-              "views": 61,
+              "views": 63,
               "date": "2026-03-24T09:56:13Z",
               "category": "development",
               "tags": [
@@ -8638,7 +8742,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 89,
+              "views": 90,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -8730,7 +8834,7 @@
             {
               "id": "IYfTi_HNDl4",
               "title": "Building Production-Grade RabbitMQ in Go",
-              "views": 73,
+              "views": 75,
               "date": "2026-04-06T22:28:09Z",
               "category": "development",
               "tags": [
@@ -8792,7 +8896,7 @@
             {
               "id": "wyIhJ3LMnRg",
               "title": "W3C Trace Context",
-              "views": 34,
+              "views": 35,
               "date": "2026-03-21T13:19:14Z",
               "category": "development",
               "tags": [
@@ -9052,9 +9156,33 @@
       ],
       "videos": [
         {
+          "id": "izLrX-02IQk",
+          "title": "Rust 1.95.0",
+          "views": 8,
+          "date": "2026-04-18T20:42:55Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "v1.95.0",
+            "cfg_select!",
+            "if-let guard"
+          ]
+        },
+        {
+          "id": "q-6cUColzQQ",
+          "title": "Flutter Web Explained",
+          "views": 11,
+          "date": "2026-04-18T12:37:49Z",
+          "category": "development",
+          "tags": [
+            "flutter",
+            "web"
+          ]
+        },
+        {
           "id": "VHuQi_1t5qQ",
           "title": "Mastering Go Pointers",
-          "views": 2,
+          "views": 32,
           "date": "2026-04-17T18:20:09Z",
           "category": "development",
           "tags": [
@@ -9070,7 +9198,7 @@
         {
           "id": "E8f87EV4k3A",
           "title": "A Compiler, Not a Renderer",
-          "views": 18,
+          "views": 51,
           "date": "2026-04-17T12:06:22Z",
           "category": "development",
           "tags": [
@@ -9083,7 +9211,7 @@
         {
           "id": "lsjfczYFBeQ",
           "title": "The Evolution of RFCs in the Al Era",
-          "views": 19,
+          "views": 28,
           "date": "2026-04-16T22:17:14Z",
           "category": "development",
           "tags": [
@@ -9113,7 +9241,7 @@
         {
           "id": "X65YHZUnFq0",
           "title": "OpenFeature: The Standard for Feature Flagging",
-          "views": 14,
+          "views": 26,
           "date": "2026-04-16T17:02:54Z",
           "category": "development",
           "tags": [
@@ -9143,7 +9271,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 355,
+          "views": 479,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -9174,7 +9302,7 @@
         {
           "id": "Qg6vQrmCilg",
           "title": "Beyond the Ratio",
-          "views": 11,
+          "views": 12,
           "date": "2026-04-14T11:28:06Z",
           "category": "development",
           "tags": [
@@ -9205,7 +9333,7 @@
         {
           "id": "j8lMpSezavQ",
           "title": "The Local SOTA Engine for Your Digital Brain",
-          "views": 48,
+          "views": 51,
           "date": "2026-04-13T22:32:31Z",
           "category": "development",
           "tags": [
@@ -9236,7 +9364,7 @@
         {
           "id": "a1hIA6KQUFE",
           "title": "The Center Has a Bias",
-          "views": 36,
+          "views": 37,
           "date": "2026-04-13T12:41:52Z",
           "category": "development",
           "tags": [
@@ -9266,7 +9394,7 @@
         {
           "id": "tyR8SdHpOeY",
           "title": "Book-Finder Architecture",
-          "views": 25,
+          "views": 28,
           "date": "2026-04-13T00:06:42Z",
           "category": "development",
           "tags": [
@@ -9298,7 +9426,7 @@
         {
           "id": "-tZGlR8Zztg",
           "title": "The Illusion of Design",
-          "views": 29,
+          "views": 30,
           "date": "2026-04-11T07:48:34Z",
           "category": "development",
           "tags": [
@@ -9316,7 +9444,7 @@
         {
           "id": "QC-vaMcjq3M",
           "title": "zig-lottie: Compiling Motion",
-          "views": 73,
+          "views": 78,
           "date": "2026-04-11T05:33:18Z",
           "category": "development",
           "tags": [
@@ -9375,7 +9503,7 @@
         {
           "id": "LackTxguXFg",
           "title": "The Programmer's Guide to Essential RFCs",
-          "views": 99,
+          "views": 100,
           "date": "2026-04-10T16:29:16Z",
           "category": "development",
           "tags": [
@@ -9406,7 +9534,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 98,
+          "views": 103,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -9436,7 +9564,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2394,
+          "views": 2417,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -9530,7 +9658,7 @@
         {
           "id": "ea5lpF3RyzE",
           "title": "RFC 862 and the Echo Protocol",
-          "views": 37,
+          "views": 38,
           "date": "2026-04-07T11:46:58Z",
           "category": "development",
           "tags": [
@@ -9561,7 +9689,7 @@
         {
           "id": "IYfTi_HNDl4",
           "title": "Building Production-Grade RabbitMQ in Go",
-          "views": 73,
+          "views": 75,
           "date": "2026-04-06T22:28:09Z",
           "category": "development",
           "tags": [
@@ -9691,7 +9819,7 @@
         {
           "id": "BT08SXPvV6U",
           "title": "Building vibe-rust",
-          "views": 60,
+          "views": 62,
           "date": "2026-04-04T14:34:30Z",
           "category": "development",
           "tags": [
@@ -9722,7 +9850,7 @@
         {
           "id": "z2SA6P7WNoc",
           "title": "Reasoning Under Uncertainty",
-          "views": 152,
+          "views": 154,
           "date": "2026-04-03T22:11:58Z",
           "category": "development",
           "tags": [
@@ -9755,7 +9883,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4112,
+          "views": 4116,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -9819,7 +9947,7 @@
         {
           "id": "JWeu5aqAkR0",
           "title": "The Transport Revolution: Deconstructing HTTP/3",
-          "views": 199,
+          "views": 202,
           "date": "2026-04-01T22:51:56Z",
           "category": "development",
           "detail": {
@@ -9846,7 +9974,7 @@
         {
           "id": "oUTf9j6fWJo",
           "title": "Reed: The Modern Terminal File Viewer",
-          "views": 140,
+          "views": 141,
           "date": "2026-03-30T22:20:06Z",
           "category": "development",
           "tags": [
@@ -10067,7 +10195,7 @@
         {
           "id": "yCJDmGrk8sM",
           "title": "Advancing Go Garbage Collection with Green Tea",
-          "views": 143,
+          "views": 144,
           "date": "2026-03-24T22:59:50Z",
           "category": "development",
           "tags": [
@@ -10099,7 +10227,7 @@
         {
           "id": "ymYtSum-2qc",
           "title": "zig-duckdb-ext",
-          "views": 61,
+          "views": 63,
           "date": "2026-03-24T09:56:13Z",
           "category": "development",
           "tags": [
@@ -10222,7 +10350,7 @@
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
-          "views": 34,
+          "views": 35,
           "date": "2026-03-21T13:19:14Z",
           "category": "development",
           "tags": [
@@ -11084,7 +11212,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 171,
+          "views": 172,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -11116,7 +11244,7 @@
         {
           "id": "Hfut9CfJhN0",
           "title": "Bubble Tea v2",
-          "views": 51,
+          "views": 53,
           "date": "2026-03-02T12:02:38Z",
           "category": "development",
           "tags": [
@@ -11210,7 +11338,7 @@
         {
           "id": "AcpVuvtSXwI",
           "title": "microgpt-zig: Atomic Al Training",
-          "views": 47,
+          "views": 50,
           "date": "2026-02-28T14:09:19Z",
           "category": "development",
           "tags": [
@@ -11241,7 +11369,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 644,
+          "views": 646,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -11428,7 +11556,7 @@
         {
           "id": "DazzkNtnzec",
           "title": "Design Patterns in Go",
-          "views": 110,
+          "views": 112,
           "date": "2026-02-24T23:48:12Z",
           "category": "development",
           "tags": [
@@ -11704,7 +11832,7 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 89,
+          "views": 90,
           "date": "2026-02-14T22:47:13Z",
           "category": "development",
           "tags": [
@@ -11731,7 +11859,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 720,
+          "views": 724,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -11764,7 +11892,7 @@
         {
           "id": "cWozmWrqnxs",
           "title": "The Repository Pattern",
-          "views": 775,
+          "views": 777,
           "date": "2026-02-13T18:01:39Z",
           "category": "development",
           "tags": [
@@ -11795,7 +11923,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 315,
+          "views": 318,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -12073,7 +12201,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 125,
+          "views": 130,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -12106,7 +12234,7 @@
         {
           "id": "5st-kLcNrE8",
           "title": "Jujutsu (jj):  An Introduction of its Paradigm Shift",
-          "views": 115,
+          "views": 116,
           "date": "2026-02-06T00:13:53Z",
           "category": "development",
           "tags": [
@@ -12139,7 +12267,7 @@
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 396,
+          "views": 399,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -12415,7 +12543,7 @@
         {
           "id": "Ul0ixBpd5iM",
           "title": "Velox: Bring Tauri to Swift",
-          "views": 43,
+          "views": 44,
           "date": "2026-01-27T23:10:59Z",
           "category": "development",
           "tags": [
@@ -13602,7 +13730,7 @@
         "development"
       ],
       "videoCount": 10,
-      "totalViews": 326,
+      "totalViews": 327,
       "topTags": [
         {
           "tag": "llm",
@@ -13782,7 +13910,7 @@
             {
               "id": "Oa3jaLNSZvM",
               "title": "The Orchestrator's Blueprint",
-              "views": 35,
+              "views": 36,
               "date": "2026-02-28T16:18:04Z",
               "category": "security",
               "tags": [
@@ -14151,7 +14279,7 @@
         {
           "id": "Oa3jaLNSZvM",
           "title": "The Orchestrator's Blueprint",
-          "views": 35,
+          "views": 36,
           "date": "2026-02-28T16:18:04Z",
           "category": "security",
           "tags": [
@@ -14525,7 +14653,21 @@
       ]
     },
     {
-      "tag": "pipeline",
+      "tag": "cloud",
+      "categories": [
+        "kubernetes",
+        "development"
+      ]
+    },
+    {
+      "tag": "scylladb",
+      "categories": [
+        "kubernetes",
+        "development"
+      ]
+    },
+    {
+      "tag": "cdc",
       "categories": [
         "kubernetes",
         "development"
@@ -14533,6 +14675,27 @@
     },
     {
       "tag": "rust",
+      "categories": [
+        "kubernetes",
+        "development"
+      ]
+    },
+    {
+      "tag": "java",
+      "categories": [
+        "kubernetes",
+        "development"
+      ]
+    },
+    {
+      "tag": "go",
+      "categories": [
+        "kubernetes",
+        "development"
+      ]
+    },
+    {
+      "tag": "pipeline",
       "categories": [
         "kubernetes",
         "development"
@@ -14553,13 +14716,6 @@
       ]
     },
     {
-      "tag": "cdc",
-      "categories": [
-        "kubernetes",
-        "development"
-      ]
-    },
-    {
       "tag": "hybrid",
       "categories": [
         "kubernetes",
@@ -14568,34 +14724,6 @@
     },
     {
       "tag": "copilot",
-      "categories": [
-        "kubernetes",
-        "development"
-      ]
-    },
-    {
-      "tag": "identity",
-      "categories": [
-        "kubernetes",
-        "development"
-      ]
-    },
-    {
-      "tag": "oidc",
-      "categories": [
-        "kubernetes",
-        "development"
-      ]
-    },
-    {
-      "tag": "kubernetes",
-      "categories": [
-        "kubernetes",
-        "development"
-      ]
-    },
-    {
-      "tag": "features",
       "categories": [
         "kubernetes",
         "development"

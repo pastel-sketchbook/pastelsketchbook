@@ -71,3 +71,7 @@ Synced 259 videos across 6 categories (korea=17, finance=21, kubernetes=55, deve
 ## [2026-04-17] ingest | Video Transcripts
 
 Exported 1 transcript files (single: Qg6vQrmCilg) to `wiki/raw/transcripts`.
+
+## [2026-04-19] ingest | Video Metadata Sync
+
+Synced 266 videos across 6 categories (korea=17, finance=22, kubernetes=57, development=152, security=10, programming=8).

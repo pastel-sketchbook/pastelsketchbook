@@ -33,8 +33,8 @@
     "@google/genai": "^1.50.1",
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.6.0",
-    "@tanstack/react-query": "^5.99.0",
-    "@tanstack/react-router": "^1.168.22",
+    "@tanstack/react-query": "^5.99.1",
+    "@tanstack/react-router": "^1.168.23",
     "framer-motion": "^12.38.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
@@ -54,7 +54,7 @@
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@types/three": "^0.184.0",
-    "@vercel/node": "^5.7.10",
+    "@vercel/node": "^5.7.11",
     "@vitejs/plugin-react": "^6.0.1",
     "@vitest/coverage-v8": "^4.1.4",
     "daisyui": "^5.5.19",
@@ -62,7 +62,7 @@
     "postcss": "^8.5.10",
     "tailwindcss": "^4.2.2",
     "typescript": "6.0.3",
-    "vercel": "^51.6.1",
+    "vercel": "^51.7.0",
     "vite": "^8.0.8",
     "vitest": "^4.1.4"
   }
