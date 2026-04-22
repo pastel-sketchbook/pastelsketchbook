@@ -75,3 +75,7 @@ Exported 1 transcript files (single: Qg6vQrmCilg) to `wiki/raw/transcripts`.
 ## [2026-04-19] ingest | Video Metadata Sync
 
 Synced 266 videos across 6 categories (korea=17, finance=22, kubernetes=57, development=152, security=10, programming=8).
+
+## [2026-04-22] ingest | Video Metadata Sync
+
+Synced 275 videos across 6 categories (korea=17, finance=22, kubernetes=58, development=159, security=11, programming=8).

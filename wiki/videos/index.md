@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 266
-updated: 2026-04-19
+sources: 275
+updated: 2026-04-22
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 266 |
-| Total Views | 21.0K |
+| Total Videos | 275 |
+| Total Views | 22.1K |
 | Categories | 6 |
-| Last Updated | Apr 18, 2026 |
+| Last Updated | Apr 22, 2026 |
 
 ## Categories
 
@@ -26,19 +26,19 @@ Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 22 videos, 393 total views.
+Videos covering personal finance, investing, and economics. 22 videos, 432 total views.
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 57 videos, 1.6K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 58 videos, 1.6K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 152 videos, 18.3K total views.
+Videos about software development, tools, workflows, and engineering practices. 159 videos, 19.3K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 10 videos, 327 total views.
+Videos on cybersecurity, application security, and security engineering. 11 videos, 355 total views.
 
 ### [Programming](programming.md)
 
@@ -55,6 +55,7 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `shift left` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `notebooklm` | [Finance](finance.md), [Development](development.md) |
 | `cloud` | [Kubernetes](kubernetes.md), [Development](development.md) |
+| `orchestration` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `scylladb` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `cdc` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `rust` | [Kubernetes](kubernetes.md), [Development](development.md) |
@@ -64,7 +65,6 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `debezium` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `rabbitmq` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `hybrid` | [Kubernetes](kubernetes.md), [Development](development.md) |
-| `copilot` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Apr 18, 2026. See [wiki index](../index.md).*
+*Auto-generated on Apr 22, 2026. See [wiki index](../index.md).*

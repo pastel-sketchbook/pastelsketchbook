@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, stocks, notebooklm]
 sources: 22
-updated: 2026-04-19
+updated: 2026-04-22
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-04-19
 | Metric | Value |
 |--------|-------|
 | Videos | 22 |
-| Total Views | 393 |
+| Total Views | 432 |
 | Most Recent | Apr 17, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -30,7 +30,7 @@ updated: 2026-04-19
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Decoding the Black Box of Global Finance | 6 | Apr 17, 2026 | [Watch](https://youtu.be/1smShC18TWA) |  |
+| 1 | Decoding the Black Box of Global Finance | 45 | Apr 17, 2026 | [Watch](https://youtu.be/1smShC18TWA) |  |
 | 2 | The End of the American Penny | 3 | Apr 15, 2026 | [Watch](https://youtu.be/vzwjAlEz_bI) | [Wiki](details/vzwjAlEz_bI.md) |
 | 3 | Nesting in Global Finance | 6 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) | [Wiki](details/YYVxMSqBqe8.md) |
 | 4 | The Mystery of the Nickel Coke | 8 | Apr 10, 2026 | [Watch](https://youtu.be/l9UUqD2Bz2E) | [Wiki](details/l9UUqD2Bz2E.md) |
@@ -64,4 +64,4 @@ updated: 2026-04-19
 - [Kubernetes](kubernetes.md) -- shared tags: `curiosity`
 
 ---
-*Auto-generated on Apr 18, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 22, 2026. Back to [index](index.md).*

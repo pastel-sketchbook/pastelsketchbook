@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-19T02:57:10.240Z",
-  "totalVideos": 266,
+  "generatedAt": "2026-04-22T11:12:20.865Z",
+  "totalVideos": 275,
   "categories": [
     {
       "name": "korea",
@@ -548,7 +548,7 @@
         "development"
       ],
       "videoCount": 22,
-      "totalViews": 393,
+      "totalViews": 432,
       "topTags": [
         {
           "tag": "curiosity",
@@ -622,7 +622,7 @@
         {
           "id": "1smShC18TWA",
           "title": "Decoding the Black Box of Global Finance",
-          "views": 6,
+          "views": 45,
           "date": "2026-04-17T22:28:02Z",
           "category": "finance",
           "tags": [
@@ -1161,8 +1161,8 @@
         "security",
         "development"
       ],
-      "videoCount": 57,
-      "totalViews": 1551,
+      "videoCount": 58,
+      "totalViews": 1600,
       "topTags": [
         {
           "tag": "aks",
@@ -1205,6 +1205,10 @@
           "count": 3
         },
         {
+          "tag": "cloud",
+          "count": 2
+        },
+        {
           "tag": "aws",
           "count": 2
         },
@@ -1238,10 +1242,6 @@
         },
         {
           "tag": "duckdb",
-          "count": 2
-        },
-        {
-          "tag": "cni",
           "count": 2
         }
       ],
@@ -1422,7 +1422,7 @@
             {
               "id": "3hSdKvqPcSE",
               "title": "Architecting AKS Node Auto-Provisioning",
-              "views": 34,
+              "views": 35,
               "date": "2026-02-25T23:24:20Z",
               "category": "kubernetes",
               "tags": [
@@ -1817,7 +1817,7 @@
             {
               "id": "KdLQEv3Tiiw",
               "title": "Mastering Hybrid CDC Architectures",
-              "views": 16,
+              "views": 18,
               "date": "2026-04-08T02:45:20Z",
               "category": "kubernetes",
               "tags": [
@@ -1881,7 +1881,7 @@
             {
               "id": "lexZnOlyml0",
               "title": "Agentic Platform Engineering with GitHub Copilot",
-              "views": 66,
+              "views": 67,
               "date": "2026-03-27T03:34:28Z",
               "category": "kubernetes",
               "tags": [
@@ -1912,7 +1912,7 @@
             {
               "id": "QE51ybyrQDM",
               "title": "Designing the Event-Driven Landscape",
-              "views": 69,
+              "views": 70,
               "date": "2026-03-23T04:50:00Z",
               "category": "kubernetes",
               "tags": [
@@ -2096,7 +2096,7 @@
             {
               "id": "nomIVRSBEG4",
               "title": "Consuming CDC with ScyllaDB",
-              "views": 33,
+              "views": 57,
               "date": "2026-04-18T04:36:03Z",
               "category": "kubernetes",
               "tags": [
@@ -2169,7 +2169,7 @@
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 43,
+              "views": 44,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -2572,7 +2572,7 @@
             {
               "id": "KdLQEv3Tiiw",
               "title": "Mastering Hybrid CDC Architectures",
-              "views": 16,
+              "views": 18,
               "date": "2026-04-08T02:45:20Z",
               "category": "kubernetes",
               "tags": [
@@ -2604,7 +2604,7 @@
             {
               "id": "WRpjJV4SUKc",
               "title": "Architecting Real-Time State",
-              "views": 74,
+              "views": 75,
               "date": "2026-04-05T12:14:36Z",
               "category": "kubernetes",
               "tags": [
@@ -2789,12 +2789,184 @@
           ]
         },
         {
+          "name": "AI & ML",
+          "videos": [
+            {
+              "id": "p9LNSeAt5Zw",
+              "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
+              "views": 2,
+              "date": "2026-04-22T10:25:18Z",
+              "category": "kubernetes",
+              "tags": [
+                "pm2",
+                "cloud",
+                "orchestration",
+                "containerization"
+              ]
+            },
+            {
+              "id": "mGMaqTvWrCc",
+              "title": "Building an End-to-End MLOps Pipeline",
+              "views": 27,
+              "date": "2026-04-14T23:21:34Z",
+              "category": "kubernetes",
+              "tags": [
+                "azure",
+                "mlops",
+                "pipeline",
+                "wif"
+              ],
+              "detail": {
+                "summary": "This video walks through building a complete MLOps pipeline on Microsoft Azure, tracing the lifecycle from model training to deployment on managed endpoints. It contrasts the \"notebook trap\" of ad-hoc Jupyter-based training (no versioning, no reproducibility, hidden dependencies) with a fully automated pipeline where a merge to main triggers repeatable training, artifact versioning, and automated deployment using Azure Blob Storage, scikit-learn, and Azure managed endpoints.",
+                "takeaways": [
+                  "Relying on Jupyter notebooks for production ML creates a high-risk \"notebook trap\" with no versioning, hidden dependencies, and no automated path to production.",
+                  "The pipeline pattern ensures training is repeatable, all artifacts are versioned, and deployment is fully automated via a single merge to main.",
+                  "The architecture is designed for scikit-learn models with training data in Azure Blob Storage (parquet/CSV format) deploying to Azure managed endpoints.",
+                  "The end-to-end pipeline eliminates the single-point-of-failure risk where the pipeline stops if the notebook author is unavailable."
+                ],
+                "topics": [
+                  "mlops",
+                  "azure managed endpoints",
+                  "jupyter notebook trap",
+                  "scikit-learn",
+                  "azure blob storage",
+                  "model versioning",
+                  "automated ml deployment"
+                ]
+              }
+            },
+            {
+              "id": "7iWL5-0C66s",
+              "title": "Bridging the Mainframe to the Cloud",
+              "views": 24,
+              "date": "2026-04-04T10:58:19Z",
+              "category": "kubernetes",
+              "tags": [
+                "mainframe",
+                "ibm mq",
+                "shovel",
+                "rabbitmq"
+              ],
+              "detail": {
+                "summary": "This session presents a zero-impact architecture for distributing enterprise data from legacy mainframes to cloud-native environments using IBM MQ and RabbitMQ as a decoupling bridge. The approach avoids exposing expensive mainframe MIPS directly to volatile cloud workloads, instead implementing a four-part pipeline for safe extraction and real-time data distribution.",
+                "takeaways": [
+                  "Direct mainframe-to-cloud connections create unpredictable costs and performance bottlenecks due to the mainframe's MIPS-based pricing model.",
+                  "IBM MQ serves as the mainframe-side message broker while RabbitMQ handles cloud-side distribution, creating a strategic decoupling layer.",
+                  "The four-part pipeline safely extracts legacy data without impacting mission-critical mainframe operations.",
+                  "This architecture enables real-time data flow between on-premises and cloud while preserving mainframe stability and data integrity."
+                ],
+                "topics": [
+                  "mainframe modernization",
+                  "ibm mq",
+                  "rabbitmq",
+                  "enterprise data distribution",
+                  "message broker pipeline",
+                  "cloud migration"
+                ]
+              }
+            },
+            {
+              "id": "lexZnOlyml0",
+              "title": "Agentic Platform Engineering with GitHub Copilot",
+              "views": 67,
+              "date": "2026-03-27T03:34:28Z",
+              "category": "kubernetes",
+              "tags": [
+                "ai",
+                "copilot",
+                "agentic",
+                "platform",
+                "engineering"
+              ],
+              "detail": {
+                "summary": "This presentation by Diego Casati and Ray Cao introduces agentic platform engineering as a paradigm shift from reactive firefighting to autonomous, reasoning-capable infrastructure platforms powered by GitHub Copilot. The core thesis is that infrastructure complexity has outpaced human cognitive capacity, creating a \"paradox of choice\" that demands AI-augmented operations. The approach embeds an observe-reason-act loop into platform engineering workflows, enabling platforms to self-diagnose and respond to issues.",
+                "takeaways": [
+                  "Modern infrastructure complexity has created a cognitive bottleneck where platform engineers cannot manually manage thousands of disparate components across cloud services and codebases.",
+                  "Agentic platform engineering embeds an AI layer with three capabilities: observation (monitoring), reasoning (analysis), and action (automated remediation).",
+                  "GitHub Copilot serves as the agentic interface, enabling platform teams to interact with infrastructure through natural language rather than memorizing tool-specific commands.",
+                  "The transition moves platform engineering from reactive incident response to proactive, self-healing infrastructure that reasons alongside the team."
+                ],
+                "topics": [
+                  "agentic platform engineering",
+                  "github copilot",
+                  "cognitive load",
+                  "autonomous operations",
+                  "observe-reason-act",
+                  "infrastructure automation"
+                ]
+              }
+            },
+            {
+              "id": "n-Yt33ZdEHw",
+              "title": "The Architecture of Modern Identity",
+              "views": 62,
+              "date": "2026-03-18T23:55:13Z",
+              "category": "kubernetes",
+              "tags": [
+                "identity",
+                "kerberos",
+                "saml",
+                "oauth2",
+                "oidc",
+                "scim"
+              ],
+              "detail": {
+                "summary": "This video examines the multi-layered architecture of modern enterprise identity management, covering how Kerberos, SAML, OAuth 2.0, OIDC, and SCIM protocols integrate into a cohesive security framework. It describes a four-layer model: Kerberos as the internal network foundation (Layer 1), SAML/OIDC as the cloud bridge for SSO (Layer 2), OAuth 2.0 for API and microservice security (Layer 3), and SCIM for automated identity lifecycle provisioning (background layer). The goal is balancing robust security with frictionless user experience.",
+                "takeaways": [
+                  "Kerberos (Layer 1) secures internal network authentication using ticket-based symmetric key cryptography, verifying identities without transmitting passwords across the network.",
+                  "SAML and OIDC (Layer 2) extend single sign-on capabilities from on-premises to cloud and web applications, serving as the bridge between internal and external identity.",
+                  "OAuth 2.0 (Layer 3) secures API-level access and microservice-to-microservice traffic, operating independently from user-facing authentication.",
+                  "SCIM automates the full identity lifecycle (provisioning and deprovisioning) in the background, ensuring that access grants and revocations happen without manual intervention."
+                ],
+                "topics": [
+                  "kerberos",
+                  "saml",
+                  "oauth 2.0",
+                  "oidc",
+                  "scim",
+                  "identity management",
+                  "single sign-on",
+                  "zero trust"
+                ]
+              }
+            },
+            {
+              "id": "8ycnldvJmuA",
+              "title": "The Blueprint for Enterprise AI on Azure",
+              "views": 18,
+              "date": "2026-01-03T01:41:31Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "kubernetes"
+              ],
+              "detail": {
+                "summary": "This video presents a comprehensive architectural blueprint for deploying multi-tenant cloud-native AI applications on Azure, covering the full lifecycle from code development to production. The architecture integrates Azure DevOps for CI/CD, Azure Container Registry for artifact storage, AKS for container orchestration, Azure AI Foundry for cognitive services, and Azure Storage for data persistence within a secured Azure Virtual Network.",
+                "takeaways": [
+                  "The architecture layers Azure DevOps CI/CD, Azure Container Registry, AKS, Azure AI Foundry, and Azure Storage into a unified deployment pipeline.",
+                  "All services operate within an Azure Virtual Network to ensure private, protected traffic between components.",
+                  "AKS serves as the central Kubernetes compute hub where containerized AI applications are deployed and managed at scale.",
+                  "Azure AI Foundry provides the intelligence layer while Azure Storage handles persistence, enabling seamless interaction between compute, AI, and data."
+                ],
+                "topics": [
+                  "azure kubernetes service",
+                  "azure ai foundry",
+                  "azure devops",
+                  "ci/cd pipeline",
+                  "multi-tenant architecture",
+                  "cloud-native ai"
+                ]
+              }
+            }
+          ]
+        },
+        {
           "name": "Go",
           "videos": [
             {
               "id": "nomIVRSBEG4",
               "title": "Consuming CDC with ScyllaDB",
-              "views": 33,
+              "views": 57,
               "date": "2026-04-18T04:36:03Z",
               "category": "kubernetes",
               "tags": [
@@ -2869,7 +3041,7 @@
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 43,
+              "views": 44,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -2964,7 +3136,7 @@
             {
               "id": "mGMaqTvWrCc",
               "title": "Building an End-to-End MLOps Pipeline",
-              "views": 25,
+              "views": 27,
               "date": "2026-04-14T23:21:34Z",
               "category": "kubernetes",
               "tags": [
@@ -3327,165 +3499,6 @@
           ]
         },
         {
-          "name": "AI & ML",
-          "videos": [
-            {
-              "id": "mGMaqTvWrCc",
-              "title": "Building an End-to-End MLOps Pipeline",
-              "views": 25,
-              "date": "2026-04-14T23:21:34Z",
-              "category": "kubernetes",
-              "tags": [
-                "azure",
-                "mlops",
-                "pipeline",
-                "wif"
-              ],
-              "detail": {
-                "summary": "This video walks through building a complete MLOps pipeline on Microsoft Azure, tracing the lifecycle from model training to deployment on managed endpoints. It contrasts the \"notebook trap\" of ad-hoc Jupyter-based training (no versioning, no reproducibility, hidden dependencies) with a fully automated pipeline where a merge to main triggers repeatable training, artifact versioning, and automated deployment using Azure Blob Storage, scikit-learn, and Azure managed endpoints.",
-                "takeaways": [
-                  "Relying on Jupyter notebooks for production ML creates a high-risk \"notebook trap\" with no versioning, hidden dependencies, and no automated path to production.",
-                  "The pipeline pattern ensures training is repeatable, all artifacts are versioned, and deployment is fully automated via a single merge to main.",
-                  "The architecture is designed for scikit-learn models with training data in Azure Blob Storage (parquet/CSV format) deploying to Azure managed endpoints.",
-                  "The end-to-end pipeline eliminates the single-point-of-failure risk where the pipeline stops if the notebook author is unavailable."
-                ],
-                "topics": [
-                  "mlops",
-                  "azure managed endpoints",
-                  "jupyter notebook trap",
-                  "scikit-learn",
-                  "azure blob storage",
-                  "model versioning",
-                  "automated ml deployment"
-                ]
-              }
-            },
-            {
-              "id": "7iWL5-0C66s",
-              "title": "Bridging the Mainframe to the Cloud",
-              "views": 24,
-              "date": "2026-04-04T10:58:19Z",
-              "category": "kubernetes",
-              "tags": [
-                "mainframe",
-                "ibm mq",
-                "shovel",
-                "rabbitmq"
-              ],
-              "detail": {
-                "summary": "This session presents a zero-impact architecture for distributing enterprise data from legacy mainframes to cloud-native environments using IBM MQ and RabbitMQ as a decoupling bridge. The approach avoids exposing expensive mainframe MIPS directly to volatile cloud workloads, instead implementing a four-part pipeline for safe extraction and real-time data distribution.",
-                "takeaways": [
-                  "Direct mainframe-to-cloud connections create unpredictable costs and performance bottlenecks due to the mainframe's MIPS-based pricing model.",
-                  "IBM MQ serves as the mainframe-side message broker while RabbitMQ handles cloud-side distribution, creating a strategic decoupling layer.",
-                  "The four-part pipeline safely extracts legacy data without impacting mission-critical mainframe operations.",
-                  "This architecture enables real-time data flow between on-premises and cloud while preserving mainframe stability and data integrity."
-                ],
-                "topics": [
-                  "mainframe modernization",
-                  "ibm mq",
-                  "rabbitmq",
-                  "enterprise data distribution",
-                  "message broker pipeline",
-                  "cloud migration"
-                ]
-              }
-            },
-            {
-              "id": "lexZnOlyml0",
-              "title": "Agentic Platform Engineering with GitHub Copilot",
-              "views": 66,
-              "date": "2026-03-27T03:34:28Z",
-              "category": "kubernetes",
-              "tags": [
-                "ai",
-                "copilot",
-                "agentic",
-                "platform",
-                "engineering"
-              ],
-              "detail": {
-                "summary": "This presentation by Diego Casati and Ray Cao introduces agentic platform engineering as a paradigm shift from reactive firefighting to autonomous, reasoning-capable infrastructure platforms powered by GitHub Copilot. The core thesis is that infrastructure complexity has outpaced human cognitive capacity, creating a \"paradox of choice\" that demands AI-augmented operations. The approach embeds an observe-reason-act loop into platform engineering workflows, enabling platforms to self-diagnose and respond to issues.",
-                "takeaways": [
-                  "Modern infrastructure complexity has created a cognitive bottleneck where platform engineers cannot manually manage thousands of disparate components across cloud services and codebases.",
-                  "Agentic platform engineering embeds an AI layer with three capabilities: observation (monitoring), reasoning (analysis), and action (automated remediation).",
-                  "GitHub Copilot serves as the agentic interface, enabling platform teams to interact with infrastructure through natural language rather than memorizing tool-specific commands.",
-                  "The transition moves platform engineering from reactive incident response to proactive, self-healing infrastructure that reasons alongside the team."
-                ],
-                "topics": [
-                  "agentic platform engineering",
-                  "github copilot",
-                  "cognitive load",
-                  "autonomous operations",
-                  "observe-reason-act",
-                  "infrastructure automation"
-                ]
-              }
-            },
-            {
-              "id": "n-Yt33ZdEHw",
-              "title": "The Architecture of Modern Identity",
-              "views": 62,
-              "date": "2026-03-18T23:55:13Z",
-              "category": "kubernetes",
-              "tags": [
-                "identity",
-                "kerberos",
-                "saml",
-                "oauth2",
-                "oidc",
-                "scim"
-              ],
-              "detail": {
-                "summary": "This video examines the multi-layered architecture of modern enterprise identity management, covering how Kerberos, SAML, OAuth 2.0, OIDC, and SCIM protocols integrate into a cohesive security framework. It describes a four-layer model: Kerberos as the internal network foundation (Layer 1), SAML/OIDC as the cloud bridge for SSO (Layer 2), OAuth 2.0 for API and microservice security (Layer 3), and SCIM for automated identity lifecycle provisioning (background layer). The goal is balancing robust security with frictionless user experience.",
-                "takeaways": [
-                  "Kerberos (Layer 1) secures internal network authentication using ticket-based symmetric key cryptography, verifying identities without transmitting passwords across the network.",
-                  "SAML and OIDC (Layer 2) extend single sign-on capabilities from on-premises to cloud and web applications, serving as the bridge between internal and external identity.",
-                  "OAuth 2.0 (Layer 3) secures API-level access and microservice-to-microservice traffic, operating independently from user-facing authentication.",
-                  "SCIM automates the full identity lifecycle (provisioning and deprovisioning) in the background, ensuring that access grants and revocations happen without manual intervention."
-                ],
-                "topics": [
-                  "kerberos",
-                  "saml",
-                  "oauth 2.0",
-                  "oidc",
-                  "scim",
-                  "identity management",
-                  "single sign-on",
-                  "zero trust"
-                ]
-              }
-            },
-            {
-              "id": "8ycnldvJmuA",
-              "title": "The Blueprint for Enterprise AI on Azure",
-              "views": 18,
-              "date": "2026-01-03T01:41:31Z",
-              "category": "kubernetes",
-              "tags": [
-                "aks",
-                "kubernetes"
-              ],
-              "detail": {
-                "summary": "This video presents a comprehensive architectural blueprint for deploying multi-tenant cloud-native AI applications on Azure, covering the full lifecycle from code development to production. The architecture integrates Azure DevOps for CI/CD, Azure Container Registry for artifact storage, AKS for container orchestration, Azure AI Foundry for cognitive services, and Azure Storage for data persistence within a secured Azure Virtual Network.",
-                "takeaways": [
-                  "The architecture layers Azure DevOps CI/CD, Azure Container Registry, AKS, Azure AI Foundry, and Azure Storage into a unified deployment pipeline.",
-                  "All services operate within an Azure Virtual Network to ensure private, protected traffic between components.",
-                  "AKS serves as the central Kubernetes compute hub where containerized AI applications are deployed and managed at scale.",
-                  "Azure AI Foundry provides the intelligence layer while Azure Storage handles persistence, enabling seamless interaction between compute, AI, and data."
-                ],
-                "topics": [
-                  "azure kubernetes service",
-                  "azure ai foundry",
-                  "azure devops",
-                  "ci/cd pipeline",
-                  "multi-tenant architecture",
-                  "cloud-native ai"
-                ]
-              }
-            }
-          ]
-        },
-        {
           "name": "Identity & Auth",
           "videos": [
             {
@@ -3805,7 +3818,7 @@
             {
               "id": "nomIVRSBEG4",
               "title": "Consuming CDC with ScyllaDB",
-              "views": 33,
+              "views": 57,
               "date": "2026-04-18T04:36:03Z",
               "category": "kubernetes",
               "tags": [
@@ -3911,13 +3924,73 @@
               }
             }
           ]
+        },
+        {
+          "name": "Containers & Docker",
+          "videos": [
+            {
+              "id": "p9LNSeAt5Zw",
+              "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
+              "views": 2,
+              "date": "2026-04-22T10:25:18Z",
+              "category": "kubernetes",
+              "tags": [
+                "pm2",
+                "cloud",
+                "orchestration",
+                "containerization"
+              ]
+            },
+            {
+              "id": "Pxh2PcNx9W8",
+              "title": "Modern Docker Networking & Traefik",
+              "views": 38,
+              "date": "2026-03-03T23:15:03Z",
+              "category": "kubernetes",
+              "tags": [
+                "docker",
+                "traefik",
+                "networking"
+              ],
+              "detail": {
+                "summary": "This video covers modern Docker networking fundamentals and Traefik as a dynamic reverse proxy, spanning container isolation, base image security, multi-stage builds, and traffic management. It emphasizes that minimal base images (Alpine, distroless at 5-50MB vs 800MB+ for Ubuntu) directly reduce attack surface, and advocates pinning exact image versions instead of mutable tags like \"latest.\" Traefik is presented as the orchestration layer that simplifies routing and enhances security for containerized stacks.",
+                "takeaways": [
+                  "Shifting from full OS base images (Ubuntu/Debian at 800MB+) to Alpine or distroless (5-50MB) reduces both image size and attack surface.",
+                  "Always pin exact image versions (e.g., node:18.17-alpine) instead of using mutable tags like \"latest\" for reproducible builds.",
+                  "Multi-stage Docker builds separate build-time dependencies from the final runtime image, producing lean production containers.",
+                  "Traefik serves as a dynamic reverse proxy that automatically discovers services and manages routing and TLS termination."
+                ],
+                "topics": [
+                  "docker networking",
+                  "traefik reverse proxy",
+                  "container security",
+                  "base image selection",
+                  "multi-stage builds",
+                  "image pinning"
+                ]
+              }
+            }
+          ]
         }
       ],
       "videos": [
         {
+          "id": "p9LNSeAt5Zw",
+          "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
+          "views": 2,
+          "date": "2026-04-22T10:25:18Z",
+          "category": "kubernetes",
+          "tags": [
+            "pm2",
+            "cloud",
+            "orchestration",
+            "containerization"
+          ]
+        },
+        {
           "id": "PMgUhFxrjPc",
           "title": "The Cloud Rosetta Stone",
-          "views": 11,
+          "views": 20,
           "date": "2026-04-18T15:16:01Z",
           "category": "kubernetes",
           "tags": [
@@ -3931,7 +4004,7 @@
         {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 33,
+          "views": 57,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes",
           "tags": [
@@ -3945,7 +4018,7 @@
         {
           "id": "mGMaqTvWrCc",
           "title": "Building an End-to-End MLOps Pipeline",
-          "views": 25,
+          "views": 27,
           "date": "2026-04-14T23:21:34Z",
           "category": "kubernetes",
           "tags": [
@@ -3976,7 +4049,7 @@
         {
           "id": "oHdhgeF4wlI",
           "title": "A Trillion Transactions",
-          "views": 33,
+          "views": 37,
           "date": "2026-04-12T14:38:25Z",
           "category": "kubernetes",
           "tags": [
@@ -4037,7 +4110,7 @@
         {
           "id": "KdLQEv3Tiiw",
           "title": "Mastering Hybrid CDC Architectures",
-          "views": 16,
+          "views": 18,
           "date": "2026-04-08T02:45:20Z",
           "category": "kubernetes",
           "tags": [
@@ -4069,7 +4142,7 @@
         {
           "id": "WRpjJV4SUKc",
           "title": "Architecting Real-Time State",
-          "views": 74,
+          "views": 75,
           "date": "2026-04-05T12:14:36Z",
           "category": "kubernetes",
           "tags": [
@@ -4102,7 +4175,7 @@
         {
           "id": "7Dchx829X_M",
           "title": "Architecting the edge for HTTP/3 and QUIC",
-          "views": 90,
+          "views": 91,
           "date": "2026-04-05T00:11:43Z",
           "category": "kubernetes",
           "tags": [
@@ -4227,7 +4300,7 @@
         {
           "id": "lexZnOlyml0",
           "title": "Agentic Platform Engineering with GitHub Copilot",
-          "views": 66,
+          "views": 67,
           "date": "2026-03-27T03:34:28Z",
           "category": "kubernetes",
           "tags": [
@@ -4258,7 +4331,7 @@
         {
           "id": "QE51ybyrQDM",
           "title": "Designing the Event-Driven Landscape",
-          "views": 69,
+          "views": 70,
           "date": "2026-03-23T04:50:00Z",
           "category": "kubernetes",
           "tags": [
@@ -4636,7 +4709,7 @@
         {
           "id": "3hSdKvqPcSE",
           "title": "Architecting AKS Node Auto-Provisioning",
-          "views": 34,
+          "views": 35,
           "date": "2026-02-25T23:24:20Z",
           "category": "kubernetes",
           "tags": [
@@ -4900,7 +4973,7 @@
         {
           "id": "eI2DXGISpbk",
           "title": "BadgerDB: The Go-Native Key-Value Store",
-          "views": 43,
+          "views": 44,
           "date": "2026-02-13T00:09:38Z",
           "category": "kubernetes",
           "tags": [
@@ -5589,20 +5662,20 @@
         "programming",
         "security"
       ],
-      "videoCount": 152,
-      "totalViews": 18318,
+      "videoCount": 159,
+      "totalViews": 19296,
       "topTags": [
         {
           "tag": "rust",
-          "count": 30
+          "count": 32
         },
         {
           "tag": "zig",
-          "count": 28
+          "count": 29
         },
         {
           "tag": "ai",
-          "count": 20
+          "count": 21
         },
         {
           "tag": "go",
@@ -5637,6 +5710,14 @@
           "count": 5
         },
         {
+          "tag": "llm",
+          "count": 4
+        },
+        {
+          "tag": "agent",
+          "count": 4
+        },
+        {
           "tag": "curiosity",
           "count": 4
         },
@@ -5657,19 +5738,11 @@
           "count": 4
         },
         {
+          "tag": "qmd",
+          "count": 3
+        },
+        {
           "tag": "rfc",
-          "count": 3
-        },
-        {
-          "tag": "context",
-          "count": 3
-        },
-        {
-          "tag": "agent",
-          "count": 3
-        },
-        {
-          "tag": "llm",
           "count": 3
         }
       ],
@@ -5678,9 +5751,37 @@
           "name": "Rust",
           "videos": [
             {
+              "id": "FM6zp63maS8",
+              "title": "hexcap: Elevating Terminal Packet Capture",
+              "views": 44,
+              "date": "2026-04-20T22:17:31Z",
+              "category": "development",
+              "tags": [
+                "pcap",
+                "rust",
+                "hexcap",
+                "agent"
+              ]
+            },
+            {
+              "id": "feWjiYzQQ-k",
+              "title": "Pastel Market: Engineering a Unified Terminal Workspace",
+              "views": 34,
+              "date": "2026-04-19T17:24:16Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "yahoo",
+                "finviz",
+                "ureq",
+                "qc",
+                "whispers"
+              ]
+            },
+            {
               "id": "izLrX-02IQk",
               "title": "Rust 1.95.0",
-              "views": 8,
+              "views": 188,
               "date": "2026-04-18T20:42:55Z",
               "category": "development",
               "tags": [
@@ -5693,7 +5794,7 @@
             {
               "id": "BT08SXPvV6U",
               "title": "Building vibe-rust",
-              "views": 62,
+              "views": 61,
               "date": "2026-04-04T14:34:30Z",
               "category": "development",
               "tags": [
@@ -5724,7 +5825,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4116,
+              "views": 4127,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -5822,7 +5923,7 @@
             {
               "id": "vep9hSKc9I0",
               "title": "Dial9 Demo - Deep Observability in Async Rust",
-              "views": 104,
+              "views": 107,
               "date": "2026-03-22T10:40:21Z",
               "category": "development",
               "tags": [
@@ -5915,7 +6016,7 @@
             {
               "id": "_zJ3_d1CODg",
               "title": "Bevy-Demo",
-              "views": 116,
+              "views": 120,
               "date": "2026-03-19T00:18:34Z",
               "category": "development",
               "tags": [
@@ -6163,7 +6264,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 90,
+              "views": 91,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -6190,7 +6291,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 318,
+              "views": 324,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -6690,9 +6791,22 @@
           "name": "AI & ML",
           "videos": [
             {
+              "id": "pgTCcVO4gfg",
+              "title": "The 10k LOC Sweet Spot",
+              "views": 7,
+              "date": "2026-04-21T22:18:41Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "llm",
+                "assisted",
+                "engineering"
+              ]
+            },
+            {
               "id": "q-6cUColzQQ",
               "title": "Flutter Web Explained",
-              "views": 11,
+              "views": 24,
               "date": "2026-04-18T12:37:49Z",
               "category": "development",
               "tags": [
@@ -6703,7 +6817,7 @@
             {
               "id": "E8f87EV4k3A",
               "title": "A Compiler, Not a Renderer",
-              "views": 51,
+              "views": 138,
               "date": "2026-04-17T12:06:22Z",
               "category": "development",
               "tags": [
@@ -6746,7 +6860,7 @@
             {
               "id": "j8lMpSezavQ",
               "title": "The Local SOTA Engine for Your Digital Brain",
-              "views": 51,
+              "views": 53,
               "date": "2026-04-13T22:32:31Z",
               "category": "development",
               "tags": [
@@ -6777,7 +6891,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 103,
+              "views": 106,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -6807,7 +6921,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2417,
+              "views": 2501,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -6841,7 +6955,7 @@
             {
               "id": "fv61JXUCbeo",
               "title": "Stitch Agent Skills",
-              "views": 261,
+              "views": 265,
               "date": "2026-04-05T21:24:52Z",
               "category": "development",
               "tags": [
@@ -7003,7 +7117,7 @@
             {
               "id": "uU46ltIELqk",
               "title": "Generative Al at Scale",
-              "views": 13,
+              "views": 14,
               "date": "2026-03-27T23:03:40Z",
               "category": "development",
               "tags": [
@@ -7034,7 +7148,7 @@
             {
               "id": "Z90u9EVf4M4",
               "title": "Writing Modern Go in the Age of Al",
-              "views": 189,
+              "views": 190,
               "date": "2026-03-26T22:28:15Z",
               "category": "development",
               "tags": [
@@ -7066,7 +7180,7 @@
             {
               "id": "0HEqwk9UMOc",
               "title": "How to Kill the Code Review",
-              "views": 135,
+              "views": 136,
               "date": "2026-03-18T11:10:57Z",
               "category": "development",
               "tags": [
@@ -7280,7 +7394,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 646,
+              "views": 649,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -7606,7 +7720,7 @@
             {
               "id": "IF5sNQH-01c",
               "title": "NotebookLM's Intelligence Flow",
-              "views": 45,
+              "views": 46,
               "date": "2025-12-28T08:31:48Z",
               "category": "development",
               "tags": [
@@ -7639,7 +7753,7 @@
             {
               "id": "VHuQi_1t5qQ",
               "title": "Mastering Go Pointers",
-              "views": 32,
+              "views": 70,
               "date": "2026-04-17T18:20:09Z",
               "category": "development",
               "tags": [
@@ -7655,7 +7769,7 @@
             {
               "id": "MuDJGnGTn3k",
               "title": "Leetgo",
-              "views": 51,
+              "views": 52,
               "date": "2026-04-09T09:55:24Z",
               "category": "development",
               "tags": [
@@ -7714,7 +7828,7 @@
             {
               "id": "uU46ltIELqk",
               "title": "Generative Al at Scale",
-              "views": 13,
+              "views": 14,
               "date": "2026-03-27T23:03:40Z",
               "category": "development",
               "tags": [
@@ -7745,7 +7859,7 @@
             {
               "id": "Z90u9EVf4M4",
               "title": "Writing Modern Go in the Age of Al",
-              "views": 189,
+              "views": 190,
               "date": "2026-03-26T22:28:15Z",
               "category": "development",
               "tags": [
@@ -7903,7 +8017,7 @@
             {
               "id": "0HEqwk9UMOc",
               "title": "How to Kill the Code Review",
-              "views": 135,
+              "views": 136,
               "date": "2026-03-18T11:10:57Z",
               "category": "development",
               "tags": [
@@ -8238,7 +8352,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 724,
+              "views": 733,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -8334,7 +8448,7 @@
             {
               "id": "A96r5gqwUrI",
               "title": "Zig Algorithms: The Art of Zero-Cost Abstraction",
-              "views": 24,
+              "views": 25,
               "date": "2026-02-06T13:03:31Z",
               "category": "development",
               "tags": [
@@ -8392,7 +8506,7 @@
             {
               "id": "KCuGqld6nOc",
               "title": "The Go Concurrency Paradox",
-              "views": 48,
+              "views": 49,
               "date": "2026-01-10T00:17:59Z",
               "category": "development",
               "tags": [
@@ -8423,9 +8537,32 @@
           "name": "Architecture",
           "videos": [
             {
+              "id": "xkHQhOgapfY",
+              "title": "ZMD Architecture & Evolution",
+              "views": 18,
+              "date": "2026-04-21T10:14:38Z",
+              "category": "development",
+              "tags": [
+                "qmd",
+                "sqlite",
+                "zig",
+                "search"
+              ]
+            },
+            {
+              "id": "wKzz0jKiScM",
+              "title": "Emacs Architecture, Neovim Philosophy",
+              "views": 205,
+              "date": "2026-04-19T22:51:25Z",
+              "category": "development",
+              "tags": [
+                "emacs"
+              ]
+            },
+            {
               "id": "tyR8SdHpOeY",
               "title": "Book-Finder Architecture",
-              "views": 28,
+              "views": 30,
               "date": "2026-04-13T00:06:42Z",
               "category": "development",
               "tags": [
@@ -8457,7 +8594,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4116,
+              "views": 4127,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -8584,7 +8721,7 @@
             {
               "id": "IZX3_9rZeMU",
               "title": "The Hybrid TUI Architecture",
-              "views": 539,
+              "views": 542,
               "date": "2026-02-10T10:11:11Z",
               "category": "development",
               "tags": [
@@ -8622,7 +8759,7 @@
             {
               "id": "am9FvNiJ24M",
               "title": "The 2026 Change Data Capture Blueprint",
-              "views": 22,
+              "views": 24,
               "date": "2026-04-08T22:14:35Z",
               "category": "development",
               "tags": [
@@ -8742,7 +8879,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 90,
+              "views": 91,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -8803,7 +8940,7 @@
             {
               "id": "am9FvNiJ24M",
               "title": "The 2026 Change Data Capture Blueprint",
-              "views": 22,
+              "views": 24,
               "date": "2026-04-08T22:14:35Z",
               "category": "development",
               "tags": [
@@ -9156,9 +9293,99 @@
       ],
       "videos": [
         {
+          "id": "pgTCcVO4gfg",
+          "title": "The 10k LOC Sweet Spot",
+          "views": 7,
+          "date": "2026-04-21T22:18:41Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "llm",
+            "assisted",
+            "engineering"
+          ]
+        },
+        {
+          "id": "xkHQhOgapfY",
+          "title": "ZMD Architecture & Evolution",
+          "views": 18,
+          "date": "2026-04-21T10:14:38Z",
+          "category": "development",
+          "tags": [
+            "qmd",
+            "sqlite",
+            "zig",
+            "search"
+          ]
+        },
+        {
+          "id": "FM6zp63maS8",
+          "title": "hexcap: Elevating Terminal Packet Capture",
+          "views": 44,
+          "date": "2026-04-20T22:17:31Z",
+          "category": "development",
+          "tags": [
+            "pcap",
+            "rust",
+            "hexcap",
+            "agent"
+          ]
+        },
+        {
+          "id": "vtzEOYX_8k8",
+          "title": "Packet Capture Fundamentals",
+          "views": 26,
+          "date": "2026-04-20T12:07:27Z",
+          "category": "development",
+          "tags": [
+            "packet",
+            "capture",
+            "wireshark",
+            "libpcap"
+          ]
+        },
+        {
+          "id": "wKzz0jKiScM",
+          "title": "Emacs Architecture, Neovim Philosophy",
+          "views": 205,
+          "date": "2026-04-19T22:51:25Z",
+          "category": "development",
+          "tags": [
+            "emacs"
+          ]
+        },
+        {
+          "id": "feWjiYzQQ-k",
+          "title": "Pastel Market: Engineering a Unified Terminal Workspace",
+          "views": 34,
+          "date": "2026-04-19T17:24:16Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "yahoo",
+            "finviz",
+            "ureq",
+            "qc",
+            "whispers"
+          ]
+        },
+        {
+          "id": "wZC8NL32yfg",
+          "title": "Emulating the Server Push",
+          "views": 15,
+          "date": "2026-04-19T15:14:58Z",
+          "category": "development",
+          "tags": [
+            "long polling",
+            "server push",
+            "http",
+            "near-zero"
+          ]
+        },
+        {
           "id": "izLrX-02IQk",
           "title": "Rust 1.95.0",
-          "views": 8,
+          "views": 188,
           "date": "2026-04-18T20:42:55Z",
           "category": "development",
           "tags": [
@@ -9171,7 +9398,7 @@
         {
           "id": "q-6cUColzQQ",
           "title": "Flutter Web Explained",
-          "views": 11,
+          "views": 24,
           "date": "2026-04-18T12:37:49Z",
           "category": "development",
           "tags": [
@@ -9182,7 +9409,7 @@
         {
           "id": "VHuQi_1t5qQ",
           "title": "Mastering Go Pointers",
-          "views": 32,
+          "views": 70,
           "date": "2026-04-17T18:20:09Z",
           "category": "development",
           "tags": [
@@ -9198,7 +9425,7 @@
         {
           "id": "E8f87EV4k3A",
           "title": "A Compiler, Not a Renderer",
-          "views": 51,
+          "views": 138,
           "date": "2026-04-17T12:06:22Z",
           "category": "development",
           "tags": [
@@ -9241,7 +9468,7 @@
         {
           "id": "X65YHZUnFq0",
           "title": "OpenFeature: The Standard for Feature Flagging",
-          "views": 26,
+          "views": 46,
           "date": "2026-04-16T17:02:54Z",
           "category": "development",
           "tags": [
@@ -9271,7 +9498,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 479,
+          "views": 572,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -9333,7 +9560,7 @@
         {
           "id": "j8lMpSezavQ",
           "title": "The Local SOTA Engine for Your Digital Brain",
-          "views": 51,
+          "views": 53,
           "date": "2026-04-13T22:32:31Z",
           "category": "development",
           "tags": [
@@ -9364,7 +9591,7 @@
         {
           "id": "a1hIA6KQUFE",
           "title": "The Center Has a Bias",
-          "views": 37,
+          "views": 38,
           "date": "2026-04-13T12:41:52Z",
           "category": "development",
           "tags": [
@@ -9394,7 +9621,7 @@
         {
           "id": "tyR8SdHpOeY",
           "title": "Book-Finder Architecture",
-          "views": 28,
+          "views": 30,
           "date": "2026-04-13T00:06:42Z",
           "category": "development",
           "tags": [
@@ -9534,7 +9761,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 103,
+          "views": 106,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -9564,7 +9791,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2417,
+          "views": 2501,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -9598,7 +9825,7 @@
         {
           "id": "MuDJGnGTn3k",
           "title": "Leetgo",
-          "views": 51,
+          "views": 52,
           "date": "2026-04-09T09:55:24Z",
           "category": "development",
           "tags": [
@@ -9627,7 +9854,7 @@
         {
           "id": "am9FvNiJ24M",
           "title": "The 2026 Change Data Capture Blueprint",
-          "views": 22,
+          "views": 24,
           "date": "2026-04-08T22:14:35Z",
           "category": "development",
           "tags": [
@@ -9719,7 +9946,7 @@
         {
           "id": "dDtVuJXVYJk",
           "title": "The Rules and The Rebellion",
-          "views": 33,
+          "views": 34,
           "date": "2026-04-06T11:57:23Z",
           "category": "development",
           "tags": [
@@ -9751,7 +9978,7 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 261,
+          "views": 265,
           "date": "2026-04-05T21:24:52Z",
           "category": "development",
           "tags": [
@@ -9819,7 +10046,7 @@
         {
           "id": "BT08SXPvV6U",
           "title": "Building vibe-rust",
-          "views": 62,
+          "views": 61,
           "date": "2026-04-04T14:34:30Z",
           "category": "development",
           "tags": [
@@ -9883,7 +10110,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4116,
+          "views": 4127,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -9947,7 +10174,7 @@
         {
           "id": "JWeu5aqAkR0",
           "title": "The Transport Revolution: Deconstructing HTTP/3",
-          "views": 202,
+          "views": 205,
           "date": "2026-04-01T22:51:56Z",
           "category": "development",
           "detail": {
@@ -9974,7 +10201,7 @@
         {
           "id": "oUTf9j6fWJo",
           "title": "Reed: The Modern Terminal File Viewer",
-          "views": 141,
+          "views": 142,
           "date": "2026-03-30T22:20:06Z",
           "category": "development",
           "tags": [
@@ -10132,7 +10359,7 @@
         {
           "id": "uU46ltIELqk",
           "title": "Generative Al at Scale",
-          "views": 13,
+          "views": 14,
           "date": "2026-03-27T23:03:40Z",
           "category": "development",
           "tags": [
@@ -10163,7 +10390,7 @@
         {
           "id": "Z90u9EVf4M4",
           "title": "Writing Modern Go in the Age of Al",
-          "views": 189,
+          "views": 190,
           "date": "2026-03-26T22:28:15Z",
           "category": "development",
           "tags": [
@@ -10319,7 +10546,7 @@
         {
           "id": "vep9hSKc9I0",
           "title": "Dial9 Demo - Deep Observability in Async Rust",
-          "views": 104,
+          "views": 107,
           "date": "2026-03-22T10:40:21Z",
           "category": "development",
           "tags": [
@@ -10505,7 +10732,7 @@
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
-          "views": 116,
+          "views": 120,
           "date": "2026-03-19T00:18:34Z",
           "category": "development",
           "tags": [
@@ -10538,7 +10765,7 @@
         {
           "id": "0HEqwk9UMOc",
           "title": "How to Kill the Code Review",
-          "views": 135,
+          "views": 136,
           "date": "2026-03-18T11:10:57Z",
           "category": "development",
           "tags": [
@@ -10596,7 +10823,7 @@
         {
           "id": "FOkG5ScxU88",
           "title": "Building with Genkit Dart",
-          "views": 53,
+          "views": 54,
           "date": "2026-03-15T19:49:00Z",
           "category": "development",
           "tags": [
@@ -10686,7 +10913,7 @@
         {
           "id": "a2kADxV0kBM",
           "title": "zig-twitter: Anatomy of a Hybrid Terminal Client",
-          "views": 33,
+          "views": 34,
           "date": "2026-03-14T09:13:27Z",
           "category": "development",
           "tags": [
@@ -10720,7 +10947,7 @@
         {
           "id": "2iIi1H9V-Hg",
           "title": "Announcing Genkit Dart",
-          "views": 40,
+          "views": 42,
           "date": "2026-03-13T13:28:36Z",
           "category": "development",
           "tags": [
@@ -10865,7 +11092,7 @@
         {
           "id": "7yqkfHo8Mwk",
           "title": "Engineering the Overnight Researcher in Zig",
-          "views": 71,
+          "views": 74,
           "date": "2026-03-09T11:31:08Z",
           "category": "development",
           "tags": [
@@ -11025,7 +11252,7 @@
         {
           "id": "NztD5fYpXcg",
           "title": "The 10-Lens Research Analysis Framework",
-          "views": 31,
+          "views": 32,
           "date": "2026-03-07T19:42:12Z",
           "category": "development",
           "tags": [
@@ -11212,7 +11439,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 172,
+          "views": 180,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -11369,7 +11596,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 646,
+          "views": 649,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -11433,7 +11660,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 94,
+          "views": 99,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -11742,7 +11969,7 @@
         {
           "id": "QBUQvfZJpaM",
           "title": "Modern Cryptography Standards: A Guide to AEAD",
-          "views": 34,
+          "views": 36,
           "date": "2026-02-18T23:24:48Z",
           "category": "development",
           "tags": [
@@ -11832,7 +12059,7 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 90,
+          "views": 91,
           "date": "2026-02-14T22:47:13Z",
           "category": "development",
           "tags": [
@@ -11859,7 +12086,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 724,
+          "views": 733,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -11892,7 +12119,7 @@
         {
           "id": "cWozmWrqnxs",
           "title": "The Repository Pattern",
-          "views": 777,
+          "views": 778,
           "date": "2026-02-13T18:01:39Z",
           "category": "development",
           "tags": [
@@ -11923,7 +12150,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 318,
+          "views": 324,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -11987,7 +12214,7 @@
         {
           "id": "cEwAbu6FFRo",
           "title": "Compound Engineering",
-          "views": 123,
+          "views": 128,
           "date": "2026-02-11T13:08:01Z",
           "category": "development",
           "tags": [
@@ -12019,7 +12246,7 @@
         {
           "id": "IZX3_9rZeMU",
           "title": "The Hybrid TUI Architecture",
-          "views": 539,
+          "views": 542,
           "date": "2026-02-10T10:11:11Z",
           "category": "development",
           "tags": [
@@ -12141,7 +12368,7 @@
         {
           "id": "A96r5gqwUrI",
           "title": "Zig Algorithms: The Art of Zero-Cost Abstraction",
-          "views": 24,
+          "views": 25,
           "date": "2026-02-06T13:03:31Z",
           "category": "development",
           "tags": [
@@ -12201,7 +12428,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 130,
+          "views": 137,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -12267,7 +12494,7 @@
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 399,
+          "views": 403,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -12453,7 +12680,7 @@
         {
           "id": "o9yaniXkM-0",
           "title": "Practical Data Oriented Design in Zig",
-          "views": 55,
+          "views": 58,
           "date": "2026-01-30T01:28:52Z",
           "category": "development",
           "tags": [
@@ -12543,7 +12770,7 @@
         {
           "id": "Ul0ixBpd5iM",
           "title": "Velox: Bring Tauri to Swift",
-          "views": 44,
+          "views": 45,
           "date": "2026-01-27T23:10:59Z",
           "category": "development",
           "tags": [
@@ -13318,7 +13545,7 @@
         {
           "id": "KCuGqld6nOc",
           "title": "The Go Concurrency Paradox",
-          "views": 48,
+          "views": 49,
           "date": "2026-01-10T00:17:59Z",
           "category": "development",
           "tags": [
@@ -13607,7 +13834,7 @@
         {
           "id": "olsB3bJxA2A",
           "title": "Let's check about Zig",
-          "views": 341,
+          "views": 344,
           "date": "2025-12-28T09:28:00Z",
           "category": "development",
           "tags": [
@@ -13637,7 +13864,7 @@
         {
           "id": "IF5sNQH-01c",
           "title": "NotebookLM's Intelligence Flow",
-          "views": 45,
+          "views": 46,
           "date": "2025-12-28T08:31:48Z",
           "category": "development",
           "tags": [
@@ -13694,7 +13921,7 @@
         {
           "id": "TLqdeHlAo3A",
           "title": "From Bottlenecks to Breakthroughs:",
-          "views": 40,
+          "views": 42,
           "date": "2025-12-27T21:13:50Z",
           "category": "development",
           "tags": [
@@ -13729,8 +13956,8 @@
         "kubernetes",
         "development"
       ],
-      "videoCount": 10,
-      "totalViews": 327,
+      "videoCount": 11,
+      "totalViews": 355,
       "topTags": [
         {
           "tag": "llm",
@@ -13743,6 +13970,26 @@
         {
           "tag": "nist",
           "count": 2
+        },
+        {
+          "tag": "gdpr",
+          "count": 1
+        },
+        {
+          "tag": "privacy",
+          "count": 1
+        },
+        {
+          "tag": "mandate",
+          "count": 1
+        },
+        {
+          "tag": "dpia",
+          "count": 1
+        },
+        {
+          "tag": "compliance",
+          "count": 1
         },
         {
           "tag": "sentinel",
@@ -13790,26 +14037,6 @@
         },
         {
           "tag": "trivy",
-          "count": 1
-        },
-        {
-          "tag": "c2",
-          "count": 1
-        },
-        {
-          "tag": "pypi",
-          "count": 1
-        },
-        {
-          "tag": "ssrf",
-          "count": 1
-        },
-        {
-          "tag": "csf",
-          "count": 1
-        },
-        {
-          "tag": "2.0",
           "count": 1
         }
       ],
@@ -14068,6 +14295,20 @@
       ],
       "videos": [
         {
+          "id": "_5DCBqOCr8c",
+          "title": "Designing for Privacy",
+          "views": 26,
+          "date": "2026-04-19T04:59:35Z",
+          "category": "security",
+          "tags": [
+            "gdpr",
+            "privacy",
+            "mandate",
+            "dpia",
+            "compliance"
+          ]
+        },
+        {
           "id": "u8XCBK6lGw0",
           "title": "Custom Graphs in Microsoft Sentinel (Preview)",
           "views": 52,
@@ -14130,7 +14371,7 @@
         {
           "id": "HxB-cJIbEgE",
           "title": "2FA Orchestration in PingFederate",
-          "views": 9,
+          "views": 10,
           "date": "2026-03-29T14:37:03Z",
           "category": "security",
           "tags": [
@@ -14342,7 +14583,7 @@
         {
           "id": "JfGgWiiCTA0",
           "title": "Shannon: Autonomous Penetration Testing",
-          "views": 43,
+          "views": 44,
           "date": "2026-02-14T10:04:10Z",
           "category": "security",
           "tags": [
@@ -14660,6 +14901,13 @@
       ]
     },
     {
+      "tag": "orchestration",
+      "categories": [
+        "kubernetes",
+        "security"
+      ]
+    },
+    {
       "tag": "scylladb",
       "categories": [
         "kubernetes",
@@ -14717,13 +14965,6 @@
     },
     {
       "tag": "hybrid",
-      "categories": [
-        "kubernetes",
-        "development"
-      ]
-    },
-    {
-      "tag": "copilot",
       "categories": [
         "kubernetes",
         "development"
