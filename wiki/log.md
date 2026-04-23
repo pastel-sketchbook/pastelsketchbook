@@ -83,3 +83,11 @@ Synced 275 videos across 6 categories (korea=17, finance=22, kubernetes=58, deve
 ## [2026-04-23] ingest | Video Metadata Sync
 
 Synced 276 videos across 6 categories (korea=17, finance=22, kubernetes=59, development=159, security=11, programming=8).
+
+## [2026-04-23] ingest | Video Transcripts
+
+Exported 17 transcript files (all videos) to `wiki/raw/transcripts`.
+
+## [2026-04-22] ingest | Video Detail Pages (from raw transcripts)
+
+Generated 17 missing detail pages in `wiki/videos/details/` directly from raw transcripts (no Gemini API). All 276 videos now have detail pages. 2 videos remain without raw transcripts (`-tZGlR8Zztg`, `1PH7UB24xps`) due to unavailable YouTube captions.

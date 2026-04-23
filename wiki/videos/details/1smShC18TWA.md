@@ -1,0 +1,36 @@
+---
+type: video
+videoId: 1smShC18TWA
+category: finance
+tags: [curiosity]
+views: 46
+date: 2026-04-17T22:28:02Z
+summarized: 2026-04-22T22:00:00.000Z
+---
+
+# Decoding the Black Box of Global Finance
+
+> [finance](../finance.md) · 46 views · Apr 17, 2026
+> [Watch on YouTube](https://youtu.be/1smShC18TWA)
+
+## Summary
+
+This video unpacks the architecture of correspondent banking, explaining how nostro and vostro accounts enable cross-border payments and how nesting creates layers of indirect banking relationships. It examines the AML/KYC compliance risks that emerge from limited visibility in nested chains, and explores how real-time monitoring with ML/NLP transaction screening and ISO 20022 adoption are reshaping regulatory oversight.
+
+## Key Takeaways
+
+- Correspondent banking relies on nostro/vostro account pairs, but nesting introduces opacity that obscures the origin and destination of funds across jurisdictional boundaries.
+- AML/KYC compliance becomes exponentially harder as indirect banking relationships multiply, creating blind spots for transaction monitoring.
+- Machine learning and NLP-driven transaction screening enable real-time detection of suspicious patterns that rule-based systems miss.
+- ISO 20022 adoption provides richer, structured data in payment messages, improving transparency and enabling more effective regulatory compliance across the global financial network.
+
+## Topics Covered
+
+`correspondent banking` · `nostro/vostro accounts` · `nesting` · `AML/KYC compliance` · `transaction screening` · `ISO 20022` · `ML/NLP monitoring`
+
+## Tags
+
+[curiosity](../tags/curiosity.md)
+
+---
+*Auto-generated on Apr 22, 2026. Back to [finance](../finance.md) · [index](../index.md).*
