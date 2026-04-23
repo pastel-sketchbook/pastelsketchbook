@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-22T11:12:20.865Z",
-  "totalVideos": 275,
+  "generatedAt": "2026-04-23T02:43:16.260Z",
+  "totalVideos": 276,
   "categories": [
     {
       "name": "korea",
@@ -548,7 +548,7 @@
         "development"
       ],
       "videoCount": 22,
-      "totalViews": 432,
+      "totalViews": 434,
       "topTags": [
         {
           "tag": "curiosity",
@@ -622,7 +622,7 @@
         {
           "id": "1smShC18TWA",
           "title": "Decoding the Black Box of Global Finance",
-          "views": 45,
+          "views": 46,
           "date": "2026-04-17T22:28:02Z",
           "category": "finance",
           "tags": [
@@ -686,7 +686,7 @@
         {
           "id": "l9UUqD2Bz2E",
           "title": "The Mystery of the Nickel Coke",
-          "views": 8,
+          "views": 9,
           "date": "2026-04-10T15:32:57Z",
           "category": "finance",
           "tags": [
@@ -1161,8 +1161,8 @@
         "security",
         "development"
       ],
-      "videoCount": 58,
-      "totalViews": 1600,
+      "videoCount": 59,
+      "totalViews": 1612,
       "topTags": [
         {
           "tag": "aks",
@@ -1205,6 +1205,14 @@
           "count": 3
         },
         {
+          "tag": "containerization",
+          "count": 2
+        },
+        {
+          "tag": "ci/cd",
+          "count": 2
+        },
+        {
           "tag": "cloud",
           "count": 2
         },
@@ -1234,14 +1242,6 @@
         },
         {
           "tag": "identity",
-          "count": 2
-        },
-        {
-          "tag": "oauth2",
-          "count": 2
-        },
-        {
-          "tag": "duckdb",
           "count": 2
         }
       ],
@@ -1482,7 +1482,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 42,
+              "views": 43,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -2567,234 +2567,25 @@
           ]
         },
         {
-          "name": "Messaging",
-          "videos": [
-            {
-              "id": "KdLQEv3Tiiw",
-              "title": "Mastering Hybrid CDC Architectures",
-              "views": 18,
-              "date": "2026-04-08T02:45:20Z",
-              "category": "kubernetes",
-              "tags": [
-                "debezium",
-                "rabbitmq",
-                "kubenetes",
-                "cdc",
-                "hybrid"
-              ],
-              "detail": {
-                "summary": "This video covers hybrid Change Data Capture (CDC) architectures using Debezium to stream events from on-premises SQL Server through RabbitMQ into a cloud-based Kubernetes cluster. The architecture spans three zones: on-premises SQL Server source, a hybrid low-latency network bridge, and a cloud Kubernetes cluster with persistent storage. The presentation provides deep dives into Kubernetes stateful storage (PersistentVolumeClaims, PersistentVolumes) and how they decouple compute from data to maintain state across pod restarts.",
-                "takeaways": [
-                  "Debezium captures every insert, update, and delete event from SQL Server database logs and streams them through RabbitMQ for downstream consumption in a Kubernetes cluster.",
-                  "The architecture spans three zones: on-premises SQL Server (zone 1), hybrid low-latency network bridge (zone 2), and cloud Kubernetes cluster with persistent storage (zone 3).",
-                  "Kubernetes PersistentVolumeClaims (PVCs) decouple compute from data, allowing pods to restart without losing CDC engine state.",
-                  "The hybrid bridge between on-premises and cloud must be designed for low latency and secure transmission to maintain real-time data streaming fidelity."
-                ],
-                "topics": [
-                  "change data capture",
-                  "debezium",
-                  "rabbitmq",
-                  "kubernetes persistent storage",
-                  "hybrid cloud architecture",
-                  "sql server cdc",
-                  "stateful workloads"
-                ]
-              }
-            },
-            {
-              "id": "WRpjJV4SUKc",
-              "title": "Architecting Real-Time State",
-              "views": 75,
-              "date": "2026-04-05T12:14:36Z",
-              "category": "kubernetes",
-              "tags": [
-                "cdc",
-                "debezium",
-                "rabbitmq",
-                "outbox"
-              ],
-              "detail": {
-                "summary": "This video outlines a technical blueprint for architecting real-time state synchronization using Debezium for log-based Change Data Capture (CDC) and RabbitMQ as a message broker within Kubernetes. The session argues that log-based CDC is superior to query-based polling because it captures every state change, including hard deletes, with minimal impact on the source database.",
-                "takeaways": [
-                  "Log-based CDC via Debezium provides millisecond latency and high-fidelity data capture by reading transaction logs like the Postgres WAL or MySQL binlog, avoiding the performance penalties of traditional polling.",
-                  "The Debezium standalone topology enables streaming directly to RabbitMQ, bypassing the operational overhead of managing a Kafka cluster while utilizing RabbitMQ's topic exchanges for flexible wildcard-based routing.",
-                  "Stateful management in Kubernetes is critical; Debezium offsets must be stored in persistent volumes to ensure the connector can resume from the exact point in the transaction log after pod restarts.",
-                  "To prevent critical system failures, teams must monitor replication slot lag, as a stalled connector can cause transaction logs to accumulate and rapidly exhaust database disk space.",
-                  "Downstream consumers must be designed for idempotency to handle Debezium's 'at-least-once' delivery guarantee and prevent data inconsistency during retries."
-                ],
-                "topics": [
-                  "change data capture (cdc)",
-                  "debezium standalone",
-                  "rabbitmq topic exchange",
-                  "outbox pattern",
-                  "kubernetes persistent volumes",
-                  "replication slot lag",
-                  "write-ahead log",
-                  "distributed tracing"
-                ]
-              }
-            },
-            {
-              "id": "7iWL5-0C66s",
-              "title": "Bridging the Mainframe to the Cloud",
-              "views": 24,
-              "date": "2026-04-04T10:58:19Z",
-              "category": "kubernetes",
-              "tags": [
-                "mainframe",
-                "ibm mq",
-                "shovel",
-                "rabbitmq"
-              ],
-              "detail": {
-                "summary": "This session presents a zero-impact architecture for distributing enterprise data from legacy mainframes to cloud-native environments using IBM MQ and RabbitMQ as a decoupling bridge. The approach avoids exposing expensive mainframe MIPS directly to volatile cloud workloads, instead implementing a four-part pipeline for safe extraction and real-time data distribution.",
-                "takeaways": [
-                  "Direct mainframe-to-cloud connections create unpredictable costs and performance bottlenecks due to the mainframe's MIPS-based pricing model.",
-                  "IBM MQ serves as the mainframe-side message broker while RabbitMQ handles cloud-side distribution, creating a strategic decoupling layer.",
-                  "The four-part pipeline safely extracts legacy data without impacting mission-critical mainframe operations.",
-                  "This architecture enables real-time data flow between on-premises and cloud while preserving mainframe stability and data integrity."
-                ],
-                "topics": [
-                  "mainframe modernization",
-                  "ibm mq",
-                  "rabbitmq",
-                  "enterprise data distribution",
-                  "message broker pipeline",
-                  "cloud migration"
-                ]
-              }
-            },
-            {
-              "id": "tcrNdx1yH_E",
-              "title": "Continuous Flow",
-              "views": 15,
-              "date": "2026-03-22T14:47:34Z",
-              "category": "kubernetes",
-              "tags": [
-                "azure",
-                "event hubs",
-                "sql mi",
-                "ces"
-              ],
-              "detail": {
-                "summary": "This video presents an architecture for streaming change events from Azure SQL Managed Instance to Azure Event Hubs, replacing traditional polling-based ETL with real-time event-driven data propagation. It explains the event-driven decoupler pattern for breaking down monolithic applications, eliminating the latency, dual-write complexity, and high database overhead inherent in polling mechanisms. The architecture enables downstream consumers to react immediately to database changes through a scalable Event Hubs buffer.",
-                "takeaways": [
-                  "Traditional polling creates heavy ETL overhead, dual-write complexity, and inherent latency since data freshness is limited to the polling interval.",
-                  "Azure SQL Managed Instance's change event streaming pushes data changes in real time to Azure Event Hubs, eliminating the need for periodic database queries.",
-                  "The event-driven decoupler pattern breaks monolithic applications into loosely coupled components that communicate through change events rather than direct database access.",
-                  "Azure Event Hubs acts as a scalable buffer between the source database and downstream consumers, ensuring the entire ecosystem stays synchronized in near real-time."
-                ],
-                "topics": [
-                  "change data capture",
-                  "azure event hubs",
-                  "azure sql managed instance",
-                  "event-driven architecture",
-                  "real-time streaming",
-                  "etl replacement"
-                ]
-              }
-            },
-            {
-              "id": "0U-SUJCmKAU",
-              "title": "From Stateful to Secure",
-              "views": 46,
-              "date": "2026-01-16T06:38:21Z",
-              "category": "kubernetes",
-              "tags": [
-                "stateful",
-                "kubernetes",
-                "rabbitmq",
-                "mtls"
-              ],
-              "detail": {
-                "summary": "This video presents a four-stage blueprint for deploying, exposing, and securing RabbitMQ on Azure Kubernetes Service (AKS), progressing from foundational data persistence through reliable high-availability deployment, secure service exposure, and finally zero trust fortification. It serves as a comprehensive production journey for managing stateful workloads on Kubernetes.",
-                "takeaways": [
-                  "Stage 1 (Foundation) focuses on data persistence and storage configuration to ensure message durability and recoverability.",
-                  "Stage 2 (Architecture) designs the RabbitMQ cluster for high availability and resilience to handle real-world production demands.",
-                  "Stage 3 (Accessibility) implements secure exposure strategies that balance external connectivity with strict access control.",
-                  "Stage 4 (Fortification) applies zero trust security principles to verify every interaction within the cluster."
-                ],
-                "topics": [
-                  "rabbitmq on kubernetes",
-                  "aks",
-                  "stateful workloads",
-                  "zero trust",
-                  "persistent storage",
-                  "high availability"
-                ]
-              }
-            },
-            {
-              "id": "VxWyvAO3qb8",
-              "title": "The Two-System Pattern",
-              "views": 14,
-              "date": "2026-01-15T12:59:07Z",
-              "category": "kubernetes",
-              "tags": [
-                "nats",
-                "azure event hubs",
-                "aks",
-                "bridge"
-              ],
-              "detail": {
-                "summary": "This video presents a reference architecture for integrating NATS as an internal cluster messaging system on Azure Kubernetes Service with Azure Event Hubs as an enterprise gateway. The \"two-system pattern\" separates east-west traffic (low-latency intra-cluster communication via NATS) from north-south traffic (durable, large-scale event streaming via Event Hubs). A bridge layer connects the two, achieving both local speed and global scalability.",
-                "takeaways": [
-                  "NATS handles east-west intra-cluster messaging with high performance and low latency within an AKS cluster.",
-                  "Azure Event Hubs serves as the enterprise gateway for north-south traffic, providing durable long-term event streaming.",
-                  "The bridge layer between NATS and Event Hubs enables seamless data flow between internal microservices and external enterprise systems.",
-                  "This pattern separates concerns by traffic direction, allowing each messaging system to optimize for its specific workload."
-                ],
-                "topics": [
-                  "nats messaging",
-                  "azure event hubs",
-                  "aks architecture",
-                  "east-west traffic",
-                  "north-south traffic",
-                  "event streaming"
-                ]
-              }
-            },
-            {
-              "id": "N4nRAfBZ3BE",
-              "title": "Choosing Your Messaging Fabric on AKS",
-              "views": 5,
-              "date": "2026-01-10T21:55:01Z",
-              "category": "kubernetes",
-              "tags": [
-                "messaging",
-                "aks",
-                "nats",
-                "azure event hubs",
-                "rabbitmq"
-              ],
-              "detail": {
-                "summary": "This architectural decision guide compares self-managed message brokers (RabbitMQ, NATS) versus managed PaaS offerings (Azure Service Bus, Azure Event Hubs) for asynchronous communication on Azure Kubernetes Service. The core trade-off is operational control versus managed simplicity: self-managed brokers provide full configuration and topology control but require deep DevOps expertise for monitoring, patching, and disaster recovery, while managed services shift that operational burden to Azure at the cost of less granular control.",
-                "takeaways": [
-                  "Self-managed brokers like RabbitMQ and NATS on AKS provide full control over configuration, tuning, and topology but require specialized DevOps staffing for day-2 operations including patching and disaster recovery.",
-                  "Managed services like Azure Service Bus and Event Hubs eliminate operational overhead but reduce granular control over broker internals and introduce vendor lock-in.",
-                  "The decision is fundamentally about operational ownership: who is responsible for monitoring, scaling, and recovering the messaging layer when things fail.",
-                  "Loss of internal DevOps knowledge for self-managed brokers creates organizational risk that managed services inherently mitigate."
-                ],
-                "topics": [
-                  "azure kubernetes service",
-                  "rabbitmq",
-                  "nats",
-                  "azure service bus",
-                  "azure event hubs",
-                  "messaging architecture",
-                  "event-driven design"
-                ]
-              }
-            }
-          ]
-        },
-        {
           "name": "AI & ML",
           "videos": [
             {
+              "id": "eZNBXDUc8OQ",
+              "title": "Architecting Modern Deployments",
+              "views": 2,
+              "date": "2026-04-23T00:06:07Z",
+              "category": "kubernetes",
+              "tags": [
+                "dockerization",
+                "containerization",
+                "ci/cd",
+                "automation"
+              ]
+            },
+            {
               "id": "p9LNSeAt5Zw",
               "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-              "views": 2,
+              "views": 9,
               "date": "2026-04-22T10:25:18Z",
               "category": "kubernetes",
               "tags": [
@@ -2838,7 +2629,7 @@
             {
               "id": "7iWL5-0C66s",
               "title": "Bridging the Mainframe to the Cloud",
-              "views": 24,
+              "views": 25,
               "date": "2026-04-04T10:58:19Z",
               "category": "kubernetes",
               "tags": [
@@ -2961,178 +2752,21 @@
           ]
         },
         {
-          "name": "Go",
-          "videos": [
-            {
-              "id": "nomIVRSBEG4",
-              "title": "Consuming CDC with ScyllaDB",
-              "views": 57,
-              "date": "2026-04-18T04:36:03Z",
-              "category": "kubernetes",
-              "tags": [
-                "scylladb",
-                "cdc",
-                "rust",
-                "java",
-                "go"
-              ]
-            },
-            {
-              "id": "BiYKKVsJROk",
-              "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
-              "views": 21,
-              "date": "2026-04-01T10:26:37Z",
-              "category": "kubernetes",
-              "tags": [
-                "aks",
-                "istio",
-                "argocd",
-                "gitops",
-                "wif"
-              ],
-              "detail": {
-                "summary": "This presentation details a four-layer microservices architecture on AKS integrating Istio service mesh, Argo CD GitOps, and Azure Workload Identity Federation for zero-trust deployments. The layers stack from AKS platform and workload identity at the base, through Istio mTLS and traffic management, Argo CD automated deployment synced to git repositories, up to the application layer.",
-                "takeaways": [
-                  "The four-layer architecture stacks AKS platform, Istio service mesh, Argo CD GitOps, and microservices application for comprehensive security and automation.",
-                  "Azure Workload Identity Federation eliminates long-lived credentials by providing verified managed identity for every service.",
-                  "Istio handles mTLS for service-to-service encryption and traffic management without application code changes.",
-                  "Argo CD ensures the cluster state remains continuously synchronized with git repositories through automated GitOps deployment."
-                ],
-                "topics": [
-                  "aks",
-                  "istio service mesh",
-                  "argo cd",
-                  "gitops",
-                  "workload identity federation",
-                  "zero trust",
-                  "mutual tls"
-                ]
-              }
-            },
-            {
-              "id": "ORjARjbukhY",
-              "title": "The Golden Path",
-              "views": 25,
-              "date": "2026-02-21T10:33:08Z",
-              "category": "kubernetes",
-              "tags": [
-                "golden",
-                "deployments",
-                "tandardization"
-              ],
-              "detail": {
-                "summary": "This video presents a comprehensive architecture v2.0 blueprint for massive Kubernetes deployments organized in three concentric layers: core services/data, service mesh/orchestration, and security boundary/compliance. It advocates moving from binary public-vs-internal security categorization to a three-dimensional model that considers runtime stack, workload archetype, and blast radius. The golden path framework provides standardized platform engineering guidelines for scalable, secure infrastructure.",
-                "takeaways": [
-                  "The architecture v2.0 uses three concentric layers: core services/data, service mesh/orchestration, and security/compliance boundary.",
-                  "Binary public-vs-internal security models are inadequate; modern systems need classification by runtime stack, workload archetype, and blast radius.",
-                  "The golden path serves as a construction manual for platform engineering, ensuring consistency across large-scale Kubernetes deployments.",
-                  "Multi-dimensional workload categorization (edge, transactional, analytical, streaming, batch) replaces simplistic network zone thinking."
-                ],
-                "topics": [
-                  "platform engineering",
-                  "kubernetes architecture",
-                  "security boundaries",
-                  "service mesh",
-                  "workload archetypes",
-                  "blast radius"
-                ]
-              }
-            },
-            {
-              "id": "eI2DXGISpbk",
-              "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 44,
-              "date": "2026-02-13T00:09:38Z",
-              "category": "kubernetes",
-              "tags": [
-                "go",
-                "badgerdb",
-                "key-value store"
-              ],
-              "detail": {
-                "summary": "This video introduces BadgerDB, a pure Go embeddable key-value store engineered for SSDs and built as a high-performance alternative to RocksDB. Developed by the Dgraph team to eliminate CGo bottlenecks, BadgerDB implements the WiscKey thesis of separating keys from values to reduce write amplification inherent in traditional LSM-tree stores like LevelDB and RocksDB. Now at stable v4.x, it powers petabyte-scale datasets in production environments.",
-                "takeaways": [
-                  "BadgerDB eliminates the CGo friction of integrating C++ stores like RocksDB, which causes build complexity, difficult memory profiling, and scheduler conflicts between Go and C++ threads.",
-                  "The WiscKey thesis separates keys from values during LSM-tree compaction, dramatically reducing write amplification compared to traditional stores that rewrite both together.",
-                  "Pure Go architecture provides native access to Go's profiling tools (pprof), efficient goroutine management, and fast compilation without cross-language integration overhead.",
-                  "BadgerDB v4.x already powers petabyte-scale datasets in demanding production environments, proving its reliability at scale."
-                ],
-                "topics": [
-                  "badgerdb",
-                  "lsm-tree",
-                  "wisckey thesis",
-                  "write amplification",
-                  "pure go storage",
-                  "ssd optimization",
-                  "key-value store"
-                ]
-              }
-            },
-            {
-              "id": "Q4qm1hvVR2A",
-              "title": "Dragonfly on AKS",
-              "views": 21,
-              "date": "2026-01-31T16:23:17Z",
-              "category": "kubernetes",
-              "tags": [
-                "kubernetes",
-                "dragonfly",
-                "performance",
-                "aeraki",
-                "aks"
-              ],
-              "detail": {
-                "summary": "This video covers deploying Dragonfly as a high-performance in-memory data store on Azure Kubernetes Service (AKS) integrated with the Istio service mesh. It highlights the \"multi-core gap\" where legacy single-threaded systems like Redis waste 31 of 32 available CPU cores, while Dragonfly's shared-nothing architecture utilizes all cores for maximum throughput. The session bridges AKS, Istio, and Dragonfly to create a scalable, high-efficiency infrastructure.",
-                "takeaways": [
-                  "Redis's single-threaded event loop creates a multi-core gap, leaving 31 of 32 cores idle on modern Azure E5v5 instances.",
-                  "Dragonfly uses a shared-nothing architecture where each thread operates independently, enabling full multi-core utilization.",
-                  "The deployment integrates Dragonfly with Istio service mesh on AKS for mTLS, traffic management, and observability.",
-                  "Moving from shared-memory structures to per-thread isolated data eliminates contention and maximizes parallel throughput."
-                ],
-                "topics": [
-                  "dragonfly db",
-                  "redis alternative",
-                  "aks deployment",
-                  "shared-nothing architecture",
-                  "multi-core utilization",
-                  "istio integration"
-                ]
-              }
-            },
-            {
-              "id": "R2zktRqz81U",
-              "title": "A Blueprint for Secure Azure Authentication in Go",
-              "views": 18,
-              "date": "2026-01-13T00:32:55Z",
-              "category": "kubernetes",
-              "tags": [
-                "workload identity",
-                "azure",
-                "sdk"
-              ],
-              "detail": {
-                "summary": "This video provides a comprehensive guide to the Azure Identity SDK for Go, covering the full spectrum of credential types from environment-based authentication to service principal credentials, developer tool credentials, and cloud-native managed identities. It walks through selecting the appropriate credential type for development vs. production environments and implementing robust authentication between Go applications and the Azure ecosystem.",
-                "takeaways": [
-                  "The Azure Identity SDK for Go offers environment credentials, service principal credentials (client secret, certificate, assertion), developer tool credentials (Azure CLI, PowerShell, VS Code), and managed identities.",
-                  "Service principal credentials using client secret, certificate, or assertion enable secure app-to-Azure authentication for service-to-service communication.",
-                  "Developer tool credentials allow using existing Azure CLI or PowerShell login sessions during local development without separate credential management.",
-                  "Managed identities in cloud-native environments eliminate the need for stored secrets by leveraging Azure's built-in identity infrastructure."
-                ],
-                "topics": [
-                  "azure identity sdk",
-                  "go authentication",
-                  "service principals",
-                  "managed identity",
-                  "azure cli credential",
-                  "credential types"
-                ]
-              }
-            }
-          ]
-        },
-        {
           "name": "CI/CD & DevOps",
           "videos": [
+            {
+              "id": "eZNBXDUc8OQ",
+              "title": "Architecting Modern Deployments",
+              "views": 2,
+              "date": "2026-04-23T00:06:07Z",
+              "category": "kubernetes",
+              "tags": [
+                "dockerization",
+                "containerization",
+                "ci/cd",
+                "automation"
+              ]
+            },
             {
               "id": "mGMaqTvWrCc",
               "title": "Building an End-to-End MLOps Pipeline",
@@ -3316,12 +2950,404 @@
           ]
         },
         {
+          "name": "Messaging",
+          "videos": [
+            {
+              "id": "KdLQEv3Tiiw",
+              "title": "Mastering Hybrid CDC Architectures",
+              "views": 18,
+              "date": "2026-04-08T02:45:20Z",
+              "category": "kubernetes",
+              "tags": [
+                "debezium",
+                "rabbitmq",
+                "kubenetes",
+                "cdc",
+                "hybrid"
+              ],
+              "detail": {
+                "summary": "This video covers hybrid Change Data Capture (CDC) architectures using Debezium to stream events from on-premises SQL Server through RabbitMQ into a cloud-based Kubernetes cluster. The architecture spans three zones: on-premises SQL Server source, a hybrid low-latency network bridge, and a cloud Kubernetes cluster with persistent storage. The presentation provides deep dives into Kubernetes stateful storage (PersistentVolumeClaims, PersistentVolumes) and how they decouple compute from data to maintain state across pod restarts.",
+                "takeaways": [
+                  "Debezium captures every insert, update, and delete event from SQL Server database logs and streams them through RabbitMQ for downstream consumption in a Kubernetes cluster.",
+                  "The architecture spans three zones: on-premises SQL Server (zone 1), hybrid low-latency network bridge (zone 2), and cloud Kubernetes cluster with persistent storage (zone 3).",
+                  "Kubernetes PersistentVolumeClaims (PVCs) decouple compute from data, allowing pods to restart without losing CDC engine state.",
+                  "The hybrid bridge between on-premises and cloud must be designed for low latency and secure transmission to maintain real-time data streaming fidelity."
+                ],
+                "topics": [
+                  "change data capture",
+                  "debezium",
+                  "rabbitmq",
+                  "kubernetes persistent storage",
+                  "hybrid cloud architecture",
+                  "sql server cdc",
+                  "stateful workloads"
+                ]
+              }
+            },
+            {
+              "id": "WRpjJV4SUKc",
+              "title": "Architecting Real-Time State",
+              "views": 75,
+              "date": "2026-04-05T12:14:36Z",
+              "category": "kubernetes",
+              "tags": [
+                "cdc",
+                "debezium",
+                "rabbitmq",
+                "outbox"
+              ],
+              "detail": {
+                "summary": "This video outlines a technical blueprint for architecting real-time state synchronization using Debezium for log-based Change Data Capture (CDC) and RabbitMQ as a message broker within Kubernetes. The session argues that log-based CDC is superior to query-based polling because it captures every state change, including hard deletes, with minimal impact on the source database.",
+                "takeaways": [
+                  "Log-based CDC via Debezium provides millisecond latency and high-fidelity data capture by reading transaction logs like the Postgres WAL or MySQL binlog, avoiding the performance penalties of traditional polling.",
+                  "The Debezium standalone topology enables streaming directly to RabbitMQ, bypassing the operational overhead of managing a Kafka cluster while utilizing RabbitMQ's topic exchanges for flexible wildcard-based routing.",
+                  "Stateful management in Kubernetes is critical; Debezium offsets must be stored in persistent volumes to ensure the connector can resume from the exact point in the transaction log after pod restarts.",
+                  "To prevent critical system failures, teams must monitor replication slot lag, as a stalled connector can cause transaction logs to accumulate and rapidly exhaust database disk space.",
+                  "Downstream consumers must be designed for idempotency to handle Debezium's 'at-least-once' delivery guarantee and prevent data inconsistency during retries."
+                ],
+                "topics": [
+                  "change data capture (cdc)",
+                  "debezium standalone",
+                  "rabbitmq topic exchange",
+                  "outbox pattern",
+                  "kubernetes persistent volumes",
+                  "replication slot lag",
+                  "write-ahead log",
+                  "distributed tracing"
+                ]
+              }
+            },
+            {
+              "id": "7iWL5-0C66s",
+              "title": "Bridging the Mainframe to the Cloud",
+              "views": 25,
+              "date": "2026-04-04T10:58:19Z",
+              "category": "kubernetes",
+              "tags": [
+                "mainframe",
+                "ibm mq",
+                "shovel",
+                "rabbitmq"
+              ],
+              "detail": {
+                "summary": "This session presents a zero-impact architecture for distributing enterprise data from legacy mainframes to cloud-native environments using IBM MQ and RabbitMQ as a decoupling bridge. The approach avoids exposing expensive mainframe MIPS directly to volatile cloud workloads, instead implementing a four-part pipeline for safe extraction and real-time data distribution.",
+                "takeaways": [
+                  "Direct mainframe-to-cloud connections create unpredictable costs and performance bottlenecks due to the mainframe's MIPS-based pricing model.",
+                  "IBM MQ serves as the mainframe-side message broker while RabbitMQ handles cloud-side distribution, creating a strategic decoupling layer.",
+                  "The four-part pipeline safely extracts legacy data without impacting mission-critical mainframe operations.",
+                  "This architecture enables real-time data flow between on-premises and cloud while preserving mainframe stability and data integrity."
+                ],
+                "topics": [
+                  "mainframe modernization",
+                  "ibm mq",
+                  "rabbitmq",
+                  "enterprise data distribution",
+                  "message broker pipeline",
+                  "cloud migration"
+                ]
+              }
+            },
+            {
+              "id": "tcrNdx1yH_E",
+              "title": "Continuous Flow",
+              "views": 15,
+              "date": "2026-03-22T14:47:34Z",
+              "category": "kubernetes",
+              "tags": [
+                "azure",
+                "event hubs",
+                "sql mi",
+                "ces"
+              ],
+              "detail": {
+                "summary": "This video presents an architecture for streaming change events from Azure SQL Managed Instance to Azure Event Hubs, replacing traditional polling-based ETL with real-time event-driven data propagation. It explains the event-driven decoupler pattern for breaking down monolithic applications, eliminating the latency, dual-write complexity, and high database overhead inherent in polling mechanisms. The architecture enables downstream consumers to react immediately to database changes through a scalable Event Hubs buffer.",
+                "takeaways": [
+                  "Traditional polling creates heavy ETL overhead, dual-write complexity, and inherent latency since data freshness is limited to the polling interval.",
+                  "Azure SQL Managed Instance's change event streaming pushes data changes in real time to Azure Event Hubs, eliminating the need for periodic database queries.",
+                  "The event-driven decoupler pattern breaks monolithic applications into loosely coupled components that communicate through change events rather than direct database access.",
+                  "Azure Event Hubs acts as a scalable buffer between the source database and downstream consumers, ensuring the entire ecosystem stays synchronized in near real-time."
+                ],
+                "topics": [
+                  "change data capture",
+                  "azure event hubs",
+                  "azure sql managed instance",
+                  "event-driven architecture",
+                  "real-time streaming",
+                  "etl replacement"
+                ]
+              }
+            },
+            {
+              "id": "0U-SUJCmKAU",
+              "title": "From Stateful to Secure",
+              "views": 46,
+              "date": "2026-01-16T06:38:21Z",
+              "category": "kubernetes",
+              "tags": [
+                "stateful",
+                "kubernetes",
+                "rabbitmq",
+                "mtls"
+              ],
+              "detail": {
+                "summary": "This video presents a four-stage blueprint for deploying, exposing, and securing RabbitMQ on Azure Kubernetes Service (AKS), progressing from foundational data persistence through reliable high-availability deployment, secure service exposure, and finally zero trust fortification. It serves as a comprehensive production journey for managing stateful workloads on Kubernetes.",
+                "takeaways": [
+                  "Stage 1 (Foundation) focuses on data persistence and storage configuration to ensure message durability and recoverability.",
+                  "Stage 2 (Architecture) designs the RabbitMQ cluster for high availability and resilience to handle real-world production demands.",
+                  "Stage 3 (Accessibility) implements secure exposure strategies that balance external connectivity with strict access control.",
+                  "Stage 4 (Fortification) applies zero trust security principles to verify every interaction within the cluster."
+                ],
+                "topics": [
+                  "rabbitmq on kubernetes",
+                  "aks",
+                  "stateful workloads",
+                  "zero trust",
+                  "persistent storage",
+                  "high availability"
+                ]
+              }
+            },
+            {
+              "id": "VxWyvAO3qb8",
+              "title": "The Two-System Pattern",
+              "views": 14,
+              "date": "2026-01-15T12:59:07Z",
+              "category": "kubernetes",
+              "tags": [
+                "nats",
+                "azure event hubs",
+                "aks",
+                "bridge"
+              ],
+              "detail": {
+                "summary": "This video presents a reference architecture for integrating NATS as an internal cluster messaging system on Azure Kubernetes Service with Azure Event Hubs as an enterprise gateway. The \"two-system pattern\" separates east-west traffic (low-latency intra-cluster communication via NATS) from north-south traffic (durable, large-scale event streaming via Event Hubs). A bridge layer connects the two, achieving both local speed and global scalability.",
+                "takeaways": [
+                  "NATS handles east-west intra-cluster messaging with high performance and low latency within an AKS cluster.",
+                  "Azure Event Hubs serves as the enterprise gateway for north-south traffic, providing durable long-term event streaming.",
+                  "The bridge layer between NATS and Event Hubs enables seamless data flow between internal microservices and external enterprise systems.",
+                  "This pattern separates concerns by traffic direction, allowing each messaging system to optimize for its specific workload."
+                ],
+                "topics": [
+                  "nats messaging",
+                  "azure event hubs",
+                  "aks architecture",
+                  "east-west traffic",
+                  "north-south traffic",
+                  "event streaming"
+                ]
+              }
+            },
+            {
+              "id": "N4nRAfBZ3BE",
+              "title": "Choosing Your Messaging Fabric on AKS",
+              "views": 5,
+              "date": "2026-01-10T21:55:01Z",
+              "category": "kubernetes",
+              "tags": [
+                "messaging",
+                "aks",
+                "nats",
+                "azure event hubs",
+                "rabbitmq"
+              ],
+              "detail": {
+                "summary": "This architectural decision guide compares self-managed message brokers (RabbitMQ, NATS) versus managed PaaS offerings (Azure Service Bus, Azure Event Hubs) for asynchronous communication on Azure Kubernetes Service. The core trade-off is operational control versus managed simplicity: self-managed brokers provide full configuration and topology control but require deep DevOps expertise for monitoring, patching, and disaster recovery, while managed services shift that operational burden to Azure at the cost of less granular control.",
+                "takeaways": [
+                  "Self-managed brokers like RabbitMQ and NATS on AKS provide full control over configuration, tuning, and topology but require specialized DevOps staffing for day-2 operations including patching and disaster recovery.",
+                  "Managed services like Azure Service Bus and Event Hubs eliminate operational overhead but reduce granular control over broker internals and introduce vendor lock-in.",
+                  "The decision is fundamentally about operational ownership: who is responsible for monitoring, scaling, and recovering the messaging layer when things fail.",
+                  "Loss of internal DevOps knowledge for self-managed brokers creates organizational risk that managed services inherently mitigate."
+                ],
+                "topics": [
+                  "azure kubernetes service",
+                  "rabbitmq",
+                  "nats",
+                  "azure service bus",
+                  "azure event hubs",
+                  "messaging architecture",
+                  "event-driven design"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Go",
+          "videos": [
+            {
+              "id": "nomIVRSBEG4",
+              "title": "Consuming CDC with ScyllaDB",
+              "views": 57,
+              "date": "2026-04-18T04:36:03Z",
+              "category": "kubernetes",
+              "tags": [
+                "scylladb",
+                "cdc",
+                "rust",
+                "java",
+                "go"
+              ]
+            },
+            {
+              "id": "BiYKKVsJROk",
+              "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
+              "views": 21,
+              "date": "2026-04-01T10:26:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "istio",
+                "argocd",
+                "gitops",
+                "wif"
+              ],
+              "detail": {
+                "summary": "This presentation details a four-layer microservices architecture on AKS integrating Istio service mesh, Argo CD GitOps, and Azure Workload Identity Federation for zero-trust deployments. The layers stack from AKS platform and workload identity at the base, through Istio mTLS and traffic management, Argo CD automated deployment synced to git repositories, up to the application layer.",
+                "takeaways": [
+                  "The four-layer architecture stacks AKS platform, Istio service mesh, Argo CD GitOps, and microservices application for comprehensive security and automation.",
+                  "Azure Workload Identity Federation eliminates long-lived credentials by providing verified managed identity for every service.",
+                  "Istio handles mTLS for service-to-service encryption and traffic management without application code changes.",
+                  "Argo CD ensures the cluster state remains continuously synchronized with git repositories through automated GitOps deployment."
+                ],
+                "topics": [
+                  "aks",
+                  "istio service mesh",
+                  "argo cd",
+                  "gitops",
+                  "workload identity federation",
+                  "zero trust",
+                  "mutual tls"
+                ]
+              }
+            },
+            {
+              "id": "ORjARjbukhY",
+              "title": "The Golden Path",
+              "views": 25,
+              "date": "2026-02-21T10:33:08Z",
+              "category": "kubernetes",
+              "tags": [
+                "golden",
+                "deployments",
+                "tandardization"
+              ],
+              "detail": {
+                "summary": "This video presents a comprehensive architecture v2.0 blueprint for massive Kubernetes deployments organized in three concentric layers: core services/data, service mesh/orchestration, and security boundary/compliance. It advocates moving from binary public-vs-internal security categorization to a three-dimensional model that considers runtime stack, workload archetype, and blast radius. The golden path framework provides standardized platform engineering guidelines for scalable, secure infrastructure.",
+                "takeaways": [
+                  "The architecture v2.0 uses three concentric layers: core services/data, service mesh/orchestration, and security/compliance boundary.",
+                  "Binary public-vs-internal security models are inadequate; modern systems need classification by runtime stack, workload archetype, and blast radius.",
+                  "The golden path serves as a construction manual for platform engineering, ensuring consistency across large-scale Kubernetes deployments.",
+                  "Multi-dimensional workload categorization (edge, transactional, analytical, streaming, batch) replaces simplistic network zone thinking."
+                ],
+                "topics": [
+                  "platform engineering",
+                  "kubernetes architecture",
+                  "security boundaries",
+                  "service mesh",
+                  "workload archetypes",
+                  "blast radius"
+                ]
+              }
+            },
+            {
+              "id": "eI2DXGISpbk",
+              "title": "BadgerDB: The Go-Native Key-Value Store",
+              "views": 44,
+              "date": "2026-02-13T00:09:38Z",
+              "category": "kubernetes",
+              "tags": [
+                "go",
+                "badgerdb",
+                "key-value store"
+              ],
+              "detail": {
+                "summary": "This video introduces BadgerDB, a pure Go embeddable key-value store engineered for SSDs and built as a high-performance alternative to RocksDB. Developed by the Dgraph team to eliminate CGo bottlenecks, BadgerDB implements the WiscKey thesis of separating keys from values to reduce write amplification inherent in traditional LSM-tree stores like LevelDB and RocksDB. Now at stable v4.x, it powers petabyte-scale datasets in production environments.",
+                "takeaways": [
+                  "BadgerDB eliminates the CGo friction of integrating C++ stores like RocksDB, which causes build complexity, difficult memory profiling, and scheduler conflicts between Go and C++ threads.",
+                  "The WiscKey thesis separates keys from values during LSM-tree compaction, dramatically reducing write amplification compared to traditional stores that rewrite both together.",
+                  "Pure Go architecture provides native access to Go's profiling tools (pprof), efficient goroutine management, and fast compilation without cross-language integration overhead.",
+                  "BadgerDB v4.x already powers petabyte-scale datasets in demanding production environments, proving its reliability at scale."
+                ],
+                "topics": [
+                  "badgerdb",
+                  "lsm-tree",
+                  "wisckey thesis",
+                  "write amplification",
+                  "pure go storage",
+                  "ssd optimization",
+                  "key-value store"
+                ]
+              }
+            },
+            {
+              "id": "Q4qm1hvVR2A",
+              "title": "Dragonfly on AKS",
+              "views": 21,
+              "date": "2026-01-31T16:23:17Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "dragonfly",
+                "performance",
+                "aeraki",
+                "aks"
+              ],
+              "detail": {
+                "summary": "This video covers deploying Dragonfly as a high-performance in-memory data store on Azure Kubernetes Service (AKS) integrated with the Istio service mesh. It highlights the \"multi-core gap\" where legacy single-threaded systems like Redis waste 31 of 32 available CPU cores, while Dragonfly's shared-nothing architecture utilizes all cores for maximum throughput. The session bridges AKS, Istio, and Dragonfly to create a scalable, high-efficiency infrastructure.",
+                "takeaways": [
+                  "Redis's single-threaded event loop creates a multi-core gap, leaving 31 of 32 cores idle on modern Azure E5v5 instances.",
+                  "Dragonfly uses a shared-nothing architecture where each thread operates independently, enabling full multi-core utilization.",
+                  "The deployment integrates Dragonfly with Istio service mesh on AKS for mTLS, traffic management, and observability.",
+                  "Moving from shared-memory structures to per-thread isolated data eliminates contention and maximizes parallel throughput."
+                ],
+                "topics": [
+                  "dragonfly db",
+                  "redis alternative",
+                  "aks deployment",
+                  "shared-nothing architecture",
+                  "multi-core utilization",
+                  "istio integration"
+                ]
+              }
+            },
+            {
+              "id": "R2zktRqz81U",
+              "title": "A Blueprint for Secure Azure Authentication in Go",
+              "views": 18,
+              "date": "2026-01-13T00:32:55Z",
+              "category": "kubernetes",
+              "tags": [
+                "workload identity",
+                "azure",
+                "sdk"
+              ],
+              "detail": {
+                "summary": "This video provides a comprehensive guide to the Azure Identity SDK for Go, covering the full spectrum of credential types from environment-based authentication to service principal credentials, developer tool credentials, and cloud-native managed identities. It walks through selecting the appropriate credential type for development vs. production environments and implementing robust authentication between Go applications and the Azure ecosystem.",
+                "takeaways": [
+                  "The Azure Identity SDK for Go offers environment credentials, service principal credentials (client secret, certificate, assertion), developer tool credentials (Azure CLI, PowerShell, VS Code), and managed identities.",
+                  "Service principal credentials using client secret, certificate, or assertion enable secure app-to-Azure authentication for service-to-service communication.",
+                  "Developer tool credentials allow using existing Azure CLI or PowerShell login sessions during local development without separate credential management.",
+                  "Managed identities in cloud-native environments eliminate the need for stored secrets by leveraging Azure's built-in identity infrastructure."
+                ],
+                "topics": [
+                  "azure identity sdk",
+                  "go authentication",
+                  "service principals",
+                  "managed identity",
+                  "azure cli credential",
+                  "credential types"
+                ]
+              }
+            }
+          ]
+        },
+        {
           "name": "Security",
           "videos": [
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 42,
+              "views": 43,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -3571,7 +3597,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 42,
+              "views": 43,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -3929,9 +3955,22 @@
           "name": "Containers & Docker",
           "videos": [
             {
+              "id": "eZNBXDUc8OQ",
+              "title": "Architecting Modern Deployments",
+              "views": 2,
+              "date": "2026-04-23T00:06:07Z",
+              "category": "kubernetes",
+              "tags": [
+                "dockerization",
+                "containerization",
+                "ci/cd",
+                "automation"
+              ]
+            },
+            {
               "id": "p9LNSeAt5Zw",
               "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-              "views": 2,
+              "views": 9,
               "date": "2026-04-22T10:25:18Z",
               "category": "kubernetes",
               "tags": [
@@ -3975,9 +4014,22 @@
       ],
       "videos": [
         {
+          "id": "eZNBXDUc8OQ",
+          "title": "Architecting Modern Deployments",
+          "views": 2,
+          "date": "2026-04-23T00:06:07Z",
+          "category": "kubernetes",
+          "tags": [
+            "dockerization",
+            "containerization",
+            "ci/cd",
+            "automation"
+          ]
+        },
+        {
           "id": "p9LNSeAt5Zw",
           "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-          "views": 2,
+          "views": 9,
           "date": "2026-04-22T10:25:18Z",
           "category": "kubernetes",
           "tags": [
@@ -4175,7 +4227,7 @@
         {
           "id": "7Dchx829X_M",
           "title": "Architecting the edge for HTTP/3 and QUIC",
-          "views": 91,
+          "views": 92,
           "date": "2026-04-05T00:11:43Z",
           "category": "kubernetes",
           "tags": [
@@ -4207,7 +4259,7 @@
         {
           "id": "7iWL5-0C66s",
           "title": "Bridging the Mainframe to the Cloud",
-          "views": 24,
+          "views": 25,
           "date": "2026-04-04T10:58:19Z",
           "category": "kubernetes",
           "tags": [
@@ -5033,7 +5085,7 @@
         {
           "id": "rgY4KTMFOMs",
           "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-          "views": 42,
+          "views": 43,
           "date": "2026-02-05T14:29:16Z",
           "category": "kubernetes",
           "tags": [
@@ -5663,7 +5715,7 @@
         "security"
       ],
       "videoCount": 159,
-      "totalViews": 19296,
+      "totalViews": 19403,
       "topTags": [
         {
           "tag": "rust",
@@ -5753,7 +5805,7 @@
             {
               "id": "FM6zp63maS8",
               "title": "hexcap: Elevating Terminal Packet Capture",
-              "views": 44,
+              "views": 50,
               "date": "2026-04-20T22:17:31Z",
               "category": "development",
               "tags": [
@@ -5766,7 +5818,7 @@
             {
               "id": "feWjiYzQQ-k",
               "title": "Pastel Market: Engineering a Unified Terminal Workspace",
-              "views": 34,
+              "views": 37,
               "date": "2026-04-19T17:24:16Z",
               "category": "development",
               "tags": [
@@ -5781,7 +5833,7 @@
             {
               "id": "izLrX-02IQk",
               "title": "Rust 1.95.0",
-              "views": 188,
+              "views": 192,
               "date": "2026-04-18T20:42:55Z",
               "category": "development",
               "tags": [
@@ -5825,7 +5877,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4127,
+              "views": 4130,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -5858,7 +5910,7 @@
             {
               "id": "F59lTcC6xJ0",
               "title": "Architectural Principles of Fearless Concurrency",
-              "views": 49,
+              "views": 50,
               "date": "2026-03-28T22:00:43Z",
               "category": "development",
               "tags": [
@@ -6291,7 +6343,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 324,
+              "views": 325,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -6793,7 +6845,7 @@
             {
               "id": "pgTCcVO4gfg",
               "title": "The 10k LOC Sweet Spot",
-              "views": 7,
+              "views": 8,
               "date": "2026-04-21T22:18:41Z",
               "category": "development",
               "tags": [
@@ -6817,7 +6869,7 @@
             {
               "id": "E8f87EV4k3A",
               "title": "A Compiler, Not a Renderer",
-              "views": 138,
+              "views": 139,
               "date": "2026-04-17T12:06:22Z",
               "category": "development",
               "tags": [
@@ -6921,7 +6973,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2501,
+              "views": 2515,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -7023,7 +7075,7 @@
             {
               "id": "z2SA6P7WNoc",
               "title": "Reasoning Under Uncertainty",
-              "views": 154,
+              "views": 156,
               "date": "2026-04-03T22:11:58Z",
               "category": "development",
               "tags": [
@@ -7891,7 +7943,7 @@
             {
               "id": "yCJDmGrk8sM",
               "title": "Advancing Go Garbage Collection with Green Tea",
-              "views": 144,
+              "views": 145,
               "date": "2026-03-24T22:59:50Z",
               "category": "development",
               "tags": [
@@ -8352,7 +8404,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 733,
+              "views": 734,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -8539,7 +8591,7 @@
             {
               "id": "xkHQhOgapfY",
               "title": "ZMD Architecture & Evolution",
-              "views": 18,
+              "views": 21,
               "date": "2026-04-21T10:14:38Z",
               "category": "development",
               "tags": [
@@ -8552,7 +8604,7 @@
             {
               "id": "wKzz0jKiScM",
               "title": "Emacs Architecture, Neovim Philosophy",
-              "views": 205,
+              "views": 242,
               "date": "2026-04-19T22:51:25Z",
               "category": "development",
               "tags": [
@@ -8594,7 +8646,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4127,
+              "views": 4130,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -9033,7 +9085,7 @@
             {
               "id": "wyIhJ3LMnRg",
               "title": "W3C Trace Context",
-              "views": 35,
+              "views": 36,
               "date": "2026-03-21T13:19:14Z",
               "category": "development",
               "tags": [
@@ -9295,7 +9347,7 @@
         {
           "id": "pgTCcVO4gfg",
           "title": "The 10k LOC Sweet Spot",
-          "views": 7,
+          "views": 8,
           "date": "2026-04-21T22:18:41Z",
           "category": "development",
           "tags": [
@@ -9308,7 +9360,7 @@
         {
           "id": "xkHQhOgapfY",
           "title": "ZMD Architecture & Evolution",
-          "views": 18,
+          "views": 21,
           "date": "2026-04-21T10:14:38Z",
           "category": "development",
           "tags": [
@@ -9321,7 +9373,7 @@
         {
           "id": "FM6zp63maS8",
           "title": "hexcap: Elevating Terminal Packet Capture",
-          "views": 44,
+          "views": 50,
           "date": "2026-04-20T22:17:31Z",
           "category": "development",
           "tags": [
@@ -9334,7 +9386,7 @@
         {
           "id": "vtzEOYX_8k8",
           "title": "Packet Capture Fundamentals",
-          "views": 26,
+          "views": 33,
           "date": "2026-04-20T12:07:27Z",
           "category": "development",
           "tags": [
@@ -9347,7 +9399,7 @@
         {
           "id": "wKzz0jKiScM",
           "title": "Emacs Architecture, Neovim Philosophy",
-          "views": 205,
+          "views": 242,
           "date": "2026-04-19T22:51:25Z",
           "category": "development",
           "tags": [
@@ -9357,7 +9409,7 @@
         {
           "id": "feWjiYzQQ-k",
           "title": "Pastel Market: Engineering a Unified Terminal Workspace",
-          "views": 34,
+          "views": 37,
           "date": "2026-04-19T17:24:16Z",
           "category": "development",
           "tags": [
@@ -9372,7 +9424,7 @@
         {
           "id": "wZC8NL32yfg",
           "title": "Emulating the Server Push",
-          "views": 15,
+          "views": 16,
           "date": "2026-04-19T15:14:58Z",
           "category": "development",
           "tags": [
@@ -9385,7 +9437,7 @@
         {
           "id": "izLrX-02IQk",
           "title": "Rust 1.95.0",
-          "views": 188,
+          "views": 192,
           "date": "2026-04-18T20:42:55Z",
           "category": "development",
           "tags": [
@@ -9425,7 +9477,7 @@
         {
           "id": "E8f87EV4k3A",
           "title": "A Compiler, Not a Renderer",
-          "views": 138,
+          "views": 139,
           "date": "2026-04-17T12:06:22Z",
           "category": "development",
           "tags": [
@@ -9498,7 +9550,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 572,
+          "views": 587,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -9791,7 +9843,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2501,
+          "views": 2515,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -9885,7 +9937,7 @@
         {
           "id": "ea5lpF3RyzE",
           "title": "RFC 862 and the Echo Protocol",
-          "views": 38,
+          "views": 39,
           "date": "2026-04-07T11:46:58Z",
           "category": "development",
           "tags": [
@@ -10077,7 +10129,7 @@
         {
           "id": "z2SA6P7WNoc",
           "title": "Reasoning Under Uncertainty",
-          "views": 154,
+          "views": 156,
           "date": "2026-04-03T22:11:58Z",
           "category": "development",
           "tags": [
@@ -10110,7 +10162,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4127,
+          "views": 4130,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -10294,7 +10346,7 @@
         {
           "id": "F59lTcC6xJ0",
           "title": "Architectural Principles of Fearless Concurrency",
-          "views": 49,
+          "views": 50,
           "date": "2026-03-28T22:00:43Z",
           "category": "development",
           "tags": [
@@ -10422,7 +10474,7 @@
         {
           "id": "yCJDmGrk8sM",
           "title": "Advancing Go Garbage Collection with Green Tea",
-          "views": 144,
+          "views": 145,
           "date": "2026-03-24T22:59:50Z",
           "category": "development",
           "tags": [
@@ -10577,7 +10629,7 @@
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
-          "views": 35,
+          "views": 36,
           "date": "2026-03-21T13:19:14Z",
           "category": "development",
           "tags": [
@@ -11439,7 +11491,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 180,
+          "views": 181,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -11660,7 +11712,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 99,
+          "views": 101,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -12086,7 +12138,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 733,
+          "views": 734,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -12150,7 +12202,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 324,
+          "views": 325,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -12428,7 +12480,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 137,
+          "views": 136,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -12494,7 +12546,7 @@
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 403,
+          "views": 404,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -13834,7 +13886,7 @@
         {
           "id": "olsB3bJxA2A",
           "title": "Let's check about Zig",
-          "views": 344,
+          "views": 345,
           "date": "2025-12-28T09:28:00Z",
           "category": "development",
           "tags": [
@@ -13957,7 +14009,7 @@
         "development"
       ],
       "videoCount": 11,
-      "totalViews": 355,
+      "totalViews": 360,
       "topTags": [
         {
           "tag": "llm",
@@ -14297,7 +14349,7 @@
         {
           "id": "_5DCBqOCr8c",
           "title": "Designing for Privacy",
-          "views": 26,
+          "views": 30,
           "date": "2026-04-19T04:59:35Z",
           "category": "security",
           "tags": [
@@ -14311,7 +14363,7 @@
         {
           "id": "u8XCBK6lGw0",
           "title": "Custom Graphs in Microsoft Sentinel (Preview)",
-          "views": 52,
+          "views": 53,
           "date": "2026-04-11T15:44:17Z",
           "category": "security",
           "tags": [

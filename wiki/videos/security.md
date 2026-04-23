@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [llm, security, nist, gdpr, privacy, mandate, dpia, compliance, sentinel, context]
 sources: 11
-updated: 2026-04-22
+updated: 2026-04-23
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-04-22
 | Metric | Value |
 |--------|-------|
 | Videos | 11 |
-| Total Views | 355 |
+| Total Views | 360 |
 | Most Recent | Apr 18, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -39,8 +39,8 @@ updated: 2026-04-22
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Designing for Privacy | 26 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) |  |
-| 2 | Custom Graphs in Microsoft Sentinel (Preview) | 52 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
+| 1 | Designing for Privacy | 30 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) |  |
+| 2 | Custom Graphs in Microsoft Sentinel (Preview) | 53 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
 | 3 | Black-Hat LLMs: The End of the 20-Year Security Balance | 70 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) | [Wiki](details/Zeg8zSOvoyE.md) |
 | 4 | 2FA Orchestration in PingFederate | 10 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) | [Wiki](details/HxB-cJIbEgE.md) |
 | 5 | Anatomy of a Supply Chain Attack | 35 | Mar 26, 2026 | [Watch](https://youtu.be/taBP0Fr3uSQ) | [Wiki](details/taBP0Fr3uSQ.md) |

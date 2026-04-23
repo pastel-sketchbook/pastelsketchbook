@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, stocks, notebooklm]
 sources: 22
-updated: 2026-04-22
+updated: 2026-04-23
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-04-22
 | Metric | Value |
 |--------|-------|
 | Videos | 22 |
-| Total Views | 432 |
+| Total Views | 434 |
 | Most Recent | Apr 17, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -30,10 +30,10 @@ updated: 2026-04-22
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Decoding the Black Box of Global Finance | 45 | Apr 17, 2026 | [Watch](https://youtu.be/1smShC18TWA) |  |
+| 1 | Decoding the Black Box of Global Finance | 46 | Apr 17, 2026 | [Watch](https://youtu.be/1smShC18TWA) |  |
 | 2 | The End of the American Penny | 3 | Apr 15, 2026 | [Watch](https://youtu.be/vzwjAlEz_bI) | [Wiki](details/vzwjAlEz_bI.md) |
 | 3 | Nesting in Global Finance | 6 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) | [Wiki](details/YYVxMSqBqe8.md) |
-| 4 | The Mystery of the Nickel Coke | 8 | Apr 10, 2026 | [Watch](https://youtu.be/l9UUqD2Bz2E) | [Wiki](details/l9UUqD2Bz2E.md) |
+| 4 | The Mystery of the Nickel Coke | 9 | Apr 10, 2026 | [Watch](https://youtu.be/l9UUqD2Bz2E) | [Wiki](details/l9UUqD2Bz2E.md) |
 | 5 | The Final Five Years | 15 | Apr 7, 2026 | [Watch](https://youtu.be/HFmkEvxyJE4) | [Wiki](details/HFmkEvxyJE4.md) |
 | 6 | The Architecture of Fulfillment | 46 | Mar 26, 2026 | [Watch](https://youtu.be/hnMR8rdGCnU) | [Wiki](details/hnMR8rdGCnU.md) |
 | 7 | The Final 5 Years | 19 | Mar 20, 2026 | [Watch](https://youtu.be/G-vvSNwm-jE) | [Wiki](details/G-vvSNwm-jE.md) |
