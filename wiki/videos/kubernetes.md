@@ -57,7 +57,7 @@ updated: 2026-04-23
 
 ### Data & Databases (8 videos)
 
-- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 57 views, Apr 17, 2026
+- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 57 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) -- 15 views, Mar 13, 2026 · [Details](details/u60g2nMtVi4.md)
 - [ScyllaDB: The Next-Generation NoSQL Platform](https://youtu.be/mYClRFIlsFc) -- 13 views, Feb 19, 2026 · [Details](details/mYClRFIlsFc.md)
 - [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 44 views, Feb 12, 2026 · [Details](details/eI2DXGISpbk.md)
@@ -79,8 +79,8 @@ updated: 2026-04-23
 
 ### AI & ML (7 videos)
 
-- [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 2 views, Apr 22, 2026
-- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) -- 9 views, Apr 22, 2026
+- [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 2 views, Apr 22, 2026 · [Details](details/eZNBXDUc8OQ.md)
+- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) -- 9 views, Apr 22, 2026 · [Details](details/p9LNSeAt5Zw.md)
 - [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) -- 27 views, Apr 14, 2026 · [Details](details/mGMaqTvWrCc.md)
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 25 views, Apr 4, 2026 · [Details](details/7iWL5-0C66s.md)
 - [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) -- 67 views, Mar 26, 2026 · [Details](details/lexZnOlyml0.md)
@@ -89,7 +89,7 @@ updated: 2026-04-23
 
 ### CI/CD & DevOps (7 videos)
 
-- [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 2 views, Apr 22, 2026
+- [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 2 views, Apr 22, 2026 · [Details](details/eZNBXDUc8OQ.md)
 - [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) -- 27 views, Apr 14, 2026 · [Details](details/mGMaqTvWrCc.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) -- 13 views, Mar 10, 2026 · [Details](details/Hd767VA7Z-0.md)
@@ -109,7 +109,7 @@ updated: 2026-04-23
 
 ### Go (6 videos)
 
-- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 57 views, Apr 17, 2026
+- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 57 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) -- 25 views, Feb 21, 2026 · [Details](details/ORjARjbukhY.md)
 - [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 44 views, Feb 12, 2026 · [Details](details/eI2DXGISpbk.md)
@@ -143,25 +143,25 @@ updated: 2026-04-23
 
 ### Rust (4 videos)
 
-- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 57 views, Apr 17, 2026
+- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 57 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) -- 17 views, Apr 11, 2026 · [Details](details/a8heWpae5p0.md)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 42 views, Jan 17, 2026 · [Details](details/4b-H6ZaoNUE.md)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) -- 23 views, Jan 14, 2026 · [Details](details/A4-foXsdQiA.md)
 
 ### Containers & Docker (3 videos)
 
-- [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 2 views, Apr 22, 2026
-- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) -- 9 views, Apr 22, 2026
+- [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 2 views, Apr 22, 2026 · [Details](details/eZNBXDUc8OQ.md)
+- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) -- 9 views, Apr 22, 2026 · [Details](details/p9LNSeAt5Zw.md)
 - [Modern Docker Networking & Traefik](https://youtu.be/Pxh2PcNx9W8) -- 38 views, Mar 3, 2026 · [Details](details/Pxh2PcNx9W8.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Architecting Modern Deployments | 2 | Apr 22, 2026 | [Watch](https://youtu.be/eZNBXDUc8OQ) |  |
-| 2 | Scaling Node.js from PM2 to Cloud-Native Orchestration | 9 | Apr 22, 2026 | [Watch](https://youtu.be/p9LNSeAt5Zw) |  |
-| 3 | The Cloud Rosetta Stone | 20 | Apr 18, 2026 | [Watch](https://youtu.be/PMgUhFxrjPc) |  |
-| 4 | Consuming CDC with ScyllaDB | 57 | Apr 17, 2026 | [Watch](https://youtu.be/nomIVRSBEG4) |  |
+| 1 | Architecting Modern Deployments | 2 | Apr 22, 2026 | [Watch](https://youtu.be/eZNBXDUc8OQ) | [Wiki](details/eZNBXDUc8OQ.md) |
+| 2 | Scaling Node.js from PM2 to Cloud-Native Orchestration | 9 | Apr 22, 2026 | [Watch](https://youtu.be/p9LNSeAt5Zw) | [Wiki](details/p9LNSeAt5Zw.md) |
+| 3 | The Cloud Rosetta Stone | 20 | Apr 18, 2026 | [Watch](https://youtu.be/PMgUhFxrjPc) | [Wiki](details/PMgUhFxrjPc.md) |
+| 4 | Consuming CDC with ScyllaDB | 57 | Apr 17, 2026 | [Watch](https://youtu.be/nomIVRSBEG4) | [Wiki](details/nomIVRSBEG4.md) |
 | 5 | Building an End-to-End MLOps Pipeline | 27 | Apr 14, 2026 | [Watch](https://youtu.be/mGMaqTvWrCc) | [Wiki](details/mGMaqTvWrCc.md) |
 | 6 | A Trillion Transactions | 37 | Apr 12, 2026 | [Watch](https://youtu.be/oHdhgeF4wlI) | [Wiki](details/oHdhgeF4wlI.md) |
 | 7 | minikv: Distributed Systems Meets Data Science | 17 | Apr 11, 2026 | [Watch](https://youtu.be/a8heWpae5p0) | [Wiki](details/a8heWpae5p0.md) |

@@ -627,7 +627,25 @@
           "category": "finance",
           "tags": [
             "curiosity"
-          ]
+          ],
+          "detail": {
+            "summary": "This video unpacks the architecture of correspondent banking, explaining how nostro and vostro accounts enable cross-border payments and how nesting creates layers of indirect banking relationships. It examines the AML/KYC compliance risks that emerge from limited visibility in nested chains, and explores how real-time monitoring with ML/NLP transaction screening and ISO 20022 adoption are reshaping regulatory oversight.",
+            "takeaways": [
+              "Correspondent banking relies on nostro/vostro account pairs, but nesting introduces opacity that obscures the origin and destination of funds across jurisdictional boundaries.",
+              "AML/KYC compliance becomes exponentially harder as indirect banking relationships multiply, creating blind spots for transaction monitoring.",
+              "Machine learning and NLP-driven transaction screening enable real-time detection of suspicious patterns that rule-based systems miss.",
+              "ISO 20022 adoption provides richer, structured data in payment messages, improving transparency and enabling more effective regulatory compliance across the global financial network."
+            ],
+            "topics": [
+              "correspondent banking",
+              "nostro/vostro accounts",
+              "nesting",
+              "AML/KYC compliance",
+              "transaction screening",
+              "ISO 20022",
+              "ML/NLP monitoring"
+            ]
+          }
         },
         {
           "id": "vzwjAlEz_bI",
@@ -2105,7 +2123,26 @@
                 "rust",
                 "java",
                 "go"
-              ]
+              ],
+              "detail": {
+                "summary": "This video presents a professional blueprint for consuming change data capture (CDC) events from ScyllaDB across three language ecosystems: Rust, Go, and Java. It examines the gap between CDC's conceptual simplicity and its operational complexity in distributed environments, demonstrating how the ScyllaDB CDC library abstracts cluster topology changes — node joins, partition splits, and shard shifts — so application code can focus on pure sequential business logic.",
+                "takeaways": [
+                  "ScyllaDB CDC generates automatic change streams when enabled on a table, consumable through language-specific drivers in Rust (Tokio-based stream processor), Go (goroutine pool event listener), and Java (Reactor Core reactive model).",
+                  "The CDC library acts as an abstraction shield that transparently manages cluster topology changes, connection errors, and shard redistribution, hiding distributed systems complexity from application code.",
+                  "Operational complexity is the core challenge: what appears as a simple one-to-one data stream requires handling node joins/leaves, partition splitting, stream synchronization, and manual error recovery without the library abstraction.",
+                  "Each language implementation offers distinct concurrency models — Rust's async Tokio runtime for low-latency processing, Go's goroutine pools for high-concurrency handling, and Java's Reactor Core for enterprise-grade reactive pipelines."
+                ],
+                "topics": [
+                  "scylladb cdc",
+                  "change data capture",
+                  "rust tokio",
+                  "go routine pool",
+                  "java reactor core",
+                  "cluster topology",
+                  "cdc library abstraction",
+                  "distributed event streaming"
+                ]
+              }
             },
             {
               "id": "u60g2nMtVi4",
@@ -2580,7 +2617,26 @@
                 "containerization",
                 "ci/cd",
                 "automation"
-              ]
+              ],
+              "detail": {
+                "summary": "This video presents a comprehensive guide to the modern container lifecycle across three pillars: Docker for building lean and secure artifacts, Helm for declarative and modular Kubernetes packaging, and ADO pipelines for continuous delivery automation. It covers multi-stage Docker builds to shrink attack surfaces, layer cache optimization strategies for faster rebuilds, Helm chart architecture including values.yaml overrides and template helpers, and end-to-end CI/CD pipeline design for immutable, rolling deployments.",
+                "takeaways": [
+                  "Multi-stage Docker builds drastically reduce attack surface by compiling in a heavy stage and copying only the final binary to a minimal Alpine or Slim base image under 5 MB.",
+                  "Docker layer cache efficiency depends on ordering instructions by change frequency — stable OS packages at the top, source code at the bottom — since cache invalidation cascades downward.",
+                  "Helm chart architecture separates environment-specific configuration via values.yaml overrides while templates and helpers provide declarative, modular Kubernetes resource definitions.",
+                  "ADO pipeline automation enables immutable infrastructure with deterministic builds, cached layers, and rolling updates that ensure staging-tested artifacts are exactly what runs in production."
+                ],
+                "topics": [
+                  "multi-stage docker builds",
+                  "attack surface reduction",
+                  "docker layer cache",
+                  "helm chart architecture",
+                  "values.yaml",
+                  "ado pipeline ci/cd",
+                  "immutable infrastructure",
+                  "rolling updates"
+                ]
+              }
             },
             {
               "id": "p9LNSeAt5Zw",
@@ -2593,7 +2649,27 @@
                 "cloud",
                 "orchestration",
                 "containerization"
-              ]
+              ],
+              "detail": {
+                "summary": "This video serves as a strategic playbook for transitioning Node.js applications from traditional PM2 process management on bare-metal servers to modern cloud-native container orchestration with Docker and Kubernetes. It identifies the key transition signals — environment inconsistency, multi-host scaling needs, and operational automation requirements — and walks through the evolution from SSH-based mutable deployments to immutable artifact-based CI/CD pipelines with rolling updates and self-healing.",
+                "takeaways": [
+                  "PM2 excels at single-host vertical scaling with process supervision, multi-core clustering, and automatic crash restarts, but hits its ceiling when workloads need to span multiple machines.",
+                  "Three core drivers signal the move to containerization: reproducible environments (eliminating dev/staging/prod drift), multi-host horizontal scaling beyond single-server limits, and native orchestration for rolling updates and self-healing.",
+                  "Immutable infrastructure replaces mutable long-lived servers with deterministic container builds and cached layers, ensuring that staging-tested artifacts are exactly what runs in production.",
+                  "CI/CD modernization shifts from SSH-based manual script deployments to artifact-based pipelines, enabling GitOps-driven workflows with automated rolling updates and self-healing orchestration in Kubernetes."
+                ],
+                "topics": [
+                  "pm2",
+                  "node.js scaling",
+                  "containerization",
+                  "docker",
+                  "kubernetes orchestration",
+                  "immutable infrastructure",
+                  "ci/cd pipelines",
+                  "rolling updates",
+                  "gitops"
+                ]
+              }
             },
             {
               "id": "mGMaqTvWrCc",
@@ -2765,7 +2841,26 @@
                 "containerization",
                 "ci/cd",
                 "automation"
-              ]
+              ],
+              "detail": {
+                "summary": "This video presents a comprehensive guide to the modern container lifecycle across three pillars: Docker for building lean and secure artifacts, Helm for declarative and modular Kubernetes packaging, and ADO pipelines for continuous delivery automation. It covers multi-stage Docker builds to shrink attack surfaces, layer cache optimization strategies for faster rebuilds, Helm chart architecture including values.yaml overrides and template helpers, and end-to-end CI/CD pipeline design for immutable, rolling deployments.",
+                "takeaways": [
+                  "Multi-stage Docker builds drastically reduce attack surface by compiling in a heavy stage and copying only the final binary to a minimal Alpine or Slim base image under 5 MB.",
+                  "Docker layer cache efficiency depends on ordering instructions by change frequency — stable OS packages at the top, source code at the bottom — since cache invalidation cascades downward.",
+                  "Helm chart architecture separates environment-specific configuration via values.yaml overrides while templates and helpers provide declarative, modular Kubernetes resource definitions.",
+                  "ADO pipeline automation enables immutable infrastructure with deterministic builds, cached layers, and rolling updates that ensure staging-tested artifacts are exactly what runs in production."
+                ],
+                "topics": [
+                  "multi-stage docker builds",
+                  "attack surface reduction",
+                  "docker layer cache",
+                  "helm chart architecture",
+                  "values.yaml",
+                  "ado pipeline ci/cd",
+                  "immutable infrastructure",
+                  "rolling updates"
+                ]
+              }
             },
             {
               "id": "mGMaqTvWrCc",
@@ -3186,7 +3281,26 @@
                 "rust",
                 "java",
                 "go"
-              ]
+              ],
+              "detail": {
+                "summary": "This video presents a professional blueprint for consuming change data capture (CDC) events from ScyllaDB across three language ecosystems: Rust, Go, and Java. It examines the gap between CDC's conceptual simplicity and its operational complexity in distributed environments, demonstrating how the ScyllaDB CDC library abstracts cluster topology changes — node joins, partition splits, and shard shifts — so application code can focus on pure sequential business logic.",
+                "takeaways": [
+                  "ScyllaDB CDC generates automatic change streams when enabled on a table, consumable through language-specific drivers in Rust (Tokio-based stream processor), Go (goroutine pool event listener), and Java (Reactor Core reactive model).",
+                  "The CDC library acts as an abstraction shield that transparently manages cluster topology changes, connection errors, and shard redistribution, hiding distributed systems complexity from application code.",
+                  "Operational complexity is the core challenge: what appears as a simple one-to-one data stream requires handling node joins/leaves, partition splitting, stream synchronization, and manual error recovery without the library abstraction.",
+                  "Each language implementation offers distinct concurrency models — Rust's async Tokio runtime for low-latency processing, Go's goroutine pools for high-concurrency handling, and Java's Reactor Core for enterprise-grade reactive pipelines."
+                ],
+                "topics": [
+                  "scylladb cdc",
+                  "change data capture",
+                  "rust tokio",
+                  "go routine pool",
+                  "java reactor core",
+                  "cluster topology",
+                  "cdc library abstraction",
+                  "distributed event streaming"
+                ]
+              }
             },
             {
               "id": "BiYKKVsJROk",
@@ -3853,7 +3967,26 @@
                 "rust",
                 "java",
                 "go"
-              ]
+              ],
+              "detail": {
+                "summary": "This video presents a professional blueprint for consuming change data capture (CDC) events from ScyllaDB across three language ecosystems: Rust, Go, and Java. It examines the gap between CDC's conceptual simplicity and its operational complexity in distributed environments, demonstrating how the ScyllaDB CDC library abstracts cluster topology changes — node joins, partition splits, and shard shifts — so application code can focus on pure sequential business logic.",
+                "takeaways": [
+                  "ScyllaDB CDC generates automatic change streams when enabled on a table, consumable through language-specific drivers in Rust (Tokio-based stream processor), Go (goroutine pool event listener), and Java (Reactor Core reactive model).",
+                  "The CDC library acts as an abstraction shield that transparently manages cluster topology changes, connection errors, and shard redistribution, hiding distributed systems complexity from application code.",
+                  "Operational complexity is the core challenge: what appears as a simple one-to-one data stream requires handling node joins/leaves, partition splitting, stream synchronization, and manual error recovery without the library abstraction.",
+                  "Each language implementation offers distinct concurrency models — Rust's async Tokio runtime for low-latency processing, Go's goroutine pools for high-concurrency handling, and Java's Reactor Core for enterprise-grade reactive pipelines."
+                ],
+                "topics": [
+                  "scylladb cdc",
+                  "change data capture",
+                  "rust tokio",
+                  "go routine pool",
+                  "java reactor core",
+                  "cluster topology",
+                  "cdc library abstraction",
+                  "distributed event streaming"
+                ]
+              }
             },
             {
               "id": "a8heWpae5p0",
@@ -3965,7 +4098,26 @@
                 "containerization",
                 "ci/cd",
                 "automation"
-              ]
+              ],
+              "detail": {
+                "summary": "This video presents a comprehensive guide to the modern container lifecycle across three pillars: Docker for building lean and secure artifacts, Helm for declarative and modular Kubernetes packaging, and ADO pipelines for continuous delivery automation. It covers multi-stage Docker builds to shrink attack surfaces, layer cache optimization strategies for faster rebuilds, Helm chart architecture including values.yaml overrides and template helpers, and end-to-end CI/CD pipeline design for immutable, rolling deployments.",
+                "takeaways": [
+                  "Multi-stage Docker builds drastically reduce attack surface by compiling in a heavy stage and copying only the final binary to a minimal Alpine or Slim base image under 5 MB.",
+                  "Docker layer cache efficiency depends on ordering instructions by change frequency — stable OS packages at the top, source code at the bottom — since cache invalidation cascades downward.",
+                  "Helm chart architecture separates environment-specific configuration via values.yaml overrides while templates and helpers provide declarative, modular Kubernetes resource definitions.",
+                  "ADO pipeline automation enables immutable infrastructure with deterministic builds, cached layers, and rolling updates that ensure staging-tested artifacts are exactly what runs in production."
+                ],
+                "topics": [
+                  "multi-stage docker builds",
+                  "attack surface reduction",
+                  "docker layer cache",
+                  "helm chart architecture",
+                  "values.yaml",
+                  "ado pipeline ci/cd",
+                  "immutable infrastructure",
+                  "rolling updates"
+                ]
+              }
             },
             {
               "id": "p9LNSeAt5Zw",
@@ -3978,7 +4130,27 @@
                 "cloud",
                 "orchestration",
                 "containerization"
-              ]
+              ],
+              "detail": {
+                "summary": "This video serves as a strategic playbook for transitioning Node.js applications from traditional PM2 process management on bare-metal servers to modern cloud-native container orchestration with Docker and Kubernetes. It identifies the key transition signals — environment inconsistency, multi-host scaling needs, and operational automation requirements — and walks through the evolution from SSH-based mutable deployments to immutable artifact-based CI/CD pipelines with rolling updates and self-healing.",
+                "takeaways": [
+                  "PM2 excels at single-host vertical scaling with process supervision, multi-core clustering, and automatic crash restarts, but hits its ceiling when workloads need to span multiple machines.",
+                  "Three core drivers signal the move to containerization: reproducible environments (eliminating dev/staging/prod drift), multi-host horizontal scaling beyond single-server limits, and native orchestration for rolling updates and self-healing.",
+                  "Immutable infrastructure replaces mutable long-lived servers with deterministic container builds and cached layers, ensuring that staging-tested artifacts are exactly what runs in production.",
+                  "CI/CD modernization shifts from SSH-based manual script deployments to artifact-based pipelines, enabling GitOps-driven workflows with automated rolling updates and self-healing orchestration in Kubernetes."
+                ],
+                "topics": [
+                  "pm2",
+                  "node.js scaling",
+                  "containerization",
+                  "docker",
+                  "kubernetes orchestration",
+                  "immutable infrastructure",
+                  "ci/cd pipelines",
+                  "rolling updates",
+                  "gitops"
+                ]
+              }
             },
             {
               "id": "Pxh2PcNx9W8",
@@ -4024,7 +4196,26 @@
             "containerization",
             "ci/cd",
             "automation"
-          ]
+          ],
+          "detail": {
+            "summary": "This video presents a comprehensive guide to the modern container lifecycle across three pillars: Docker for building lean and secure artifacts, Helm for declarative and modular Kubernetes packaging, and ADO pipelines for continuous delivery automation. It covers multi-stage Docker builds to shrink attack surfaces, layer cache optimization strategies for faster rebuilds, Helm chart architecture including values.yaml overrides and template helpers, and end-to-end CI/CD pipeline design for immutable, rolling deployments.",
+            "takeaways": [
+              "Multi-stage Docker builds drastically reduce attack surface by compiling in a heavy stage and copying only the final binary to a minimal Alpine or Slim base image under 5 MB.",
+              "Docker layer cache efficiency depends on ordering instructions by change frequency — stable OS packages at the top, source code at the bottom — since cache invalidation cascades downward.",
+              "Helm chart architecture separates environment-specific configuration via values.yaml overrides while templates and helpers provide declarative, modular Kubernetes resource definitions.",
+              "ADO pipeline automation enables immutable infrastructure with deterministic builds, cached layers, and rolling updates that ensure staging-tested artifacts are exactly what runs in production."
+            ],
+            "topics": [
+              "multi-stage docker builds",
+              "attack surface reduction",
+              "docker layer cache",
+              "helm chart architecture",
+              "values.yaml",
+              "ado pipeline ci/cd",
+              "immutable infrastructure",
+              "rolling updates"
+            ]
+          }
         },
         {
           "id": "p9LNSeAt5Zw",
@@ -4037,7 +4228,27 @@
             "cloud",
             "orchestration",
             "containerization"
-          ]
+          ],
+          "detail": {
+            "summary": "This video serves as a strategic playbook for transitioning Node.js applications from traditional PM2 process management on bare-metal servers to modern cloud-native container orchestration with Docker and Kubernetes. It identifies the key transition signals — environment inconsistency, multi-host scaling needs, and operational automation requirements — and walks through the evolution from SSH-based mutable deployments to immutable artifact-based CI/CD pipelines with rolling updates and self-healing.",
+            "takeaways": [
+              "PM2 excels at single-host vertical scaling with process supervision, multi-core clustering, and automatic crash restarts, but hits its ceiling when workloads need to span multiple machines.",
+              "Three core drivers signal the move to containerization: reproducible environments (eliminating dev/staging/prod drift), multi-host horizontal scaling beyond single-server limits, and native orchestration for rolling updates and self-healing.",
+              "Immutable infrastructure replaces mutable long-lived servers with deterministic container builds and cached layers, ensuring that staging-tested artifacts are exactly what runs in production.",
+              "CI/CD modernization shifts from SSH-based manual script deployments to artifact-based pipelines, enabling GitOps-driven workflows with automated rolling updates and self-healing orchestration in Kubernetes."
+            ],
+            "topics": [
+              "pm2",
+              "node.js scaling",
+              "containerization",
+              "docker",
+              "kubernetes orchestration",
+              "immutable infrastructure",
+              "ci/cd pipelines",
+              "rolling updates",
+              "gitops"
+            ]
+          }
         },
         {
           "id": "PMgUhFxrjPc",
@@ -4051,7 +4262,27 @@
             "gcp",
             "cloud",
             "services"
-          ]
+          ],
+          "detail": {
+            "summary": "This video provides a systematic cross-cloud service mapping across Azure, AWS, and GCP, organized into a four-layer architecture: foundation, data, operations, and innovation. It walks through the compute continuum from IaaS through PaaS, CaaS, and Serverless, then covers storage categories, networking topology, database services, and AI/ML platform equivalents across all three providers.",
+            "takeaways": [
+              "Cross-cloud fluency requires a mental model organized by function rather than brand—the four-layer architecture (foundation, data, operations, innovation) provides that Rosetta Stone.",
+              "The compute continuum (IaaS → PaaS → CaaS → Serverless) maps cleanly across providers, with each tier trading control for operational simplicity.",
+              "Storage, networking, and database services have direct equivalents across Azure, AWS, and GCP, but naming and default behaviors diverge enough to create migration pitfalls.",
+              "AI/ML platform comparison reveals convergence in capability but divergence in integration depth, with each provider optimizing for its own ecosystem."
+            ],
+            "topics": [
+              "cross-cloud mapping",
+              "Azure",
+              "AWS",
+              "GCP",
+              "compute continuum",
+              "storage categories",
+              "networking topology",
+              "database services",
+              "AI/ML platforms"
+            ]
+          }
         },
         {
           "id": "nomIVRSBEG4",
@@ -4065,7 +4296,26 @@
             "rust",
             "java",
             "go"
-          ]
+          ],
+          "detail": {
+            "summary": "This video presents a professional blueprint for consuming change data capture (CDC) events from ScyllaDB across three language ecosystems: Rust, Go, and Java. It examines the gap between CDC's conceptual simplicity and its operational complexity in distributed environments, demonstrating how the ScyllaDB CDC library abstracts cluster topology changes — node joins, partition splits, and shard shifts — so application code can focus on pure sequential business logic.",
+            "takeaways": [
+              "ScyllaDB CDC generates automatic change streams when enabled on a table, consumable through language-specific drivers in Rust (Tokio-based stream processor), Go (goroutine pool event listener), and Java (Reactor Core reactive model).",
+              "The CDC library acts as an abstraction shield that transparently manages cluster topology changes, connection errors, and shard redistribution, hiding distributed systems complexity from application code.",
+              "Operational complexity is the core challenge: what appears as a simple one-to-one data stream requires handling node joins/leaves, partition splitting, stream synchronization, and manual error recovery without the library abstraction.",
+              "Each language implementation offers distinct concurrency models — Rust's async Tokio runtime for low-latency processing, Go's goroutine pools for high-concurrency handling, and Java's Reactor Core for enterprise-grade reactive pipelines."
+            ],
+            "topics": [
+              "scylladb cdc",
+              "change data capture",
+              "rust tokio",
+              "go routine pool",
+              "java reactor core",
+              "cluster topology",
+              "cdc library abstraction",
+              "distributed event streaming"
+            ]
+          }
         },
         {
           "id": "mGMaqTvWrCc",
@@ -5813,7 +6063,26 @@
                 "rust",
                 "hexcap",
                 "agent"
-              ]
+              ],
+              "detail": {
+                "summary": "This video presents hexcap, a Rust-based TUI packet capture tool designed to bridge the speed of tcpdump with the analytical depth of Wireshark. It details the dual-thread architecture where a dedicated capture thread feeds packets through Arc<Mutex> shared state to a Ratatui-powered UI render loop. The talk explains the deliberate decision to avoid Tokio due to blocking libpcap FFI, and covers graceful interface switching and protocol decoding within the terminal.",
+                "takeaways": [
+                  "hexcap occupies the gap between tcpdump's speed and Wireshark's analysis depth, delivering both in a terminal-native interface.",
+                  "The dual-thread architecture separates packet capture from UI rendering, using Arc<Mutex> shared state to decouple the blocking libpcap FFI from the responsive Ratatui display.",
+                  "Tokio was intentionally excluded because libpcap's blocking FFI calls would starve the async runtime, making OS threads the correct concurrency model.",
+                  "Graceful interface switching and layered protocol decoding give operators Wireshark-level insight without leaving the terminal."
+                ],
+                "topics": [
+                  "hexcap",
+                  "packet capture",
+                  "Rust",
+                  "TUI",
+                  "libpcap FFI",
+                  "Ratatui",
+                  "Arc<Mutex>",
+                  "protocol decoding"
+                ]
+              }
             },
             {
               "id": "feWjiYzQQ-k",
@@ -5828,7 +6097,28 @@
                 "ureq",
                 "qc",
                 "whispers"
-              ]
+              ],
+              "detail": {
+                "summary": "This video introduces Pastel Market, a high-performance Rust TUI that consolidates two earlier tools — Pastel Picker (earnings intelligence and FinViz screening) and Reigns Market (real-time Yahoo Finance monitoring) — into a single unified binary. The merger eliminated approximately 400 lines of duplicated FinViz scraping code and unified 16 UI themes through a shared market-core crate, while adopting ureq over reqwest for a lighter binary footprint and targeting Rust 2024 edition with MSRV 1.95.0.",
+                "takeaways": [
+                  "Strategic consolidation of Pastel Picker and Reigns Market into a single binary via a shared market-core crate eliminates architectural redundancy and centralizes terminal lifecycle management.",
+                  "Dynamic seeding replaces static default symbols by pulling the top 20 active stocks from Yahoo Finance screeners on launch, with fallback through gainers, losers, and most-active lists.",
+                  "Reactive UI wiring maps every navigation and input event to an explicit backend reaction, ensuring zero stale states across the watchlist, screening, and signaling views.",
+                  "The project chose ureq over reqwest for lighter binary size and built-in cookie jar support, with modular workspace crates enabling independent testing via cargo test."
+                ],
+                "topics": [
+                  "rust tui",
+                  "market-core crate",
+                  "pastel picker",
+                  "reigns market",
+                  "yahoo finance screeners",
+                  "dynamic seeding",
+                  "sector visibility",
+                  "reactive ui",
+                  "ureq",
+                  "rust 2024 edition"
+                ]
+              }
             },
             {
               "id": "izLrX-02IQk",
@@ -5841,7 +6131,26 @@
                 "v1.95.0",
                 "cfg_select!",
                 "if-let guard"
-              ]
+              ],
+              "detail": {
+                "summary": "This video provides a technical briefing on the Rust 1.95.0 release, covering three primary update areas: expressive control flow with if-let guards in match expressions, build configuration via the new native cfg_select! macro, and standard library expansion with 35+ stabilized APIs and extended const context support. It also walks through rustup channel management for stable, beta, and nightly toolchains.",
+                "takeaways": [
+                  "The cfg_select! macro is now part of the standard library, providing native compile-time matching on configuration predicates with sequential evaluation and fallback — eliminating the need for the external cfg-if crate.",
+                  "If-let guards integrate pattern matching directly into match arms, enabling more flexible and readable conditional logic that builds on the earlier stabilization of let chains.",
+                  "Over 35 core APIs were stabilized in this release alongside significant expansion of functionality available in const contexts, broadening what can be computed at compile time.",
+                  "Rustup channel management (stable, beta, nightly) gives developers full control over balancing production stability with access to experimental features."
+                ],
+                "topics": [
+                  "rust 1.95.0",
+                  "cfg_select! macro",
+                  "cfg-if crate",
+                  "if-let guards",
+                  "match expressions",
+                  "stabilized apis",
+                  "const contexts",
+                  "rustup channels"
+                ]
+              }
             },
             {
               "id": "BT08SXPvV6U",
@@ -6853,7 +7162,26 @@
                 "llm",
                 "assisted",
                 "engineering"
-              ]
+              ],
+              "detail": {
+                "summary": "This video explores the systemic mechanics of LLM-assisted engineering, identifying approximately 10,000 lines of code across 20 files as the optimal codebase scale where large language models transition from basic autocomplete into sophisticated architectural collaborators. It contrasts this sweet spot against the brittleness cliff beyond 50,000 lines, analyzing the shift from memory capacity bottlenecks to attention dispersion as the primary constraint on reasoning fidelity.",
+                "takeaways": [
+                  "LLM efficacy is constrained not by memory capacity but by attention dispersion — as context grows, signal-to-noise ratio degrades and the model's ability to maintain logical coherence across dependencies collapses.",
+                  "The systemic reasoning zone extends to approximately 60,000 tokens; beyond this threshold, models achieve perfect single-needle recall but fail to connect disparate pieces of information across the codebase.",
+                  "At the sweet spot (~10k LOC, ~20 files), models achieve comprehensive whole-project reasoning with explicit shallow architecture, while the brittleness cliff (~50k+ LOC) forces them into localized syntax fixes due to opaque deep indirection.",
+                  "Architectural indirection — heavy inversion of control, deep abstraction layers, and implicit wiring — is the primary structural challenge that degrades LLM collaboration quality at scale."
+                ],
+                "topics": [
+                  "llm-assisted engineering",
+                  "10k loc sweet spot",
+                  "attention dispersion",
+                  "systemic reasoning zone",
+                  "signal-to-noise ratio",
+                  "brittleness cliff",
+                  "architectural indirection",
+                  "context window limits"
+                ]
+              }
             },
             {
               "id": "q-6cUColzQQ",
@@ -6864,7 +7192,26 @@
               "tags": [
                 "flutter",
                 "web"
-              ]
+              ],
+              "detail": {
+                "summary": "This presentation decodes Flutter Web's architecture, tracing its origins from a Chrome fork through a mobile-only hard fork and back to a web port via specialized HTML and canvas backends. It explains how Flutter uniquely prioritizes canvas-based rendering over the DOM, bypassing traditional browser abstractions to control every pixel on screen. The video concludes by identifying ideal use cases—internal tools, data dashboards, and kiosks—where Flutter Web's app-centric model excels over content-driven web pages.",
+                "takeaways": [
+                  "Flutter is a UI framework that renders the entire screen directly to hardware, bypassing DOM tree abstractions for pixel-perfect GPU-driven output.",
+                  "Flutter Web was never originally intended for the web; it was born from frustration with three-year standardization lags in web platform specs.",
+                  "Two rendering backends exist for Flutter Web: the HTML renderer for broad compatibility and the CanvasKit renderer (plus the newer Wasm-native target) for high-fidelity graphics.",
+                  "Flutter Web is best suited for web apps—internal tools, data dashboards, and kiosks—rather than content-driven web pages that depend on SEO and document semantics."
+                ],
+                "topics": [
+                  "flutter web",
+                  "canvas rendering",
+                  "DOM vs GPU",
+                  "HTML renderer",
+                  "CanvasKit",
+                  "Wasm",
+                  "web app vs web page",
+                  "Dart"
+                ]
+              }
             },
             {
               "id": "E8f87EV4k3A",
@@ -6877,7 +7224,26 @@
                 "mmdc",
                 "mermaid",
                 "compiler"
-              ]
+              ],
+              "detail": {
+                "summary": "This video introduces zig-mmdc, a zero-dependency Mermaid diagram engine built in Zig that treats diagram generation as a compilation problem rather than a rendering one. It explains why eliminating the Chromium dependency—with its 300MB footprint and cold start delays—led to an AST-based geometric layout approach that emits SVG directly without DOM or CSS. The talk covers the full compilation pipeline from lexer through parser, layout, and emitter, and why Zig's WASM symmetry, zero runtime, and explicit allocators make it the ideal language for this architecture.",
+                "takeaways": [
+                  "zig-mmdc reframes Mermaid rendering as a compiler pipeline (lexer → parser → layout → emitter), eliminating the need for a browser runtime entirely.",
+                  "Chromium-based rendering carries a 300MB footprint and cold start penalties that are unacceptable for CI/CD and embedded use cases.",
+                  "AST-based geometric layout computes node positions and edge routing mathematically, emitting clean SVG without DOM or CSS dependencies.",
+                  "Zig's WASM symmetry, zero runtime overhead, and explicit allocator model provide deterministic memory control ideal for a self-contained compilation engine."
+                ],
+                "topics": [
+                  "zig-mmdc",
+                  "mermaid",
+                  "compiler pipeline",
+                  "AST layout",
+                  "SVG emission",
+                  "Zig",
+                  "WASM",
+                  "zero-dependency"
+                ]
+              }
             },
             {
               "id": "lsjfczYFBeQ",
@@ -7816,7 +8182,27 @@
                 "map",
                 "stack",
                 "heap"
-              ]
+              ],
+              "detail": {
+                "summary": "This video provides a comprehensive guide to Go pointers, covering fundamentals like address-of (&) and dereference (*) operators, pass-by-value versus pass-by-pointer semantics, and pointer receivers for struct mutation. It dives into escape analysis to explain when variables land on the stack versus heap, examines when pointers are genuinely needed (mutating state, avoiding heavy copies, nil semantics, shared state), and clarifies how slices and maps behave as reference-like types under the hood and interact with Go's garbage collector.",
+                "takeaways": [
+                  "Go is strictly pass-by-value; pointers are required to mutate caller state, and pointer receivers are the idiomatic pattern for struct methods that modify fields.",
+                  "Escape analysis determines stack vs heap allocation—understanding it prevents unnecessary heap pressure and GC overhead.",
+                  "Pointers should be used deliberately: for mutating state, avoiding copies of large structs, expressing nil semantics, or sharing state across goroutines.",
+                  "Slices and maps already contain internal pointers (header structs with backing arrays/hash tables), so passing them by pointer is rarely necessary and often a code smell."
+                ],
+                "topics": [
+                  "Go pointers",
+                  "address-of & dereference",
+                  "pass-by-value",
+                  "pointer receivers",
+                  "escape analysis",
+                  "stack vs heap",
+                  "slices",
+                  "maps",
+                  "garbage collector"
+                ]
+              }
             },
             {
               "id": "MuDJGnGTn3k",
@@ -8599,7 +8985,30 @@
                 "sqlite",
                 "zig",
                 "search"
-              ]
+              ],
+              "detail": {
+                "summary": "This presentation explores ZMD, a local-first zero-dependency search engine rewritten in native Zig from its QMD predecessor. It details the hybrid scoring pipeline that combines BM25 full-text search, cosine vector similarity, reciprocal rank fusion (RRF), and LLM-based reranking—all with scores normalized to a 0–1 range. The single static binary embeds SQLite (with FTS5 and sqlite-vec), Tree-sitter for syntax-aware chunking, and llama.cpp for optional embeddings, requiring no external runtime dependencies.",
+                "takeaways": [
+                  "ZMD compiles into a single static binary embedding SQLite 3, Tree-sitter, and llama.cpp with zero runtime dependencies for maximum portability and privacy.",
+                  "The hybrid search pipeline normalizes BM25 keyword scores and cosine vector similarity to 0–1, fuses them via reciprocal rank fusion (RRF), then applies LLM-based confidence-weighted reranking.",
+                  "A build-time `-fno-sanitize=undefined` flag is required to work around a known benign signed integer overflow in SQLite's FTS5 porter stemmer that triggers Zig's UB sanitizer.",
+                  "All score-based sorting and top-K truncation occur internally before results reach the CLI output layer, ensuring only the most relevant data is delivered."
+                ],
+                "topics": [
+                  "ZMD",
+                  "QMD",
+                  "Zig",
+                  "SQLite",
+                  "FTS5",
+                  "BM25",
+                  "cosine similarity",
+                  "RRF",
+                  "LLM reranking",
+                  "Tree-sitter",
+                  "llama.cpp",
+                  "local-first search"
+                ]
+              }
             },
             {
               "id": "wKzz0jKiScM",
@@ -8609,7 +9018,30 @@
               "category": "development",
               "tags": [
                 "emacs"
-              ]
+              ],
+              "detail": {
+                "summary": "This presentation architects a polyglot modern IDE within Emacs 29+ using evil-mode for Vim keybindings. It establishes a foundational triad—modern intelligence (Eglot/Tree-sitter), modal editing (evil-mode), and polyglot language support—then provides a detailed Neovim-to-Emacs translation matrix mapping familiar tools like lazy.nvim, Telescope, and nvim-cmp to their Emacs counterparts (use-package, Vertico/Consult, Corfu/Cape). The session walks through sensible defaults configuration, LSP integration, and the rationale for combining both editor paradigms into a single cohesive environment.",
+                "takeaways": [
+                  "The foundational triad pairs Emacs 29's built-in Eglot and Tree-sitter with evil-mode's zero-friction modal editing and first-class polyglot support for OCaml, Python, TypeScript, Rust, Go, Zig, and Elixir.",
+                  "A translation matrix maps Neovim plugins one-to-one: lazy.nvim → use-package/Melpa, Telescope → Vertico/Consult/Orderless/Marginalia, nvim-cmp → Corfu/Cape, Fugitive → Magit.",
+                  "Sensible defaults include four-space indentation, 80-column fill, eight-line scroll margin, conservative scrolling, and routing backup files out of working directories.",
+                  "Using built-in Eglot and Tree-sitter eliminates bulky external dependencies, resulting in a faster and more stable development environment compared to plugin-heavy configurations."
+                ],
+                "topics": [
+                  "Emacs 29",
+                  "evil-mode",
+                  "Eglot",
+                  "Tree-sitter",
+                  "use-package",
+                  "Vertico",
+                  "Consult",
+                  "Corfu",
+                  "Cape",
+                  "Magit",
+                  "Neovim migration",
+                  "LSP"
+                ]
+              }
             },
             {
               "id": "tyR8SdHpOeY",
@@ -9355,7 +9787,26 @@
             "llm",
             "assisted",
             "engineering"
-          ]
+          ],
+          "detail": {
+            "summary": "This video explores the systemic mechanics of LLM-assisted engineering, identifying approximately 10,000 lines of code across 20 files as the optimal codebase scale where large language models transition from basic autocomplete into sophisticated architectural collaborators. It contrasts this sweet spot against the brittleness cliff beyond 50,000 lines, analyzing the shift from memory capacity bottlenecks to attention dispersion as the primary constraint on reasoning fidelity.",
+            "takeaways": [
+              "LLM efficacy is constrained not by memory capacity but by attention dispersion — as context grows, signal-to-noise ratio degrades and the model's ability to maintain logical coherence across dependencies collapses.",
+              "The systemic reasoning zone extends to approximately 60,000 tokens; beyond this threshold, models achieve perfect single-needle recall but fail to connect disparate pieces of information across the codebase.",
+              "At the sweet spot (~10k LOC, ~20 files), models achieve comprehensive whole-project reasoning with explicit shallow architecture, while the brittleness cliff (~50k+ LOC) forces them into localized syntax fixes due to opaque deep indirection.",
+              "Architectural indirection — heavy inversion of control, deep abstraction layers, and implicit wiring — is the primary structural challenge that degrades LLM collaboration quality at scale."
+            ],
+            "topics": [
+              "llm-assisted engineering",
+              "10k loc sweet spot",
+              "attention dispersion",
+              "systemic reasoning zone",
+              "signal-to-noise ratio",
+              "brittleness cliff",
+              "architectural indirection",
+              "context window limits"
+            ]
+          }
         },
         {
           "id": "xkHQhOgapfY",
@@ -9368,7 +9819,30 @@
             "sqlite",
             "zig",
             "search"
-          ]
+          ],
+          "detail": {
+            "summary": "This presentation explores ZMD, a local-first zero-dependency search engine rewritten in native Zig from its QMD predecessor. It details the hybrid scoring pipeline that combines BM25 full-text search, cosine vector similarity, reciprocal rank fusion (RRF), and LLM-based reranking—all with scores normalized to a 0–1 range. The single static binary embeds SQLite (with FTS5 and sqlite-vec), Tree-sitter for syntax-aware chunking, and llama.cpp for optional embeddings, requiring no external runtime dependencies.",
+            "takeaways": [
+              "ZMD compiles into a single static binary embedding SQLite 3, Tree-sitter, and llama.cpp with zero runtime dependencies for maximum portability and privacy.",
+              "The hybrid search pipeline normalizes BM25 keyword scores and cosine vector similarity to 0–1, fuses them via reciprocal rank fusion (RRF), then applies LLM-based confidence-weighted reranking.",
+              "A build-time `-fno-sanitize=undefined` flag is required to work around a known benign signed integer overflow in SQLite's FTS5 porter stemmer that triggers Zig's UB sanitizer.",
+              "All score-based sorting and top-K truncation occur internally before results reach the CLI output layer, ensuring only the most relevant data is delivered."
+            ],
+            "topics": [
+              "ZMD",
+              "QMD",
+              "Zig",
+              "SQLite",
+              "FTS5",
+              "BM25",
+              "cosine similarity",
+              "RRF",
+              "LLM reranking",
+              "Tree-sitter",
+              "llama.cpp",
+              "local-first search"
+            ]
+          }
         },
         {
           "id": "FM6zp63maS8",
@@ -9381,7 +9855,26 @@
             "rust",
             "hexcap",
             "agent"
-          ]
+          ],
+          "detail": {
+            "summary": "This video presents hexcap, a Rust-based TUI packet capture tool designed to bridge the speed of tcpdump with the analytical depth of Wireshark. It details the dual-thread architecture where a dedicated capture thread feeds packets through Arc<Mutex> shared state to a Ratatui-powered UI render loop. The talk explains the deliberate decision to avoid Tokio due to blocking libpcap FFI, and covers graceful interface switching and protocol decoding within the terminal.",
+            "takeaways": [
+              "hexcap occupies the gap between tcpdump's speed and Wireshark's analysis depth, delivering both in a terminal-native interface.",
+              "The dual-thread architecture separates packet capture from UI rendering, using Arc<Mutex> shared state to decouple the blocking libpcap FFI from the responsive Ratatui display.",
+              "Tokio was intentionally excluded because libpcap's blocking FFI calls would starve the async runtime, making OS threads the correct concurrency model.",
+              "Graceful interface switching and layered protocol decoding give operators Wireshark-level insight without leaving the terminal."
+            ],
+            "topics": [
+              "hexcap",
+              "packet capture",
+              "Rust",
+              "TUI",
+              "libpcap FFI",
+              "Ratatui",
+              "Arc<Mutex>",
+              "protocol decoding"
+            ]
+          }
         },
         {
           "id": "vtzEOYX_8k8",
@@ -9394,7 +9887,31 @@
             "capture",
             "wireshark",
             "libpcap"
-          ]
+          ],
+          "detail": {
+            "summary": "This session provides a comprehensive architectural overview of the Wireshark ecosystem, tracing network data from physical wire capture through to GUI visualization. It covers the capture foundation (libpcap on Unix, npcap on Windows), the privilege separation model that isolates the minimal dumpcap process from the heavyweight dissection engine, and the core toolkit of Wireshark, TShark, editcap, and mergecap. The presentation also explains capture filters (BPF-compiled at the kernel level) versus display filters, the dissector architecture, and the pcapng file format.",
+            "takeaways": [
+              "Wireshark delegates raw packet capture to OS-level libraries (libpcap/npcap) and uses privilege separation via dumpcap to minimize the root-privileged attack surface.",
+              "The core toolkit comprises four utilities: Wireshark (interactive GUI), TShark (CLI dissection), editcap (trace editing), and mergecap (trace merging).",
+              "Capture filters compile down to BPF bytecode and execute in kernel space for performance, while display filters operate post-capture on the full dissection tree.",
+              "The dissector architecture parses packets layer-by-layer, and the pcapng format supersedes pcap with per-packet metadata and multi-interface support."
+            ],
+            "topics": [
+              "Wireshark",
+              "libpcap",
+              "npcap",
+              "dumpcap",
+              "TShark",
+              "editcap",
+              "mergecap",
+              "BPF",
+              "capture filter",
+              "display filter",
+              "dissector",
+              "pcapng",
+              "Qt GUI"
+            ]
+          }
         },
         {
           "id": "wKzz0jKiScM",
@@ -9404,7 +9921,30 @@
           "category": "development",
           "tags": [
             "emacs"
-          ]
+          ],
+          "detail": {
+            "summary": "This presentation architects a polyglot modern IDE within Emacs 29+ using evil-mode for Vim keybindings. It establishes a foundational triad—modern intelligence (Eglot/Tree-sitter), modal editing (evil-mode), and polyglot language support—then provides a detailed Neovim-to-Emacs translation matrix mapping familiar tools like lazy.nvim, Telescope, and nvim-cmp to their Emacs counterparts (use-package, Vertico/Consult, Corfu/Cape). The session walks through sensible defaults configuration, LSP integration, and the rationale for combining both editor paradigms into a single cohesive environment.",
+            "takeaways": [
+              "The foundational triad pairs Emacs 29's built-in Eglot and Tree-sitter with evil-mode's zero-friction modal editing and first-class polyglot support for OCaml, Python, TypeScript, Rust, Go, Zig, and Elixir.",
+              "A translation matrix maps Neovim plugins one-to-one: lazy.nvim → use-package/Melpa, Telescope → Vertico/Consult/Orderless/Marginalia, nvim-cmp → Corfu/Cape, Fugitive → Magit.",
+              "Sensible defaults include four-space indentation, 80-column fill, eight-line scroll margin, conservative scrolling, and routing backup files out of working directories.",
+              "Using built-in Eglot and Tree-sitter eliminates bulky external dependencies, resulting in a faster and more stable development environment compared to plugin-heavy configurations."
+            ],
+            "topics": [
+              "Emacs 29",
+              "evil-mode",
+              "Eglot",
+              "Tree-sitter",
+              "use-package",
+              "Vertico",
+              "Consult",
+              "Corfu",
+              "Cape",
+              "Magit",
+              "Neovim migration",
+              "LSP"
+            ]
+          }
         },
         {
           "id": "feWjiYzQQ-k",
@@ -9419,7 +9959,28 @@
             "ureq",
             "qc",
             "whispers"
-          ]
+          ],
+          "detail": {
+            "summary": "This video introduces Pastel Market, a high-performance Rust TUI that consolidates two earlier tools — Pastel Picker (earnings intelligence and FinViz screening) and Reigns Market (real-time Yahoo Finance monitoring) — into a single unified binary. The merger eliminated approximately 400 lines of duplicated FinViz scraping code and unified 16 UI themes through a shared market-core crate, while adopting ureq over reqwest for a lighter binary footprint and targeting Rust 2024 edition with MSRV 1.95.0.",
+            "takeaways": [
+              "Strategic consolidation of Pastel Picker and Reigns Market into a single binary via a shared market-core crate eliminates architectural redundancy and centralizes terminal lifecycle management.",
+              "Dynamic seeding replaces static default symbols by pulling the top 20 active stocks from Yahoo Finance screeners on launch, with fallback through gainers, losers, and most-active lists.",
+              "Reactive UI wiring maps every navigation and input event to an explicit backend reaction, ensuring zero stale states across the watchlist, screening, and signaling views.",
+              "The project chose ureq over reqwest for lighter binary size and built-in cookie jar support, with modular workspace crates enabling independent testing via cargo test."
+            ],
+            "topics": [
+              "rust tui",
+              "market-core crate",
+              "pastel picker",
+              "reigns market",
+              "yahoo finance screeners",
+              "dynamic seeding",
+              "sector visibility",
+              "reactive ui",
+              "ureq",
+              "rust 2024 edition"
+            ]
+          }
         },
         {
           "id": "wZC8NL32yfg",
@@ -9432,7 +9993,28 @@
             "server push",
             "http",
             "near-zero"
-          ]
+          ],
+          "detail": {
+            "summary": "This presentation is an architectural guide to long polling and its role in achieving near-zero latency for server-initiated updates. It contrasts short polling's wasteful fixed-interval requests with long polling's held-connection cycle, which eliminates empty round trips by keeping the HTTP request open until data arrives or a timeout is reached. The video also models event volatility across real-world domains (logistics, support chat, live dashboards) and highlights long polling's infrastructure advantage over WebSockets for firewall and proxy compatibility.",
+            "takeaways": [
+              "Long polling's four-phase cycle—client request, server hold, response delivery, immediate reconnect—eliminates the empty responses and wasted CPU of fixed-interval short polling.",
+              "Long polling operates over standard HTTP, passing seamlessly through corporate firewalls and proxies that would block WebSocket protocol upgrades.",
+              "Event volatility modeling across logistics (sparse), support chat (bursty), and live dashboards (high-density) demonstrates that fixed polling intervals are inherently inefficient for unpredictable update patterns.",
+              "Latency is reduced to near-zero by holding connections open and delivering data the instant it becomes available, rather than waiting for the next poll cycle."
+            ],
+            "topics": [
+              "long polling",
+              "short polling",
+              "server push",
+              "held connection",
+              "HTTP compatibility",
+              "WebSockets",
+              "event volatility",
+              "latency",
+              "firewalls",
+              "live dashboards"
+            ]
+          }
         },
         {
           "id": "izLrX-02IQk",
@@ -9445,7 +10027,26 @@
             "v1.95.0",
             "cfg_select!",
             "if-let guard"
-          ]
+          ],
+          "detail": {
+            "summary": "This video provides a technical briefing on the Rust 1.95.0 release, covering three primary update areas: expressive control flow with if-let guards in match expressions, build configuration via the new native cfg_select! macro, and standard library expansion with 35+ stabilized APIs and extended const context support. It also walks through rustup channel management for stable, beta, and nightly toolchains.",
+            "takeaways": [
+              "The cfg_select! macro is now part of the standard library, providing native compile-time matching on configuration predicates with sequential evaluation and fallback — eliminating the need for the external cfg-if crate.",
+              "If-let guards integrate pattern matching directly into match arms, enabling more flexible and readable conditional logic that builds on the earlier stabilization of let chains.",
+              "Over 35 core APIs were stabilized in this release alongside significant expansion of functionality available in const contexts, broadening what can be computed at compile time.",
+              "Rustup channel management (stable, beta, nightly) gives developers full control over balancing production stability with access to experimental features."
+            ],
+            "topics": [
+              "rust 1.95.0",
+              "cfg_select! macro",
+              "cfg-if crate",
+              "if-let guards",
+              "match expressions",
+              "stabilized apis",
+              "const contexts",
+              "rustup channels"
+            ]
+          }
         },
         {
           "id": "q-6cUColzQQ",
@@ -9456,7 +10057,26 @@
           "tags": [
             "flutter",
             "web"
-          ]
+          ],
+          "detail": {
+            "summary": "This presentation decodes Flutter Web's architecture, tracing its origins from a Chrome fork through a mobile-only hard fork and back to a web port via specialized HTML and canvas backends. It explains how Flutter uniquely prioritizes canvas-based rendering over the DOM, bypassing traditional browser abstractions to control every pixel on screen. The video concludes by identifying ideal use cases—internal tools, data dashboards, and kiosks—where Flutter Web's app-centric model excels over content-driven web pages.",
+            "takeaways": [
+              "Flutter is a UI framework that renders the entire screen directly to hardware, bypassing DOM tree abstractions for pixel-perfect GPU-driven output.",
+              "Flutter Web was never originally intended for the web; it was born from frustration with three-year standardization lags in web platform specs.",
+              "Two rendering backends exist for Flutter Web: the HTML renderer for broad compatibility and the CanvasKit renderer (plus the newer Wasm-native target) for high-fidelity graphics.",
+              "Flutter Web is best suited for web apps—internal tools, data dashboards, and kiosks—rather than content-driven web pages that depend on SEO and document semantics."
+            ],
+            "topics": [
+              "flutter web",
+              "canvas rendering",
+              "DOM vs GPU",
+              "HTML renderer",
+              "CanvasKit",
+              "Wasm",
+              "web app vs web page",
+              "Dart"
+            ]
+          }
         },
         {
           "id": "VHuQi_1t5qQ",
@@ -9472,7 +10092,27 @@
             "map",
             "stack",
             "heap"
-          ]
+          ],
+          "detail": {
+            "summary": "This video provides a comprehensive guide to Go pointers, covering fundamentals like address-of (&) and dereference (*) operators, pass-by-value versus pass-by-pointer semantics, and pointer receivers for struct mutation. It dives into escape analysis to explain when variables land on the stack versus heap, examines when pointers are genuinely needed (mutating state, avoiding heavy copies, nil semantics, shared state), and clarifies how slices and maps behave as reference-like types under the hood and interact with Go's garbage collector.",
+            "takeaways": [
+              "Go is strictly pass-by-value; pointers are required to mutate caller state, and pointer receivers are the idiomatic pattern for struct methods that modify fields.",
+              "Escape analysis determines stack vs heap allocation—understanding it prevents unnecessary heap pressure and GC overhead.",
+              "Pointers should be used deliberately: for mutating state, avoiding copies of large structs, expressing nil semantics, or sharing state across goroutines.",
+              "Slices and maps already contain internal pointers (header structs with backing arrays/hash tables), so passing them by pointer is rarely necessary and often a code smell."
+            ],
+            "topics": [
+              "Go pointers",
+              "address-of & dereference",
+              "pass-by-value",
+              "pointer receivers",
+              "escape analysis",
+              "stack vs heap",
+              "slices",
+              "maps",
+              "garbage collector"
+            ]
+          }
         },
         {
           "id": "E8f87EV4k3A",
@@ -9485,7 +10125,26 @@
             "mmdc",
             "mermaid",
             "compiler"
-          ]
+          ],
+          "detail": {
+            "summary": "This video introduces zig-mmdc, a zero-dependency Mermaid diagram engine built in Zig that treats diagram generation as a compilation problem rather than a rendering one. It explains why eliminating the Chromium dependency—with its 300MB footprint and cold start delays—led to an AST-based geometric layout approach that emits SVG directly without DOM or CSS. The talk covers the full compilation pipeline from lexer through parser, layout, and emitter, and why Zig's WASM symmetry, zero runtime, and explicit allocators make it the ideal language for this architecture.",
+            "takeaways": [
+              "zig-mmdc reframes Mermaid rendering as a compiler pipeline (lexer → parser → layout → emitter), eliminating the need for a browser runtime entirely.",
+              "Chromium-based rendering carries a 300MB footprint and cold start penalties that are unacceptable for CI/CD and embedded use cases.",
+              "AST-based geometric layout computes node positions and edge routing mathematically, emitting clean SVG without DOM or CSS dependencies.",
+              "Zig's WASM symmetry, zero runtime overhead, and explicit allocator model provide deterministic memory control ideal for a self-contained compilation engine."
+            ],
+            "topics": [
+              "zig-mmdc",
+              "mermaid",
+              "compiler pipeline",
+              "AST layout",
+              "SVG emission",
+              "Zig",
+              "WASM",
+              "zero-dependency"
+            ]
+          }
         },
         {
           "id": "lsjfczYFBeQ",
@@ -14358,7 +15017,27 @@
             "mandate",
             "dpia",
             "compliance"
-          ]
+          ],
+          "detail": {
+            "summary": "This video presents a GDPR engineering blueprint, translating privacy-by-design principles into concrete architectural patterns. It covers the six core data privacy principles—accountability, data minimization, purpose limitation, lawful basis, transparency, and security—and maps each to implementation strategies including consent management, DPIA methodology, cross-border data transfer mechanisms, breach notification workflows, anonymization gateways, and privacy-enhancing technologies (PETs).",
+            "takeaways": [
+              "Privacy-by-design is an architectural mandate, not a compliance checkbox—it must be embedded into system design from the data model layer upward.",
+              "The six GDPR principles (accountability, data minimization, purpose limitation, lawful basis, transparency, security) each demand specific engineering controls, not just policy documents.",
+              "DPIAs provide a structured methodology for identifying and mitigating privacy risks before systems go live, serving as both a compliance artifact and an architectural review tool.",
+              "Anonymization gateways and PETs (differential privacy, homomorphic encryption, secure enclaves) enable data utility while preserving individual privacy rights across jurisdictional boundaries."
+            ],
+            "topics": [
+              "GDPR",
+              "privacy-by-design",
+              "data privacy principles",
+              "consent management",
+              "DPIA",
+              "cross-border transfers",
+              "breach notification",
+              "anonymization",
+              "PETs"
+            ]
+          }
         },
         {
           "id": "u8XCBK6lGw0",

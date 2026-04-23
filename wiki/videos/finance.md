@@ -30,7 +30,7 @@ updated: 2026-04-23
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Decoding the Black Box of Global Finance | 46 | Apr 17, 2026 | [Watch](https://youtu.be/1smShC18TWA) |  |
+| 1 | Decoding the Black Box of Global Finance | 46 | Apr 17, 2026 | [Watch](https://youtu.be/1smShC18TWA) | [Wiki](details/1smShC18TWA.md) |
 | 2 | The End of the American Penny | 3 | Apr 15, 2026 | [Watch](https://youtu.be/vzwjAlEz_bI) | [Wiki](details/vzwjAlEz_bI.md) |
 | 3 | Nesting in Global Finance | 6 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) | [Wiki](details/YYVxMSqBqe8.md) |
 | 4 | The Mystery of the Nickel Coke | 9 | Apr 10, 2026 | [Watch](https://youtu.be/l9UUqD2Bz2E) | [Wiki](details/l9UUqD2Bz2E.md) |

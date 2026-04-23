@@ -22,6 +22,7 @@ layer across raw transcripts and synthesized detail pages.
 - Detail pages: `wiki/videos/details/`
 - Detail failures: `wiki/videos/details/_failed.json`
 - Wiki log: `wiki/log.md`
+- Wiki bundle (web app data): `homepage/public/wiki-bundle.json`
 - Scripts:
   - `homepage/scripts/export-transcripts.ts`
   - `homepage/scripts/generate-video-details.ts`
@@ -60,22 +61,39 @@ zmd update wiki
 
 3) Generate details from raw transcripts
 
-**Preferred: Direct LLM generation (no Gemini API needed)**
+Raw transcripts in `wiki/raw/transcripts/<VIDEO_ID>.md` are the source of truth.
+Generate detail pages directly from them — no Gemini API call needed.
 
-Read each raw transcript (`wiki/raw/transcripts/<VIDEO_ID>.md`), analyze the
-`## Transcript` section, and write the detail page to
-`wiki/videos/details/<VIDEO_ID>.md`. Use the Task tool with parallel batches
-for bulk generation. Each detail page must include:
+For each video missing a detail page:
 
-- Frontmatter: `type`, `videoId`, `category`, `tags`, `views`, `date`, `summarized`
+1. Read the raw transcript (`wiki/raw/transcripts/<VIDEO_ID>.md`).
+2. Extract metadata from its frontmatter (`videoId`, `category`, `tags`, `views`, `date`).
+3. Analyze the `## Transcript` section.
+4. Write the detail page to `wiki/videos/details/<VIDEO_ID>.md`.
+
+Use the Task tool with parallel batches for bulk generation. Each detail page
+must include:
+
+- Frontmatter: `type: video`, `videoId`, `category`, `tags`, `views`, `date`, `summarized` (ISO timestamp of generation)
 - `## Summary` — 2-3 sentences naming specific technologies
 - `## Key Takeaways` — 3-5 concrete, single-sentence takeaways
-- `## Topics Covered` — 3-8 backtick-wrapped lowercase topic phrases
-- `## Tags` — only if the raw transcript has a `tags` frontmatter field
+- `## Topics Covered` — 3-8 backtick-wrapped lowercase topic phrases joined by ` · `
+- `## Tags` — link each tag to `../tags/<tag>.md`; only if the raw transcript has a `tags` frontmatter field
 
-See any existing complete detail page for the exact template.
+See any existing complete detail page (e.g. `wiki/videos/details/00kCzR10M1w.md`)
+for the exact template including footer format.
 
-**Fallback: Script-based generation (requires Gemini API key)**
+To find videos missing detail pages:
+
+```bash
+# List raw transcripts without a corresponding detail page
+for f in wiki/raw/transcripts/*.md; do
+  id=$(basename "$f" .md)
+  [ ! -f "wiki/videos/details/${id}.md" ] && echo "$id"
+done
+```
+
+**Legacy fallback: Script-based generation (requires Gemini API key)**
 
 ```bash
 task wiki:details -- --top 50
@@ -83,17 +101,52 @@ task wiki:details -- --top 50
 task wiki:details -- --all
 ```
 
-4) Regenerate wiki pages/indexes
+This calls `generate-video-details.ts` which fetches transcripts from YouTube
+and summarizes via Gemini. Prefer the direct LLM approach above since raw
+transcripts already exist locally.
+
+4) **Regenerate wiki bundle (REQUIRED after any detail page changes)**
 
 ```bash
 bun --cwd homepage scripts/generate-wiki.ts
 ```
+
+This regenerates both the wiki markdown pages AND `homepage/public/wiki-bundle.json`.
+The bundle is what the web app reads at runtime — without this step, new detail
+pages will exist on disk but won't appear in the UI (no detail badge, no wiki
+summary page content).
+
+> **Why this matters:** `generate-video-details.ts` auto-calls `generate-wiki.ts`
+> at the end, but ONLY when `generated > 0`. If details were created via direct
+> LLM generation, or if the script ran but all pages were already cached
+> (`generated === 0`), the bundle will be stale. Always regenerate explicitly
+> after adding or modifying detail pages outside the script pipeline.
 
 5) Reindex after detail updates
 
 ```bash
 zmd update wiki
 ```
+
+## Bundle Verification
+
+After regenerating, verify all detail pages are included in the bundle:
+
+```bash
+cat homepage/public/wiki-bundle.json | uv run python -c "
+import json, sys
+data = json.load(sys.stdin)
+total = sum(len(c['videos']) for c in data['categories'])
+with_detail = sum(1 for c in data['categories'] for v in c['videos'] if 'detail' in v)
+print(f'Total: {total}, With detail: {with_detail}, Missing: {total - with_detail}')
+"
+```
+
+Expected: `Missing: 0` when all detail `.md` files have valid Summary sections.
+
+If a video is missing from the bundle despite having a detail `.md` file, check
+that the file contains a `## Summary` section — `loadVideoDetails()` in
+`generate-wiki.ts` skips files without one.
 
 ## Failure-Driven Retry Strategy
 
@@ -181,6 +234,8 @@ zmd get "zmd://wiki/raw/transcripts/<VIDEO_ID>.md"
 - Prefer incremental generation and failure-targeted retries.
 - Keep `wiki/log.md` append-only and parseable.
 - Reindex (`zmd update wiki`) after any bulk wiki changes.
+- **Always regenerate `wiki-bundle.json`** after adding/modifying detail pages.
+  The web app reads from the bundle, not from the markdown files directly.
 - **Do not commit empty or stub files:**
   - `wiki/raw/transcripts/*.md` files must contain a `## Transcript` section
     with actual transcript text. Files that are zero-byte, frontmatter-only,

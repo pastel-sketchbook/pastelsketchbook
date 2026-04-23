@@ -39,7 +39,7 @@ updated: 2026-04-23
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Designing for Privacy | 30 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) |  |
+| 1 | Designing for Privacy | 30 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
 | 2 | Custom Graphs in Microsoft Sentinel (Preview) | 53 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
 | 3 | Black-Hat LLMs: The End of the 20-Year Security Balance | 70 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) | [Wiki](details/Zeg8zSOvoyE.md) |
 | 4 | 2FA Orchestration in PingFederate | 10 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) | [Wiki](details/HxB-cJIbEgE.md) |

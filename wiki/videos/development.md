@@ -23,9 +23,9 @@ updated: 2026-04-23
 
 ### Rust (35 videos)
 
-- [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) -- 50 views, Apr 20, 2026
-- [Pastel Market: Engineering a Unified Terminal Workspace](https://youtu.be/feWjiYzQQ-k) -- 37 views, Apr 19, 2026
-- [Rust 1.95.0](https://youtu.be/izLrX-02IQk) -- 192 views, Apr 18, 2026
+- [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) -- 50 views, Apr 20, 2026 · [Details](details/FM6zp63maS8.md)
+- [Pastel Market: Engineering a Unified Terminal Workspace](https://youtu.be/feWjiYzQQ-k) -- 37 views, Apr 19, 2026 · [Details](details/feWjiYzQQ-k.md)
+- [Rust 1.95.0](https://youtu.be/izLrX-02IQk) -- 192 views, Apr 18, 2026 · [Details](details/izLrX-02IQk.md)
 - [Building vibe-rust](https://youtu.be/BT08SXPvV6U) -- 61 views, Apr 4, 2026 · [Details](details/BT08SXPvV6U.md)
 - [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) -- 4.1K views, Apr 3, 2026 · [Details](details/54lO6XE-AeQ.md)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) -- 50 views, Mar 28, 2026 · [Details](details/F59lTcC6xJ0.md)
@@ -61,9 +61,9 @@ updated: 2026-04-23
 
 ### AI & ML (33 videos)
 
-- [The 10k LOC Sweet Spot](https://youtu.be/pgTCcVO4gfg) -- 8 views, Apr 21, 2026
-- [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) -- 24 views, Apr 18, 2026
-- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) -- 139 views, Apr 17, 2026
+- [The 10k LOC Sweet Spot](https://youtu.be/pgTCcVO4gfg) -- 8 views, Apr 21, 2026 · [Details](details/pgTCcVO4gfg.md)
+- [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) -- 24 views, Apr 18, 2026 · [Details](details/q-6cUColzQQ.md)
+- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) -- 139 views, Apr 17, 2026 · [Details](details/E8f87EV4k3A.md)
 - [The Evolution of RFCs in the Al Era](https://youtu.be/lsjfczYFBeQ) -- 28 views, Apr 16, 2026 · [Details](details/lsjfczYFBeQ.md)
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) -- 53 views, Apr 13, 2026 · [Details](details/j8lMpSezavQ.md)
 - [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) -- 106 views, Apr 10, 2026 · [Details](details/TEGFwsAcxK8.md)
@@ -97,7 +97,7 @@ updated: 2026-04-23
 
 ### Go (26 videos)
 
-- [Mastering Go Pointers](https://youtu.be/VHuQi_1t5qQ) -- 70 views, Apr 17, 2026
+- [Mastering Go Pointers](https://youtu.be/VHuQi_1t5qQ) -- 70 views, Apr 17, 2026 · [Details](details/VHuQi_1t5qQ.md)
 - [Leetgo](https://youtu.be/MuDJGnGTn3k) -- 52 views, Apr 9, 2026 · [Details](details/MuDJGnGTn3k.md)
 - [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) -- 75 views, Apr 6, 2026 · [Details](details/IYfTi_HNDl4.md)
 - [Generative Al at Scale](https://youtu.be/uU46ltIELqk) -- 14 views, Mar 27, 2026 · [Details](details/uU46ltIELqk.md)
@@ -126,8 +126,8 @@ updated: 2026-04-23
 
 ### Architecture (8 videos)
 
-- [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) -- 21 views, Apr 21, 2026
-- [Emacs Architecture, Neovim Philosophy](https://youtu.be/wKzz0jKiScM) -- 242 views, Apr 19, 2026
+- [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) -- 21 views, Apr 21, 2026 · [Details](details/xkHQhOgapfY.md)
+- [Emacs Architecture, Neovim Philosophy](https://youtu.be/wKzz0jKiScM) -- 242 views, Apr 19, 2026 · [Details](details/wKzz0jKiScM.md)
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) -- 30 views, Apr 12, 2026 · [Details](details/tyR8SdHpOeY.md)
 - [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) -- 4.1K views, Apr 3, 2026 · [Details](details/54lO6XE-AeQ.md)
 - [The Architect's Baton](https://youtu.be/6WRiPikxs-Q) -- 125 views, Mar 7, 2026 · [Details](details/6WRiPikxs-Q.md)
@@ -168,17 +168,17 @@ updated: 2026-04-23
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | The 10k LOC Sweet Spot | 8 | Apr 21, 2026 | [Watch](https://youtu.be/pgTCcVO4gfg) |  |
-| 2 | ZMD Architecture & Evolution | 21 | Apr 21, 2026 | [Watch](https://youtu.be/xkHQhOgapfY) |  |
-| 3 | hexcap: Elevating Terminal Packet Capture | 50 | Apr 20, 2026 | [Watch](https://youtu.be/FM6zp63maS8) |  |
-| 4 | Packet Capture Fundamentals | 33 | Apr 20, 2026 | [Watch](https://youtu.be/vtzEOYX_8k8) |  |
-| 5 | Emacs Architecture, Neovim Philosophy | 242 | Apr 19, 2026 | [Watch](https://youtu.be/wKzz0jKiScM) |  |
-| 6 | Pastel Market: Engineering a Unified Terminal Workspace | 37 | Apr 19, 2026 | [Watch](https://youtu.be/feWjiYzQQ-k) |  |
-| 7 | Emulating the Server Push | 16 | Apr 19, 2026 | [Watch](https://youtu.be/wZC8NL32yfg) |  |
-| 8 | Rust 1.95.0 | 192 | Apr 18, 2026 | [Watch](https://youtu.be/izLrX-02IQk) |  |
-| 9 | Flutter Web Explained | 24 | Apr 18, 2026 | [Watch](https://youtu.be/q-6cUColzQQ) |  |
-| 10 | Mastering Go Pointers | 70 | Apr 17, 2026 | [Watch](https://youtu.be/VHuQi_1t5qQ) |  |
-| 11 | A Compiler, Not a Renderer | 139 | Apr 17, 2026 | [Watch](https://youtu.be/E8f87EV4k3A) |  |
+| 1 | The 10k LOC Sweet Spot | 8 | Apr 21, 2026 | [Watch](https://youtu.be/pgTCcVO4gfg) | [Wiki](details/pgTCcVO4gfg.md) |
+| 2 | ZMD Architecture & Evolution | 21 | Apr 21, 2026 | [Watch](https://youtu.be/xkHQhOgapfY) | [Wiki](details/xkHQhOgapfY.md) |
+| 3 | hexcap: Elevating Terminal Packet Capture | 50 | Apr 20, 2026 | [Watch](https://youtu.be/FM6zp63maS8) | [Wiki](details/FM6zp63maS8.md) |
+| 4 | Packet Capture Fundamentals | 33 | Apr 20, 2026 | [Watch](https://youtu.be/vtzEOYX_8k8) | [Wiki](details/vtzEOYX_8k8.md) |
+| 5 | Emacs Architecture, Neovim Philosophy | 242 | Apr 19, 2026 | [Watch](https://youtu.be/wKzz0jKiScM) | [Wiki](details/wKzz0jKiScM.md) |
+| 6 | Pastel Market: Engineering a Unified Terminal Workspace | 37 | Apr 19, 2026 | [Watch](https://youtu.be/feWjiYzQQ-k) | [Wiki](details/feWjiYzQQ-k.md) |
+| 7 | Emulating the Server Push | 16 | Apr 19, 2026 | [Watch](https://youtu.be/wZC8NL32yfg) | [Wiki](details/wZC8NL32yfg.md) |
+| 8 | Rust 1.95.0 | 192 | Apr 18, 2026 | [Watch](https://youtu.be/izLrX-02IQk) | [Wiki](details/izLrX-02IQk.md) |
+| 9 | Flutter Web Explained | 24 | Apr 18, 2026 | [Watch](https://youtu.be/q-6cUColzQQ) | [Wiki](details/q-6cUColzQQ.md) |
+| 10 | Mastering Go Pointers | 70 | Apr 17, 2026 | [Watch](https://youtu.be/VHuQi_1t5qQ) | [Wiki](details/VHuQi_1t5qQ.md) |
+| 11 | A Compiler, Not a Renderer | 139 | Apr 17, 2026 | [Watch](https://youtu.be/E8f87EV4k3A) | [Wiki](details/E8f87EV4k3A.md) |
 | 12 | The Evolution of RFCs in the Al Era | 28 | Apr 16, 2026 | [Watch](https://youtu.be/lsjfczYFBeQ) | [Wiki](details/lsjfczYFBeQ.md) |
 | 13 | OpenFeature: The Standard for Feature Flagging | 46 | Apr 16, 2026 | [Watch](https://youtu.be/X65YHZUnFq0) | [Wiki](details/X65YHZUnFq0.md) |
 | 14 | Zig 0.16.0: Architectural Decoupling | 587 | Apr 15, 2026 | [Watch](https://youtu.be/hTEG3TsuUPQ) | [Wiki](details/hTEG3TsuUPQ.md) |
