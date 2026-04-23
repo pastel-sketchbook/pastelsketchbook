@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 276
-updated: 2026-04-23
+sources: 288
+updated: 2026-04-25
 ---
 
 # Video Wiki Index
@@ -13,32 +13,32 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 276 |
-| Total Views | 22.2K |
+| Total Videos | 288 |
+| Total Views | 22.5K |
 | Categories | 6 |
-| Last Updated | Apr 22, 2026 |
+| Last Updated | Apr 25, 2026 |
 
 ## Categories
 
 ### [Korea](korea.md)
 
-Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 17 videos, 210 total views.
+Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 17 videos, 211 total views.
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 22 videos, 434 total views.
+Videos covering personal finance, investing, and economics. 22 videos, 435 total views.
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 59 videos, 1.6K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 63 videos, 1.6K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 159 videos, 19.4K total views.
+Videos about software development, tools, workflows, and engineering practices. 167 videos, 19.7K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 11 videos, 360 total views.
+Videos on cybersecurity, application security, and security engineering. 11 videos, 361 total views.
 
 ### [Programming](programming.md)
 
@@ -67,4 +67,4 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `hybrid` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Apr 22, 2026. See [wiki index](../index.md).*
+*Auto-generated on Apr 25, 2026. See [wiki index](../index.md).*

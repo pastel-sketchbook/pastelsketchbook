@@ -1,8 +1,8 @@
 /**
- * Generate per-video wiki detail pages from YouTube transcripts + Gemini summaries
+ * Generate per-video wiki detail pages from raw YouTube transcripts
  *
- * Fetches transcript for each video, summarizes via Gemini, and writes
- * individual markdown pages to wiki/videos/details/{id}.md
+ * Fetches transcript for each video and writes individual markdown
+ * pages to wiki/videos/details/{id}.md (no API calls made).
  *
  * Usage:
  *   bun scripts/generate-video-details.ts              # top 10 by views
@@ -16,7 +16,6 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs'
 import { resolve } from 'path'
 import { execSync } from 'child_process'
-import { GoogleGenAI } from '@google/genai'
 import { VIDEO_CONFIG } from '../src/config/videos'
 
 interface VideoMetadata {
@@ -33,12 +32,6 @@ interface MetadataFile {
   count: number
 }
 
-interface GeminiResult {
-  summary: string
-  takeaways: string[]
-  topics: string[]
-}
-
 interface FailedDetailEntry {
   id: string
   title: string
@@ -52,24 +45,10 @@ const RAW_TRANSCRIPTS_DIR = resolve(WIKI_ROOT, 'raw', 'transcripts')
 const FAILED_REPORT_PATH = resolve(WIKI_DETAILS, '_failed.json')
 const METADATA_PATH = resolve('public', 'videos-metadata.json')
 
-// Truncate transcript to stay within Gemini context limits
 const MAX_TRANSCRIPT_CHARS = 30_000
 
 const TRANSCRIPT_RETRIES = 3
 const TRANSCRIPT_RETRY_DELAY = 2000
-
-const SYSTEM_PROMPT = `You are a technical content analyst specializing in software engineering, programming languages, and systems design. Given a video transcript, produce a structured analysis.
-
-Guidelines:
-- Identify the specific technologies, languages, frameworks, or tools discussed (e.g., Zig, Rust, Go, Kubernetes).
-- Capture architectural decisions, trade-offs, and design philosophy — not just surface features.
-- For programming language videos, highlight what makes the language distinct (e.g., comptime in Zig, borrow checker in Rust).
-- Use precise technical terminology; avoid vague generalities.
-
-Respond in JSON with these fields:
-- "summary": A concise 2-3 sentence summary of what the video covers and its main thesis. Name the specific technology.
-- "takeaways": An array of 3-5 key takeaways, each a single clear sentence with concrete details.
-- "topics": An array of 3-8 key topics or concepts discussed (short phrases, lowercase, e.g. "zig comptime", "manual memory management").`
 
 // -- Env --
 
@@ -120,15 +99,6 @@ function sleep(ms: number): Promise<void> {
   return new Promise((r) => setTimeout(r, ms))
 }
 
-function isQuotaError(message: string): boolean {
-  const m = message.toLowerCase()
-  return (
-    m.includes('resource_exhausted') ||
-    m.includes('quota') ||
-    (m.includes('429') && m.includes('gemini'))
-  )
-}
-
 function writeFailedReport(
   failed: FailedDetailEntry[],
   runLabel: string,
@@ -166,14 +136,12 @@ function hasFullDetailContent(detailPath: string): boolean {
   const content = readFileSync(detailPath, 'utf-8')
 
   const hasSummary = /\n## Summary\n\n[\s\S]+?(?=\n## |\n---\n\*)/m.test(content)
-  const hasTakeaways = /\n## Key Takeaways\n\n- /m.test(content)
-  const hasTopics = /\n## Topics Covered\n\n`/m.test(content)
+  const hasTranscript = /\n## Transcript\n\n```[\s\S]*?```/m.test(content)
+  const transcriptUnavailable = content.includes('*Transcript unavailable for this video.*')
 
-  const isPlaceholder =
-    content.includes('Summary could not be generated.') ||
-    content.includes('*Transcript unavailable for this video.*')
-
-  return hasSummary && hasTakeaways && hasTopics && !isPlaceholder
+  // In transcript-only mode, "complete" means:
+  // - we either have a transcript embedded, or we explicitly recorded it's unavailable.
+  return hasSummary && (hasTranscript || transcriptUnavailable)
 }
 
 function parseArgs(): {
@@ -231,42 +199,13 @@ async function getTranscript(videoId: string): Promise<string | null> {
   return null
 }
 
-// -- Gemini --
-
-async function summarize(
-  ai: GoogleGenAI,
-  model: string,
-  transcript: string,
-): Promise<GeminiResult> {
-  const response = await ai.models.generateContent({
-    model,
-    contents: `Analyze this video transcript:\n\n${transcript}`,
-    config: {
-      systemInstruction: SYSTEM_PROMPT,
-      responseMimeType: 'application/json',
-    },
-  })
-
-  try {
-    const text = response.text ?? ''
-    return JSON.parse(text) as GeminiResult
-  } catch (parseError) {
-    console.warn(`    [warn] Failed to parse Gemini JSON response: ${parseError instanceof Error ? parseError.message : String(parseError)}`)
-    return {
-      summary: 'Summary could not be generated.',
-      takeaways: ['Analysis pending.'],
-      topics: [],
-    }
-  }
-}
-
 // -- Page Generation --
 
 function generateDetailPage(
   video: VideoMetadata,
   category: string,
-  result: GeminiResult | null,
   transcriptAvailable: boolean,
+  transcript: string | null,
 ): string {
   const now = new Date().toISOString()
   const tags = video.tags || []
@@ -287,30 +226,39 @@ function generateDetailPage(
     `> [${category}](../${category}.md) · ${fmtViews(video.views)} views · ${fmtDate(video.date)}`,
     `> [Watch on YouTube](https://youtu.be/${video.id})`,
     '',
-  ]
+  ] // end lines array initial
 
   if (!transcriptAvailable) {
     lines.push('## Summary', '', '*Transcript unavailable for this video.*', '')
-  } else if (result) {
-    lines.push('## Summary', '', result.summary, '')
-
-    if (result.takeaways.length > 0) {
-      lines.push('## Key Takeaways', '')
-      for (const t of result.takeaways) {
-        lines.push(`- ${t}`)
-      }
-      lines.push('')
+  } else if (transcript) {
+    lines.push(
+      '## Summary',
+      '',
+      '*Summary could not be generated (no Gemini API).*',
+      '*Transcript available below.*',
+      '',
+      '## Transcript',
+      '',
+      '```',
+      transcript.substring(0, 5000),
+      '```',
+      '',
+    )
+    if (transcript.length > 5000) {
+      lines.push(`*Transcript truncated (${transcript.length} chars). Full transcript in [raw wiki](../raw/transcripts/${video.id}.md).*`, '')
     }
-
-    if (result.topics.length > 0) {
-      lines.push(
-        '## Topics Covered',
-        '',
-        result.topics.map((t) => `\`${t}\``).join(' · '),
-        '',
-      )
-    }
+  } else {
+    lines.push(
+      '## Summary',
+      '',
+      '*Summary could not be generated (no Gemini API).*',
+      '',
+      '*Transcript available below.*',
+      '',
+    )
   }
+
+  lines.push('')
 
   if (tags.length > 0) {
     lines.push(
@@ -348,14 +296,6 @@ function appendLog(count: number, label: string) {
 async function main() {
   loadEnv()
 
-  const apiKey = process.env.VITE_GEMINI_API_KEY
-  const modelName = process.env.VITE_GEMINI_API_MODEL || 'gemini-3-flash-preview'
-
-  if (!apiKey) {
-    console.error('[error] VITE_GEMINI_API_KEY not set. Required for Gemini summarization.')
-    process.exit(1)
-  }
-
   if (!existsSync(METADATA_PATH)) {
     console.error('[error] videos-metadata.json not found. Run sync:videos first.')
     process.exit(1)
@@ -392,7 +332,6 @@ async function main() {
 
   mkdirSync(WIKI_DETAILS, { recursive: true })
 
-  const ai = new GoogleGenAI({ apiKey })
   let generated = 0
   let skipped = 0
   let loadedFromRaw = 0
@@ -433,32 +372,12 @@ async function main() {
       if (transcript) fetchedFromYoutube++
     }
 
-    // Summarize via Gemini
-    let result: GeminiResult | null = null
-    if (transcript) {
-      try {
-        result = await summarize(ai, modelName, transcript)
-      } catch (err) {
-        const msg = err instanceof Error ? err.message : String(err)
-        console.warn(`    [warn] Gemini error: ${msg}`)
-        if (isQuotaError(msg)) {
-          failed.push({
-            id: video.id,
-            title: video.title,
-            category,
-            reason: 'gemini quota exceeded (429/resource_exhausted)',
-          })
-          console.warn('    [skip] Marked as failed detail due to Gemini quota.')
-          continue
-        }
-      }
-      await sleep(1000)
-    } else {
+    if (!transcript) {
       missingTranscript++
     }
 
     // Write page
-    const page = generateDetailPage(video, category, result, transcript !== null)
+    const page = generateDetailPage(video, category, transcript !== null, transcript || null)
     writeFileSync(outPath, page)
     generated++
     console.log(`    Written: details/${video.id}.md`)

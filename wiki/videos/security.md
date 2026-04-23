@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [llm, security, nist, gdpr, privacy, mandate, dpia, compliance, sentinel, context]
 sources: 11
-updated: 2026-04-23
+updated: 2026-04-25
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-04-23
 | Metric | Value |
 |--------|-------|
 | Videos | 11 |
-| Total Views | 360 |
+| Total Views | 361 |
 | Most Recent | Apr 18, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -39,7 +39,7 @@ updated: 2026-04-23
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Designing for Privacy | 30 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
+| 1 | Designing for Privacy | 31 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
 | 2 | Custom Graphs in Microsoft Sentinel (Preview) | 53 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
 | 3 | Black-Hat LLMs: The End of the 20-Year Security Balance | 70 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) | [Wiki](details/Zeg8zSOvoyE.md) |
 | 4 | 2FA Orchestration in PingFederate | 10 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) | [Wiki](details/HxB-cJIbEgE.md) |
@@ -61,4 +61,4 @@ updated: 2026-04-23
 - [Development](development.md) -- shared tags: `ai`, `shift left`, `llm`, `agent`, `context`, `resilience`, `ssrf`
 
 ---
-*Auto-generated on Apr 22, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 25, 2026. Back to [index](index.md).*

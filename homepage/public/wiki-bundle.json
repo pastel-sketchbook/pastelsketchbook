@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-23T02:43:16.260Z",
-  "totalVideos": 276,
+  "generatedAt": "2026-04-25T09:26:17.607Z",
+  "totalVideos": 288,
   "categories": [
     {
       "name": "korea",
@@ -9,7 +9,7 @@
         "finance"
       ],
       "videoCount": 17,
-      "totalViews": 210,
+      "totalViews": 211,
       "topTags": [
         {
           "tag": "viaje",
@@ -517,7 +517,7 @@
         {
           "id": "V2cZl5s4EKU",
           "title": "스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작",
-          "views": 25,
+          "views": 26,
           "date": "2025-12-26T23:35:15Z",
           "category": "korea",
           "detail": {
@@ -548,7 +548,7 @@
         "development"
       ],
       "videoCount": 22,
-      "totalViews": 434,
+      "totalViews": 435,
       "topTags": [
         {
           "tag": "curiosity",
@@ -704,7 +704,7 @@
         {
           "id": "l9UUqD2Bz2E",
           "title": "The Mystery of the Nickel Coke",
-          "views": 9,
+          "views": 10,
           "date": "2026-04-10T15:32:57Z",
           "category": "finance",
           "tags": [
@@ -1179,8 +1179,8 @@
         "security",
         "development"
       ],
-      "videoCount": 59,
-      "totalViews": 1612,
+      "videoCount": 63,
+      "totalViews": 1647,
       "topTags": [
         {
           "tag": "aks",
@@ -1223,6 +1223,10 @@
           "count": 3
         },
         {
+          "tag": "k8s",
+          "count": 2
+        },
+        {
           "tag": "containerization",
           "count": 2
         },
@@ -1256,10 +1260,6 @@
         },
         {
           "tag": "workload",
-          "count": 2
-        },
-        {
-          "tag": "identity",
           "count": 2
         }
       ],
@@ -1500,7 +1500,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 43,
+              "views": 45,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -2114,7 +2114,7 @@
             {
               "id": "nomIVRSBEG4",
               "title": "Consuming CDC with ScyllaDB",
-              "views": 57,
+              "views": 61,
               "date": "2026-04-18T04:36:03Z",
               "category": "kubernetes",
               "tags": [
@@ -2206,7 +2206,7 @@
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 44,
+              "views": 45,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -2609,7 +2609,7 @@
             {
               "id": "eZNBXDUc8OQ",
               "title": "Architecting Modern Deployments",
-              "views": 2,
+              "views": 11,
               "date": "2026-04-23T00:06:07Z",
               "category": "kubernetes",
               "tags": [
@@ -2641,7 +2641,7 @@
             {
               "id": "p9LNSeAt5Zw",
               "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-              "views": 9,
+              "views": 14,
               "date": "2026-04-22T10:25:18Z",
               "category": "kubernetes",
               "tags": [
@@ -2833,7 +2833,7 @@
             {
               "id": "eZNBXDUc8OQ",
               "title": "Architecting Modern Deployments",
-              "views": 2,
+              "views": 11,
               "date": "2026-04-23T00:06:07Z",
               "category": "kubernetes",
               "tags": [
@@ -3272,7 +3272,7 @@
             {
               "id": "nomIVRSBEG4",
               "title": "Consuming CDC with ScyllaDB",
-              "views": 57,
+              "views": 61,
               "date": "2026-04-18T04:36:03Z",
               "category": "kubernetes",
               "tags": [
@@ -3366,7 +3366,7 @@
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 44,
+              "views": 45,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -3461,7 +3461,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 43,
+              "views": 45,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -3711,7 +3711,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 43,
+              "views": 45,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -3958,7 +3958,7 @@
             {
               "id": "nomIVRSBEG4",
               "title": "Consuming CDC with ScyllaDB",
-              "views": 57,
+              "views": 61,
               "date": "2026-04-18T04:36:03Z",
               "category": "kubernetes",
               "tags": [
@@ -4090,7 +4090,7 @@
             {
               "id": "eZNBXDUc8OQ",
               "title": "Architecting Modern Deployments",
-              "views": 2,
+              "views": 11,
               "date": "2026-04-23T00:06:07Z",
               "category": "kubernetes",
               "tags": [
@@ -4122,7 +4122,7 @@
             {
               "id": "p9LNSeAt5Zw",
               "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-              "views": 9,
+              "views": 14,
               "date": "2026-04-22T10:25:18Z",
               "category": "kubernetes",
               "tags": [
@@ -4186,9 +4186,63 @@
       ],
       "videos": [
         {
+          "id": "quD4pyCwKB4",
+          "title": "quD4pyCwKB4",
+          "views": 0,
+          "date": "2026-04-25T09:26:17.606Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "eaPXjvB194w",
+          "title": "eaPXjvB194w",
+          "views": 0,
+          "date": "2026-04-25T09:26:17.606Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "1cuMGVwrdLw",
+          "title": "1cuMGVwrdLw",
+          "views": 0,
+          "date": "2026-04-25T09:26:17.606Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "2ksi8K7wg3I",
+          "title": "Kubernetes 1.36 (Haru)",
+          "views": 13,
+          "date": "2026-04-23T22:03:32Z",
+          "category": "kubernetes",
+          "tags": [
+            "k8s",
+            "haru",
+            "v1.36",
+            "gateway"
+          ],
+          "detail": {
+            "summary": "This video tours Kubernetes 1.36 (“Haru”) as a platform-engineering release focused on replacing “external glue” with native, in-process control-plane capabilities while preparing clusters for AI-heavy workloads. It highlights three pillars—hardened core security, AI-native dynamic resource allocation, and a networking shift to Gateway API—plus the operational milestones and migrations teams need to plan for 2026.",
+            "takeaways": [
+              "Setting `hostUsers: false` (KEP-127, GA) remaps container UID0 to an unprivileged host UID, reducing container-escape blast radius without relying on third-party sandboxes like gVisor.",
+              "In-tree mutation and admission policies via CEL move critical logic into the API server, eliminating webhook network hops and failure modes that can block a cluster during outages.",
+              "Dynamic Resource Allocation (DRA) is positioned as the path off static device plugins, enabling richer device attributes, real-time capacity visibility, and better scheduling for GPUs/FPGAs in ML workloads.",
+              "The Gateway API (v1.4+) is framed as the successor to annotation-heavy ingress-nginx configs, with typed CRDs, clearer role separation, and multi-protocol routing (HTTP/TCP/UDP/gRPC).",
+              "Migrating artifacts to OCI volume sources decouples models/data from “fat images” and comes with breaking changes (e.g., the gitRepo volume driver removal in 1.36)."
+            ],
+            "topics": [
+              "kubernetes 1.36",
+              "hostusers user namespaces",
+              "cel admission policies",
+              "dynamic resource allocation (dra)",
+              "gateway api migration",
+              "ingress-nginx end of life",
+              "oci volume source",
+              "control plane scalability"
+            ]
+          }
+        },
+        {
           "id": "eZNBXDUc8OQ",
           "title": "Architecting Modern Deployments",
-          "views": 2,
+          "views": 11,
           "date": "2026-04-23T00:06:07Z",
           "category": "kubernetes",
           "tags": [
@@ -4220,7 +4274,7 @@
         {
           "id": "p9LNSeAt5Zw",
           "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-          "views": 9,
+          "views": 14,
           "date": "2026-04-22T10:25:18Z",
           "category": "kubernetes",
           "tags": [
@@ -4287,7 +4341,7 @@
         {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 57,
+          "views": 61,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes",
           "tags": [
@@ -4477,7 +4531,7 @@
         {
           "id": "7Dchx829X_M",
           "title": "Architecting the edge for HTTP/3 and QUIC",
-          "views": 92,
+          "views": 93,
           "date": "2026-04-05T00:11:43Z",
           "category": "kubernetes",
           "tags": [
@@ -5275,7 +5329,7 @@
         {
           "id": "eI2DXGISpbk",
           "title": "BadgerDB: The Go-Native Key-Value Store",
-          "views": 44,
+          "views": 45,
           "date": "2026-02-13T00:09:38Z",
           "category": "kubernetes",
           "tags": [
@@ -5335,7 +5389,7 @@
         {
           "id": "rgY4KTMFOMs",
           "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-          "views": 43,
+          "views": 45,
           "date": "2026-02-05T14:29:16Z",
           "category": "kubernetes",
           "tags": [
@@ -5964,12 +6018,12 @@
         "programming",
         "security"
       ],
-      "videoCount": 159,
-      "totalViews": 19403,
+      "videoCount": 167,
+      "totalViews": 19664,
       "topTags": [
         {
           "tag": "rust",
-          "count": 32
+          "count": 34
         },
         {
           "tag": "zig",
@@ -5977,11 +6031,11 @@
         },
         {
           "tag": "ai",
-          "count": 21
+          "count": 24
         },
         {
           "tag": "go",
-          "count": 19
+          "count": 20
         },
         {
           "tag": "flutter",
@@ -6012,6 +6066,10 @@
           "count": 5
         },
         {
+          "tag": "hybrid",
+          "count": 4
+        },
+        {
           "tag": "llm",
           "count": 4
         },
@@ -6040,11 +6098,7 @@
           "count": 4
         },
         {
-          "tag": "qmd",
-          "count": 3
-        },
-        {
-          "tag": "rfc",
+          "tag": "gemini",
           "count": 3
         }
       ],
@@ -6053,9 +6107,77 @@
           "name": "Rust",
           "videos": [
             {
+              "id": "L9ypC5863yA",
+              "title": "The Microservices Communication Playbook",
+              "views": 14,
+              "date": "2026-04-24T20:19:57Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "rust",
+                "grpc",
+                "tonic",
+                "rest"
+              ],
+              "detail": {
+                "summary": "This video lays out a pragmatic 2026 decision framework for service-to-service communication, starting with REST over HTTP/1.1 for speed and debuggability, then graduating to gRPC when performance ceilings appear. It compares gRPC implementations in Go and Rust (Tonic), emphasizing when “good enough + hiring velocity” beats “maximum efficiency + strict safety.”",
+                "takeaways": [
+                  "REST remains the default because it is human-readable, universally supported by infrastructure, loosely coupled for schema evolution, and fast to integrate across languages.",
+                  "HTTP/1.1 introduces hard limits: head-of-line blocking on a single TCP connection and significant CPU overhead from JSON parsing/serialization at scale.",
+                  "gRPC pairs Protocol Buffers (binary serialization) with HTTP/2 multiplexing to reduce payload size, eliminate JSON parsing cost, and run many concurrent streams over one connection.",
+                  "Debuggability is a real trade-off: gRPC traffic requires reflection/protos and specialized tooling (e.g., grpcurl) compared to simple `curl` and plain-text payloads.",
+                  "Language choice follows constraints: Go for rapid microservices and team scaling; Rust + Tonic for latency-sensitive infrastructure where GC pauses and memory overhead are unacceptable."
+                ],
+                "topics": [
+                  "rest vs grpc",
+                  "http/1.1 head-of-line blocking",
+                  "protobuf serialization",
+                  "http/2 multiplexing",
+                  "polyglot contracts",
+                  "grpc streaming patterns",
+                  "go grpc",
+                  "rust tonic"
+                ]
+              }
+            },
+            {
+              "id": "NhYb7QkBdMs",
+              "title": "Rusty Object Notation (RON)",
+              "views": 31,
+              "date": "2026-04-24T06:12:06Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ron",
+                "serialization",
+                "data-driven",
+                "config-rs"
+              ],
+              "detail": {
+                "summary": "This video introduces Rusty Object Notation (RON) as a Rust-native data/config serialization format that aims to keep the readability of hand-edited config files while aligning tightly with Rust’s type system. It compares RON with JSON/YAML/TOML, explains RON’s core syntax and ergonomics, and shows how tooling (Serde, config layering, and LSP support) makes RON practical for production configuration workflows.",
+                "takeaways": [
+                  "RON is designed to map naturally to Rust types (including enums, tuples, and struct-like forms) while supporting developer-friendly features like comments, trailing commas, and unquoted keys.",
+                  "The “configuration dilemma” trade-off is framed as JSON’s rigidity (no comments, strict syntax), YAML’s footguns (implicit typing, whitespace brittleness), and TOML’s limits for deep nesting.",
+                  "RON’s three structure forms—`()` for heterogeneous structures, `[]` for homogeneous lists, `{}` for maps—mirror common Rust data shapes, reducing impedance mismatch.",
+                  "A data-driven architecture benefits from separating “raw config domain” from “app domain,” using a builder/filter transformation layer to validate and normalize values.",
+                  "Production usage leans on Serde attributes (`default`, `skip_serializing_if`) plus layered config strategies (defaults, local overrides, env vars), with known limitations around self-description and flattening rules."
+                ],
+                "topics": [
+                  "ron format",
+                  "serde serialization",
+                  "rust enums and tuples",
+                  "configuration trade-offs",
+                  "comments and trailing commas",
+                  "config layering",
+                  "ron lsp",
+                  "data-driven design"
+                ]
+              }
+            },
+            {
               "id": "FM6zp63maS8",
               "title": "hexcap: Elevating Terminal Packet Capture",
-              "views": 50,
+              "views": 59,
               "date": "2026-04-20T22:17:31Z",
               "category": "development",
               "tags": [
@@ -6087,7 +6209,7 @@
             {
               "id": "feWjiYzQQ-k",
               "title": "Pastel Market: Engineering a Unified Terminal Workspace",
-              "views": 37,
+              "views": 41,
               "date": "2026-04-19T17:24:16Z",
               "category": "development",
               "tags": [
@@ -6123,7 +6245,7 @@
             {
               "id": "izLrX-02IQk",
               "title": "Rust 1.95.0",
-              "views": 192,
+              "views": 193,
               "date": "2026-04-18T20:42:55Z",
               "category": "development",
               "tags": [
@@ -6186,7 +6308,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4130,
+              "views": 4133,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -6250,7 +6372,7 @@
             {
               "id": "Qv9X3ZY474U",
               "title": "Architectural Evolution of a Vision Tool",
-              "views": 51,
+              "views": 52,
               "date": "2026-03-28T13:11:01Z",
               "category": "development",
               "tags": [
@@ -6284,7 +6406,7 @@
             {
               "id": "vep9hSKc9I0",
               "title": "Dial9 Demo - Deep Observability in Async Rust",
-              "views": 107,
+              "views": 108,
               "date": "2026-03-22T10:40:21Z",
               "category": "development",
               "tags": [
@@ -6377,7 +6499,7 @@
             {
               "id": "_zJ3_d1CODg",
               "title": "Bevy-Demo",
-              "views": 120,
+              "views": 122,
               "date": "2026-03-19T00:18:34Z",
               "category": "development",
               "tags": [
@@ -6652,7 +6774,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 325,
+              "views": 336,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -7152,9 +7274,111 @@
           "name": "AI & ML",
           "videos": [
             {
+              "id": "xvqZFPf5X60",
+              "title": "TanStack Al Composes the Modern Audio Stack",
+              "views": 4,
+              "date": "2026-04-25T07:46:26Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "tanstack",
+                "fal",
+                "gemini",
+                "adapter"
+              ],
+              "detail": {
+                "summary": "This video pitches a “unified audio stack” built around TanStack AI, aiming to standardize how apps generate music, sound effects, text-to-speech, and transcription across multiple providers. The core idea is to replace provider-specific glue code (formats, parameters, transports, return types) with a typed API, modular adapters, and streaming-friendly primitives so teams can swap models without rewriting integration logic.",
+                "takeaways": [
+                  "A single `generateAudio` activity abstracts away provider differences (PCM wrappers, duration units, return types) so app code stays stable while adapters handle translation.",
+                  "Streaming output (via SSE + async iterables) is positioned as the UX unlock: clients receive progress events and incremental audio over one connection instead of waiting on long blocking generations.",
+                  "“Universal framework hooks” mirror existing TanStack patterns (`useGenerate*`) across React/Vue/Svelte/Solid while supporting both SSE and fetcher transports.",
+                  "Provider routing is designed to be plug-and-play: Gemini models and FAL’s catalog can be selected without changing the call site, enabling multi-provider fallback and experimentation.",
+                  "Tree-shakeable, subpath adapter imports keep bundles lean by only shipping the specific adapters (TTS, transcription, audio generation) an app actually uses."
+                ],
+                "topics": [
+                  "tanstack ai",
+                  "audio generation",
+                  "text-to-speech (tts)",
+                  "speech-to-text transcription",
+                  "server-sent events (sse)",
+                  "typed adapter architecture",
+                  "provider routing",
+                  "tree-shakeable adapters"
+                ]
+              }
+            },
+            {
+              "id": "fNN88ZXWYKU",
+              "title": "Machine Learning Systems",
+              "views": 7,
+              "date": "2026-04-24T23:06:32Z",
+              "category": "development",
+              "tags": [
+                "ml",
+                "engineering",
+                "ai",
+                "curriculum"
+              ],
+              "detail": {
+                "summary": "This talk frames “AI engineering” as a distinct discipline: not just training models, but engineering end-to-end intelligent systems that are safe, scalable, and reliable in production. It outlines a curriculum-style ecosystem (textbooks, labs, framework-building, simulation, and hardware kits) designed to teach the systems constraints behind modern ML—compute, memory, networking, scheduling, and deployment trade-offs.",
+                "takeaways": [
+                  "Building real AI systems requires integrating pipelines, safety/ethics checks, and hardware-aware deployment; a standalone model is only one small component.",
+                  "The key systems mindset shift is “algorithm view → systems view”: e.g., quantization is about mapping INT8 math to silicon; inference is often dominated by KV-cache memory; schedulers trade latency vs throughput.",
+                  "The proposed learning loop couples three “gears”: theory (reading), internals (coding), and constraints (hardware), treating the repository as an integrated curriculum rather than disconnected projects.",
+                  "Hands-on artifacts like “TinyTorch” (rebuilding framework internals) and interactive labs are meant to create intuition through breaking points and trade-off exploration.",
+                  "Evaluation and readiness is treated as systems-design competency (scenario questions, drills, mock interviews) across cloud scale and edge constraints."
+                ],
+                "topics": [
+                  "ai engineering",
+                  "ml systems",
+                  "gpu cluster scaling",
+                  "inference kv cache",
+                  "quantization and hardware mapping",
+                  "deployment constraints",
+                  "curriculum design",
+                  "systems design evaluation"
+                ]
+              }
+            },
+            {
+              "id": "z_W9dX6fliM",
+              "title": "The Agentic Future",
+              "views": 20,
+              "date": "2026-04-24T15:58:08Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "rag",
+                "leiden",
+                "vector",
+                "graph",
+                "hybrid"
+              ],
+              "detail": {
+                "summary": "This talk traces the evolution from “vector RAG” to “graph RAG” and then to agentic orchestration as enterprises try to bridge the gap between frozen model knowledge and live, proprietary data. It argues that semantic similarity alone hits a “vector wall” for multi-hop reasoning and global sensemaking, motivating knowledge graphs, community summarization, and hybrid retrieval pipelines that agents can route dynamically.",
+                "takeaways": [
+                  "RAG is framed as the bridge between static pretrained knowledge and an organization’s changing internal systems; grounding reduces hallucinations by injecting up-to-date context at query time.",
+                  "Vector RAG excels at broad semantic retrieval but struggles with multi-hop reasoning, “lost in the middle” context failures, and corpus-wide summarization.",
+                  "Graph RAG shifts retrieval from “find similar chunks” to “traverse explicit relationships,” enabling causal/path explanations and global sensemaking via graph communities.",
+                  "Indexing for graph RAG requires extraction (entities/relations) plus ongoing governance (schemas/ontologies, entity resolution), which introduces non-trivial compute and maintenance cost.",
+                  "A hybrid architecture (vector + graph) plus an agentic orchestrator is presented as the practical endgame: route each query to the right tool/path at the right time."
+                ],
+                "topics": [
+                  "enterprise rag",
+                  "vector databases",
+                  "vector wall",
+                  "knowledge graphs",
+                  "graph rag indexing",
+                  "community detection summaries",
+                  "hybrid rag",
+                  "agentic orchestration"
+                ]
+              }
+            },
+            {
               "id": "pgTCcVO4gfg",
               "title": "The 10k LOC Sweet Spot",
-              "views": 8,
+              "views": 11,
               "date": "2026-04-21T22:18:41Z",
               "category": "development",
               "tags": [
@@ -7186,7 +7410,7 @@
             {
               "id": "q-6cUColzQQ",
               "title": "Flutter Web Explained",
-              "views": 24,
+              "views": 26,
               "date": "2026-04-18T12:37:49Z",
               "category": "development",
               "tags": [
@@ -7216,7 +7440,7 @@
             {
               "id": "E8f87EV4k3A",
               "title": "A Compiler, Not a Renderer",
-              "views": 139,
+              "views": 144,
               "date": "2026-04-17T12:06:22Z",
               "category": "development",
               "tags": [
@@ -7309,7 +7533,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 106,
+              "views": 107,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -7339,7 +7563,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2515,
+              "views": 2531,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -7373,7 +7597,7 @@
             {
               "id": "fv61JXUCbeo",
               "title": "Stitch Agent Skills",
-              "views": 265,
+              "views": 268,
               "date": "2026-04-05T21:24:52Z",
               "category": "development",
               "tags": [
@@ -7441,7 +7665,7 @@
             {
               "id": "z2SA6P7WNoc",
               "title": "Reasoning Under Uncertainty",
-              "views": 156,
+              "views": 157,
               "date": "2026-04-03T22:11:58Z",
               "category": "development",
               "tags": [
@@ -7812,7 +8036,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 649,
+              "views": 654,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -8169,9 +8393,43 @@
           "name": "Go",
           "videos": [
             {
+              "id": "L9ypC5863yA",
+              "title": "The Microservices Communication Playbook",
+              "views": 14,
+              "date": "2026-04-24T20:19:57Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "rust",
+                "grpc",
+                "tonic",
+                "rest"
+              ],
+              "detail": {
+                "summary": "This video lays out a pragmatic 2026 decision framework for service-to-service communication, starting with REST over HTTP/1.1 for speed and debuggability, then graduating to gRPC when performance ceilings appear. It compares gRPC implementations in Go and Rust (Tonic), emphasizing when “good enough + hiring velocity” beats “maximum efficiency + strict safety.”",
+                "takeaways": [
+                  "REST remains the default because it is human-readable, universally supported by infrastructure, loosely coupled for schema evolution, and fast to integrate across languages.",
+                  "HTTP/1.1 introduces hard limits: head-of-line blocking on a single TCP connection and significant CPU overhead from JSON parsing/serialization at scale.",
+                  "gRPC pairs Protocol Buffers (binary serialization) with HTTP/2 multiplexing to reduce payload size, eliminate JSON parsing cost, and run many concurrent streams over one connection.",
+                  "Debuggability is a real trade-off: gRPC traffic requires reflection/protos and specialized tooling (e.g., grpcurl) compared to simple `curl` and plain-text payloads.",
+                  "Language choice follows constraints: Go for rapid microservices and team scaling; Rust + Tonic for latency-sensitive infrastructure where GC pauses and memory overhead are unacceptable."
+                ],
+                "topics": [
+                  "rest vs grpc",
+                  "http/1.1 head-of-line blocking",
+                  "protobuf serialization",
+                  "http/2 multiplexing",
+                  "polyglot contracts",
+                  "grpc streaming patterns",
+                  "go grpc",
+                  "rust tonic"
+                ]
+              }
+            },
+            {
               "id": "VHuQi_1t5qQ",
               "title": "Mastering Go Pointers",
-              "views": 70,
+              "views": 73,
               "date": "2026-04-17T18:20:09Z",
               "category": "development",
               "tags": [
@@ -8207,7 +8465,7 @@
             {
               "id": "MuDJGnGTn3k",
               "title": "Leetgo",
-              "views": 52,
+              "views": 53,
               "date": "2026-04-09T09:55:24Z",
               "category": "development",
               "tags": [
@@ -8236,7 +8494,7 @@
             {
               "id": "IYfTi_HNDl4",
               "title": "Building Production-Grade RabbitMQ in Go",
-              "views": 75,
+              "views": 76,
               "date": "2026-04-06T22:28:09Z",
               "category": "development",
               "tags": [
@@ -8422,7 +8680,7 @@
             {
               "id": "CXtHwJQphLI",
               "title": "Production-Ready RabbitMQ in Go",
-              "views": 90,
+              "views": 91,
               "date": "2026-03-20T03:40:50Z",
               "category": "development",
               "tags": [
@@ -8602,7 +8860,7 @@
             {
               "id": "Hfut9CfJhN0",
               "title": "Bubble Tea v2",
-              "views": 53,
+              "views": 54,
               "date": "2026-03-02T12:02:38Z",
               "category": "development",
               "tags": [
@@ -8790,7 +9048,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 734,
+              "views": 743,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -8975,9 +9233,43 @@
           "name": "Architecture",
           "videos": [
             {
+              "id": "L9ypC5863yA",
+              "title": "The Microservices Communication Playbook",
+              "views": 14,
+              "date": "2026-04-24T20:19:57Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "rust",
+                "grpc",
+                "tonic",
+                "rest"
+              ],
+              "detail": {
+                "summary": "This video lays out a pragmatic 2026 decision framework for service-to-service communication, starting with REST over HTTP/1.1 for speed and debuggability, then graduating to gRPC when performance ceilings appear. It compares gRPC implementations in Go and Rust (Tonic), emphasizing when “good enough + hiring velocity” beats “maximum efficiency + strict safety.”",
+                "takeaways": [
+                  "REST remains the default because it is human-readable, universally supported by infrastructure, loosely coupled for schema evolution, and fast to integrate across languages.",
+                  "HTTP/1.1 introduces hard limits: head-of-line blocking on a single TCP connection and significant CPU overhead from JSON parsing/serialization at scale.",
+                  "gRPC pairs Protocol Buffers (binary serialization) with HTTP/2 multiplexing to reduce payload size, eliminate JSON parsing cost, and run many concurrent streams over one connection.",
+                  "Debuggability is a real trade-off: gRPC traffic requires reflection/protos and specialized tooling (e.g., grpcurl) compared to simple `curl` and plain-text payloads.",
+                  "Language choice follows constraints: Go for rapid microservices and team scaling; Rust + Tonic for latency-sensitive infrastructure where GC pauses and memory overhead are unacceptable."
+                ],
+                "topics": [
+                  "rest vs grpc",
+                  "http/1.1 head-of-line blocking",
+                  "protobuf serialization",
+                  "http/2 multiplexing",
+                  "polyglot contracts",
+                  "grpc streaming patterns",
+                  "go grpc",
+                  "rust tonic"
+                ]
+              }
+            },
+            {
               "id": "xkHQhOgapfY",
               "title": "ZMD Architecture & Evolution",
-              "views": 21,
+              "views": 45,
               "date": "2026-04-21T10:14:38Z",
               "category": "development",
               "tags": [
@@ -9013,7 +9305,7 @@
             {
               "id": "wKzz0jKiScM",
               "title": "Emacs Architecture, Neovim Philosophy",
-              "views": 242,
+              "views": 268,
               "date": "2026-04-19T22:51:25Z",
               "category": "development",
               "tags": [
@@ -9078,7 +9370,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4130,
+              "views": 4133,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -9455,7 +9747,7 @@
             {
               "id": "IYfTi_HNDl4",
               "title": "Building Production-Grade RabbitMQ in Go",
-              "views": 75,
+              "views": 76,
               "date": "2026-04-06T22:28:09Z",
               "category": "development",
               "tags": [
@@ -9548,7 +9840,7 @@
             {
               "id": "CXtHwJQphLI",
               "title": "Production-Ready RabbitMQ in Go",
-              "views": 90,
+              "views": 91,
               "date": "2026-03-20T03:40:50Z",
               "category": "development",
               "tags": [
@@ -9777,9 +10069,200 @@
       ],
       "videos": [
         {
+          "id": "brRRpsAaN9E",
+          "title": "brRRpsAaN9E",
+          "views": 0,
+          "date": "2026-04-25T09:26:17.606Z",
+          "category": "development"
+        },
+        {
+          "id": "EWwk29GzHgg",
+          "title": "EWwk29GzHgg",
+          "views": 0,
+          "date": "2026-04-25T09:26:17.606Z",
+          "category": "development"
+        },
+        {
+          "id": "yAeM2vpPWeM",
+          "title": "yAeM2vpPWeM",
+          "views": 0,
+          "date": "2026-04-25T09:26:17.606Z",
+          "category": "development"
+        },
+        {
+          "id": "xvqZFPf5X60",
+          "title": "TanStack Al Composes the Modern Audio Stack",
+          "views": 4,
+          "date": "2026-04-25T07:46:26Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "tanstack",
+            "fal",
+            "gemini",
+            "adapter"
+          ],
+          "detail": {
+            "summary": "This video pitches a “unified audio stack” built around TanStack AI, aiming to standardize how apps generate music, sound effects, text-to-speech, and transcription across multiple providers. The core idea is to replace provider-specific glue code (formats, parameters, transports, return types) with a typed API, modular adapters, and streaming-friendly primitives so teams can swap models without rewriting integration logic.",
+            "takeaways": [
+              "A single `generateAudio` activity abstracts away provider differences (PCM wrappers, duration units, return types) so app code stays stable while adapters handle translation.",
+              "Streaming output (via SSE + async iterables) is positioned as the UX unlock: clients receive progress events and incremental audio over one connection instead of waiting on long blocking generations.",
+              "“Universal framework hooks” mirror existing TanStack patterns (`useGenerate*`) across React/Vue/Svelte/Solid while supporting both SSE and fetcher transports.",
+              "Provider routing is designed to be plug-and-play: Gemini models and FAL’s catalog can be selected without changing the call site, enabling multi-provider fallback and experimentation.",
+              "Tree-shakeable, subpath adapter imports keep bundles lean by only shipping the specific adapters (TTS, transcription, audio generation) an app actually uses."
+            ],
+            "topics": [
+              "tanstack ai",
+              "audio generation",
+              "text-to-speech (tts)",
+              "speech-to-text transcription",
+              "server-sent events (sse)",
+              "typed adapter architecture",
+              "provider routing",
+              "tree-shakeable adapters"
+            ]
+          }
+        },
+        {
+          "id": "fNN88ZXWYKU",
+          "title": "Machine Learning Systems",
+          "views": 7,
+          "date": "2026-04-24T23:06:32Z",
+          "category": "development",
+          "tags": [
+            "ml",
+            "engineering",
+            "ai",
+            "curriculum"
+          ],
+          "detail": {
+            "summary": "This talk frames “AI engineering” as a distinct discipline: not just training models, but engineering end-to-end intelligent systems that are safe, scalable, and reliable in production. It outlines a curriculum-style ecosystem (textbooks, labs, framework-building, simulation, and hardware kits) designed to teach the systems constraints behind modern ML—compute, memory, networking, scheduling, and deployment trade-offs.",
+            "takeaways": [
+              "Building real AI systems requires integrating pipelines, safety/ethics checks, and hardware-aware deployment; a standalone model is only one small component.",
+              "The key systems mindset shift is “algorithm view → systems view”: e.g., quantization is about mapping INT8 math to silicon; inference is often dominated by KV-cache memory; schedulers trade latency vs throughput.",
+              "The proposed learning loop couples three “gears”: theory (reading), internals (coding), and constraints (hardware), treating the repository as an integrated curriculum rather than disconnected projects.",
+              "Hands-on artifacts like “TinyTorch” (rebuilding framework internals) and interactive labs are meant to create intuition through breaking points and trade-off exploration.",
+              "Evaluation and readiness is treated as systems-design competency (scenario questions, drills, mock interviews) across cloud scale and edge constraints."
+            ],
+            "topics": [
+              "ai engineering",
+              "ml systems",
+              "gpu cluster scaling",
+              "inference kv cache",
+              "quantization and hardware mapping",
+              "deployment constraints",
+              "curriculum design",
+              "systems design evaluation"
+            ]
+          }
+        },
+        {
+          "id": "L9ypC5863yA",
+          "title": "The Microservices Communication Playbook",
+          "views": 14,
+          "date": "2026-04-24T20:19:57Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "rust",
+            "grpc",
+            "tonic",
+            "rest"
+          ],
+          "detail": {
+            "summary": "This video lays out a pragmatic 2026 decision framework for service-to-service communication, starting with REST over HTTP/1.1 for speed and debuggability, then graduating to gRPC when performance ceilings appear. It compares gRPC implementations in Go and Rust (Tonic), emphasizing when “good enough + hiring velocity” beats “maximum efficiency + strict safety.”",
+            "takeaways": [
+              "REST remains the default because it is human-readable, universally supported by infrastructure, loosely coupled for schema evolution, and fast to integrate across languages.",
+              "HTTP/1.1 introduces hard limits: head-of-line blocking on a single TCP connection and significant CPU overhead from JSON parsing/serialization at scale.",
+              "gRPC pairs Protocol Buffers (binary serialization) with HTTP/2 multiplexing to reduce payload size, eliminate JSON parsing cost, and run many concurrent streams over one connection.",
+              "Debuggability is a real trade-off: gRPC traffic requires reflection/protos and specialized tooling (e.g., grpcurl) compared to simple `curl` and plain-text payloads.",
+              "Language choice follows constraints: Go for rapid microservices and team scaling; Rust + Tonic for latency-sensitive infrastructure where GC pauses and memory overhead are unacceptable."
+            ],
+            "topics": [
+              "rest vs grpc",
+              "http/1.1 head-of-line blocking",
+              "protobuf serialization",
+              "http/2 multiplexing",
+              "polyglot contracts",
+              "grpc streaming patterns",
+              "go grpc",
+              "rust tonic"
+            ]
+          }
+        },
+        {
+          "id": "z_W9dX6fliM",
+          "title": "The Agentic Future",
+          "views": 20,
+          "date": "2026-04-24T15:58:08Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "rag",
+            "leiden",
+            "vector",
+            "graph",
+            "hybrid"
+          ],
+          "detail": {
+            "summary": "This talk traces the evolution from “vector RAG” to “graph RAG” and then to agentic orchestration as enterprises try to bridge the gap between frozen model knowledge and live, proprietary data. It argues that semantic similarity alone hits a “vector wall” for multi-hop reasoning and global sensemaking, motivating knowledge graphs, community summarization, and hybrid retrieval pipelines that agents can route dynamically.",
+            "takeaways": [
+              "RAG is framed as the bridge between static pretrained knowledge and an organization’s changing internal systems; grounding reduces hallucinations by injecting up-to-date context at query time.",
+              "Vector RAG excels at broad semantic retrieval but struggles with multi-hop reasoning, “lost in the middle” context failures, and corpus-wide summarization.",
+              "Graph RAG shifts retrieval from “find similar chunks” to “traverse explicit relationships,” enabling causal/path explanations and global sensemaking via graph communities.",
+              "Indexing for graph RAG requires extraction (entities/relations) plus ongoing governance (schemas/ontologies, entity resolution), which introduces non-trivial compute and maintenance cost.",
+              "A hybrid architecture (vector + graph) plus an agentic orchestrator is presented as the practical endgame: route each query to the right tool/path at the right time."
+            ],
+            "topics": [
+              "enterprise rag",
+              "vector databases",
+              "vector wall",
+              "knowledge graphs",
+              "graph rag indexing",
+              "community detection summaries",
+              "hybrid rag",
+              "agentic orchestration"
+            ]
+          }
+        },
+        {
+          "id": "NhYb7QkBdMs",
+          "title": "Rusty Object Notation (RON)",
+          "views": 31,
+          "date": "2026-04-24T06:12:06Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "ron",
+            "serialization",
+            "data-driven",
+            "config-rs"
+          ],
+          "detail": {
+            "summary": "This video introduces Rusty Object Notation (RON) as a Rust-native data/config serialization format that aims to keep the readability of hand-edited config files while aligning tightly with Rust’s type system. It compares RON with JSON/YAML/TOML, explains RON’s core syntax and ergonomics, and shows how tooling (Serde, config layering, and LSP support) makes RON practical for production configuration workflows.",
+            "takeaways": [
+              "RON is designed to map naturally to Rust types (including enums, tuples, and struct-like forms) while supporting developer-friendly features like comments, trailing commas, and unquoted keys.",
+              "The “configuration dilemma” trade-off is framed as JSON’s rigidity (no comments, strict syntax), YAML’s footguns (implicit typing, whitespace brittleness), and TOML’s limits for deep nesting.",
+              "RON’s three structure forms—`()` for heterogeneous structures, `[]` for homogeneous lists, `{}` for maps—mirror common Rust data shapes, reducing impedance mismatch.",
+              "A data-driven architecture benefits from separating “raw config domain” from “app domain,” using a builder/filter transformation layer to validate and normalize values.",
+              "Production usage leans on Serde attributes (`default`, `skip_serializing_if`) plus layered config strategies (defaults, local overrides, env vars), with known limitations around self-description and flattening rules."
+            ],
+            "topics": [
+              "ron format",
+              "serde serialization",
+              "rust enums and tuples",
+              "configuration trade-offs",
+              "comments and trailing commas",
+              "config layering",
+              "ron lsp",
+              "data-driven design"
+            ]
+          }
+        },
+        {
           "id": "pgTCcVO4gfg",
           "title": "The 10k LOC Sweet Spot",
-          "views": 8,
+          "views": 11,
           "date": "2026-04-21T22:18:41Z",
           "category": "development",
           "tags": [
@@ -9811,7 +10294,7 @@
         {
           "id": "xkHQhOgapfY",
           "title": "ZMD Architecture & Evolution",
-          "views": 21,
+          "views": 45,
           "date": "2026-04-21T10:14:38Z",
           "category": "development",
           "tags": [
@@ -9847,7 +10330,7 @@
         {
           "id": "FM6zp63maS8",
           "title": "hexcap: Elevating Terminal Packet Capture",
-          "views": 50,
+          "views": 59,
           "date": "2026-04-20T22:17:31Z",
           "category": "development",
           "tags": [
@@ -9879,7 +10362,7 @@
         {
           "id": "vtzEOYX_8k8",
           "title": "Packet Capture Fundamentals",
-          "views": 33,
+          "views": 38,
           "date": "2026-04-20T12:07:27Z",
           "category": "development",
           "tags": [
@@ -9916,7 +10399,7 @@
         {
           "id": "wKzz0jKiScM",
           "title": "Emacs Architecture, Neovim Philosophy",
-          "views": 242,
+          "views": 268,
           "date": "2026-04-19T22:51:25Z",
           "category": "development",
           "tags": [
@@ -9949,7 +10432,7 @@
         {
           "id": "feWjiYzQQ-k",
           "title": "Pastel Market: Engineering a Unified Terminal Workspace",
-          "views": 37,
+          "views": 41,
           "date": "2026-04-19T17:24:16Z",
           "category": "development",
           "tags": [
@@ -9985,7 +10468,7 @@
         {
           "id": "wZC8NL32yfg",
           "title": "Emulating the Server Push",
-          "views": 16,
+          "views": 17,
           "date": "2026-04-19T15:14:58Z",
           "category": "development",
           "tags": [
@@ -10019,7 +10502,7 @@
         {
           "id": "izLrX-02IQk",
           "title": "Rust 1.95.0",
-          "views": 192,
+          "views": 193,
           "date": "2026-04-18T20:42:55Z",
           "category": "development",
           "tags": [
@@ -10051,7 +10534,7 @@
         {
           "id": "q-6cUColzQQ",
           "title": "Flutter Web Explained",
-          "views": 24,
+          "views": 26,
           "date": "2026-04-18T12:37:49Z",
           "category": "development",
           "tags": [
@@ -10081,7 +10564,7 @@
         {
           "id": "VHuQi_1t5qQ",
           "title": "Mastering Go Pointers",
-          "views": 70,
+          "views": 73,
           "date": "2026-04-17T18:20:09Z",
           "category": "development",
           "tags": [
@@ -10117,7 +10600,7 @@
         {
           "id": "E8f87EV4k3A",
           "title": "A Compiler, Not a Renderer",
-          "views": 139,
+          "views": 144,
           "date": "2026-04-17T12:06:22Z",
           "category": "development",
           "tags": [
@@ -10179,7 +10662,7 @@
         {
           "id": "X65YHZUnFq0",
           "title": "OpenFeature: The Standard for Feature Flagging",
-          "views": 46,
+          "views": 47,
           "date": "2026-04-16T17:02:54Z",
           "category": "development",
           "tags": [
@@ -10209,7 +10692,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 587,
+          "views": 603,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -10382,7 +10865,7 @@
         {
           "id": "QC-vaMcjq3M",
           "title": "zig-lottie: Compiling Motion",
-          "views": 78,
+          "views": 79,
           "date": "2026-04-11T05:33:18Z",
           "category": "development",
           "tags": [
@@ -10472,7 +10955,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 106,
+          "views": 107,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -10502,7 +10985,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2515,
+          "views": 2531,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -10536,7 +11019,7 @@
         {
           "id": "MuDJGnGTn3k",
           "title": "Leetgo",
-          "views": 52,
+          "views": 53,
           "date": "2026-04-09T09:55:24Z",
           "category": "development",
           "tags": [
@@ -10627,7 +11110,7 @@
         {
           "id": "IYfTi_HNDl4",
           "title": "Building Production-Grade RabbitMQ in Go",
-          "views": 75,
+          "views": 76,
           "date": "2026-04-06T22:28:09Z",
           "category": "development",
           "tags": [
@@ -10689,7 +11172,7 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 265,
+          "views": 268,
           "date": "2026-04-05T21:24:52Z",
           "category": "development",
           "tags": [
@@ -10788,7 +11271,7 @@
         {
           "id": "z2SA6P7WNoc",
           "title": "Reasoning Under Uncertainty",
-          "views": 156,
+          "views": 157,
           "date": "2026-04-03T22:11:58Z",
           "category": "development",
           "tags": [
@@ -10821,7 +11304,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4130,
+          "views": 4133,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -10885,7 +11368,7 @@
         {
           "id": "JWeu5aqAkR0",
           "title": "The Transport Revolution: Deconstructing HTTP/3",
-          "views": 205,
+          "views": 206,
           "date": "2026-04-01T22:51:56Z",
           "category": "development",
           "detail": {
@@ -11036,7 +11519,7 @@
         {
           "id": "Qv9X3ZY474U",
           "title": "Architectural Evolution of a Vision Tool",
-          "views": 51,
+          "views": 52,
           "date": "2026-03-28T13:11:01Z",
           "category": "development",
           "tags": [
@@ -11257,7 +11740,7 @@
         {
           "id": "vep9hSKc9I0",
           "title": "Dial9 Demo - Deep Observability in Async Rust",
-          "views": 107,
+          "views": 108,
           "date": "2026-03-22T10:40:21Z",
           "category": "development",
           "tags": [
@@ -11410,7 +11893,7 @@
         {
           "id": "CXtHwJQphLI",
           "title": "Production-Ready RabbitMQ in Go",
-          "views": 90,
+          "views": 91,
           "date": "2026-03-20T03:40:50Z",
           "category": "development",
           "tags": [
@@ -11443,7 +11926,7 @@
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
-          "views": 120,
+          "views": 122,
           "date": "2026-03-19T00:18:34Z",
           "category": "development",
           "tags": [
@@ -11534,7 +12017,7 @@
         {
           "id": "FOkG5ScxU88",
           "title": "Building with Genkit Dart",
-          "views": 54,
+          "views": 56,
           "date": "2026-03-15T19:49:00Z",
           "category": "development",
           "tags": [
@@ -12150,7 +12633,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 181,
+          "views": 183,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -12182,7 +12665,7 @@
         {
           "id": "Hfut9CfJhN0",
           "title": "Bubble Tea v2",
-          "views": 53,
+          "views": 54,
           "date": "2026-03-02T12:02:38Z",
           "category": "development",
           "tags": [
@@ -12307,7 +12790,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 649,
+          "views": 654,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -12371,7 +12854,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 101,
+          "views": 107,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -12680,7 +13163,7 @@
         {
           "id": "QBUQvfZJpaM",
           "title": "Modern Cryptography Standards: A Guide to AEAD",
-          "views": 36,
+          "views": 38,
           "date": "2026-02-18T23:24:48Z",
           "category": "development",
           "tags": [
@@ -12797,7 +13280,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 734,
+          "views": 743,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -12830,7 +13313,7 @@
         {
           "id": "cWozmWrqnxs",
           "title": "The Repository Pattern",
-          "views": 778,
+          "views": 779,
           "date": "2026-02-13T18:01:39Z",
           "category": "development",
           "tags": [
@@ -12861,7 +13344,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 325,
+          "views": 336,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -12925,7 +13408,7 @@
         {
           "id": "cEwAbu6FFRo",
           "title": "Compound Engineering",
-          "views": 128,
+          "views": 131,
           "date": "2026-02-11T13:08:01Z",
           "category": "development",
           "tags": [
@@ -13139,7 +13622,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 136,
+          "views": 137,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -13205,7 +13688,7 @@
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 404,
+          "views": 407,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -13299,7 +13782,7 @@
         {
           "id": "TDWC1fFhn9g",
           "title": "A DeepDive into SIMD & Zig",
-          "views": 81,
+          "views": 82,
           "date": "2026-01-31T19:35:42Z",
           "category": "development",
           "tags": [
@@ -14545,7 +15028,7 @@
         {
           "id": "olsB3bJxA2A",
           "title": "Let's check about Zig",
-          "views": 345,
+          "views": 347,
           "date": "2025-12-28T09:28:00Z",
           "category": "development",
           "tags": [
@@ -14632,7 +15115,7 @@
         {
           "id": "TLqdeHlAo3A",
           "title": "From Bottlenecks to Breakthroughs:",
-          "views": 42,
+          "views": 45,
           "date": "2025-12-27T21:13:50Z",
           "category": "development",
           "tags": [
@@ -14668,7 +15151,7 @@
         "development"
       ],
       "videoCount": 11,
-      "totalViews": 360,
+      "totalViews": 361,
       "topTags": [
         {
           "tag": "llm",
@@ -15008,7 +15491,7 @@
         {
           "id": "_5DCBqOCr8c",
           "title": "Designing for Privacy",
-          "views": 30,
+          "views": 31,
           "date": "2026-04-19T04:59:35Z",
           "category": "security",
           "tags": [

@@ -14,6 +14,7 @@
 
 import { readFileSync, writeFileSync } from 'fs'
 import { resolve } from 'path'
+import { allVideoIds, videoCategories } from '../src/config/videos'
 
 // Load env variables from .env.local
 function loadEnv() {
@@ -171,10 +172,74 @@ async function syncVideos() {
   if (!apiKey) {
     console.warn(
       '⚠️  VITE_YOUTUBE_API_KEY not set.\n' +
-      '   Skipping playlist sync and metadata generation.\n' +
-      '   Set VITE_YOUTUBE_API_KEY in .env.local (dev) or Vercel project settings (prod).'
+      '   Falling back to offline metadata sync from existing JSON + raw transcripts.\n' +
+      '   To refresh from YouTube, set VITE_YOUTUBE_API_KEY in .env.local (dev) or Vercel project settings (prod).',
     )
-    process.exit(0)
+
+    const outputPath = resolve('public/videos-metadata.json')
+    const wikiRawDir = resolve('..', 'wiki', 'raw', 'transcripts')
+
+    let existing: { videos: VideoMetadata[] } | null = null
+    try {
+      existing = JSON.parse(readFileSync(outputPath, 'utf-8')) as { videos: VideoMetadata[] }
+    } catch {
+      existing = { videos: [] }
+    }
+
+    const byId = new Map(existing.videos.map((v) => [v.id, v]))
+
+    for (const id of allVideoIds) {
+      if (byId.has(id)) continue
+
+      const rawPath = resolve(wikiRawDir, `${id}.md`)
+      try {
+        const raw = readFileSync(rawPath, 'utf-8')
+        const title = raw.match(/\n#\s+(.+)\n/)?.[1]?.trim() || id
+        const views = Number(raw.match(/\nviews:\s*(\d+)\n/)?.[1] || 0)
+        const date = raw.match(/\ndate:\s*([^\n]+)\n/)?.[1]?.trim() || new Date().toISOString()
+
+        byId.set(id, {
+          id,
+          title,
+          views,
+          date,
+          tags: [],
+        })
+      } catch {
+        byId.set(id, {
+          id,
+          title: id,
+          views: 0,
+          date: new Date().toISOString(),
+          tags: [],
+        })
+      }
+    }
+
+    const videos = [...byId.values()].map((v) => ({
+      ...v,
+      // Ensure stable lowercase tags if they exist
+      tags: (v.tags || []).map((t) => t.toLowerCase()),
+    }))
+
+    // Keep the output deterministic: group by category ordering, then views desc.
+    videos.sort((a, b) => {
+      const ca = videoCategories[a.id] || 'zzzz'
+      const cb = videoCategories[b.id] || 'zzzz'
+      if (ca !== cb) return ca.localeCompare(cb)
+      return b.views - a.views
+    })
+
+    writeFileSync(
+      outputPath,
+      JSON.stringify(
+        { videos, generatedAt: new Date().toISOString(), count: videos.length },
+        null,
+        2,
+      ),
+    )
+    console.log(`  ✓ Offline metadata sync complete (${videos.length} videos)`)
+    return
   }
 
   console.log('📡 Fetching playlists...\n')
@@ -302,8 +367,8 @@ Object.entries(VIDEO_CONFIG).forEach(([category, ids]) => {
 
   // Fetch metadata for all videos
   console.log('\n🎥 Fetching video metadata...')
-  const allVideoIds = Object.values(playlistData).flat()
-  const videos = await fetchVideoMetadata(allVideoIds, apiKey)
+  const allPlaylistVideoIds = Object.values(playlistData).flat()
+  const videos = await fetchVideoMetadata(allPlaylistVideoIds, apiKey)
 
   if (videos.length === 0) {
     console.warn('⚠️  No video metadata fetched')

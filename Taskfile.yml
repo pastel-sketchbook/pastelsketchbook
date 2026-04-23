@@ -71,7 +71,7 @@ tasks:
       - zig-out/bin/yt-transcript
 
   wiki:details:
-    desc: Generate per-video wiki detail pages (transcript + Gemini summary)
+    desc: Generate per-video wiki detail pages (transcript only, no API)
     dir: homepage
     deps: [tools:yt-transcript]
     cmds:

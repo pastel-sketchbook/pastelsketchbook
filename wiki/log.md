@@ -91,3 +91,11 @@ Exported 17 transcript files (all videos) to `wiki/raw/transcripts`.
 ## [2026-04-22] ingest | Video Detail Pages (from raw transcripts)
 
 Generated 17 missing detail pages in `wiki/videos/details/` directly from raw transcripts (no Gemini API). All 276 videos now have detail pages. 2 videos remain without raw transcripts (`-tZGlR8Zztg`, `1PH7UB24xps`) due to unavailable YouTube captions.
+
+## [2026-04-25] ingest | Video Metadata Sync
+
+Synced 282 videos across 6 categories (korea=17, finance=22, kubernetes=60, development=164, security=11, programming=8).
+
+## [2026-04-25] ingest | Video Transcripts
+
+Exported 1 transcript files (single: 2ksi8K7wg3I) to `wiki/raw/transcripts`.

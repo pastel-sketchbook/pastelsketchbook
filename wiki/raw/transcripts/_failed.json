@@ -1,22 +1,9 @@
 {
-  "generatedAt": "2026-04-23T02:57:25.500Z",
-  "runLabel": "all videos",
-  "attempted": 276,
-  "written": 17,
-  "skipped": 257,
-  "failedCount": 2,
-  "failed": [
-    {
-      "id": "-tZGlR8Zztg",
-      "title": "The Illusion of Design",
-      "category": "development",
-      "error": "Command failed: /Users/AD9C65/projects/pastel-projects/pastel-sketchbook/tools/yt-transcript/zig-out/bin/yt-transcript -tZGlR8Zztg --max-chars 120000"
-    },
-    {
-      "id": "1PH7UB24xps",
-      "title": "Architecting AKS Networking",
-      "category": "kubernetes",
-      "error": "Command failed: /Users/AD9C65/projects/pastel-projects/pastel-sketchbook/tools/yt-transcript/zig-out/bin/yt-transcript 1PH7UB24xps --max-chars 120000"
-    }
-  ]
+  "generatedAt": "2026-04-25T09:03:06.059Z",
+  "runLabel": "single: z_W9dX6fliM",
+  "attempted": 1,
+  "written": 1,
+  "skipped": 0,
+  "failedCount": 0,
+  "failed": []
 }
