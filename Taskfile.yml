@@ -31,7 +31,6 @@ tasks:
   generate:
     desc: Run all generators (transcripts, details, topics, analysis-if-due)
     cmds:
-      - task: wiki:transcripts
       - task: wiki:details
       - task: wiki:topics
       - task: wiki:analysis:if-due
@@ -93,7 +92,7 @@ tasks:
   wiki:details:
     desc: Generate per-video wiki detail pages (transcript only, no API)
     dir: homepage
-    deps: [tools:yt-transcript]
+    deps: [tools:yt-transcript, wiki:transcripts]
     cmds:
       - bun scripts/generate-video-details.ts {{.CLI_ARGS | default "--all"}}
 

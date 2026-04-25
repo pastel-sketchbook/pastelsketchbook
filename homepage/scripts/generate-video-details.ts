@@ -139,9 +139,16 @@ function hasFullDetailContent(detailPath: string): boolean {
   const hasTranscript = /\n## Transcript\n\n```[\s\S]*?```/m.test(content)
   const transcriptUnavailable = content.includes('*Transcript unavailable for this video.*')
 
+  // Extract videoId from frontmatter to check raw transcript exists
+  const videoIdMatch = content.match(/^videoId:\s*(.+)$/m)
+  const hasRawTranscript = videoIdMatch
+    ? existsSync(resolve(RAW_TRANSCRIPTS_DIR, `${videoIdMatch[1].trim()}.md`))
+    : true // if we can't parse the id, don't block on this check
+
   // In transcript-only mode, "complete" means:
   // - we either have a transcript embedded, or we explicitly recorded it's unavailable.
-  return hasSummary && (hasTranscript || transcriptUnavailable)
+  // - the corresponding raw transcript file exists (if transcript was available).
+  return hasSummary && (hasTranscript || transcriptUnavailable) && (hasRawTranscript || transcriptUnavailable)
 }
 
 function parseArgs(): {
@@ -346,10 +353,17 @@ async function main() {
     const video = selected[i]
     const outPath = resolve(WIKI_DETAILS, `${video.id}.md`)
 
-    if (existsSync(outPath) && !args.force) {
+    const rawTranscriptExists = existsSync(resolve(RAW_TRANSCRIPTS_DIR, `${video.id}.md`))
+    const detailExists = existsSync(outPath)
+    const transcriptKnownUnavailable = detailExists
+      && readFileSync(outPath, 'utf-8').includes('*Transcript unavailable for this video.*')
+    if (detailExists && !args.force && (rawTranscriptExists || transcriptKnownUnavailable)) {
       console.log(`  [${i + 1}/${selected.length}] Skipping: ${video.title} (exists)`)
       skipped++
       continue
+    }
+    if (detailExists && !args.force && !rawTranscriptExists) {
+      console.log(`  [${i + 1}/${selected.length}] Regenerating: ${video.title} (missing raw transcript)`)
     }
 
     if (args.force && hasFullDetailContent(outPath)) {

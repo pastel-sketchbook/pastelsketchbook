@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-04-25T16:57:33.305Z",
-  "runLabel": "top 10 by views",
-  "attempted": 10,
+  "generatedAt": "2026-04-25T17:07:32.787Z",
+  "runLabel": "single: 1PH7UB24xps",
+  "attempted": 1,
   "written": 0,
-  "skipped": 10,
-  "failedCount": 0,
-  "failed": []
+  "skipped": 0,
+  "failedCount": 1,
+  "failed": [
+    {
+      "id": "1PH7UB24xps",
+      "title": "Architecting AKS Networking",
+      "category": "kubernetes",
+      "error": "Command failed: /Users/AD9C65/projects/pastel-projects/pastel-sketchbook/tools/yt-transcript/zig-out/bin/yt-transcript 1PH7UB24xps --max-chars 120000"
+    }
+  ]
 }
