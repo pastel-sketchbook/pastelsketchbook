@@ -30,9 +30,9 @@ This video argues that the traditional manual code review process is unsustainab
 
 ## Related Videos
 
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 107 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `code` · `generation` · `automation`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 108 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `code` · `generation` · `automation`)
 - [Leetgo](https://youtu.be/MuDJGnGTn3k) — Development · 53 views · Apr 9, 2026 · [Details](MuDJGnGTn3k.md) (shared: `developer productivity` · `developer` · `productivity`)
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 654 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `automation` · `architectural` · `workflow`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 656 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `automation` · `architectural` · `workflow`)
 - [Fuzzy Find Everything](https://youtu.be/IkVazryUiko) — Development · 56 views · Mar 4, 2026 · [Details](IkVazryUiko.md) (shared: `productivity` · `workflow`)
 - [Professional Al Agent Usage via the CLI](https://youtu.be/Xhq99-YHXCY) — Development · 25 views · Jan 2, 2026 · [Details](Xhq99-YHXCY.md) (shared: `code` · `developer`)
 

@@ -31,8 +31,8 @@ This video provides an architectural deep dive into the evolution of web protoco
 
 ## Related Videos
 
-- [Architecting the edge for HTTP/3 and QUIC](https://youtu.be/7Dchx829X_M) — Kubernetes · 93 views · Apr 4, 2026 · [Details](7Dchx829X_M.md) (shared: `http` · `quic` · `udp`)
-- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 14 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `http` · `head-of-line` · `blocking`)
+- [Architecting the edge for HTTP/3 and QUIC](https://youtu.be/7Dchx829X_M) — Kubernetes · 92 views · Apr 4, 2026 · [Details](7Dchx829X_M.md) (shared: `http` · `quic` · `udp`)
+- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 20 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `http` · `head-of-line` · `blocking`)
 - [The Programmer's Guide to Essential RFCs](https://youtu.be/LackTxguXFg) — Development · 100 views · Apr 10, 2026 · [Details](LackTxguXFg.md) (shared: `http` · `tcp` · `tls`)
 - [RFC 862 and the Echo Protocol](https://youtu.be/ea5lpF3RyzE) — Development · 39 views · Apr 7, 2026 · [Details](ea5lpF3RyzE.md) (shared: `udp` · `tcp`)
 - [The Evolution of RFCs in the Al Era](https://youtu.be/lsjfczYFBeQ) — Development · 28 views · Apr 16, 2026 · [Details](lsjfczYFBeQ.md) (shared: `tcp` · `tls`)

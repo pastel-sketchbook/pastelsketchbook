@@ -36,8 +36,8 @@ The video introduces the Semantic Operating System and Micro Module Architecture
 ## Related Videos
 
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `system` · `architecture` · `migration`)
-- [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 20 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `graph` · `detection`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 336 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `architecture` · `code`)
+- [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 22 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `graph` · `detection`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 341 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `architecture` · `code`)
 - [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) — Development · 4.1K views · Apr 3, 2026 · [Details](54lO6XE-AeQ.md) (shared: `system` · `architecture`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 86 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture`)
 

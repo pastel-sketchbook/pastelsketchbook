@@ -11,7 +11,7 @@ Videos connected by the topic `verlet integration`.
 
 ## Videos
 
-- [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) — Development · 122 views · Mar 18, 2026 · [Details](../details/_zJ3_d1CODg.md)
+- [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) — Development · 124 views · Mar 18, 2026 · [Details](../details/_zJ3_d1CODg.md)
 - [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 13 views · Jan 25, 2026 · [Details](../details/3Fpey_L_XRU.md)
 
 ---

@@ -32,9 +32,9 @@ This video introduces codeprobe, a Rust-based CLI (v0.3.0) that uses concurrent 
 
 - [Professional Al Agent Usage via the CLI](https://youtu.be/Xhq99-YHXCY) — Development · 25 views · Jan 2, 2026 · [Details](Xhq99-YHXCY.md) (shared: `cli` · `code` · `integration`)
 - [The LLM Wiki Paradigm](https://youtu.be/BzvpasWYESU) — Development · 2.5K views · Apr 9, 2026 · [Details](BzvpasWYESU.md) (shared: `code` · `automated` · `generation`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 336 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `code` · `generation`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 341 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `code` · `generation`)
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 136 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `code` · `generation`)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 107 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `code` · `generation`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 108 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `code` · `generation`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

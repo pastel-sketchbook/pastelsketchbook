@@ -33,7 +33,7 @@ This video details the architecture of an autonomous AI research swarm built in 
 - [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) — Development · 50 views · Feb 28, 2026 · [Details](AcpVuvtSXwI.md) (shared: `zig` · `gpt` · `architecture`)
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `autonomous` · `agents` · `automation`)
 - [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 23 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `autonomous` · `automation` · `architecture`)
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 654 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `automation` · `model` · `optimization`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 656 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `automation` · `model` · `optimization`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `autonomous` · `architecture`)
 
 ---

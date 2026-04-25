@@ -1,6 +1,6 @@
 ---
 type: index
-sources: 288
+sources: 283
 updated: 2026-04-25
 ---
 
@@ -13,8 +13,8 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 288 |
-| Total Views | 22.5K |
+| Total Videos | 283 |
+| Total Views | 22.6K |
 | Categories | 6 |
 | Last Updated | Apr 25, 2026 |
 
@@ -32,11 +32,11 @@ Videos covering personal finance, investing, and economics. 22 videos, 435 total
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 63 videos, 1.6K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 60 videos, 1.6K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 167 videos, 19.7K total views.
+Videos about software development, tools, workflows, and engineering practices. 165 videos, 19.7K total views.
 
 ### [Security](security.md)
 
