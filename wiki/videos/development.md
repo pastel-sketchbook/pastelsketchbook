@@ -23,7 +23,7 @@ updated: 2026-04-25
 
 ### AI & ML (37 videos)
 
-- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) -- 8 views, Apr 25, 2026
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) -- 8 views, Apr 25, 2026 · [Details](details/yAeM2vpPWeM.md)
 - [TanStack Al Composes the Modern Audio Stack](https://youtu.be/xvqZFPf5X60) -- 11 views, Apr 25, 2026 · [Details](details/xvqZFPf5X60.md)
 - [Machine Learning Systems](https://youtu.be/fNN88ZXWYKU) -- 14 views, Apr 24, 2026 · [Details](details/fNN88ZXWYKU.md)
 - [The Agentic Future](https://youtu.be/z_W9dX6fliM) -- 22 views, Apr 24, 2026 · [Details](details/z_W9dX6fliM.md)
@@ -103,7 +103,7 @@ updated: 2026-04-25
 
 ### Go (28 videos)
 
-- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) -- 8 views, Apr 25, 2026
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) -- 8 views, Apr 25, 2026 · [Details](details/yAeM2vpPWeM.md)
 - [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) -- 20 views, Apr 24, 2026 · [Details](details/L9ypC5863yA.md)
 - [Mastering Go Pointers](https://youtu.be/VHuQi_1t5qQ) -- 73 views, Apr 17, 2026 · [Details](details/VHuQi_1t5qQ.md)
 - [Leetgo](https://youtu.be/MuDJGnGTn3k) -- 53 views, Apr 9, 2026 · [Details](details/MuDJGnGTn3k.md)
@@ -177,7 +177,7 @@ updated: 2026-04-25
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Design for Deletion | 8 | Apr 25, 2026 | [Watch](https://youtu.be/yAeM2vpPWeM) |  |
+| 1 | Design for Deletion | 8 | Apr 25, 2026 | [Watch](https://youtu.be/yAeM2vpPWeM) | [Wiki](details/yAeM2vpPWeM.md) |
 | 2 | TanStack Al Composes the Modern Audio Stack | 11 | Apr 25, 2026 | [Watch](https://youtu.be/xvqZFPf5X60) | [Wiki](details/xvqZFPf5X60.md) |
 | 3 | Machine Learning Systems | 14 | Apr 24, 2026 | [Watch](https://youtu.be/fNN88ZXWYKU) | [Wiki](details/fNN88ZXWYKU.md) |
 | 4 | The Microservices Communication Playbook | 20 | Apr 24, 2026 | [Watch](https://youtu.be/L9ypC5863yA) | [Wiki](details/L9ypC5863yA.md) |

@@ -14489,7 +14489,12 @@
                 "code review",
                 "good code",
                 "dip"
-              ]
+              ],
+              "detail": {
+                "summary": "*Summary could not be generated (no Gemini API).*\n*Transcript available below.*",
+                "takeaways": [],
+                "topics": []
+              }
             },
             {
               "id": "xvqZFPf5X60",
@@ -19796,7 +19801,12 @@
                 "code review",
                 "good code",
                 "dip"
-              ]
+              ],
+              "detail": {
+                "summary": "*Summary could not be generated (no Gemini API).*\n*Transcript available below.*",
+                "takeaways": [],
+                "topics": []
+              }
             },
             {
               "id": "L9ypC5863yA",
@@ -23707,7 +23717,12 @@
             "code review",
             "good code",
             "dip"
-          ]
+          ],
+          "detail": {
+            "summary": "*Summary could not be generated (no Gemini API).*\n*Transcript available below.*",
+            "takeaways": [],
+            "topics": []
+          }
         },
         {
           "id": "xvqZFPf5X60",

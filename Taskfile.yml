@@ -95,14 +95,14 @@ tasks:
     dir: homepage
     deps: [tools:yt-transcript]
     cmds:
-      - bun scripts/generate-video-details.ts {{.CLI_ARGS | default "--top 10"}}
+      - bun scripts/generate-video-details.ts {{.CLI_ARGS | default "--all"}}
 
   wiki:transcripts:
     desc: Export raw video transcripts into wiki/raw/transcripts
     dir: homepage
     deps: [tools:yt-transcript]
     cmds:
-      - bun run wiki:transcripts {{.CLI_ARGS | default "--top 10"}}
+      - bun run wiki:transcripts {{.CLI_ARGS | default "--all"}}
 
   wiki:topics:
     desc: Generate topic pages + related-video links (from detail wikis)
