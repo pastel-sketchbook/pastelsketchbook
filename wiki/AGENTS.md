@@ -104,11 +104,11 @@ Generates per-video detail pages in `wiki/videos/details/`:
 
 1. Selects videos (default: top 10 by views; supports `--all`, `--category`, `--id`).
 2. Fetches YouTube transcript via `yt-transcript` CLI (`tools/yt-transcript/`).
-3. Summarizes transcript via Gemini (structured JSON: summary, takeaways, topics).
-4. Writes `wiki/videos/details/{video-id}.md` with frontmatter, summary, key
-   takeaways, topics covered, and tag links.
-5. Incremental: skips existing pages unless `--force` is passed.
-6. Appends to `wiki/log.md`.
+3. Writes scaffold page to `wiki/videos/details/{video-id}.md` with frontmatter,
+   embedded transcript, and tag links. Summary enrichment (key takeaways, topics
+   covered) is performed by the LLM from raw transcripts, not by Gemini.
+4. Incremental: skips existing pages unless `--force` is passed.
+5. Appends to `wiki/log.md`.
 
 Note: The `## Related Videos` section in detail pages is managed by
 `generate-wiki.ts`, not by the detail generation script. After generating

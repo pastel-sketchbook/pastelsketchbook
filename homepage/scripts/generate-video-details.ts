@@ -1,8 +1,10 @@
 /**
  * Generate per-video wiki detail pages from raw YouTube transcripts
  *
- * Fetches transcript for each video and writes individual markdown
- * pages to wiki/videos/details/{id}.md (no API calls made).
+ * Fetches transcript for each video and writes scaffold markdown pages
+ * to wiki/videos/details/{id}.md. Summary enrichment (key takeaways,
+ * topics covered) is performed by the LLM from raw transcripts, not
+ * by this script.
  *
  * Usage:
  *   bun scripts/generate-video-details.ts              # top 10 by views
@@ -49,24 +51,6 @@ const MAX_TRANSCRIPT_CHARS = 30_000
 
 const TRANSCRIPT_RETRIES = 3
 const TRANSCRIPT_RETRY_DELAY = 2000
-
-// -- Env --
-
-function loadEnv() {
-  const envPath = resolve('.env.local')
-  try {
-    const content = readFileSync(envPath, 'utf-8')
-    for (const line of content.split('\n')) {
-      const [key, ...valueParts] = line.split('=')
-      if (key && !key.startsWith('#')) {
-        const value = valueParts.join('=').trim()
-        if (value) process.env[key.trim()] = value
-      }
-    }
-  } catch {
-    // .env.local not found — expected in CI or when env is set externally
-  }
-}
 
 // -- Helpers --
 
@@ -241,8 +225,7 @@ function generateDetailPage(
     lines.push(
       '## Summary',
       '',
-      '*Summary could not be generated (no Gemini API).*',
-      '*Transcript available below.*',
+      '*Pending LLM enrichment from raw transcript.*',
       '',
       '## Transcript',
       '',
@@ -258,9 +241,7 @@ function generateDetailPage(
     lines.push(
       '## Summary',
       '',
-      '*Summary could not be generated (no Gemini API).*',
-      '',
-      '*Transcript available below.*',
+      '*Pending LLM enrichment from raw transcript.*',
       '',
     )
   }
@@ -301,7 +282,6 @@ function appendLog(count: number, label: string) {
 // -- Main --
 
 async function main() {
-  loadEnv()
 
   if (!existsSync(METADATA_PATH)) {
     console.error('[error] videos-metadata.json not found. Run sync:videos first.')
