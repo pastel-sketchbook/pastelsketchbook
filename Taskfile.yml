@@ -16,10 +16,30 @@ tasks:
       - bun run dev
 
   build:
-    desc: Build homepage and run due semiannual analysis
+    desc: Generate wikis, sync zmd index, then build homepage (lossless pipeline)
+    deps: [generate]
+    cmds:
+      - task: zmd:update
+      - task: build:only
+
+  build:only:
+    desc: Build homepage only (skip wiki generation and zmd sync)
     dir: homepage
     cmds:
       - bun run build
+
+  generate:
+    desc: Run all generators (transcripts, details, topics, analysis-if-due)
+    cmds:
+      - task: wiki:transcripts
+      - task: wiki:details
+      - task: wiki:topics
+      - task: wiki:analysis:if-due
+
+  zmd:update:
+    desc: Sync zmd index from wiki collection
+    cmds:
+      - zmd update
 
   wiki:analysis:
     desc: Generate semiannual channel analysis now

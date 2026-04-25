@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-16T22:00:00.000Z",
-  "runLabel": "all videos (direct generation from raw transcripts)",
-  "selected": 251,
-  "generated": 216,
-  "skipped": 35,
+  "generatedAt": "2026-04-25T16:57:33.353Z",
+  "runLabel": "top 10 by views",
+  "selected": 10,
+  "generated": 0,
+  "skipped": 10,
   "failedCount": 0,
   "failed": []
 }
