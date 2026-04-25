@@ -28,5 +28,13 @@ This video explores Rust's Serde library architecture, explaining how its data m
 
 `serde rust` · `serialization` · `zero-cost abstractions` · `data model` · `compile-time macros` · `json yaml binary`
 
+## Related Videos
+
+- [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `serde` · `rust` · `serialization`)
+- [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `rust` · `zero-cost abstractions` · `zero-cost`)
+- [zig-duckdb-ext](https://youtu.be/ymYtSum-2qc) — Development · 63 views · Mar 24, 2026 · [Details](ymYtSum-2qc.md) (shared: `zero-cost abstractions` · `zero-cost` · `abstractions`)
+- [Rusty Object Notation (RON)](https://youtu.be/NhYb7QkBdMs) — Development · 31 views · Apr 24, 2026 · [Details](NhYb7QkBdMs.md) (shared: `serde` · `rust` · `serialization`)
+- [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `serde` · `serialization` · `data`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

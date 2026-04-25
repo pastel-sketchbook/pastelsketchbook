@@ -20,6 +20,8 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 ## Categories
 
+- [Topics](tags/index.md) -- cross-links between videos by shared topics from detail pages.
+
 ### [Korea](korea.md)
 
 Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 17 videos, 211 total views.

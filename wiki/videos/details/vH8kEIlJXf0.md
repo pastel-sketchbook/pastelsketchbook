@@ -28,5 +28,13 @@ This Spanish-language video provides a professional survival guide for navigatin
 
 `latin american spanish` · `business etiquette` · `seseo pronunciation` · `cultural protocol` · `professional spanish` · `korean-spanish parallels`
 
+## Related Videos
+
+- [El Arte de Pedir Comida en Español](https://youtu.be/z76NXRg1YWs) — Korea · 11 views · Apr 2, 2026 · [Details](z76NXRg1YWs.md) (shared: `latin` · `american` · `spanish`)
+- [Guía de Supervivencia: Español para tu Llegada a Latinoamérica](https://youtu.be/oSqbvvcADmI) — Korea · 7 views · Mar 15, 2026 · [Details](oSqbvvcADmI.md) (shared: `latin` · `spanish`)
+- [Jeju: Un Recuerdo en Tonos Pastel](https://youtu.be/rxQvDuohbt8) — Korea · 13 views · Feb 8, 2026 · [Details](rxQvDuohbt8.md) (shared: `latin` · `american`)
+- [Jeonju y Gochang: Apuntes de Corea](https://youtu.be/EvcUSPWkOA8) — Korea · 16 views · Jan 4, 2026 · [Details](EvcUSPWkOA8.md) (shared: `cultural`)
+- [스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작](https://youtu.be/V2cZl5s4EKU) — Korea · 26 views · Dec 26, 2025 · [Details](V2cZl5s4EKU.md) (shared: `spanish`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [korea](../korea.md) · [index](../index.md).*

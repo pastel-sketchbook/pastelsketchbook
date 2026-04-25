@@ -28,5 +28,13 @@ This video presents a barbell portfolio strategy for 2026's bifurcated economy, 
 
 `barbell strategy` · `asymmetric investing` · `portfolio construction` · `risk management` · `ai investing` · `treasuries`
 
+## Related Videos
+
+- [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `barbell strategy` · `barbell` · `strategy`)
+- [An Ambitious Ascent](https://youtu.be/MDNRiJN7aEg) — Finance · 11 views · Dec 29, 2025 · [Details](MDNRiJN7aEg.md) (shared: `portfolio` · `risk management` · `risk`)
+- [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](EMXUbohWsWs.md) (shared: `strategy` · `investing` · `risk`)
+- [The Retirement Red Zone](https://youtu.be/KBfVy5-M-5k) — Finance · 15 views · Dec 31, 2025 · [Details](KBfVy5-M-5k.md) (shared: `strategy` · `portfolio` · `risk`)
+- [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 15 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `strategy` · `portfolio`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

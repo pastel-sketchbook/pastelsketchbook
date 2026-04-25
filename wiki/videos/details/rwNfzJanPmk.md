@@ -28,5 +28,13 @@ This Spanish-language video is a travel diary exploring Ganghwa Island, South Ko
 
 `ganghwa island` · `korean history` · `goryeo dynasty` · `joseon dynasty` · `healing tourism` · `travel diary`
 
+## Related Videos
+
+- [Un Viaje a Sokcho](https://youtu.be/QLcNRIHYmj0) — Korea · 17 views · Feb 4, 2026 · [Details](QLcNRIHYmj0.md) (shared: `korean history` · `korean` · `history`)
+- [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 10 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `korean history` · `korean` · `history`)
+- [Seúl 2026: Tu Diario de Viaje](https://youtu.be/kvdBJSRUchA) — Korea · 13 views · Feb 11, 2026 · [Details](kvdBJSRUchA.md) (shared: `korean` · `dynasty` · `joseon dynasty`)
+- [Jeonju y Gochang: Apuntes de Corea](https://youtu.be/EvcUSPWkOA8) — Korea · 16 views · Jan 4, 2026 · [Details](EvcUSPWkOA8.md) (shared: `korean` · `dynasty` · `joseon dynasty`)
+- [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 10 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `island` · `korean` · `travel`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [korea](../korea.md) · [index](../index.md).*

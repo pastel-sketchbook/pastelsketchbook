@@ -28,5 +28,13 @@ This video performs an analytical teardown of how Elixir 1.20 achieved a 400x ac
 
 `elixir type system` · `binary decision diagrams` · `set-theoretic types` · `compiler optimization` · `type inference` · `disjunctive normal form`
 
+## Related Videos
+
+- [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `type` · `system`)
+- [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 54 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `binary` · `optimization`)
+- [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 194 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `compiler` · `optimization`)
+- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 144 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `compiler`)
+- [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 34 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `normal`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

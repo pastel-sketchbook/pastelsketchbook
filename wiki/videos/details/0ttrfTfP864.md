@@ -28,5 +28,13 @@ This video is a technical deep dive into the ra-token-authority service, a centr
 
 `paseto tokens` · `zero trust authentication` · `axum` · `tokio` · `ed25519 key rotation` · `kubernetes security` · `istio`
 
+## Related Videos
+
+- [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 26 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `paseto tokens` · `paseto` · `tokens`)
+- [Modern Microservice Trust](https://youtu.be/SeYrpzDTn6A) — Development · 19 views · Jan 13, 2026 · [Details](SeYrpzDTn6A.md) (shared: `paseto tokens` · `paseto` · `tokens`)
+- [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `zero` · `trust` · `authentication`)
+- [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 42 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `zero` · `trust` · `kubernetes`)
+- [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 23 views · Jan 14, 2026 · [Details](A4-foXsdQiA.md) (shared: `zero` · `trust` · `kubernetes security`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

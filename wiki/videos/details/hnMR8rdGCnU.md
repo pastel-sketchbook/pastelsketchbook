@@ -28,5 +28,13 @@ This video explores the psychological transition high achievers face when career
 
 `post-career identity` · `retirement psychology` · `performance trap` · `fulfillment` · `high achiever transition` · `purpose beyond work`
 
+## Related Videos
+
+- [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 15 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `identity` · `retirement` · `transition`)
+- [The architecture of wealth](https://youtu.be/nfD3KzIriM8) — Finance · 8 views · Jan 16, 2026 · [Details](nfD3KzIriM8.md) (shared: `psychology`)
+- [The Three Pillars of Financial Freedom](https://youtu.be/K1O4kHjFJaQ) — Finance · 15 views · Jan 23, 2026 · [Details](K1O4kHjFJaQ.md) (shared: `retirement`)
+- [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `psychology`)
+- [The End of the American Penny](https://youtu.be/vzwjAlEz_bI) — Finance · 3 views · Apr 15, 2026 · [Details](vzwjAlEz_bI.md) (shared: `transition`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

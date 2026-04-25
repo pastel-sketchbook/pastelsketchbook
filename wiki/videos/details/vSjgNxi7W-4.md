@@ -28,5 +28,13 @@ This video presents YP, a terminal-based YouTube player built entirely in Rust t
 
 `rust tui` · `terminal video playback` · `mpv bindings` · `edge ai transcription` · `cli design patterns` · `multimedia in terminal`
 
+## Related Videos
+
+- [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `tui` · `terminal` · `cli`)
+- [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `rust` · `cli` · `patterns`)
+- [Reed: The Modern Terminal File Viewer](https://youtu.be/oUTf9j6fWJo) — Development · 142 views · Mar 30, 2026 · [Details](oUTf9j6fWJo.md) (shared: `rust` · `terminal` · `cli`)
+- [Pastel Market: Engineering a Unified Terminal Workspace](https://youtu.be/feWjiYzQQ-k) — Development · 41 views · Apr 19, 2026 · [Details](feWjiYzQQ-k.md) (shared: `rust tui` · `rust` · `tui`)
+- [kube-log-viewer](https://youtu.be/aiYBPCkvhes) — Kubernetes · 24 views · Mar 5, 2026 · [Details](aiYBPCkvhes.md) (shared: `rust tui` · `rust` · `tui`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -28,5 +28,13 @@ This video introduces BadgerDB, a pure Go embeddable key-value store engineered 
 
 `badgerdb` · `lsm-tree` · `wisckey thesis` · `write amplification` · `pure go storage` · `ssd optimization` · `key-value store`
 
+## Related Videos
+
+- [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 17 views · Apr 11, 2026 · [Details](a8heWpae5p0.md) (shared: `key-value` · `store`)
+- [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 26 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `storage`)
+- [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 46 views · Jan 16, 2026 · [Details](0U-SUJCmKAU.md) (shared: `storage`)
+- [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) — Kubernetes · 27 views · Apr 14, 2026 · [Details](mGMaqTvWrCc.md) (shared: `storage`)
+- [The Cloud Rosetta Stone](https://youtu.be/PMgUhFxrjPc) — Kubernetes · 20 views · Apr 18, 2026 · [Details](PMgUhFxrjPc.md) (shared: `storage`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

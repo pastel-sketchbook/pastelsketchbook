@@ -28,5 +28,13 @@ This video addresses the scaling challenge organizations face when managing over
 
 `helm charts` · `kubernetes at scale` · `microservices deployment` · `chart abstraction` · `deployment architecture`
 
+## Related Videos
+
+- [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) — Kubernetes · 11 views · Apr 22, 2026 · [Details](eZNBXDUc8OQ.md) (shared: `helm` · `chart` · `architecture`)
+- [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 12 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes` · `architecture`)
+- [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) — Kubernetes · 18 views · Jan 2, 2026 · [Details](8ycnldvJmuA.md) (shared: `kubernetes` · `architecture`)
+- [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](N4nRAfBZ3BE.md) (shared: `kubernetes` · `architecture`)
+- [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) — Kubernetes · 21 views · Jan 31, 2026 · [Details](Q4qm1hvVR2A.md) (shared: `deployment` · `architecture`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

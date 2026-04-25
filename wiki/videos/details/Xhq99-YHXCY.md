@@ -28,5 +28,13 @@ This video presents a framework for integrating AI agents into professional soft
 
 `ai agent workflows` · `cli ai integration` · `vibe coding critique` · `developer survey` · `code quality with ai` · `human in the loop`
 
+## Related Videos
+
+- [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `cli` · `integration` · `code`)
+- [The 2026 State of Al Agents](https://youtu.be/BAxPZdgmgRQ) — Development · 4 views · Jan 8, 2026 · [Details](BAxPZdgmgRQ.md) (shared: `workflows` · `coding`)
+- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 136 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `developer` · `code`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 107 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `agent` · `code`)
+- [Leetgo](https://youtu.be/MuDJGnGTn3k) — Development · 53 views · Apr 9, 2026 · [Details](MuDJGnGTn3k.md) (shared: `cli` · `developer`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

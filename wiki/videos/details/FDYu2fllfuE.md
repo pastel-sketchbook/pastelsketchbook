@@ -28,5 +28,13 @@ This video examines an ambitious data science project that attempted to predict 
 
 `march madness prediction` · `data science limits` · `sports analytics` · `feature engineering` · `kaggle datasets` · `predictive modeling`
 
+## Related Videos
+
+- [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 24 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `data` · `engineering`)
+- [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 37 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `data` · `analytics`)
+- [The 10k LOC Sweet Spot](https://youtu.be/pgTCcVO4gfg) — Development · 11 views · Apr 21, 2026 · [Details](pgTCcVO4gfg.md) (shared: `limits` · `engineering`)
+- [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) — Kubernetes · 15 views · Mar 13, 2026 · [Details](u60g2nMtVi4.md) (shared: `data` · `analytics` · `engineering`)
+- [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 34 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `data`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

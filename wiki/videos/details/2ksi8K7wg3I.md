@@ -29,5 +29,13 @@ This video tours Kubernetes 1.36 (“Haru”) as a platform-engineering release 
 
 `kubernetes 1.36` · `hostusers user namespaces` · `cel admission policies` · `dynamic resource allocation (dra)` · `gateway api migration` · `ingress-nginx end of life` · `oci volume source` · `control plane scalability`
 
+## Related Videos
+
+- [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 12 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes` · `control` · `plane`)
+- [Kubernetes Auto-Scaling Strategies](https://youtu.be/y3WwL48DLYw) — Kubernetes · 29 views · Feb 23, 2026 · [Details](y3WwL48DLYw.md) (shared: `kubernetes` · `resource`)
+- [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) — Kubernetes · 29 views · Jan 27, 2026 · [Details](KpSjLQpswW4.md) (shared: `kubernetes` · `control`)
+- [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `kubernetes`)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 12 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `kubernetes`)
+
 ---
 *Auto-generated on Apr 25, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

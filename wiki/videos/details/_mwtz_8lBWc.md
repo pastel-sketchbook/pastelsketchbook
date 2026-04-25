@@ -28,5 +28,13 @@ This video provides a comprehensive walkthrough of the modern 3D computer graphi
 
 `3d graphics pipeline` · `ray tracing` · `rasterization` · `bresenham's algorithm` · `lambertian lighting` · `parametric curves`
 
+## Related Videos
+
+- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 144 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline`)
+- [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 16 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `tracing`)
+- [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 26 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `algorithm`)
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 37 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `tracing`)
+- [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](B2x09utLjtM.md) (shared: `pipeline`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

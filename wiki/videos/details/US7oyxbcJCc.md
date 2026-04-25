@@ -28,5 +28,13 @@ This video presents a cloth simulation performance study comparing Zig and Swift
 
 `cloth simulation` · `zig performance` · `data-oriented design` · `webassembly vs native` · `swift host layer` · `real-time physics` · `c-abi bridge`
 
+## Related Videos
+
+- [Hardening a Prototype](https://youtu.be/DCGTYftRGWE) — Development · 23 views · Jan 25, 2026 · [Details](DCGTYftRGWE.md) (shared: `cloth simulation` · `cloth` · `simulation`)
+- [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 13 views · Jan 25, 2026 · [Details](3Fpey_L_XRU.md) (shared: `cloth simulation` · `cloth` · `simulation`)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 58 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `zig` · `performance` · `data-oriented design`)
+- [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 59 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `zig` · `data-oriented design` · `data-oriented`)
+- [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 45 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `native` · `swift` · `layer`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -28,5 +28,13 @@ This video presents a custom integration architecture between Adobe Experience M
 
 `adobe experience manager` · `meilisearch` · `search integration` · `content management` · `api bridge` · `typo tolerance` · `enterprise search`
 
+## Related Videos
+
+- [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `integration` · `enterprise`)
+- [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 20 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `manager` · `management`)
+- [React Native vs. Flutter for Enterprise Apps](https://youtu.be/jzjGcFkAnfs) — Development · 32 views · Feb 26, 2026 · [Details](jzjGcFkAnfs.md) (shared: `bridge` · `enterprise`)
+- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `management`)
+- [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `management`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -29,5 +29,13 @@ This video lays out a pragmatic 2026 decision framework for service-to-service c
 
 `rest vs grpc` · `http/1.1 head-of-line blocking` · `protobuf serialization` · `http/2 multiplexing` · `polyglot contracts` · `grpc streaming patterns` · `go grpc` · `rust tonic`
 
+## Related Videos
+
+- [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 206 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `http` · `head-of-line` · `blocking`)
+- [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `grpc` · `serialization` · `tonic`)
+- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 45 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `serialization` · `rust`)
+- [The Pragmatic Go Developer](https://youtu.be/oxNF_GNuWpE) — Development · 45 views · Mar 10, 2026 · [Details](oxNF_GNuWpE.md) (shared: `http` · `patterns`)
+- [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `patterns` · `rust`)
+
 ---
 *Auto-generated on Apr 25, 2026. Back to [development](../development.md) · [index](../index.md).*

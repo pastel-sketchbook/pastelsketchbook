@@ -28,5 +28,13 @@ This video presents a 5-year strategic forecast for AI programming languages, pr
 
 `ai programming languages` · `rust vs c++` · `go orchestration` · `ai stack architecture` · `cuda legacy` · `2031 forecast`
 
+## Related Videos
+
+- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 65 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `rust` · `orchestration` · `architecture`)
+- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 86 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `architecture`)
+- [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 23 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `stack` · `architecture`)
+- [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `architecture` · `legacy`)
+- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `programming` · `rust`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

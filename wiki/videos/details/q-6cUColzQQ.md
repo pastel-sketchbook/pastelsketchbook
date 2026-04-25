@@ -28,5 +28,13 @@ This presentation decodes Flutter Web's architecture, tracing its origins from a
 
 `flutter web` · `canvas rendering` · `DOM vs GPU` · `HTML renderer` · `CanvasKit` · `Wasm` · `web app vs web page` · `Dart`
 
+## Related Videos
+
+- [Flutter & Dart: The 2026 Roadmap](https://youtu.be/WMcKFQ200OE) — Development · 60 views · Feb 27, 2026 · [Details](WMcKFQ200OE.md) (shared: `flutter` · `renderer` · `wasm`)
+- [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 42 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `flutter` · `dart`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 107 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `flutter` · `dart`)
+- [PictureViewer](https://youtu.be/HiaotGxHTfo) — Development · 15 views · Feb 25, 2026 · [Details](HiaotGxHTfo.md) (shared: `gpu` · `app`)
+- [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `flutter` · `dart`)
+
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*

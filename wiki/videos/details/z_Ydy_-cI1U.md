@@ -28,5 +28,13 @@ This video uses biological analogies (hippo dung spreading vs. ant-scale process
 
 `monolith decomposition` · `microprocessing strategy` · `distributed systems analogy` · `problem decomposition` · `fine-grained processing`
 
+## Related Videos
+
+- [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `distributed` · `systems`)
+- [Hangul + WASM](https://youtu.be/9yov-ZVv-Bo) — Development · 43 views · Jan 19, 2026 · [Details](9yov-ZVv-Bo.md) (shared: `decomposition` · `processing`)
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 37 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `distributed` · `systems`)
+- [RFC 862 and the Echo Protocol](https://youtu.be/ea5lpF3RyzE) — Development · 39 views · Apr 7, 2026 · [Details](ea5lpF3RyzE.md) (shared: `distributed` · `systems`)
+- [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 29 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `monolith` · `distributed` · `systems`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

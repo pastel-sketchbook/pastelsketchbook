@@ -28,5 +28,13 @@ This video outlines a high-conviction leveraged investment strategy using a 90/1
 
 `leveraged etf` · `nasdaq 100` · `qqqm` · `tqqq` · `core-satellite portfolio` · `volatility decay` · `risk management`
 
+## Related Videos
+
+- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 12 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `portfolio` · `risk management` · `risk`)
+- [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](EMXUbohWsWs.md) (shared: `etf` · `risk`)
+- [The Retirement Red Zone](https://youtu.be/KBfVy5-M-5k) — Finance · 15 views · Dec 31, 2025 · [Details](KBfVy5-M-5k.md) (shared: `portfolio` · `risk`)
+- [The 2026  Playbook for High-Yield & Covered Call ETFs](https://youtu.be/s1BoGn9r7oE) — Finance · 2 views · Jan 5, 2026 · [Details](s1BoGn9r7oE.md) (shared: `etf` · `management`)
+- [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 15 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `portfolio`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

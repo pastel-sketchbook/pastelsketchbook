@@ -28,5 +28,13 @@ This video presents zig-lottie, a zero-dependency Lottie animation renderer writ
 
 `zig programming` · `lottie animation` · `webassembly` · `zero-dependency design` · `json parsing` · `dual-target compilation`
 
+## Related Videos
+
+- [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 30 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `zig programming` · `zig` · `programming`)
+- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 31 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `programming` · `design`)
+- [Smooth Motion](https://youtu.be/qbBA7GWZbu4) — Development · 48 views · Jan 24, 2026 · [Details](qbBA7GWZbu4.md) (shared: `zig programming` · `zig` · `programming`)
+- [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 112 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `zig` · `programming` · `webassembly`)
+- [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 12 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `zig` · `webassembly` · `design`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

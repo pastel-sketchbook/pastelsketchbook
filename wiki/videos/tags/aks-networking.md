@@ -1,0 +1,18 @@
+---
+type: tag
+tags: [aks-networking]
+sources: 2
+updated: 2026-04-25
+---
+
+# aks networking
+
+Videos connected by the topic `aks networking`.
+
+## Videos
+
+- [Kubernetes Services & Istio](https://youtu.be/OnwiaDRj1-k) — Kubernetes · 30 views · Jan 12, 2026 · [Details](../details/OnwiaDRj1-k.md)
+- [Architecting AKS Networking - Trade-offs](https://youtu.be/F09-7mNt3F4) — Kubernetes · 14 views · Mar 12, 2026 · [Details](../details/F09-7mNt3F4.md)
+
+---
+*Auto-generated on Apr 25, 2026. Back to [topic index](index.md).*

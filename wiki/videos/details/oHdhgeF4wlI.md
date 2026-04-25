@@ -28,5 +28,13 @@ Drawing from TigerBeetle's architectural philosophy, this video argues that the 
 
 `tigerbeetle` · `survivability` · `fault tolerance` · `distributed systems` · `financial transactions` · `resilience engineering` · `system architecture`
 
+## Related Videos
+
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 37 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `fault tolerance` · `fault` · `tolerance`)
+- [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) — Kubernetes · 70 views · Mar 22, 2026 · [Details](QE51ybyrQDM.md) (shared: `distributed systems` · `distributed` · `systems`)
+- [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 29 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `distributed systems` · `distributed` · `systems`)
+- [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `distributed` · `architecture`)
+- [The Golden Path](https://youtu.be/ORjARjbukhY) — Kubernetes · 25 views · Feb 21, 2026 · [Details](ORjARjbukhY.md) (shared: `engineering` · `architecture`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

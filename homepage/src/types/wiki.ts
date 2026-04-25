@@ -6,6 +6,14 @@ export const WikiVideoDetailSchema = z.object({
   summary: z.string(),
   takeaways: z.array(z.string()),
   topics: z.array(z.string()),
+  related: z
+    .array(
+      z.object({
+        id: z.string(),
+        sharedTopics: z.array(z.string()),
+      }),
+    )
+    .optional(),
 })
 
 export const WikiVideoSchema = z.object({
@@ -42,6 +50,17 @@ export const WikiBundleSchema = z.object({
     z.object({
       tag: z.string(),
       categories: z.array(z.string()),
+      videos: z
+        .array(
+          z.object({
+            id: z.string(),
+            title: z.string(),
+            views: z.number().nonnegative(),
+            date: z.string(),
+            category: z.string(),
+          }),
+        )
+        .optional(),
     }),
   ),
 })

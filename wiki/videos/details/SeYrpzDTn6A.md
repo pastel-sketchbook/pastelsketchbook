@@ -28,5 +28,13 @@ This video presents a blueprint for building secure token-based trust in distrib
 
 `paseto tokens` · `jwt vulnerabilities` · `service mesh security` · `token authority` · `rust cryptography` · `microservice authentication`
 
+## Related Videos
+
+- [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 26 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `paseto tokens` · `paseto` · `tokens`)
+- [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 21 views · Jan 16, 2026 · [Details](0ttrfTfP864.md) (shared: `paseto tokens` · `paseto` · `tokens`)
+- [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `security` · `microservice` · `authentication`)
+- [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 42 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `service mesh security` · `service` · `mesh`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 45 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `service` · `mesh` · `security`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

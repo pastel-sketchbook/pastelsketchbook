@@ -33,5 +33,13 @@ This presentation explores Bayesian inference as a mathematically optimal framew
 
 [reasoning](../tags/reasoning.md) · [bayesian](../tags/bayesian.md) · [inference](../tags/inference.md) · [posterior](../tags/posterior.md)
 
+## Related Videos
+
+- [The Geometry of Light](https://youtu.be/_mwtz_8lBWc) — Development · 29 views · Mar 21, 2026 · [Details](_mwtz_8lBWc.md) (shared: `algorithm`)
+- [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 26 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `algorithm`)
+- [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 53 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `base`)
+- [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `algorithm`)
+- [The Calculus of ALOHA Networks](https://youtu.be/s585HlqiyMQ) — Development · 77 views · Apr 10, 2026 · [Details](s585HlqiyMQ.md) (shared: `probability`)
+
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

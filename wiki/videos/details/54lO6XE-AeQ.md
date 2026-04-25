@@ -33,5 +33,13 @@ This video provides a deep dive into zero-copy architecture, an optimization str
 
 [zero-copy](../tags/zero-copy.md) · [i/o](../tags/i/o.md) · [modern](../tags/modern.md) · [languages](../tags/languages.md)
 
+## Related Videos
+
+- [Leetgo](https://youtu.be/MuDJGnGTn3k) — Development · 53 views · Apr 9, 2026 · [Details](MuDJGnGTn3k.md) (shared: `context switching` · `context` · `switching`)
+- [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 23 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `architecture` · `memory`)
+- [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `architecture` · `system`)
+- [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 112 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `architecture` · `memory`)
+- [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `system` · `memory`)
+
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

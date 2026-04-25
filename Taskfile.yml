@@ -84,6 +84,12 @@ tasks:
     cmds:
       - bun run wiki:transcripts {{.CLI_ARGS | default "--top 10"}}
 
+  wiki:topics:
+    desc: Generate topic pages + related-video links (from detail wikis)
+    dir: homepage
+    cmds:
+      - bun scripts/generate-wiki.ts
+
   zmd:lookup:
     desc: "Search wiki context via zmd (example: task zmd:lookup -- 'LLM wiki')"
     cmds:

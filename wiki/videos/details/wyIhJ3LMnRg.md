@@ -28,5 +28,13 @@ This video explains the W3C Trace Context specification, a standardized set of H
 
 `w3c trace context` · `distributed tracing` · `traceparent header` · `multi-vendor observability` · `http trace propagation` · `cloud interoperability`
 
+## Related Videos
+
+- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 107 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `context` · `distributed tracing` · `distributed`)
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 37 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `distributed tracing` · `distributed` · `tracing`)
+- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 91 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `distributed tracing` · `distributed` · `tracing`)
+- [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 16 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `tracing` · `observability`)
+- [The Pragmatic Go Developer](https://youtu.be/oxNF_GNuWpE) — Development · 45 views · Mar 10, 2026 · [Details](oxNF_GNuWpE.md) (shared: `context` · `http`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

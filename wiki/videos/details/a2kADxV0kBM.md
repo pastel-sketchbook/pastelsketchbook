@@ -28,5 +28,13 @@ This video dissects the architecture of zig-twitter, a terminal-based Twitter cl
 
 `zig` · `terminal ui` · `twitter graphql api` · `subprocess architecture` · `cli design` · `tui rendering`
 
+## Related Videos
+
+- [Bubble Tea v2](https://youtu.be/Hfut9CfJhN0) — Development · 54 views · Mar 2, 2026 · [Details](Hfut9CfJhN0.md) (shared: `terminal ui` · `terminal` · `tui`)
+- [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `terminal` · `cli` · `design`)
+- [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 30 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `zig` · `api` · `architecture`)
+- [Reed: The Modern Terminal File Viewer](https://youtu.be/oUTf9j6fWJo) — Development · 142 views · Mar 30, 2026 · [Details](oUTf9j6fWJo.md) (shared: `terminal` · `cli` · `rendering`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 779 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `api` · `architecture` · `design`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

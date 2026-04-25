@@ -33,5 +33,13 @@ This video addresses the tendency of AI coding agents to generate outdated Go co
 
 [go](../tags/go.md) · [jetbrains](../tags/jetbrains.md) · [modern](../tags/modern.md)
 
+## Related Videos
+
+- [The Pragmatic Go Developer](https://youtu.be/oxNF_GNuWpE) — Development · 45 views · Mar 10, 2026 · [Details](oxNF_GNuWpE.md) (shared: `go standard library` · `standard` · `library`)
+- [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `go standard library` · `standard` · `library`)
+- [Taming the Genie](https://youtu.be/MaP2i4dTiQk) — Development · 15 views · Jan 23, 2026 · [Details](MaP2i4dTiQk.md) (shared: `software` · `llm` · `code`)
+- [The LLM Wiki Paradigm](https://youtu.be/BzvpasWYESU) — Development · 2.5K views · Apr 9, 2026 · [Details](BzvpasWYESU.md) (shared: `llm` · `code`)
+- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 743 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `technical` · `debt`)
+
 ---
 *Auto-generated on Apr 6, 2026. Back to [development](../development.md) · [index](../index.md).*

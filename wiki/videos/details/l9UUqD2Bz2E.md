@@ -28,5 +28,13 @@ This video examines the economic anomaly of Coca-Cola maintaining a fixed 5-cent
 
 `price rigidity` · `inflation history` · `coca-cola pricing` · `consumer price index` · `vending machine economics` · `monetary policy`
 
+## Related Videos
+
+- [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `price`)
+- [마음 속의 계산기](https://youtu.be/gKYw0_jkNFI) — Programming · 9 views · Jan 11, 2026 · [Details](gKYw0_jkNFI.md) (shared: `history`)
+- [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 10 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `history`)
+- [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 42 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `policy`)
+- [Ganghwa: Un Viaje en Tonos Pastel](https://youtu.be/rwNfzJanPmk) — Korea · 6 views · Feb 6, 2026 · [Details](rwNfzJanPmk.md) (shared: `history`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

@@ -28,5 +28,13 @@ This video follows a piece of code through its entire lifecycle from git commit 
 
 `ci/cd pipeline` · `containerization` · `container registry` · `continuous integration` · `devops lifecycle` · `automated deployment`
 
+## Related Videos
+
+- [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](C6wLm6NRZW4.md) (shared: `container` · `registry` · `devops`)
+- [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) — Kubernetes · 18 views · Jan 2, 2026 · [Details](8ycnldvJmuA.md) (shared: `ci/cd pipeline` · `pipeline` · `devops`)
+- [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](B2x09utLjtM.md) (shared: `ci/cd pipeline` · `pipeline` · `continuous`)
+- [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) — Kubernetes · 21 views · Jan 31, 2026 · [Details](Q4qm1hvVR2A.md) (shared: `integration` · `deployment`)
+- [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) — Kubernetes · 27 views · Apr 14, 2026 · [Details](mGMaqTvWrCc.md) (shared: `automated` · `deployment`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

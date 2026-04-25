@@ -28,5 +28,13 @@ This video introduces minikv, an open-source (MIT) distributed key-value store b
 
 `raft consensus` · `distributed key-value store` · `vector search` · `time series` · `kubernetes operator` · `write-ahead log`
 
+## Related Videos
+
+- [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) — Kubernetes · 75 views · Apr 5, 2026 · [Details](WRpjJV4SUKc.md) (shared: `distributed` · `kubernetes` · `write-ahead log`)
+- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) — Kubernetes · 45 views · Feb 12, 2026 · [Details](eI2DXGISpbk.md) (shared: `key-value` · `store`)
+- [kube-log-viewer](https://youtu.be/aiYBPCkvhes) — Kubernetes · 24 views · Mar 5, 2026 · [Details](aiYBPCkvhes.md) (shared: `kubernetes` · `log`)
+- [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 12 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes`)
+- [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `kubernetes`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

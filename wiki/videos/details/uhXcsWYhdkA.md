@@ -28,5 +28,13 @@ This video presents a strategic implementation guide for data classification bas
 
 `data classification` · `nist sp 1839` · `dark data` · `zero trust architecture` · `unstructured data management` · `enterprise security`
 
+## Related Videos
+
+- [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 18 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `nist` · `management` · `enterprise`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 45 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `zero trust architecture` · `zero` · `trust`)
+- [Designing for Privacy](https://youtu.be/_5DCBqOCr8c) — Security · 31 views · Apr 18, 2026 · [Details](_5DCBqOCr8c.md) (shared: `data` · `management`)
+- [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 53 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `data` · `security`)
+- [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) — Security · 34 views · Mar 25, 2026 · [Details](CA1nlknmR3g.md) (shared: `architecture` · `security`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

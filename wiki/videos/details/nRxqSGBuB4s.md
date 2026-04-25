@@ -28,5 +28,13 @@ This video covers the core algorithmic patterns essential for writing efficient 
 
 `algorithms` · `binary search` · `linear search` · `data structures` · `technical interviews` · `time complexity` · `sorting`
 
+## Related Videos
+
+- [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `algorithms` · `time complexity` · `time`)
+- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 45 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `binary` · `data`)
+- [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 34 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `data`)
+- [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 24 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `data`)
+- [The Go Concurrency Paradox](https://youtu.be/KCuGqld6nOc) — Development · 49 views · Jan 9, 2026 · [Details](KCuGqld6nOc.md) (shared: `data`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -33,5 +33,13 @@ Jujutsu (JJ) is a Git-compatible version control system designed to improve deve
 
 [git](../tags/git.md) · [jujutsu](../tags/jujutsu.md) · [jj](../tags/jj.md) · [workflow](../tags/workflow.md)
 
+## Related Videos
+
+- [Jujutsu (jj):  An Introduction of its Paradigm Shift](https://youtu.be/5st-kLcNrE8) — Development · 116 views · Feb 5, 2026 · [Details](5st-kLcNrE8.md) (shared: `jujutsu` · `git compatibility` · `git`)
+- [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 20 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `git` · `data` · `version`)
+- [The Modern Git Playbook](https://youtu.be/Z06RjO-zFxI) — Development · 33 views · Jan 18, 2026 · [Details](Z06RjO-zFxI.md) (shared: `git` · `history` · `version`)
+- [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 34 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `data` · `distributed`)
+- [The Art of Git Gardening](https://youtu.be/PNFlYx8HiOM) — Development · 16 views · Dec 31, 2025 · [Details](PNFlYx8HiOM.md) (shared: `git` · `history`)
+
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

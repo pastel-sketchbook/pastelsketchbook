@@ -28,5 +28,13 @@ This presentation provides a framework for understanding the relationship betwee
 
 `temporal arbitrage` · `real hourly rate` · `wealth stages` · `time vs money` · `10-year dividend` · `financial freedom`
 
+## Related Videos
+
+- [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 15 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `financial freedom` · `financial` · `freedom`)
+- [The architecture of wealth](https://youtu.be/nfD3KzIriM8) — Finance · 8 views · Jan 16, 2026 · [Details](nfD3KzIriM8.md) (shared: `wealth` · `financial`)
+- [The Three Pillars of Financial Freedom](https://youtu.be/K1O4kHjFJaQ) — Finance · 15 views · Jan 23, 2026 · [Details](K1O4kHjFJaQ.md) (shared: `wealth`)
+- [The Essential Algorithmic Toolkit](https://youtu.be/nRxqSGBuB4s) — Development · 55 views · Mar 6, 2026 · [Details](nRxqSGBuB4s.md) (shared: `time`)
+- [A Trillion Transactions](https://youtu.be/oHdhgeF4wlI) — Kubernetes · 37 views · Apr 12, 2026 · [Details](oHdhgeF4wlI.md) (shared: `financial`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

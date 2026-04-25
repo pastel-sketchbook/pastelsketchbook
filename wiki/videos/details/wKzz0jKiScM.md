@@ -28,5 +28,13 @@ This presentation architects a polyglot modern IDE within Emacs 29+ using evil-m
 
 `Emacs 29` · `evil-mode` · `Eglot` · `Tree-sitter` · `use-package` · `Vertico` · `Consult` · `Corfu` · `Cape` · `Magit` · `Neovim migration` · `LSP`
 
+## Related Videos
+
+- [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `migration`)
+- [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 45 views · Apr 21, 2026 · [Details](xkHQhOgapfY.md) (shared: `tree-sitter`)
+- [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 206 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `migration`)
+- [Rusty Object Notation (RON)](https://youtu.be/NhYb7QkBdMs) — Development · 31 views · Apr 24, 2026 · [Details](NhYb7QkBdMs.md) (shared: `lsp`)
+- [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 94 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `migration`)
+
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*

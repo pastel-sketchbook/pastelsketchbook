@@ -28,5 +28,13 @@ This video introduces Pastel Market, a high-performance Rust TUI that consolidat
 
 `rust tui` · `market-core crate` · `pastel picker` · `reigns market` · `yahoo finance screeners` · `dynamic seeding` · `sector visibility` · `reactive ui` · `ureq` · `rust 2024 edition`
 
+## Related Videos
+
+- [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `rust tui` · `rust` · `tui`)
+- [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 59 views · Apr 20, 2026 · [Details](FM6zp63maS8.md) (shared: `rust` · `tui`)
+- [Rust 1.95.0](https://youtu.be/izLrX-02IQk) — Development · 193 views · Apr 18, 2026 · [Details](izLrX-02IQk.md) (shared: `rust` · `crate`)
+- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 86 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust`)
+- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust`)
+
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*

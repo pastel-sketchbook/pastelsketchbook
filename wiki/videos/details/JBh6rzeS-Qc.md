@@ -28,5 +28,13 @@ This video presents a mastery guide for Dart 3.x, covering the language's fundam
 
 `dart 3.x` · `sound null safety` · `pattern matching` · `records` · `feature flags` · `type safety`
 
+## Related Videos
+
+- [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `safety` · `pattern matching` · `pattern`)
+- [OpenFeature: The Standard for Feature Flagging](https://youtu.be/X65YHZUnFq0) — Development · 47 views · Apr 16, 2026 · [Details](X65YHZUnFq0.md) (shared: `feature flags` · `feature` · `flags`)
+- [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `dart` · `pattern`)
+- [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 54 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `feature` · `flags`)
+- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `safety`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

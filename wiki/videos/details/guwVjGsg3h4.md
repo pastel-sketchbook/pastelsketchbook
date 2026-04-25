@@ -28,5 +28,13 @@ This video examines sorting algorithms at the intersection of mathematical theor
 
 `sorting algorithms` · `go standard library` · `time complexity` · `cache locality` · `algorithm stability` · `hardware-aware optimization`
 
+## Related Videos
+
+- [The Essential Algorithmic Toolkit](https://youtu.be/nRxqSGBuB4s) — Development · 55 views · Mar 6, 2026 · [Details](nRxqSGBuB4s.md) (shared: `sorting` · `algorithms` · `time complexity`)
+- [The Pragmatic Go Developer](https://youtu.be/oxNF_GNuWpE) — Development · 45 views · Mar 10, 2026 · [Details](oxNF_GNuWpE.md) (shared: `go standard library` · `standard` · `library`)
+- [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) — Development · 145 views · Mar 24, 2026 · [Details](yCJDmGrk8sM.md) (shared: `cache locality` · `cache` · `locality`)
+- [Writing Modern Go in the Age of Al](https://youtu.be/Z90u9EVf4M4) — Development · 190 views · Mar 26, 2026 · [Details](Z90u9EVf4M4.md) (shared: `go standard library` · `standard` · `library`)
+- [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 59 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `cache` · `optimization`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

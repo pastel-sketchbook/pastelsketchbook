@@ -28,5 +28,13 @@ This Spanish-language travel documentary explores Jinju and Jirisan mountain in 
 
 `jinju fortress` · `jirisan mountain` · `imjin war 1592` · `admiral yi sun-sin` · `korean-japanese history` · `spanish philippines` · `korean resistance`
 
+## Related Videos
+
+- [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 10 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `history` · `korean`)
+- [Ganghwa: Un Viaje en Tonos Pastel](https://youtu.be/rwNfzJanPmk) — Korea · 6 views · Feb 6, 2026 · [Details](rwNfzJanPmk.md) (shared: `history` · `korean`)
+- [스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작](https://youtu.be/V2cZl5s4EKU) — Korea · 26 views · Dec 26, 2025 · [Details](V2cZl5s4EKU.md) (shared: `spanish` · `korean`)
+- [Un Viaje a Sokcho](https://youtu.be/QLcNRIHYmj0) — Korea · 17 views · Feb 4, 2026 · [Details](QLcNRIHYmj0.md) (shared: `history` · `korean`)
+- [Hasta pronto, Danyang](https://youtu.be/awa_UWXFOao) — Korea · 11 views · Feb 2, 2026 · [Details](awa_UWXFOao.md) (shared: `korean`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [korea](../korea.md) · [index](../index.md).*

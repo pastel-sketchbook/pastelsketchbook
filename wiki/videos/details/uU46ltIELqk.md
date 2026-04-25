@@ -28,5 +28,13 @@ This video presents seven critical engineering takeaways from Google Cloud's exp
 
 `generative ai at scale` · `google cloud ai` · `ai pipeline engineering` · `hallucination mitigation` · `cross-language documentation` · `enterprise ai deployment`
 
+## Related Videos
+
+- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 35 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `enterprise ai deployment` · `enterprise` · `deployment`)
+- [The 2026 State of Al Agents](https://youtu.be/BAxPZdgmgRQ) — Development · 4 views · Jan 8, 2026 · [Details](BAxPZdgmgRQ.md) (shared: `generative` · `enterprise`)
+- [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](B2x09utLjtM.md) (shared: `pipeline` · `deployment`)
+- [From Bottlenecks to Breakthroughs:](https://youtu.be/TLqdeHlAo3A) — Development · 45 views · Dec 27, 2025 · [Details](TLqdeHlAo3A.md) (shared: `enterprise` · `deployment`)
+- [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `pipeline` · `documentation`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

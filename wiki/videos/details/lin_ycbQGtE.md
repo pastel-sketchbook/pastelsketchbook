@@ -28,5 +28,13 @@ This video dissects the architecture of a real-time audio visualizer built with 
 
 `bevy game engine` · `rust` · `julia set fractals` · `wgsl shaders` · `cpal audio` · `real-time audio visualization` · `onset detection`
 
+## Related Videos
+
+- [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) — Development · 122 views · Mar 18, 2026 · [Details](_zJ3_d1CODg.md) (shared: `bevy` · `engine` · `rust`)
+- [Neural TTS in Pastel-HN](https://youtu.be/d_0swhS1LyQ) — Development · 45 views · Feb 1, 2026 · [Details](d_0swhS1LyQ.md) (shared: `rust` · `audio`)
+- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 86 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust`)
+- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust`)
+- [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 59 views · Apr 20, 2026 · [Details](FM6zp63maS8.md) (shared: `rust`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

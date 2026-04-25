@@ -44,6 +44,13 @@ interface VideoDetail {
   summary: string
   takeaways: string[]
   topics: string[]
+  related?: { id: string; sharedTopics: string[] }[]
+}
+
+interface RelatedVideo {
+  id: string
+  score: number
+  sharedTopics: string[]
 }
 
 /**
@@ -184,6 +191,57 @@ function fmtViews(n: number): string {
 
 function label(s: string): string {
   return s.charAt(0).toUpperCase() + s.slice(1)
+}
+
+function normalizeTopic(topic: string): string {
+  return topic
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, ' ')
+}
+
+function topicVariants(topic: string): string[] {
+  const out = new Set<string>()
+  const push = (t: string) => {
+    const n = normalizeTopic(t)
+    if (n) out.add(n)
+  }
+
+  push(topic)
+
+  // Expand "foo (bar)" into "foo" and "bar"
+  const paren = topic.match(/^(.*?)\s*\(([^)]+)\)\s*$/)
+  if (paren) {
+    push(paren[1])
+    push(paren[2])
+  }
+
+  for (const v of [...out]) {
+    if (v.includes('text-to-speech')) out.add('tts')
+    if (v.includes('speech-to-text')) out.add('stt')
+    if (v.includes('server-sent events')) out.add('sse')
+  }
+
+  // Add individual words as variants so partial overlaps register.
+  // Filter noise words (< 3 chars) and common filler.
+  const STOP_WORDS = new Set(['the', 'and', 'for', 'with', 'from', 'into', 'over', 'via', 'based'])
+  for (const v of [...out]) {
+    const words = v.split(/[\s/]+/).filter((w) => w.length >= 3 && !STOP_WORDS.has(w))
+    for (const w of words) out.add(w)
+  }
+
+  return [...out]
+}
+
+function slugifyTopic(topic: string): string {
+  const base = normalizeTopic(topic)
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+  return base.length > 0 ? base : 'topic'
+}
+
+function fmtDetailDate(iso: string): string {
+  return fmtDate(iso)
 }
 
 // -- Topic Clustering --
@@ -460,6 +518,8 @@ function generateVideosIndex(
     '',
     '## Categories',
     '',
+    '- [Topics](tags/index.md) -- cross-links between videos by shared topics from detail pages.',
+    '',
   ]
 
   for (const cat of stats) {
@@ -564,6 +624,176 @@ function appendLog(
   }
 }
 
+function buildIdToCategory(): Map<string, string> {
+  const m = new Map<string, string>()
+  for (const [category, ids] of Object.entries(VIDEO_CONFIG)) {
+    for (const id of ids) m.set(id, category)
+  }
+  return m
+}
+
+function computeRelated(
+  videoDetails: Map<string, VideoDetail>,
+  idToCategory: Map<string, string>,
+  forId: string,
+  max: number,
+): RelatedVideo[] {
+  const seed = videoDetails.get(forId)
+  if (!seed || seed.topics.length === 0) return []
+
+  const seedTopics = new Set(seed.topics.flatMap(topicVariants))
+  const seedCategory = idToCategory.get(forId) || ''
+
+  const scored: RelatedVideo[] = []
+  for (const [id, detail] of videoDetails.entries()) {
+    if (id === forId) continue
+    if (detail.topics.length === 0) continue
+
+    const topics = detail.topics.flatMap(topicVariants)
+    const otherSet = new Set(topics)
+
+    const shared: string[] = []
+    for (const t of seedTopics) {
+      if (otherSet.has(t)) shared.push(t)
+    }
+    if (shared.length === 0) continue
+
+    const unionSize = new Set([...seedTopics, ...otherSet]).size
+    const jaccard = unionSize > 0 ? shared.length / unionSize : 0
+
+    // Small boost for same category to keep results locally coherent.
+    const cat = idToCategory.get(id) || ''
+    const boost = seedCategory && cat === seedCategory ? 0.05 : 0
+    scored.push({ id, score: jaccard + boost, sharedTopics: shared })
+  }
+
+  return scored
+    .sort((a, b) => b.score - a.score)
+    .slice(0, max)
+}
+
+function upsertRelatedSection(
+  detailPath: string,
+  related: RelatedVideo[],
+  lookup: Map<string, VideoMetadata>,
+  idToCategory: Map<string, string>,
+): void {
+  if (!existsSync(detailPath)) return
+
+  const original = readFileSync(detailPath, 'utf-8')
+
+  // Remove existing related section if present.
+  const withoutRelated = original.replace(
+    /^## Related Videos\s*\n[\s\S]*?(?=^## |^---\s*$)/gm,
+    '',
+  )
+
+  if (related.length === 0) {
+    // No related videos; write only if we removed something.
+    if (withoutRelated !== original) writeFileSync(detailPath, withoutRelated)
+    return
+  }
+
+  const lines: string[] = []
+  lines.push('## Related Videos', '')
+  for (const r of related) {
+    const meta = lookup.get(r.id)
+    const title = meta?.title || r.id
+    const views = meta?.views ?? 0
+    const date = meta?.date || new Date().toISOString()
+    const category = idToCategory.get(r.id) || 'uncategorized'
+    const shared = r.sharedTopics.slice(0, 3).map((t) => `\`${t}\``).join(' · ')
+    lines.push(
+      `- [${title}](https://youtu.be/${r.id}) — ${label(category)} · ${fmtViews(views)} views · ${fmtDetailDate(date)} · [Details](${r.id}.md)` +
+        (shared ? ` (shared: ${shared})` : ''),
+    )
+  }
+  lines.push('')
+
+  const block = lines.join('\n')
+
+  // Insert just before the footer (--- ... Auto-generated ...).
+  const footerIdx = withoutRelated.lastIndexOf('\n---\n')
+  if (footerIdx === -1) {
+    writeFileSync(detailPath, `${withoutRelated.trim()}\n\n${block}\n`)
+    return
+  }
+
+  const before = withoutRelated.slice(0, footerIdx).trimEnd()
+  const after = withoutRelated.slice(footerIdx)
+  writeFileSync(detailPath, `${before}\n\n${block}${after}`)
+}
+
+function generateTopicIndexPage(
+  generatedAt: string,
+  topics: { slug: string; topic: string; count: number }[],
+): string {
+  const lines: string[] = [
+    '---',
+    'type: index',
+    `updated: ${isoDate(generatedAt)}`,
+    '---',
+    '',
+    '# Topic Index',
+    '',
+    'Auto-generated index of topics extracted from per-video detail pages.',
+    '',
+    `Total topics: ${topics.length}`,
+    '',
+    '## Topics',
+    '',
+  ]
+
+  for (const t of topics) {
+    lines.push(`- [${t.topic}](${t.slug}.md) (${t.count})`)
+  }
+
+  lines.push(
+    '',
+    '---',
+    `*Auto-generated on ${fmtDate(generatedAt)}. Back to [videos index](../index.md).*`,
+  )
+  return lines.join('\n')
+}
+
+function generateTopicPage(
+  generatedAt: string,
+  topic: string,
+  videos: VideoMetadata[],
+  idToCategory: Map<string, string>,
+  slug: string,
+): string {
+  const lines: string[] = [
+    '---',
+    'type: tag',
+    `tags: [${slug}]`,
+    `sources: ${videos.length}`,
+    `updated: ${isoDate(generatedAt)}`,
+    '---',
+    '',
+    `# ${topic}`,
+    '',
+    `Videos connected by the topic \`${normalizeTopic(topic)}\`.`,
+    '',
+    '## Videos',
+    '',
+  ]
+
+  for (const v of videos) {
+    const category = idToCategory.get(v.id) || 'uncategorized'
+    lines.push(
+      `- [${v.title}](https://youtu.be/${v.id}) — ${label(category)} · ${fmtViews(v.views)} views · ${fmtDate(v.date)} · [Details](../details/${v.id}.md)`,
+    )
+  }
+
+  lines.push(
+    '',
+    '---',
+    `*Auto-generated on ${fmtDate(generatedAt)}. Back to [topic index](index.md).*`,
+  )
+  return lines.join('\n')
+}
+
 // -- Main --
 
 function main() {
@@ -574,8 +804,10 @@ function main() {
   }
 
   mkdirSync(WIKI_VIDEOS, { recursive: true })
+  mkdirSync(WIKI_TAGS, { recursive: true })
 
   const lookup = buildLookup(metadata.videos)
+  const idToCategory = buildIdToCategory()
 
   // Collect per-category tag maps for cross-referencing
   const allCategoryTags: Record<string, Map<string, number>> = {}
@@ -659,6 +891,74 @@ function main() {
   const videoDetails = loadVideoDetails()
   console.log(`  loaded ${videoDetails.size} video detail pages`)
 
+  // Topic pages use only full compound topics (not word-level tokens).
+  // Word-level tokens are used only inside computeRelated for Jaccard scoring.
+  const topicToIds = new Map<string, Set<string>>() // normalized topic -> ids
+  for (const [id, d] of videoDetails.entries()) {
+    for (const t of d.topics) {
+      const norm = normalizeTopic(t)
+      if (!norm) continue
+      if (!topicToIds.has(norm)) topicToIds.set(norm, new Set())
+      topicToIds.get(norm)!.add(id)
+
+      // Also expand parenthetical variants for tag pages
+      const paren = t.match(/^(.*?)\s*\(([^)]+)\)\s*$/)
+      if (paren) {
+        for (const sub of [paren[1], paren[2]]) {
+          const n = normalizeTopic(sub)
+          if (n) {
+            if (!topicToIds.has(n)) topicToIds.set(n, new Set())
+            topicToIds.get(n)!.add(id)
+          }
+        }
+      }
+    }
+  }
+
+  // Write per-topic pages (only topics shared by 2+ videos)
+  const topicEntries = [...topicToIds.entries()]
+    .filter(([, ids]) => ids.size >= 2)
+    .map(([topic, ids]) => ({ topic, ids }))
+    .sort((a, b) => b.ids.size - a.ids.size || a.topic.localeCompare(b.topic))
+
+  const usedSlugs = new Set<string>()
+  const topicIndex = topicEntries.map(({ topic, ids }) => {
+    let slug = slugifyTopic(topic)
+    let i = 2
+    while (usedSlugs.has(slug)) {
+      slug = `${slugifyTopic(topic)}-${i}`
+      i++
+    }
+    usedSlugs.add(slug)
+
+    const videos = [...ids]
+      .map((id) => lookup.get(id))
+      .filter((v): v is VideoMetadata => v !== undefined)
+      .sort((a, b) => b.views - a.views)
+
+    const page = generateTopicPage(metadata.generatedAt, topic, videos, idToCategory, slug)
+    writeFileSync(resolve(WIKI_TAGS, `${slug}.md`), page)
+    return { slug, topic, count: ids.size }
+  })
+
+  writeFileSync(resolve(WIKI_TAGS, 'index.md'), generateTopicIndexPage(metadata.generatedAt, topicIndex))
+  console.log(`  videos/tags/index.md (${topicIndex.length} topics)`)
+
+  // Upsert "Related Videos" section in each detail page.
+  const relatedById = new Map<string, { id: string; sharedTopics: string[] }[]>()
+  for (const id of videoDetails.keys()) {
+    const related = computeRelated(videoDetails, idToCategory, id, 5)
+    const detailPath = resolve(WIKI_DETAILS, `${id}.md`)
+    upsertRelatedSection(detailPath, related, lookup, idToCategory)
+
+    if (related.length > 0) {
+      relatedById.set(
+        id,
+        related.map((r) => ({ id: r.id, sharedTopics: r.sharedTopics.slice(0, 5) })),
+      )
+    }
+  }
+
   const enrichVideo = (v: VideoMetadata, category: string) => {
     const base: Record<string, unknown> = {
       id: v.id,
@@ -669,7 +969,14 @@ function main() {
     }
     if (v.tags && v.tags.length > 0) base.tags = v.tags
     const detail = videoDetails.get(v.id)
-    if (detail) base.detail = detail
+    if (detail) {
+      const related = relatedById.get(v.id)
+      if (related && related.length > 0) {
+        base.detail = { ...detail, related }
+      } else {
+        base.detail = detail
+      }
+    }
     return base
   }
 
@@ -706,10 +1013,26 @@ function main() {
         videos: videos.map((v) => enrichVideo(v, category)),
       }
     }),
-    crossCategoryTags: sharedTags.slice(0, 15).map((st) => ({
-      tag: st.tag,
-      categories: st.categories,
-    })),
+    crossCategoryTags: sharedTags.slice(0, 15).map((st) => {
+      // Collect videos that carry this tag across all categories
+      const vids: { id: string; title: string; views: number; date: string; category: string }[] = []
+      for (const [category, videoIds] of Object.entries(VIDEO_CONFIG)) {
+        if (!st.categories.includes(category)) continue
+        for (const id of videoIds) {
+          const v = lookup.get(id)
+          if (!v) continue
+          if (v.tags?.includes(st.tag)) {
+            vids.push({ id: v.id, title: v.title, views: v.views, date: v.date, category })
+          }
+        }
+      }
+      vids.sort((a, b) => b.views - a.views)
+      return {
+        tag: st.tag,
+        categories: st.categories,
+        videos: vids,
+      }
+    }),
   }
 
   const bundlePath = resolve('public', 'wiki-bundle.json')

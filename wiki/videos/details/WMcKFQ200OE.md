@@ -28,5 +28,13 @@ This video covers the official Flutter and Dart 2026 roadmap, focusing on four s
 
 `flutter roadmap` · `dart 2026` · `impeller renderer` · `wasm compilation` · `agentic apps` · `gen ui` · `a2 ui protocol`
 
+## Related Videos
+
+- [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) — Development · 26 views · Apr 18, 2026 · [Details](q-6cUColzQQ.md) (shared: `flutter` · `dart` · `renderer`)
+- [React Native vs. Flutter for Enterprise Apps](https://youtu.be/jzjGcFkAnfs) — Development · 32 views · Feb 26, 2026 · [Details](jzjGcFkAnfs.md) (shared: `flutter` · `dart` · `impeller`)
+- [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `flutter` · `dart` · `apps`)
+- [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 42 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `flutter` · `dart`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 107 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `flutter` · `dart`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

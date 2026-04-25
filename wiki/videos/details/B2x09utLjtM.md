@@ -28,5 +28,13 @@ This presentation explains how trunk-based development and feature toggles creat
 
 `trunk-based development` · `feature toggles` · `continuous delivery` · `deployment frequency` · `ci/cd pipeline` · `small batch workflow`
 
+## Related Videos
+
+- [From Bottlenecks to Breakthroughs:](https://youtu.be/TLqdeHlAo3A) — Development · 45 views · Dec 27, 2025 · [Details](TLqdeHlAo3A.md) (shared: `trunk-based development` · `trunk-based` · `development`)
+- [The Art of Git Gardening](https://youtu.be/PNFlYx8HiOM) — Development · 16 views · Dec 31, 2025 · [Details](PNFlYx8HiOM.md) (shared: `trunk-based development` · `trunk-based` · `development`)
+- [The Codebase Lifecycle](https://youtu.be/ctKLD4d146g) — Kubernetes · 16 views · Jan 13, 2026 · [Details](ctKLD4d146g.md) (shared: `continuous` · `deployment` · `ci/cd pipeline`)
+- [Generative Al at Scale](https://youtu.be/uU46ltIELqk) — Development · 14 views · Mar 27, 2026 · [Details](uU46ltIELqk.md) (shared: `deployment` · `pipeline`)
+- [Ralph: The Autonomous Vibe Coding Workflow](https://youtu.be/V2LbQqD1lMM) — Development · 34 views · Jan 31, 2026 · [Details](V2LbQqD1lMM.md) (shared: `development` · `workflow`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

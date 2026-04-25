@@ -28,5 +28,13 @@ This video introduces Drasi, a change-driven architecture platform that replaces
 
 `drasi` · `change-driven architecture` · `continuous queries` · `event-driven architecture` · `real-time data` · `polling alternatives`
 
+## Related Videos
+
+- [Continuous Flow](https://youtu.be/tcrNdx1yH_E) — Kubernetes · 15 views · Mar 22, 2026 · [Details](tcrNdx1yH_E.md) (shared: `architecture` · `event-driven architecture` · `event-driven`)
+- [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) — Kubernetes · 70 views · Mar 22, 2026 · [Details](QE51ybyrQDM.md) (shared: `architecture` · `event-driven architecture` · `event-driven`)
+- [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 29 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `architecture` · `event-driven` · `data`)
+- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 86 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture` · `event-driven architecture` · `event-driven`)
+- [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `architecture` · `data`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

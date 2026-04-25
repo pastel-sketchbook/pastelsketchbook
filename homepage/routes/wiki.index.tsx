@@ -5,6 +5,7 @@ import { ChunkErrorBoundary } from '../src/components/ui/ChunkErrorBoundary'
 import { VideoModal } from '../src/components/VideoModal'
 import { motion, AnimatePresence } from 'framer-motion'
 import { fetchWikiBundle, fmtViews, fmtDate, catLabel } from '../src/utils/wiki'
+import type { WikiBundle } from '../src/types/wiki'
 
 export const Route = createFileRoute('/wiki/')({
   component: WikiWithErrorBoundary,
@@ -265,18 +266,9 @@ function Wiki() {
             <h2 className="text-sm font-bold uppercase tracking-widest text-[#1B3022]/40 mb-4">
               Cross-Category Tags
             </h2>
-            <div className="flex flex-wrap gap-2">
+            <div className="space-y-2">
               {wiki.crossCategoryTags.map((ct) => (
-                <span
-                  key={ct.tag}
-                  className="px-3 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-wider bg-[#E9C46A]/15 text-[#1B3022]/70 border border-[#E9C46A]/30"
-                  title={`Shared by: ${ct.categories.map(catLabel).join(', ')}`}
-                >
-                  {ct.tag}{' '}
-                  <span className="text-[#1B3022]/40">
-                    ({ct.categories.length})
-                  </span>
-                </span>
+                <CrossCategoryTag key={ct.tag} ct={ct} />
               ))}
             </div>
           </motion.div>
@@ -486,6 +478,84 @@ function Wiki() {
         videoId={playingVideoId}
         onClose={() => setPlayingVideoId(null)}
       />
+    </div>
+  )
+}
+
+function CrossCategoryTag({
+  ct,
+}: {
+  ct: WikiBundle['crossCategoryTags'][number]
+}) {
+  const [open, setOpen] = useState(false)
+  const videos = ct.videos ?? []
+
+  return (
+    <div className="rounded-xl sketch-border border-[#1B3022]/5 bg-white overflow-hidden">
+      <button
+        onClick={() => setOpen((o) => !o)}
+        className="w-full flex items-center justify-between px-4 py-3 text-left hover:bg-[#E9C46A]/5 transition-colors cursor-pointer"
+      >
+        <div className="flex items-center gap-3">
+          <span className="text-xs font-bold uppercase tracking-wider text-[#1B3022]/70">
+            {ct.tag}
+          </span>
+          <span className="text-xs text-[#1B3022]/40">
+            {videos.length} video{videos.length !== 1 ? 's' : ''} across{' '}
+            {ct.categories.map(catLabel).join(', ')}
+          </span>
+        </div>
+        <svg
+          className={`w-4 h-4 text-[#1B3022]/30 transition-transform ${open ? 'rotate-180' : ''}`}
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="2"
+            d="M19 9l-7 7-7-7"
+          />
+        </svg>
+      </button>
+
+      <AnimatePresence>
+        {open && videos.length > 0 && (
+          <motion.div
+            initial={{ height: 0, opacity: 0 }}
+            animate={{ height: 'auto', opacity: 1 }}
+            exit={{ height: 0, opacity: 0 }}
+            transition={{ duration: 0.2 }}
+            className="overflow-hidden"
+          >
+            <div className="px-4 pb-3 space-y-2 border-t border-[#1B3022]/5">
+              {videos.map((v) => (
+                <div
+                  key={v.id}
+                  className="flex items-center justify-between py-2 first:pt-3"
+                >
+                  <div className="flex items-center gap-3 min-w-0">
+                    <span className="px-2 py-0.5 rounded-full bg-[#5F7D61]/10 text-[#5F7D61] text-[10px] font-bold uppercase tracking-wider flex-shrink-0">
+                      {catLabel(v.category)}
+                    </span>
+                    <Link
+                      to="/wiki/video/$id"
+                      params={{ id: v.id }}
+                      className="text-[13px] text-[#1B3022] font-serif italic hover:text-[#5F7D61] transition-colors truncate"
+                    >
+                      {v.title}
+                    </Link>
+                  </div>
+                  <span className="text-xs text-[#1B3022]/40 flex-shrink-0 ml-3">
+                    {fmtViews(v.views)} views
+                  </span>
+                </div>
+              ))}
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
     </div>
   )
 }

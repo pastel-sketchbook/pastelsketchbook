@@ -28,5 +28,13 @@ This video presents a structured migration framework for moving workloads from A
 
 `aws to azure migration` · `cloud migration strategy` · `like-for-like mapping` · `cosmos db` · `azure vnet` · `scope creep prevention`
 
+## Related Videos
+
+- [The Cloud Rosetta Stone](https://youtu.be/PMgUhFxrjPc) — Kubernetes · 20 views · Apr 18, 2026 · [Details](PMgUhFxrjPc.md) (shared: `aws` · `azure` · `mapping`)
+- [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) — Kubernetes · 25 views · Apr 4, 2026 · [Details](7iWL5-0C66s.md) (shared: `migration` · `cloud`)
+- [Modern Hybrid Identity ](https://youtu.be/nJ10P-fRqZQ) — Kubernetes · 8 views · Mar 17, 2026 · [Details](nJ10P-fRqZQ.md) (shared: `migration` · `cloud`)
+- [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 13 views · Mar 10, 2026 · [Details](Hd767VA7Z-0.md) (shared: `azure` · `strategy`)
+- [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](C6wLm6NRZW4.md) (shared: `azure`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

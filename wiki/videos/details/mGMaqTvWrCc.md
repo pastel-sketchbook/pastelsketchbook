@@ -28,5 +28,13 @@ This video walks through building a complete MLOps pipeline on Microsoft Azure, 
 
 `mlops` · `azure managed endpoints` · `jupyter notebook trap` · `scikit-learn` · `azure blob storage` · `model versioning` · `automated ml deployment`
 
+## Related Videos
+
+- [The Codebase Lifecycle](https://youtu.be/ctKLD4d146g) — Kubernetes · 16 views · Jan 13, 2026 · [Details](ctKLD4d146g.md) (shared: `automated` · `deployment`)
+- [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 26 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `azure` · `storage`)
+- [A Blueprint for Secure Azure Authentication in Go](https://youtu.be/R2zktRqz81U) — Kubernetes · 18 views · Jan 12, 2026 · [Details](R2zktRqz81U.md) (shared: `azure` · `managed`)
+- [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 13 views · Mar 10, 2026 · [Details](Hd767VA7Z-0.md) (shared: `azure` · `deployment`)
+- [The Cloud Rosetta Stone](https://youtu.be/PMgUhFxrjPc) — Kubernetes · 20 views · Apr 18, 2026 · [Details](PMgUhFxrjPc.md) (shared: `azure` · `storage`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

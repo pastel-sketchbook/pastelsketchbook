@@ -32,5 +32,13 @@ The repository pattern is an architectural abstraction that decouples UI compone
 
 [decoupling](../tags/decoupling.md) · [frontend](../tags/frontend.md) · [repository](../tags/repository.md)
 
+## Related Videos
+
+- [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 30 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `repository pattern` · `repository` · `pattern`)
+- [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `repository pattern` · `repository` · `pattern`)
+- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 65 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `pattern` · `architecture` · `dependency injection`)
+- [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `repository pattern` · `repository` · `pattern`)
+- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 45 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `pattern` · `architecture` · `dependency injection`)
+
 ---
 *Auto-generated on Apr 6, 2026. Back to [development](../development.md) · [index](../index.md).*

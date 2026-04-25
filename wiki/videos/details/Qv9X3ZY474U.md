@@ -33,5 +33,13 @@ This video details the architectural evolution of a vision-based screen descript
 
 [zig](../tags/zig.md) · [rust](../tags/rust.md) · [python](../tags/python.md) · [qwen3.5](../tags/qwen3.5.md) · [vision](../tags/vision.md)
 
+## Related Videos
+
+- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 31 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `rust` · `zig` · `manual memory management`)
+- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `zig` · `memory`)
+- [The Hybrid TUI Architecture](https://youtu.be/IZX3_9rZeMU) — Development · 542 views · Feb 10, 2026 · [Details](IZX3_9rZeMU.md) (shared: `ffi` · `interface` · `memory`)
+- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust` · `memory` · `management`)
+- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 347 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `memory` · `management`)
+
 ---
 *Auto-generated on Apr 6, 2026. Back to [development](../development.md) · [index](../index.md).*

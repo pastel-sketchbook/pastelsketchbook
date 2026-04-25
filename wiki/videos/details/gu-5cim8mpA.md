@@ -28,5 +28,13 @@ This video serves as a foundational reference guide for novice AI/BI developers 
 
 `uv package manager` · `duckdb` · `python data pipelines` · `git version control` · `ai/bi development` · `python environment management`
 
+## Related Videos
+
+- [Jujutsu (jj) for Git-compatible Workflow](https://youtu.be/TmlqoKqMD2Y) — Development · 137 views · Feb 5, 2026 · [Details](TmlqoKqMD2Y.md) (shared: `data` · `git` · `version`)
+- [The Modern Git Playbook](https://youtu.be/Z06RjO-zFxI) — Development · 33 views · Jan 18, 2026 · [Details](Z06RjO-zFxI.md) (shared: `git` · `version` · `control`)
+- [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 37 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `duckdb` · `python` · `data`)
+- [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 36 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `development` · `management`)
+- [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `package` · `data`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

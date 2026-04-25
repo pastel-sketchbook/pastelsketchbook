@@ -28,5 +28,13 @@ This video examines the problem of cryptographic API misuse (85% misuse rate in 
 
 `cryptographic api misuse` · `google tink` · `secure by design` · `developer security` · `stack overflow vulnerabilities` · `encryption libraries`
 
+## Related Videos
+
+- [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 26 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `cryptographic` · `security`)
+- [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `api` · `design`)
+- [Modern Microservice Trust](https://youtu.be/SeYrpzDTn6A) — Development · 19 views · Jan 13, 2026 · [Details](SeYrpzDTn6A.md) (shared: `security` · `vulnerabilities`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 779 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `api` · `design`)
+- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 268 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `google` · `design`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -28,5 +28,13 @@ This video presents a chronological blueprint for the final five years before re
 
 `retirement planning` · `pre-retirement strategy` · `financial freedom` · `identity transition` · `healthcare costs` · `portfolio allocation`
 
+## Related Videos
+
+- [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](EMXUbohWsWs.md) (shared: `retirement planning` · `retirement` · `planning`)
+- [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `strategy` · `portfolio allocation` · `portfolio`)
+- [The Final 5 Years](https://youtu.be/G-vvSNwm-jE) — Finance · 19 views · Mar 20, 2026 · [Details](G-vvSNwm-jE.md) (shared: `retirement` · `planning` · `pre-retirement`)
+- [The Three Pillars of Financial Freedom](https://youtu.be/K1O4kHjFJaQ) — Finance · 15 views · Jan 23, 2026 · [Details](K1O4kHjFJaQ.md) (shared: `retirement planning` · `retirement` · `planning`)
+- [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) — Finance · 46 views · Mar 26, 2026 · [Details](hnMR8rdGCnU.md) (shared: `retirement` · `identity` · `transition`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

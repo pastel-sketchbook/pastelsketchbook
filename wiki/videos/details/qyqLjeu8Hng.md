@@ -28,5 +28,13 @@ This Korean-language video examines whether the "3,000-hour rule" for English li
 
 `english listening` · `3000 hour rule` · `sound map concept` · `deliberate practice` · `korean language learning` · `active listening methods`
 
+## Related Videos
+
+- [Tu Viaje al Corazón de Corea](https://youtu.be/L9sxbq8ugoU) — Korea · 4 views · Jan 1, 2026 · [Details](L9sxbq8ugoU.md) (shared: `korean language learning` · `korean` · `language`)
+- [타입스크립트와 번으로 배우는 프로그래밍 1](https://youtu.be/T5FjMjTQCBI) — Programming · 77 views · Jan 10, 2026 · [Details](T5FjMjTQCBI.md) (shared: `korean` · `language`)
+- [Hangul Typing](https://youtu.be/Pp36ysjfWd8) — Development · 8 views · Jan 22, 2026 · [Details](Pp36ysjfWd8.md) (shared: `korean` · `language` · `learning`)
+- [비동기 처리 - async/await](https://youtu.be/F6aMGDfVAFg) — Programming · 18 views · Jan 10, 2026 · [Details](F6aMGDfVAFg.md) (shared: `korean`)
+- [타입스크립트와 번으로 만드는 TODO 리스트](https://youtu.be/D1Hth_78ftg) — Programming · 9 views · Jan 10, 2026 · [Details](D1Hth_78ftg.md) (shared: `korean`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [programming](../programming.md) · [index](../index.md).*

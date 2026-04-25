@@ -28,5 +28,13 @@ This presentation is an architectural guide to long polling and its role in achi
 
 `long polling` · `short polling` · `server push` · `held connection` · `HTTP compatibility` · `WebSockets` · `event volatility` · `latency` · `firewalls` · `live dashboards`
 
+## Related Videos
+
+- [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 206 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `connection` · `http`)
+- [The Programmer's Guide to Essential RFCs](https://youtu.be/LackTxguXFg) — Development · 100 views · Apr 10, 2026 · [Details](LackTxguXFg.md) (shared: `http`)
+- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 25 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `latency`)
+- [Isolating Observability in Go](https://youtu.be/xfOATs8ncLM) — Development · 17 views · Mar 12, 2026 · [Details](xfOATs8ncLM.md) (shared: `server`)
+- [The Pragmatic Go Developer](https://youtu.be/oxNF_GNuWpE) — Development · 45 views · Mar 10, 2026 · [Details](oxNF_GNuWpE.md) (shared: `http`)
+
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -28,5 +28,13 @@ This video provides a CTO-level architectural comparison of React Native versus 
 
 `react native vs flutter` · `cross-platform mobile` · `skia impeller` · `dart aot compilation` · `native bridge architecture` · `enterprise mobile strategy`
 
+## Related Videos
+
+- [Flutter & Dart: The 2026 Roadmap](https://youtu.be/WMcKFQ200OE) — Development · 60 views · Feb 27, 2026 · [Details](WMcKFQ200OE.md) (shared: `flutter` · `impeller` · `dart`)
+- [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 45 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `native` · `cross-platform` · `bridge`)
+- [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 36 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `flutter` · `mobile` · `architecture`)
+- [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `flutter` · `dart` · `architecture`)
+- [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 42 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `flutter` · `dart`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

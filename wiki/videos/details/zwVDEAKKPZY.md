@@ -33,5 +33,13 @@ Go 1.26 introduces a paradigm shift toward automated modernization and intent-ba
 
 [go](../tags/go.md) · [1.26](../tags/1.26.md) · [go fix](../tags/go fix.md) · [modernizers](../tags/modernizers.md)
 
+## Related Videos
+
+- [The 10-Lens Research Analysis Framework](https://youtu.be/NztD5fYpXcg) — Development · 32 views · Mar 7, 2026 · [Details](NztD5fYpXcg.md) (shared: `analysis` · `framework`)
+- [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 56 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `framework` · `automated`)
+- [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `analysis` · `automated`)
+- [Mastering Go Pointers](https://youtu.be/VHuQi_1t5qQ) — Development · 73 views · Apr 17, 2026 · [Details](VHuQi_1t5qQ.md) (shared: `analysis` · `slices`)
+- [Writing Modern Go in the Age of Al](https://youtu.be/Z90u9EVf4M4) — Development · 190 views · Mar 26, 2026 · [Details](Z90u9EVf4M4.md) (shared: `technical` · `debt`)
+
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

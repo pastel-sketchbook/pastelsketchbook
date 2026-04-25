@@ -28,5 +28,13 @@ This video examines the NIST Cybersecurity Framework 2.0, highlighting its shift
 
 `nist csf 2.0` · `cybersecurity framework` · `enterprise risk management` · `security posture assessment` · `compliance`
 
+## Related Videos
+
+- [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 16 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `nist` · `enterprise` · `management`)
+- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) — Security · 70 views · Mar 31, 2026 · [Details](Zeg8zSOvoyE.md) (shared: `framework` · `security`)
+- [From Blueprint to Battlefield](https://youtu.be/2kvYb2pVe5o) — Development · 32 views · Dec 27, 2025 · [Details](2kvYb2pVe5o.md) (shared: `nist` · `2.0` · `security`)
+- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 44 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security`)
+- [The Orchestrator's Blueprint](https://youtu.be/Oa3jaLNSZvM) — Security · 36 views · Feb 28, 2026 · [Details](Oa3jaLNSZvM.md) (shared: `security`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

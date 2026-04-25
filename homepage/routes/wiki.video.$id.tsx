@@ -29,6 +29,14 @@ function findVideo(
   return null
 }
 
+function buildVideoLookup(categories: { name: string; videos: WikiVideo[] }[]): Map<string, WikiVideo> {
+  const m = new Map<string, WikiVideo>()
+  for (const cat of categories) {
+    for (const v of cat.videos) m.set(v.id, v)
+  }
+  return m
+}
+
 function VideoDetail() {
   const { id } = Route.useParams()
   const [isPlaying, setIsPlaying] = useState(false)
@@ -95,6 +103,7 @@ function VideoDetail() {
   }
 
   const video = findVideo(wiki.categories, id)
+  const videoLookup = buildVideoLookup(wiki.categories)
 
   if (!video) {
     return (
@@ -339,6 +348,61 @@ function VideoDetail() {
                       {topic}
                     </span>
                   ))}
+                </div>
+              </section>
+            )}
+
+            {/* Related Videos */}
+            {detail.related && detail.related.length > 0 && (
+              <section>
+                <h2 className="text-sm font-bold uppercase tracking-widest text-[#1B3022]/40 mb-3">
+                  Related Videos
+                </h2>
+                <div className="space-y-3">
+                  {detail.related.map((r) => {
+                    const rv = videoLookup.get(r.id)
+                    if (!rv) return null
+                    return (
+                      <div
+                        key={r.id}
+                        className="bg-white rounded-xl sketch-border border-[#1B3022]/5 p-5"
+                      >
+                        <Link
+                          to="/wiki/video/$id"
+                          params={{ id: r.id }}
+                          className="text-[#1B3022] font-serif italic hover:text-[#5F7D61] transition-colors"
+                        >
+                          {rv.title}
+                        </Link>
+                        <div className="mt-2 flex flex-wrap items-center gap-2 text-xs text-[#1B3022]/50">
+                          {rv.category && (
+                            <>
+                              <span className="px-2 py-1 rounded-full bg-[#5F7D61]/10 text-[#5F7D61] text-[10px] font-bold uppercase tracking-wider">
+                                {catLabel(rv.category)}
+                              </span>
+                              <span className="text-[#1B3022]/20">&middot;</span>
+                            </>
+                          )}
+                          <span>{fmtViews(rv.views)} views</span>
+                          <span className="text-[#1B3022]/20">&middot;</span>
+                          <span>{fmtDate(rv.date)}</span>
+                        </div>
+
+                        {r.sharedTopics.length > 0 && (
+                          <div className="mt-3 flex flex-wrap gap-2">
+                            {r.sharedTopics.slice(0, 6).map((t) => (
+                              <span
+                                key={`${r.id}-${t}`}
+                                className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-[#E9C46A]/10 text-[#1B3022]/60 border border-[#E9C46A]/25"
+                              >
+                                {t}
+                              </span>
+                            ))}
+                          </div>
+                        )}
+                      </div>
+                    )
+                  })}
                 </div>
               </section>
             )}

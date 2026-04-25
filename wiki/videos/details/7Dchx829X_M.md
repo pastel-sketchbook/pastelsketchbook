@@ -28,5 +28,13 @@ This video explores the architectural shift from TCP to HTTP/3 and QUIC for clou
 
 `http/3` · `quic protocol` · `tcp ossification` · `edge architecture` · `connection migration` · `udp userspace transport` · `cloud-native networking`
 
+## Related Videos
+
+- [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 206 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `http` · `quic` · `tcp`)
+- [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) — Kubernetes · 18 views · Jan 2, 2026 · [Details](8ycnldvJmuA.md) (shared: `architecture` · `cloud-native`)
+- [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 29 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `architecture` · `migration`)
+- [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `architecture` · `migration` · `cloud-native`)
+- [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 12 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `architecture`)
+
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*
