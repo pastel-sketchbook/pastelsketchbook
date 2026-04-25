@@ -7,7 +7,7 @@ import { VideoSkeleton } from "../src/components/VideoSkeleton"
 import { VideoSearch } from "../src/components/VideoSearch"
 import { ChunkErrorBoundary } from "../src/components/ui/ChunkErrorBoundary"
 import { motion, AnimatePresence } from "framer-motion"
-import { allVideoIds, videoCategories } from "../src/config/videos"
+import { allVideoIds, videoCategories, HIDDEN_VIDEO_IDS } from "../src/config/videos"
 import { logger, MetricsLogger } from "../src/lib/logger"
 
 const metricsLogger = MetricsLogger.getInstance()
@@ -137,7 +137,9 @@ function Showcase() {
         }
     }, [metadataError, showAlert])
 
-    const allItems: VideoItem[] = videoMetadata.map((item) => ({
+    const allItems: VideoItem[] = videoMetadata
+        .filter((item) => !HIDDEN_VIDEO_IDS.has(item.id))
+        .map((item) => ({
         ...item,
         date: formatYouTubeDate(item.date),
         category: videoCategories[item.id],

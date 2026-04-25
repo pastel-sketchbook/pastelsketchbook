@@ -91,6 +91,9 @@ interface YouTubeApiItem {
   statistics: {
     viewCount: string
   }
+  status?: {
+    privacyStatus: string
+  }
 }
 
 interface ApiResponse {
@@ -229,7 +232,7 @@ export default async function handler(
 
   try {
     // Call YouTube Data API v3 with validated IDs
-    const youtubeUrl = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=${idList.join(',')}&key=${apiKey}`
+    const youtubeUrl = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics,status&id=${idList.join(',')}&key=${apiKey}`
 
     const response = await fetch(youtubeUrl)
 
@@ -246,8 +249,17 @@ export default async function handler(
 
     const data = await response.json()
 
-    // Extract and transform video metadata
-    const videos: YouTubeVideo[] = (data.items || []).map((item: YouTubeApiItem) => ({
+    // Extract and transform video metadata, filtering out non-public videos
+    const videos: YouTubeVideo[] = (data.items || [])
+      .filter((item: YouTubeApiItem) => {
+        const privacy = item.status?.privacyStatus
+        if (privacy && privacy !== 'public') {
+          logApiCall('Filtered non-public video', { id: item.id, privacyStatus: privacy })
+          return false
+        }
+        return true
+      })
+      .map((item: YouTubeApiItem) => ({
       id: item.id,
       title: item.snippet.title || '',
       views: Number(item.statistics.viewCount) || 0,

@@ -115,20 +115,27 @@ async function fetchPlaylistVideos(
   return videos
 }
 
+interface FetchResult {
+  metadata: VideoMetadata[]
+  hiddenIds: string[]
+}
+
 async function fetchVideoMetadata(
   videoIds: string[],
   apiKey: string
-): Promise<VideoMetadata[]> {
-  if (videoIds.length === 0) return []
+): Promise<FetchResult> {
+  if (videoIds.length === 0) return { metadata: [], hiddenIds: [] }
 
   const allMetadata: VideoMetadata[] = []
+  const returnedIds = new Set<string>()
+  const nonPublicIds: string[] = []
   const BATCH_SIZE = 50 // YouTube API max is 50 per request
 
   try {
     for (let i = 0; i < videoIds.length; i += BATCH_SIZE) {
       const batch = videoIds.slice(i, i + BATCH_SIZE)
       const ids = batch.join(',')
-      const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id=${ids}&key=${apiKey}`
+      const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics,status&id=${ids}&key=${apiKey}`
 
       const response = await fetch(url)
 
@@ -144,24 +151,40 @@ async function fetchVideoMetadata(
         throw new Error(`YouTube API error: ${data.error.message}`)
       }
 
-      const batchMetadata = (data.items || []).map((item: { id: string; snippet: { title: string; publishedAt: string; tags?: string[] }; statistics: { viewCount: string } }) => ({
-         id: item.id,
-         title: item.snippet.title || '',
-         views: Number(item.statistics.viewCount) || 0,
-         date: item.snippet.publishedAt || new Date().toISOString(),
-         tags: (item.snippet.tags || []).map((tag: string) => tag.toLowerCase())
-       }))
+      for (const item of data.items || []) {
+        returnedIds.add(item.id)
+        const privacy = item.status?.privacyStatus
 
-      allMetadata.push(...batchMetadata)
+        if (privacy && privacy !== 'public') {
+          nonPublicIds.push(item.id)
+          console.log(`    ⊘ Skipping non-public video ${item.id} (${privacy})`)
+          continue
+        }
+
+        allMetadata.push({
+          id: item.id,
+          title: item.snippet.title || '',
+          views: Number(item.statistics.viewCount) || 0,
+          date: item.snippet.publishedAt || new Date().toISOString(),
+          tags: (item.snippet.tags || []).map((tag: string) => tag.toLowerCase())
+        })
+      }
     }
 
-    return allMetadata
+    // Videos requested but not returned by YouTube are deleted/private
+    const missingIds = videoIds.filter((id) => !returnedIds.has(id))
+    if (missingIds.length > 0) {
+      console.log(`    ⊘ ${missingIds.length} videos not returned by YouTube (deleted/private)`)
+    }
+
+    const hiddenIds = [...nonPublicIds, ...missingIds]
+    return { metadata: allMetadata, hiddenIds }
   } catch (error) {
     console.error(
       'Failed to fetch video metadata:',
       error instanceof Error ? error.message : error
     )
-    return []
+    return { metadata: [], hiddenIds: [] }
   }
 }
 
@@ -293,9 +316,36 @@ async function syncVideos() {
     0
   )
 
-  // Update config if there are new videos
-  if (totalNewVideos > 0) {
-    console.log(`\n📝 Updating video config with ${totalNewVideos} new videos...`)
+  // Fetch metadata for all videos (do this before config write to detect hidden IDs)
+  console.log('\n🎥 Fetching video metadata...')
+  const allPlaylistVideoIds = Object.values(playlistData).flat()
+  const { metadata: videos, hiddenIds } = await fetchVideoMetadata(allPlaylistVideoIds, apiKey)
+
+  if (videos.length === 0) {
+    console.warn('⚠️  No video metadata fetched')
+    return
+  }
+
+  if (hiddenIds.length > 0) {
+    console.log(`\n🔒 ${hiddenIds.length} hidden videos detected:`)
+    hiddenIds.forEach((id) => console.log(`    - ${id}`))
+  }
+
+  // Also preserve any manually added hidden IDs from current config
+  const manualHiddenRegex = /HIDDEN_VIDEO_IDS[^[]*\[([^\]]*)\]/s
+  const manualMatch = currentConfig.match(manualHiddenRegex)
+  const existingHiddenIds = manualMatch
+    ? manualMatch[1].split(',').map((s) => s.trim().replace(/['"]/g, '')).filter(Boolean)
+    : []
+  const allHiddenIds = [...new Set([...hiddenIds, ...existingHiddenIds])]
+
+  // Update config if there are new videos or hidden IDs changed
+  const configNeedsUpdate = totalNewVideos > 0 || allHiddenIds.length > 0
+  if (configNeedsUpdate) {
+    const reason = totalNewVideos > 0
+      ? `${totalNewVideos} new videos`
+      : `${allHiddenIds.length} hidden videos`
+    console.log(`\n📝 Updating video config (${reason})...`)
 
     const newConfig = `/**
  * Centralized video configuration
@@ -341,6 +391,15 @@ export const VIDEO_CONFIG = {
   ]
 } as const
 
+/**
+ * Videos to hide from the showcase regardless of YouTube privacy status.
+ * Auto-synced by sync-videos.ts — private/deleted videos detected during sync.
+ * You can also add IDs here manually to exclude them from display.
+ */
+export const HIDDEN_VIDEO_IDS: ReadonlySet<string> = new Set([
+${allHiddenIds.map((id) => `  '${id}',`).join('\n')}
+])
+
 export const allVideoIds = [
   ...VIDEO_CONFIG.korea,
   ...VIDEO_CONFIG.finance,
@@ -348,7 +407,7 @@ export const allVideoIds = [
   ...VIDEO_CONFIG.development,
   ...VIDEO_CONFIG.security,
   ...VIDEO_CONFIG.programming
-]
+].filter((id) => !HIDDEN_VIDEO_IDS.has(id))
 
 export const videoCategories: Record<string, keyof typeof VIDEO_CONFIG> = {}
 
@@ -362,17 +421,7 @@ Object.entries(VIDEO_CONFIG).forEach(([category, ids]) => {
     writeFileSync(configPath, newConfig)
     console.log('  ✓ Updated src/config/videos.ts')
   } else {
-    console.log('\n✓ Config is up to date (no new videos)')
-  }
-
-  // Fetch metadata for all videos
-  console.log('\n🎥 Fetching video metadata...')
-  const allPlaylistVideoIds = Object.values(playlistData).flat()
-  const videos = await fetchVideoMetadata(allPlaylistVideoIds, apiKey)
-
-  if (videos.length === 0) {
-    console.warn('⚠️  No video metadata fetched')
-    return
+    console.log('\n✓ Config is up to date (no new videos, no hidden changes)')
   }
 
   // Save metadata
