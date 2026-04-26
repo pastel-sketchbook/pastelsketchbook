@@ -34,7 +34,7 @@ This video presents a three-tier state architecture using the repository pattern
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 30 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `repository pattern` · `repository` · `pattern`)
 - [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 779 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `repository pattern` · `repository` · `pattern`)
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `repository pattern` · `repository` · `pattern`)
-- [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) — Development · 76 views · Apr 6, 2026 · [Details](IYfTi_HNDl4.md) (shared: `pattern` · `architecture`)
+- [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 30 views · Apr 25, 2026 · [Details](quD4pyCwKB4.md) (shared: `state management` · `state` · `management`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [rolling-updates]
 sources: 2
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # rolling updates
@@ -12,7 +12,7 @@ Videos connected by the topic `rolling updates`.
 ## Videos
 
 - [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 16 views · Apr 22, 2026 · [Details](../details/p9LNSeAt5Zw.md)
-- [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) — Kubernetes · 13 views · Apr 22, 2026 · [Details](../details/eZNBXDUc8OQ.md)
+- [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) — Kubernetes · 15 views · Apr 22, 2026 · [Details](../details/eZNBXDUc8OQ.md)
 
 ---
-*Auto-generated on Apr 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*

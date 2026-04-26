@@ -2,7 +2,7 @@
 type: tag
 tags: [cloth-simulation]
 sources: 3
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # cloth simulation
@@ -16,4 +16,4 @@ Videos connected by the topic `cloth simulation`.
 - [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 12 views · Jan 25, 2026 · [Details](../details/US7oyxbcJCc.md)
 
 ---
-*Auto-generated on Apr 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*

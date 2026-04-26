@@ -2,7 +2,7 @@
 type: tag
 tags: [fault-tolerance]
 sources: 2
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # fault tolerance
@@ -15,4 +15,4 @@ Videos connected by the topic `fault tolerance`.
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 37 views · Mar 23, 2026 · [Details](../details/INNKxTAagE4.md)
 
 ---
-*Auto-generated on Apr 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*

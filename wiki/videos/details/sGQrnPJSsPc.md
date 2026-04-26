@@ -36,10 +36,10 @@ The video introduces the Semantic Operating System and Micro Module Architecture
 ## Related Videos
 
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `system` · `architecture` · `migration`)
-- [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 22 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `graph` · `detection`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 341 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `architecture` · `code`)
-- [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) — Development · 4.1K views · Apr 3, 2026 · [Details](54lO6XE-AeQ.md) (shared: `system` · `architecture`)
-- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 86 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture`)
+- [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 32 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `graph` · `detection`)
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 37 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `architecture` · `code`)
+- [From Louvain to Leiden](https://youtu.be/BQ4wab0UtLg) — Development · 2 views · Apr 26, 2026 · [Details](BQ4wab0UtLg.md) (shared: `graph` · `detection`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 347 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `architecture` · `code`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

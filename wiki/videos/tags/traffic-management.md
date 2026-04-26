@@ -2,7 +2,7 @@
 type: tag
 tags: [traffic-management]
 sources: 3
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # traffic management
@@ -16,4 +16,4 @@ Videos connected by the topic `traffic management`.
 - [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 12 views · Jan 10, 2026 · [Details](../details/C5HqbzLRYZ0.md)
 
 ---
-*Auto-generated on Apr 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*

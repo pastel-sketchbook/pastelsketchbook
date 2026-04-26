@@ -2,7 +2,7 @@
 type: tag
 tags: [manual-memory-management]
 sources: 2
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # manual memory management
@@ -15,4 +15,4 @@ Videos connected by the topic `manual memory management`.
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 31 views · Jan 6, 2026 · [Details](../details/axvxGj3yOgA.md)
 
 ---
-*Auto-generated on Apr 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*

@@ -8,6 +8,7 @@ import { VideoSearch } from "../src/components/VideoSearch"
 import { ChunkErrorBoundary } from "../src/components/ui/ChunkErrorBoundary"
 import { motion, AnimatePresence } from "framer-motion"
 import { allVideoIds, videoCategories, HIDDEN_VIDEO_IDS } from "../src/config/videos"
+import { fetchWikiBundle } from "../src/utils/wiki"
 import { logger, MetricsLogger } from "../src/lib/logger"
 
 const metricsLogger = MetricsLogger.getInstance()
@@ -117,6 +118,7 @@ function Showcase() {
         date: string
         category?: string
         tags?: string[]
+        hasWiki?: boolean
     }
 
     const { data: result, isLoading } = useQuery({
@@ -124,6 +126,16 @@ function Showcase() {
         queryFn: fetchVideoMetadata,
         staleTime: 3600000
     })
+
+    const { data: wikiBundle } = useQuery({
+        queryKey: ['wikiBundle'],
+        queryFn: fetchWikiBundle,
+        staleTime: 3600000
+    })
+
+    const wikiDetailIds = new Set(
+        wikiBundle?.categories.flatMap(c => c.videos.filter(v => v.detail).map(v => v.id)) ?? []
+    )
 
     const videoMetadata = result?.videos || []
     const metadataSource = result?.source || 'unknown'
@@ -143,7 +155,8 @@ function Showcase() {
         ...item,
         date: formatYouTubeDate(item.date),
         category: videoCategories[item.id],
-        tags: (item.tags || []).map((tag: string) => tag.toLowerCase())
+        tags: (item.tags || []).map((tag: string) => tag.toLowerCase()),
+        hasWiki: wikiDetailIds.has(item.id)
     }));
 
     // Extract all unique tags from videos

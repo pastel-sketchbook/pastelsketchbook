@@ -30,11 +30,11 @@ This video introduces the Azure Enterprise Edge Lab, a one-click deployable secu
 
 ## Related Videos
 
+- [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 30 views · Apr 25, 2026 · [Details](quD4pyCwKB4.md) (shared: `integration` · `infrastructure as code` · `infrastructure`)
 - [Securely Exposing AKS Applications](https://youtu.be/A7eoKD5m6Ek) — Kubernetes · 9 views · Jan 8, 2026 · [Details](A7eoKD5m6Ek.md) (shared: `azure` · `waf` · `security`)
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) — Kubernetes · 28 views · Mar 16, 2026 · [Details](LUOX5xkSyi0.md) (shared: `infrastructure as code` · `infrastructure` · `code`)
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](C6wLm6NRZW4.md) (shared: `azure` · `container`)
 - [The Codebase Lifecycle](https://youtu.be/ctKLD4d146g) — Kubernetes · 16 views · Jan 13, 2026 · [Details](ctKLD4d146g.md) (shared: `integration` · `container`)
-- [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 53 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `microsoft sentinel` · `microsoft` · `sentinel`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

@@ -31,10 +31,10 @@ This video presents OpenFeature, a vendor-agnostic open standard for feature fla
 ## Related Videos
 
 - [Modern Dart](https://youtu.be/JBh6rzeS-Qc) — Development · 81 views · Jan 20, 2026 · [Details](JBh6rzeS-Qc.md) (shared: `feature flags` · `feature` · `flags`)
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 37 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `feature flags` · `feature` · `flags`)
 - [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 54 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `feature` · `flags`)
 - [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 779 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `testing` · `abstraction`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 30 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `abstraction`)
-- [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](B2x09utLjtM.md) (shared: `feature`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

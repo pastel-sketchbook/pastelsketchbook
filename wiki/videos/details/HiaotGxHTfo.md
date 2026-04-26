@@ -32,7 +32,7 @@ This video introduces PictureViewer, a native macOS application built with Swift
 
 - [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 194 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `hardware acceleration` · `hardware` · `acceleration`)
 - [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 13 views · Jan 25, 2026 · [Details](3Fpey_L_XRU.md) (shared: `swift` · `macos`)
-- [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) — Development · 27 views · Apr 18, 2026 · [Details](q-6cUColzQQ.md) (shared: `app` · `gpu`)
+- [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) — Development · 28 views · Apr 18, 2026 · [Details](q-6cUColzQQ.md) (shared: `app` · `gpu`)
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 46 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `swift` · `native`)
 - [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 12 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `swift` · `native`)
 

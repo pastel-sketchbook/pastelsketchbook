@@ -30,11 +30,11 @@ This video serves as a strategic playbook for transitioning Node.js applications
 
 ## Related Videos
 
-- [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) — Kubernetes · 13 views · Apr 22, 2026 · [Details](eZNBXDUc8OQ.md) (shared: `docker` · `immutable infrastructure` · `immutable`)
+- [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) — Kubernetes · 15 views · Apr 22, 2026 · [Details](eZNBXDUc8OQ.md) (shared: `docker` · `immutable infrastructure` · `immutable`)
+- [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 30 views · Apr 25, 2026 · [Details](quD4pyCwKB4.md) (shared: `infrastructure` · `ci/cd pipelines` · `pipelines`)
 - [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 27 views · Feb 19, 2026 · [Details](rk_3xU9OF-k.md) (shared: `kubernetes` · `infrastructure`)
 - [Kubernetes Auto-Scaling Strategies](https://youtu.be/y3WwL48DLYw) — Kubernetes · 29 views · Feb 23, 2026 · [Details](y3WwL48DLYw.md) (shared: `scaling` · `kubernetes`)
 - [Architecting AKS Networking - Trade-offs](https://youtu.be/F09-7mNt3F4) — Kubernetes · 14 views · Mar 12, 2026 · [Details](F09-7mNt3F4.md) (shared: `scaling` · `kubernetes`)
-- [Deploying CSR Applications on Vercel Versus AKS](https://youtu.be/snRi_JET1bg) — Kubernetes · 8 views · Jan 6, 2026 · [Details](snRi_JET1bg.md) (shared: `kubernetes` · `orchestration`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

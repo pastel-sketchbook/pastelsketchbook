@@ -2,7 +2,7 @@
 type: tag
 tags: [korean-language-learning]
 sources: 2
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # korean language learning
@@ -15,4 +15,4 @@ Videos connected by the topic `korean language learning`.
 - [Tu Viaje al Corazón de Corea](https://youtu.be/L9sxbq8ugoU) — Korea · 4 views · Jan 1, 2026 · [Details](../details/L9sxbq8ugoU.md)
 
 ---
-*Auto-generated on Apr 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*

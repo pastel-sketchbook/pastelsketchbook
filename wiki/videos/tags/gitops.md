@@ -2,7 +2,7 @@
 type: tag
 tags: [gitops]
 sources: 2
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # gitops
@@ -15,4 +15,4 @@ Videos connected by the topic `gitops`.
 - [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 16 views · Apr 22, 2026 · [Details](../details/p9LNSeAt5Zw.md)
 
 ---
-*Auto-generated on Apr 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*

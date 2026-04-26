@@ -31,7 +31,7 @@ This video introduces Agent Skills for Flutter, a modular toolkit of AI-powered 
 ## Related Videos
 
 - [Taming the Genie](https://youtu.be/MaP2i4dTiQk) — Development · 15 views · Jan 23, 2026 · [Details](MaP2i4dTiQk.md) (shared: `development` · `ai-assisted development` · `ai-assisted`)
-- [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 43 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `flutter` · `development` · `dart`)
+- [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 42 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `flutter` · `development` · `dart`)
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `development` · `agent` · `automation`)
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 136 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `code` · `generation` · `automation`)
 - [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 56 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `development` · `agent` · `ai-assisted`)

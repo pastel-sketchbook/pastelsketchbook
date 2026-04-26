@@ -1,21 +1,21 @@
 ---
 type: index
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 143
+Total topics: 145
 
 ## Topics
 
 - [zig](zig.md) (9)
+- [event-driven architecture](event-driven-architecture.md) (7)
 - [rabbitmq](rabbitmq.md) (7)
 - [zero trust](zero-trust.md) (7)
 - [azure kubernetes service](azure-kubernetes-service.md) (6)
-- [event-driven architecture](event-driven-architecture.md) (6)
 - [istio service mesh](istio-service-mesh.md) (6)
 - [memory management](memory-management.md) (6)
 - [change data capture](change-data-capture.md) (5)
@@ -38,8 +38,10 @@ Total topics: 143
 - [cloth simulation](cloth-simulation.md) (3)
 - [cue language](cue-language.md) (3)
 - [duckdb](duckdb.md) (3)
+- [feature flags](feature-flags.md) (3)
 - [frontend architecture](frontend-architecture.md) (3)
 - [go standard library](go-standard-library.md) (3)
+- [infrastructure as code](infrastructure-as-code.md) (3)
 - [istio](istio.md) (3)
 - [joseon dynasty](joseon-dynasty.md) (3)
 - [korean history](korean-history.md) (3)
@@ -51,6 +53,7 @@ Total topics: 143
 - [sequence of returns risk](sequence-of-returns-risk.md) (3)
 - [serde serialization](serde-serialization.md) (3)
 - [service mesh](service-mesh.md) (3)
+- [state management](state-management.md) (3)
 - [struct of arrays](struct-of-arrays.md) (3)
 - [tokio async runtime](tokio-async-runtime.md) (3)
 - [traffic management](traffic-management.md) (3)
@@ -68,6 +71,7 @@ Total topics: 143
 - [c interoperability](c-interoperability.md) (2)
 - [cache locality](cache-locality.md) (2)
 - [cache optimization](cache-optimization.md) (2)
+- [ci/cd pipelines](ci-cd-pipelines.md) (2)
 - [clusterip](clusterip.md) (2)
 - [cognitive load](cognitive-load.md) (2)
 - [compliance](compliance.md) (2)
@@ -88,7 +92,6 @@ Total topics: 143
 - [explicit allocators](explicit-allocators.md) (2)
 - [facade pattern](facade-pattern.md) (2)
 - [fault tolerance](fault-tolerance.md) (2)
-- [feature flags](feature-flags.md) (2)
 - [financial freedom](financial-freedom.md) (2)
 - [flutter ai](flutter-ai.md) (2)
 - [fts5](fts5.md) (2)
@@ -98,7 +101,6 @@ Total topics: 143
 - [gitops](gitops.md) (2)
 - [hardware acceleration](hardware-acceleration.md) (2)
 - [immutable infrastructure](immutable-infrastructure.md) (2)
-- [infrastructure as code](infrastructure-as-code.md) (2)
 - [json parsing](json-parsing.md) (2)
 - [k-eta visa](k-eta-visa.md) (2)
 - [korean language learning](korean-language-learning.md) (2)
@@ -137,7 +139,6 @@ Total topics: 143
 - [service mesh security](service-mesh-security.md) (2)
 - [service-to-service auth](service-to-service-auth.md) (2)
 - [single sign-on](single-sign-on.md) (2)
-- [state management](state-management.md) (2)
 - [stateful workloads](stateful-workloads.md) (2)
 - [terminal ui](terminal-ui.md) (2)
 - [terraform](terraform.md) (2)
@@ -148,6 +149,7 @@ Total topics: 143
 - [tree-sitter](tree-sitter.md) (2)
 - [typescript basics](typescript-basics.md) (2)
 - [values.yaml](values-yaml.md) (2)
+- [vector search](vector-search.md) (2)
 - [verlet integration](verlet-integration.md) (2)
 - [wasm](wasm.md) (2)
 - [workload archetypes](workload-archetypes.md) (2)
@@ -156,4 +158,4 @@ Total topics: 143
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Apr 25, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Apr 26, 2026. Back to [videos index](../index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [revsets]
 sources: 2
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # revsets
@@ -15,4 +15,4 @@ Videos connected by the topic `revsets`.
 - [Jujutsu (jj):  An Introduction of its Paradigm Shift](https://youtu.be/5st-kLcNrE8) — Development · 116 views · Feb 5, 2026 · [Details](../details/5st-kLcNrE8.md)
 
 ---
-*Auto-generated on Apr 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*

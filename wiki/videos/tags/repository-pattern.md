@@ -2,7 +2,7 @@
 type: tag
 tags: [repository-pattern]
 sources: 5
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # repository pattern
@@ -18,4 +18,4 @@ Videos connected by the topic `repository pattern`.
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 30 views · Feb 16, 2026 · [Details](../details/5Vloo08zQ7o.md)
 
 ---
-*Auto-generated on Apr 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*

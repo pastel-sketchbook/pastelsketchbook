@@ -34,7 +34,7 @@ This video covers modern Git practices for versions 2.23+ focused on maintaining
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 20 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `git` · `version` · `control`)
 - [The Art of Git Gardening](https://youtu.be/PNFlYx8HiOM) — Development · 16 views · Dec 31, 2025 · [Details](PNFlYx8HiOM.md) (shared: `git` · `history`)
 - [Conventional Commits](https://youtu.be/5KB2zLGjaps) — Development · 14 views · Jan 19, 2026 · [Details](5KB2zLGjaps.md) (shared: `git` · `workflow`)
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 656 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model` · `workflow`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 659 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model` · `workflow`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [distributed-tracing]
 sources: 5
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # distributed tracing
@@ -18,4 +18,4 @@ Videos connected by the topic `distributed tracing`.
 - [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 36 views · Mar 21, 2026 · [Details](../details/wyIhJ3LMnRg.md)
 
 ---
-*Auto-generated on Apr 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*

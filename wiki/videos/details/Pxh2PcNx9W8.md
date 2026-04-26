@@ -30,8 +30,8 @@ This video covers modern Docker networking fundamentals and Traefik as a dynamic
 
 ## Related Videos
 
-- [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) — Kubernetes · 13 views · Apr 22, 2026 · [Details](eZNBXDUc8OQ.md) (shared: `docker` · `multi-stage` · `builds`)
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 45 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `proxy` · `security`)
+- [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) — Kubernetes · 15 views · Apr 22, 2026 · [Details](eZNBXDUc8OQ.md) (shared: `docker` · `multi-stage` · `builds`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 46 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `proxy` · `security`)
 - [Azure Enterprise Edge Lab](https://youtu.be/fMjflPvjaJ8) — Kubernetes · 8 views · Mar 31, 2026 · [Details](fMjflPvjaJ8.md) (shared: `container` · `security`)
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](C6wLm6NRZW4.md) (shared: `container`)
 - [The Codebase Lifecycle](https://youtu.be/ctKLD4d146g) — Kubernetes · 16 views · Jan 13, 2026 · [Details](ctKLD4d146g.md) (shared: `container`)

@@ -34,5 +34,13 @@ This video argues that the true mark of a mature software system is how cleanly 
 
 [ai](../tags/ai.md) · [code review](../tags/code review.md) · [good code](../tags/good code.md) · [dip](../tags/dip.md)
 
+## Related Videos
+
+- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 45 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `dependency` · `event-driven architecture` · `event-driven`)
+- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 86 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `event-driven architecture` · `event-driven` · `architecture`)
+- [Modern Dart](https://youtu.be/JBh6rzeS-Qc) — Development · 81 views · Jan 20, 2026 · [Details](JBh6rzeS-Qc.md) (shared: `feature flags` · `feature` · `flags`)
+- [OpenFeature: The Standard for Feature Flagging](https://youtu.be/X65YHZUnFq0) — Development · 47 views · Apr 16, 2026 · [Details](X65YHZUnFq0.md) (shared: `feature flags` · `feature` · `flags`)
+- [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 31 views · Feb 23, 2026 · [Details](ARWkoc3E8uE.md) (shared: `design` · `architecture` · `composition`)
+
 ---
 *Auto-generated on Apr 25, 2026. Back to [development](../development.md) · [index](../index.md).*

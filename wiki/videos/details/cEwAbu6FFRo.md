@@ -38,8 +38,8 @@ Compound Engineering is an AI-native software development philosophy that aims t
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 20 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `development` · `git`)
 - [The Art of Git Gardening](https://youtu.be/PNFlYx8HiOM) — Development · 16 views · Dec 31, 2025 · [Details](PNFlYx8HiOM.md) (shared: `development` · `git`)
 - [pastel-hn](https://youtu.be/cJl2cchaHL8) — Development · 58 views · Jan 24, 2026 · [Details](cJl2cchaHL8.md) (shared: `development` · `architectural`)
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 656 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `development` · `architectural`)
-- [The 10k LOC Sweet Spot](https://youtu.be/pgTCcVO4gfg) — Development · 11 views · Apr 21, 2026 · [Details](pgTCcVO4gfg.md) (shared: `engineering` · `architectural`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 659 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `development` · `architectural`)
+- [The 10k LOC Sweet Spot](https://youtu.be/pgTCcVO4gfg) — Development · 12 views · Apr 21, 2026 · [Details](pgTCcVO4gfg.md) (shared: `engineering` · `architectural`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

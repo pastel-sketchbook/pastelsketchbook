@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, stocks, notebooklm]
 sources: 22
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # Finance
@@ -64,4 +64,4 @@ updated: 2026-04-25
 - [Kubernetes](kubernetes.md) -- shared tags: `curiosity`
 
 ---
-*Auto-generated on Apr 25, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 26, 2026. Back to [index](index.md).*

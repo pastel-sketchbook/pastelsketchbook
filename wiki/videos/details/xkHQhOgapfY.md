@@ -32,9 +32,9 @@ This presentation explores ZMD, a local-first zero-dependency search engine rewr
 
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 53 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `qmd` · `fts5` · `local-first search`)
 - [Architectural Evolution of a Vision Tool](https://youtu.be/Qv9X3ZY474U) — Development · 52 views · Mar 28, 2026 · [Details](Qv9X3ZY474U.md) (shared: `zig` · `llama.cpp`)
-- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 144 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `zig`)
+- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 146 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `zig`)
 - [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) — Development · 50 views · Feb 28, 2026 · [Details](AcpVuvtSXwI.md) (shared: `zig`)
-- [Emacs Architecture, Neovim Philosophy](https://youtu.be/wKzz0jKiScM) — Development · 268 views · Apr 19, 2026 · [Details](wKzz0jKiScM.md) (shared: `tree-sitter`)
+- [Emacs Architecture, Neovim Philosophy](https://youtu.be/wKzz0jKiScM) — Development · 271 views · Apr 19, 2026 · [Details](wKzz0jKiScM.md) (shared: `tree-sitter`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*
