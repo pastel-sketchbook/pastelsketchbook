@@ -33,7 +33,7 @@ This video challenges the conventional reliance on WCAG 2.x contrast ratios and 
 
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `design`)
 - [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 46 views · Dec 28, 2025 · [Details](IF5sNQH-01c.md) (shared: `design`)
-- [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 80 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `design`)
+- [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 79 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `design`)
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `design`)
 - [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 31 views · Feb 23, 2026 · [Details](ARWkoc3E8uE.md) (shared: `design`)
 

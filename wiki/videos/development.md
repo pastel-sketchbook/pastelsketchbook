@@ -24,11 +24,11 @@ updated: 2026-04-26
 ### AI & ML (38 videos)
 
 - [From Louvain to Leiden](https://youtu.be/BQ4wab0UtLg) -- 2 views, Apr 26, 2026 · [Details](details/BQ4wab0UtLg.md)
-- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) -- 37 views, Apr 25, 2026 · [Details](details/yAeM2vpPWeM.md)
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) -- 47 views, Apr 25, 2026 · [Details](details/yAeM2vpPWeM.md)
 - [TanStack Al Composes the Modern Audio Stack](https://youtu.be/xvqZFPf5X60) -- 16 views, Apr 25, 2026 · [Details](details/xvqZFPf5X60.md)
-- [Machine Learning Systems](https://youtu.be/fNN88ZXWYKU) -- 109 views, Apr 24, 2026 · [Details](details/fNN88ZXWYKU.md)
-- [The Agentic Future](https://youtu.be/z_W9dX6fliM) -- 32 views, Apr 24, 2026 · [Details](details/z_W9dX6fliM.md)
-- [The 10k LOC Sweet Spot](https://youtu.be/pgTCcVO4gfg) -- 12 views, Apr 21, 2026 · [Details](details/pgTCcVO4gfg.md)
+- [Machine Learning Systems](https://youtu.be/fNN88ZXWYKU) -- 107 views, Apr 24, 2026 · [Details](details/fNN88ZXWYKU.md)
+- [The Agentic Future](https://youtu.be/z_W9dX6fliM) -- 31 views, Apr 24, 2026 · [Details](details/z_W9dX6fliM.md)
+- [The 10k LOC Sweet Spot](https://youtu.be/pgTCcVO4gfg) -- 11 views, Apr 21, 2026 · [Details](details/pgTCcVO4gfg.md)
 - [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) -- 28 views, Apr 18, 2026 · [Details](details/q-6cUColzQQ.md)
 - [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) -- 146 views, Apr 17, 2026 · [Details](details/E8f87EV4k3A.md)
 - [The Evolution of RFCs in the Al Era](https://youtu.be/lsjfczYFBeQ) -- 28 views, Apr 16, 2026 · [Details](details/lsjfczYFBeQ.md)
@@ -64,8 +64,8 @@ updated: 2026-04-26
 
 ### Rust (37 videos)
 
-- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) -- 73 views, Apr 24, 2026 · [Details](details/L9ypC5863yA.md)
-- [Rusty Object Notation (RON)](https://youtu.be/NhYb7QkBdMs) -- 59 views, Apr 24, 2026 · [Details](details/NhYb7QkBdMs.md)
+- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) -- 81 views, Apr 24, 2026 · [Details](details/L9ypC5863yA.md)
+- [Rusty Object Notation (RON)](https://youtu.be/NhYb7QkBdMs) -- 54 views, Apr 24, 2026 · [Details](details/NhYb7QkBdMs.md)
 - [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) -- 59 views, Apr 20, 2026 · [Details](details/FM6zp63maS8.md)
 - [Pastel Market: Engineering a Unified Terminal Workspace](https://youtu.be/feWjiYzQQ-k) -- 41 views, Apr 19, 2026 · [Details](details/feWjiYzQQ-k.md)
 - [Rust 1.95.0](https://youtu.be/izLrX-02IQk) -- 196 views, Apr 18, 2026 · [Details](details/izLrX-02IQk.md)
@@ -104,8 +104,8 @@ updated: 2026-04-26
 
 ### Go (28 videos)
 
-- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) -- 37 views, Apr 25, 2026 · [Details](details/yAeM2vpPWeM.md)
-- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) -- 73 views, Apr 24, 2026 · [Details](details/L9ypC5863yA.md)
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) -- 47 views, Apr 25, 2026 · [Details](details/yAeM2vpPWeM.md)
+- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) -- 81 views, Apr 24, 2026 · [Details](details/L9ypC5863yA.md)
 - [Mastering Go Pointers](https://youtu.be/VHuQi_1t5qQ) -- 73 views, Apr 17, 2026 · [Details](details/VHuQi_1t5qQ.md)
 - [Leetgo](https://youtu.be/MuDJGnGTn3k) -- 53 views, Apr 9, 2026 · [Details](details/MuDJGnGTn3k.md)
 - [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) -- 76 views, Apr 6, 2026 · [Details](details/IYfTi_HNDl4.md)
@@ -135,7 +135,7 @@ updated: 2026-04-26
 
 ### Architecture (9 videos)
 
-- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) -- 73 views, Apr 24, 2026 · [Details](details/L9ypC5863yA.md)
+- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) -- 81 views, Apr 24, 2026 · [Details](details/L9ypC5863yA.md)
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) -- 46 views, Apr 21, 2026 · [Details](details/xkHQhOgapfY.md)
 - [Emacs Architecture, Neovim Philosophy](https://youtu.be/wKzz0jKiScM) -- 271 views, Apr 19, 2026 · [Details](details/wKzz0jKiScM.md)
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) -- 30 views, Apr 12, 2026 · [Details](details/tyR8SdHpOeY.md)
@@ -179,13 +179,13 @@ updated: 2026-04-26
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
 | 1 | From Louvain to Leiden | 2 | Apr 26, 2026 | [Watch](https://youtu.be/BQ4wab0UtLg) | [Wiki](details/BQ4wab0UtLg.md) |
-| 2 | Design for Deletion | 37 | Apr 25, 2026 | [Watch](https://youtu.be/yAeM2vpPWeM) | [Wiki](details/yAeM2vpPWeM.md) |
+| 2 | Design for Deletion | 47 | Apr 25, 2026 | [Watch](https://youtu.be/yAeM2vpPWeM) | [Wiki](details/yAeM2vpPWeM.md) |
 | 3 | TanStack Al Composes the Modern Audio Stack | 16 | Apr 25, 2026 | [Watch](https://youtu.be/xvqZFPf5X60) | [Wiki](details/xvqZFPf5X60.md) |
-| 4 | Machine Learning Systems | 109 | Apr 24, 2026 | [Watch](https://youtu.be/fNN88ZXWYKU) | [Wiki](details/fNN88ZXWYKU.md) |
-| 5 | The Microservices Communication Playbook | 73 | Apr 24, 2026 | [Watch](https://youtu.be/L9ypC5863yA) | [Wiki](details/L9ypC5863yA.md) |
-| 6 | The Agentic Future | 32 | Apr 24, 2026 | [Watch](https://youtu.be/z_W9dX6fliM) | [Wiki](details/z_W9dX6fliM.md) |
-| 7 | Rusty Object Notation (RON) | 59 | Apr 24, 2026 | [Watch](https://youtu.be/NhYb7QkBdMs) | [Wiki](details/NhYb7QkBdMs.md) |
-| 8 | The 10k LOC Sweet Spot | 12 | Apr 21, 2026 | [Watch](https://youtu.be/pgTCcVO4gfg) | [Wiki](details/pgTCcVO4gfg.md) |
+| 4 | Machine Learning Systems | 107 | Apr 24, 2026 | [Watch](https://youtu.be/fNN88ZXWYKU) | [Wiki](details/fNN88ZXWYKU.md) |
+| 5 | The Microservices Communication Playbook | 81 | Apr 24, 2026 | [Watch](https://youtu.be/L9ypC5863yA) | [Wiki](details/L9ypC5863yA.md) |
+| 6 | The Agentic Future | 31 | Apr 24, 2026 | [Watch](https://youtu.be/z_W9dX6fliM) | [Wiki](details/z_W9dX6fliM.md) |
+| 7 | Rusty Object Notation (RON) | 54 | Apr 24, 2026 | [Watch](https://youtu.be/NhYb7QkBdMs) | [Wiki](details/NhYb7QkBdMs.md) |
+| 8 | The 10k LOC Sweet Spot | 11 | Apr 21, 2026 | [Watch](https://youtu.be/pgTCcVO4gfg) | [Wiki](details/pgTCcVO4gfg.md) |
 | 9 | ZMD Architecture & Evolution | 46 | Apr 21, 2026 | [Watch](https://youtu.be/xkHQhOgapfY) | [Wiki](details/xkHQhOgapfY.md) |
 | 10 | hexcap: Elevating Terminal Packet Capture | 59 | Apr 20, 2026 | [Watch](https://youtu.be/FM6zp63maS8) | [Wiki](details/FM6zp63maS8.md) |
 | 11 | Packet Capture Fundamentals | 38 | Apr 20, 2026 | [Watch](https://youtu.be/vtzEOYX_8k8) | [Wiki](details/vtzEOYX_8k8.md) |
@@ -198,13 +198,13 @@ updated: 2026-04-26
 | 18 | A Compiler, Not a Renderer | 146 | Apr 17, 2026 | [Watch](https://youtu.be/E8f87EV4k3A) | [Wiki](details/E8f87EV4k3A.md) |
 | 19 | The Evolution of RFCs in the Al Era | 28 | Apr 16, 2026 | [Watch](https://youtu.be/lsjfczYFBeQ) | [Wiki](details/lsjfczYFBeQ.md) |
 | 20 | OpenFeature: The Standard for Feature Flagging | 47 | Apr 16, 2026 | [Watch](https://youtu.be/X65YHZUnFq0) | [Wiki](details/X65YHZUnFq0.md) |
-| 21 | Zig 0.16.0: Architectural Decoupling | 617 | Apr 15, 2026 | [Watch](https://youtu.be/hTEG3TsuUPQ) | [Wiki](details/hTEG3TsuUPQ.md) |
+| 21 | Zig 0.16.0: Architectural Decoupling | 616 | Apr 15, 2026 | [Watch](https://youtu.be/hTEG3TsuUPQ) | [Wiki](details/hTEG3TsuUPQ.md) |
 | 22 | Beyond the Ratio | 12 | Apr 14, 2026 | [Watch](https://youtu.be/Qg6vQrmCilg) | [Wiki](details/Qg6vQrmCilg.md) |
 | 23 | The Local SOTA Engine for Your Digital Brain | 53 | Apr 13, 2026 | [Watch](https://youtu.be/j8lMpSezavQ) | [Wiki](details/j8lMpSezavQ.md) |
 | 24 | The Center Has a Bias | 38 | Apr 13, 2026 | [Watch](https://youtu.be/a1hIA6KQUFE) | [Wiki](details/a1hIA6KQUFE.md) |
 | 25 | Book-Finder Architecture | 30 | Apr 12, 2026 | [Watch](https://youtu.be/tyR8SdHpOeY) | [Wiki](details/tyR8SdHpOeY.md) |
 | 26 | The Illusion of Design | 31 | Apr 11, 2026 | [Watch](https://youtu.be/-tZGlR8Zztg) | [Wiki](details/-tZGlR8Zztg.md) |
-| 27 | zig-lottie: Compiling Motion | 80 | Apr 11, 2026 | [Watch](https://youtu.be/QC-vaMcjq3M) | [Wiki](details/QC-vaMcjq3M.md) |
+| 27 | zig-lottie: Compiling Motion | 79 | Apr 11, 2026 | [Watch](https://youtu.be/QC-vaMcjq3M) | [Wiki](details/QC-vaMcjq3M.md) |
 | 28 | The Calculus of ALOHA Networks | 77 | Apr 10, 2026 | [Watch](https://youtu.be/s585HlqiyMQ) | [Wiki](details/s585HlqiyMQ.md) |
 | 29 | The Programmer's Guide to Essential RFCs | 100 | Apr 10, 2026 | [Watch](https://youtu.be/LackTxguXFg) | [Wiki](details/LackTxguXFg.md) |
 | 30 | Agent Skills for Flutter | 112 | Apr 10, 2026 | [Watch](https://youtu.be/TEGFwsAcxK8) | [Wiki](details/TEGFwsAcxK8.md) |

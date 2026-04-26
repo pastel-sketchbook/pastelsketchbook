@@ -38,7 +38,7 @@ Swift Firefly is an experimental macOS desktop application that leverages Zig fo
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 31 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `programming` · `language`)
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 30 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `zig` · `programming` · `webassembly`)
 - [pastel-hn](https://youtu.be/cJl2cchaHL8) — Development · 58 views · Jan 24, 2026 · [Details](cJl2cchaHL8.md) (shared: `zig` · `webassembly` · `development`)
-- [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 80 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `zig` · `programming` · `webassembly`)
+- [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 79 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `zig` · `programming` · `webassembly`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

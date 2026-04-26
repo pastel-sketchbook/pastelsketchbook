@@ -30,7 +30,7 @@ This video demonstrates implementing cubic Bezier curves in Zig for creating org
 
 ## Related Videos
 
-- [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 80 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `zig programming` · `zig` · `programming`)
+- [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 79 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `zig programming` · `zig` · `programming`)
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 347 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `programming` · `systems`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `zig` · `programming` · `systems`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 31 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `programming` · `systems`)

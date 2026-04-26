@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T17:19:22.922Z",
+  "generatedAt": "2026-04-26T17:25:41.895Z",
   "totalVideos": 286,
   "categories": [
     {
@@ -14636,7 +14636,7 @@
         "security"
       ],
       "videoCount": 166,
-      "totalViews": 20018,
+      "totalViews": 20025,
       "topTags": [
         {
           "tag": "rust",
@@ -14798,7 +14798,7 @@
             {
               "id": "yAeM2vpPWeM",
               "title": "Design for Deletion",
-              "views": 37,
+              "views": 47,
               "date": "2026-04-25T10:56:42Z",
               "category": "development",
               "tags": [
@@ -14951,7 +14951,7 @@
             {
               "id": "fNN88ZXWYKU",
               "title": "Machine Learning Systems",
-              "views": 109,
+              "views": 107,
               "date": "2026-04-24T23:06:32Z",
               "category": "development",
               "tags": [
@@ -15022,7 +15022,7 @@
             {
               "id": "z_W9dX6fliM",
               "title": "The Agentic Future",
-              "views": 32,
+              "views": 31,
               "date": "2026-04-24T15:58:08Z",
               "category": "development",
               "tags": [
@@ -15094,7 +15094,7 @@
             {
               "id": "pgTCcVO4gfg",
               "title": "The 10k LOC Sweet Spot",
-              "views": 12,
+              "views": 11,
               "date": "2026-04-21T22:18:41Z",
               "category": "development",
               "tags": [
@@ -17422,7 +17422,7 @@
             {
               "id": "L9ypC5863yA",
               "title": "The Microservices Communication Playbook",
-              "views": 73,
+              "views": 81,
               "date": "2026-04-24T20:19:57Z",
               "category": "development",
               "tags": [
@@ -17496,7 +17496,7 @@
             {
               "id": "NhYb7QkBdMs",
               "title": "Rusty Object Notation (RON)",
-              "views": 59,
+              "views": 54,
               "date": "2026-04-24T06:12:06Z",
               "category": "development",
               "tags": [
@@ -20177,7 +20177,7 @@
             {
               "id": "yAeM2vpPWeM",
               "title": "Design for Deletion",
-              "views": 37,
+              "views": 47,
               "date": "2026-04-25T10:56:42Z",
               "category": "development",
               "tags": [
@@ -20256,7 +20256,7 @@
             {
               "id": "L9ypC5863yA",
               "title": "The Microservices Communication Playbook",
-              "views": 73,
+              "views": 81,
               "date": "2026-04-24T20:19:57Z",
               "category": "development",
               "tags": [
@@ -22193,7 +22193,7 @@
             {
               "id": "L9ypC5863yA",
               "title": "The Microservices Communication Playbook",
-              "views": 73,
+              "views": 81,
               "date": "2026-04-24T20:19:57Z",
               "category": "development",
               "tags": [
@@ -24232,7 +24232,7 @@
         {
           "id": "yAeM2vpPWeM",
           "title": "Design for Deletion",
-          "views": 37,
+          "views": 47,
           "date": "2026-04-25T10:56:42Z",
           "category": "development",
           "tags": [
@@ -24385,7 +24385,7 @@
         {
           "id": "fNN88ZXWYKU",
           "title": "Machine Learning Systems",
-          "views": 109,
+          "views": 107,
           "date": "2026-04-24T23:06:32Z",
           "category": "development",
           "tags": [
@@ -24456,7 +24456,7 @@
         {
           "id": "L9ypC5863yA",
           "title": "The Microservices Communication Playbook",
-          "views": 73,
+          "views": 81,
           "date": "2026-04-24T20:19:57Z",
           "category": "development",
           "tags": [
@@ -24530,7 +24530,7 @@
         {
           "id": "z_W9dX6fliM",
           "title": "The Agentic Future",
-          "views": 32,
+          "views": 31,
           "date": "2026-04-24T15:58:08Z",
           "category": "development",
           "tags": [
@@ -24602,7 +24602,7 @@
         {
           "id": "NhYb7QkBdMs",
           "title": "Rusty Object Notation (RON)",
-          "views": 59,
+          "views": 54,
           "date": "2026-04-24T06:12:06Z",
           "category": "development",
           "tags": [
@@ -24678,7 +24678,7 @@
         {
           "id": "pgTCcVO4gfg",
           "title": "The 10k LOC Sweet Spot",
-          "views": 12,
+          "views": 11,
           "date": "2026-04-21T22:18:41Z",
           "category": "development",
           "tags": [
@@ -25572,7 +25572,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 617,
+          "views": 616,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -25933,7 +25933,7 @@
         {
           "id": "QC-vaMcjq3M",
           "title": "zig-lottie: Compiling Motion",
-          "views": 80,
+          "views": 79,
           "date": "2026-04-11T05:33:18Z",
           "category": "development",
           "tags": [
@@ -38204,7 +38204,7 @@
         {
           "id": "fNN88ZXWYKU",
           "title": "Machine Learning Systems",
-          "views": 109,
+          "views": 107,
           "date": "2026-04-24T23:06:32Z",
           "category": "development"
         },
@@ -38244,17 +38244,17 @@
           "category": "development"
         },
         {
+          "id": "yAeM2vpPWeM",
+          "title": "Design for Deletion",
+          "views": 47,
+          "date": "2026-04-25T10:56:42Z",
+          "category": "development"
+        },
+        {
           "id": "IF5sNQH-01c",
           "title": "NotebookLM's Intelligence Flow",
           "views": 46,
           "date": "2025-12-28T08:31:48Z",
-          "category": "development"
-        },
-        {
-          "id": "yAeM2vpPWeM",
-          "title": "Design for Deletion",
-          "views": 37,
-          "date": "2026-04-25T10:56:42Z",
           "category": "development"
         },
         {
@@ -38267,7 +38267,7 @@
         {
           "id": "z_W9dX6fliM",
           "title": "The Agentic Future",
-          "views": 32,
+          "views": 31,
           "date": "2026-04-24T15:58:08Z",
           "category": "development"
         },
@@ -38337,7 +38337,7 @@
         {
           "id": "pgTCcVO4gfg",
           "title": "The 10k LOC Sweet Spot",
-          "views": 12,
+          "views": 11,
           "date": "2026-04-21T22:18:41Z",
           "category": "development"
         },
@@ -38641,7 +38641,7 @@
         {
           "id": "L9ypC5863yA",
           "title": "The Microservices Communication Playbook",
-          "views": 73,
+          "views": 81,
           "date": "2026-04-24T20:19:57Z",
           "category": "development"
         },
@@ -38667,13 +38667,6 @@
           "category": "development"
         },
         {
-          "id": "NhYb7QkBdMs",
-          "title": "Rusty Object Notation (RON)",
-          "views": 59,
-          "date": "2026-04-24T06:12:06Z",
-          "category": "development"
-        },
-        {
           "id": "FM6zp63maS8",
           "title": "hexcap: Elevating Terminal Packet Capture",
           "views": 59,
@@ -38685,6 +38678,13 @@
           "title": "pastel-hn",
           "views": 58,
           "date": "2026-01-25T05:05:15Z",
+          "category": "development"
+        },
+        {
+          "id": "NhYb7QkBdMs",
+          "title": "Rusty Object Notation (RON)",
+          "views": 54,
+          "date": "2026-04-24T06:12:06Z",
           "category": "development"
         },
         {
@@ -38930,17 +38930,17 @@
           "category": "development"
         },
         {
+          "id": "L9ypC5863yA",
+          "title": "The Microservices Communication Playbook",
+          "views": 81,
+          "date": "2026-04-24T20:19:57Z",
+          "category": "development"
+        },
+        {
           "id": "IYfTi_HNDl4",
           "title": "Building Production-Grade RabbitMQ in Go",
           "views": 76,
           "date": "2026-04-06T22:28:09Z",
-          "category": "development"
-        },
-        {
-          "id": "L9ypC5863yA",
-          "title": "The Microservices Communication Playbook",
-          "views": 73,
-          "date": "2026-04-24T20:19:57Z",
           "category": "development"
         },
         {
