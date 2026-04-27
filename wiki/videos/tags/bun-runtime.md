@@ -2,7 +2,7 @@
 type: tag
 tags: [bun-runtime]
 sources: 3
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # bun runtime

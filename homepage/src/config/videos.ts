@@ -236,7 +236,9 @@ export const VIDEO_CONFIG = {
     '2kvYb2pVe5o',
     'TLqdeHlAo3A',
     'brRRpsAaN9E',
-    'EWwk29GzHgg'
+    'EWwk29GzHgg',
+    'R3n8UxyD7mc',
+    'i1HT5UIccTs'
   ],
   security: [
     '_5DCBqOCr8c',
@@ -273,6 +275,8 @@ export const HIDDEN_VIDEO_IDS: ReadonlySet<string> = new Set([
   '1cuMGVwrdLw',
   'brRRpsAaN9E',
   'EWwk29GzHgg',
+  'R3n8UxyD7mc',
+  'i1HT5UIccTs',
   '_NXyqfM6TXg',
   'quD4pyCwKB4',
   'eaPXjvB194w',

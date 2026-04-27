@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T17:25:41.895Z",
+  "generatedAt": "2026-04-27T02:44:35.574Z",
   "totalVideos": 286,
   "categories": [
     {
@@ -2782,7 +2782,7 @@
         "development"
       ],
       "videoCount": 62,
-      "totalViews": 1704,
+      "totalViews": 1724,
       "topTags": [
         {
           "tag": "aks",
@@ -3874,7 +3874,7 @@
             {
               "id": "C5HqbzLRYZ0",
               "title": "K8s Services  AKS & Istio",
-              "views": 12,
+              "views": 13,
               "date": "2026-01-10T16:26:22Z",
               "category": "kubernetes",
               "tags": [
@@ -4927,7 +4927,7 @@
             {
               "id": "quD4pyCwKB4",
               "title": "Enterprise Infrastructure as Code for Al Agents",
-              "views": 30,
+              "views": 44,
               "date": "2026-04-25T17:46:48Z",
               "category": "kubernetes",
               "tags": [
@@ -5082,7 +5082,7 @@
             {
               "id": "p9LNSeAt5Zw",
               "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-              "views": 16,
+              "views": 17,
               "date": "2026-04-22T10:25:18Z",
               "category": "kubernetes",
               "tags": [
@@ -5525,7 +5525,7 @@
             {
               "id": "nomIVRSBEG4",
               "title": "Consuming CDC with ScyllaDB",
-              "views": 62,
+              "views": 64,
               "date": "2026-04-18T04:36:03Z",
               "category": "kubernetes",
               "tags": [
@@ -6679,7 +6679,7 @@
             {
               "id": "C5HqbzLRYZ0",
               "title": "K8s Services  AKS & Istio",
-              "views": 12,
+              "views": 13,
               "date": "2026-01-10T16:26:22Z",
               "category": "kubernetes",
               "tags": [
@@ -7860,7 +7860,7 @@
             {
               "id": "nomIVRSBEG4",
               "title": "Consuming CDC with ScyllaDB",
-              "views": 62,
+              "views": 64,
               "date": "2026-04-18T04:36:03Z",
               "category": "kubernetes",
               "tags": [
@@ -9545,7 +9545,7 @@
             {
               "id": "nomIVRSBEG4",
               "title": "Consuming CDC with ScyllaDB",
-              "views": 62,
+              "views": 64,
               "date": "2026-04-18T04:36:03Z",
               "category": "kubernetes",
               "tags": [
@@ -9944,7 +9944,7 @@
             {
               "id": "p9LNSeAt5Zw",
               "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-              "views": 16,
+              "views": 17,
               "date": "2026-04-22T10:25:18Z",
               "category": "kubernetes",
               "tags": [
@@ -10087,7 +10087,7 @@
         {
           "id": "eaPXjvB194w",
           "title": "Architecting Cost Efficiency for Al Workloads",
-          "views": 15,
+          "views": 17,
           "date": "2026-04-26T01:05:16Z",
           "category": "kubernetes",
           "tags": [
@@ -10158,7 +10158,7 @@
         {
           "id": "quD4pyCwKB4",
           "title": "Enterprise Infrastructure as Code for Al Agents",
-          "views": 30,
+          "views": 44,
           "date": "2026-04-25T17:46:48Z",
           "category": "kubernetes",
           "tags": [
@@ -10382,7 +10382,7 @@
         {
           "id": "p9LNSeAt5Zw",
           "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-          "views": 16,
+          "views": 17,
           "date": "2026-04-22T10:25:18Z",
           "category": "kubernetes",
           "tags": [
@@ -10528,7 +10528,7 @@
         {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 62,
+          "views": 64,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes",
           "tags": [
@@ -14184,7 +14184,7 @@
         {
           "id": "C5HqbzLRYZ0",
           "title": "K8s Services  AKS & Istio",
-          "views": 12,
+          "views": 13,
           "date": "2026-01-10T16:26:22Z",
           "category": "kubernetes",
           "tags": [
@@ -14636,7 +14636,7 @@
         "security"
       ],
       "videoCount": 166,
-      "totalViews": 20025,
+      "totalViews": 20155,
       "topTags": [
         {
           "tag": "rust",
@@ -14726,7 +14726,7 @@
             {
               "id": "BQ4wab0UtLg",
               "title": "From Louvain to Leiden",
-              "views": 2,
+              "views": 8,
               "date": "2026-04-26T15:40:42Z",
               "category": "development",
               "tags": [
@@ -14798,7 +14798,7 @@
             {
               "id": "yAeM2vpPWeM",
               "title": "Design for Deletion",
-              "views": 47,
+              "views": 69,
               "date": "2026-04-25T10:56:42Z",
               "category": "development",
               "tags": [
@@ -14877,7 +14877,7 @@
             {
               "id": "xvqZFPf5X60",
               "title": "TanStack Al Composes the Modern Audio Stack",
-              "views": 16,
+              "views": 20,
               "date": "2026-04-25T07:46:26Z",
               "category": "development",
               "tags": [
@@ -14951,7 +14951,7 @@
             {
               "id": "fNN88ZXWYKU",
               "title": "Machine Learning Systems",
-              "views": 107,
+              "views": 135,
               "date": "2026-04-24T23:06:32Z",
               "category": "development",
               "tags": [
@@ -15022,7 +15022,7 @@
             {
               "id": "z_W9dX6fliM",
               "title": "The Agentic Future",
-              "views": 31,
+              "views": 40,
               "date": "2026-04-24T15:58:08Z",
               "category": "development",
               "tags": [
@@ -15094,7 +15094,7 @@
             {
               "id": "pgTCcVO4gfg",
               "title": "The 10k LOC Sweet Spot",
-              "views": 11,
+              "views": 12,
               "date": "2026-04-21T22:18:41Z",
               "category": "development",
               "tags": [
@@ -15300,7 +15300,7 @@
             {
               "id": "lsjfczYFBeQ",
               "title": "The Evolution of RFCs in the Al Era",
-              "views": 28,
+              "views": 29,
               "date": "2026-04-16T22:17:14Z",
               "category": "development",
               "tags": [
@@ -15438,7 +15438,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 112,
+              "views": 114,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -15512,7 +15512,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2568,
+              "views": 2571,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -15586,7 +15586,7 @@
             {
               "id": "fv61JXUCbeo",
               "title": "Stitch Agent Skills",
-              "views": 270,
+              "views": 271,
               "date": "2026-04-05T21:24:52Z",
               "category": "development",
               "tags": [
@@ -16090,7 +16090,7 @@
             {
               "id": "0HEqwk9UMOc",
               "title": "How to Kill the Code Review",
-              "views": 136,
+              "views": 137,
               "date": "2026-03-18T11:10:57Z",
               "category": "development",
               "tags": [
@@ -17422,7 +17422,7 @@
             {
               "id": "L9ypC5863yA",
               "title": "The Microservices Communication Playbook",
-              "views": 81,
+              "views": 93,
               "date": "2026-04-24T20:19:57Z",
               "category": "development",
               "tags": [
@@ -17496,7 +17496,7 @@
             {
               "id": "NhYb7QkBdMs",
               "title": "Rusty Object Notation (RON)",
-              "views": 54,
+              "views": 69,
               "date": "2026-04-24T06:12:06Z",
               "category": "development",
               "tags": [
@@ -17854,7 +17854,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4135,
+              "views": 4137,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -18006,7 +18006,7 @@
             {
               "id": "Qv9X3ZY474U",
               "title": "Architectural Evolution of a Vision Tool",
-              "views": 52,
+              "views": 53,
               "date": "2026-03-28T13:11:01Z",
               "category": "development",
               "tags": [
@@ -18086,7 +18086,7 @@
             {
               "id": "vep9hSKc9I0",
               "title": "Dial9 Demo - Deep Observability in Async Rust",
-              "views": 108,
+              "views": 109,
               "date": "2026-03-22T10:40:21Z",
               "category": "development",
               "tags": [
@@ -18164,7 +18164,7 @@
             {
               "id": "lY5TU8qHduM",
               "title": "The Flight Recorder for Tokio",
-              "views": 25,
+              "views": 26,
               "date": "2026-03-20T22:45:15Z",
               "category": "development",
               "tags": [
@@ -18309,7 +18309,7 @@
             {
               "id": "_zJ3_d1CODg",
               "title": "Bevy-Demo",
-              "views": 126,
+              "views": 127,
               "date": "2026-03-19T00:18:34Z",
               "category": "development",
               "tags": [
@@ -18962,7 +18962,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 347,
+              "views": 348,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -20177,7 +20177,7 @@
             {
               "id": "yAeM2vpPWeM",
               "title": "Design for Deletion",
-              "views": 47,
+              "views": 69,
               "date": "2026-04-25T10:56:42Z",
               "category": "development",
               "tags": [
@@ -20256,7 +20256,7 @@
             {
               "id": "L9ypC5863yA",
               "title": "The Microservices Communication Playbook",
-              "views": 81,
+              "views": 93,
               "date": "2026-04-24T20:19:57Z",
               "category": "development",
               "tags": [
@@ -20330,7 +20330,7 @@
             {
               "id": "VHuQi_1t5qQ",
               "title": "Mastering Go Pointers",
-              "views": 73,
+              "views": 74,
               "date": "2026-04-17T18:20:09Z",
               "category": "development",
               "tags": [
@@ -20402,7 +20402,7 @@
             {
               "id": "MuDJGnGTn3k",
               "title": "Leetgo",
-              "views": 53,
+              "views": 54,
               "date": "2026-04-09T09:55:24Z",
               "category": "development",
               "tags": [
@@ -20758,7 +20758,7 @@
             {
               "id": "INNKxTAagE4",
               "title": "Resilient Asynchronous Systems in Go",
-              "views": 37,
+              "views": 38,
               "date": "2026-03-24T02:07:42Z",
               "category": "development",
               "tags": [
@@ -20983,7 +20983,7 @@
             {
               "id": "0HEqwk9UMOc",
               "title": "How to Kill the Code Review",
-              "views": 136,
+              "views": 137,
               "date": "2026-03-18T11:10:57Z",
               "category": "development",
               "tags": [
@@ -21772,7 +21772,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 743,
+              "views": 744,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -22193,7 +22193,7 @@
             {
               "id": "L9ypC5863yA",
               "title": "The Microservices Communication Playbook",
-              "views": 81,
+              "views": 93,
               "date": "2026-04-24T20:19:57Z",
               "category": "development",
               "tags": [
@@ -22340,7 +22340,7 @@
             {
               "id": "wKzz0jKiScM",
               "title": "Emacs Architecture, Neovim Philosophy",
-              "views": 271,
+              "views": 272,
               "date": "2026-04-19T22:51:25Z",
               "category": "development",
               "tags": [
@@ -22482,7 +22482,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4135,
+              "views": 4137,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -23451,7 +23451,7 @@
             {
               "id": "INNKxTAagE4",
               "title": "Resilient Asynchronous Systems in Go",
-              "views": 37,
+              "views": 38,
               "date": "2026-03-24T02:07:42Z",
               "category": "development",
               "tags": [
@@ -24160,7 +24160,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 2,
+          "views": 8,
           "date": "2026-04-26T15:40:42Z",
           "category": "development",
           "tags": [
@@ -24232,7 +24232,7 @@
         {
           "id": "yAeM2vpPWeM",
           "title": "Design for Deletion",
-          "views": 47,
+          "views": 69,
           "date": "2026-04-25T10:56:42Z",
           "category": "development",
           "tags": [
@@ -24311,7 +24311,7 @@
         {
           "id": "xvqZFPf5X60",
           "title": "TanStack Al Composes the Modern Audio Stack",
-          "views": 16,
+          "views": 20,
           "date": "2026-04-25T07:46:26Z",
           "category": "development",
           "tags": [
@@ -24385,7 +24385,7 @@
         {
           "id": "fNN88ZXWYKU",
           "title": "Machine Learning Systems",
-          "views": 107,
+          "views": 135,
           "date": "2026-04-24T23:06:32Z",
           "category": "development",
           "tags": [
@@ -24456,7 +24456,7 @@
         {
           "id": "L9ypC5863yA",
           "title": "The Microservices Communication Playbook",
-          "views": 81,
+          "views": 93,
           "date": "2026-04-24T20:19:57Z",
           "category": "development",
           "tags": [
@@ -24530,7 +24530,7 @@
         {
           "id": "z_W9dX6fliM",
           "title": "The Agentic Future",
-          "views": 31,
+          "views": 40,
           "date": "2026-04-24T15:58:08Z",
           "category": "development",
           "tags": [
@@ -24602,7 +24602,7 @@
         {
           "id": "NhYb7QkBdMs",
           "title": "Rusty Object Notation (RON)",
-          "views": 54,
+          "views": 69,
           "date": "2026-04-24T06:12:06Z",
           "category": "development",
           "tags": [
@@ -24678,7 +24678,7 @@
         {
           "id": "pgTCcVO4gfg",
           "title": "The 10k LOC Sweet Spot",
-          "views": 11,
+          "views": 12,
           "date": "2026-04-21T22:18:41Z",
           "category": "development",
           "tags": [
@@ -24888,7 +24888,7 @@
         {
           "id": "vtzEOYX_8k8",
           "title": "Packet Capture Fundamentals",
-          "views": 38,
+          "views": 39,
           "date": "2026-04-20T12:07:27Z",
           "category": "development",
           "tags": [
@@ -24958,7 +24958,7 @@
         {
           "id": "wKzz0jKiScM",
           "title": "Emacs Architecture, Neovim Philosophy",
-          "views": 271,
+          "views": 272,
           "date": "2026-04-19T22:51:25Z",
           "category": "development",
           "tags": [
@@ -25296,7 +25296,7 @@
         {
           "id": "VHuQi_1t5qQ",
           "title": "Mastering Go Pointers",
-          "views": 73,
+          "views": 74,
           "date": "2026-04-17T18:20:09Z",
           "category": "development",
           "tags": [
@@ -25437,7 +25437,7 @@
         {
           "id": "lsjfczYFBeQ",
           "title": "The Evolution of RFCs in the Al Era",
-          "views": 28,
+          "views": 29,
           "date": "2026-04-16T22:17:14Z",
           "category": "development",
           "tags": [
@@ -25572,7 +25572,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 616,
+          "views": 622,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -25933,7 +25933,7 @@
         {
           "id": "QC-vaMcjq3M",
           "title": "zig-lottie: Compiling Motion",
-          "views": 79,
+          "views": 80,
           "date": "2026-04-11T05:33:18Z",
           "category": "development",
           "tags": [
@@ -26136,7 +26136,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 112,
+          "views": 114,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -26210,7 +26210,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2568,
+          "views": 2571,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -26284,7 +26284,7 @@
         {
           "id": "MuDJGnGTn3k",
           "title": "Leetgo",
-          "views": 53,
+          "views": 54,
           "date": "2026-04-09T09:55:24Z",
           "category": "development",
           "tags": [
@@ -26644,7 +26644,7 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 270,
+          "views": 271,
           "date": "2026-04-05T21:24:52Z",
           "category": "development",
           "tags": [
@@ -26944,7 +26944,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4135,
+          "views": 4137,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -27086,7 +27086,7 @@
         {
           "id": "JWeu5aqAkR0",
           "title": "The Transport Revolution: Deconstructing HTTP/3",
-          "views": 206,
+          "views": 207,
           "date": "2026-04-01T22:51:56Z",
           "category": "development",
           "detail": {
@@ -27156,7 +27156,7 @@
         {
           "id": "oUTf9j6fWJo",
           "title": "Reed: The Modern Terminal File Viewer",
-          "views": 142,
+          "views": 143,
           "date": "2026-03-30T22:20:06Z",
           "category": "development",
           "tags": [
@@ -27438,7 +27438,7 @@
         {
           "id": "Qv9X3ZY474U",
           "title": "Architectural Evolution of a Vision Tool",
-          "views": 52,
+          "views": 53,
           "date": "2026-03-28T13:11:01Z",
           "category": "development",
           "tags": [
@@ -27806,7 +27806,7 @@
         {
           "id": "INNKxTAagE4",
           "title": "Resilient Asynchronous Systems in Go",
-          "views": 37,
+          "views": 38,
           "date": "2026-03-24T02:07:42Z",
           "category": "development",
           "tags": [
@@ -27959,7 +27959,7 @@
         {
           "id": "vep9hSKc9I0",
           "title": "Dial9 Demo - Deep Observability in Async Rust",
-          "views": 108,
+          "views": 109,
           "date": "2026-03-22T10:40:21Z",
           "category": "development",
           "tags": [
@@ -28171,7 +28171,7 @@
         {
           "id": "lY5TU8qHduM",
           "title": "The Flight Recorder for Tokio",
-          "views": 25,
+          "views": 26,
           "date": "2026-03-20T22:45:15Z",
           "category": "development",
           "tags": [
@@ -28397,7 +28397,7 @@
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
-          "views": 126,
+          "views": 127,
           "date": "2026-03-19T00:18:34Z",
           "category": "development",
           "tags": [
@@ -28468,7 +28468,7 @@
         {
           "id": "0HEqwk9UMOc",
           "title": "How to Kill the Code Review",
-          "views": 136,
+          "views": 137,
           "date": "2026-03-18T11:10:57Z",
           "category": "development",
           "tags": [
@@ -30018,7 +30018,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 183,
+          "views": 184,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -30531,7 +30531,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 107,
+          "views": 108,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -31526,7 +31526,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 743,
+          "views": 744,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -31597,7 +31597,7 @@
         {
           "id": "cWozmWrqnxs",
           "title": "The Repository Pattern",
-          "views": 779,
+          "views": 780,
           "date": "2026-02-13T18:01:39Z",
           "category": "development",
           "tags": [
@@ -31680,7 +31680,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 347,
+          "views": 348,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -37438,7 +37438,7 @@
         "development"
       ],
       "videoCount": 8,
-      "totalViews": 206,
+      "totalViews": 207,
       "topTags": [
         {
           "tag": "알고리즘",
@@ -37678,7 +37678,7 @@
         {
           "id": "qyqLjeu8Hng",
           "title": "영어 리스닝  3000시간의 법칙",
-          "views": 54,
+          "views": 55,
           "date": "2026-01-13T10:40:26Z",
           "category": "programming",
           "tags": [
@@ -38058,7 +38058,7 @@
         {
           "id": "lsjfczYFBeQ",
           "title": "The Evolution of RFCs in the Al Era",
-          "views": 28,
+          "views": 29,
           "date": "2026-04-16T22:17:14Z",
           "category": "development"
         },
@@ -38077,6 +38077,13 @@
           "category": "finance"
         },
         {
+          "id": "BQ4wab0UtLg",
+          "title": "From Louvain to Leiden",
+          "views": 8,
+          "date": "2026-04-26T15:40:42Z",
+          "category": "development"
+        },
+        {
           "id": "YYVxMSqBqe8",
           "title": "Nesting in Global Finance",
           "views": 6,
@@ -38089,13 +38096,6 @@
           "views": 3,
           "date": "2026-04-16T00:01:10Z",
           "category": "finance"
-        },
-        {
-          "id": "BQ4wab0UtLg",
-          "title": "From Louvain to Leiden",
-          "views": 2,
-          "date": "2026-04-26T15:40:42Z",
-          "category": "development"
         }
       ]
     },
@@ -38110,14 +38110,14 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 270,
+          "views": 271,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 112,
+          "views": 114,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -38129,18 +38129,18 @@
           "category": "development"
         },
         {
+          "id": "quD4pyCwKB4",
+          "title": "Enterprise Infrastructure as Code for Al Agents",
+          "views": 44,
+          "date": "2026-04-25T17:46:48Z",
+          "category": "kubernetes"
+        },
+        {
           "id": "JfGgWiiCTA0",
           "title": "Shannon: Autonomous Penetration Testing",
           "views": 44,
           "date": "2026-02-14T10:04:10Z",
           "category": "security"
-        },
-        {
-          "id": "quD4pyCwKB4",
-          "title": "Enterprise Infrastructure as Code for Al Agents",
-          "views": 30,
-          "date": "2026-04-25T17:46:48Z",
-          "category": "kubernetes"
         },
         {
           "id": "Xhq99-YHXCY",
@@ -38152,7 +38152,7 @@
         {
           "id": "eaPXjvB194w",
           "title": "Architecting Cost Efficiency for Al Workloads",
-          "views": 15,
+          "views": 17,
           "date": "2026-04-26T01:05:16Z",
           "category": "kubernetes"
         }
@@ -38169,7 +38169,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2568,
+          "views": 2571,
           "date": "2026-04-09T22:17:25Z",
           "category": "development"
         },
@@ -38183,29 +38183,29 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 270,
+          "views": 271,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
         {
           "id": "0HEqwk9UMOc",
           "title": "How to Kill the Code Review",
-          "views": 136,
+          "views": 137,
           "date": "2026-03-18T11:10:57Z",
-          "category": "development"
-        },
-        {
-          "id": "TEGFwsAcxK8",
-          "title": "Agent Skills for Flutter",
-          "views": 112,
-          "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
           "id": "fNN88ZXWYKU",
           "title": "Machine Learning Systems",
-          "views": 107,
+          "views": 135,
           "date": "2026-04-24T23:06:32Z",
+          "category": "development"
+        },
+        {
+          "id": "TEGFwsAcxK8",
+          "title": "Agent Skills for Flutter",
+          "views": 114,
+          "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
@@ -38230,6 +38230,13 @@
           "category": "security"
         },
         {
+          "id": "yAeM2vpPWeM",
+          "title": "Design for Deletion",
+          "views": 69,
+          "date": "2026-04-25T10:56:42Z",
+          "category": "development"
+        },
+        {
           "id": "lexZnOlyml0",
           "title": "Agentic Platform Engineering with GitHub Copilot",
           "views": 67,
@@ -38244,17 +38251,24 @@
           "category": "development"
         },
         {
-          "id": "yAeM2vpPWeM",
-          "title": "Design for Deletion",
-          "views": 47,
-          "date": "2026-04-25T10:56:42Z",
-          "category": "development"
-        },
-        {
           "id": "IF5sNQH-01c",
           "title": "NotebookLM's Intelligence Flow",
           "views": 46,
           "date": "2025-12-28T08:31:48Z",
+          "category": "development"
+        },
+        {
+          "id": "quD4pyCwKB4",
+          "title": "Enterprise Infrastructure as Code for Al Agents",
+          "views": 44,
+          "date": "2026-04-25T17:46:48Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "z_W9dX6fliM",
+          "title": "The Agentic Future",
+          "views": 40,
+          "date": "2026-04-24T15:58:08Z",
           "category": "development"
         },
         {
@@ -38265,23 +38279,9 @@
           "category": "development"
         },
         {
-          "id": "z_W9dX6fliM",
-          "title": "The Agentic Future",
-          "views": 31,
-          "date": "2026-04-24T15:58:08Z",
-          "category": "development"
-        },
-        {
-          "id": "quD4pyCwKB4",
-          "title": "Enterprise Infrastructure as Code for Al Agents",
-          "views": 30,
-          "date": "2026-04-25T17:46:48Z",
-          "category": "kubernetes"
-        },
-        {
           "id": "lsjfczYFBeQ",
           "title": "The Evolution of RFCs in the Al Era",
-          "views": 28,
+          "views": 29,
           "date": "2026-04-16T22:17:14Z",
           "category": "development"
         },
@@ -38300,6 +38300,13 @@
           "category": "development"
         },
         {
+          "id": "xvqZFPf5X60",
+          "title": "TanStack Al Composes the Modern Audio Stack",
+          "views": 20,
+          "date": "2026-04-25T07:46:26Z",
+          "category": "development"
+        },
+        {
           "id": "84M1mVL0cjo",
           "title": "Pathways Over Tools",
           "views": 19,
@@ -38311,13 +38318,6 @@
           "title": "Rebalancing the SDLC in the Al Era",
           "views": 18,
           "date": "2026-03-18T03:21:35Z",
-          "category": "development"
-        },
-        {
-          "id": "xvqZFPf5X60",
-          "title": "TanStack Al Composes the Modern Audio Stack",
-          "views": 16,
-          "date": "2026-04-25T07:46:26Z",
           "category": "development"
         },
         {
@@ -38337,7 +38337,7 @@
         {
           "id": "pgTCcVO4gfg",
           "title": "The 10k LOC Sweet Spot",
-          "views": 11,
+          "views": 12,
           "date": "2026-04-21T22:18:41Z",
           "category": "development"
         },
@@ -38412,7 +38412,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 107,
+          "views": 108,
           "date": "2026-02-27T12:49:18Z",
           "category": "development"
         },
@@ -38442,21 +38442,21 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 270,
+          "views": 271,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 112,
+          "views": 114,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
           "id": "quD4pyCwKB4",
           "title": "Enterprise Infrastructure as Code for Al Agents",
-          "views": 30,
+          "views": 44,
           "date": "2026-04-25T17:46:48Z",
           "category": "kubernetes"
         }
@@ -38479,7 +38479,7 @@
         {
           "id": "p9LNSeAt5Zw",
           "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-          "views": 16,
+          "views": 17,
           "date": "2026-04-22T10:25:18Z",
           "category": "kubernetes"
         },
@@ -38502,7 +38502,7 @@
         {
           "id": "p9LNSeAt5Zw",
           "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-          "views": 16,
+          "views": 17,
           "date": "2026-04-22T10:25:18Z",
           "category": "kubernetes"
         },
@@ -38525,7 +38525,7 @@
         {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 62,
+          "views": 64,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes"
         },
@@ -38555,7 +38555,7 @@
         {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 62,
+          "views": 64,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes"
         },
@@ -38585,7 +38585,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 347,
+          "views": 348,
           "date": "2026-02-13T15:08:23Z",
           "category": "development"
         },
@@ -38599,14 +38599,14 @@
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
-          "views": 126,
+          "views": 127,
           "date": "2026-03-19T00:18:34Z",
           "category": "development"
         },
         {
           "id": "vep9hSKc9I0",
           "title": "Dial9 Demo - Deep Observability in Async Rust",
-          "views": 108,
+          "views": 109,
           "date": "2026-03-22T10:40:21Z",
           "category": "development"
         },
@@ -38615,6 +38615,13 @@
           "title": "The Future of Al Programming:  2031 Strategic Outlook",
           "views": 104,
           "date": "2026-02-09T13:26:58Z",
+          "category": "development"
+        },
+        {
+          "id": "L9ypC5863yA",
+          "title": "The Microservices Communication Playbook",
+          "views": 93,
+          "date": "2026-04-24T20:19:57Z",
           "category": "development"
         },
         {
@@ -38639,13 +38646,6 @@
           "category": "development"
         },
         {
-          "id": "L9ypC5863yA",
-          "title": "The Microservices Communication Playbook",
-          "views": 81,
-          "date": "2026-04-24T20:19:57Z",
-          "category": "development"
-        },
-        {
           "id": "DIMW-iHlDxE",
           "title": "Mastering Comprehensive Rust",
           "views": 71,
@@ -38653,9 +38653,16 @@
           "category": "development"
         },
         {
+          "id": "NhYb7QkBdMs",
+          "title": "Rusty Object Notation (RON)",
+          "views": 69,
+          "date": "2026-04-24T06:12:06Z",
+          "category": "development"
+        },
+        {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 62,
+          "views": 64,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes"
         },
@@ -38681,13 +38688,6 @@
           "category": "development"
         },
         {
-          "id": "NhYb7QkBdMs",
-          "title": "Rusty Object Notation (RON)",
-          "views": 54,
-          "date": "2026-04-24T06:12:06Z",
-          "category": "development"
-        },
-        {
           "id": "xVmoqBYlQMU",
           "title": "Mastering Rust Feature Flags",
           "views": 54,
@@ -38697,7 +38697,7 @@
         {
           "id": "Qv9X3ZY474U",
           "title": "Architectural Evolution of a Vision Tool",
-          "views": 52,
+          "views": 53,
           "date": "2026-03-28T13:11:01Z",
           "category": "development"
         },
@@ -38772,17 +38772,17 @@
           "category": "development"
         },
         {
+          "id": "lY5TU8qHduM",
+          "title": "The Flight Recorder for Tokio",
+          "views": 26,
+          "date": "2026-03-20T22:45:15Z",
+          "category": "development"
+        },
+        {
           "id": "lin_ycbQGtE",
           "title": "Beat - Anatomy of a Real-Time Visualizer",
           "views": 26,
           "date": "2026-03-20T12:06:34Z",
-          "category": "development"
-        },
-        {
-          "id": "lY5TU8qHduM",
-          "title": "The Flight Recorder for Tokio",
-          "views": 25,
-          "date": "2026-03-20T22:45:15Z",
           "category": "development"
         },
         {
@@ -38853,7 +38853,7 @@
         {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 62,
+          "views": 64,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes"
         },
@@ -38876,7 +38876,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 743,
+          "views": 744,
           "date": "2026-02-14T09:23:06Z",
           "category": "development"
         },
@@ -38923,17 +38923,17 @@
           "category": "development"
         },
         {
+          "id": "L9ypC5863yA",
+          "title": "The Microservices Communication Playbook",
+          "views": 93,
+          "date": "2026-04-24T20:19:57Z",
+          "category": "development"
+        },
+        {
           "id": "CXtHwJQphLI",
           "title": "Production-Ready RabbitMQ in Go",
           "views": 91,
           "date": "2026-03-20T03:40:50Z",
-          "category": "development"
-        },
-        {
-          "id": "L9ypC5863yA",
-          "title": "The Microservices Communication Playbook",
-          "views": 81,
-          "date": "2026-04-24T20:19:57Z",
           "category": "development"
         },
         {
@@ -38946,21 +38946,21 @@
         {
           "id": "VHuQi_1t5qQ",
           "title": "Mastering Go Pointers",
-          "views": 73,
+          "views": 74,
           "date": "2026-04-17T18:20:09Z",
           "category": "development"
         },
         {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 62,
+          "views": 64,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes"
         },
         {
           "id": "MuDJGnGTn3k",
           "title": "Leetgo",
-          "views": 53,
+          "views": 54,
           "date": "2026-04-09T09:55:24Z",
           "category": "development"
         },
@@ -38995,7 +38995,7 @@
         {
           "id": "INNKxTAagE4",
           "title": "Resilient Asynchronous Systems in Go",
-          "views": 37,
+          "views": 38,
           "date": "2026-03-24T02:07:42Z",
           "category": "development"
         },

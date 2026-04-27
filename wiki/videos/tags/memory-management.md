@@ -2,7 +2,7 @@
 type: tag
 tags: [memory-management]
 sources: 6
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # memory management

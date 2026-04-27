@@ -32,7 +32,7 @@ This presentation examines how Go and Rust enforce the Gang of Four principle of
 
 - [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 112 views · Feb 24, 2026 · [Details](DazzkNtnzec.md) (shared: `composition over inheritance` · `composition` · `inheritance`)
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `rust` · `gang` · `four`)
-- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 47 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `composition` · `design` · `architecture`)
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 69 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `composition` · `design` · `architecture`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 86 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `architecture`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `design` · `architecture`)
 

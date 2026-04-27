@@ -36,7 +36,7 @@ This analysis explores the 'architect's baton' concept, detailing the transition
 ## Related Videos
 
 - [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 91 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `architecture` · `opentelemetry` · `distributed`)
-- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 37 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `architecture` · `opentelemetry` · `distributed`)
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `architecture` · `opentelemetry` · `distributed`)
 - [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 107 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `opentelemetry` · `distributed` · `context`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `architecture` · `distributed` · `infrastructure`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `architecture` · `management`)

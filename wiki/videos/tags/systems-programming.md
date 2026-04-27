@@ -2,7 +2,7 @@
 type: tag
 tags: [systems-programming]
 sources: 4
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # systems programming

@@ -30,11 +30,11 @@ This video presents a playbook for measuring and optimizing OpenTelemetry overhe
 
 ## Related Videos
 
-- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 37 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `opentelemetry` · `echo`)
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `opentelemetry` · `echo`)
 - [RFC 862 and the Echo Protocol](https://youtu.be/ea5lpF3RyzE) — Development · 39 views · Apr 7, 2026 · [Details](ea5lpF3RyzE.md) (shared: `benchmarking` · `echo`)
 - [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 107 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `opentelemetry` · `echo`)
 - [The Center Has a Bias](https://youtu.be/a1hIA6KQUFE) — Development · 38 views · Apr 13, 2026 · [Details](a1hIA6KQUFE.md) (shared: `cost`)
-- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 136 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `generation`)
+- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 137 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `generation`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

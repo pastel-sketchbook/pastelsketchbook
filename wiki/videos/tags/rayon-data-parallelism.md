@@ -2,7 +2,7 @@
 type: tag
 tags: [rayon-data-parallelism]
 sources: 2
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # rayon data parallelism

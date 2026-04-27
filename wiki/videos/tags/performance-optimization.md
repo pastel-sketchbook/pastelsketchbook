@@ -2,7 +2,7 @@
 type: tag
 tags: [performance-optimization]
 sources: 2
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # performance optimization

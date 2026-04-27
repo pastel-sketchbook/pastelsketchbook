@@ -2,7 +2,7 @@
 type: tag
 tags: [rabbitmq]
 sources: 7
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # rabbitmq
@@ -13,7 +13,7 @@ Videos connected by the topic `rabbitmq`.
 
 - [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 91 views · Mar 19, 2026 · [Details](../details/CXtHwJQphLI.md)
 - [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) — Development · 76 views · Apr 6, 2026 · [Details](../details/IYfTi_HNDl4.md)
-- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 37 views · Mar 23, 2026 · [Details](../details/INNKxTAagE4.md)
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](../details/INNKxTAagE4.md)
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) — Kubernetes · 25 views · Apr 4, 2026 · [Details](../details/7iWL5-0C66s.md)
 - [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 24 views · Apr 8, 2026 · [Details](../details/am9FvNiJ24M.md)
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 18 views · Apr 7, 2026 · [Details](../details/KdLQEv3Tiiw.md)

@@ -2,7 +2,7 @@
 type: tag
 tags: [rust-tui]
 sources: 3
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # rust tui

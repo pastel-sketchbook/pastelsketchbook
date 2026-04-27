@@ -37,7 +37,7 @@ The Rust Architect Sketchbook provides a comprehensive blueprint for designing h
 
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `tokio async runtime` · `tokio` · `async`)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 50 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `tokio async runtime` · `tokio` · `async`)
-- [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) — Development · 108 views · Mar 22, 2026 · [Details](vep9hSKc9I0.md) (shared: `tokio` · `async` · `axum`)
+- [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) — Development · 109 views · Mar 22, 2026 · [Details](vep9hSKc9I0.md) (shared: `tokio` · `async` · `axum`)
 - [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 16 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `thiserror` · `anyhow` · `tracing`)
 - [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 107 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `grpc` · `framework` · `web`)
 

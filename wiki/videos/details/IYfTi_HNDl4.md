@@ -31,7 +31,7 @@ This video explains how to build production-grade RabbitMQ systems in Go using a
 ## Related Videos
 
 - [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 91 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `rabbitmq` · `message` · `exchange`)
-- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 37 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `rabbitmq` · `architecture` · `distributed`)
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `rabbitmq` · `architecture` · `distributed`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `pattern` · `architecture`)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 36 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `pattern` · `architecture`)
 - [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 34 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `architecture` · `distributed`)

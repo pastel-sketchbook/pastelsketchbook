@@ -2,7 +2,7 @@
 type: tag
 tags: [ci-cd-pipeline]
 sources: 3
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # ci/cd pipeline

@@ -30,7 +30,7 @@ This video dissects the architecture of a real-time audio visualizer built with 
 
 ## Related Videos
 
-- [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) — Development · 126 views · Mar 18, 2026 · [Details](_zJ3_d1CODg.md) (shared: `bevy` · `engine` · `rust`)
+- [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) — Development · 127 views · Mar 18, 2026 · [Details](_zJ3_d1CODg.md) (shared: `bevy` · `engine` · `rust`)
 - [Neural TTS in Pastel-HN](https://youtu.be/d_0swhS1LyQ) — Development · 45 views · Feb 1, 2026 · [Details](d_0swhS1LyQ.md) (shared: `rust` · `audio`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 86 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust`)

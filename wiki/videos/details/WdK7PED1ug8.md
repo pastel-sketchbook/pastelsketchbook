@@ -31,10 +31,10 @@ This video provides a staged roadmap through Rust's smart pointer hierarchy, fro
 ## Related Videos
 
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust` · `smart` · `pointers`)
-- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 25 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `concurrency`)
+- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 26 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `concurrency`)
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `rust` · `safety`)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 50 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `rust` · `concurrency`)
-- [Mastering Go Pointers](https://youtu.be/VHuQi_1t5qQ) — Development · 73 views · Apr 17, 2026 · [Details](VHuQi_1t5qQ.md) (shared: `pointers` · `heap`)
+- [Mastering Go Pointers](https://youtu.be/VHuQi_1t5qQ) — Development · 74 views · Apr 17, 2026 · [Details](VHuQi_1t5qQ.md) (shared: `pointers` · `heap`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

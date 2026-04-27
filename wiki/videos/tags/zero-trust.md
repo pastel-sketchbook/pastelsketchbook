@@ -2,7 +2,7 @@
 type: tag
 tags: [zero-trust]
 sources: 7
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # zero trust

@@ -2,7 +2,7 @@
 type: tag
 tags: [travel-diary]
 sources: 2
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # travel diary

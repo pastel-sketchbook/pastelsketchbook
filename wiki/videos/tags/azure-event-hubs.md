@@ -2,7 +2,7 @@
 type: tag
 tags: [azure-event-hubs]
 sources: 3
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # azure event hubs

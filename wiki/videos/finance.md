@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, stocks, notebooklm]
 sources: 22
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # Finance

@@ -1,7 +1,7 @@
 ---
 type: index
 sources: 286
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # Video Wiki Index
@@ -14,7 +14,7 @@ The LLM reads this index first to locate relevant pages when answering queries.
 | Metric | Value |
 |--------|-------|
 | Total Videos | 286 |
-| Total Views | 22.9K |
+| Total Views | 23.1K |
 | Categories | 6 |
 | Last Updated | Apr 26, 2026 |
 
@@ -36,7 +36,7 @@ Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 166 videos, 20.0K total views.
+Videos about software development, tools, workflows, and engineering practices. 166 videos, 20.2K total views.
 
 ### [Security](security.md)
 
@@ -44,7 +44,7 @@ Videos on cybersecurity, application security, and security engineering. 11 vide
 
 ### [Programming](programming.md)
 
-Videos about programming languages, paradigms, and computer science concepts. 8 videos, 206 total views.
+Videos about programming languages, paradigms, and computer science concepts. 8 videos, 207 total views.
 
 ## Cross-Category Tags
 

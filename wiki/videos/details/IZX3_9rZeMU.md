@@ -39,7 +39,7 @@ The Open 2i architecture introduces a "hybrid sandwich" model for building high-
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `programming` · `memory management` · `memory`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 31 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `programming` · `memory management` · `memory`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `memory management` · `memory` · `management`)
-- [Architectural Evolution of a Vision Tool](https://youtu.be/Qv9X3ZY474U) — Development · 52 views · Mar 28, 2026 · [Details](Qv9X3ZY474U.md) (shared: `interface` · `ffi` · `memory`)
+- [Architectural Evolution of a Vision Tool](https://youtu.be/Qv9X3ZY474U) — Development · 53 views · Mar 28, 2026 · [Details](Qv9X3ZY474U.md) (shared: `interface` · `ffi` · `memory`)
 
 ---
 *Auto-generated on Apr 6, 2026. Back to [development](../development.md) · [index](../index.md).*

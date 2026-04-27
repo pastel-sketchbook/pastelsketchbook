@@ -2,7 +2,7 @@
 type: tag
 tags: [data-oriented-design]
 sources: 4
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # data-oriented design

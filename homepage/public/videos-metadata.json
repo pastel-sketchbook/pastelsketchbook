@@ -340,7 +340,7 @@
     {
       "id": "eaPXjvB194w",
       "title": "Architecting Cost Efficiency for Al Workloads",
-      "views": 15,
+      "views": 17,
       "date": "2026-04-26T01:05:16Z",
       "tags": [
         "azure",
@@ -352,7 +352,7 @@
     {
       "id": "quD4pyCwKB4",
       "title": "Enterprise Infrastructure as Code for Al Agents",
-      "views": 30,
+      "views": 44,
       "date": "2026-04-25T17:46:48Z",
       "tags": [
         "iac",
@@ -389,7 +389,7 @@
     {
       "id": "p9LNSeAt5Zw",
       "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-      "views": 16,
+      "views": 17,
       "date": "2026-04-22T10:25:18Z",
       "tags": [
         "pm2",
@@ -414,7 +414,7 @@
     {
       "id": "nomIVRSBEG4",
       "title": "Consuming CDC with ScyllaDB",
-      "views": 62,
+      "views": 64,
       "date": "2026-04-18T04:36:03Z",
       "tags": [
         "scylladb",
@@ -1002,7 +1002,7 @@
     {
       "id": "C5HqbzLRYZ0",
       "title": "K8s Services  AKS & Istio",
-      "views": 12,
+      "views": 13,
       "date": "2026-01-10T16:26:22Z",
       "tags": [
         "istio",
@@ -1067,7 +1067,7 @@
     {
       "id": "BQ4wab0UtLg",
       "title": "From Louvain to Leiden",
-      "views": 2,
+      "views": 8,
       "date": "2026-04-26T15:40:42Z",
       "tags": [
         "curiosity",
@@ -1078,7 +1078,7 @@
     {
       "id": "yAeM2vpPWeM",
       "title": "Design for Deletion",
-      "views": 47,
+      "views": 69,
       "date": "2026-04-25T10:56:42Z",
       "tags": [
         "ai",
@@ -1090,7 +1090,7 @@
     {
       "id": "xvqZFPf5X60",
       "title": "TanStack Al Composes the Modern Audio Stack",
-      "views": 16,
+      "views": 20,
       "date": "2026-04-25T07:46:26Z",
       "tags": [
         "ai",
@@ -1103,7 +1103,7 @@
     {
       "id": "fNN88ZXWYKU",
       "title": "Machine Learning Systems",
-      "views": 107,
+      "views": 135,
       "date": "2026-04-24T23:06:32Z",
       "tags": [
         "ml",
@@ -1115,7 +1115,7 @@
     {
       "id": "L9ypC5863yA",
       "title": "The Microservices Communication Playbook",
-      "views": 81,
+      "views": 93,
       "date": "2026-04-24T20:19:57Z",
       "tags": [
         "go",
@@ -1128,7 +1128,7 @@
     {
       "id": "z_W9dX6fliM",
       "title": "The Agentic Future",
-      "views": 31,
+      "views": 40,
       "date": "2026-04-24T15:58:08Z",
       "tags": [
         "ai",
@@ -1142,7 +1142,7 @@
     {
       "id": "NhYb7QkBdMs",
       "title": "Rusty Object Notation (RON)",
-      "views": 54,
+      "views": 69,
       "date": "2026-04-24T06:12:06Z",
       "tags": [
         "rust",
@@ -1155,7 +1155,7 @@
     {
       "id": "pgTCcVO4gfg",
       "title": "The 10k LOC Sweet Spot",
-      "views": 11,
+      "views": 12,
       "date": "2026-04-21T22:18:41Z",
       "tags": [
         "ai",
@@ -1191,7 +1191,7 @@
     {
       "id": "vtzEOYX_8k8",
       "title": "Packet Capture Fundamentals",
-      "views": 38,
+      "views": 39,
       "date": "2026-04-20T12:07:27Z",
       "tags": [
         "packet",
@@ -1203,7 +1203,7 @@
     {
       "id": "wKzz0jKiScM",
       "title": "Emacs Architecture, Neovim Philosophy",
-      "views": 271,
+      "views": 272,
       "date": "2026-04-19T22:51:25Z",
       "tags": [
         "emacs"
@@ -1260,7 +1260,7 @@
     {
       "id": "VHuQi_1t5qQ",
       "title": "Mastering Go Pointers",
-      "views": 73,
+      "views": 74,
       "date": "2026-04-17T18:20:09Z",
       "tags": [
         "go",
@@ -1287,7 +1287,7 @@
     {
       "id": "lsjfczYFBeQ",
       "title": "The Evolution of RFCs in the Al Era",
-      "views": 28,
+      "views": 29,
       "date": "2026-04-16T22:17:14Z",
       "tags": [
         "curiosity",
@@ -1310,7 +1310,7 @@
     {
       "id": "hTEG3TsuUPQ",
       "title": "Zig 0.16.0: Architectural Decoupling",
-      "views": 616,
+      "views": 622,
       "date": "2026-04-15T14:24:06Z",
       "tags": [
         "zig",
@@ -1385,7 +1385,7 @@
     {
       "id": "QC-vaMcjq3M",
       "title": "zig-lottie: Compiling Motion",
-      "views": 79,
+      "views": 80,
       "date": "2026-04-11T05:33:18Z",
       "tags": [
         "zig",
@@ -1419,7 +1419,7 @@
     {
       "id": "TEGFwsAcxK8",
       "title": "Agent Skills for Flutter",
-      "views": 112,
+      "views": 114,
       "date": "2026-04-10T13:02:35Z",
       "tags": [
         "ai",
@@ -1431,7 +1431,7 @@
     {
       "id": "BzvpasWYESU",
       "title": "The LLM Wiki Paradigm",
-      "views": 2568,
+      "views": 2571,
       "date": "2026-04-09T22:17:25Z",
       "tags": [
         "ai",
@@ -1444,7 +1444,7 @@
     {
       "id": "MuDJGnGTn3k",
       "title": "Leetgo",
-      "views": 53,
+      "views": 54,
       "date": "2026-04-09T09:55:24Z",
       "tags": [
         "leetcode",
@@ -1507,7 +1507,7 @@
     {
       "id": "fv61JXUCbeo",
       "title": "Stitch Agent Skills",
-      "views": 270,
+      "views": 271,
       "date": "2026-04-05T21:24:52Z",
       "tags": [
         "ai",
@@ -1557,7 +1557,7 @@
     {
       "id": "54lO6XE-AeQ",
       "title": "The Zero-Copy Architecture",
-      "views": 4135,
+      "views": 4137,
       "date": "2026-04-03T12:29:02Z",
       "tags": [
         "zero-copy",
@@ -1582,14 +1582,14 @@
     {
       "id": "JWeu5aqAkR0",
       "title": "The Transport Revolution: Deconstructing HTTP/3",
-      "views": 206,
+      "views": 207,
       "date": "2026-04-01T22:51:56Z",
       "tags": []
     },
     {
       "id": "oUTf9j6fWJo",
       "title": "Reed: The Modern Terminal File Viewer",
-      "views": 142,
+      "views": 143,
       "date": "2026-03-30T22:20:06Z",
       "tags": [
         "libghostty-vt",
@@ -1641,7 +1641,7 @@
     {
       "id": "Qv9X3ZY474U",
       "title": "Architectural Evolution of a Vision Tool",
-      "views": 52,
+      "views": 53,
       "date": "2026-03-28T13:11:01Z",
       "tags": [
         "zig",
@@ -1700,7 +1700,7 @@
     {
       "id": "INNKxTAagE4",
       "title": "Resilient Asynchronous Systems in Go",
-      "views": 37,
+      "views": 38,
       "date": "2026-03-24T02:07:42Z",
       "tags": [
         "go",
@@ -1725,7 +1725,7 @@
     {
       "id": "vep9hSKc9I0",
       "title": "Dial9 Demo - Deep Observability in Async Rust",
-      "views": 108,
+      "views": 109,
       "date": "2026-03-22T10:40:21Z",
       "tags": [
         "rust",
@@ -1762,7 +1762,7 @@
     {
       "id": "lY5TU8qHduM",
       "title": "The Flight Recorder for Tokio",
-      "views": 25,
+      "views": 26,
       "date": "2026-03-20T22:45:15Z",
       "tags": [
         "rust",
@@ -1799,7 +1799,7 @@
     {
       "id": "_zJ3_d1CODg",
       "title": "Bevy-Demo",
-      "views": 126,
+      "views": 127,
       "date": "2026-03-19T00:18:34Z",
       "tags": [
         "rust",
@@ -1811,7 +1811,7 @@
     {
       "id": "0HEqwk9UMOc",
       "title": "How to Kill the Code Review",
-      "views": 136,
+      "views": 137,
       "date": "2026-03-18T11:10:57Z",
       "tags": [
         "ai",
@@ -2080,7 +2080,7 @@
     {
       "id": "00kCzR10M1w",
       "title": "The Road to SolidJS 2.0",
-      "views": 183,
+      "views": 184,
       "date": "2026-03-04T00:40:36Z",
       "tags": [
         "solidjs",
@@ -2165,7 +2165,7 @@
     {
       "id": "Wa0EHhhKV8Q",
       "title": "Architecting Action: 10 NotebookLM Prompts",
-      "views": 107,
+      "views": 108,
       "date": "2026-02-27T12:49:18Z",
       "tags": [
         "notebooklm",
@@ -2331,7 +2331,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 743,
+      "views": 744,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -2343,7 +2343,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 779,
+      "views": 780,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -2354,7 +2354,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 347,
+      "views": 348,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -3201,7 +3201,7 @@
     {
       "id": "qyqLjeu8Hng",
       "title": "영어 리스닝  3000시간의 법칙",
-      "views": 54,
+      "views": 55,
       "date": "2026-01-13T10:40:26Z",
       "tags": [
         "영어 공부"
@@ -3237,6 +3237,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-26T17:25:41.895Z",
+  "generatedAt": "2026-04-27T02:44:35.574Z",
   "count": 286
 }

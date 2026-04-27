@@ -35,7 +35,7 @@ This video outlines a practical architectural guide for implementing the LGTM ob
 
 ## Related Videos
 
-- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 37 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `opentelemetry` · `distributed tracing` · `distributed`)
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `opentelemetry` · `distributed tracing` · `distributed`)
 - [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 36 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `distributed tracing` · `distributed` · `tracing`)
 - [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 91 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `opentelemetry` · `distributed tracing` · `distributed`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `tracing` · `web` · `framework`)

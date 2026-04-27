@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, azure, istio, rabbitmq, cue, cdc, rust, hybrid, networking]
 sources: 62
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # Kubernetes
@@ -37,7 +37,7 @@ updated: 2026-04-26
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) -- 23 views, Jan 14, 2026 · [Details](details/A4-foXsdQiA.md)
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) -- 6 views, Jan 14, 2026 · [Details](details/C6wLm6NRZW4.md)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) -- 5 views, Jan 10, 2026 · [Details](details/N4nRAfBZ3BE.md)
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) -- 12 views, Jan 10, 2026 · [Details](details/C5HqbzLRYZ0.md)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) -- 13 views, Jan 10, 2026 · [Details](details/C5HqbzLRYZ0.md)
 - [Securely Exposing AKS Applications](https://youtu.be/A7eoKD5m6Ek) -- 9 views, Jan 8, 2026 · [Details](details/A7eoKD5m6Ek.md)
 - [Deploying CSR Applications on Vercel Versus AKS](https://youtu.be/snRi_JET1bg) -- 8 views, Jan 6, 2026 · [Details](details/snRi_JET1bg.md)
 - [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) -- 18 views, Jan 2, 2026 · [Details](details/8ycnldvJmuA.md)
@@ -57,9 +57,9 @@ updated: 2026-04-26
 
 ### AI & ML (8 videos)
 
-- [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) -- 30 views, Apr 25, 2026 · [Details](details/quD4pyCwKB4.md)
+- [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) -- 44 views, Apr 25, 2026 · [Details](details/quD4pyCwKB4.md)
 - [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 15 views, Apr 22, 2026 · [Details](details/eZNBXDUc8OQ.md)
-- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) -- 16 views, Apr 22, 2026 · [Details](details/p9LNSeAt5Zw.md)
+- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) -- 17 views, Apr 22, 2026 · [Details](details/p9LNSeAt5Zw.md)
 - [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) -- 27 views, Apr 14, 2026 · [Details](details/mGMaqTvWrCc.md)
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 25 views, Apr 4, 2026 · [Details](details/7iWL5-0C66s.md)
 - [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) -- 67 views, Mar 26, 2026 · [Details](details/lexZnOlyml0.md)
@@ -68,7 +68,7 @@ updated: 2026-04-26
 
 ### Data & Databases (8 videos)
 
-- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 62 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
+- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 64 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) -- 15 views, Mar 13, 2026 · [Details](details/u60g2nMtVi4.md)
 - [ScyllaDB: The Next-Generation NoSQL Platform](https://youtu.be/mYClRFIlsFc) -- 13 views, Feb 19, 2026 · [Details](details/mYClRFIlsFc.md)
 - [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 46 views, Feb 12, 2026 · [Details](details/eI2DXGISpbk.md)
@@ -86,7 +86,7 @@ updated: 2026-04-26
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) -- 46 views, Jan 16, 2026 · [Details](details/0U-SUJCmKAU.md)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) -- 23 views, Jan 14, 2026 · [Details](details/A4-foXsdQiA.md)
 - [Kubernetes Services & Istio](https://youtu.be/OnwiaDRj1-k) -- 30 views, Jan 12, 2026 · [Details](details/OnwiaDRj1-k.md)
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) -- 12 views, Jan 10, 2026 · [Details](details/C5HqbzLRYZ0.md)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) -- 13 views, Jan 10, 2026 · [Details](details/C5HqbzLRYZ0.md)
 
 ### CI/CD & DevOps (7 videos)
 
@@ -110,7 +110,7 @@ updated: 2026-04-26
 
 ### Go (6 videos)
 
-- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 62 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
+- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 64 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) -- 25 views, Feb 21, 2026 · [Details](details/ORjARjbukhY.md)
 - [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 46 views, Feb 12, 2026 · [Details](details/eI2DXGISpbk.md)
@@ -144,7 +144,7 @@ updated: 2026-04-26
 
 ### Rust (4 videos)
 
-- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 62 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
+- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 64 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) -- 17 views, Apr 11, 2026 · [Details](details/a8heWpae5p0.md)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 42 views, Jan 17, 2026 · [Details](details/4b-H6ZaoNUE.md)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) -- 23 views, Jan 14, 2026 · [Details](details/A4-foXsdQiA.md)
@@ -152,20 +152,20 @@ updated: 2026-04-26
 ### Containers & Docker (3 videos)
 
 - [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 15 views, Apr 22, 2026 · [Details](details/eZNBXDUc8OQ.md)
-- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) -- 16 views, Apr 22, 2026 · [Details](details/p9LNSeAt5Zw.md)
+- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) -- 17 views, Apr 22, 2026 · [Details](details/p9LNSeAt5Zw.md)
 - [Modern Docker Networking & Traefik](https://youtu.be/Pxh2PcNx9W8) -- 38 views, Mar 3, 2026 · [Details](details/Pxh2PcNx9W8.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Architecting Cost Efficiency for Al Workloads | 15 | Apr 25, 2026 | [Watch](https://youtu.be/eaPXjvB194w) | [Wiki](details/eaPXjvB194w.md) |
-| 2 | Enterprise Infrastructure as Code for Al Agents | 30 | Apr 25, 2026 | [Watch](https://youtu.be/quD4pyCwKB4) | [Wiki](details/quD4pyCwKB4.md) |
+| 1 | Architecting Cost Efficiency for Al Workloads | 17 | Apr 25, 2026 | [Watch](https://youtu.be/eaPXjvB194w) | [Wiki](details/eaPXjvB194w.md) |
+| 2 | Enterprise Infrastructure as Code for Al Agents | 44 | Apr 25, 2026 | [Watch](https://youtu.be/quD4pyCwKB4) | [Wiki](details/quD4pyCwKB4.md) |
 | 3 | Kubernetes 1.36 (Haru) | 17 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
 | 4 | Architecting Modern Deployments | 15 | Apr 22, 2026 | [Watch](https://youtu.be/eZNBXDUc8OQ) | [Wiki](details/eZNBXDUc8OQ.md) |
-| 5 | Scaling Node.js from PM2 to Cloud-Native Orchestration | 16 | Apr 22, 2026 | [Watch](https://youtu.be/p9LNSeAt5Zw) | [Wiki](details/p9LNSeAt5Zw.md) |
+| 5 | Scaling Node.js from PM2 to Cloud-Native Orchestration | 17 | Apr 22, 2026 | [Watch](https://youtu.be/p9LNSeAt5Zw) | [Wiki](details/p9LNSeAt5Zw.md) |
 | 6 | The Cloud Rosetta Stone | 20 | Apr 18, 2026 | [Watch](https://youtu.be/PMgUhFxrjPc) | [Wiki](details/PMgUhFxrjPc.md) |
-| 7 | Consuming CDC with ScyllaDB | 62 | Apr 17, 2026 | [Watch](https://youtu.be/nomIVRSBEG4) | [Wiki](details/nomIVRSBEG4.md) |
+| 7 | Consuming CDC with ScyllaDB | 64 | Apr 17, 2026 | [Watch](https://youtu.be/nomIVRSBEG4) | [Wiki](details/nomIVRSBEG4.md) |
 | 8 | Building an End-to-End MLOps Pipeline | 27 | Apr 14, 2026 | [Watch](https://youtu.be/mGMaqTvWrCc) | [Wiki](details/mGMaqTvWrCc.md) |
 | 9 | A Trillion Transactions | 37 | Apr 12, 2026 | [Watch](https://youtu.be/oHdhgeF4wlI) | [Wiki](details/oHdhgeF4wlI.md) |
 | 10 | minikv: Distributed Systems Meets Data Science | 17 | Apr 11, 2026 | [Watch](https://youtu.be/a8heWpae5p0) | [Wiki](details/a8heWpae5p0.md) |
@@ -215,7 +215,7 @@ updated: 2026-04-26
 | 54 | Kubernetes Services & Istio | 30 | Jan 12, 2026 | [Watch](https://youtu.be/OnwiaDRj1-k) | [Wiki](details/OnwiaDRj1-k.md) |
 | 55 | A Blueprint for Secure Azure Authentication in Go | 18 | Jan 12, 2026 | [Watch](https://youtu.be/R2zktRqz81U) | [Wiki](details/R2zktRqz81U.md) |
 | 56 | Choosing Your Messaging Fabric on AKS | 5 | Jan 10, 2026 | [Watch](https://youtu.be/N4nRAfBZ3BE) | [Wiki](details/N4nRAfBZ3BE.md) |
-| 57 | K8s Services  AKS & Istio | 12 | Jan 10, 2026 | [Watch](https://youtu.be/C5HqbzLRYZ0) | [Wiki](details/C5HqbzLRYZ0.md) |
+| 57 | K8s Services  AKS & Istio | 13 | Jan 10, 2026 | [Watch](https://youtu.be/C5HqbzLRYZ0) | [Wiki](details/C5HqbzLRYZ0.md) |
 | 58 | Kubernetes Cluster Architecture | 12 | Jan 9, 2026 | [Watch](https://youtu.be/rJTUB-u8U2Y) | [Wiki](details/rJTUB-u8U2Y.md) |
 | 59 | Securely Exposing AKS Applications | 9 | Jan 8, 2026 | [Watch](https://youtu.be/A7eoKD5m6Ek) | [Wiki](details/A7eoKD5m6Ek.md) |
 | 60 | Deploying CSR Applications on Vercel Versus AKS | 8 | Jan 6, 2026 | [Watch](https://youtu.be/snRi_JET1bg) | [Wiki](details/snRi_JET1bg.md) |

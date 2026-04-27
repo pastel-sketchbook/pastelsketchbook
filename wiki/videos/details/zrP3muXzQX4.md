@@ -30,7 +30,7 @@ This video introduces REINS, a framework for AI-assisted development that addres
 
 ## Related Videos
 
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 112 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `ai-assisted` · `development` · `agent`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 114 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `ai-assisted` · `development` · `agent`)
 - [Ralph: The Autonomous Vibe Coding Workflow](https://youtu.be/V2LbQqD1lMM) — Development · 34 views · Jan 31, 2026 · [Details](V2LbQqD1lMM.md) (shared: `development` · `context` · `coding`)
 - [Taming the Genie](https://youtu.be/MaP2i4dTiQk) — Development · 15 views · Jan 23, 2026 · [Details](MaP2i4dTiQk.md) (shared: `ai-assisted` · `development` · `coding`)
 - [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 42 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `development` · `framework`)

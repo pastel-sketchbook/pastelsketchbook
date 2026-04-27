@@ -2,7 +2,7 @@
 type: tag
 tags: [oauth-2-0]
 sources: 2
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # oauth 2.0

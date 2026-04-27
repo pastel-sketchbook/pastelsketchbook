@@ -2,7 +2,7 @@
 type: tag
 tags: [git-compatibility]
 sources: 2
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # git compatibility

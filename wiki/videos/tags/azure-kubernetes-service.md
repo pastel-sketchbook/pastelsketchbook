@@ -2,7 +2,7 @@
 type: tag
 tags: [azure-kubernetes-service]
 sources: 6
-updated: 2026-04-26
+updated: 2026-04-27
 ---
 
 # azure kubernetes service

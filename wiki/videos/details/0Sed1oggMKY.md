@@ -30,8 +30,8 @@ This video provides a deep dive into Tokio, the de facto asynchronous runtime fo
 
 ## Related Videos
 
-- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 25 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `tokio` · `rust` · `async`)
-- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 37 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `async` · `event-driven architecture` · `event-driven`)
+- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 26 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `tokio` · `rust` · `async`)
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `async` · `event-driven architecture` · `event-driven`)
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 45 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `rust` · `event-driven architecture` · `event-driven`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `tokio` · `rust` · `async`)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 50 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `tokio` · `rust` · `async`)
