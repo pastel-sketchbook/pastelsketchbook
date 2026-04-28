@@ -30,11 +30,11 @@ This session provides a defense-in-depth blueprint for securely exposing private
 
 ## Related Videos
 
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 46 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `aks security` · `aks` · `security`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 49 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `aks security` · `aks` · `security`)
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](C6wLm6NRZW4.md) (shared: `aks` · `azure` · `application`)
 - [Azure Enterprise Edge Lab](https://youtu.be/fMjflPvjaJ8) — Kubernetes · 8 views · Mar 31, 2026 · [Details](fMjflPvjaJ8.md) (shared: `security` · `azure` · `waf`)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) — Security · 34 views · Mar 25, 2026 · [Details](CA1nlknmR3g.md) (shared: `security` · `defense in depth` · `defense`)
-- [Architecting AKS Node Auto-Provisioning](https://youtu.be/3hSdKvqPcSE) — Kubernetes · 35 views · Feb 25, 2026 · [Details](3hSdKvqPcSE.md) (shared: `aks` · `cluster`)
+- [Architecting AKS Node Auto-Provisioning](https://youtu.be/3hSdKvqPcSE) — Kubernetes · 36 views · Feb 25, 2026 · [Details](3hSdKvqPcSE.md) (shared: `aks` · `cluster`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

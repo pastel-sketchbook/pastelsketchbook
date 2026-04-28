@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, stocks, notebooklm]
 sources: 22
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-04-27
 | Metric | Value |
 |--------|-------|
 | Videos | 22 |
-| Total Views | 435 |
+| Total Views | 436 |
 | Most Recent | Apr 17, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -34,7 +34,7 @@ updated: 2026-04-27
 | 2 | The End of the American Penny | 3 | Apr 15, 2026 | [Watch](https://youtu.be/vzwjAlEz_bI) | [Wiki](details/vzwjAlEz_bI.md) |
 | 3 | Nesting in Global Finance | 6 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) | [Wiki](details/YYVxMSqBqe8.md) |
 | 4 | The Mystery of the Nickel Coke | 10 | Apr 10, 2026 | [Watch](https://youtu.be/l9UUqD2Bz2E) | [Wiki](details/l9UUqD2Bz2E.md) |
-| 5 | The Final Five Years | 15 | Apr 7, 2026 | [Watch](https://youtu.be/HFmkEvxyJE4) | [Wiki](details/HFmkEvxyJE4.md) |
+| 5 | The Final Five Years | 16 | Apr 7, 2026 | [Watch](https://youtu.be/HFmkEvxyJE4) | [Wiki](details/HFmkEvxyJE4.md) |
 | 6 | The Architecture of Fulfillment | 46 | Mar 26, 2026 | [Watch](https://youtu.be/hnMR8rdGCnU) | [Wiki](details/hnMR8rdGCnU.md) |
 | 7 | The Final 5 Years | 19 | Mar 20, 2026 | [Watch](https://youtu.be/G-vvSNwm-jE) | [Wiki](details/G-vvSNwm-jE.md) |
 | 8 | The Pomology Field Guide | 19 | Mar 19, 2026 | [Watch](https://youtu.be/_LrmdP64y6A) | [Wiki](details/_LrmdP64y6A.md) |
@@ -64,4 +64,4 @@ updated: 2026-04-27
 - [Kubernetes](kubernetes.md) -- shared tags: `curiosity`
 
 ---
-*Auto-generated on Apr 26, 2026. Back to [index](index.md).*
+*Auto-generated on Apr 28, 2026. Back to [index](index.md).*

@@ -119,3 +119,15 @@ Generated 3 video detail pages (all videos).
 ## [2026-04-27] ingest | Video Metadata Sync
 
 Synced 286 videos across 6 categories (korea=17, finance=22, kubernetes=62, development=166, security=11, programming=8).
+
+## [2026-04-28] ingest | Video Metadata Sync
+
+Synced 290 videos across 6 categories (korea=17, finance=22, kubernetes=62, development=169, security=12, programming=8).
+
+## [2026-04-28] ingest | Video Transcripts
+
+Exported 1 transcript files (single: R3n8UxyD7mc) to `wiki/raw/transcripts`.
+
+## [2026-04-28] ingest | Video Details
+
+Generated 1 video detail pages (single: _NXyqfM6TXg).

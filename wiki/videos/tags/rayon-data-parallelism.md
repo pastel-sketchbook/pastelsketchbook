@@ -2,7 +2,7 @@
 type: tag
 tags: [rayon-data-parallelism]
 sources: 2
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # rayon data parallelism
@@ -15,4 +15,4 @@ Videos connected by the topic `rayon data parallelism`.
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 50 views · Mar 28, 2026 · [Details](../details/F59lTcC6xJ0.md)
 
 ---
-*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*

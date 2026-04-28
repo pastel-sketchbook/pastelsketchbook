@@ -2,7 +2,7 @@
 type: tag
 tags: [mutual-tls]
 sources: 2
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # mutual tls
@@ -15,4 +15,4 @@ Videos connected by the topic `mutual tls`.
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 21 views · Apr 1, 2026 · [Details](../details/BiYKKVsJROk.md)
 
 ---
-*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*

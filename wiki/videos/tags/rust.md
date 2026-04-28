@@ -2,7 +2,7 @@
 type: tag
 tags: [rust]
 sources: 4
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # rust
@@ -17,4 +17,4 @@ Videos connected by the topic `rust`.
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 26 views · Mar 20, 2026 · [Details](../details/lY5TU8qHduM.md)
 
 ---
-*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*

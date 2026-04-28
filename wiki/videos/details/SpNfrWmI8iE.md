@@ -31,10 +31,10 @@ This video covers how to architect scalable Rust backend systems using the facad
 ## Related Videos
 
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 45 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `rust` · `backend` · `architecture`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 780 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `pattern` · `dependency injection`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 782 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `pattern` · `dependency injection`)
+- [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 21 views · Apr 27, 2026 · [Details](R3n8UxyD7mc.md) (shared: `architecture` · `pattern` · `dependency injection`)
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `rust` · `facade pattern` · `facade`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 86 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `architecture` · `async`)
-- [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 30 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `architecture` · `pattern` · `abstraction`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

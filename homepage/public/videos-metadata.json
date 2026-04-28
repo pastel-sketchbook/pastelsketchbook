@@ -209,7 +209,7 @@
     {
       "id": "HFmkEvxyJE4",
       "title": "The Final Five Years",
-      "views": 15,
+      "views": 16,
       "date": "2026-04-08T03:21:12Z",
       "tags": []
     },
@@ -340,7 +340,7 @@
     {
       "id": "eaPXjvB194w",
       "title": "Architecting Cost Efficiency for Al Workloads",
-      "views": 17,
+      "views": 24,
       "date": "2026-04-26T01:05:16Z",
       "tags": [
         "azure",
@@ -352,7 +352,7 @@
     {
       "id": "quD4pyCwKB4",
       "title": "Enterprise Infrastructure as Code for Al Agents",
-      "views": 44,
+      "views": 53,
       "date": "2026-04-25T17:46:48Z",
       "tags": [
         "iac",
@@ -365,7 +365,7 @@
     {
       "id": "2ksi8K7wg3I",
       "title": "Kubernetes 1.36 (Haru)",
-      "views": 17,
+      "views": 23,
       "date": "2026-04-23T22:03:32Z",
       "tags": [
         "k8s",
@@ -427,7 +427,7 @@
     {
       "id": "mGMaqTvWrCc",
       "title": "Building an End-to-End MLOps Pipeline",
-      "views": 27,
+      "views": 28,
       "date": "2026-04-14T23:21:34Z",
       "tags": [
         "azure",
@@ -703,7 +703,7 @@
     {
       "id": "3hSdKvqPcSE",
       "title": "Architecting AKS Node Auto-Provisioning",
-      "views": 35,
+      "views": 36,
       "date": "2026-02-25T23:24:20Z",
       "tags": [
         "aks",
@@ -805,7 +805,7 @@
     {
       "id": "eI2DXGISpbk",
       "title": "BadgerDB: The Go-Native Key-Value Store",
-      "views": 46,
+      "views": 48,
       "date": "2026-02-13T00:09:38Z",
       "tags": [
         "go",
@@ -827,7 +827,7 @@
     {
       "id": "rgY4KTMFOMs",
       "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-      "views": 46,
+      "views": 49,
       "date": "2026-02-05T14:29:16Z",
       "tags": [
         "aks",
@@ -872,7 +872,7 @@
     {
       "id": "KpSjLQpswW4",
       "title": "Secure Service-to-Service Authorization with SpiceDB",
-      "views": 29,
+      "views": 30,
       "date": "2026-01-27T11:21:16Z",
       "tags": [
         "spicedb",
@@ -1065,9 +1065,45 @@
       ]
     },
     {
+      "id": "i1HT5UIccTs",
+      "title": "Agent Skills for Dart",
+      "views": 3,
+      "date": "2026-04-28T18:55:44Z",
+      "tags": [
+        "ai",
+        "agent",
+        "skill"
+      ]
+    },
+    {
+      "id": "R3n8UxyD7mc",
+      "title": "The Architecture of Systemic Decoupling",
+      "views": 21,
+      "date": "2026-04-27T22:23:45Z",
+      "tags": [
+        "dip",
+        "di",
+        "ioc",
+        "decoupling"
+      ]
+    },
+    {
+      "id": "EWwk29GzHgg",
+      "title": "Architecting the Next Evolution of the Local Database",
+      "views": 84,
+      "date": "2026-04-27T08:39:23Z",
+      "tags": [
+        "db",
+        "local",
+        "rust",
+        "sqlite",
+        "turso"
+      ]
+    },
+    {
       "id": "BQ4wab0UtLg",
       "title": "From Louvain to Leiden",
-      "views": 8,
+      "views": 19,
       "date": "2026-04-26T15:40:42Z",
       "tags": [
         "curiosity",
@@ -1078,7 +1114,7 @@
     {
       "id": "yAeM2vpPWeM",
       "title": "Design for Deletion",
-      "views": 69,
+      "views": 150,
       "date": "2026-04-25T10:56:42Z",
       "tags": [
         "ai",
@@ -1090,7 +1126,7 @@
     {
       "id": "xvqZFPf5X60",
       "title": "TanStack Al Composes the Modern Audio Stack",
-      "views": 20,
+      "views": 66,
       "date": "2026-04-25T07:46:26Z",
       "tags": [
         "ai",
@@ -1103,7 +1139,7 @@
     {
       "id": "fNN88ZXWYKU",
       "title": "Machine Learning Systems",
-      "views": 135,
+      "views": 175,
       "date": "2026-04-24T23:06:32Z",
       "tags": [
         "ml",
@@ -1115,7 +1151,7 @@
     {
       "id": "L9ypC5863yA",
       "title": "The Microservices Communication Playbook",
-      "views": 93,
+      "views": 119,
       "date": "2026-04-24T20:19:57Z",
       "tags": [
         "go",
@@ -1128,7 +1164,7 @@
     {
       "id": "z_W9dX6fliM",
       "title": "The Agentic Future",
-      "views": 40,
+      "views": 61,
       "date": "2026-04-24T15:58:08Z",
       "tags": [
         "ai",
@@ -1142,7 +1178,7 @@
     {
       "id": "NhYb7QkBdMs",
       "title": "Rusty Object Notation (RON)",
-      "views": 69,
+      "views": 142,
       "date": "2026-04-24T06:12:06Z",
       "tags": [
         "rust",
@@ -1155,7 +1191,7 @@
     {
       "id": "pgTCcVO4gfg",
       "title": "The 10k LOC Sweet Spot",
-      "views": 12,
+      "views": 14,
       "date": "2026-04-21T22:18:41Z",
       "tags": [
         "ai",
@@ -1203,7 +1239,7 @@
     {
       "id": "wKzz0jKiScM",
       "title": "Emacs Architecture, Neovim Philosophy",
-      "views": 272,
+      "views": 271,
       "date": "2026-04-19T22:51:25Z",
       "tags": [
         "emacs"
@@ -1238,7 +1274,7 @@
     {
       "id": "izLrX-02IQk",
       "title": "Rust 1.95.0",
-      "views": 196,
+      "views": 198,
       "date": "2026-04-18T20:42:55Z",
       "tags": [
         "rust",
@@ -1310,7 +1346,7 @@
     {
       "id": "hTEG3TsuUPQ",
       "title": "Zig 0.16.0: Architectural Decoupling",
-      "views": 622,
+      "views": 633,
       "date": "2026-04-15T14:24:06Z",
       "tags": [
         "zig",
@@ -1334,7 +1370,7 @@
     {
       "id": "j8lMpSezavQ",
       "title": "The Local SOTA Engine for Your Digital Brain",
-      "views": 53,
+      "views": 57,
       "date": "2026-04-13T22:32:31Z",
       "tags": [
         "bm25",
@@ -1419,7 +1455,7 @@
     {
       "id": "TEGFwsAcxK8",
       "title": "Agent Skills for Flutter",
-      "views": 114,
+      "views": 118,
       "date": "2026-04-10T13:02:35Z",
       "tags": [
         "ai",
@@ -1431,7 +1467,7 @@
     {
       "id": "BzvpasWYESU",
       "title": "The LLM Wiki Paradigm",
-      "views": 2571,
+      "views": 2586,
       "date": "2026-04-09T22:17:25Z",
       "tags": [
         "ai",
@@ -1444,7 +1480,7 @@
     {
       "id": "MuDJGnGTn3k",
       "title": "Leetgo",
-      "views": 54,
+      "views": 56,
       "date": "2026-04-09T09:55:24Z",
       "tags": [
         "leetcode",
@@ -1455,7 +1491,7 @@
     {
       "id": "am9FvNiJ24M",
       "title": "The 2026 Change Data Capture Blueprint",
-      "views": 24,
+      "views": 25,
       "date": "2026-04-08T22:14:35Z",
       "tags": [
         "cdc",
@@ -1557,7 +1593,7 @@
     {
       "id": "54lO6XE-AeQ",
       "title": "The Zero-Copy Architecture",
-      "views": 4137,
+      "views": 4140,
       "date": "2026-04-03T12:29:02Z",
       "tags": [
         "zero-copy",
@@ -1678,7 +1714,7 @@
     {
       "id": "yCJDmGrk8sM",
       "title": "Advancing Go Garbage Collection with Green Tea",
-      "views": 145,
+      "views": 146,
       "date": "2026-03-24T22:59:50Z",
       "tags": [
         "go",
@@ -1738,7 +1774,7 @@
     {
       "id": "wyIhJ3LMnRg",
       "title": "W3C Trace Context",
-      "views": 36,
+      "views": 37,
       "date": "2026-03-21T13:19:14Z",
       "tags": [
         "w3c",
@@ -1799,7 +1835,7 @@
     {
       "id": "_zJ3_d1CODg",
       "title": "Bevy-Demo",
-      "views": 127,
+      "views": 128,
       "date": "2026-03-19T00:18:34Z",
       "tags": [
         "rust",
@@ -1811,7 +1847,7 @@
     {
       "id": "0HEqwk9UMOc",
       "title": "How to Kill the Code Review",
-      "views": 137,
+      "views": 138,
       "date": "2026-03-18T11:10:57Z",
       "tags": [
         "ai",
@@ -1822,7 +1858,7 @@
     {
       "id": "Z98SHl4nSFI",
       "title": "Rebalancing the SDLC in the Al Era",
-      "views": 18,
+      "views": 19,
       "date": "2026-03-18T03:21:35Z",
       "tags": [
         "sdlc",
@@ -2080,7 +2116,7 @@
     {
       "id": "00kCzR10M1w",
       "title": "The Road to SolidJS 2.0",
-      "views": 184,
+      "views": 189,
       "date": "2026-03-04T00:40:36Z",
       "tags": [
         "solidjs",
@@ -2140,7 +2176,7 @@
     {
       "id": "JeqaHMmSh1s",
       "title": "The Complete Guide to Building Skills for Claude",
-      "views": 659,
+      "views": 663,
       "date": "2026-02-28T05:29:43Z",
       "tags": [
         "ai",
@@ -2165,7 +2201,7 @@
     {
       "id": "Wa0EHhhKV8Q",
       "title": "Architecting Action: 10 NotebookLM Prompts",
-      "views": 108,
+      "views": 110,
       "date": "2026-02-27T12:49:18Z",
       "tags": [
         "notebooklm",
@@ -2285,7 +2321,7 @@
     {
       "id": "QBUQvfZJpaM",
       "title": "Modern Cryptography Standards: A Guide to AEAD",
-      "views": 39,
+      "views": 43,
       "date": "2026-02-18T23:24:48Z",
       "tags": [
         "aes-256-gcm",
@@ -2331,7 +2367,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 744,
+      "views": 747,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -2343,7 +2379,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 780,
+      "views": 782,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -2354,7 +2390,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 348,
+      "views": 354,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -2457,7 +2493,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 137,
+      "views": 139,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -2481,7 +2517,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 409,
+      "views": 411,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -3036,9 +3072,23 @@
       ]
     },
     {
+      "id": "_NXyqfM6TXg",
+      "title": "Azure Sentinel & M365 Defender",
+      "views": 9,
+      "date": "2026-04-28T07:22:44Z",
+      "tags": [
+        "azure",
+        "sentinel",
+        "defender",
+        "siem",
+        "soar",
+        "xdr"
+      ]
+    },
+    {
       "id": "_5DCBqOCr8c",
       "title": "Designing for Privacy",
-      "views": 31,
+      "views": 36,
       "date": "2026-04-19T04:59:35Z",
       "tags": [
         "gdpr",
@@ -3063,7 +3113,7 @@
     {
       "id": "Zeg8zSOvoyE",
       "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-      "views": 70,
+      "views": 71,
       "date": "2026-03-31T22:42:44Z",
       "tags": [
         "automonmous",
@@ -3086,7 +3136,7 @@
     {
       "id": "taBP0Fr3uSQ",
       "title": "Anatomy of a Supply Chain Attack",
-      "views": 35,
+      "views": 36,
       "date": "2026-03-26T11:52:33Z",
       "tags": [
         "litellm",
@@ -3160,7 +3210,7 @@
     {
       "id": "JfGgWiiCTA0",
       "title": "Shannon: Autonomous Penetration Testing",
-      "views": 44,
+      "views": 45,
       "date": "2026-02-14T10:04:10Z",
       "tags": [
         "agent",
@@ -3237,6 +3287,6 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-27T02:44:35.574Z",
-  "count": 286
+  "generatedAt": "2026-04-28T22:04:05.420Z",
+  "count": 290
 }

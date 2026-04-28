@@ -30,9 +30,9 @@ This video introduces Shannon, an autonomous AI agent for white-box penetration 
 
 ## Related Videos
 
-- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) — Security · 70 views · Mar 31, 2026 · [Details](Zeg8zSOvoyE.md) (shared: `autonomous` · `security` · `exploitation`)
+- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) — Security · 71 views · Mar 31, 2026 · [Details](Zeg8zSOvoyE.md) (shared: `autonomous` · `security` · `exploitation`)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) — Security · 34 views · Mar 25, 2026 · [Details](CA1nlknmR3g.md) (shared: `security` · `agent`)
-- [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 35 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `security` · `vulnerability`)
+- [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 36 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `security` · `vulnerability`)
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 18 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `security`)
 - [The Orchestrator's Blueprint](https://youtu.be/Oa3jaLNSZvM) — Security · 36 views · Feb 28, 2026 · [Details](Oa3jaLNSZvM.md) (shared: `security`)
 

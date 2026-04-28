@@ -30,9 +30,9 @@ This video argues that the 20-year equilibrium between cyber attackers and defen
 
 ## Related Videos
 
-- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 44 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `autonomous` · `exploitation` · `vulnerability`)
+- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 45 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `autonomous` · `exploitation` · `vulnerability`)
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 18 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `framework` · `security`)
-- [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 35 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `vulnerability` · `security`)
+- [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 36 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `vulnerability` · `security`)
 - [The Orchestrator's Blueprint](https://youtu.be/Oa3jaLNSZvM) — Security · 36 views · Feb 28, 2026 · [Details](Oa3jaLNSZvM.md) (shared: `security`)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 16 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `security`)
 

@@ -31,10 +31,10 @@ This video introduces QMD, a local-first hybrid search engine designed to serve 
 ## Related Videos
 
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 46 views · Apr 21, 2026 · [Details](xkHQhOgapfY.md) (shared: `qmd` · `local-first search` · `local-first`)
+- [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 84 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `search` · `mcp server` · `mcp`)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 94 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `mcp` · `server` · `agent`)
-- [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 40 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `hybrid` · `knowledge`)
+- [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 61 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `hybrid` · `knowledge`)
 - [The LLM Wiki Paradigm](https://youtu.be/BzvpasWYESU) — Development · 2.6K views · Apr 9, 2026 · [Details](BzvpasWYESU.md) (shared: `retrieval` · `knowledge`)
-- [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `agent`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -34,7 +34,7 @@ This video dissects the architecture of zig-twitter, a terminal-based Twitter cl
 - [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `terminal` · `cli` · `design`)
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 30 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `zig` · `api` · `architecture`)
 - [Reed: The Modern Terminal File Viewer](https://youtu.be/oUTf9j6fWJo) — Development · 143 views · Mar 30, 2026 · [Details](oUTf9j6fWJo.md) (shared: `terminal` · `cli` · `rendering`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 780 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `api` · `architecture` · `design`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 782 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `api` · `architecture` · `design`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

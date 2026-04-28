@@ -2,7 +2,7 @@
 type: tag
 tags: [memory-management]
 sources: 6
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # memory management
@@ -19,4 +19,4 @@ Videos connected by the topic `memory management`.
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](../details/yOOQNnaOLeM.md)
 
 ---
-*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*

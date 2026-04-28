@@ -30,7 +30,7 @@ This presentation provides a framework for understanding the relationship betwee
 
 ## Related Videos
 
-- [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 15 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `financial freedom` · `financial` · `freedom`)
+- [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `financial freedom` · `financial` · `freedom`)
 - [The architecture of wealth](https://youtu.be/nfD3KzIriM8) — Finance · 8 views · Jan 16, 2026 · [Details](nfD3KzIriM8.md) (shared: `wealth` · `financial`)
 - [The Three Pillars of Financial Freedom](https://youtu.be/K1O4kHjFJaQ) — Finance · 15 views · Jan 23, 2026 · [Details](K1O4kHjFJaQ.md) (shared: `wealth`)
 - [The Essential Algorithmic Toolkit](https://youtu.be/nRxqSGBuB4s) — Development · 55 views · Mar 6, 2026 · [Details](nRxqSGBuB4s.md) (shared: `time`)

@@ -2,7 +2,7 @@
 type: tag
 tags: [aks]
 sources: 4
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # aks
@@ -17,4 +17,4 @@ Videos connected by the topic `aks`.
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](../details/C6wLm6NRZW4.md)
 
 ---
-*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*

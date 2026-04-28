@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 145
+Total topics: 147
 
 ## Topics
 
@@ -18,19 +18,20 @@ Total topics: 145
 - [azure kubernetes service](azure-kubernetes-service.md) (6)
 - [istio service mesh](istio-service-mesh.md) (6)
 - [memory management](memory-management.md) (6)
+- [repository pattern](repository-pattern.md) (6)
 - [change data capture](change-data-capture.md) (5)
+- [dependency injection](dependency-injection.md) (5)
 - [distributed tracing](distributed-tracing.md) (5)
-- [repository pattern](repository-pattern.md) (5)
 - [aks](aks.md) (4)
 - [configuration management](configuration-management.md) (4)
 - [data-oriented design](data-oriented-design.md) (4)
-- [dependency injection](dependency-injection.md) (4)
 - [distributed systems](distributed-systems.md) (4)
 - [model context protocol](model-context-protocol.md) (4)
 - [opentelemetry](opentelemetry.md) (4)
 - [rust](rust.md) (4)
 - [systems programming](systems-programming.md) (4)
 - [webassembly](webassembly.md) (4)
+- [ai-assisted development](ai-assisted-development.md) (3)
 - [azure devops](azure-devops.md) (3)
 - [azure event hubs](azure-event-hubs.md) (3)
 - [bun runtime](bun-runtime.md) (3)
@@ -58,11 +59,11 @@ Total topics: 145
 - [tokio async runtime](tokio-async-runtime.md) (3)
 - [traffic management](traffic-management.md) (3)
 - [trunk-based development](trunk-based-development.md) (3)
+- [vector search](vector-search.md) (3)
 - [zero-cost abstractions](zero-cost-abstractions.md) (3)
 - [zig programming](zig-programming.md) (3)
 - [ai agents](ai-agents.md) (2)
 - [ai infrastructure investing](ai-infrastructure-investing.md) (2)
-- [ai-assisted development](ai-assisted-development.md) (2)
 - [aks networking](aks-networking.md) (2)
 - [aks security](aks-security.md) (2)
 - [api abstraction](api-abstraction.md) (2)
@@ -83,6 +84,7 @@ Total topics: 145
 - [context switching](context-switching.md) (2)
 - [continuous integration](continuous-integration.md) (2)
 - [correspondent banking](correspondent-banking.md) (2)
+- [dart agent skills](dart-agent-skills.md) (2)
 - [debezium](debezium.md) (2)
 - [defense in depth](defense-in-depth.md) (2)
 - [deployment frequency](deployment-frequency.md) (2)
@@ -114,6 +116,7 @@ Total topics: 145
 - [macos development](macos-development.md) (2)
 - [manual memory management](manual-memory-management.md) (2)
 - [mcp](mcp.md) (2)
+- [mcp server](mcp-server.md) (2)
 - [meilisearch](meilisearch.md) (2)
 - [microsoft sentinel](microsoft-sentinel.md) (2)
 - [model context protocol (mcp)](model-context-protocol-mcp.md) (2)
@@ -149,7 +152,6 @@ Total topics: 145
 - [tree-sitter](tree-sitter.md) (2)
 - [typescript basics](typescript-basics.md) (2)
 - [values.yaml](values-yaml.md) (2)
-- [vector search](vector-search.md) (2)
 - [verlet integration](verlet-integration.md) (2)
 - [wasm](wasm.md) (2)
 - [workload archetypes](workload-archetypes.md) (2)
@@ -158,4 +160,4 @@ Total topics: 145
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Apr 26, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Apr 28, 2026. Back to [videos index](../index.md).*

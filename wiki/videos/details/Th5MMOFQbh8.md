@@ -31,10 +31,10 @@ This video covers backend design patterns in Rust, transitioning from the implic
 ## Related Videos
 
 - [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 66 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `rust` · `backend` · `architecture`)
+- [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 21 views · Apr 27, 2026 · [Details](R3n8UxyD7mc.md) (shared: `architecture` · `pattern` · `dependency injection`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 86 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `architecture` · `event-driven architecture`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 780 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `pattern` · `dependency injection`)
-- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 69 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `architecture` · `dependency` · `event-driven architecture`)
-- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `architecture` · `event-driven architecture` · `event-driven`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 782 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `pattern` · `dependency injection`)
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 150 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `architecture` · `dependency` · `event-driven architecture`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

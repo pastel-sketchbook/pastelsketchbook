@@ -30,11 +30,11 @@ This video presents a structural guide to decoupling frontend business logic fro
 
 ## Related Videos
 
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 780 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `pattern` · `repository pattern` · `repository`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 782 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `pattern` · `repository pattern` · `repository`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `pattern` · `repository pattern` · `repository`)
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `pattern` · `repository pattern` · `repository`)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 36 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `pattern` · `repository pattern` · `repository`)
-- [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 34 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `architecture` · `data` · `normalization`)
+- [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 21 views · Apr 27, 2026 · [Details](R3n8UxyD7mc.md) (shared: `pattern` · `repository pattern` · `repository`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

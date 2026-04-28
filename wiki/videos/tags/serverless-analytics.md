@@ -2,7 +2,7 @@
 type: tag
 tags: [serverless-analytics]
 sources: 2
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # serverless analytics
@@ -15,4 +15,4 @@ Videos connected by the topic `serverless analytics`.
 - [MotherDuck: Serverless DuckDB in the Cloud & Client](https://youtu.be/BsiQrEaF3kU) — Kubernetes · 26 views · Feb 4, 2026 · [Details](../details/BsiQrEaF3kU.md)
 
 ---
-*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*

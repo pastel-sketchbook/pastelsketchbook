@@ -30,11 +30,11 @@ Based on Kent Beck's experiments, this video explores how LLM-powered augmented 
 
 ## Related Videos
 
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 114 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `code` · `generation` · `ai-assisted development`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 118 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `code` · `generation` · `ai-assisted development`)
+- [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 3 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `code` · `ai-assisted development` · `ai-assisted`)
 - [The LLM Wiki Paradigm](https://youtu.be/BzvpasWYESU) — Development · 2.6K views · Apr 9, 2026 · [Details](BzvpasWYESU.md) (shared: `augmented` · `llm` · `code`)
 - [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 56 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `coding` · `ai-assisted` · `development`)
 - [Writing Modern Go in the Age of Al](https://youtu.be/Z90u9EVf4M4) — Development · 191 views · Mar 26, 2026 · [Details](Z90u9EVf4M4.md) (shared: `llm` · `code` · `software`)
-- [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `software` · `development`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

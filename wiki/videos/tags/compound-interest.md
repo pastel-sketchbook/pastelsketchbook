@@ -2,7 +2,7 @@
 type: tag
 tags: [compound-interest]
 sources: 2
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # compound interest
@@ -15,4 +15,4 @@ Videos connected by the topic `compound interest`.
 - [The architecture of wealth](https://youtu.be/nfD3KzIriM8) — Finance · 8 views · Jan 16, 2026 · [Details](../details/nfD3KzIriM8.md)
 
 ---
-*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*

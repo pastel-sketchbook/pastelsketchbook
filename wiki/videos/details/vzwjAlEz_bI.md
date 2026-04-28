@@ -31,7 +31,7 @@ This video examines the phase-out of the American penny, covering the US Treasur
 ## Related Videos
 
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) — Finance · 46 views · Mar 26, 2026 · [Details](hnMR8rdGCnU.md) (shared: `transition`)
-- [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 15 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `transition`)
+- [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `transition`)
 - [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 35 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `digital`)
 - [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) — Kubernetes · 15 views · Mar 13, 2026 · [Details](u60g2nMtVi4.md) (shared: `elimination`)
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `elimination`)

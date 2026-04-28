@@ -2,7 +2,7 @@
 type: tag
 tags: [sequence-of-returns-risk]
 sources: 3
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # sequence of returns risk
@@ -16,4 +16,4 @@ Videos connected by the topic `sequence of returns risk`.
 - [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](../details/EMXUbohWsWs.md)
 
 ---
-*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*

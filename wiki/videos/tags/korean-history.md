@@ -2,7 +2,7 @@
 type: tag
 tags: [korean-history]
 sources: 3
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # korean history
@@ -16,4 +16,4 @@ Videos connected by the topic `korean history`.
 - [Ganghwa: Un Viaje en Tonos Pastel](https://youtu.be/rwNfzJanPmk) — Korea · 6 views · Feb 6, 2026 · [Details](../details/rwNfzJanPmk.md)
 
 ---
-*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*

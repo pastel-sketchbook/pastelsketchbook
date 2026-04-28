@@ -2,7 +2,7 @@
 type: tag
 tags: [genkit-dart]
 sources: 2
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # genkit dart
@@ -15,4 +15,4 @@ Videos connected by the topic `genkit dart`.
 - [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 42 views · Mar 13, 2026 · [Details](../details/2iIi1H9V-Hg.md)
 
 ---
-*Auto-generated on Apr 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*

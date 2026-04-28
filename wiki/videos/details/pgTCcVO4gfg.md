@@ -32,7 +32,7 @@ This video explores the systemic mechanics of LLM-assisted engineering, identify
 
 - [The 98  Prediction Problem](https://youtu.be/FDYu2fllfuE) — Development · 3 views · Jan 12, 2026 · [Details](FDYu2fllfuE.md) (shared: `engineering` · `limits`)
 - [Compound Engineering](https://youtu.be/cEwAbu6FFRo) — Development · 131 views · Feb 11, 2026 · [Details](cEwAbu6FFRo.md) (shared: `engineering` · `architectural`)
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 659 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `architectural` · `context`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 663 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `architectural` · `context`)
 - [The Architect's Baton](https://youtu.be/6WRiPikxs-Q) — Development · 125 views · Mar 7, 2026 · [Details](6WRiPikxs-Q.md) (shared: `systemic` · `context`)
 - [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) — Development · 50 views · Feb 28, 2026 · [Details](AcpVuvtSXwI.md) (shared: `attention`)
 
