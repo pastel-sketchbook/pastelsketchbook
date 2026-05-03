@@ -33,8 +33,8 @@ This video surveys the essential Rust crate ecosystem for professional developer
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `tokio async runtime` · `tokio` · `async`)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 50 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `rust` · `tokio async runtime` · `tokio`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 86 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `tokio` · `async`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 19 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `tokio` · `async`)
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 26 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `tokio` · `async`)
-- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 45 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `rust` · `serde` · `serialization`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

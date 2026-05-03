@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 290
-updated: 2026-04-28
+sources: 300
+updated: 2026-05-03
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 290 |
-| Total Views | 23.6K |
+| Total Videos | 300 |
+| Total Views | 24.2K |
 | Categories | 6 |
-| Last Updated | Apr 28, 2026 |
+| Last Updated | May 2, 2026 |
 
 ## Categories
 
@@ -28,19 +28,19 @@ Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 22 videos, 436 total views.
+Videos covering personal finance, investing, and economics. 23 videos, 441 total views.
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 62 videos, 1.8K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 63 videos, 1.8K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 169 videos, 20.6K total views.
+Videos about software development, tools, workflows, and engineering practices. 176 videos, 21.1K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 12 videos, 379 total views.
+Videos on cybersecurity, application security, and security engineering. 13 videos, 407 total views.
 
 ### [Programming](programming.md)
 
@@ -53,10 +53,11 @@ Tags appearing in multiple categories (potential synthesis targets):
 | Tag | Categories |
 |-----|------------|
 | `curiosity` | [Finance](finance.md), [Kubernetes](kubernetes.md), [Development](development.md) |
+| `shift left` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `agent` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `ai` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
-| `shift left` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `notebooklm` | [Finance](finance.md), [Development](development.md) |
+| `security` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `azure` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `skill` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `cloud` | [Kubernetes](kubernetes.md), [Development](development.md) |
@@ -66,7 +67,6 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `rust` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `java` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `go` | [Kubernetes](kubernetes.md), [Development](development.md) |
-| `pipeline` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Apr 28, 2026. See [wiki index](../index.md).*
+*Auto-generated on May 2, 2026. See [wiki index](../index.md).*

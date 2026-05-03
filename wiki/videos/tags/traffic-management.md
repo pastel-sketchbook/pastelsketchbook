@@ -2,7 +2,7 @@
 type: tag
 tags: [traffic-management]
 sources: 3
-updated: 2026-04-28
+updated: 2026-05-03
 ---
 
 # traffic management
@@ -16,4 +16,4 @@ Videos connected by the topic `traffic management`.
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 13 views · Mar 10, 2026 · [Details](../details/Hd767VA7Z-0.md)
 
 ---
-*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 2, 2026. Back to [topic index](index.md).*

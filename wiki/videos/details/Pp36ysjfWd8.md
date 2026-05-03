@@ -32,7 +32,7 @@ This video introduces Hangul Typing, a gamified Korean keyboard trainer from the
 
 - [Hangul + WASM](https://youtu.be/9yov-ZVv-Bo) — Development · 43 views · Jan 19, 2026 · [Details](9yov-ZVv-Bo.md) (shared: `hangul` · `korean` · `jamo`)
 - [Tu Viaje al Corazón de Corea](https://youtu.be/L9sxbq8ugoU) — Korea · 4 views · Jan 1, 2026 · [Details](L9sxbq8ugoU.md) (shared: `hangul` · `korean` · `learning`)
-- [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 112 views · Feb 24, 2026 · [Details](DazzkNtnzec.md) (shared: `typing` · `composition`)
+- [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 113 views · Feb 24, 2026 · [Details](DazzkNtnzec.md) (shared: `typing` · `composition`)
 - [영어 리스닝  3000시간의 법칙](https://youtu.be/qyqLjeu8Hng) — Programming · 55 views · Jan 13, 2026 · [Details](qyqLjeu8Hng.md) (shared: `korean` · `learning` · `language`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `learning`)
 

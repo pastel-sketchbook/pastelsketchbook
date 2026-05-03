@@ -30,10 +30,10 @@ This video presents a connoisseur's master class on apple varieties, treating po
 ## Related Videos
 
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 86 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 19 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `architecture`)
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 12 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `architecture`)
-- [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) — Development · 50 views · Feb 28, 2026 · [Details](AcpVuvtSXwI.md) (shared: `architecture`)
+- [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) — Development · 52 views · Feb 28, 2026 · [Details](AcpVuvtSXwI.md) (shared: `architecture`)
 - [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `architecture`)
-- [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `architecture`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

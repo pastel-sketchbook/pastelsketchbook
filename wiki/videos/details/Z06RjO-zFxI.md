@@ -30,7 +30,7 @@ This video covers modern Git practices for versions 2.23+ focused on maintaining
 
 ## Related Videos
 
-- [Jujutsu (jj) for Git-compatible Workflow](https://youtu.be/TmlqoKqMD2Y) — Development · 139 views · Feb 5, 2026 · [Details](TmlqoKqMD2Y.md) (shared: `git` · `history` · `version`)
+- [Jujutsu (jj) for Git-compatible Workflow](https://youtu.be/TmlqoKqMD2Y) — Development · 146 views · Feb 5, 2026 · [Details](TmlqoKqMD2Y.md) (shared: `git` · `history` · `version`)
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 20 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `git` · `version` · `control`)
 - [The Art of Git Gardening](https://youtu.be/PNFlYx8HiOM) — Development · 16 views · Dec 31, 2025 · [Details](PNFlYx8HiOM.md) (shared: `git` · `history`)
 - [Conventional Commits](https://youtu.be/5KB2zLGjaps) — Development · 14 views · Jan 19, 2026 · [Details](5KB2zLGjaps.md) (shared: `git` · `workflow`)

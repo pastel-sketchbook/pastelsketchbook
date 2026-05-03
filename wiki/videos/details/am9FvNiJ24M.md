@@ -33,7 +33,7 @@ This session provides a diagnostic framework for evaluating Change Data Capture 
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 18 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `change data capture` · `change` · `data`)
 - [Continuous Flow](https://youtu.be/tcrNdx1yH_E) — Kubernetes · 15 views · Mar 22, 2026 · [Details](tcrNdx1yH_E.md) (shared: `change data capture` · `change` · `data`)
 - [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) — Kubernetes · 75 views · Apr 5, 2026 · [Details](WRpjJV4SUKc.md) (shared: `change data capture` · `change` · `data`)
-- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) — Kubernetes · 64 views · Apr 17, 2026 · [Details](nomIVRSBEG4.md) (shared: `change data capture` · `change` · `data`)
+- [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) — Kubernetes · 71 views · Apr 17, 2026 · [Details](nomIVRSBEG4.md) (shared: `change data capture` · `change` · `data`)
 - [The 98  Prediction Problem](https://youtu.be/FDYu2fllfuE) — Development · 3 views · Jan 12, 2026 · [Details](FDYu2fllfuE.md) (shared: `data` · `engineering`)
 
 ---

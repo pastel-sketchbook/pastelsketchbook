@@ -31,10 +31,10 @@ This video presents a mastery guide for Dart 3.x, covering the language's fundam
 ## Related Videos
 
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `safety` · `pattern matching` · `pattern`)
-- [OpenFeature: The Standard for Feature Flagging](https://youtu.be/X65YHZUnFq0) — Development · 47 views · Apr 16, 2026 · [Details](X65YHZUnFq0.md) (shared: `feature flags` · `feature` · `flags`)
-- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 150 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `feature flags` · `feature` · `flags`)
-- [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `dart` · `pattern`)
-- [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 54 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `feature` · `flags`)
+- [OpenFeature: The Standard for Feature Flagging](https://youtu.be/X65YHZUnFq0) — Development · 48 views · Apr 16, 2026 · [Details](X65YHZUnFq0.md) (shared: `feature flags` · `feature` · `flags`)
+- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 10 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `feature flags` · `feature` · `flags`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 18 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `safety` · `type safety` · `type`)
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 151 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `feature flags` · `feature` · `flags`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

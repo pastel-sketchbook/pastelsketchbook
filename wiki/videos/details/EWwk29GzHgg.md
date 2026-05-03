@@ -44,11 +44,11 @@ Welcome  everyone.  Today  we  are  exploring the  architectural  shift  represe
 
 ## Related Videos
 
-- [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 57 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `search` · `mcp server` · `mcp`)
+- [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 59 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `search` · `mcp server` · `mcp`)
+- [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 19 views · Apr 29, 2026 · [Details](GERT8PoS9Qk.md) (shared: `vector search` · `vector` · `search`)
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 26 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `concurrency`)
+- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 10 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `rust` · `compatibility`)
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 46 views · Apr 21, 2026 · [Details](xkHQhOgapfY.md) (shared: `sqlite` · `search`)
-- [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `rust` · `edge`)
-- [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) — Development · 92 views · Feb 14, 2026 · [Details](kQc99Io3pCo.md) (shared: `rust` · `database`)
 
 ---
 *Auto-generated on Apr 28, 2026. Back to [development](../development.md) · [index](../index.md).*

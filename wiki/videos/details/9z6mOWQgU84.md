@@ -31,11 +31,11 @@ This strategic analysis examines the long-term AI capital cycle, forecasting a t
 
 ## Related Videos
 
+- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 5 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `infrastructure`)
 - [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 47 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `infrastructure` · `economy`)
 - [2050: The Post-Labor Paradigm](https://youtu.be/ybR0RxXj2_M) — Finance · 10 views · Feb 7, 2026 · [Details](ybR0RxXj2_M.md) (shared: `economy`)
 - [The Mathematics of Human Capital Compounding](https://youtu.be/_4BC0zHGYTw) — Finance · 14 views · Mar 5, 2026 · [Details](_4BC0zHGYTw.md) (shared: `capital`)
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `infrastructure`)
-- [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `data` · `infrastructure`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [finance](../finance.md) · [index](../index.md).*

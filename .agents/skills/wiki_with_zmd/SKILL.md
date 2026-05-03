@@ -17,7 +17,8 @@ layer across raw transcripts and synthesized detail pages.
 
 ## Repo Paths
 
-- Raw transcripts: `wiki/raw/transcripts/`
+- Raw transcripts (source of truth): `wiki/raw/transcripts/`
+- Raw transcripts (build mirror, served at `/transcripts/<id>.md`): `homepage/public/transcripts/`
 - Transcript failures: `wiki/raw/transcripts/_failed.json`
 - Detail pages: `wiki/videos/details/`
 - Detail failures: `wiki/videos/details/_failed.json`
@@ -28,6 +29,34 @@ layer across raw transcripts and synthesized detail pages.
   - `homepage/scripts/export-transcripts.ts`
   - `homepage/scripts/generate-video-details.ts`
   - `homepage/scripts/generate-wiki.ts`
+
+### Raw → Public Mirror (Build Accessibility)
+
+`wiki/raw/transcripts/` is the canonical store. Static builds need raw
+transcripts reachable at `/transcripts/<videoId>.md`, so `export-transcripts.ts`
+mirrors the whole directory into `homepage/public/transcripts/` at the end of
+every run via `syncPublicTranscripts()`. The mirror is idempotent and
+unconditional — it always overwrites, so newly fetched, hand-edited, or
+LLM-corrected raw transcripts always reach the build without an extra command.
+
+Invariants:
+
+- Every `*.md` in `wiki/raw/transcripts/` MUST also exist (byte-identical) in
+  `homepage/public/transcripts/` after running `task wiki:transcripts`.
+- Internal artifacts (`_failed.json`, anything not ending in `.md`) are excluded
+  from the public mirror.
+- Never write to `homepage/public/transcripts/` directly — treat it as a
+  generated artifact. Edit raw transcripts in `wiki/raw/transcripts/` and let
+  the sync propagate.
+
+Verify after a run:
+
+```bash
+diff \
+  <(ls wiki/raw/transcripts/*.md | xargs -n1 basename | sort) \
+  <(ls homepage/public/transcripts/*.md | xargs -n1 basename | sort)
+# Empty output = in sync.
+```
 
 ## zmd Setup Workflow
 

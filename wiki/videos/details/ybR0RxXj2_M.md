@@ -34,7 +34,7 @@ This video explores the projected transition from a wage-based economy to a hype
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 87 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `economy`)
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `automation`)
 - [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 23 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `automation`)
-- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 138 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `automation`)
+- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 139 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `automation`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

@@ -32,9 +32,9 @@ This video presents the philosophy of pragmatic Go development, emphasizing Go's
 
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `go standard library` · `standard` · `library`)
 - [Writing Modern Go in the Age of Al](https://youtu.be/Z90u9EVf4M4) — Development · 191 views · Mar 26, 2026 · [Details](Z90u9EVf4M4.md) (shared: `go standard library` · `standard` · `library`)
-- [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 30 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `library` · `dependency`)
+- [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `library` · `dependency`)
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 45 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `patterns` · `dependency`)
-- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 37 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `http` · `context`)
+- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 39 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `http` · `context`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

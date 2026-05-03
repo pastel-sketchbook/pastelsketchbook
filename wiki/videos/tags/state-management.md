@@ -1,8 +1,8 @@
 ---
 type: tag
 tags: [state-management]
-sources: 3
-updated: 2026-04-28
+sources: 4
+updated: 2026-05-03
 ---
 
 # state management
@@ -11,9 +11,10 @@ Videos connected by the topic `state management`.
 
 ## Videos
 
-- [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 53 views · Apr 25, 2026 · [Details](../details/quD4pyCwKB4.md)
+- [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 65 views · Apr 25, 2026 · [Details](../details/quD4pyCwKB4.md)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 36 views · Jan 18, 2026 · [Details](../details/LWc3AAHoxnU.md)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](../details/3ybGkjogcFQ.md)
+- [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 12 views · Apr 30, 2026 · [Details](../details/xlwu0YwE3_Q.md)
 
 ---
-*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 2, 2026. Back to [topic index](index.md).*

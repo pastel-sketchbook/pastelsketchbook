@@ -1,18 +1,18 @@
 ---
 type: index
-updated: 2026-04-28
+updated: 2026-05-03
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 147
+Total topics: 153
 
 ## Topics
 
 - [zig](zig.md) (9)
-- [event-driven architecture](event-driven-architecture.md) (7)
+- [event-driven architecture](event-driven-architecture.md) (8)
 - [rabbitmq](rabbitmq.md) (7)
 - [zero trust](zero-trust.md) (7)
 - [azure kubernetes service](azure-kubernetes-service.md) (6)
@@ -22,14 +22,17 @@ Total topics: 147
 - [change data capture](change-data-capture.md) (5)
 - [dependency injection](dependency-injection.md) (5)
 - [distributed tracing](distributed-tracing.md) (5)
+- [rust](rust.md) (5)
 - [aks](aks.md) (4)
 - [configuration management](configuration-management.md) (4)
 - [data-oriented design](data-oriented-design.md) (4)
 - [distributed systems](distributed-systems.md) (4)
+- [feature flags](feature-flags.md) (4)
 - [model context protocol](model-context-protocol.md) (4)
 - [opentelemetry](opentelemetry.md) (4)
-- [rust](rust.md) (4)
+- [state management](state-management.md) (4)
 - [systems programming](systems-programming.md) (4)
+- [vector search](vector-search.md) (4)
 - [webassembly](webassembly.md) (4)
 - [ai-assisted development](ai-assisted-development.md) (3)
 - [azure devops](azure-devops.md) (3)
@@ -38,8 +41,8 @@ Total topics: 147
 - [ci/cd pipeline](ci-cd-pipeline.md) (3)
 - [cloth simulation](cloth-simulation.md) (3)
 - [cue language](cue-language.md) (3)
+- [defense in depth](defense-in-depth.md) (3)
 - [duckdb](duckdb.md) (3)
-- [feature flags](feature-flags.md) (3)
 - [frontend architecture](frontend-architecture.md) (3)
 - [go standard library](go-standard-library.md) (3)
 - [infrastructure as code](infrastructure-as-code.md) (3)
@@ -54,12 +57,10 @@ Total topics: 147
 - [sequence of returns risk](sequence-of-returns-risk.md) (3)
 - [serde serialization](serde-serialization.md) (3)
 - [service mesh](service-mesh.md) (3)
-- [state management](state-management.md) (3)
 - [struct of arrays](struct-of-arrays.md) (3)
 - [tokio async runtime](tokio-async-runtime.md) (3)
 - [traffic management](traffic-management.md) (3)
 - [trunk-based development](trunk-based-development.md) (3)
-- [vector search](vector-search.md) (3)
 - [zero-cost abstractions](zero-cost-abstractions.md) (3)
 - [zig programming](zig-programming.md) (3)
 - [ai agents](ai-agents.md) (2)
@@ -67,6 +68,7 @@ Total topics: 147
 - [aks networking](aks-networking.md) (2)
 - [aks security](aks-security.md) (2)
 - [api abstraction](api-abstraction.md) (2)
+- [axum](axum.md) (2)
 - [axum web framework](axum-web-framework.md) (2)
 - [barbell strategy](barbell-strategy.md) (2)
 - [c interoperability](c-interoperability.md) (2)
@@ -84,9 +86,9 @@ Total topics: 147
 - [context switching](context-switching.md) (2)
 - [continuous integration](continuous-integration.md) (2)
 - [correspondent banking](correspondent-banking.md) (2)
+- [cosine similarity](cosine-similarity.md) (2)
 - [dart agent skills](dart-agent-skills.md) (2)
 - [debezium](debezium.md) (2)
-- [defense in depth](defense-in-depth.md) (2)
 - [deployment frequency](deployment-frequency.md) (2)
 - [developer productivity](developer-productivity.md) (2)
 - [enterprise ai deployment](enterprise-ai-deployment.md) (2)
@@ -120,6 +122,7 @@ Total topics: 147
 - [meilisearch](meilisearch.md) (2)
 - [microsoft sentinel](microsoft-sentinel.md) (2)
 - [model context protocol (mcp)](model-context-protocol-mcp.md) (2)
+- [monolith decomposition](monolith-decomposition.md) (2)
 - [mtls](mtls.md) (2)
 - [mutual tls](mutual-tls.md) (2)
 - [notebooklm](notebooklm.md) (2)
@@ -137,6 +140,7 @@ Total topics: 147
 - [revsets](revsets.md) (2)
 - [risk management](risk-management.md) (2)
 - [rolling updates](rolling-updates.md) (2)
+- [saga pattern](saga-pattern.md) (2)
 - [saml](saml.md) (2)
 - [serverless analytics](serverless-analytics.md) (2)
 - [service mesh security](service-mesh-security.md) (2)
@@ -148,8 +152,10 @@ Total topics: 147
 - [text-to-speech](text-to-speech.md) (2)
 - [time complexity](time-complexity.md) (2)
 - [tokio](tokio.md) (2)
+- [tokio runtime](tokio-runtime.md) (2)
 - [travel diary](travel-diary.md) (2)
 - [tree-sitter](tree-sitter.md) (2)
+- [type safety](type-safety.md) (2)
 - [typescript basics](typescript-basics.md) (2)
 - [values.yaml](values-yaml.md) (2)
 - [verlet integration](verlet-integration.md) (2)
@@ -160,4 +166,4 @@ Total topics: 147
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Apr 28, 2026. Back to [videos index](../index.md).*
+*Auto-generated on May 2, 2026. Back to [videos index](../index.md).*

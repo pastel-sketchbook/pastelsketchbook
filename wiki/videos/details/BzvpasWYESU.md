@@ -37,9 +37,9 @@ The LLM Wiki paradigm replaces traditional stateless Retrieval-Augmented Generat
 
 - [Taming the Genie](https://youtu.be/MaP2i4dTiQk) — Development · 15 views · Jan 23, 2026 · [Details](MaP2i4dTiQk.md) (shared: `llm` · `augmented` · `generation`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `generation` · `code` · `automated`)
-- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 138 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `generation` · `code`)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 118 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `generation` · `code`)
-- [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 57 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `retrieval` · `knowledge`)
+- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 139 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `generation` · `code`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 128 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `generation` · `code`)
+- [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 59 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `retrieval` · `knowledge`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

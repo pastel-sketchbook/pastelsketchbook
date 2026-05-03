@@ -34,7 +34,7 @@ This video demonstrates implementing cubic Bezier curves in Zig for creating org
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 347 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `programming` · `systems`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `zig` · `programming` · `systems`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 31 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `programming` · `systems`)
-- [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 30 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `zig programming` · `zig` · `programming`)
+- [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `zig programming` · `zig` · `programming`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

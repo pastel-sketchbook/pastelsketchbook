@@ -30,7 +30,7 @@ Based on Andrew Kelly's work at the Zig Software Foundation, this video explains
 
 ## Related Videos
 
-- [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 59 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `data-oriented design` · `data-oriented` · `design`)
+- [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 61 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `data-oriented design` · `data-oriented` · `design`)
 - [Hardening a Prototype](https://youtu.be/DCGTYftRGWE) — Development · 23 views · Jan 25, 2026 · [Details](DCGTYftRGWE.md) (shared: `data-oriented design` · `data-oriented` · `design`)
 - [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 12 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `data-oriented design` · `data-oriented` · `design`)
 - [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 13 views · Jan 25, 2026 · [Details](3Fpey_L_XRU.md) (shared: `zig` · `struct of arrays` · `struct`)

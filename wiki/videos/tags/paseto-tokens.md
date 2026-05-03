@@ -2,7 +2,7 @@
 type: tag
 tags: [paseto-tokens]
 sources: 3
-updated: 2026-04-28
+updated: 2026-05-03
 ---
 
 # paseto tokens
@@ -16,4 +16,4 @@ Videos connected by the topic `paseto tokens`.
 - [Modern Microservice Trust](https://youtu.be/SeYrpzDTn6A) — Development · 19 views · Jan 13, 2026 · [Details](../details/SeYrpzDTn6A.md)
 
 ---
-*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 2, 2026. Back to [topic index](index.md).*

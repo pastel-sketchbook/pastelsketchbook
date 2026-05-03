@@ -32,7 +32,7 @@ This video introduces Reed, a modern terminal file viewer that integrates IDE-le
 
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `terminal` · `rendering` · `cli`)
 - [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `terminal` · `rust` · `cli`)
-- [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 59 views · Apr 20, 2026 · [Details](FM6zp63maS8.md) (shared: `protocol` · `rust`)
+- [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 61 views · Apr 20, 2026 · [Details](FM6zp63maS8.md) (shared: `protocol` · `rust`)
 - [Fuzzy Find Everything](https://youtu.be/IkVazryUiko) — Development · 56 views · Mar 4, 2026 · [Details](IkVazryUiko.md) (shared: `cli` · `tools`)
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `rust` · `cli`)
 

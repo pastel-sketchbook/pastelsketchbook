@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs'
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'fs'
 import { resolve } from 'path'
 import { execFileSync } from 'child_process'
 import { VIDEO_CONFIG } from '../src/config/videos'
@@ -31,6 +31,7 @@ interface FailedTranscriptEntry {
 
 const WIKI_ROOT = resolve('..', 'wiki')
 const TRANSCRIPTS_DIR = resolve(WIKI_ROOT, 'raw', 'transcripts')
+const PUBLIC_TRANSCRIPTS_DIR = resolve('public', 'transcripts')
 const FAILED_REPORT_PATH = resolve(TRANSCRIPTS_DIR, '_failed.json')
 const METADATA_PATH = resolve('public', 'videos-metadata.json')
 const YT_TRANSCRIPT_BIN = resolve('..', 'tools', 'yt-transcript', 'zig-out', 'bin', 'yt-transcript')
@@ -285,8 +286,30 @@ async function main() {
 
   writeFailedReport(failed, runLabel, selected.length, written, skipped)
 
+  const synced = syncPublicTranscripts()
+
   console.log(`\nDone. Exported ${written}, skipped ${skipped} existing.`)
+  console.log(`Synced ${synced} transcripts to public/transcripts/.`)
   console.log(`Failed transcript report: ${FAILED_REPORT_PATH} (${failed.length} failures)`)
+}
+
+/**
+ * Mirror raw transcript .md files to homepage/public/transcripts/ so they ship
+ * with the static build and are reachable via `/transcripts/<videoId>.md`.
+ * Skips internal artifacts like `_failed.json`. Idempotent: rewrites every file
+ * so newly enriched or corrected raw transcripts always reach the build.
+ */
+function syncPublicTranscripts(): number {
+  mkdirSync(PUBLIC_TRANSCRIPTS_DIR, { recursive: true })
+  let count = 0
+  for (const name of readdirSync(TRANSCRIPTS_DIR)) {
+    if (!name.endsWith('.md')) continue
+    const src = resolve(TRANSCRIPTS_DIR, name)
+    const dst = resolve(PUBLIC_TRANSCRIPTS_DIR, name)
+    writeFileSync(dst, readFileSync(src))
+    count++
+  }
+  return count
 }
 
 main().catch((err) => {

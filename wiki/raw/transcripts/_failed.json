@@ -1,9 +1,28 @@
 {
-  "generatedAt": "2026-04-28T22:06:35.611Z",
-  "runLabel": "single: R3n8UxyD7mc",
-  "attempted": 1,
+  "generatedAt": "2026-05-03T02:14:55.979Z",
+  "runLabel": "all videos",
+  "attempted": 300,
   "written": 0,
-  "skipped": 1,
-  "failedCount": 0,
-  "failed": []
+  "skipped": 297,
+  "failedCount": 3,
+  "failed": [
+    {
+      "id": "-tZGlR8Zztg",
+      "title": "The Illusion of Design",
+      "category": "development",
+      "error": "Command failed: /Users/AD9C65/projects/pastel-projects/pastel-sketchbook/tools/yt-transcript/zig-out/bin/yt-transcript -tZGlR8Zztg --max-chars 120000"
+    },
+    {
+      "id": "-e7kvcUXxtw",
+      "title": "DevSecOps on Azure Kubernetes Service",
+      "category": "kubernetes",
+      "error": "Command failed: /Users/AD9C65/projects/pastel-projects/pastel-sketchbook/tools/yt-transcript/zig-out/bin/yt-transcript -e7kvcUXxtw --max-chars 120000"
+    },
+    {
+      "id": "1PH7UB24xps",
+      "title": "Architecting AKS Networking",
+      "category": "kubernetes",
+      "error": "Command failed: /Users/AD9C65/projects/pastel-projects/pastel-sketchbook/tools/yt-transcript/zig-out/bin/yt-transcript 1PH7UB24xps --max-chars 120000"
+    }
+  ]
 }

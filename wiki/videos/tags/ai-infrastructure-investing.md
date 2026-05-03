@@ -2,7 +2,7 @@
 type: tag
 tags: [ai-infrastructure-investing]
 sources: 2
-updated: 2026-04-28
+updated: 2026-05-03
 ---
 
 # ai infrastructure investing
@@ -15,4 +15,4 @@ Videos connected by the topic `ai infrastructure investing`.
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](../details/2NoJVXPpcco.md)
 
 ---
-*Auto-generated on Apr 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 2, 2026. Back to [topic index](index.md).*

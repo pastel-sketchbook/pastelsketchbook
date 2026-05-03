@@ -34,11 +34,11 @@ This video introduces zig-mmdc, a zero-dependency Mermaid diagram engine built i
 
 ## Related Videos
 
-- [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) — Development · 50 views · Feb 28, 2026 · [Details](AcpVuvtSXwI.md) (shared: `zig` · `zero-dependency`)
+- [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) — Development · 52 views · Feb 28, 2026 · [Details](AcpVuvtSXwI.md) (shared: `zig` · `zero-dependency`)
 - [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 80 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `zig` · `zero-dependency`)
-- [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 59 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `layout` · `zig`)
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 58 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `layout` · `zig`)
-- [Zig 0.16.0: Architectural Decoupling](https://youtu.be/hTEG3TsuUPQ) — Development · 633 views · Apr 15, 2026 · [Details](hTEG3TsuUPQ.md) (shared: `compiler` · `zig`)
+- [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 61 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `layout` · `zig`)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 60 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `layout` · `zig`)
+- [Zig 0.16.0: Architectural Decoupling](https://youtu.be/hTEG3TsuUPQ) — Development · 653 views · Apr 15, 2026 · [Details](hTEG3TsuUPQ.md) (shared: `compiler` · `zig`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*

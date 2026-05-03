@@ -37,7 +37,7 @@ The video introduces the Insight Architects toolkit, a framework of 10 strategic
 
 - [The 10-Lens Research Analysis Framework](https://youtu.be/NztD5fYpXcg) — Development · 32 views · Mar 7, 2026 · [Details](NztD5fYpXcg.md) (shared: `evidence` · `synthesis` · `auditing`)
 - [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 46 views · Dec 28, 2025 · [Details](IF5sNQH-01c.md) (shared: `notebooklm`)
-- [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 57 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `knowledge`)
+- [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 59 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `knowledge`)
 - [The Calculus of ALOHA Networks](https://youtu.be/s585HlqiyMQ) — Development · 77 views · Apr 10, 2026 · [Details](s585HlqiyMQ.md) (shared: `communication`)
 - [Neural TTS in Pastel-HN](https://youtu.be/d_0swhS1LyQ) — Development · 45 views · Feb 1, 2026 · [Details](d_0swhS1LyQ.md) (shared: `synthesis`)
 
