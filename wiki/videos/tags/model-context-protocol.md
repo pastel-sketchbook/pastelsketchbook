@@ -17,4 +17,4 @@ Videos connected by the topic `model context protocol`.
 - [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](../details/9oSUtndLto4.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

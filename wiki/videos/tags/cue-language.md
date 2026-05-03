@@ -16,4 +16,4 @@ Videos connected by the topic `cue language`.
 - [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 14 views · Mar 16, 2026 · [Details](../details/to1PClyd0YA.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

@@ -16,4 +16,4 @@ Videos connected by the topic `frontend architecture`.
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 30 views · Feb 16, 2026 · [Details](../details/5Vloo08zQ7o.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

@@ -15,4 +15,4 @@ Videos connected by the topic `meilisearch`.
 - [AEM + Meilisearch: A High-Performance Integration](https://youtu.be/KDnTY0Svmr0) — Development · 14 views · Feb 10, 2026 · [Details](../details/KDnTY0Svmr0.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

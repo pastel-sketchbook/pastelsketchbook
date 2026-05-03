@@ -40,7 +40,7 @@ Welcome.  Today  we  will  be  exploring  the architecture  of  similarity,  a  
 ## Related Videos
 
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 46 views · Apr 21, 2026 · [Details](xkHQhOgapfY.md) (shared: `cosine similarity` · `cosine` · `similarity`)
-- [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 116 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `vector search` · `vector` · `search`)
+- [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 117 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `vector search` · `vector` · `search`)
 - [The Essential Algorithmic Toolkit](https://youtu.be/nRxqSGBuB4s) — Development · 55 views · Mar 6, 2026 · [Details](nRxqSGBuB4s.md) (shared: `binary` · `search`)
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 59 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `search` · `retrieval`)
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 17 views · Apr 11, 2026 · [Details](a8heWpae5p0.md) (shared: `vector search` · `vector` · `search`)

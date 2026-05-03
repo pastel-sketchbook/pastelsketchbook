@@ -15,4 +15,4 @@ Videos connected by the topic `wasm`.
 - [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) — Development · 28 views · Apr 18, 2026 · [Details](../details/q-6cUColzQQ.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

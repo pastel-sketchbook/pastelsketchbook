@@ -30,7 +30,7 @@ This video announces the preview release of Genkit Dart, an open-source AI frame
 
 ## Related Videos
 
-- [Building with Genkit Dart](https://youtu.be/FOkG5ScxU88) — Development · 58 views · Mar 15, 2026 · [Details](FOkG5ScxU88.md) (shared: `genkit dart` · `genkit` · `dart`)
+- [Building with Genkit Dart](https://youtu.be/FOkG5ScxU88) — Development · 60 views · Mar 15, 2026 · [Details](FOkG5ScxU88.md) (shared: `genkit dart` · `genkit` · `dart`)
 - [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 128 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `dart` · `flutter` · `development`)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 36 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `flutter` · `development`)
 - [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) — Development · 28 views · Apr 18, 2026 · [Details](q-6cUColzQQ.md) (shared: `dart` · `flutter`)

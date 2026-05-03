@@ -30,8 +30,8 @@ This video presents a 10-lens research analysis framework for extracting multi-d
 
 ## Related Videos
 
-- [Architecting Action: 10 NotebookLM Prompts](https://youtu.be/Wa0EHhhKV8Q) — Development · 114 views · Feb 27, 2026 · [Details](Wa0EHhhKV8Q.md) (shared: `synthesis` · `evidence` · `auditing`)
-- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 773 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `analysis` · `framework`)
+- [Architecting Action: 10 NotebookLM Prompts](https://youtu.be/Wa0EHhhKV8Q) — Development · 115 views · Feb 27, 2026 · [Details](Wa0EHhhKV8Q.md) (shared: `synthesis` · `evidence` · `auditing`)
+- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 781 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `analysis` · `framework`)
 - [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 45 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `framework`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 74 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `research`)
 - [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 128 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `skills`)

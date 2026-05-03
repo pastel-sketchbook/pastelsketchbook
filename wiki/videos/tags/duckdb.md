@@ -16,4 +16,4 @@ Videos connected by the topic `duckdb`.
 - [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) — Kubernetes · 15 views · Mar 13, 2026 · [Details](../details/u60g2nMtVi4.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

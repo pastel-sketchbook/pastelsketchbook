@@ -15,4 +15,4 @@ Videos connected by the topic `kubernetes security`.
 - [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 21 views · Jan 16, 2026 · [Details](../details/0ttrfTfP864.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

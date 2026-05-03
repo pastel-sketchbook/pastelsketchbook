@@ -11,8 +11,8 @@ Videos connected by the topic `explicit allocators`.
 
 ## Videos
 
-- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 420 views · Feb 2, 2026 · [Details](../details/xV2EAL3NAVM.md)
+- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 424 views · Feb 2, 2026 · [Details](../details/xV2EAL3NAVM.md)
 - [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 25 views · Feb 6, 2026 · [Details](../details/A96r5gqwUrI.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

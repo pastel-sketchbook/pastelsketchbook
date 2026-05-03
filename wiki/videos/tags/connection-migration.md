@@ -15,4 +15,4 @@ Videos connected by the topic `connection migration`.
 - [Architecting the edge for HTTP/3 and QUIC](https://youtu.be/7Dchx829X_M) — Kubernetes · 92 views · Apr 4, 2026 · [Details](../details/7Dchx829X_M.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

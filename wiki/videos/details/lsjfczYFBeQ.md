@@ -30,7 +30,7 @@ This video examines how RFCs (Request for Comments) are evolving from natural-la
 
 ## Related Videos
 
-- [The Programmer's Guide to Essential RFCs](https://youtu.be/LackTxguXFg) — Development · 102 views · Apr 10, 2026 · [Details](LackTxguXFg.md) (shared: `specifications` · `tcp` · `tls`)
+- [The Programmer's Guide to Essential RFCs](https://youtu.be/LackTxguXFg) — Development · 103 views · Apr 10, 2026 · [Details](LackTxguXFg.md) (shared: `specifications` · `tcp` · `tls`)
 - [RFC 862 and the Echo Protocol](https://youtu.be/ea5lpF3RyzE) — Development · 39 views · Apr 7, 2026 · [Details](ea5lpF3RyzE.md) (shared: `protocol` · `tcp`)
 - [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 663 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `protocol` · `standards`)
 - [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 208 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `tcp` · `tls`)

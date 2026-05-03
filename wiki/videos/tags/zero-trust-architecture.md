@@ -15,4 +15,4 @@ Videos connected by the topic `zero trust architecture`.
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 17 views · Mar 2, 2026 · [Details](../details/uhXcsWYhdkA.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

@@ -15,14 +15,14 @@ updated: 2026-05-03
 | Metric | Value |
 |--------|-------|
 | Videos | 8 |
-| Total Views | 207 |
+| Total Views | 208 |
 | Most Recent | Feb 1, 2026 |
 | Oldest | Jan 10, 2026 |
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Vercel 대시보드 보안 안내서 | 21 | Feb 1, 2026 | [Watch](https://youtu.be/GVq5DvGFLpI) | [Wiki](details/GVq5DvGFLpI.md) |
+| 1 | Vercel 대시보드 보안 안내서 | 22 | Feb 1, 2026 | [Watch](https://youtu.be/GVq5DvGFLpI) | [Wiki](details/GVq5DvGFLpI.md) |
 | 2 | 알고리즘에서 코드로  TypeScript 가이드 | 13 | Jan 14, 2026 | [Watch](https://youtu.be/dsxuWtfzBGI) | [Wiki](details/dsxuWtfzBGI.md) |
 | 3 | 알고리즘 완전 정복 | 5 | Jan 14, 2026 | [Watch](https://youtu.be/iEn_PMcBlDk) | [Wiki](details/iEn_PMcBlDk.md) |
 | 4 | 영어 리스닝  3000시간의 법칙 | 55 | Jan 13, 2026 | [Watch](https://youtu.be/qyqLjeu8Hng) | [Wiki](details/qyqLjeu8Hng.md) |
@@ -41,4 +41,4 @@ updated: 2026-05-03
 - [Kubernetes](kubernetes.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on May 2, 2026. Back to [index](index.md).*
+*Auto-generated on May 3, 2026. Back to [index](index.md).*

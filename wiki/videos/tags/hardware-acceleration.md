@@ -15,4 +15,4 @@ Videos connected by the topic `hardware acceleration`.
 - [PictureViewer](https://youtu.be/HiaotGxHTfo) — Development · 15 views · Feb 25, 2026 · [Details](../details/HiaotGxHTfo.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

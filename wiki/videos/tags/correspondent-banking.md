@@ -15,4 +15,4 @@ Videos connected by the topic `correspondent banking`.
 - [Nesting in Global Finance](https://youtu.be/YYVxMSqBqe8) — Finance · 6 views · Apr 12, 2026 · [Details](../details/YYVxMSqBqe8.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

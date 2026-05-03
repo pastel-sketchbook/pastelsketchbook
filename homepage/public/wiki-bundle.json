@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-03T01:59:47.971Z",
-  "totalVideos": 300,
+  "generatedAt": "2026-05-03T21:49:44.512Z",
+  "totalVideos": 302,
   "categories": [
     {
       "name": "korea",
@@ -1246,7 +1246,7 @@
         "development"
       ],
       "videoCount": 23,
-      "totalViews": 441,
+      "totalViews": 450,
       "topTags": [
         {
           "tag": "curiosity",
@@ -1394,7 +1394,7 @@
         {
           "id": "M_NbzCCHFp0",
           "title": "The Orbital Compute Blueprint",
-          "views": 5,
+          "views": 14,
           "date": "2026-05-02T20:46:53Z",
           "category": "finance",
           "tags": [
@@ -2854,7 +2854,7 @@
         "development"
       ],
       "videoCount": 63,
-      "totalViews": 1803,
+      "totalViews": 1804,
       "topTags": [
         {
           "tag": "aks",
@@ -6842,7 +6842,7 @@
             {
               "id": "-e7kvcUXxtw",
               "title": "DevSecOps on Azure Kubernetes Service",
-              "views": 18,
+              "views": 19,
               "date": "2026-04-29T21:49:39Z",
               "category": "kubernetes",
               "tags": [
@@ -7312,7 +7312,7 @@
             {
               "id": "-e7kvcUXxtw",
               "title": "DevSecOps on Azure Kubernetes Service",
-              "views": 18,
+              "views": 19,
               "date": "2026-04-29T21:49:39Z",
               "category": "kubernetes",
               "tags": [
@@ -10203,7 +10203,7 @@
         {
           "id": "-e7kvcUXxtw",
           "title": "DevSecOps on Azure Kubernetes Service",
-          "views": 18,
+          "views": 19,
           "date": "2026-04-29T21:49:39Z",
           "category": "kubernetes",
           "tags": [
@@ -14774,12 +14774,12 @@
         "programming",
         "security"
       ],
-      "videoCount": 176,
-      "totalViews": 21113,
+      "videoCount": 178,
+      "totalViews": 21242,
       "topTags": [
         {
           "tag": "rust",
-          "count": 38
+          "count": 40
         },
         {
           "tag": "zig",
@@ -14814,6 +14814,14 @@
           "count": 7
         },
         {
+          "tag": "tracing",
+          "count": 6
+        },
+        {
+          "tag": "service",
+          "count": 5
+        },
+        {
           "tag": "agent",
           "count": 5
         },
@@ -14823,10 +14831,6 @@
         },
         {
           "tag": "tokio",
-          "count": 5
-        },
-        {
-          "tag": "tracing",
           "count": 5
         },
         {
@@ -14852,10 +14856,6 @@
         {
           "tag": "gof",
           "count": 4
-        },
-        {
-          "tag": "tauri",
-          "count": 4
         }
       ],
       "clusters": [
@@ -14863,9 +14863,169 @@
           "name": "Rust",
           "videos": [
             {
+              "id": "d1MH4nza95g",
+              "title": "Tracing Asynchronous Rust",
+              "views": 6,
+              "date": "2026-05-03T16:24:44Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "tracing",
+                "service"
+              ],
+              "detail": {
+                "summary": "This presentation explains why traditional logging breaks down in async Rust — futures yield at await points and resume on different threads, severing the call stack that conventional loggers rely on — and how the `tokio-rs/tracing` ecosystem solves this with a decoupled, type-safe diagnostic pipeline. It walks through spans and events, the `#[instrument]` macro, the `Instrument` future wrapper, the type-erased `Dispatch` router, the sharded-slab `Registry`, layered subscribers, multi-phase filtering, and exporters such as `tracing-error`, `tracing-journald`, and `tracing-flame`.",
+                "takeaways": [
+                  "Async execution shatters the synchronous call stack because futures resume on different threads at every await point, making thread-local or stack-based logging context unreliable.",
+                  "Tracing models diagnostics as nested spans (units of work with start/end and a span ID) and instantaneous events that automatically inherit the active span's structured fields and metadata.",
+                  "The `#[instrument]` macro derives span name, target, and key-value fields from a function signature, with `skip` to omit sensitive arguments and `err` to auto-emit events on `Result::Err` returns.",
+                  "The `Instrument` trait wraps futures so the executor calls `span.enter()` on poll and `span.exit()` on yield, preserving span context across thread hops without manual bookkeeping.",
+                  "Filtering operates in three phases — compile-time `static_max_level` cargo features that strip calls from the binary, runtime `EnvFilter` directives reloadable via a handle, and per-layer `Filter` combinators (`and`, `or`, `not`) for sophisticated routing such as errors-to-file, info-to-console.",
+                  "The `Registry` uses a sharded slab pool with atomic refcounts for lock-free concurrent span storage, plus a thread-safe type-erased extensions map so layers can attach heterogeneous data to each span.",
+                  "Non-blocking file logging offloads writes to a worker thread via an in-memory ring buffer and `WorkerGuard` (RAII) flushes pending entries on shutdown to prevent data loss."
+                ],
+                "topics": [
+                  "tokio tracing pipeline",
+                  "async span context propagation",
+                  "instrument attribute macro",
+                  "instrument future wrapper",
+                  "dispatch type erased router",
+                  "sharded slab registry",
+                  "layered subscriber composition",
+                  "envfilter compile time filtering",
+                  "tracing error span trace",
+                  "non blocking file appender",
+                  "tracing flame graph export"
+                ],
+                "related": [
+                  {
+                    "id": "wyIhJ3LMnRg",
+                    "sharedTopics": [
+                      "tracing",
+                      "context",
+                      "propagation",
+                      "trace"
+                    ]
+                  },
+                  {
+                    "id": "vep9hSKc9I0",
+                    "sharedTopics": [
+                      "tokio",
+                      "tracing",
+                      "async"
+                    ]
+                  },
+                  {
+                    "id": "uqZ-mwxGf2c",
+                    "sharedTopics": [
+                      "tracing",
+                      "context",
+                      "propagation"
+                    ]
+                  },
+                  {
+                    "id": "7zFqW-ZcEbo",
+                    "sharedTopics": [
+                      "tokio",
+                      "tracing",
+                      "async"
+                    ]
+                  },
+                  {
+                    "id": "0Sed1oggMKY",
+                    "sharedTopics": [
+                      "tokio",
+                      "async"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "07aDX5YB-ao",
+              "title": "Modular Networking Architecture in Rust",
+              "views": 18,
+              "date": "2026-05-03T06:22:41Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "middleware",
+                "tower",
+                "service"
+              ],
+              "detail": {
+                "summary": "This presentation explains how the Tower crate enables a protocol-agnostic, modular networking architecture in Rust by reducing both clients and servers to a single asynchronous `Service` trait that maps requests to futures. It walks through the `poll_ready` back-pressure gate, `Layer`-based middleware composition via `ServiceBuilder`, and how Hyper, Axum, and Tonic converge on the same trait to share authentication, logging, rate limiting, and resilience patterns across HTTP and gRPC stacks with negligible runtime overhead.",
+                "takeaways": [
+                  "Tower's `Service` trait abstracts both clients and servers as asynchronous request-to-future mappings, providing a single composition primitive for HTTP, gRPC, and custom binary protocols.",
+                  "The `poll_ready`/`call` split enforces explicit back pressure, separating admission control from execution to prevent system overload.",
+                  "`ServiceBuilder` composes ordered middleware stacks where layers like logging, auth, timeouts, and rate limiting execute in declaration order around an inner service such as an Axum router or Tonic gRPC handler.",
+                  "Boxing nested service types into `BoxCloneService` erases compile-time type complexity while satisfying `Send + Sync + Clone + 'static` bounds required by multi-threaded async runtimes.",
+                  "Resilience patterns (retry, time limiter, rate limiter, bulkhead, circuit breaker) all resolve as zero-cost abstractions, adding less than 300 nanoseconds of latency even for the most complex pattern."
+                ],
+                "topics": [
+                  "tower service trait",
+                  "protocol agnostic middleware",
+                  "poll ready back pressure",
+                  "service builder layer composition",
+                  "boxclone service dynamic dispatch",
+                  "axum tonic hyper interoperability",
+                  "tower resilience patterns",
+                  "unified http grpc stack"
+                ],
+                "related": [
+                  {
+                    "id": "DwAOCljoNoc",
+                    "sharedTopics": [
+                      "tower",
+                      "service",
+                      "trait",
+                      "hyper",
+                      "http"
+                    ]
+                  },
+                  {
+                    "id": "7zFqW-ZcEbo",
+                    "sharedTopics": [
+                      "tower",
+                      "service",
+                      "axum",
+                      "tonic",
+                      "grpc"
+                    ]
+                  },
+                  {
+                    "id": "J4iGUAXcAOA",
+                    "sharedTopics": [
+                      "tower",
+                      "middleware",
+                      "axum",
+                      "hyper"
+                    ]
+                  },
+                  {
+                    "id": "L9ypC5863yA",
+                    "sharedTopics": [
+                      "tonic",
+                      "patterns",
+                      "http",
+                      "grpc"
+                    ]
+                  },
+                  {
+                    "id": "90hw9qwXbbw",
+                    "sharedTopics": [
+                      "service",
+                      "tonic",
+                      "grpc"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "DwAOCljoNoc",
               "title": "Hyper: The Foundation of Fast HTTP in Rust",
-              "views": 10,
+              "views": 27,
               "date": "2026-05-02T18:35:37Z",
               "category": "development",
               "tags": [
@@ -14895,6 +15055,16 @@
                   "tower compatibility"
                 ],
                 "related": [
+                  {
+                    "id": "07aDX5YB-ao",
+                    "sharedTopics": [
+                      "hyper",
+                      "http",
+                      "service",
+                      "trait",
+                      "tower"
+                    ]
+                  },
                   {
                     "id": "90hw9qwXbbw",
                     "sharedTopics": [
@@ -14926,14 +15096,6 @@
                       "feature",
                       "flags"
                     ]
-                  },
-                  {
-                    "id": "SpNfrWmI8iE",
-                    "sharedTopics": [
-                      "rust",
-                      "trait",
-                      "async"
-                    ]
                   }
                 ]
               }
@@ -14941,7 +15103,7 @@
             {
               "id": "90hw9qwXbbw",
               "title": "Architecting with Tonic",
-              "views": 19,
+              "views": 45,
               "date": "2026-05-02T09:48:38Z",
               "category": "development",
               "tags": [
@@ -15024,7 +15186,7 @@
             {
               "id": "J4iGUAXcAOA",
               "title": "The Axum Web Framework",
-              "views": 18,
+              "views": 22,
               "date": "2026-05-01T22:55:53Z",
               "category": "development",
               "tags": [
@@ -15100,7 +15262,7 @@
             {
               "id": "EWwk29GzHgg",
               "title": "Architecting the Next Evolution of the Local Database",
-              "views": 116,
+              "views": 117,
               "date": "2026-04-27T08:39:23Z",
               "category": "development",
               "tags": [
@@ -15232,18 +15394,20 @@
                     ]
                   },
                   {
+                    "id": "07aDX5YB-ao",
+                    "sharedTopics": [
+                      "grpc",
+                      "http",
+                      "patterns",
+                      "tonic"
+                    ]
+                  },
+                  {
                     "id": "7zFqW-ZcEbo",
                     "sharedTopics": [
                       "grpc",
                       "serialization",
                       "tonic"
-                    ]
-                  },
-                  {
-                    "id": "RDa6WtZmW8E",
-                    "sharedTopics": [
-                      "serialization",
-                      "rust"
                     ]
                   }
                 ]
@@ -15252,7 +15416,7 @@
             {
               "id": "NhYb7QkBdMs",
               "title": "Rusty Object Notation (RON)",
-              "views": 146,
+              "views": 147,
               "date": "2026-04-24T06:12:06Z",
               "category": "development",
               "tags": [
@@ -15469,7 +15633,7 @@
             {
               "id": "izLrX-02IQk",
               "title": "Rust 1.95.0",
-              "views": 198,
+              "views": 200,
               "date": "2026-04-18T20:42:55Z",
               "category": "development",
               "tags": [
@@ -15610,7 +15774,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4151,
+              "views": 4152,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -16728,7 +16892,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 372,
+              "views": 375,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -16802,7 +16966,7 @@
             {
               "id": "qxOOl1hx1zU",
               "title": "The Future of Al Programming:  2031 Strategic Outlook",
-              "views": 105,
+              "views": 106,
               "date": "2026-02-09T13:26:58Z",
               "category": "development",
               "tags": [
@@ -17094,7 +17258,7 @@
             {
               "id": "RDa6WtZmW8E",
               "title": "Mastering Serde in Rust ",
-              "views": 45,
+              "views": 46,
               "date": "2026-01-29T05:20:28Z",
               "category": "development",
               "tags": [
@@ -17320,7 +17484,7 @@
             {
               "id": "Pp36ysjfWd8",
               "title": "Hangul Typing",
-              "views": 8,
+              "views": 9,
               "date": "2026-01-22T23:21:15Z",
               "category": "development",
               "tags": [
@@ -17945,7 +18109,7 @@
             {
               "id": "i1HT5UIccTs",
               "title": "Agent Skills for Dart",
-              "views": 50,
+              "views": 51,
               "date": "2026-04-28T18:55:44Z",
               "category": "development",
               "tags": [
@@ -18094,7 +18258,7 @@
             {
               "id": "yAeM2vpPWeM",
               "title": "Design for Deletion",
-              "views": 151,
+              "views": 152,
               "date": "2026-04-25T10:56:42Z",
               "category": "development",
               "tags": [
@@ -18813,7 +18977,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2605,
+              "views": 2614,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -20033,7 +20197,7 @@
             {
               "id": "qxOOl1hx1zU",
               "title": "The Future of Al Programming:  2031 Strategic Outlook",
-              "views": 105,
+              "views": 106,
               "date": "2026-02-09T13:26:58Z",
               "category": "development",
               "tags": [
@@ -20172,7 +20336,7 @@
             {
               "id": "MaP2i4dTiQk",
               "title": "Taming the Genie",
-              "views": 15,
+              "views": 16,
               "date": "2026-01-23T08:12:08Z",
               "category": "development",
               "tags": [
@@ -20727,7 +20891,7 @@
             {
               "id": "yAeM2vpPWeM",
               "title": "Design for Deletion",
-              "views": 151,
+              "views": 152,
               "date": "2026-04-25T10:56:42Z",
               "category": "development",
               "tags": [
@@ -20863,18 +21027,20 @@
                     ]
                   },
                   {
+                    "id": "07aDX5YB-ao",
+                    "sharedTopics": [
+                      "grpc",
+                      "http",
+                      "patterns",
+                      "tonic"
+                    ]
+                  },
+                  {
                     "id": "7zFqW-ZcEbo",
                     "sharedTopics": [
                       "grpc",
                       "serialization",
                       "tonic"
-                    ]
-                  },
-                  {
-                    "id": "RDa6WtZmW8E",
-                    "sharedTopics": [
-                      "serialization",
-                      "rust"
                     ]
                   }
                 ]
@@ -21433,6 +21599,13 @@
                     ]
                   },
                   {
+                    "id": "d1MH4nza95g",
+                    "sharedTopics": [
+                      "pipeline",
+                      "tracing"
+                    ]
+                  },
+                  {
                     "id": "pzVOjl6mOD4",
                     "sharedTopics": [
                       "algorithm"
@@ -21442,12 +21615,6 @@
                     "id": "INNKxTAagE4",
                     "sharedTopics": [
                       "tracing"
-                    ]
-                  },
-                  {
-                    "id": "B2x09utLjtM",
-                    "sharedTopics": [
-                      "pipeline"
                     ]
                   }
                 ]
@@ -21880,7 +22047,7 @@
             {
               "id": "Hfut9CfJhN0",
               "title": "Bubble Tea v2",
-              "views": 53,
+              "views": 55,
               "date": "2026-03-02T12:02:38Z",
               "category": "development",
               "tags": [
@@ -22332,7 +22499,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 773,
+              "views": 781,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -22480,7 +22647,7 @@
             {
               "id": "qxOOl1hx1zU",
               "title": "The Future of Al Programming:  2031 Strategic Outlook",
-              "views": 105,
+              "views": 106,
               "date": "2026-02-09T13:26:58Z",
               "category": "development",
               "tags": [
@@ -22753,9 +22920,90 @@
           "name": "Architecture",
           "videos": [
             {
+              "id": "07aDX5YB-ao",
+              "title": "Modular Networking Architecture in Rust",
+              "views": 18,
+              "date": "2026-05-03T06:22:41Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "middleware",
+                "tower",
+                "service"
+              ],
+              "detail": {
+                "summary": "This presentation explains how the Tower crate enables a protocol-agnostic, modular networking architecture in Rust by reducing both clients and servers to a single asynchronous `Service` trait that maps requests to futures. It walks through the `poll_ready` back-pressure gate, `Layer`-based middleware composition via `ServiceBuilder`, and how Hyper, Axum, and Tonic converge on the same trait to share authentication, logging, rate limiting, and resilience patterns across HTTP and gRPC stacks with negligible runtime overhead.",
+                "takeaways": [
+                  "Tower's `Service` trait abstracts both clients and servers as asynchronous request-to-future mappings, providing a single composition primitive for HTTP, gRPC, and custom binary protocols.",
+                  "The `poll_ready`/`call` split enforces explicit back pressure, separating admission control from execution to prevent system overload.",
+                  "`ServiceBuilder` composes ordered middleware stacks where layers like logging, auth, timeouts, and rate limiting execute in declaration order around an inner service such as an Axum router or Tonic gRPC handler.",
+                  "Boxing nested service types into `BoxCloneService` erases compile-time type complexity while satisfying `Send + Sync + Clone + 'static` bounds required by multi-threaded async runtimes.",
+                  "Resilience patterns (retry, time limiter, rate limiter, bulkhead, circuit breaker) all resolve as zero-cost abstractions, adding less than 300 nanoseconds of latency even for the most complex pattern."
+                ],
+                "topics": [
+                  "tower service trait",
+                  "protocol agnostic middleware",
+                  "poll ready back pressure",
+                  "service builder layer composition",
+                  "boxclone service dynamic dispatch",
+                  "axum tonic hyper interoperability",
+                  "tower resilience patterns",
+                  "unified http grpc stack"
+                ],
+                "related": [
+                  {
+                    "id": "DwAOCljoNoc",
+                    "sharedTopics": [
+                      "tower",
+                      "service",
+                      "trait",
+                      "hyper",
+                      "http"
+                    ]
+                  },
+                  {
+                    "id": "7zFqW-ZcEbo",
+                    "sharedTopics": [
+                      "tower",
+                      "service",
+                      "axum",
+                      "tonic",
+                      "grpc"
+                    ]
+                  },
+                  {
+                    "id": "J4iGUAXcAOA",
+                    "sharedTopics": [
+                      "tower",
+                      "middleware",
+                      "axum",
+                      "hyper"
+                    ]
+                  },
+                  {
+                    "id": "L9ypC5863yA",
+                    "sharedTopics": [
+                      "tonic",
+                      "patterns",
+                      "http",
+                      "grpc"
+                    ]
+                  },
+                  {
+                    "id": "90hw9qwXbbw",
+                    "sharedTopics": [
+                      "service",
+                      "tonic",
+                      "grpc"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "oqi_jJl3tAQ",
               "title": "The Push Architecture Blueprint",
-              "views": 27,
+              "views": 32,
               "date": "2026-04-30T09:17:45Z",
               "category": "development",
               "tags": [
@@ -22899,7 +23147,7 @@
             {
               "id": "R3n8UxyD7mc",
               "title": "The Architecture of Systemic Decoupling",
-              "views": 48,
+              "views": 50,
               "date": "2026-04-27T22:23:45Z",
               "category": "development",
               "tags": [
@@ -23039,18 +23287,20 @@
                     ]
                   },
                   {
+                    "id": "07aDX5YB-ao",
+                    "sharedTopics": [
+                      "grpc",
+                      "http",
+                      "patterns",
+                      "tonic"
+                    ]
+                  },
+                  {
                     "id": "7zFqW-ZcEbo",
                     "sharedTopics": [
                       "grpc",
                       "serialization",
                       "tonic"
-                    ]
-                  },
-                  {
-                    "id": "RDa6WtZmW8E",
-                    "sharedTopics": [
-                      "serialization",
-                      "rust"
                     ]
                   }
                 ]
@@ -23136,7 +23386,7 @@
             {
               "id": "wKzz0jKiScM",
               "title": "Emacs Architecture, Neovim Philosophy",
-              "views": 274,
+              "views": 275,
               "date": "2026-04-19T22:51:25Z",
               "category": "development",
               "tags": [
@@ -23278,7 +23528,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4151,
+              "views": 4152,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -23672,7 +23922,7 @@
             {
               "id": "EWwk29GzHgg",
               "title": "Architecting the Next Evolution of the Local Database",
-              "views": 116,
+              "views": 117,
               "date": "2026-04-27T08:39:23Z",
               "category": "development",
               "tags": [
@@ -24463,17 +24713,19 @@
                     ]
                   },
                   {
+                    "id": "d1MH4nza95g",
+                    "sharedTopics": [
+                      "trace",
+                      "context",
+                      "tracing",
+                      "propagation"
+                    ]
+                  },
+                  {
                     "id": "ZlEq2jFb8tI",
                     "sharedTopics": [
                       "tracing",
                       "observability"
-                    ]
-                  },
-                  {
-                    "id": "oxNF_GNuWpE",
-                    "sharedTopics": [
-                      "context",
-                      "http"
                     ]
                   }
                 ]
@@ -25033,9 +25285,169 @@
       ],
       "videos": [
         {
+          "id": "d1MH4nza95g",
+          "title": "Tracing Asynchronous Rust",
+          "views": 6,
+          "date": "2026-05-03T16:24:44Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "tracing",
+            "service"
+          ],
+          "detail": {
+            "summary": "This presentation explains why traditional logging breaks down in async Rust — futures yield at await points and resume on different threads, severing the call stack that conventional loggers rely on — and how the `tokio-rs/tracing` ecosystem solves this with a decoupled, type-safe diagnostic pipeline. It walks through spans and events, the `#[instrument]` macro, the `Instrument` future wrapper, the type-erased `Dispatch` router, the sharded-slab `Registry`, layered subscribers, multi-phase filtering, and exporters such as `tracing-error`, `tracing-journald`, and `tracing-flame`.",
+            "takeaways": [
+              "Async execution shatters the synchronous call stack because futures resume on different threads at every await point, making thread-local or stack-based logging context unreliable.",
+              "Tracing models diagnostics as nested spans (units of work with start/end and a span ID) and instantaneous events that automatically inherit the active span's structured fields and metadata.",
+              "The `#[instrument]` macro derives span name, target, and key-value fields from a function signature, with `skip` to omit sensitive arguments and `err` to auto-emit events on `Result::Err` returns.",
+              "The `Instrument` trait wraps futures so the executor calls `span.enter()` on poll and `span.exit()` on yield, preserving span context across thread hops without manual bookkeeping.",
+              "Filtering operates in three phases — compile-time `static_max_level` cargo features that strip calls from the binary, runtime `EnvFilter` directives reloadable via a handle, and per-layer `Filter` combinators (`and`, `or`, `not`) for sophisticated routing such as errors-to-file, info-to-console.",
+              "The `Registry` uses a sharded slab pool with atomic refcounts for lock-free concurrent span storage, plus a thread-safe type-erased extensions map so layers can attach heterogeneous data to each span.",
+              "Non-blocking file logging offloads writes to a worker thread via an in-memory ring buffer and `WorkerGuard` (RAII) flushes pending entries on shutdown to prevent data loss."
+            ],
+            "topics": [
+              "tokio tracing pipeline",
+              "async span context propagation",
+              "instrument attribute macro",
+              "instrument future wrapper",
+              "dispatch type erased router",
+              "sharded slab registry",
+              "layered subscriber composition",
+              "envfilter compile time filtering",
+              "tracing error span trace",
+              "non blocking file appender",
+              "tracing flame graph export"
+            ],
+            "related": [
+              {
+                "id": "wyIhJ3LMnRg",
+                "sharedTopics": [
+                  "tracing",
+                  "context",
+                  "propagation",
+                  "trace"
+                ]
+              },
+              {
+                "id": "vep9hSKc9I0",
+                "sharedTopics": [
+                  "tokio",
+                  "tracing",
+                  "async"
+                ]
+              },
+              {
+                "id": "uqZ-mwxGf2c",
+                "sharedTopics": [
+                  "tracing",
+                  "context",
+                  "propagation"
+                ]
+              },
+              {
+                "id": "7zFqW-ZcEbo",
+                "sharedTopics": [
+                  "tokio",
+                  "tracing",
+                  "async"
+                ]
+              },
+              {
+                "id": "0Sed1oggMKY",
+                "sharedTopics": [
+                  "tokio",
+                  "async"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "07aDX5YB-ao",
+          "title": "Modular Networking Architecture in Rust",
+          "views": 18,
+          "date": "2026-05-03T06:22:41Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "middleware",
+            "tower",
+            "service"
+          ],
+          "detail": {
+            "summary": "This presentation explains how the Tower crate enables a protocol-agnostic, modular networking architecture in Rust by reducing both clients and servers to a single asynchronous `Service` trait that maps requests to futures. It walks through the `poll_ready` back-pressure gate, `Layer`-based middleware composition via `ServiceBuilder`, and how Hyper, Axum, and Tonic converge on the same trait to share authentication, logging, rate limiting, and resilience patterns across HTTP and gRPC stacks with negligible runtime overhead.",
+            "takeaways": [
+              "Tower's `Service` trait abstracts both clients and servers as asynchronous request-to-future mappings, providing a single composition primitive for HTTP, gRPC, and custom binary protocols.",
+              "The `poll_ready`/`call` split enforces explicit back pressure, separating admission control from execution to prevent system overload.",
+              "`ServiceBuilder` composes ordered middleware stacks where layers like logging, auth, timeouts, and rate limiting execute in declaration order around an inner service such as an Axum router or Tonic gRPC handler.",
+              "Boxing nested service types into `BoxCloneService` erases compile-time type complexity while satisfying `Send + Sync + Clone + 'static` bounds required by multi-threaded async runtimes.",
+              "Resilience patterns (retry, time limiter, rate limiter, bulkhead, circuit breaker) all resolve as zero-cost abstractions, adding less than 300 nanoseconds of latency even for the most complex pattern."
+            ],
+            "topics": [
+              "tower service trait",
+              "protocol agnostic middleware",
+              "poll ready back pressure",
+              "service builder layer composition",
+              "boxclone service dynamic dispatch",
+              "axum tonic hyper interoperability",
+              "tower resilience patterns",
+              "unified http grpc stack"
+            ],
+            "related": [
+              {
+                "id": "DwAOCljoNoc",
+                "sharedTopics": [
+                  "tower",
+                  "service",
+                  "trait",
+                  "hyper",
+                  "http"
+                ]
+              },
+              {
+                "id": "7zFqW-ZcEbo",
+                "sharedTopics": [
+                  "tower",
+                  "service",
+                  "axum",
+                  "tonic",
+                  "grpc"
+                ]
+              },
+              {
+                "id": "J4iGUAXcAOA",
+                "sharedTopics": [
+                  "tower",
+                  "middleware",
+                  "axum",
+                  "hyper"
+                ]
+              },
+              {
+                "id": "L9ypC5863yA",
+                "sharedTopics": [
+                  "tonic",
+                  "patterns",
+                  "http",
+                  "grpc"
+                ]
+              },
+              {
+                "id": "90hw9qwXbbw",
+                "sharedTopics": [
+                  "service",
+                  "tonic",
+                  "grpc"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "DwAOCljoNoc",
           "title": "Hyper: The Foundation of Fast HTTP in Rust",
-          "views": 10,
+          "views": 27,
           "date": "2026-05-02T18:35:37Z",
           "category": "development",
           "tags": [
@@ -25065,6 +25477,16 @@
               "tower compatibility"
             ],
             "related": [
+              {
+                "id": "07aDX5YB-ao",
+                "sharedTopics": [
+                  "hyper",
+                  "http",
+                  "service",
+                  "trait",
+                  "tower"
+                ]
+              },
               {
                 "id": "90hw9qwXbbw",
                 "sharedTopics": [
@@ -25096,14 +25518,6 @@
                   "feature",
                   "flags"
                 ]
-              },
-              {
-                "id": "SpNfrWmI8iE",
-                "sharedTopics": [
-                  "rust",
-                  "trait",
-                  "async"
-                ]
               }
             ]
           }
@@ -25111,7 +25525,7 @@
         {
           "id": "90hw9qwXbbw",
           "title": "Architecting with Tonic",
-          "views": 19,
+          "views": 45,
           "date": "2026-05-02T09:48:38Z",
           "category": "development",
           "tags": [
@@ -25194,7 +25608,7 @@
         {
           "id": "J4iGUAXcAOA",
           "title": "The Axum Web Framework",
-          "views": 18,
+          "views": 22,
           "date": "2026-05-01T22:55:53Z",
           "category": "development",
           "tags": [
@@ -25350,7 +25764,7 @@
         {
           "id": "oqi_jJl3tAQ",
           "title": "The Push Architecture Blueprint",
-          "views": 27,
+          "views": 32,
           "date": "2026-04-30T09:17:45Z",
           "category": "development",
           "tags": [
@@ -25565,7 +25979,7 @@
         {
           "id": "i1HT5UIccTs",
           "title": "Agent Skills for Dart",
-          "views": 50,
+          "views": 51,
           "date": "2026-04-28T18:55:44Z",
           "category": "development",
           "tags": [
@@ -25642,7 +26056,7 @@
         {
           "id": "R3n8UxyD7mc",
           "title": "The Architecture of Systemic Decoupling",
-          "views": 48,
+          "views": 50,
           "date": "2026-04-27T22:23:45Z",
           "category": "development",
           "tags": [
@@ -25725,7 +26139,7 @@
         {
           "id": "EWwk29GzHgg",
           "title": "Architecting the Next Evolution of the Local Database",
-          "views": 116,
+          "views": 117,
           "date": "2026-04-27T08:39:23Z",
           "category": "development",
           "tags": [
@@ -25872,7 +26286,7 @@
         {
           "id": "yAeM2vpPWeM",
           "title": "Design for Deletion",
-          "views": 151,
+          "views": 152,
           "date": "2026-04-25T10:56:42Z",
           "category": "development",
           "tags": [
@@ -26153,18 +26567,20 @@
                 ]
               },
               {
+                "id": "07aDX5YB-ao",
+                "sharedTopics": [
+                  "grpc",
+                  "http",
+                  "patterns",
+                  "tonic"
+                ]
+              },
+              {
                 "id": "7zFqW-ZcEbo",
                 "sharedTopics": [
                   "grpc",
                   "serialization",
                   "tonic"
-                ]
-              },
-              {
-                "id": "RDa6WtZmW8E",
-                "sharedTopics": [
-                  "serialization",
-                  "rust"
                 ]
               }
             ]
@@ -26245,7 +26661,7 @@
         {
           "id": "NhYb7QkBdMs",
           "title": "Rusty Object Notation (RON)",
-          "views": 146,
+          "views": 147,
           "date": "2026-04-24T06:12:06Z",
           "category": "development",
           "tags": [
@@ -26605,7 +27021,7 @@
         {
           "id": "wKzz0jKiScM",
           "title": "Emacs Architecture, Neovim Philosophy",
-          "views": 274,
+          "views": 275,
           "date": "2026-04-19T22:51:25Z",
           "category": "development",
           "tags": [
@@ -26812,7 +27228,7 @@
         {
           "id": "izLrX-02IQk",
           "title": "Rust 1.95.0",
-          "views": 198,
+          "views": 200,
           "date": "2026-04-18T20:42:55Z",
           "category": "development",
           "tags": [
@@ -27224,7 +27640,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 653,
+          "views": 659,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -27723,7 +28139,7 @@
         {
           "id": "LackTxguXFg",
           "title": "The Programmer's Guide to Essential RFCs",
-          "views": 102,
+          "views": 103,
           "date": "2026-04-10T16:29:16Z",
           "category": "development",
           "tags": [
@@ -27867,7 +28283,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2605,
+          "views": 2614,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -28602,7 +29018,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4151,
+          "views": 4152,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -29751,17 +30167,19 @@
                 ]
               },
               {
+                "id": "d1MH4nza95g",
+                "sharedTopics": [
+                  "trace",
+                  "context",
+                  "tracing",
+                  "propagation"
+                ]
+              },
+              {
                 "id": "ZlEq2jFb8tI",
                 "sharedTopics": [
                   "tracing",
                   "observability"
-                ]
-              },
-              {
-                "id": "oxNF_GNuWpE",
-                "sharedTopics": [
-                  "context",
-                  "http"
                 ]
               }
             ]
@@ -29808,6 +30226,13 @@
                 ]
               },
               {
+                "id": "d1MH4nza95g",
+                "sharedTopics": [
+                  "pipeline",
+                  "tracing"
+                ]
+              },
+              {
                 "id": "pzVOjl6mOD4",
                 "sharedTopics": [
                   "algorithm"
@@ -29817,12 +30242,6 @@
                 "id": "INNKxTAagE4",
                 "sharedTopics": [
                   "tracing"
-                ]
-              },
-              {
-                "id": "B2x09utLjtM",
-                "sharedTopics": [
-                  "pipeline"
                 ]
               }
             ]
@@ -30262,7 +30681,7 @@
         {
           "id": "FOkG5ScxU88",
           "title": "Building with Genkit Dart",
-          "views": 58,
+          "views": 60,
           "date": "2026-03-15T19:49:00Z",
           "category": "development",
           "tags": [
@@ -31685,7 +32104,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 198,
+          "views": 200,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -31754,7 +32173,7 @@
         {
           "id": "Hfut9CfJhN0",
           "title": "Bubble Tea v2",
-          "views": 53,
+          "views": 55,
           "date": "2026-03-02T12:02:38Z",
           "category": "development",
           "tags": [
@@ -32198,7 +32617,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 114,
+          "views": 115,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -32934,7 +33353,7 @@
         {
           "id": "QBUQvfZJpaM",
           "title": "Modern Cryptography Standards: A Guide to AEAD",
-          "views": 51,
+          "views": 52,
           "date": "2026-02-18T23:24:48Z",
           "category": "development",
           "tags": [
@@ -33202,7 +33621,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 773,
+          "views": 781,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -33356,7 +33775,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 372,
+          "views": 375,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -33719,7 +34138,7 @@
         {
           "id": "qxOOl1hx1zU",
           "title": "The Future of Al Programming:  2031 Strategic Outlook",
-          "views": 105,
+          "views": 106,
           "date": "2026-02-09T13:26:58Z",
           "category": "development",
           "tags": [
@@ -34153,7 +34572,7 @@
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 420,
+          "views": 424,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -34674,7 +35093,7 @@
         {
           "id": "RDa6WtZmW8E",
           "title": "Mastering Serde in Rust ",
-          "views": 45,
+          "views": 46,
           "date": "2026-01-29T05:20:28Z",
           "category": "development",
           "tags": [
@@ -35428,7 +35847,7 @@
         {
           "id": "MaP2i4dTiQk",
           "title": "Taming the Genie",
-          "views": 15,
+          "views": 16,
           "date": "2026-01-23T08:12:08Z",
           "category": "development",
           "tags": [
@@ -35503,7 +35922,7 @@
         {
           "id": "Pp36ysjfWd8",
           "title": "Hangul Typing",
-          "views": 8,
+          "views": 9,
           "date": "2026-01-22T23:21:15Z",
           "category": "development",
           "tags": [
@@ -39372,7 +39791,7 @@
         "development"
       ],
       "videoCount": 8,
-      "totalViews": 207,
+      "totalViews": 208,
       "topTags": [
         {
           "tag": "알고리즘",
@@ -39404,7 +39823,7 @@
         {
           "id": "GVq5DvGFLpI",
           "title": "Vercel 대시보드 보안 안내서",
-          "views": 21,
+          "views": 22,
           "date": "2026-02-02T00:33:23Z",
           "category": "programming",
           "tags": [
@@ -39957,7 +40376,7 @@
         {
           "id": "LackTxguXFg",
           "title": "The Programmer's Guide to Essential RFCs",
-          "views": 102,
+          "views": 103,
           "date": "2026-04-10T16:29:16Z",
           "category": "development"
         },
@@ -40011,6 +40430,13 @@
           "category": "finance"
         },
         {
+          "id": "M_NbzCCHFp0",
+          "title": "The Orbital Compute Blueprint",
+          "views": 14,
+          "date": "2026-05-02T20:46:53Z",
+          "category": "finance"
+        },
+        {
           "id": "l9UUqD2Bz2E",
           "title": "The Mystery of the Nickel Coke",
           "views": 10,
@@ -40022,13 +40448,6 @@
           "title": "Nesting in Global Finance",
           "views": 6,
           "date": "2026-04-12T20:20:01Z",
-          "category": "finance"
-        },
-        {
-          "id": "M_NbzCCHFp0",
-          "title": "The Orbital Compute Blueprint",
-          "views": 5,
-          "date": "2026-05-02T20:46:53Z",
           "category": "finance"
         },
         {
@@ -40077,18 +40496,18 @@
           "category": "development"
         },
         {
+          "id": "-e7kvcUXxtw",
+          "title": "DevSecOps on Azure Kubernetes Service",
+          "views": 19,
+          "date": "2026-04-29T21:49:39Z",
+          "category": "kubernetes"
+        },
+        {
           "id": "Z98SHl4nSFI",
           "title": "Rebalancing the SDLC in the Al Era",
           "views": 19,
           "date": "2026-03-18T03:21:35Z",
           "category": "development"
-        },
-        {
-          "id": "-e7kvcUXxtw",
-          "title": "DevSecOps on Azure Kubernetes Service",
-          "views": 18,
-          "date": "2026-04-29T21:49:39Z",
-          "category": "kubernetes"
         }
       ]
     },
@@ -40131,7 +40550,7 @@
         {
           "id": "i1HT5UIccTs",
           "title": "Agent Skills for Dart",
-          "views": 50,
+          "views": 51,
           "date": "2026-04-28T18:55:44Z",
           "category": "development"
         },
@@ -40169,7 +40588,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2605,
+          "views": 2614,
           "date": "2026-04-09T22:17:25Z",
           "category": "development"
         },
@@ -40197,7 +40616,7 @@
         {
           "id": "yAeM2vpPWeM",
           "title": "Design for Deletion",
-          "views": 151,
+          "views": 152,
           "date": "2026-04-25T10:56:42Z",
           "category": "development"
         },
@@ -40218,7 +40637,7 @@
         {
           "id": "qxOOl1hx1zU",
           "title": "The Future of Al Programming:  2031 Strategic Outlook",
-          "views": 105,
+          "views": 106,
           "date": "2026-02-09T13:26:58Z",
           "category": "development"
         },
@@ -40274,7 +40693,7 @@
         {
           "id": "i1HT5UIccTs",
           "title": "Agent Skills for Dart",
-          "views": 50,
+          "views": 51,
           "date": "2026-04-28T18:55:44Z",
           "category": "development"
         },
@@ -40330,7 +40749,7 @@
         {
           "id": "MaP2i4dTiQk",
           "title": "Taming the Genie",
-          "views": 15,
+          "views": 16,
           "date": "2026-01-23T08:12:08Z",
           "category": "development"
         },
@@ -40381,7 +40800,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 114,
+          "views": 115,
           "date": "2026-02-27T12:49:18Z",
           "category": "development"
         },
@@ -40418,7 +40837,7 @@
         {
           "id": "-e7kvcUXxtw",
           "title": "DevSecOps on Azure Kubernetes Service",
-          "views": 18,
+          "views": 19,
           "date": "2026-04-29T21:49:39Z",
           "category": "kubernetes"
         },
@@ -40527,7 +40946,7 @@
         {
           "id": "i1HT5UIccTs",
           "title": "Agent Skills for Dart",
-          "views": 50,
+          "views": 51,
           "date": "2026-04-28T18:55:44Z",
           "category": "development"
         }
@@ -40656,21 +41075,21 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 372,
+          "views": 375,
           "date": "2026-02-13T15:08:23Z",
           "category": "development"
         },
         {
           "id": "izLrX-02IQk",
           "title": "Rust 1.95.0",
-          "views": 198,
+          "views": 200,
           "date": "2026-04-18T20:42:55Z",
           "category": "development"
         },
         {
           "id": "NhYb7QkBdMs",
           "title": "Rusty Object Notation (RON)",
-          "views": 146,
+          "views": 147,
           "date": "2026-04-24T06:12:06Z",
           "category": "development"
         },
@@ -40691,7 +41110,7 @@
         {
           "id": "EWwk29GzHgg",
           "title": "Architecting the Next Evolution of the Local Database",
-          "views": 116,
+          "views": 117,
           "date": "2026-04-27T08:39:23Z",
           "category": "development"
         },
@@ -40705,7 +41124,7 @@
         {
           "id": "qxOOl1hx1zU",
           "title": "The Future of Al Programming:  2031 Strategic Outlook",
-          "views": 105,
+          "views": 106,
           "date": "2026-02-09T13:26:58Z",
           "category": "development"
         },
@@ -40794,6 +41213,20 @@
           "category": "development"
         },
         {
+          "id": "RDa6WtZmW8E",
+          "title": "Mastering Serde in Rust ",
+          "views": 46,
+          "date": "2026-01-29T05:20:28Z",
+          "category": "development"
+        },
+        {
+          "id": "90hw9qwXbbw",
+          "title": "Architecting with Tonic",
+          "views": 45,
+          "date": "2026-05-02T09:48:38Z",
+          "category": "development"
+        },
+        {
           "id": "Th5MMOFQbh8",
           "title": "Backend Patterns in Rust",
           "views": 45,
@@ -40805,13 +41238,6 @@
           "title": "Neural TTS in Pastel-HN",
           "views": 45,
           "date": "2026-02-01T12:24:48Z",
-          "category": "development"
-        },
-        {
-          "id": "RDa6WtZmW8E",
-          "title": "Mastering Serde in Rust ",
-          "views": 45,
-          "date": "2026-01-29T05:20:28Z",
           "category": "development"
         },
         {
@@ -40850,6 +41276,13 @@
           "category": "development"
         },
         {
+          "id": "DwAOCljoNoc",
+          "title": "Hyper: The Foundation of Fast HTTP in Rust",
+          "views": 27,
+          "date": "2026-05-02T18:35:37Z",
+          "category": "development"
+        },
+        {
           "id": "lY5TU8qHduM",
           "title": "The Flight Recorder for Tokio",
           "views": 26,
@@ -40871,17 +41304,17 @@
           "category": "kubernetes"
         },
         {
+          "id": "J4iGUAXcAOA",
+          "title": "The Axum Web Framework",
+          "views": 22,
+          "date": "2026-05-01T22:55:53Z",
+          "category": "development"
+        },
+        {
           "id": "0ttrfTfP864",
           "title": "ra-token-authority",
           "views": 21,
           "date": "2026-01-16T16:34:51Z",
-          "category": "development"
-        },
-        {
-          "id": "90hw9qwXbbw",
-          "title": "Architecting with Tonic",
-          "views": 19,
-          "date": "2026-05-02T09:48:38Z",
           "category": "development"
         },
         {
@@ -40892,10 +41325,10 @@
           "category": "development"
         },
         {
-          "id": "J4iGUAXcAOA",
-          "title": "The Axum Web Framework",
+          "id": "07aDX5YB-ao",
+          "title": "Modular Networking Architecture in Rust",
           "views": 18,
-          "date": "2026-05-01T22:55:53Z",
+          "date": "2026-05-03T06:22:41Z",
           "category": "development"
         },
         {
@@ -40920,16 +41353,9 @@
           "category": "development"
         },
         {
-          "id": "DwAOCljoNoc",
-          "title": "Hyper: The Foundation of Fast HTTP in Rust",
-          "views": 10,
-          "date": "2026-05-02T18:35:37Z",
-          "category": "development"
-        },
-        {
           "id": "Pp36ysjfWd8",
           "title": "Hangul Typing",
-          "views": 8,
+          "views": 9,
           "date": "2026-01-22T23:21:15Z",
           "category": "development"
         },
@@ -40938,6 +41364,13 @@
           "title": "The Professional Rust Toolbox",
           "views": 7,
           "date": "2026-01-08T10:19:31Z",
+          "category": "development"
+        },
+        {
+          "id": "d1MH4nza95g",
+          "title": "Tracing Asynchronous Rust",
+          "views": 6,
+          "date": "2026-05-03T16:24:44Z",
           "category": "development"
         }
       ]
@@ -40975,7 +41408,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 773,
+          "views": 781,
           "date": "2026-02-14T09:23:06Z",
           "category": "development"
         },
@@ -41024,7 +41457,7 @@
         {
           "id": "qxOOl1hx1zU",
           "title": "The Future of Al Programming:  2031 Strategic Outlook",
-          "views": 105,
+          "views": 106,
           "date": "2026-02-09T13:26:58Z",
           "category": "development"
         },
@@ -41066,7 +41499,7 @@
         {
           "id": "Hfut9CfJhN0",
           "title": "Bubble Tea v2",
-          "views": 53,
+          "views": 55,
           "date": "2026-03-02T12:02:38Z",
           "category": "development"
         },

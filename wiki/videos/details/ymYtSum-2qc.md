@@ -31,7 +31,7 @@ This video demonstrates building safe, zero-cost DuckDB extensions using Zig tar
 ## Related Videos
 
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `generics` · `zero-cost abstractions` · `zero-cost`)
-- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 45 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `zero-cost abstractions` · `zero-cost` · `abstractions`)
+- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 46 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `zero-cost abstractions` · `zero-cost` · `abstractions`)
 - [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 25 views · Feb 6, 2026 · [Details](A96r5gqwUrI.md) (shared: `zig` · `comptime` · `zero-cost`)
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `zig` · `api`)
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 347 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `comptime`)

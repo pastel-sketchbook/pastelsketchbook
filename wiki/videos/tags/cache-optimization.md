@@ -15,4 +15,4 @@ Videos connected by the topic `cache optimization`.
 - [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 60 views · Jan 29, 2026 · [Details](../details/o9yaniXkM-0.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

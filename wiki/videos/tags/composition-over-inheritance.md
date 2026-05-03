@@ -15,4 +15,4 @@ Videos connected by the topic `composition over inheritance`.
 - [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 31 views · Feb 23, 2026 · [Details](../details/ARWkoc3E8uE.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

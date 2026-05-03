@@ -22,4 +22,4 @@ Videos connected by the topic `zig`.
 - [Teaching an Ancient Calendar to a Microscopic AI](https://youtu.be/4wX4mGuiTjw) — Development · 9 views · Mar 8, 2026 · [Details](../details/4wX4mGuiTjw.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

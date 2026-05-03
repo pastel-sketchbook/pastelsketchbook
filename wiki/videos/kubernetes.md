@@ -90,7 +90,7 @@ updated: 2026-05-03
 
 ### Go (7 videos)
 
-- [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) -- 18 views, Apr 29, 2026 · [Details](details/-e7kvcUXxtw.md)
+- [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) -- 19 views, Apr 29, 2026 · [Details](details/-e7kvcUXxtw.md)
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 71 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) -- 25 views, Feb 21, 2026 · [Details](details/ORjARjbukhY.md)
@@ -100,7 +100,7 @@ updated: 2026-05-03
 
 ### Security (7 videos)
 
-- [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) -- 18 views, Apr 29, 2026 · [Details](details/-e7kvcUXxtw.md)
+- [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) -- 19 views, Apr 29, 2026 · [Details](details/-e7kvcUXxtw.md)
 - [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) -- 49 views, Feb 5, 2026 · [Details](details/rgY4KTMFOMs.md)
 - [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) -- 30 views, Jan 27, 2026 · [Details](details/KpSjLQpswW4.md)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 42 views, Jan 17, 2026 · [Details](details/4b-H6ZaoNUE.md)
@@ -161,7 +161,7 @@ updated: 2026-05-03
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | DevSecOps on Azure Kubernetes Service | 18 | Apr 29, 2026 | [Watch](https://youtu.be/-e7kvcUXxtw) | [Wiki](details/-e7kvcUXxtw.md) |
+| 1 | DevSecOps on Azure Kubernetes Service | 19 | Apr 29, 2026 | [Watch](https://youtu.be/-e7kvcUXxtw) | [Wiki](details/-e7kvcUXxtw.md) |
 | 2 | Architecting Cost Efficiency for Al Workloads | 25 | Apr 25, 2026 | [Watch](https://youtu.be/eaPXjvB194w) | [Wiki](details/eaPXjvB194w.md) |
 | 3 | Enterprise Infrastructure as Code for Al Agents | 65 | Apr 25, 2026 | [Watch](https://youtu.be/quD4pyCwKB4) | [Wiki](details/quD4pyCwKB4.md) |
 | 4 | Kubernetes 1.36 (Haru) | 25 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
@@ -237,4 +237,4 @@ updated: 2026-05-03
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on May 2, 2026. Back to [index](index.md).*
+*Auto-generated on May 3, 2026. Back to [index](index.md).*

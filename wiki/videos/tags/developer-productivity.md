@@ -15,4 +15,4 @@ Videos connected by the topic `developer productivity`.
 - [Leetgo](https://youtu.be/MuDJGnGTn3k) — Development · 56 views · Apr 9, 2026 · [Details](../details/MuDJGnGTn3k.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

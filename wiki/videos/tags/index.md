@@ -166,4 +166,4 @@ Total topics: 153
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on May 2, 2026. Back to [videos index](../index.md).*
+*Auto-generated on May 3, 2026. Back to [videos index](../index.md).*

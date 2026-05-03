@@ -11,8 +11,8 @@ Videos connected by the topic `tree-sitter`.
 
 ## Videos
 
-- [Emacs Architecture, Neovim Philosophy](https://youtu.be/wKzz0jKiScM) — Development · 274 views · Apr 19, 2026 · [Details](../details/wKzz0jKiScM.md)
+- [Emacs Architecture, Neovim Philosophy](https://youtu.be/wKzz0jKiScM) — Development · 275 views · Apr 19, 2026 · [Details](../details/wKzz0jKiScM.md)
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 46 views · Apr 21, 2026 · [Details](../details/xkHQhOgapfY.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*

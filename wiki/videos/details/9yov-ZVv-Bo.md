@@ -30,7 +30,7 @@ This presentation explores building a high-performance Korean text processing en
 
 ## Related Videos
 
-- [Hangul Typing](https://youtu.be/Pp36ysjfWd8) — Development · 8 views · Jan 22, 2026 · [Details](Pp36ysjfWd8.md) (shared: `hangul` · `korean` · `jamo`)
+- [Hangul Typing](https://youtu.be/Pp36ysjfWd8) — Development · 9 views · Jan 22, 2026 · [Details](Pp36ysjfWd8.md) (shared: `hangul` · `korean` · `jamo`)
 - [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 2 views · Jan 6, 2026 · [Details](z_Ydy_-cI1U.md) (shared: `processing` · `decomposition`)
 - [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 60 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `engineering` · `performance`)
 - [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 12 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `webassembly` · `performance`)

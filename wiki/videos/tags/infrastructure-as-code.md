@@ -16,4 +16,4 @@ Videos connected by the topic `infrastructure as code`.
 - [Azure Enterprise Edge Lab](https://youtu.be/fMjflPvjaJ8) — Kubernetes · 8 views · Mar 31, 2026 · [Details](../details/fMjflPvjaJ8.md)
 
 ---
-*Auto-generated on May 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 3, 2026. Back to [topic index](index.md).*
