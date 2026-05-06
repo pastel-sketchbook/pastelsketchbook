@@ -143,3 +143,15 @@ Exported 9 transcript files (all videos) to `wiki/raw/transcripts`.
 ## [2026-05-03] ingest | Video Details
 
 Generated 10 video detail pages (all videos).
+
+## [2026-05-06] ingest | Video Metadata Sync
+
+Synced 308 videos across 6 categories (korea=17, finance=23, kubernetes=64, development=183, security=13, programming=8).
+
+## [2026-05-06] ingest | Video Transcripts
+
+Exported 1 transcript files (single: 4YsX6tYi5x4) to `wiki/raw/transcripts`.
+
+## [2026-05-06] ingest | Video Details
+
+Generated 2 video detail pages (all videos).

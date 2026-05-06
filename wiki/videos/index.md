@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 302
-updated: 2026-05-03
+sources: 308
+updated: 2026-05-06
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 302 |
-| Total Views | 24.3K |
+| Total Videos | 308 |
+| Total Views | 24.9K |
 | Categories | 6 |
-| Last Updated | May 3, 2026 |
+| Last Updated | May 6, 2026 |
 
 ## Categories
 
@@ -28,19 +28,19 @@ Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 23 videos, 450 total views.
+Videos covering personal finance, investing, and economics. 23 videos, 498 total views.
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 63 videos, 1.8K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 64 videos, 1.8K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 178 videos, 21.2K total views.
+Videos about software development, tools, workflows, and engineering practices. 183 videos, 21.8K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 13 videos, 407 total views.
+Videos on cybersecurity, application security, and security engineering. 13 videos, 414 total views.
 
 ### [Programming](programming.md)
 
@@ -69,4 +69,4 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `go` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on May 3, 2026. See [wiki index](../index.md).*
+*Auto-generated on May 6, 2026. See [wiki index](../index.md).*

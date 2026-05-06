@@ -37,9 +37,9 @@ The video introduces the Semantic Operating System and Micro Module Architecture
 
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `system` · `architecture` · `migration`)
 - [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 62 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `graph` · `detection`)
-- [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 12 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `architecture` · `failure`)
-- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 152 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `architecture` · `code`)
-- [From Louvain to Leiden](https://youtu.be/BQ4wab0UtLg) — Development · 23 views · Apr 26, 2026 · [Details](BQ4wab0UtLg.md) (shared: `graph` · `detection`)
+- [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 13 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `architecture` · `failure`)
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 154 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `architecture` · `code`)
+- [From Louvain to Leiden](https://youtu.be/BQ4wab0UtLg) — Development · 26 views · Apr 26, 2026 · [Details](BQ4wab0UtLg.md) (shared: `graph` · `detection`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

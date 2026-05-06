@@ -45,9 +45,9 @@ Welcome  everyone.  Today  we  are  exploring the  architectural  shift  represe
 ## Related Videos
 
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 59 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `search` · `mcp server` · `mcp`)
-- [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 19 views · Apr 29, 2026 · [Details](GERT8PoS9Qk.md) (shared: `vector search` · `vector` · `search`)
-- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 26 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `concurrency`)
-- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 27 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `rust` · `compatibility`)
+- [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 21 views · Apr 29, 2026 · [Details](GERT8PoS9Qk.md) (shared: `vector search` · `vector` · `search`)
+- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `concurrency`)
+- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 81 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `rust` · `compatibility`)
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 46 views · Apr 21, 2026 · [Details](xkHQhOgapfY.md) (shared: `sqlite` · `search`)
 
 ---

@@ -31,11 +31,11 @@ This video lays out a pragmatic 2026 decision framework for service-to-service c
 
 ## Related Videos
 
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 45 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `grpc` · `protobuf` · `rust`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 140 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `grpc` · `protobuf` · `rust`)
 - [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 208 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `http` · `head-of-line` · `blocking`)
-- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 27 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `http` · `1.1` · `rust`)
-- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) — Development · 18 views · May 3, 2026 · [Details](07aDX5YB-ao.md) (shared: `grpc` · `http` · `patterns`)
-- [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `grpc` · `serialization` · `tonic`)
+- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 81 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `http` · `1.1` · `rust`)
+- [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 18 views · May 4, 2026 · [Details](UOOkDh4RUbE.md) (shared: `rest` · `grpc` · `streaming`)
+- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) — Development · 44 views · May 3, 2026 · [Details](07aDX5YB-ao.md) (shared: `grpc` · `http` · `patterns`)
 
 ---
 *Auto-generated on Apr 25, 2026. Back to [development](../development.md) · [index](../index.md).*

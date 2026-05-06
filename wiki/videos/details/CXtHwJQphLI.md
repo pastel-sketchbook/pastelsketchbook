@@ -35,11 +35,11 @@ This video outlines the architectural requirements for building production-ready
 
 ## Related Videos
 
-- [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) — Development · 76 views · Apr 6, 2026 · [Details](IYfTi_HNDl4.md) (shared: `rabbitmq` · `distributed` · `exchange`)
+- [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) — Development · 77 views · Apr 6, 2026 · [Details](IYfTi_HNDl4.md) (shared: `rabbitmq` · `distributed` · `exchange`)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `rabbitmq` · `distributed tracing` · `distributed`)
 - [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 107 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `distributed tracing` · `distributed` · `tracing`)
 - [The Architect's Baton](https://youtu.be/6WRiPikxs-Q) — Development · 125 views · Mar 7, 2026 · [Details](6WRiPikxs-Q.md) (shared: `distributed` · `opentelemetry` · `architecture`)
-- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 39 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `distributed tracing` · `distributed` · `tracing`)
+- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 38 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `distributed tracing` · `distributed` · `tracing`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

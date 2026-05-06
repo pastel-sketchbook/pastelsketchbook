@@ -47,7 +47,7 @@ Welcome  everyone.  Today  we  are  exploring the  compensating  transaction  pa
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `pattern` · `architecture` · `state management`)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 36 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `pattern` · `architecture` · `state management`)
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 45 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `saga pattern` · `saga` · `pattern`)
-- [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) — Development · 76 views · Apr 6, 2026 · [Details](IYfTi_HNDl4.md) (shared: `pattern` · `distributed` · `architecture`)
+- [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) — Development · 77 views · Apr 6, 2026 · [Details](IYfTi_HNDl4.md) (shared: `pattern` · `distributed` · `architecture`)
 - [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 66 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `pattern` · `architecture` · `orchestration`)
 
 ---

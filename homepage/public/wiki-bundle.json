@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-03T21:49:44.512Z",
-  "totalVideos": 302,
+  "generatedAt": "2026-05-06T22:02:16.139Z",
+  "totalVideos": 308,
   "categories": [
     {
       "name": "korea",
@@ -1246,7 +1246,7 @@
         "development"
       ],
       "videoCount": 23,
-      "totalViews": 450,
+      "totalViews": 498,
       "topTags": [
         {
           "tag": "curiosity",
@@ -1394,7 +1394,7 @@
         {
           "id": "M_NbzCCHFp0",
           "title": "The Orbital Compute Blueprint",
-          "views": 14,
+          "views": 62,
           "date": "2026-05-02T20:46:53Z",
           "category": "finance",
           "tags": [
@@ -2853,24 +2853,24 @@
         "security",
         "development"
       ],
-      "videoCount": 63,
-      "totalViews": 1804,
+      "videoCount": 64,
+      "totalViews": 1836,
       "topTags": [
         {
           "tag": "aks",
-          "count": 18
+          "count": 19
         },
         {
           "tag": "kubernetes",
           "count": 13
         },
         {
-          "tag": "azure",
+          "tag": "istio",
           "count": 7
         },
         {
-          "tag": "istio",
-          "count": 6
+          "tag": "azure",
+          "count": 7
         },
         {
           "tag": "rabbitmq",
@@ -2941,6 +2941,90 @@
         {
           "name": "AKS & Networking",
           "videos": [
+            {
+              "id": "4YsX6tYi5x4",
+              "title": "Istio-Based Weighted Traffic Management on AKS",
+              "views": 2,
+              "date": "2026-05-06T20:43:06Z",
+              "category": "kubernetes",
+              "tags": [
+                "istio",
+                "aks",
+                "traffic"
+              ],
+              "detail": {
+                "summary": "This session presents an architectural blueprint for weighted traffic management on Azure Kubernetes Service using Istio with Envoy proxies at layer 7. It contrasts native Azure tooling like the Standard Load Balancer and Traffic Manager against Istio's application-aware routing, demonstrating precise 80/20 backend splits, deterministic session affinity via cookies, and observability through Kiali and Prometheus for canary, blue/green, and A/B deployment patterns across pod and VM backends.",
+                "takeaways": [
+                  "Istio operates at layer 7 via Envoy proxies, providing HTTP-aware routing, header and cookie inspection, and declarative real-time control that DNS- and L4-level tools cannot match.",
+                  "An exact 80/20 traffic split is enforced through a weight dial for new sessions, while a sticky lock pins returning users to their assigned backend via session cookies.",
+                  "Azure Standard Load Balancer is constrained to layer 4 five-tuple hashing, and Azure Traffic Manager is hindered by DNS caching delays, eliminating both for application-aware shaping.",
+                  "The architecture supports unified routing across both Kubernetes pod workloads and VM backends within a fully private internal AKS topology.",
+                  "Weighted routing enables progressive delivery patterns including canary rollouts, blue/green deployments, A/B testing across user cohorts, and capacity-aware traffic distribution."
+                ],
+                "topics": [
+                  "istio service mesh",
+                  "weighted traffic shaping",
+                  "azure kubernetes service",
+                  "envoy layer 7 proxies",
+                  "session affinity cookies",
+                  "canary blue green deployments",
+                  "pod and vm backends",
+                  "kiali prometheus observability"
+                ],
+                "related": [
+                  {
+                    "id": "Hd767VA7Z-0",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "traffic"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "azure kubernetes service"
+                    ]
+                  },
+                  {
+                    "id": "C5HqbzLRYZ0",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "traffic"
+                    ]
+                  },
+                  {
+                    "id": "OnwiaDRj1-k",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "traffic"
+                    ]
+                  },
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "azure"
+                    ]
+                  }
+                ]
+              }
+            },
             {
               "id": "BiYKKVsJROk",
               "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
@@ -3171,7 +3255,7 @@
             {
               "id": "1PH7UB24xps",
               "title": "Architecting AKS Networking",
-              "views": 16,
+              "views": 18,
               "date": "2026-03-11T22:24:43Z",
               "category": "kubernetes",
               "tags": [
@@ -3245,6 +3329,16 @@
                     ]
                   },
                   {
+                    "id": "4YsX6tYi5x4",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "azure kubernetes service"
+                    ]
+                  },
+                  {
                     "id": "snRi_JET1bg",
                     "sharedTopics": [
                       "deployment",
@@ -3252,16 +3346,6 @@
                       "azure kubernetes service",
                       "azure",
                       "kubernetes"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh",
-                      "azure"
                     ]
                   }
                 ]
@@ -3481,7 +3565,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 49,
+              "views": 50,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -4325,12 +4409,752 @@
           ]
         },
         {
+          "name": "Service Mesh",
+          "videos": [
+            {
+              "id": "4YsX6tYi5x4",
+              "title": "Istio-Based Weighted Traffic Management on AKS",
+              "views": 2,
+              "date": "2026-05-06T20:43:06Z",
+              "category": "kubernetes",
+              "tags": [
+                "istio",
+                "aks",
+                "traffic"
+              ],
+              "detail": {
+                "summary": "This session presents an architectural blueprint for weighted traffic management on Azure Kubernetes Service using Istio with Envoy proxies at layer 7. It contrasts native Azure tooling like the Standard Load Balancer and Traffic Manager against Istio's application-aware routing, demonstrating precise 80/20 backend splits, deterministic session affinity via cookies, and observability through Kiali and Prometheus for canary, blue/green, and A/B deployment patterns across pod and VM backends.",
+                "takeaways": [
+                  "Istio operates at layer 7 via Envoy proxies, providing HTTP-aware routing, header and cookie inspection, and declarative real-time control that DNS- and L4-level tools cannot match.",
+                  "An exact 80/20 traffic split is enforced through a weight dial for new sessions, while a sticky lock pins returning users to their assigned backend via session cookies.",
+                  "Azure Standard Load Balancer is constrained to layer 4 five-tuple hashing, and Azure Traffic Manager is hindered by DNS caching delays, eliminating both for application-aware shaping.",
+                  "The architecture supports unified routing across both Kubernetes pod workloads and VM backends within a fully private internal AKS topology.",
+                  "Weighted routing enables progressive delivery patterns including canary rollouts, blue/green deployments, A/B testing across user cohorts, and capacity-aware traffic distribution."
+                ],
+                "topics": [
+                  "istio service mesh",
+                  "weighted traffic shaping",
+                  "azure kubernetes service",
+                  "envoy layer 7 proxies",
+                  "session affinity cookies",
+                  "canary blue green deployments",
+                  "pod and vm backends",
+                  "kiali prometheus observability"
+                ],
+                "related": [
+                  {
+                    "id": "Hd767VA7Z-0",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "traffic"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "azure kubernetes service"
+                    ]
+                  },
+                  {
+                    "id": "C5HqbzLRYZ0",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "traffic"
+                    ]
+                  },
+                  {
+                    "id": "OnwiaDRj1-k",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "traffic"
+                    ]
+                  },
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "azure"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "BiYKKVsJROk",
+              "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
+              "views": 21,
+              "date": "2026-04-01T10:26:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "istio",
+                "argocd",
+                "gitops",
+                "wif"
+              ],
+              "detail": {
+                "summary": "This presentation details a four-layer microservices architecture on AKS integrating Istio service mesh, Argo CD GitOps, and Azure Workload Identity Federation for zero-trust deployments. The layers stack from AKS platform and workload identity at the base, through Istio mTLS and traffic management, Argo CD automated deployment synced to git repositories, up to the application layer.",
+                "takeaways": [
+                  "The four-layer architecture stacks AKS platform, Istio service mesh, Argo CD GitOps, and microservices application for comprehensive security and automation.",
+                  "Azure Workload Identity Federation eliminates long-lived credentials by providing verified managed identity for every service.",
+                  "Istio handles mTLS for service-to-service encryption and traffic management without application code changes.",
+                  "Argo CD ensures the cluster state remains continuously synchronized with git repositories through automated GitOps deployment."
+                ],
+                "topics": [
+                  "aks",
+                  "istio service mesh",
+                  "argo cd",
+                  "gitops",
+                  "workload identity federation",
+                  "zero trust",
+                  "mutual tls"
+                ],
+                "related": [
+                  {
+                    "id": "A4-foXsdQiA",
+                    "sharedTopics": [
+                      "service",
+                      "mesh",
+                      "identity",
+                      "zero trust",
+                      "zero"
+                    ]
+                  },
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "aks",
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "zero trust"
+                    ]
+                  },
+                  {
+                    "id": "4b-H6ZaoNUE",
+                    "sharedTopics": [
+                      "istio",
+                      "service",
+                      "mesh",
+                      "workload",
+                      "identity"
+                    ]
+                  },
+                  {
+                    "id": "C5HqbzLRYZ0",
+                    "sharedTopics": [
+                      "aks",
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "Hd767VA7Z-0",
+              "title": "Strategic Implementation of Blue-Green Deployment",
+              "views": 13,
+              "date": "2026-03-10T11:40:52Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "blue-green",
+                "zero downtime",
+                "istio"
+              ],
+              "detail": {
+                "summary": "This video covers the strategic implementation of blue-green deployments on Azure Kubernetes Service (AKS) using Istio service mesh for traffic management. It explains how two identical environments (blue for production, green for staging) enable zero-downtime releases through instantaneous traffic shifting and instant rollback capability. The presentation details the Istio VirtualService configuration for weighted traffic routing and contrasts this approach with traditional rolling deployments.",
+                "takeaways": [
+                  "Blue-green deployment uses two identical environments where Istio VirtualService configuration controls 100%/0% traffic weighting between blue (live) and green (staging).",
+                  "Istio service mesh acts as an intelligent gateway that enables instantaneous traffic shifts and rollbacks without any downtime.",
+                  "Traditional rolling deployments carry inherent risks of service interruption and slow rollback processes that blue-green avoids entirely.",
+                  "The approach reconciles the velocity mandate (shipping code multiple times daily) with the downtime penalty of traditional deployment strategies."
+                ],
+                "topics": [
+                  "blue-green deployment",
+                  "istio service mesh",
+                  "azure kubernetes service",
+                  "zero-downtime deployment",
+                  "traffic management",
+                  "rollback strategy"
+                ],
+                "related": [
+                  {
+                    "id": "C5HqbzLRYZ0",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "kubernetes"
+                    ]
+                  },
+                  {
+                    "id": "OnwiaDRj1-k",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "kubernetes"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "azure kubernetes service"
+                    ]
+                  },
+                  {
+                    "id": "4YsX6tYi5x4",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "azure kubernetes service"
+                    ]
+                  },
+                  {
+                    "id": "snRi_JET1bg",
+                    "sharedTopics": [
+                      "deployment",
+                      "service",
+                      "azure kubernetes service",
+                      "azure",
+                      "kubernetes"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "P_xUJi_qt-Q",
+              "title": "Advanced Architectural Synthesis",
+              "views": 29,
+              "date": "2026-02-15T15:41:25Z",
+              "category": "kubernetes",
+              "tags": [
+                "distributed systems.",
+                "cqrs",
+                "service mesh",
+                "sidecar"
+              ],
+              "detail": {
+                "summary": "This video explores the architectural evolution from monolithic systems to distributed microservices, analyzing the trade-offs of mesh infrastructure and data segregation. It examines how the transition solved organizational agility and independent scaling but introduced new challenges around distributed data management and inter-service communication complexity. The session provides a strategic trade-off analysis for building next-generation distributed systems.",
+                "takeaways": [
+                  "The monolith-to-microservices transition traded unified complexity for distributed complexity, introducing challenges in data consistency and service communication.",
+                  "Distributed data management requires accepting the loss of immediate consistency and the difficulty of cross-service data joins.",
+                  "Data segregation is a critical strategic choice that enables services to operate and persist data independently.",
+                  "Event-driven mesh architecture provides greater agility and resilience but demands careful orchestration of decoupled components."
+                ],
+                "topics": [
+                  "microservices architecture",
+                  "distributed systems",
+                  "data segregation",
+                  "service mesh",
+                  "monolith migration",
+                  "event-driven design"
+                ],
+                "related": [
+                  {
+                    "id": "QE51ybyrQDM",
+                    "sharedTopics": [
+                      "architecture",
+                      "distributed systems",
+                      "distributed",
+                      "systems",
+                      "event-driven"
+                    ]
+                  },
+                  {
+                    "id": "N4nRAfBZ3BE",
+                    "sharedTopics": [
+                      "architecture",
+                      "service",
+                      "event-driven design",
+                      "event-driven",
+                      "design"
+                    ]
+                  },
+                  {
+                    "id": "oHdhgeF4wlI",
+                    "sharedTopics": [
+                      "architecture",
+                      "distributed systems",
+                      "distributed",
+                      "systems"
+                    ]
+                  },
+                  {
+                    "id": "ORjARjbukhY",
+                    "sharedTopics": [
+                      "architecture",
+                      "service mesh",
+                      "service",
+                      "mesh"
+                    ]
+                  },
+                  {
+                    "id": "5Ztm7JNVa8E",
+                    "sharedTopics": [
+                      "architecture",
+                      "data",
+                      "event-driven"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "MIZ0ATwu7C0",
+              "title": "Architecting Meilisearch on AKS & Istio",
+              "views": 26,
+              "date": "2026-02-10T09:50:21Z",
+              "category": "kubernetes",
+              "tags": [
+                "melisearch",
+                "aks",
+                "istio"
+              ],
+              "detail": {
+                "summary": "This video provides a technical blueprint for deploying Meilisearch on Azure Kubernetes Service within an Istio service mesh, targeting sub-50ms search latency in a zero-trust mTLS environment. It addresses three core challenges: speed (Meilisearch's dependency on LMDB and Linux kernel page cache), state (single-node architecture requiring dedicated persistent block storage, incompatible with NFS/SMB), and security (reconciling Istio sidecar mTLS proxies and kubelet health probes with latency budgets).",
+                "takeaways": [
+                  "Meilisearch relies on LMDB (Lightning Memory-Mapped Database) and the Linux kernel page cache for sub-50ms query performance, making storage I/O characteristics critical.",
+                  "Shared file systems like NFS and SMB are incompatible with Meilisearch's architecture due to unacceptable latency; dedicated persistent block storage is required.",
+                  "Istio sidecar proxies and mTLS encryption add latency layers that must be carefully tuned to stay within the 50ms search latency budget.",
+                  "Kubelet health probes in a zero-trust Istio mesh require special configuration since the probes bypass the sidecar proxy by default."
+                ],
+                "topics": [
+                  "meilisearch",
+                  "azure kubernetes service",
+                  "istio service mesh",
+                  "mtls",
+                  "lmdb",
+                  "zero trust",
+                  "persistent storage"
+                ],
+                "related": [
+                  {
+                    "id": "0U-SUJCmKAU",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "zero trust",
+                      "zero",
+                      "trust",
+                      "persistent storage"
+                    ]
+                  },
+                  {
+                    "id": "BiYKKVsJROk",
+                    "sharedTopics": [
+                      "service",
+                      "istio service mesh",
+                      "istio",
+                      "mesh",
+                      "zero trust"
+                    ]
+                  },
+                  {
+                    "id": "Hd767VA7Z-0",
+                    "sharedTopics": [
+                      "azure kubernetes service",
+                      "azure",
+                      "kubernetes",
+                      "service",
+                      "istio service mesh"
+                    ]
+                  },
+                  {
+                    "id": "KpSjLQpswW4",
+                    "sharedTopics": [
+                      "azure kubernetes service",
+                      "azure",
+                      "kubernetes",
+                      "service",
+                      "zero trust"
+                    ]
+                  },
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "azure",
+                      "service",
+                      "istio service mesh",
+                      "istio",
+                      "mesh"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "0U-SUJCmKAU",
+              "title": "From Stateful to Secure",
+              "views": 46,
+              "date": "2026-01-16T06:38:21Z",
+              "category": "kubernetes",
+              "tags": [
+                "stateful",
+                "kubernetes",
+                "rabbitmq",
+                "mtls"
+              ],
+              "detail": {
+                "summary": "This video presents a four-stage blueprint for deploying, exposing, and securing RabbitMQ on Azure Kubernetes Service (AKS), progressing from foundational data persistence through reliable high-availability deployment, secure service exposure, and finally zero trust fortification. It serves as a comprehensive production journey for managing stateful workloads on Kubernetes.",
+                "takeaways": [
+                  "Stage 1 (Foundation) focuses on data persistence and storage configuration to ensure message durability and recoverability.",
+                  "Stage 2 (Architecture) designs the RabbitMQ cluster for high availability and resilience to handle real-world production demands.",
+                  "Stage 3 (Accessibility) implements secure exposure strategies that balance external connectivity with strict access control.",
+                  "Stage 4 (Fortification) applies zero trust security principles to verify every interaction within the cluster."
+                ],
+                "topics": [
+                  "rabbitmq on kubernetes",
+                  "aks",
+                  "stateful workloads",
+                  "zero trust",
+                  "persistent storage",
+                  "high availability"
+                ],
+                "related": [
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "zero trust",
+                      "zero",
+                      "trust",
+                      "persistent storage"
+                    ]
+                  },
+                  {
+                    "id": "KdLQEv3Tiiw",
+                    "sharedTopics": [
+                      "rabbitmq",
+                      "kubernetes",
+                      "stateful workloads",
+                      "stateful",
+                      "workloads"
+                    ]
+                  },
+                  {
+                    "id": "BiYKKVsJROk",
+                    "sharedTopics": [
+                      "aks",
+                      "zero trust",
+                      "zero",
+                      "trust"
+                    ]
+                  },
+                  {
+                    "id": "A4-foXsdQiA",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "zero trust",
+                      "zero",
+                      "trust"
+                    ]
+                  },
+                  {
+                    "id": "KpSjLQpswW4",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "zero trust",
+                      "zero",
+                      "trust"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "A4-foXsdQiA",
+              "title": "Securing Service-to-Service Communication in Kubernetes",
+              "views": 23,
+              "date": "2026-01-15T03:44:26Z",
+              "category": "kubernetes",
+              "tags": [
+                "rust",
+                "mtls",
+                "istio",
+                "kubernetes",
+                "aks"
+              ],
+              "detail": {
+                "summary": "This presentation traces the evolution of Kubernetes security from application-layer TLS termination to infrastructure-level zero trust, covering three pillars: identity, authorization, and integrity. It compares the \"application layer fortress\" pattern where services handle their own TLS and identity validation against service mesh approaches that offload security concerns to the infrastructure.",
+                "takeaways": [
+                  "Zero trust in microservices requires verifying every interaction through three pillars: identity (proving who you are), authorization (permission to act), and integrity (no tampering in transit).",
+                  "The application layer fortress pattern gives maximum control but burdens each service with TLS termination and identity validation logic.",
+                  "Service mesh infrastructure offloads mTLS, identity, and authorization to sidecar proxies, removing security concerns from application code.",
+                  "Network location alone cannot establish trust in distributed systems; every service must be treated as an untrusted island."
+                ],
+                "topics": [
+                  "zero trust",
+                  "mutual tls",
+                  "service mesh",
+                  "kubernetes security",
+                  "service-to-service auth",
+                  "identity verification"
+                ],
+                "related": [
+                  {
+                    "id": "BiYKKVsJROk",
+                    "sharedTopics": [
+                      "zero trust",
+                      "zero",
+                      "trust",
+                      "mutual tls",
+                      "mutual"
+                    ]
+                  },
+                  {
+                    "id": "4b-H6ZaoNUE",
+                    "sharedTopics": [
+                      "zero",
+                      "trust",
+                      "service",
+                      "mesh",
+                      "kubernetes"
+                    ]
+                  },
+                  {
+                    "id": "0NLj8g2hQNk",
+                    "sharedTopics": [
+                      "zero trust",
+                      "zero",
+                      "trust",
+                      "security",
+                      "service-to-service auth"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "zero trust",
+                      "zero",
+                      "trust",
+                      "service",
+                      "mesh"
+                    ]
+                  },
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "zero",
+                      "trust",
+                      "service",
+                      "mesh",
+                      "security"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "OnwiaDRj1-k",
+              "title": "Kubernetes Services & Istio",
+              "views": 30,
+              "date": "2026-01-13T04:31:02Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "istio",
+                "service types"
+              ],
+              "detail": {
+                "summary": "This video provides a practical guide to Kubernetes service types and Istio service mesh on Azure Kubernetes Service (AKS). It covers the evolution from basic ClusterIP services to mesh-aware traffic management with Istio, explaining how each service type (ClusterIP, NodePort, LoadBalancer, ExternalName) addresses different access patterns. The session demonstrates how Istio adds observability, resilience, and fine-grained traffic control on top of native Kubernetes networking.",
+                "takeaways": [
+                  "Kubernetes services provide stable endpoints (IP + DNS) that decouple consumers from ephemeral pod lifecycles.",
+                  "The four service types (ClusterIP, NodePort, LoadBalancer, ExternalName) serve progressively broader access patterns from internal-only to external traffic.",
+                  "Istio service mesh adds mesh-aware traffic management including canary routing, circuit breaking, and mutual TLS without application code changes.",
+                  "Pod IP volatility makes direct pod-to-pod communication unreliable; services are the mandatory abstraction layer."
+                ],
+                "topics": [
+                  "kubernetes services",
+                  "istio service mesh",
+                  "aks networking",
+                  "clusterip",
+                  "traffic management",
+                  "load balancing"
+                ],
+                "related": [
+                  {
+                    "id": "C5HqbzLRYZ0",
+                    "sharedTopics": [
+                      "kubernetes services",
+                      "kubernetes",
+                      "services",
+                      "istio service mesh",
+                      "istio"
+                    ]
+                  },
+                  {
+                    "id": "Hd767VA7Z-0",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh"
+                    ]
+                  },
+                  {
+                    "id": "BiYKKVsJROk",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "aks"
+                    ]
+                  },
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "aks"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "C5HqbzLRYZ0",
+              "title": "K8s Services  AKS & Istio",
+              "views": 13,
+              "date": "2026-01-10T16:26:22Z",
+              "category": "kubernetes",
+              "tags": [
+                "istio",
+                "aks",
+                "kubernetes"
+              ],
+              "detail": {
+                "summary": "This video explains the four standard Kubernetes service types (ClusterIP, NodePort, LoadBalancer, ExternalName) and how their role fundamentally changes when Istio service mesh is introduced on Azure Kubernetes Service. It walks through the progression from basic pod-to-pod discovery problems to sophisticated mesh-based traffic management with mTLS.",
+                "takeaways": [
+                  "Kubernetes services provide stable addressing for ephemeral pods whose IP addresses constantly change as they are created and destroyed.",
+                  "ClusterIP (default) provides internal-only addressing, NodePort exposes on every node, LoadBalancer provisions cloud infrastructure, and ExternalName maps to DNS.",
+                  "Istio service mesh transforms the role of Kubernetes services by handling mTLS, traffic management, and observability at the infrastructure layer.",
+                  "The combination of AKS and Istio moves security and routing logic out of application code into sidecar proxies managed by the mesh."
+                ],
+                "topics": [
+                  "kubernetes services",
+                  "clusterip",
+                  "istio service mesh",
+                  "aks",
+                  "service discovery",
+                  "mtls",
+                  "traffic management"
+                ],
+                "related": [
+                  {
+                    "id": "OnwiaDRj1-k",
+                    "sharedTopics": [
+                      "kubernetes services",
+                      "kubernetes",
+                      "services",
+                      "clusterip",
+                      "istio service mesh"
+                    ]
+                  },
+                  {
+                    "id": "Hd767VA7Z-0",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh"
+                    ]
+                  },
+                  {
+                    "id": "BiYKKVsJROk",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "aks"
+                    ]
+                  },
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "aks"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
           "name": "Architecture",
           "videos": [
             {
               "id": "KdLQEv3Tiiw",
               "title": "Mastering Hybrid CDC Architectures",
-              "views": 18,
+              "views": 20,
               "date": "2026-04-08T02:45:20Z",
               "category": "kubernetes",
               "tags": [
@@ -5003,7 +5827,7 @@
             {
               "id": "quD4pyCwKB4",
               "title": "Enterprise Infrastructure as Code for Al Agents",
-              "views": 65,
+              "views": 66,
               "date": "2026-04-25T17:46:48Z",
               "category": "kubernetes",
               "tags": [
@@ -5158,7 +5982,7 @@
             {
               "id": "p9LNSeAt5Zw",
               "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-              "views": 20,
+              "views": 21,
               "date": "2026-04-22T10:25:18Z",
               "category": "kubernetes",
               "tags": [
@@ -5601,7 +6425,7 @@
             {
               "id": "nomIVRSBEG4",
               "title": "Consuming CDC with ScyllaDB",
-              "views": 71,
+              "views": 74,
               "date": "2026-04-18T04:36:03Z",
               "category": "kubernetes",
               "tags": [
@@ -5816,7 +6640,7 @@
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 48,
+              "views": 51,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -6181,668 +7005,12 @@
           ]
         },
         {
-          "name": "Service Mesh",
-          "videos": [
-            {
-              "id": "BiYKKVsJROk",
-              "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
-              "views": 21,
-              "date": "2026-04-01T10:26:37Z",
-              "category": "kubernetes",
-              "tags": [
-                "aks",
-                "istio",
-                "argocd",
-                "gitops",
-                "wif"
-              ],
-              "detail": {
-                "summary": "This presentation details a four-layer microservices architecture on AKS integrating Istio service mesh, Argo CD GitOps, and Azure Workload Identity Federation for zero-trust deployments. The layers stack from AKS platform and workload identity at the base, through Istio mTLS and traffic management, Argo CD automated deployment synced to git repositories, up to the application layer.",
-                "takeaways": [
-                  "The four-layer architecture stacks AKS platform, Istio service mesh, Argo CD GitOps, and microservices application for comprehensive security and automation.",
-                  "Azure Workload Identity Federation eliminates long-lived credentials by providing verified managed identity for every service.",
-                  "Istio handles mTLS for service-to-service encryption and traffic management without application code changes.",
-                  "Argo CD ensures the cluster state remains continuously synchronized with git repositories through automated GitOps deployment."
-                ],
-                "topics": [
-                  "aks",
-                  "istio service mesh",
-                  "argo cd",
-                  "gitops",
-                  "workload identity federation",
-                  "zero trust",
-                  "mutual tls"
-                ],
-                "related": [
-                  {
-                    "id": "A4-foXsdQiA",
-                    "sharedTopics": [
-                      "service",
-                      "mesh",
-                      "identity",
-                      "zero trust",
-                      "zero"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "aks",
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh"
-                    ]
-                  },
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh",
-                      "zero trust"
-                    ]
-                  },
-                  {
-                    "id": "4b-H6ZaoNUE",
-                    "sharedTopics": [
-                      "istio",
-                      "service",
-                      "mesh",
-                      "workload",
-                      "identity"
-                    ]
-                  },
-                  {
-                    "id": "C5HqbzLRYZ0",
-                    "sharedTopics": [
-                      "aks",
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "Hd767VA7Z-0",
-              "title": "Strategic Implementation of Blue-Green Deployment",
-              "views": 13,
-              "date": "2026-03-10T11:40:52Z",
-              "category": "kubernetes",
-              "tags": [
-                "aks",
-                "blue-green",
-                "zero downtime",
-                "istio"
-              ],
-              "detail": {
-                "summary": "This video covers the strategic implementation of blue-green deployments on Azure Kubernetes Service (AKS) using Istio service mesh for traffic management. It explains how two identical environments (blue for production, green for staging) enable zero-downtime releases through instantaneous traffic shifting and instant rollback capability. The presentation details the Istio VirtualService configuration for weighted traffic routing and contrasts this approach with traditional rolling deployments.",
-                "takeaways": [
-                  "Blue-green deployment uses two identical environments where Istio VirtualService configuration controls 100%/0% traffic weighting between blue (live) and green (staging).",
-                  "Istio service mesh acts as an intelligent gateway that enables instantaneous traffic shifts and rollbacks without any downtime.",
-                  "Traditional rolling deployments carry inherent risks of service interruption and slow rollback processes that blue-green avoids entirely.",
-                  "The approach reconciles the velocity mandate (shipping code multiple times daily) with the downtime penalty of traditional deployment strategies."
-                ],
-                "topics": [
-                  "blue-green deployment",
-                  "istio service mesh",
-                  "azure kubernetes service",
-                  "zero-downtime deployment",
-                  "traffic management",
-                  "rollback strategy"
-                ],
-                "related": [
-                  {
-                    "id": "C5HqbzLRYZ0",
-                    "sharedTopics": [
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh",
-                      "kubernetes"
-                    ]
-                  },
-                  {
-                    "id": "OnwiaDRj1-k",
-                    "sharedTopics": [
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh",
-                      "kubernetes"
-                    ]
-                  },
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh",
-                      "azure kubernetes service"
-                    ]
-                  },
-                  {
-                    "id": "snRi_JET1bg",
-                    "sharedTopics": [
-                      "deployment",
-                      "service",
-                      "azure kubernetes service",
-                      "azure",
-                      "kubernetes"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh",
-                      "azure"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "P_xUJi_qt-Q",
-              "title": "Advanced Architectural Synthesis",
-              "views": 29,
-              "date": "2026-02-15T15:41:25Z",
-              "category": "kubernetes",
-              "tags": [
-                "distributed systems.",
-                "cqrs",
-                "service mesh",
-                "sidecar"
-              ],
-              "detail": {
-                "summary": "This video explores the architectural evolution from monolithic systems to distributed microservices, analyzing the trade-offs of mesh infrastructure and data segregation. It examines how the transition solved organizational agility and independent scaling but introduced new challenges around distributed data management and inter-service communication complexity. The session provides a strategic trade-off analysis for building next-generation distributed systems.",
-                "takeaways": [
-                  "The monolith-to-microservices transition traded unified complexity for distributed complexity, introducing challenges in data consistency and service communication.",
-                  "Distributed data management requires accepting the loss of immediate consistency and the difficulty of cross-service data joins.",
-                  "Data segregation is a critical strategic choice that enables services to operate and persist data independently.",
-                  "Event-driven mesh architecture provides greater agility and resilience but demands careful orchestration of decoupled components."
-                ],
-                "topics": [
-                  "microservices architecture",
-                  "distributed systems",
-                  "data segregation",
-                  "service mesh",
-                  "monolith migration",
-                  "event-driven design"
-                ],
-                "related": [
-                  {
-                    "id": "QE51ybyrQDM",
-                    "sharedTopics": [
-                      "architecture",
-                      "distributed systems",
-                      "distributed",
-                      "systems",
-                      "event-driven"
-                    ]
-                  },
-                  {
-                    "id": "N4nRAfBZ3BE",
-                    "sharedTopics": [
-                      "architecture",
-                      "service",
-                      "event-driven design",
-                      "event-driven",
-                      "design"
-                    ]
-                  },
-                  {
-                    "id": "oHdhgeF4wlI",
-                    "sharedTopics": [
-                      "architecture",
-                      "distributed systems",
-                      "distributed",
-                      "systems"
-                    ]
-                  },
-                  {
-                    "id": "ORjARjbukhY",
-                    "sharedTopics": [
-                      "architecture",
-                      "service mesh",
-                      "service",
-                      "mesh"
-                    ]
-                  },
-                  {
-                    "id": "5Ztm7JNVa8E",
-                    "sharedTopics": [
-                      "architecture",
-                      "data",
-                      "event-driven"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "MIZ0ATwu7C0",
-              "title": "Architecting Meilisearch on AKS & Istio",
-              "views": 26,
-              "date": "2026-02-10T09:50:21Z",
-              "category": "kubernetes",
-              "tags": [
-                "melisearch",
-                "aks",
-                "istio"
-              ],
-              "detail": {
-                "summary": "This video provides a technical blueprint for deploying Meilisearch on Azure Kubernetes Service within an Istio service mesh, targeting sub-50ms search latency in a zero-trust mTLS environment. It addresses three core challenges: speed (Meilisearch's dependency on LMDB and Linux kernel page cache), state (single-node architecture requiring dedicated persistent block storage, incompatible with NFS/SMB), and security (reconciling Istio sidecar mTLS proxies and kubelet health probes with latency budgets).",
-                "takeaways": [
-                  "Meilisearch relies on LMDB (Lightning Memory-Mapped Database) and the Linux kernel page cache for sub-50ms query performance, making storage I/O characteristics critical.",
-                  "Shared file systems like NFS and SMB are incompatible with Meilisearch's architecture due to unacceptable latency; dedicated persistent block storage is required.",
-                  "Istio sidecar proxies and mTLS encryption add latency layers that must be carefully tuned to stay within the 50ms search latency budget.",
-                  "Kubelet health probes in a zero-trust Istio mesh require special configuration since the probes bypass the sidecar proxy by default."
-                ],
-                "topics": [
-                  "meilisearch",
-                  "azure kubernetes service",
-                  "istio service mesh",
-                  "mtls",
-                  "lmdb",
-                  "zero trust",
-                  "persistent storage"
-                ],
-                "related": [
-                  {
-                    "id": "0U-SUJCmKAU",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "zero trust",
-                      "zero",
-                      "trust",
-                      "persistent storage"
-                    ]
-                  },
-                  {
-                    "id": "BiYKKVsJROk",
-                    "sharedTopics": [
-                      "service",
-                      "istio service mesh",
-                      "istio",
-                      "mesh",
-                      "zero trust"
-                    ]
-                  },
-                  {
-                    "id": "Hd767VA7Z-0",
-                    "sharedTopics": [
-                      "azure kubernetes service",
-                      "azure",
-                      "kubernetes",
-                      "service",
-                      "istio service mesh"
-                    ]
-                  },
-                  {
-                    "id": "KpSjLQpswW4",
-                    "sharedTopics": [
-                      "azure kubernetes service",
-                      "azure",
-                      "kubernetes",
-                      "service",
-                      "zero trust"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "azure",
-                      "service",
-                      "istio service mesh",
-                      "istio",
-                      "mesh"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "0U-SUJCmKAU",
-              "title": "From Stateful to Secure",
-              "views": 46,
-              "date": "2026-01-16T06:38:21Z",
-              "category": "kubernetes",
-              "tags": [
-                "stateful",
-                "kubernetes",
-                "rabbitmq",
-                "mtls"
-              ],
-              "detail": {
-                "summary": "This video presents a four-stage blueprint for deploying, exposing, and securing RabbitMQ on Azure Kubernetes Service (AKS), progressing from foundational data persistence through reliable high-availability deployment, secure service exposure, and finally zero trust fortification. It serves as a comprehensive production journey for managing stateful workloads on Kubernetes.",
-                "takeaways": [
-                  "Stage 1 (Foundation) focuses on data persistence and storage configuration to ensure message durability and recoverability.",
-                  "Stage 2 (Architecture) designs the RabbitMQ cluster for high availability and resilience to handle real-world production demands.",
-                  "Stage 3 (Accessibility) implements secure exposure strategies that balance external connectivity with strict access control.",
-                  "Stage 4 (Fortification) applies zero trust security principles to verify every interaction within the cluster."
-                ],
-                "topics": [
-                  "rabbitmq on kubernetes",
-                  "aks",
-                  "stateful workloads",
-                  "zero trust",
-                  "persistent storage",
-                  "high availability"
-                ],
-                "related": [
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "zero trust",
-                      "zero",
-                      "trust",
-                      "persistent storage"
-                    ]
-                  },
-                  {
-                    "id": "KdLQEv3Tiiw",
-                    "sharedTopics": [
-                      "rabbitmq",
-                      "kubernetes",
-                      "stateful workloads",
-                      "stateful",
-                      "workloads"
-                    ]
-                  },
-                  {
-                    "id": "BiYKKVsJROk",
-                    "sharedTopics": [
-                      "aks",
-                      "zero trust",
-                      "zero",
-                      "trust"
-                    ]
-                  },
-                  {
-                    "id": "A4-foXsdQiA",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "zero trust",
-                      "zero",
-                      "trust"
-                    ]
-                  },
-                  {
-                    "id": "KpSjLQpswW4",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "zero trust",
-                      "zero",
-                      "trust"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "A4-foXsdQiA",
-              "title": "Securing Service-to-Service Communication in Kubernetes",
-              "views": 23,
-              "date": "2026-01-15T03:44:26Z",
-              "category": "kubernetes",
-              "tags": [
-                "rust",
-                "mtls",
-                "istio",
-                "kubernetes",
-                "aks"
-              ],
-              "detail": {
-                "summary": "This presentation traces the evolution of Kubernetes security from application-layer TLS termination to infrastructure-level zero trust, covering three pillars: identity, authorization, and integrity. It compares the \"application layer fortress\" pattern where services handle their own TLS and identity validation against service mesh approaches that offload security concerns to the infrastructure.",
-                "takeaways": [
-                  "Zero trust in microservices requires verifying every interaction through three pillars: identity (proving who you are), authorization (permission to act), and integrity (no tampering in transit).",
-                  "The application layer fortress pattern gives maximum control but burdens each service with TLS termination and identity validation logic.",
-                  "Service mesh infrastructure offloads mTLS, identity, and authorization to sidecar proxies, removing security concerns from application code.",
-                  "Network location alone cannot establish trust in distributed systems; every service must be treated as an untrusted island."
-                ],
-                "topics": [
-                  "zero trust",
-                  "mutual tls",
-                  "service mesh",
-                  "kubernetes security",
-                  "service-to-service auth",
-                  "identity verification"
-                ],
-                "related": [
-                  {
-                    "id": "BiYKKVsJROk",
-                    "sharedTopics": [
-                      "zero trust",
-                      "zero",
-                      "trust",
-                      "mutual tls",
-                      "mutual"
-                    ]
-                  },
-                  {
-                    "id": "4b-H6ZaoNUE",
-                    "sharedTopics": [
-                      "zero",
-                      "trust",
-                      "service",
-                      "mesh",
-                      "kubernetes"
-                    ]
-                  },
-                  {
-                    "id": "0NLj8g2hQNk",
-                    "sharedTopics": [
-                      "zero trust",
-                      "zero",
-                      "trust",
-                      "security",
-                      "service-to-service auth"
-                    ]
-                  },
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "zero trust",
-                      "zero",
-                      "trust",
-                      "service",
-                      "mesh"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "zero",
-                      "trust",
-                      "service",
-                      "mesh",
-                      "security"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "OnwiaDRj1-k",
-              "title": "Kubernetes Services & Istio",
-              "views": 30,
-              "date": "2026-01-13T04:31:02Z",
-              "category": "kubernetes",
-              "tags": [
-                "kubernetes",
-                "istio",
-                "service types"
-              ],
-              "detail": {
-                "summary": "This video provides a practical guide to Kubernetes service types and Istio service mesh on Azure Kubernetes Service (AKS). It covers the evolution from basic ClusterIP services to mesh-aware traffic management with Istio, explaining how each service type (ClusterIP, NodePort, LoadBalancer, ExternalName) addresses different access patterns. The session demonstrates how Istio adds observability, resilience, and fine-grained traffic control on top of native Kubernetes networking.",
-                "takeaways": [
-                  "Kubernetes services provide stable endpoints (IP + DNS) that decouple consumers from ephemeral pod lifecycles.",
-                  "The four service types (ClusterIP, NodePort, LoadBalancer, ExternalName) serve progressively broader access patterns from internal-only to external traffic.",
-                  "Istio service mesh adds mesh-aware traffic management including canary routing, circuit breaking, and mutual TLS without application code changes.",
-                  "Pod IP volatility makes direct pod-to-pod communication unreliable; services are the mandatory abstraction layer."
-                ],
-                "topics": [
-                  "kubernetes services",
-                  "istio service mesh",
-                  "aks networking",
-                  "clusterip",
-                  "traffic management",
-                  "load balancing"
-                ],
-                "related": [
-                  {
-                    "id": "C5HqbzLRYZ0",
-                    "sharedTopics": [
-                      "kubernetes services",
-                      "kubernetes",
-                      "services",
-                      "istio service mesh",
-                      "istio"
-                    ]
-                  },
-                  {
-                    "id": "Hd767VA7Z-0",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh"
-                    ]
-                  },
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh"
-                    ]
-                  },
-                  {
-                    "id": "BiYKKVsJROk",
-                    "sharedTopics": [
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh",
-                      "aks"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh",
-                      "aks"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "C5HqbzLRYZ0",
-              "title": "K8s Services  AKS & Istio",
-              "views": 13,
-              "date": "2026-01-10T16:26:22Z",
-              "category": "kubernetes",
-              "tags": [
-                "istio",
-                "aks",
-                "kubernetes"
-              ],
-              "detail": {
-                "summary": "This video explains the four standard Kubernetes service types (ClusterIP, NodePort, LoadBalancer, ExternalName) and how their role fundamentally changes when Istio service mesh is introduced on Azure Kubernetes Service. It walks through the progression from basic pod-to-pod discovery problems to sophisticated mesh-based traffic management with mTLS.",
-                "takeaways": [
-                  "Kubernetes services provide stable addressing for ephemeral pods whose IP addresses constantly change as they are created and destroyed.",
-                  "ClusterIP (default) provides internal-only addressing, NodePort exposes on every node, LoadBalancer provisions cloud infrastructure, and ExternalName maps to DNS.",
-                  "Istio service mesh transforms the role of Kubernetes services by handling mTLS, traffic management, and observability at the infrastructure layer.",
-                  "The combination of AKS and Istio moves security and routing logic out of application code into sidecar proxies managed by the mesh."
-                ],
-                "topics": [
-                  "kubernetes services",
-                  "clusterip",
-                  "istio service mesh",
-                  "aks",
-                  "service discovery",
-                  "mtls",
-                  "traffic management"
-                ],
-                "related": [
-                  {
-                    "id": "OnwiaDRj1-k",
-                    "sharedTopics": [
-                      "kubernetes services",
-                      "kubernetes",
-                      "services",
-                      "clusterip",
-                      "istio service mesh"
-                    ]
-                  },
-                  {
-                    "id": "Hd767VA7Z-0",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh"
-                    ]
-                  },
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh"
-                    ]
-                  },
-                  {
-                    "id": "BiYKKVsJROk",
-                    "sharedTopics": [
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh",
-                      "aks"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh",
-                      "aks"
-                    ]
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
           "name": "Go",
           "videos": [
             {
               "id": "-e7kvcUXxtw",
               "title": "DevSecOps on Azure Kubernetes Service",
-              "views": 19,
+              "views": 20,
               "date": "2026-04-29T21:49:39Z",
               "category": "kubernetes",
               "tags": [
@@ -6861,7 +7029,7 @@
             {
               "id": "nomIVRSBEG4",
               "title": "Consuming CDC with ScyllaDB",
-              "views": 71,
+              "views": 74,
               "date": "2026-04-18T04:36:03Z",
               "category": "kubernetes",
               "tags": [
@@ -7107,7 +7275,7 @@
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 48,
+              "views": 51,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -7312,7 +7480,7 @@
             {
               "id": "-e7kvcUXxtw",
               "title": "DevSecOps on Azure Kubernetes Service",
-              "views": 19,
+              "views": 20,
               "date": "2026-04-29T21:49:39Z",
               "category": "kubernetes",
               "tags": [
@@ -7331,7 +7499,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 49,
+              "views": 50,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -8083,6 +8251,16 @@
                     ]
                   },
                   {
+                    "id": "4YsX6tYi5x4",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "azure kubernetes service"
+                    ]
+                  },
+                  {
                     "id": "snRi_JET1bg",
                     "sharedTopics": [
                       "deployment",
@@ -8090,16 +8268,6 @@
                       "azure kubernetes service",
                       "azure",
                       "kubernetes"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh",
-                      "azure"
                     ]
                   }
                 ]
@@ -8334,7 +8502,7 @@
             {
               "id": "KdLQEv3Tiiw",
               "title": "Mastering Hybrid CDC Architectures",
-              "views": 18,
+              "views": 20,
               "date": "2026-04-08T02:45:20Z",
               "category": "kubernetes",
               "tags": [
@@ -9048,7 +9216,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 49,
+              "views": 50,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -9661,7 +9829,7 @@
             {
               "id": "nomIVRSBEG4",
               "title": "Consuming CDC with ScyllaDB",
-              "views": 71,
+              "views": 74,
               "date": "2026-04-18T04:36:03Z",
               "category": "kubernetes",
               "tags": [
@@ -10060,7 +10228,7 @@
             {
               "id": "p9LNSeAt5Zw",
               "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-              "views": 20,
+              "views": 21,
               "date": "2026-04-22T10:25:18Z",
               "category": "kubernetes",
               "tags": [
@@ -10201,9 +10369,93 @@
       ],
       "videos": [
         {
+          "id": "4YsX6tYi5x4",
+          "title": "Istio-Based Weighted Traffic Management on AKS",
+          "views": 2,
+          "date": "2026-05-06T20:43:06Z",
+          "category": "kubernetes",
+          "tags": [
+            "istio",
+            "aks",
+            "traffic"
+          ],
+          "detail": {
+            "summary": "This session presents an architectural blueprint for weighted traffic management on Azure Kubernetes Service using Istio with Envoy proxies at layer 7. It contrasts native Azure tooling like the Standard Load Balancer and Traffic Manager against Istio's application-aware routing, demonstrating precise 80/20 backend splits, deterministic session affinity via cookies, and observability through Kiali and Prometheus for canary, blue/green, and A/B deployment patterns across pod and VM backends.",
+            "takeaways": [
+              "Istio operates at layer 7 via Envoy proxies, providing HTTP-aware routing, header and cookie inspection, and declarative real-time control that DNS- and L4-level tools cannot match.",
+              "An exact 80/20 traffic split is enforced through a weight dial for new sessions, while a sticky lock pins returning users to their assigned backend via session cookies.",
+              "Azure Standard Load Balancer is constrained to layer 4 five-tuple hashing, and Azure Traffic Manager is hindered by DNS caching delays, eliminating both for application-aware shaping.",
+              "The architecture supports unified routing across both Kubernetes pod workloads and VM backends within a fully private internal AKS topology.",
+              "Weighted routing enables progressive delivery patterns including canary rollouts, blue/green deployments, A/B testing across user cohorts, and capacity-aware traffic distribution."
+            ],
+            "topics": [
+              "istio service mesh",
+              "weighted traffic shaping",
+              "azure kubernetes service",
+              "envoy layer 7 proxies",
+              "session affinity cookies",
+              "canary blue green deployments",
+              "pod and vm backends",
+              "kiali prometheus observability"
+            ],
+            "related": [
+              {
+                "id": "Hd767VA7Z-0",
+                "sharedTopics": [
+                  "istio service mesh",
+                  "istio",
+                  "service",
+                  "mesh",
+                  "traffic"
+                ]
+              },
+              {
+                "id": "MIZ0ATwu7C0",
+                "sharedTopics": [
+                  "istio service mesh",
+                  "istio",
+                  "service",
+                  "mesh",
+                  "azure kubernetes service"
+                ]
+              },
+              {
+                "id": "C5HqbzLRYZ0",
+                "sharedTopics": [
+                  "istio service mesh",
+                  "istio",
+                  "service",
+                  "mesh",
+                  "traffic"
+                ]
+              },
+              {
+                "id": "OnwiaDRj1-k",
+                "sharedTopics": [
+                  "istio service mesh",
+                  "istio",
+                  "service",
+                  "mesh",
+                  "traffic"
+                ]
+              },
+              {
+                "id": "rgY4KTMFOMs",
+                "sharedTopics": [
+                  "istio service mesh",
+                  "istio",
+                  "service",
+                  "mesh",
+                  "azure"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "-e7kvcUXxtw",
           "title": "DevSecOps on Azure Kubernetes Service",
-          "views": 19,
+          "views": 20,
           "date": "2026-04-29T21:49:39Z",
           "category": "kubernetes",
           "tags": [
@@ -10293,7 +10545,7 @@
         {
           "id": "quD4pyCwKB4",
           "title": "Enterprise Infrastructure as Code for Al Agents",
-          "views": 65,
+          "views": 66,
           "date": "2026-04-25T17:46:48Z",
           "category": "kubernetes",
           "tags": [
@@ -10374,7 +10626,7 @@
         {
           "id": "2ksi8K7wg3I",
           "title": "Kubernetes 1.36 (Haru)",
-          "views": 25,
+          "views": 41,
           "date": "2026-04-23T22:03:32Z",
           "category": "kubernetes",
           "tags": [
@@ -10517,7 +10769,7 @@
         {
           "id": "p9LNSeAt5Zw",
           "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-          "views": 20,
+          "views": 21,
           "date": "2026-04-22T10:25:18Z",
           "category": "kubernetes",
           "tags": [
@@ -10663,7 +10915,7 @@
         {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 71,
+          "views": 74,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes",
           "tags": [
@@ -10958,7 +11210,7 @@
         {
           "id": "KdLQEv3Tiiw",
           "title": "Mastering Hybrid CDC Architectures",
-          "views": 18,
+          "views": 20,
           "date": "2026-04-08T02:45:20Z",
           "category": "kubernetes",
           "tags": [
@@ -12169,7 +12421,7 @@
         {
           "id": "1PH7UB24xps",
           "title": "Architecting AKS Networking",
-          "views": 16,
+          "views": 18,
           "date": "2026-03-11T22:24:43Z",
           "category": "kubernetes",
           "tags": [
@@ -12243,6 +12495,16 @@
                 ]
               },
               {
+                "id": "4YsX6tYi5x4",
+                "sharedTopics": [
+                  "istio service mesh",
+                  "istio",
+                  "service",
+                  "mesh",
+                  "azure kubernetes service"
+                ]
+              },
+              {
                 "id": "snRi_JET1bg",
                 "sharedTopics": [
                   "deployment",
@@ -12250,16 +12512,6 @@
                   "azure kubernetes service",
                   "azure",
                   "kubernetes"
-                ]
-              },
-              {
-                "id": "rgY4KTMFOMs",
-                "sharedTopics": [
-                  "istio service mesh",
-                  "istio",
-                  "service",
-                  "mesh",
-                  "azure"
                 ]
               }
             ]
@@ -13044,7 +13296,7 @@
         {
           "id": "eI2DXGISpbk",
           "title": "BadgerDB: The Go-Native Key-Value Store",
-          "views": 48,
+          "views": 51,
           "date": "2026-02-13T00:09:38Z",
           "category": "kubernetes",
           "tags": [
@@ -13189,7 +13441,7 @@
         {
           "id": "rgY4KTMFOMs",
           "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-          "views": 49,
+          "views": 50,
           "date": "2026-02-05T14:29:16Z",
           "category": "kubernetes",
           "tags": [
@@ -14774,12 +15026,12 @@
         "programming",
         "security"
       ],
-      "videoCount": 178,
-      "totalViews": 21242,
+      "videoCount": 183,
+      "totalViews": 21771,
       "topTags": [
         {
           "tag": "rust",
-          "count": 40
+          "count": 41
         },
         {
           "tag": "zig",
@@ -14791,7 +15043,11 @@
         },
         {
           "tag": "go",
-          "count": 20
+          "count": 21
+        },
+        {
+          "tag": "service",
+          "count": 8
         },
         {
           "tag": "flutter",
@@ -14818,7 +15074,7 @@
           "count": 6
         },
         {
-          "tag": "service",
+          "tag": "axum",
           "count": 5
         },
         {
@@ -14834,7 +15090,7 @@
           "count": 5
         },
         {
-          "tag": "axum",
+          "tag": "echo",
           "count": 4
         },
         {
@@ -14852,10 +15108,6 @@
         {
           "tag": "rabbitmq",
           "count": 4
-        },
-        {
-          "tag": "gof",
-          "count": 4
         }
       ],
       "clusters": [
@@ -14863,9 +15115,90 @@
           "name": "Rust",
           "videos": [
             {
+              "id": "UOOkDh4RUbE",
+              "title": "Architecture Review: tn-file-upload",
+              "views": 18,
+              "date": "2026-05-04T23:49:00Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "axum",
+                "tonic",
+                "service",
+                "file upload"
+              ],
+              "detail": {
+                "summary": "tn-file-upload is a production-grade streaming-first gRPC file service written in Rust 1.95+ on the Tokio runtime, using tonic for gRPC and Axum as a secondary REST shim for browser SPAs. The design emphasizes bounded memory by replacing buffered REST multipart uploads with HTTP/2 multiplexed protobuf chunks, real-time SHA-256 validation, and a pluggable Arc-wrapped storage trait. It ships Kubernetes-ready with tonic health probes and graceful HTTP/2 GOAWAY shutdown.",
+                "takeaways": [
+                  "gRPC streaming over HTTP/2 multiplexing keeps server memory bounded and constant whether transferring a 1 KB file or a 100 GB payload.",
+                  "Traditional REST multipart forces the server to buffer entire request bodies in memory, scaling consumption directly with payload size.",
+                  "The service is structured into three core layers — interceptors, file upload service, and storage — plus an Axum REST shim and an isolated tonic health service.",
+                  "The interceptor layer centralizes cross-cutting concerns including UUID injection for request tracking, distributed tracing, and authentication validation.",
+                  "An `Arc<dyn Storage>` trait abstracts persistence behind the service logic, defaulting to local filesystem while remaining swappable for future backends."
+                ],
+                "topics": [
+                  "grpc streaming uploads",
+                  "bounded memory transfers",
+                  "tonic and tokio runtime",
+                  "axum rest shim",
+                  "pluggable storage trait",
+                  "sha-256 chunk validation",
+                  "kubernetes health probes",
+                  "http2 graceful shutdown"
+                ],
+                "related": [
+                  {
+                    "id": "90hw9qwXbbw",
+                    "sharedTopics": [
+                      "grpc",
+                      "tonic",
+                      "tokio",
+                      "runtime"
+                    ]
+                  },
+                  {
+                    "id": "7zFqW-ZcEbo",
+                    "sharedTopics": [
+                      "grpc",
+                      "tonic",
+                      "tokio",
+                      "runtime",
+                      "axum"
+                    ]
+                  },
+                  {
+                    "id": "L9ypC5863yA",
+                    "sharedTopics": [
+                      "grpc",
+                      "streaming",
+                      "tonic",
+                      "rest"
+                    ]
+                  },
+                  {
+                    "id": "0ttrfTfP864",
+                    "sharedTopics": [
+                      "tokio",
+                      "axum",
+                      "kubernetes"
+                    ]
+                  },
+                  {
+                    "id": "07aDX5YB-ao",
+                    "sharedTopics": [
+                      "grpc",
+                      "tonic",
+                      "axum",
+                      "trait"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "d1MH4nza95g",
               "title": "Tracing Asynchronous Rust",
-              "views": 6,
+              "views": 71,
               "date": "2026-05-03T16:24:44Z",
               "category": "development",
               "tags": [
@@ -14932,10 +15265,11 @@
                     ]
                   },
                   {
-                    "id": "0Sed1oggMKY",
+                    "id": "173Y2uPljgo",
                     "sharedTopics": [
-                      "tokio",
-                      "async"
+                      "pipeline",
+                      "context",
+                      "wrapper"
                     ]
                   }
                 ]
@@ -14944,7 +15278,7 @@
             {
               "id": "07aDX5YB-ao",
               "title": "Modular Networking Architecture in Rust",
-              "views": 18,
+              "views": 44,
               "date": "2026-05-03T06:22:41Z",
               "category": "development",
               "tags": [
@@ -15025,7 +15359,7 @@
             {
               "id": "DwAOCljoNoc",
               "title": "Hyper: The Foundation of Fast HTTP in Rust",
-              "views": 27,
+              "views": 81,
               "date": "2026-05-02T18:35:37Z",
               "category": "development",
               "tags": [
@@ -15103,7 +15437,7 @@
             {
               "id": "90hw9qwXbbw",
               "title": "Architecting with Tonic",
-              "views": 45,
+              "views": 140,
               "date": "2026-05-02T09:48:38Z",
               "category": "development",
               "tags": [
@@ -15186,7 +15520,7 @@
             {
               "id": "J4iGUAXcAOA",
               "title": "The Axum Web Framework",
-              "views": 22,
+              "views": 41,
               "date": "2026-05-01T22:55:53Z",
               "category": "development",
               "tags": [
@@ -15262,7 +15596,7 @@
             {
               "id": "EWwk29GzHgg",
               "title": "Architecting the Next Evolution of the Local Database",
-              "views": 117,
+              "views": 124,
               "date": "2026-04-27T08:39:23Z",
               "category": "development",
               "tags": [
@@ -15337,7 +15671,7 @@
             {
               "id": "L9ypC5863yA",
               "title": "The Microservices Communication Playbook",
-              "views": 120,
+              "views": 121,
               "date": "2026-04-24T20:19:57Z",
               "category": "development",
               "tags": [
@@ -15394,19 +15728,20 @@
                     ]
                   },
                   {
+                    "id": "UOOkDh4RUbE",
+                    "sharedTopics": [
+                      "rest",
+                      "grpc",
+                      "streaming",
+                      "tonic"
+                    ]
+                  },
+                  {
                     "id": "07aDX5YB-ao",
                     "sharedTopics": [
                       "grpc",
                       "http",
                       "patterns",
-                      "tonic"
-                    ]
-                  },
-                  {
-                    "id": "7zFqW-ZcEbo",
-                    "sharedTopics": [
-                      "grpc",
-                      "serialization",
                       "tonic"
                     ]
                   }
@@ -15774,7 +16109,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4152,
+              "views": 4158,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -16006,7 +16341,7 @@
             {
               "id": "vep9hSKc9I0",
               "title": "Dial9 Demo - Deep Observability in Async Rust",
-              "views": 110,
+              "views": 111,
               "date": "2026-03-22T10:40:21Z",
               "category": "development",
               "tags": [
@@ -16084,7 +16419,7 @@
             {
               "id": "lY5TU8qHduM",
               "title": "The Flight Recorder for Tokio",
-              "views": 26,
+              "views": 27,
               "date": "2026-03-20T22:45:15Z",
               "category": "development",
               "tags": [
@@ -16231,7 +16566,7 @@
             {
               "id": "_zJ3_d1CODg",
               "title": "Bevy-Demo",
-              "views": 131,
+              "views": 132,
               "date": "2026-03-19T00:18:34Z",
               "category": "development",
               "tags": [
@@ -16828,7 +17163,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 93,
+              "views": 94,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -16892,7 +17227,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 375,
+              "views": 383,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -17035,7 +17370,7 @@
             {
               "id": "0Sed1oggMKY",
               "title": "Tokio: The Asynchronous Runtime for Rust",
-              "views": 86,
+              "views": 87,
               "date": "2026-02-08T20:27:32Z",
               "category": "development",
               "tags": [
@@ -18186,7 +18521,7 @@
             {
               "id": "BQ4wab0UtLg",
               "title": "From Louvain to Leiden",
-              "views": 23,
+              "views": 26,
               "date": "2026-04-26T15:40:42Z",
               "category": "development",
               "tags": [
@@ -18258,7 +18593,7 @@
             {
               "id": "yAeM2vpPWeM",
               "title": "Design for Deletion",
-              "views": 152,
+              "views": 154,
               "date": "2026-04-25T10:56:42Z",
               "category": "development",
               "tags": [
@@ -18337,7 +18672,7 @@
             {
               "id": "xvqZFPf5X60",
               "title": "TanStack Al Composes the Modern Audio Stack",
-              "views": 67,
+              "views": 68,
               "date": "2026-04-25T07:46:26Z",
               "category": "development",
               "tags": [
@@ -18554,7 +18889,7 @@
             {
               "id": "pgTCcVO4gfg",
               "title": "The 10k LOC Sweet Spot",
-              "views": 14,
+              "views": 15,
               "date": "2026-04-21T22:18:41Z",
               "category": "development",
               "tags": [
@@ -18622,7 +18957,7 @@
             {
               "id": "q-6cUColzQQ",
               "title": "Flutter Web Explained",
-              "views": 28,
+              "views": 30,
               "date": "2026-04-18T12:37:49Z",
               "category": "development",
               "tags": [
@@ -18691,7 +19026,7 @@
             {
               "id": "E8f87EV4k3A",
               "title": "A Compiler, Not a Renderer",
-              "views": 148,
+              "views": 151,
               "date": "2026-04-17T12:06:22Z",
               "category": "development",
               "tags": [
@@ -18901,7 +19236,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 128,
+              "views": 132,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -18977,7 +19312,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2614,
+              "views": 2623,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -19051,7 +19386,7 @@
             {
               "id": "fv61JXUCbeo",
               "title": "Stitch Agent Skills",
-              "views": 272,
+              "views": 273,
               "date": "2026-04-05T21:24:52Z",
               "category": "development",
               "tags": [
@@ -19210,7 +19545,7 @@
             {
               "id": "z2SA6P7WNoc",
               "title": "Reasoning Under Uncertainty",
-              "views": 157,
+              "views": 158,
               "date": "2026-04-03T22:11:58Z",
               "category": "development",
               "tags": [
@@ -19555,7 +19890,7 @@
             {
               "id": "0HEqwk9UMOc",
               "title": "How to Kill the Code Review",
-              "views": 139,
+              "views": 141,
               "date": "2026-03-18T11:10:57Z",
               "category": "development",
               "tags": [
@@ -20045,7 +20380,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 663,
+              "views": 666,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -20889,9 +21224,26 @@
           "name": "Go",
           "videos": [
             {
+              "id": "QOYXBkMcnYk",
+              "title": "The Echo Web Framework",
+              "views": 30,
+              "date": "2026-05-04T02:03:06Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "echo",
+                "service"
+              ],
+              "detail": {
+                "summary": "*Pending LLM enrichment from raw transcript.*",
+                "takeaways": [],
+                "topics": []
+              }
+            },
+            {
               "id": "yAeM2vpPWeM",
               "title": "Design for Deletion",
-              "views": 152,
+              "views": 154,
               "date": "2026-04-25T10:56:42Z",
               "category": "development",
               "tags": [
@@ -20970,7 +21322,7 @@
             {
               "id": "L9ypC5863yA",
               "title": "The Microservices Communication Playbook",
-              "views": 120,
+              "views": 121,
               "date": "2026-04-24T20:19:57Z",
               "category": "development",
               "tags": [
@@ -21027,19 +21379,20 @@
                     ]
                   },
                   {
+                    "id": "UOOkDh4RUbE",
+                    "sharedTopics": [
+                      "rest",
+                      "grpc",
+                      "streaming",
+                      "tonic"
+                    ]
+                  },
+                  {
                     "id": "07aDX5YB-ao",
                     "sharedTopics": [
                       "grpc",
                       "http",
                       "patterns",
-                      "tonic"
-                    ]
-                  },
-                  {
-                    "id": "7zFqW-ZcEbo",
-                    "sharedTopics": [
-                      "grpc",
-                      "serialization",
                       "tonic"
                     ]
                   }
@@ -21121,7 +21474,7 @@
             {
               "id": "MuDJGnGTn3k",
               "title": "Leetgo",
-              "views": 56,
+              "views": 57,
               "date": "2026-04-09T09:55:24Z",
               "category": "development",
               "tags": [
@@ -21189,7 +21542,7 @@
             {
               "id": "IYfTi_HNDl4",
               "title": "Building Production-Grade RabbitMQ in Go",
-              "views": 76,
+              "views": 77,
               "date": "2026-04-06T22:28:09Z",
               "category": "development",
               "tags": [
@@ -21403,7 +21756,7 @@
             {
               "id": "yCJDmGrk8sM",
               "title": "Advancing Go Garbage Collection with Green Tea",
-              "views": 151,
+              "views": 152,
               "date": "2026-03-24T22:59:50Z",
               "category": "development",
               "tags": [
@@ -21623,7 +21976,7 @@
             {
               "id": "CXtHwJQphLI",
               "title": "Production-Ready RabbitMQ in Go",
-              "views": 92,
+              "views": 93,
               "date": "2026-03-20T03:40:50Z",
               "category": "development",
               "tags": [
@@ -21704,7 +22057,7 @@
             {
               "id": "0HEqwk9UMOc",
               "title": "How to Kill the Code Review",
-              "views": 139,
+              "views": 141,
               "date": "2026-03-18T11:10:57Z",
               "category": "development",
               "tags": [
@@ -21878,6 +22231,14 @@
                     ]
                   },
                   {
+                    "id": "173Y2uPljgo",
+                    "sharedTopics": [
+                      "http",
+                      "context",
+                      "dependency"
+                    ]
+                  },
+                  {
                     "id": "tyR8SdHpOeY",
                     "sharedTopics": [
                       "library",
@@ -21889,13 +22250,6 @@
                     "sharedTopics": [
                       "patterns",
                       "dependency"
-                    ]
-                  },
-                  {
-                    "id": "wyIhJ3LMnRg",
-                    "sharedTopics": [
-                      "http",
-                      "context"
                     ]
                   }
                 ]
@@ -22499,7 +22853,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 781,
+              "views": 795,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -22570,7 +22924,7 @@
             {
               "id": "Qo3oJv4uyBI",
               "title": "High-Performance Go: Inside the 1.26 Release",
-              "views": 196,
+              "views": 198,
               "date": "2026-02-12T13:08:12Z",
               "category": "development",
               "tags": [
@@ -22920,9 +23274,237 @@
           "name": "Architecture",
           "videos": [
             {
+              "id": "eJlXFaZNP6g",
+              "title": "TigerStyle: The Architecture of Elegance",
+              "views": 25,
+              "date": "2026-05-06T02:19:03Z",
+              "category": "development",
+              "tags": [
+                "tigerstyle",
+                "tigerbeetle",
+                "safety",
+                "performance",
+                "dx"
+              ],
+              "detail": {
+                "summary": "TigerStyle is presented as a disciplined software engineering philosophy that treats style as design, prioritizing safety, performance, and developer experience as three load-bearing pillars in that strict order. The session frames a zero technical debt mandate where rigorous upfront design — informed by NASA's Power of Ten rules and explicit control flow — is shown to dramatically reduce production fix costs compared to standard development trajectories.",
+                "takeaways": [
+                  "Style is treated as design rather than aesthetics, fusing engineering rigor with artistic intuition into what the speaker calls biodigital jazz.",
+                  "An hour invested in design is positioned as worth months of production cost, motivating a zero technical debt mandate enforced at the design phase.",
+                  "Safety, performance, and developer experience are ranked in a strict descending hierarchy so that fundamental security is never sacrificed for speed or convenience.",
+                  "Memory latency spikes and exponential algorithms are categorically prohibited from shipping, reflecting a non-negotiable reliability bar.",
+                  "The Power of Ten rules anchor the safety pillar, with explicit control flow valued over cleverness to keep logic auditable and resistant to hidden errors."
+                ],
+                "topics": [
+                  "tigerstyle philosophy",
+                  "zero technical debt mandate",
+                  "power of ten rules",
+                  "explicit control flow",
+                  "safety performance hierarchy",
+                  "developer experience pillar",
+                  "biodigital jazz design",
+                  "production fix cost curve"
+                ],
+                "related": [
+                  {
+                    "id": "yAeM2vpPWeM",
+                    "sharedTopics": [
+                      "technical",
+                      "debt",
+                      "design"
+                    ]
+                  },
+                  {
+                    "id": "IF5sNQH-01c",
+                    "sharedTopics": [
+                      "flow",
+                      "design"
+                    ]
+                  },
+                  {
+                    "id": "5-ZNXQegVhs",
+                    "sharedTopics": [
+                      "production",
+                      "cost"
+                    ]
+                  },
+                  {
+                    "id": "o9yaniXkM-0",
+                    "sharedTopics": [
+                      "performance",
+                      "design"
+                    ]
+                  },
+                  {
+                    "id": "DCGTYftRGWE",
+                    "sharedTopics": [
+                      "performance",
+                      "design"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "UOOkDh4RUbE",
+              "title": "Architecture Review: tn-file-upload",
+              "views": 18,
+              "date": "2026-05-04T23:49:00Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "axum",
+                "tonic",
+                "service",
+                "file upload"
+              ],
+              "detail": {
+                "summary": "tn-file-upload is a production-grade streaming-first gRPC file service written in Rust 1.95+ on the Tokio runtime, using tonic for gRPC and Axum as a secondary REST shim for browser SPAs. The design emphasizes bounded memory by replacing buffered REST multipart uploads with HTTP/2 multiplexed protobuf chunks, real-time SHA-256 validation, and a pluggable Arc-wrapped storage trait. It ships Kubernetes-ready with tonic health probes and graceful HTTP/2 GOAWAY shutdown.",
+                "takeaways": [
+                  "gRPC streaming over HTTP/2 multiplexing keeps server memory bounded and constant whether transferring a 1 KB file or a 100 GB payload.",
+                  "Traditional REST multipart forces the server to buffer entire request bodies in memory, scaling consumption directly with payload size.",
+                  "The service is structured into three core layers — interceptors, file upload service, and storage — plus an Axum REST shim and an isolated tonic health service.",
+                  "The interceptor layer centralizes cross-cutting concerns including UUID injection for request tracking, distributed tracing, and authentication validation.",
+                  "An `Arc<dyn Storage>` trait abstracts persistence behind the service logic, defaulting to local filesystem while remaining swappable for future backends."
+                ],
+                "topics": [
+                  "grpc streaming uploads",
+                  "bounded memory transfers",
+                  "tonic and tokio runtime",
+                  "axum rest shim",
+                  "pluggable storage trait",
+                  "sha-256 chunk validation",
+                  "kubernetes health probes",
+                  "http2 graceful shutdown"
+                ],
+                "related": [
+                  {
+                    "id": "90hw9qwXbbw",
+                    "sharedTopics": [
+                      "grpc",
+                      "tonic",
+                      "tokio",
+                      "runtime"
+                    ]
+                  },
+                  {
+                    "id": "7zFqW-ZcEbo",
+                    "sharedTopics": [
+                      "grpc",
+                      "tonic",
+                      "tokio",
+                      "runtime",
+                      "axum"
+                    ]
+                  },
+                  {
+                    "id": "L9ypC5863yA",
+                    "sharedTopics": [
+                      "grpc",
+                      "streaming",
+                      "tonic",
+                      "rest"
+                    ]
+                  },
+                  {
+                    "id": "0ttrfTfP864",
+                    "sharedTopics": [
+                      "tokio",
+                      "axum",
+                      "kubernetes"
+                    ]
+                  },
+                  {
+                    "id": "07aDX5YB-ao",
+                    "sharedTopics": [
+                      "grpc",
+                      "tonic",
+                      "axum",
+                      "trait"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "173Y2uPljgo",
+              "title": "The NestJS Architecture Blueprint",
+              "views": 31,
+              "date": "2026-05-04T11:44:35Z",
+              "category": "development",
+              "tags": [
+                "typescript",
+                "nestjs",
+                "service"
+              ],
+              "detail": {
+                "summary": "This blueprint dissects the internal architecture of NestJS, showing how a metadata-driven core powered by `reflect-metadata` and decorators turns plain TypeScript classes into controllers, providers, and enhancers wired through dependency injection. It walks through the Nest container's module graph, request execution pipeline, platform-agnostic HTTP adapters (Express and Fastify), WebSocket gateways, and microservice transports such as gRPC, Kafka, RabbitMQ, NATS, Redis, and TCP. The result is a unified hybrid runtime where REST, real-time, and event-driven protocols share a single DI container and execution pipeline.",
+                "takeaways": [
+                  "Decorators store routing, injection, and enhancer metadata via `reflect.defineMetadata`, letting the dependency scanner and router explorer build the application's object graph automatically.",
+                  "The Nest container manages a topology tree with a lazy module loader and resolves instances through wrapper scopes that are static, request-scoped, or transient.",
+                  "The request pipeline flows deterministically through middleware, guards, interceptors (pre), pipes, the controller handler, post-controller interceptors like `ClassSerializerInterceptor`, and finally the router response controller.",
+                  "A pluggable HTTP adapter swaps between `platform-express` for ecosystem reach and `platform-fastify` for raw throughput with schema-driven validation.",
+                  "Microservice transports share a `ClientProxyFactory` and abstract server, with serializers and deserializers translating between internal `IncomingRequest`/`ReadPacket` schemas and wire formats for Kafka, MQTT, NATS, Redis, RabbitMQ, gRPC, and TCP.",
+                  "A unified exception zone funnels HTTP, RPC, and runtime errors through dispatchers into a base exception filter that produces consistent, secure client responses."
+                ],
+                "topics": [
+                  "metadata reflection decorators",
+                  "dependency injection container",
+                  "module topology tree",
+                  "instance wrapper scopes",
+                  "request execution pipeline",
+                  "platform-agnostic http adapters",
+                  "websocket gateway context",
+                  "microservice transport matrix",
+                  "hybrid protocol application"
+                ],
+                "related": [
+                  {
+                    "id": "oxNF_GNuWpE",
+                    "sharedTopics": [
+                      "dependency",
+                      "http",
+                      "context"
+                    ]
+                  },
+                  {
+                    "id": "DazzkNtnzec",
+                    "sharedTopics": [
+                      "decorators",
+                      "dependency",
+                      "injection"
+                    ]
+                  },
+                  {
+                    "id": "T-NdEF6btbg",
+                    "sharedTopics": [
+                      "execution",
+                      "context",
+                      "protocol"
+                    ]
+                  },
+                  {
+                    "id": "9oSUtndLto4",
+                    "sharedTopics": [
+                      "context",
+                      "protocol"
+                    ]
+                  },
+                  {
+                    "id": "d1MH4nza95g",
+                    "sharedTopics": [
+                      "wrapper",
+                      "pipeline",
+                      "context"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "07aDX5YB-ao",
               "title": "Modular Networking Architecture in Rust",
-              "views": 18,
+              "views": 44,
               "date": "2026-05-03T06:22:41Z",
               "category": "development",
               "tags": [
@@ -23003,7 +23585,7 @@
             {
               "id": "oqi_jJl3tAQ",
               "title": "The Push Architecture Blueprint",
-              "views": 32,
+              "views": 35,
               "date": "2026-04-30T09:17:45Z",
               "category": "development",
               "tags": [
@@ -23079,7 +23661,7 @@
             {
               "id": "GERT8PoS9Qk",
               "title": "The Architecture of Similarity",
-              "views": 19,
+              "views": 21,
               "date": "2026-04-29T12:35:21Z",
               "category": "development",
               "detail": {
@@ -23147,7 +23729,7 @@
             {
               "id": "R3n8UxyD7mc",
               "title": "The Architecture of Systemic Decoupling",
-              "views": 50,
+              "views": 54,
               "date": "2026-04-27T22:23:45Z",
               "category": "development",
               "tags": [
@@ -23230,7 +23812,7 @@
             {
               "id": "L9ypC5863yA",
               "title": "The Microservices Communication Playbook",
-              "views": 120,
+              "views": 121,
               "date": "2026-04-24T20:19:57Z",
               "category": "development",
               "tags": [
@@ -23287,19 +23869,20 @@
                     ]
                   },
                   {
+                    "id": "UOOkDh4RUbE",
+                    "sharedTopics": [
+                      "rest",
+                      "grpc",
+                      "streaming",
+                      "tonic"
+                    ]
+                  },
+                  {
                     "id": "07aDX5YB-ao",
                     "sharedTopics": [
                       "grpc",
                       "http",
                       "patterns",
-                      "tonic"
-                    ]
-                  },
-                  {
-                    "id": "7zFqW-ZcEbo",
-                    "sharedTopics": [
-                      "grpc",
-                      "serialization",
                       "tonic"
                     ]
                   }
@@ -23386,7 +23969,7 @@
             {
               "id": "wKzz0jKiScM",
               "title": "Emacs Architecture, Neovim Philosophy",
-              "views": 275,
+              "views": 277,
               "date": "2026-04-19T22:51:25Z",
               "category": "development",
               "tags": [
@@ -23528,7 +24111,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4152,
+              "views": 4158,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -23838,7 +24421,7 @@
             {
               "id": "IZX3_9rZeMU",
               "title": "The Hybrid TUI Architecture",
-              "views": 543,
+              "views": 545,
               "date": "2026-02-10T10:11:11Z",
               "category": "development",
               "tags": [
@@ -23920,9 +24503,27 @@
           "name": "Data & Databases",
           "videos": [
             {
+              "id": "E30riOZ-YVo",
+              "title": "The Architect's ORM Blueprint",
+              "views": 27,
+              "date": "2026-05-05T06:35:36Z",
+              "category": "development",
+              "tags": [
+                "orm",
+                "database",
+                "code first",
+                "schema first"
+              ],
+              "detail": {
+                "summary": "*Pending LLM enrichment from raw transcript.*",
+                "takeaways": [],
+                "topics": []
+              }
+            },
+            {
               "id": "EWwk29GzHgg",
               "title": "Architecting the Next Evolution of the Local Database",
-              "views": 117,
+              "views": 124,
               "date": "2026-04-27T08:39:23Z",
               "category": "development",
               "tags": [
@@ -24291,7 +24892,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 93,
+              "views": 94,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -24504,7 +25105,7 @@
             {
               "id": "IYfTi_HNDl4",
               "title": "Building Production-Grade RabbitMQ in Go",
-              "views": 76,
+              "views": 77,
               "date": "2026-04-06T22:28:09Z",
               "category": "development",
               "tags": [
@@ -24659,7 +25260,7 @@
             {
               "id": "wyIhJ3LMnRg",
               "title": "W3C Trace Context",
-              "views": 39,
+              "views": 38,
               "date": "2026-03-21T13:19:14Z",
               "category": "development",
               "tags": [
@@ -24734,7 +25335,7 @@
             {
               "id": "CXtHwJQphLI",
               "title": "Production-Ready RabbitMQ in Go",
-              "views": 92,
+              "views": 93,
               "date": "2026-03-20T03:40:50Z",
               "category": "development",
               "tags": [
@@ -25285,9 +25886,272 @@
       ],
       "videos": [
         {
+          "id": "eJlXFaZNP6g",
+          "title": "TigerStyle: The Architecture of Elegance",
+          "views": 25,
+          "date": "2026-05-06T02:19:03Z",
+          "category": "development",
+          "tags": [
+            "tigerstyle",
+            "tigerbeetle",
+            "safety",
+            "performance",
+            "dx"
+          ],
+          "detail": {
+            "summary": "TigerStyle is presented as a disciplined software engineering philosophy that treats style as design, prioritizing safety, performance, and developer experience as three load-bearing pillars in that strict order. The session frames a zero technical debt mandate where rigorous upfront design — informed by NASA's Power of Ten rules and explicit control flow — is shown to dramatically reduce production fix costs compared to standard development trajectories.",
+            "takeaways": [
+              "Style is treated as design rather than aesthetics, fusing engineering rigor with artistic intuition into what the speaker calls biodigital jazz.",
+              "An hour invested in design is positioned as worth months of production cost, motivating a zero technical debt mandate enforced at the design phase.",
+              "Safety, performance, and developer experience are ranked in a strict descending hierarchy so that fundamental security is never sacrificed for speed or convenience.",
+              "Memory latency spikes and exponential algorithms are categorically prohibited from shipping, reflecting a non-negotiable reliability bar.",
+              "The Power of Ten rules anchor the safety pillar, with explicit control flow valued over cleverness to keep logic auditable and resistant to hidden errors."
+            ],
+            "topics": [
+              "tigerstyle philosophy",
+              "zero technical debt mandate",
+              "power of ten rules",
+              "explicit control flow",
+              "safety performance hierarchy",
+              "developer experience pillar",
+              "biodigital jazz design",
+              "production fix cost curve"
+            ],
+            "related": [
+              {
+                "id": "yAeM2vpPWeM",
+                "sharedTopics": [
+                  "technical",
+                  "debt",
+                  "design"
+                ]
+              },
+              {
+                "id": "IF5sNQH-01c",
+                "sharedTopics": [
+                  "flow",
+                  "design"
+                ]
+              },
+              {
+                "id": "5-ZNXQegVhs",
+                "sharedTopics": [
+                  "production",
+                  "cost"
+                ]
+              },
+              {
+                "id": "o9yaniXkM-0",
+                "sharedTopics": [
+                  "performance",
+                  "design"
+                ]
+              },
+              {
+                "id": "DCGTYftRGWE",
+                "sharedTopics": [
+                  "performance",
+                  "design"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "E30riOZ-YVo",
+          "title": "The Architect's ORM Blueprint",
+          "views": 27,
+          "date": "2026-05-05T06:35:36Z",
+          "category": "development",
+          "tags": [
+            "orm",
+            "database",
+            "code first",
+            "schema first"
+          ],
+          "detail": {
+            "summary": "*Pending LLM enrichment from raw transcript.*",
+            "takeaways": [],
+            "topics": []
+          }
+        },
+        {
+          "id": "UOOkDh4RUbE",
+          "title": "Architecture Review: tn-file-upload",
+          "views": 18,
+          "date": "2026-05-04T23:49:00Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "axum",
+            "tonic",
+            "service",
+            "file upload"
+          ],
+          "detail": {
+            "summary": "tn-file-upload is a production-grade streaming-first gRPC file service written in Rust 1.95+ on the Tokio runtime, using tonic for gRPC and Axum as a secondary REST shim for browser SPAs. The design emphasizes bounded memory by replacing buffered REST multipart uploads with HTTP/2 multiplexed protobuf chunks, real-time SHA-256 validation, and a pluggable Arc-wrapped storage trait. It ships Kubernetes-ready with tonic health probes and graceful HTTP/2 GOAWAY shutdown.",
+            "takeaways": [
+              "gRPC streaming over HTTP/2 multiplexing keeps server memory bounded and constant whether transferring a 1 KB file or a 100 GB payload.",
+              "Traditional REST multipart forces the server to buffer entire request bodies in memory, scaling consumption directly with payload size.",
+              "The service is structured into three core layers — interceptors, file upload service, and storage — plus an Axum REST shim and an isolated tonic health service.",
+              "The interceptor layer centralizes cross-cutting concerns including UUID injection for request tracking, distributed tracing, and authentication validation.",
+              "An `Arc<dyn Storage>` trait abstracts persistence behind the service logic, defaulting to local filesystem while remaining swappable for future backends."
+            ],
+            "topics": [
+              "grpc streaming uploads",
+              "bounded memory transfers",
+              "tonic and tokio runtime",
+              "axum rest shim",
+              "pluggable storage trait",
+              "sha-256 chunk validation",
+              "kubernetes health probes",
+              "http2 graceful shutdown"
+            ],
+            "related": [
+              {
+                "id": "90hw9qwXbbw",
+                "sharedTopics": [
+                  "grpc",
+                  "tonic",
+                  "tokio",
+                  "runtime"
+                ]
+              },
+              {
+                "id": "7zFqW-ZcEbo",
+                "sharedTopics": [
+                  "grpc",
+                  "tonic",
+                  "tokio",
+                  "runtime",
+                  "axum"
+                ]
+              },
+              {
+                "id": "L9ypC5863yA",
+                "sharedTopics": [
+                  "grpc",
+                  "streaming",
+                  "tonic",
+                  "rest"
+                ]
+              },
+              {
+                "id": "0ttrfTfP864",
+                "sharedTopics": [
+                  "tokio",
+                  "axum",
+                  "kubernetes"
+                ]
+              },
+              {
+                "id": "07aDX5YB-ao",
+                "sharedTopics": [
+                  "grpc",
+                  "tonic",
+                  "axum",
+                  "trait"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "173Y2uPljgo",
+          "title": "The NestJS Architecture Blueprint",
+          "views": 31,
+          "date": "2026-05-04T11:44:35Z",
+          "category": "development",
+          "tags": [
+            "typescript",
+            "nestjs",
+            "service"
+          ],
+          "detail": {
+            "summary": "This blueprint dissects the internal architecture of NestJS, showing how a metadata-driven core powered by `reflect-metadata` and decorators turns plain TypeScript classes into controllers, providers, and enhancers wired through dependency injection. It walks through the Nest container's module graph, request execution pipeline, platform-agnostic HTTP adapters (Express and Fastify), WebSocket gateways, and microservice transports such as gRPC, Kafka, RabbitMQ, NATS, Redis, and TCP. The result is a unified hybrid runtime where REST, real-time, and event-driven protocols share a single DI container and execution pipeline.",
+            "takeaways": [
+              "Decorators store routing, injection, and enhancer metadata via `reflect.defineMetadata`, letting the dependency scanner and router explorer build the application's object graph automatically.",
+              "The Nest container manages a topology tree with a lazy module loader and resolves instances through wrapper scopes that are static, request-scoped, or transient.",
+              "The request pipeline flows deterministically through middleware, guards, interceptors (pre), pipes, the controller handler, post-controller interceptors like `ClassSerializerInterceptor`, and finally the router response controller.",
+              "A pluggable HTTP adapter swaps between `platform-express` for ecosystem reach and `platform-fastify` for raw throughput with schema-driven validation.",
+              "Microservice transports share a `ClientProxyFactory` and abstract server, with serializers and deserializers translating between internal `IncomingRequest`/`ReadPacket` schemas and wire formats for Kafka, MQTT, NATS, Redis, RabbitMQ, gRPC, and TCP.",
+              "A unified exception zone funnels HTTP, RPC, and runtime errors through dispatchers into a base exception filter that produces consistent, secure client responses."
+            ],
+            "topics": [
+              "metadata reflection decorators",
+              "dependency injection container",
+              "module topology tree",
+              "instance wrapper scopes",
+              "request execution pipeline",
+              "platform-agnostic http adapters",
+              "websocket gateway context",
+              "microservice transport matrix",
+              "hybrid protocol application"
+            ],
+            "related": [
+              {
+                "id": "oxNF_GNuWpE",
+                "sharedTopics": [
+                  "dependency",
+                  "http",
+                  "context"
+                ]
+              },
+              {
+                "id": "DazzkNtnzec",
+                "sharedTopics": [
+                  "decorators",
+                  "dependency",
+                  "injection"
+                ]
+              },
+              {
+                "id": "T-NdEF6btbg",
+                "sharedTopics": [
+                  "execution",
+                  "context",
+                  "protocol"
+                ]
+              },
+              {
+                "id": "9oSUtndLto4",
+                "sharedTopics": [
+                  "context",
+                  "protocol"
+                ]
+              },
+              {
+                "id": "d1MH4nza95g",
+                "sharedTopics": [
+                  "wrapper",
+                  "pipeline",
+                  "context"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "QOYXBkMcnYk",
+          "title": "The Echo Web Framework",
+          "views": 30,
+          "date": "2026-05-04T02:03:06Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "echo",
+            "service"
+          ],
+          "detail": {
+            "summary": "*Pending LLM enrichment from raw transcript.*",
+            "takeaways": [],
+            "topics": []
+          }
+        },
+        {
           "id": "d1MH4nza95g",
           "title": "Tracing Asynchronous Rust",
-          "views": 6,
+          "views": 71,
           "date": "2026-05-03T16:24:44Z",
           "category": "development",
           "tags": [
@@ -25354,10 +26218,11 @@
                 ]
               },
               {
-                "id": "0Sed1oggMKY",
+                "id": "173Y2uPljgo",
                 "sharedTopics": [
-                  "tokio",
-                  "async"
+                  "pipeline",
+                  "context",
+                  "wrapper"
                 ]
               }
             ]
@@ -25366,7 +26231,7 @@
         {
           "id": "07aDX5YB-ao",
           "title": "Modular Networking Architecture in Rust",
-          "views": 18,
+          "views": 44,
           "date": "2026-05-03T06:22:41Z",
           "category": "development",
           "tags": [
@@ -25447,7 +26312,7 @@
         {
           "id": "DwAOCljoNoc",
           "title": "Hyper: The Foundation of Fast HTTP in Rust",
-          "views": 27,
+          "views": 81,
           "date": "2026-05-02T18:35:37Z",
           "category": "development",
           "tags": [
@@ -25525,7 +26390,7 @@
         {
           "id": "90hw9qwXbbw",
           "title": "Architecting with Tonic",
-          "views": 45,
+          "views": 140,
           "date": "2026-05-02T09:48:38Z",
           "category": "development",
           "tags": [
@@ -25608,7 +26473,7 @@
         {
           "id": "J4iGUAXcAOA",
           "title": "The Axum Web Framework",
-          "views": 22,
+          "views": 41,
           "date": "2026-05-01T22:55:53Z",
           "category": "development",
           "tags": [
@@ -25684,7 +26549,7 @@
         {
           "id": "xlwu0YwE3_Q",
           "title": "The Compensating Transaction Pattern",
-          "views": 12,
+          "views": 13,
           "date": "2026-04-30T22:19:52Z",
           "category": "development",
           "tags": [
@@ -25764,7 +26629,7 @@
         {
           "id": "oqi_jJl3tAQ",
           "title": "The Push Architecture Blueprint",
-          "views": 32,
+          "views": 35,
           "date": "2026-04-30T09:17:45Z",
           "category": "development",
           "tags": [
@@ -25840,7 +26705,7 @@
         {
           "id": "GERT8PoS9Qk",
           "title": "The Architecture of Similarity",
-          "views": 19,
+          "views": 21,
           "date": "2026-04-29T12:35:21Z",
           "category": "development",
           "detail": {
@@ -25908,7 +26773,7 @@
         {
           "id": "4aAyFYemYD8",
           "title": "The Strangler Fig Pattern",
-          "views": 36,
+          "views": 37,
           "date": "2026-04-29T00:49:39Z",
           "category": "development",
           "tags": [
@@ -26056,7 +26921,7 @@
         {
           "id": "R3n8UxyD7mc",
           "title": "The Architecture of Systemic Decoupling",
-          "views": 50,
+          "views": 54,
           "date": "2026-04-27T22:23:45Z",
           "category": "development",
           "tags": [
@@ -26139,7 +27004,7 @@
         {
           "id": "EWwk29GzHgg",
           "title": "Architecting the Next Evolution of the Local Database",
-          "views": 117,
+          "views": 124,
           "date": "2026-04-27T08:39:23Z",
           "category": "development",
           "tags": [
@@ -26214,7 +27079,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 23,
+          "views": 26,
           "date": "2026-04-26T15:40:42Z",
           "category": "development",
           "tags": [
@@ -26286,7 +27151,7 @@
         {
           "id": "yAeM2vpPWeM",
           "title": "Design for Deletion",
-          "views": 152,
+          "views": 154,
           "date": "2026-04-25T10:56:42Z",
           "category": "development",
           "tags": [
@@ -26365,7 +27230,7 @@
         {
           "id": "xvqZFPf5X60",
           "title": "TanStack Al Composes the Modern Audio Stack",
-          "views": 67,
+          "views": 68,
           "date": "2026-04-25T07:46:26Z",
           "category": "development",
           "tags": [
@@ -26510,7 +27375,7 @@
         {
           "id": "L9ypC5863yA",
           "title": "The Microservices Communication Playbook",
-          "views": 120,
+          "views": 121,
           "date": "2026-04-24T20:19:57Z",
           "category": "development",
           "tags": [
@@ -26567,19 +27432,20 @@
                 ]
               },
               {
+                "id": "UOOkDh4RUbE",
+                "sharedTopics": [
+                  "rest",
+                  "grpc",
+                  "streaming",
+                  "tonic"
+                ]
+              },
+              {
                 "id": "07aDX5YB-ao",
                 "sharedTopics": [
                   "grpc",
                   "http",
                   "patterns",
-                  "tonic"
-                ]
-              },
-              {
-                "id": "7zFqW-ZcEbo",
-                "sharedTopics": [
-                  "grpc",
-                  "serialization",
                   "tonic"
                 ]
               }
@@ -26737,7 +27603,7 @@
         {
           "id": "pgTCcVO4gfg",
           "title": "The 10k LOC Sweet Spot",
-          "views": 14,
+          "views": 15,
           "date": "2026-04-21T22:18:41Z",
           "category": "development",
           "tags": [
@@ -26951,7 +27817,7 @@
         {
           "id": "vtzEOYX_8k8",
           "title": "Packet Capture Fundamentals",
-          "views": 41,
+          "views": 42,
           "date": "2026-04-20T12:07:27Z",
           "category": "development",
           "tags": [
@@ -27021,7 +27887,7 @@
         {
           "id": "wKzz0jKiScM",
           "title": "Emacs Architecture, Neovim Philosophy",
-          "views": 275,
+          "views": 277,
           "date": "2026-04-19T22:51:25Z",
           "category": "development",
           "tags": [
@@ -27293,7 +28159,7 @@
         {
           "id": "q-6cUColzQQ",
           "title": "Flutter Web Explained",
-          "views": 28,
+          "views": 30,
           "date": "2026-04-18T12:37:49Z",
           "category": "development",
           "tags": [
@@ -27434,7 +28300,7 @@
         {
           "id": "E8f87EV4k3A",
           "title": "A Compiler, Not a Renderer",
-          "views": 148,
+          "views": 151,
           "date": "2026-04-17T12:06:22Z",
           "category": "development",
           "tags": [
@@ -27570,7 +28436,7 @@
         {
           "id": "X65YHZUnFq0",
           "title": "OpenFeature: The Standard for Feature Flagging",
-          "views": 48,
+          "views": 50,
           "date": "2026-04-16T17:02:54Z",
           "category": "development",
           "tags": [
@@ -27640,7 +28506,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 659,
+          "views": 671,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -28004,7 +28870,7 @@
         {
           "id": "QC-vaMcjq3M",
           "title": "zig-lottie: Compiling Motion",
-          "views": 80,
+          "views": 81,
           "date": "2026-04-11T05:33:18Z",
           "category": "development",
           "tags": [
@@ -28207,7 +29073,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 128,
+          "views": 132,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -28283,7 +29149,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2614,
+          "views": 2623,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -28357,7 +29223,7 @@
         {
           "id": "MuDJGnGTn3k",
           "title": "Leetgo",
-          "views": 56,
+          "views": 57,
           "date": "2026-04-09T09:55:24Z",
           "category": "development",
           "tags": [
@@ -28574,7 +29440,7 @@
         {
           "id": "IYfTi_HNDl4",
           "title": "Building Production-Grade RabbitMQ in Go",
-          "views": 76,
+          "views": 77,
           "date": "2026-04-06T22:28:09Z",
           "category": "development",
           "tags": [
@@ -28646,7 +29512,7 @@
         {
           "id": "dDtVuJXVYJk",
           "title": "The Rules and The Rebellion",
-          "views": 34,
+          "views": 35,
           "date": "2026-04-06T11:57:23Z",
           "category": "development",
           "tags": [
@@ -28718,7 +29584,7 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 272,
+          "views": 273,
           "date": "2026-04-05T21:24:52Z",
           "category": "development",
           "tags": [
@@ -28953,7 +29819,7 @@
         {
           "id": "z2SA6P7WNoc",
           "title": "Reasoning Under Uncertainty",
-          "views": 157,
+          "views": 158,
           "date": "2026-04-03T22:11:58Z",
           "category": "development",
           "tags": [
@@ -29018,7 +29884,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4152,
+          "views": 4158,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -29734,7 +30600,7 @@
         {
           "id": "yCJDmGrk8sM",
           "title": "Advancing Go Garbage Collection with Green Tea",
-          "views": 151,
+          "views": 152,
           "date": "2026-03-24T22:59:50Z",
           "category": "development",
           "tags": [
@@ -30035,7 +30901,7 @@
         {
           "id": "vep9hSKc9I0",
           "title": "Dial9 Demo - Deep Observability in Async Rust",
-          "views": 110,
+          "views": 111,
           "date": "2026-03-22T10:40:21Z",
           "category": "development",
           "tags": [
@@ -30113,7 +30979,7 @@
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
-          "views": 39,
+          "views": 38,
           "date": "2026-03-21T13:19:14Z",
           "category": "development",
           "tags": [
@@ -30250,7 +31116,7 @@
         {
           "id": "lY5TU8qHduM",
           "title": "The Flight Recorder for Tokio",
-          "views": 26,
+          "views": 27,
           "date": "2026-03-20T22:45:15Z",
           "category": "development",
           "tags": [
@@ -30397,7 +31263,7 @@
         {
           "id": "CXtHwJQphLI",
           "title": "Production-Ready RabbitMQ in Go",
-          "views": 92,
+          "views": 93,
           "date": "2026-03-20T03:40:50Z",
           "category": "development",
           "tags": [
@@ -30478,7 +31344,7 @@
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
-          "views": 131,
+          "views": 132,
           "date": "2026-03-19T00:18:34Z",
           "category": "development",
           "tags": [
@@ -30550,7 +31416,7 @@
         {
           "id": "0HEqwk9UMOc",
           "title": "How to Kill the Code Review",
-          "views": 139,
+          "views": 141,
           "date": "2026-03-18T11:10:57Z",
           "category": "development",
           "tags": [
@@ -31224,6 +32090,14 @@
                 ]
               },
               {
+                "id": "173Y2uPljgo",
+                "sharedTopics": [
+                  "http",
+                  "context",
+                  "dependency"
+                ]
+              },
+              {
                 "id": "tyR8SdHpOeY",
                 "sharedTopics": [
                   "library",
@@ -31235,13 +32109,6 @@
                 "sharedTopics": [
                   "patterns",
                   "dependency"
-                ]
-              },
-              {
-                "id": "wyIhJ3LMnRg",
-                "sharedTopics": [
-                  "http",
-                  "context"
                 ]
               }
             ]
@@ -31537,7 +32404,7 @@
         {
           "id": "sGQrnPJSsPc",
           "title": "A Semantic Operating System",
-          "views": 94,
+          "views": 96,
           "date": "2026-03-08T08:24:38Z",
           "category": "development",
           "tags": [
@@ -32104,7 +32971,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 200,
+          "views": 205,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -32465,7 +33332,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 663,
+          "views": 666,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -32617,7 +33484,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 115,
+          "views": 120,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -33353,7 +34220,7 @@
         {
           "id": "QBUQvfZJpaM",
           "title": "Modern Cryptography Standards: A Guide to AEAD",
-          "views": 52,
+          "views": 55,
           "date": "2026-02-18T23:24:48Z",
           "category": "development",
           "tags": [
@@ -33522,6 +34389,13 @@
             ],
             "related": [
               {
+                "id": "eJlXFaZNP6g",
+                "sharedTopics": [
+                  "cost",
+                  "production"
+                ]
+              },
+              {
                 "id": "NztD5fYpXcg",
                 "sharedTopics": [
                   "analysis"
@@ -33544,12 +34418,6 @@
                 "sharedTopics": [
                   "devops"
                 ]
-              },
-              {
-                "id": "xfOATs8ncLM",
-                "sharedTopics": [
-                  "cost"
-                ]
               }
             ]
           }
@@ -33557,7 +34425,7 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 93,
+          "views": 94,
           "date": "2026-02-14T22:47:13Z",
           "category": "development",
           "tags": [
@@ -33621,7 +34489,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 781,
+          "views": 795,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -33692,7 +34560,7 @@
         {
           "id": "cWozmWrqnxs",
           "title": "The Repository Pattern",
-          "views": 784,
+          "views": 785,
           "date": "2026-02-13T18:01:39Z",
           "category": "development",
           "tags": [
@@ -33775,7 +34643,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 375,
+          "views": 383,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -33849,7 +34717,7 @@
         {
           "id": "Qo3oJv4uyBI",
           "title": "High-Performance Go: Inside the 1.26 Release",
-          "views": 196,
+          "views": 198,
           "date": "2026-02-12T13:08:12Z",
           "category": "development",
           "tags": [
@@ -33926,7 +34794,7 @@
         {
           "id": "cEwAbu6FFRo",
           "title": "Compound Engineering",
-          "views": 140,
+          "views": 144,
           "date": "2026-02-11T13:08:01Z",
           "category": "development",
           "tags": [
@@ -33995,7 +34863,7 @@
         {
           "id": "IZX3_9rZeMU",
           "title": "The Hybrid TUI Architecture",
-          "views": 543,
+          "views": 545,
           "date": "2026-02-10T10:11:11Z",
           "category": "development",
           "tags": [
@@ -34207,7 +35075,7 @@
         {
           "id": "0Sed1oggMKY",
           "title": "Tokio: The Asynchronous Runtime for Rust",
-          "views": 86,
+          "views": 87,
           "date": "2026-02-08T20:27:32Z",
           "category": "development",
           "tags": [
@@ -34426,7 +35294,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 146,
+          "views": 148,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -34572,7 +35440,7 @@
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 424,
+          "views": 430,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -35014,7 +35882,7 @@
         {
           "id": "o9yaniXkM-0",
           "title": "Practical Data Oriented Design in Zig",
-          "views": 60,
+          "views": 61,
           "date": "2026-01-30T01:28:52Z",
           "category": "development",
           "tags": [
@@ -38155,7 +39023,7 @@
         "development"
       ],
       "videoCount": 13,
-      "totalViews": 407,
+      "totalViews": 414,
       "topTags": [
         {
           "tag": "sentinel",
@@ -38245,7 +39113,7 @@
             {
               "id": "infh5ZZwvLU",
               "title": "ZAP: Getting Started with Software Security Testing",
-              "views": 16,
+              "views": 17,
               "date": "2026-04-30T22:21:34Z",
               "category": "security",
               "tags": [
@@ -38321,7 +39189,7 @@
             {
               "id": "Zeg8zSOvoyE",
               "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-              "views": 74,
+              "views": 75,
               "date": "2026-03-31T22:42:44Z",
               "category": "security",
               "tags": [
@@ -38604,7 +39472,7 @@
             {
               "id": "Zeg8zSOvoyE",
               "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-              "views": 74,
+              "views": 75,
               "date": "2026-03-31T22:42:44Z",
               "category": "security",
               "tags": [
@@ -38881,7 +39749,7 @@
         {
           "id": "infh5ZZwvLU",
           "title": "ZAP: Getting Started with Software Security Testing",
-          "views": 16,
+          "views": 17,
           "date": "2026-04-30T22:21:34Z",
           "category": "security",
           "tags": [
@@ -38957,7 +39825,7 @@
         {
           "id": "_NXyqfM6TXg",
           "title": "Azure Sentinel & M365 Defender",
-          "views": 14,
+          "views": 16,
           "date": "2026-04-28T07:22:44Z",
           "category": "security",
           "tags": [
@@ -39030,7 +39898,7 @@
         {
           "id": "_5DCBqOCr8c",
           "title": "Designing for Privacy",
-          "views": 36,
+          "views": 39,
           "date": "2026-04-19T04:59:35Z",
           "category": "security",
           "tags": [
@@ -39169,7 +40037,7 @@
         {
           "id": "Zeg8zSOvoyE",
           "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-          "views": 74,
+          "views": 75,
           "date": "2026-03-31T22:42:44Z",
           "category": "security",
           "tags": [
@@ -40388,6 +41256,13 @@
           "category": "development"
         },
         {
+          "id": "M_NbzCCHFp0",
+          "title": "The Orbital Compute Blueprint",
+          "views": 62,
+          "date": "2026-05-02T20:46:53Z",
+          "category": "finance"
+        },
+        {
           "id": "1smShC18TWA",
           "title": "Decoding the Black Box of Global Finance",
           "views": 46,
@@ -40418,7 +41293,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 23,
+          "views": 26,
           "date": "2026-04-26T15:40:42Z",
           "category": "development"
         },
@@ -40427,13 +41302,6 @@
           "title": "The Pomology Field Guide",
           "views": 19,
           "date": "2026-03-19T22:13:16Z",
-          "category": "finance"
-        },
-        {
-          "id": "M_NbzCCHFp0",
-          "title": "The Orbital Compute Blueprint",
-          "views": 14,
-          "date": "2026-05-02T20:46:53Z",
           "category": "finance"
         },
         {
@@ -40489,18 +41357,18 @@
           "category": "kubernetes"
         },
         {
+          "id": "-e7kvcUXxtw",
+          "title": "DevSecOps on Azure Kubernetes Service",
+          "views": 20,
+          "date": "2026-04-29T21:49:39Z",
+          "category": "kubernetes"
+        },
+        {
           "id": "5-ZNXQegVhs",
           "title": "The Strategic Synthesis:Shift Left & Shift Right",
           "views": 20,
           "date": "2026-02-16T20:52:30Z",
           "category": "development"
-        },
-        {
-          "id": "-e7kvcUXxtw",
-          "title": "DevSecOps on Azure Kubernetes Service",
-          "views": 19,
-          "date": "2026-04-29T21:49:39Z",
-          "category": "kubernetes"
         },
         {
           "id": "Z98SHl4nSFI",
@@ -40522,21 +41390,21 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 272,
+          "views": 273,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 128,
+          "views": 132,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
           "id": "quD4pyCwKB4",
           "title": "Enterprise Infrastructure as Code for Al Agents",
-          "views": 65,
+          "views": 66,
           "date": "2026-04-25T17:46:48Z",
           "category": "kubernetes"
         },
@@ -40588,21 +41456,21 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2614,
+          "views": 2623,
           "date": "2026-04-09T22:17:25Z",
           "category": "development"
         },
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 663,
+          "views": 666,
           "date": "2026-02-28T05:29:43Z",
           "category": "development"
         },
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 272,
+          "views": 273,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
@@ -40616,21 +41484,21 @@
         {
           "id": "yAeM2vpPWeM",
           "title": "Design for Deletion",
-          "views": 152,
+          "views": 154,
           "date": "2026-04-25T10:56:42Z",
           "category": "development"
         },
         {
           "id": "0HEqwk9UMOc",
           "title": "How to Kill the Code Review",
-          "views": 139,
+          "views": 141,
           "date": "2026-03-18T11:10:57Z",
           "category": "development"
         },
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 128,
+          "views": 132,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -40651,7 +41519,7 @@
         {
           "id": "Zeg8zSOvoyE",
           "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
-          "views": 74,
+          "views": 75,
           "date": "2026-03-31T22:42:44Z",
           "category": "security"
         },
@@ -40665,14 +41533,14 @@
         {
           "id": "xvqZFPf5X60",
           "title": "TanStack Al Composes the Modern Audio Stack",
-          "views": 67,
+          "views": 68,
           "date": "2026-04-25T07:46:26Z",
           "category": "development"
         },
         {
           "id": "quD4pyCwKB4",
           "title": "Enterprise Infrastructure as Code for Al Agents",
-          "views": 65,
+          "views": 66,
           "date": "2026-04-25T17:46:48Z",
           "category": "kubernetes"
         },
@@ -40756,7 +41624,7 @@
         {
           "id": "pgTCcVO4gfg",
           "title": "The 10k LOC Sweet Spot",
-          "views": 14,
+          "views": 15,
           "date": "2026-04-21T22:18:41Z",
           "category": "development"
         },
@@ -40800,7 +41668,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 115,
+          "views": 120,
           "date": "2026-02-27T12:49:18Z",
           "category": "development"
         },
@@ -40837,7 +41705,7 @@
         {
           "id": "-e7kvcUXxtw",
           "title": "DevSecOps on Azure Kubernetes Service",
-          "views": 19,
+          "views": 20,
           "date": "2026-04-29T21:49:39Z",
           "category": "kubernetes"
         },
@@ -40886,18 +41754,18 @@
           "category": "kubernetes"
         },
         {
+          "id": "_NXyqfM6TXg",
+          "title": "Azure Sentinel & M365 Defender",
+          "views": 16,
+          "date": "2026-04-28T07:22:44Z",
+          "category": "security"
+        },
+        {
           "id": "tcrNdx1yH_E",
           "title": "Continuous Flow",
           "views": 15,
           "date": "2026-03-22T14:47:34Z",
           "category": "kubernetes"
-        },
-        {
-          "id": "_NXyqfM6TXg",
-          "title": "Azure Sentinel & M365 Defender",
-          "views": 14,
-          "date": "2026-04-28T07:22:44Z",
-          "category": "security"
         },
         {
           "id": "RLlEbcXO6k8",
@@ -40925,21 +41793,21 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 272,
+          "views": 273,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 128,
+          "views": 132,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
           "id": "quD4pyCwKB4",
           "title": "Enterprise Infrastructure as Code for Al Agents",
-          "views": 65,
+          "views": 66,
           "date": "2026-04-25T17:46:48Z",
           "category": "kubernetes"
         },
@@ -40962,7 +41830,7 @@
         {
           "id": "p9LNSeAt5Zw",
           "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-          "views": 20,
+          "views": 21,
           "date": "2026-04-22T10:25:18Z",
           "category": "kubernetes"
         },
@@ -40992,7 +41860,7 @@
         {
           "id": "p9LNSeAt5Zw",
           "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-          "views": 20,
+          "views": 21,
           "date": "2026-04-22T10:25:18Z",
           "category": "kubernetes"
         },
@@ -41015,7 +41883,7 @@
         {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 71,
+          "views": 74,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes"
         },
@@ -41045,7 +41913,7 @@
         {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 71,
+          "views": 74,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes"
         },
@@ -41059,7 +41927,7 @@
         {
           "id": "KdLQEv3Tiiw",
           "title": "Mastering Hybrid CDC Architectures",
-          "views": 18,
+          "views": 20,
           "date": "2026-04-08T02:45:20Z",
           "category": "kubernetes"
         }
@@ -41075,7 +41943,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 375,
+          "views": 383,
           "date": "2026-02-13T15:08:23Z",
           "category": "development"
         },
@@ -41094,30 +41962,37 @@
           "category": "development"
         },
         {
-          "id": "_zJ3_d1CODg",
-          "title": "Bevy-Demo",
-          "views": 131,
-          "date": "2026-03-19T00:18:34Z",
+          "id": "90hw9qwXbbw",
+          "title": "Architecting with Tonic",
+          "views": 140,
+          "date": "2026-05-02T09:48:38Z",
           "category": "development"
         },
         {
-          "id": "L9ypC5863yA",
-          "title": "The Microservices Communication Playbook",
-          "views": 120,
-          "date": "2026-04-24T20:19:57Z",
+          "id": "_zJ3_d1CODg",
+          "title": "Bevy-Demo",
+          "views": 132,
+          "date": "2026-03-19T00:18:34Z",
           "category": "development"
         },
         {
           "id": "EWwk29GzHgg",
           "title": "Architecting the Next Evolution of the Local Database",
-          "views": 117,
+          "views": 124,
           "date": "2026-04-27T08:39:23Z",
+          "category": "development"
+        },
+        {
+          "id": "L9ypC5863yA",
+          "title": "The Microservices Communication Playbook",
+          "views": 121,
+          "date": "2026-04-24T20:19:57Z",
           "category": "development"
         },
         {
           "id": "vep9hSKc9I0",
           "title": "Dial9 Demo - Deep Observability in Async Rust",
-          "views": 110,
+          "views": 111,
           "date": "2026-03-22T10:40:21Z",
           "category": "development"
         },
@@ -41131,7 +42006,7 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 93,
+          "views": 94,
           "date": "2026-02-14T22:47:13Z",
           "category": "development"
         },
@@ -41145,16 +42020,30 @@
         {
           "id": "0Sed1oggMKY",
           "title": "Tokio: The Asynchronous Runtime for Rust",
-          "views": 86,
+          "views": 87,
           "date": "2026-02-08T20:27:32Z",
+          "category": "development"
+        },
+        {
+          "id": "DwAOCljoNoc",
+          "title": "Hyper: The Foundation of Fast HTTP in Rust",
+          "views": 81,
+          "date": "2026-05-02T18:35:37Z",
           "category": "development"
         },
         {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 71,
+          "views": 74,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes"
+        },
+        {
+          "id": "d1MH4nza95g",
+          "title": "Tracing Asynchronous Rust",
+          "views": 71,
+          "date": "2026-05-03T16:24:44Z",
+          "category": "development"
         },
         {
           "id": "DIMW-iHlDxE",
@@ -41220,13 +42109,6 @@
           "category": "development"
         },
         {
-          "id": "90hw9qwXbbw",
-          "title": "Architecting with Tonic",
-          "views": 45,
-          "date": "2026-05-02T09:48:38Z",
-          "category": "development"
-        },
-        {
           "id": "Th5MMOFQbh8",
           "title": "Backend Patterns in Rust",
           "views": 45,
@@ -41241,10 +42123,24 @@
           "category": "development"
         },
         {
+          "id": "07aDX5YB-ao",
+          "title": "Modular Networking Architecture in Rust",
+          "views": 44,
+          "date": "2026-05-03T06:22:41Z",
+          "category": "development"
+        },
+        {
           "id": "WdK7PED1ug8",
           "title": "A Guide to Rust Smart Pointers",
           "views": 43,
           "date": "2026-02-26T09:38:48Z",
+          "category": "development"
+        },
+        {
+          "id": "J4iGUAXcAOA",
+          "title": "The Axum Web Framework",
+          "views": 41,
+          "date": "2026-05-01T22:55:53Z",
           "category": "development"
         },
         {
@@ -41276,16 +42172,9 @@
           "category": "development"
         },
         {
-          "id": "DwAOCljoNoc",
-          "title": "Hyper: The Foundation of Fast HTTP in Rust",
-          "views": 27,
-          "date": "2026-05-02T18:35:37Z",
-          "category": "development"
-        },
-        {
           "id": "lY5TU8qHduM",
           "title": "The Flight Recorder for Tokio",
-          "views": 26,
+          "views": 27,
           "date": "2026-03-20T22:45:15Z",
           "category": "development"
         },
@@ -41304,13 +42193,6 @@
           "category": "kubernetes"
         },
         {
-          "id": "J4iGUAXcAOA",
-          "title": "The Axum Web Framework",
-          "views": 22,
-          "date": "2026-05-01T22:55:53Z",
-          "category": "development"
-        },
-        {
           "id": "0ttrfTfP864",
           "title": "ra-token-authority",
           "views": 21,
@@ -41325,10 +42207,10 @@
           "category": "development"
         },
         {
-          "id": "07aDX5YB-ao",
-          "title": "Modular Networking Architecture in Rust",
+          "id": "UOOkDh4RUbE",
+          "title": "Architecture Review: tn-file-upload",
           "views": 18,
-          "date": "2026-05-03T06:22:41Z",
+          "date": "2026-05-04T23:49:00Z",
           "category": "development"
         },
         {
@@ -41365,13 +42247,6 @@
           "views": 7,
           "date": "2026-01-08T10:19:31Z",
           "category": "development"
-        },
-        {
-          "id": "d1MH4nza95g",
-          "title": "Tracing Asynchronous Rust",
-          "views": 6,
-          "date": "2026-05-03T16:24:44Z",
-          "category": "development"
         }
       ]
     },
@@ -41385,7 +42260,7 @@
         {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 71,
+          "views": 74,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes"
         },
@@ -41408,14 +42283,14 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 781,
+          "views": 795,
           "date": "2026-02-14T09:23:06Z",
           "category": "development"
         },
         {
           "id": "Qo3oJv4uyBI",
           "title": "High-Performance Go: Inside the 1.26 Release",
-          "views": 196,
+          "views": 198,
           "date": "2026-02-12T13:08:12Z",
           "category": "development"
         },
@@ -41429,14 +42304,14 @@
         {
           "id": "yCJDmGrk8sM",
           "title": "Advancing Go Garbage Collection with Green Tea",
-          "views": 151,
+          "views": 152,
           "date": "2026-03-24T22:59:50Z",
           "category": "development"
         },
         {
           "id": "L9ypC5863yA",
           "title": "The Microservices Communication Playbook",
-          "views": 120,
+          "views": 121,
           "date": "2026-04-24T20:19:57Z",
           "category": "development"
         },
@@ -41464,14 +42339,14 @@
         {
           "id": "CXtHwJQphLI",
           "title": "Production-Ready RabbitMQ in Go",
-          "views": 92,
+          "views": 93,
           "date": "2026-03-20T03:40:50Z",
           "category": "development"
         },
         {
           "id": "IYfTi_HNDl4",
           "title": "Building Production-Grade RabbitMQ in Go",
-          "views": 76,
+          "views": 77,
           "date": "2026-04-06T22:28:09Z",
           "category": "development"
         },
@@ -41485,14 +42360,14 @@
         {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
-          "views": 71,
+          "views": 74,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes"
         },
         {
           "id": "MuDJGnGTn3k",
           "title": "Leetgo",
-          "views": 56,
+          "views": 57,
           "date": "2026-04-09T09:55:24Z",
           "category": "development"
         },
@@ -41504,18 +42379,18 @@
           "category": "development"
         },
         {
+          "id": "eI2DXGISpbk",
+          "title": "BadgerDB: The Go-Native Key-Value Store",
+          "views": 51,
+          "date": "2026-02-13T00:09:38Z",
+          "category": "kubernetes"
+        },
+        {
           "id": "KCuGqld6nOc",
           "title": "The Go Concurrency Paradox",
           "views": 49,
           "date": "2026-01-10T00:17:59Z",
           "category": "development"
-        },
-        {
-          "id": "eI2DXGISpbk",
-          "title": "BadgerDB: The Go-Native Key-Value Store",
-          "views": 48,
-          "date": "2026-02-13T00:09:38Z",
-          "category": "kubernetes"
         },
         {
           "id": "oxNF_GNuWpE",
@@ -41536,6 +42411,13 @@
           "title": "Composition by Design",
           "views": 31,
           "date": "2026-02-23T23:33:01Z",
+          "category": "development"
+        },
+        {
+          "id": "QOYXBkMcnYk",
+          "title": "The Echo Web Framework",
+          "views": 30,
+          "date": "2026-05-04T02:03:06Z",
           "category": "development"
         },
         {

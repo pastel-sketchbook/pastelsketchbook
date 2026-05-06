@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [sentinel, siem, soar, xdr, llm, security, nist, proxy, pentesting, spider]
 sources: 13
-updated: 2026-05-03
+updated: 2026-05-06
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-05-03
 | Metric | Value |
 |--------|-------|
 | Videos | 13 |
-| Total Views | 407 |
+| Total Views | 414 |
 | Most Recent | Apr 30, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -23,15 +23,15 @@ updated: 2026-05-03
 
 ### Security (5 videos)
 
-- [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) -- 16 views, Apr 30, 2026 · [Details](details/infh5ZZwvLU.md)
-- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 74 views, Mar 31, 2026 · [Details](details/Zeg8zSOvoyE.md)
+- [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) -- 17 views, Apr 30, 2026 · [Details](details/infh5ZZwvLU.md)
+- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 75 views, Mar 31, 2026 · [Details](details/Zeg8zSOvoyE.md)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 34 views, Mar 25, 2026 · [Details](details/CA1nlknmR3g.md)
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) -- 18 views, Mar 8, 2026 · [Details](details/1VjSLqfPf9s.md)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) -- 17 views, Mar 2, 2026 · [Details](details/uhXcsWYhdkA.md)
 
 ### AI & ML (4 videos)
 
-- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 74 views, Mar 31, 2026 · [Details](details/Zeg8zSOvoyE.md)
+- [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 75 views, Mar 31, 2026 · [Details](details/Zeg8zSOvoyE.md)
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) -- 36 views, Mar 26, 2026 · [Details](details/taBP0Fr3uSQ.md)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 34 views, Mar 25, 2026 · [Details](details/CA1nlknmR3g.md)
 - [The Orchestrator's Blueprint](https://youtu.be/Oa3jaLNSZvM) -- 36 views, Feb 28, 2026 · [Details](details/Oa3jaLNSZvM.md)
@@ -40,11 +40,11 @@ updated: 2026-05-03
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | ZAP: Getting Started with Software Security Testing | 16 | Apr 30, 2026 | [Watch](https://youtu.be/infh5ZZwvLU) | [Wiki](details/infh5ZZwvLU.md) |
-| 2 | Azure Sentinel & M365 Defender | 14 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
-| 3 | Designing for Privacy | 36 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
+| 1 | ZAP: Getting Started with Software Security Testing | 17 | Apr 30, 2026 | [Watch](https://youtu.be/infh5ZZwvLU) | [Wiki](details/infh5ZZwvLU.md) |
+| 2 | Azure Sentinel & M365 Defender | 16 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
+| 3 | Designing for Privacy | 39 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
 | 4 | Custom Graphs in Microsoft Sentinel (Preview) | 56 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
-| 5 | Black-Hat LLMs: The End of the 20-Year Security Balance | 74 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) | [Wiki](details/Zeg8zSOvoyE.md) |
+| 5 | Black-Hat LLMs: The End of the 20-Year Security Balance | 75 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) | [Wiki](details/Zeg8zSOvoyE.md) |
 | 6 | 2FA Orchestration in PingFederate | 10 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) | [Wiki](details/HxB-cJIbEgE.md) |
 | 7 | Anatomy of a Supply Chain Attack | 36 | Mar 26, 2026 | [Watch](https://youtu.be/taBP0Fr3uSQ) | [Wiki](details/taBP0Fr3uSQ.md) |
 | 8 | Containing the Untrusted Agent | 34 | Mar 25, 2026 | [Watch](https://youtu.be/CA1nlknmR3g) | [Wiki](details/CA1nlknmR3g.md) |
@@ -64,4 +64,4 @@ updated: 2026-05-03
 - [Development](development.md) -- shared tags: `shift left`, `agent`, `ai`, `llm`, `context`, `resilience`, `ssrf`
 
 ---
-*Auto-generated on May 3, 2026. Back to [index](index.md).*
+*Auto-generated on May 6, 2026. Back to [index](index.md).*

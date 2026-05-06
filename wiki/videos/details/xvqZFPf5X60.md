@@ -34,8 +34,8 @@ This video pitches a “unified audio stack” built around TanStack AI, aiming 
 - [Building vibe-rust](https://youtu.be/BT08SXPvV6U) — Development · 61 views · Apr 4, 2026 · [Details](BT08SXPvV6U.md) (shared: `text-to-speech` · `tts` · `stt`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 30 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `typed` · `adapter` · `architecture`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `tanstack` · `architecture`)
-- [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) — Development · 76 views · Apr 6, 2026 · [Details](IYfTi_HNDl4.md) (shared: `architecture` · `routing`)
-- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 92 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `architecture` · `routing`)
+- [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) — Development · 77 views · Apr 6, 2026 · [Details](IYfTi_HNDl4.md) (shared: `architecture` · `routing`)
+- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 93 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `architecture` · `routing`)
 
 ---
 *Auto-generated on Apr 25, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, orbital, stocks, notebooklm]
 sources: 23
-updated: 2026-05-03
+updated: 2026-05-06
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-05-03
 | Metric | Value |
 |--------|-------|
 | Videos | 23 |
-| Total Views | 450 |
+| Total Views | 498 |
 | Most Recent | May 2, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -30,7 +30,7 @@ updated: 2026-05-03
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | The Orbital Compute Blueprint | 14 | May 2, 2026 | [Watch](https://youtu.be/M_NbzCCHFp0) | [Wiki](details/M_NbzCCHFp0.md) |
+| 1 | The Orbital Compute Blueprint | 62 | May 2, 2026 | [Watch](https://youtu.be/M_NbzCCHFp0) | [Wiki](details/M_NbzCCHFp0.md) |
 | 2 | Decoding the Black Box of Global Finance | 46 | Apr 17, 2026 | [Watch](https://youtu.be/1smShC18TWA) | [Wiki](details/1smShC18TWA.md) |
 | 3 | The End of the American Penny | 3 | Apr 15, 2026 | [Watch](https://youtu.be/vzwjAlEz_bI) | [Wiki](details/vzwjAlEz_bI.md) |
 | 4 | Nesting in Global Finance | 6 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) | [Wiki](details/YYVxMSqBqe8.md) |
@@ -65,4 +65,4 @@ updated: 2026-05-03
 - [Kubernetes](kubernetes.md) -- shared tags: `curiosity`
 
 ---
-*Auto-generated on May 3, 2026. Back to [index](index.md).*
+*Auto-generated on May 6, 2026. Back to [index](index.md).*

@@ -1,8 +1,8 @@
 ---
 type: tag
 tags: [azure-kubernetes-service]
-sources: 6
-updated: 2026-05-03
+sources: 7
+updated: 2026-05-06
 ---
 
 # azure kubernetes service
@@ -17,6 +17,7 @@ Videos connected by the topic `azure kubernetes service`.
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 13 views · Mar 10, 2026 · [Details](../details/Hd767VA7Z-0.md)
 - [Deploying CSR Applications on Vercel Versus AKS](https://youtu.be/snRi_JET1bg) — Kubernetes · 8 views · Jan 6, 2026 · [Details](../details/snRi_JET1bg.md)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](../details/N4nRAfBZ3BE.md)
+- [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) — Kubernetes · 2 views · May 6, 2026 · [Details](../details/4YsX6tYi5x4.md)
 
 ---
-*Auto-generated on May 3, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 6, 2026. Back to [topic index](index.md).*

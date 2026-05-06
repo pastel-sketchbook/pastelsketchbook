@@ -34,7 +34,7 @@ This video presents an architectural blueprint for migrating from on-premises Ac
 - [The Architecture of Modern Identity](https://youtu.be/n-Yt33ZdEHw) — Kubernetes · 62 views · Mar 18, 2026 · [Details](n-Yt33ZdEHw.md) (shared: `identity` · `saml` · `oidc`)
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) — Kubernetes · 25 views · Apr 4, 2026 · [Details](7iWL5-0C66s.md) (shared: `migration` · `cloud`)
 - [Migrating Workloads from AWS to Azure](https://youtu.be/RLlEbcXO6k8) — Kubernetes · 9 views · Mar 22, 2026 · [Details](RLlEbcXO6k8.md) (shared: `migration` · `cloud`)
-- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 18 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `cloud` · `hybrid`)
+- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 20 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `cloud` · `hybrid`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

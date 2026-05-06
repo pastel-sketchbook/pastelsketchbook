@@ -47,7 +47,7 @@ Welcome.  Today  we  are  diving  into  the Axum  web  framework,  a  powerful  
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `axum` · `rust` · `web`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `axum` · `web` · `framework`)
 - [Modern Dart](https://youtu.be/JBh6rzeS-Qc) — Development · 81 views · Jan 20, 2026 · [Details](JBh6rzeS-Qc.md) (shared: `type safety` · `type` · `safety`)
-- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 27 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `rust` · `tower` · `hyper`)
+- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 81 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `rust` · `tower` · `hyper`)
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `rust` · `type` · `safety`)
 
 ---

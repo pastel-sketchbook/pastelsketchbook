@@ -35,7 +35,7 @@ This analysis explores 'Green Tea,' a fundamental redesign of the Go garbage col
 
 ## Related Videos
 
-- [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 196 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `garbage` · `memory` · `management`)
+- [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 198 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `garbage` · `memory` · `management`)
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 347 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `garbage` · `collection` · `memory`)
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `cache locality` · `cache` · `locality`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `memory` · `management`)

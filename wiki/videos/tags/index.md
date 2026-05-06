@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-05-03
+updated: 2026-05-06
 ---
 
 # Topic Index
@@ -13,10 +13,10 @@ Total topics: 153
 
 - [zig](zig.md) (9)
 - [event-driven architecture](event-driven-architecture.md) (8)
+- [azure kubernetes service](azure-kubernetes-service.md) (7)
+- [istio service mesh](istio-service-mesh.md) (7)
 - [rabbitmq](rabbitmq.md) (7)
 - [zero trust](zero-trust.md) (7)
-- [azure kubernetes service](azure-kubernetes-service.md) (6)
-- [istio service mesh](istio-service-mesh.md) (6)
 - [memory management](memory-management.md) (6)
 - [repository pattern](repository-pattern.md) (6)
 - [change data capture](change-data-capture.md) (5)
@@ -166,4 +166,4 @@ Total topics: 153
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on May 3, 2026. Back to [videos index](../index.md).*
+*Auto-generated on May 6, 2026. Back to [videos index](../index.md).*

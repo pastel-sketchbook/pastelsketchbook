@@ -2,7 +2,7 @@
 type: tag
 tags: [terminal-ui]
 sources: 2
-updated: 2026-05-03
+updated: 2026-05-06
 ---
 
 # terminal ui
@@ -15,4 +15,4 @@ Videos connected by the topic `terminal ui`.
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](../details/a2kADxV0kBM.md)
 
 ---
-*Auto-generated on May 3, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 6, 2026. Back to [topic index](index.md).*

@@ -37,7 +37,7 @@ This presentation explores Bayesian inference as a mathematically optimal framew
 
 - [The Geometry of Light](https://youtu.be/_mwtz_8lBWc) — Development · 29 views · Mar 21, 2026 · [Details](_mwtz_8lBWc.md) (shared: `algorithm`)
 - [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 26 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `algorithm`)
-- [The Push Architecture Blueprint](https://youtu.be/oqi_jJl3tAQ) — Development · 32 views · Apr 30, 2026 · [Details](oqi_jJl3tAQ.md) (shared: `rate`)
+- [The Push Architecture Blueprint](https://youtu.be/oqi_jJl3tAQ) — Development · 35 views · Apr 30, 2026 · [Details](oqi_jJl3tAQ.md) (shared: `rate`)
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 59 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `base`)
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `algorithm`)
 

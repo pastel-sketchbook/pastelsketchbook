@@ -2,7 +2,7 @@
 type: tag
 tags: [developer-productivity]
 sources: 2
-updated: 2026-05-03
+updated: 2026-05-06
 ---
 
 # developer productivity
@@ -11,8 +11,8 @@ Videos connected by the topic `developer productivity`.
 
 ## Videos
 
-- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 139 views · Mar 18, 2026 · [Details](../details/0HEqwk9UMOc.md)
-- [Leetgo](https://youtu.be/MuDJGnGTn3k) — Development · 56 views · Apr 9, 2026 · [Details](../details/MuDJGnGTn3k.md)
+- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 141 views · Mar 18, 2026 · [Details](../details/0HEqwk9UMOc.md)
+- [Leetgo](https://youtu.be/MuDJGnGTn3k) — Development · 57 views · Apr 9, 2026 · [Details](../details/MuDJGnGTn3k.md)
 
 ---
-*Auto-generated on May 3, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 6, 2026. Back to [topic index](index.md).*

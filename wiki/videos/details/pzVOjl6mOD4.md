@@ -34,7 +34,7 @@ This video compares JWT and PASETO (Platform-Agnostic Security Tokens) as enterp
 - [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 21 views · Jan 16, 2026 · [Details](0ttrfTfP864.md) (shared: `security` · `paseto tokens` · `paseto`)
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `security` · `authentication`)
 - [Cryptographic Usability & The Tink Library](https://youtu.be/H-gkXATx8r0) — Development · 19 views · Feb 21, 2026 · [Details](H-gkXATx8r0.md) (shared: `security` · `cryptographic`)
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 49 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `security` · `authentication` · `oauth2`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 50 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `security` · `authentication` · `oauth2`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

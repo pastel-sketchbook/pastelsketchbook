@@ -33,7 +33,7 @@ This video provides a walkthrough of CUE (version 0.16), a configuration languag
 - [Beyond Static Configuration](https://youtu.be/okVlu1qseI4) — Kubernetes · 25 views · Feb 15, 2026 · [Details](okVlu1qseI4.md) (shared: `cue language` · `cue` · `language`)
 - [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 14 views · Mar 16, 2026 · [Details](to1PClyd0YA.md) (shared: `cue language` · `cue` · `language`)
 - [Bridging Helm and CUE for Deterministic Value Composition](https://youtu.be/7eoxSgjwYlM) — Kubernetes · 23 views · Feb 19, 2026 · [Details](7eoxSgjwYlM.md) (shared: `cue` · `configuration management` · `configuration`)
-- [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 65 views · Apr 25, 2026 · [Details](quD4pyCwKB4.md) (shared: `management` · `infrastructure as code` · `infrastructure`)
+- [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 66 views · Apr 25, 2026 · [Details](quD4pyCwKB4.md) (shared: `management` · `infrastructure as code` · `infrastructure`)
 - [Azure Enterprise Edge Lab](https://youtu.be/fMjflPvjaJ8) — Kubernetes · 8 views · Mar 31, 2026 · [Details](fMjflPvjaJ8.md) (shared: `infrastructure as code` · `infrastructure` · `code`)
 
 ---

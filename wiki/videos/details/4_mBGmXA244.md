@@ -33,8 +33,8 @@ This video provides a layer-by-layer blueprint for building scalable data-driven
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 36 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `flutter` · `architecture` · `repository pattern`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 30 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `architecture` · `data` · `repository pattern`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `architecture` · `repository pattern` · `repository`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 784 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `data` · `repository pattern`)
-- [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 50 views · Apr 27, 2026 · [Details](R3n8UxyD7mc.md) (shared: `architecture` · `repository pattern` · `repository`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 785 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `data` · `repository pattern`)
+- [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 54 views · Apr 27, 2026 · [Details](R3n8UxyD7mc.md) (shared: `architecture` · `repository pattern` · `repository`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

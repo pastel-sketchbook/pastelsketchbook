@@ -30,7 +30,7 @@ This video presents a comprehensive guide to the modern container lifecycle acro
 
 ## Related Videos
 
-- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 20 views · Apr 22, 2026 · [Details](p9LNSeAt5Zw.md) (shared: `docker` · `immutable infrastructure` · `immutable`)
+- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 21 views · Apr 22, 2026 · [Details](p9LNSeAt5Zw.md) (shared: `docker` · `immutable infrastructure` · `immutable`)
 - [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `helm` · `chart` · `architecture`)
 - [Modern Docker Networking & Traefik](https://youtu.be/Pxh2PcNx9W8) — Kubernetes · 38 views · Mar 3, 2026 · [Details](Pxh2PcNx9W8.md) (shared: `multi-stage` · `docker` · `builds`)
 - [Bridging Helm and CUE for Deterministic Value Composition](https://youtu.be/7eoxSgjwYlM) — Kubernetes · 23 views · Feb 19, 2026 · [Details](7eoxSgjwYlM.md) (shared: `helm` · `values.yaml`)
