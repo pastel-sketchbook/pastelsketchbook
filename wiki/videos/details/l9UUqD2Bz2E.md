@@ -31,7 +31,7 @@ This video examines the economic anomaly of Coca-Cola maintaining a fixed 5-cent
 ## Related Videos
 
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `price`)
-- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 62 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `economics`)
+- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 63 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `economics`)
 - [마음 속의 계산기](https://youtu.be/gKYw0_jkNFI) — Programming · 9 views · Jan 11, 2026 · [Details](gKYw0_jkNFI.md) (shared: `history`)
 - [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 10 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `history`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 42 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `policy`)

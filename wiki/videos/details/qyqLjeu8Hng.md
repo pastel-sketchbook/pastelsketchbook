@@ -30,7 +30,7 @@ This Korean-language video examines whether the "3,000-hour rule" for English li
 
 ## Related Videos
 
-- [Tu Viaje al Corazón de Corea](https://youtu.be/L9sxbq8ugoU) — Korea · 4 views · Jan 1, 2026 · [Details](L9sxbq8ugoU.md) (shared: `korean language learning` · `korean` · `language`)
+- [Tu Viaje al Corazón de Corea](https://youtu.be/L9sxbq8ugoU) — Korea · 5 views · Jan 1, 2026 · [Details](L9sxbq8ugoU.md) (shared: `korean language learning` · `korean` · `language`)
 - [타입스크립트와 번으로 배우는 프로그래밍 1](https://youtu.be/T5FjMjTQCBI) — Programming · 77 views · Jan 10, 2026 · [Details](T5FjMjTQCBI.md) (shared: `korean` · `language`)
 - [Hangul Typing](https://youtu.be/Pp36ysjfWd8) — Development · 9 views · Jan 22, 2026 · [Details](Pp36ysjfWd8.md) (shared: `korean` · `language` · `learning`)
 - [비동기 처리 - async/await](https://youtu.be/F6aMGDfVAFg) — Programming · 18 views · Jan 10, 2026 · [Details](F6aMGDfVAFg.md) (shared: `korean`)

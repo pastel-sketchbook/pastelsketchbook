@@ -33,7 +33,7 @@ This video introduces the custom graphs preview feature in Microsoft Sentinel, w
 - [Azure Sentinel & M365 Defender](https://youtu.be/_NXyqfM6TXg) — Security · 16 views · Apr 28, 2026 · [Details](_NXyqfM6TXg.md) (shared: `microsoft` · `sentinel` · `security`)
 - [The Orchestrator's Blueprint](https://youtu.be/Oa3jaLNSZvM) — Security · 36 views · Feb 28, 2026 · [Details](Oa3jaLNSZvM.md) (shared: `security` · `operations`)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 17 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `security` · `data`)
-- [Azure Enterprise Edge Lab](https://youtu.be/fMjflPvjaJ8) — Kubernetes · 8 views · Mar 31, 2026 · [Details](fMjflPvjaJ8.md) (shared: `microsoft sentinel` · `microsoft` · `sentinel`)
+- [Azure Enterprise Edge Lab](https://youtu.be/fMjflPvjaJ8) — Kubernetes · 9 views · Mar 31, 2026 · [Details](fMjflPvjaJ8.md) (shared: `microsoft sentinel` · `microsoft` · `sentinel`)
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 36 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `attack` · `security`)
 
 ---

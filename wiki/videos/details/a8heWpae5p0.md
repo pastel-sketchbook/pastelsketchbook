@@ -30,11 +30,11 @@ This video introduces minikv, an open-source (MIT) distributed key-value store b
 
 ## Related Videos
 
+- [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) — Kubernetes · 10 views · May 7, 2026 · [Details](V9tvg6Yg3m4.md) (shared: `raft` · `consensus` · `distributed`)
 - [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) — Kubernetes · 75 views · Apr 5, 2026 · [Details](WRpjJV4SUKc.md) (shared: `distributed` · `kubernetes` · `write-ahead log`)
 - [Architecting Cost Efficiency for Al Workloads](https://youtu.be/eaPXjvB194w) — Kubernetes · 25 views · Apr 25, 2026 · [Details](eaPXjvB194w.md) (shared: `vector search` · `vector` · `search`)
-- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) — Kubernetes · 51 views · Feb 12, 2026 · [Details](eI2DXGISpbk.md) (shared: `key-value` · `store`)
+- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) — Kubernetes · 52 views · Feb 12, 2026 · [Details](eI2DXGISpbk.md) (shared: `key-value` · `store`)
 - [kube-log-viewer](https://youtu.be/aiYBPCkvhes) — Kubernetes · 24 views · Mar 5, 2026 · [Details](aiYBPCkvhes.md) (shared: `kubernetes` · `log`)
-- [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 12 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

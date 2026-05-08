@@ -34,7 +34,7 @@ This video provides a comparative analysis of two modernization strategies for m
 - [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 96 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `migration` · `architecture` · `system`)
 - [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) — Development · 106 views · Feb 9, 2026 · [Details](qxOOl1hx1zU.md) (shared: `architecture` · `legacy`)
 - [The Architect's Baton](https://youtu.be/6WRiPikxs-Q) — Development · 125 views · Mar 7, 2026 · [Details](6WRiPikxs-Q.md) (shared: `cloud-native` · `architecture`)
-- [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) — Development · 4.2K views · Apr 3, 2026 · [Details](54lO6XE-AeQ.md) (shared: `architecture` · `system`)
+- [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 33 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `migration` · `architecture`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -39,7 +39,7 @@ This technical analysis explores the architectural synergy between the Bevy game
 - [Beat - Anatomy of a Real-Time Visualizer](https://youtu.be/lin_ycbQGtE) — Development · 26 views · Mar 20, 2026 · [Details](lin_ycbQGtE.md) (shared: `bevy` · `engine` · `rust`)
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `system` · `rust`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `rust` · `integration`)
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 41 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `rust` · `integration`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 45 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `rust` · `integration`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

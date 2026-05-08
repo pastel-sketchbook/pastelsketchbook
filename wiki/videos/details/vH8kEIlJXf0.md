@@ -30,7 +30,7 @@ This Spanish-language video provides a professional survival guide for navigatin
 
 ## Related Videos
 
-- [El Arte de Pedir Comida en Español](https://youtu.be/z76NXRg1YWs) — Korea · 11 views · Apr 2, 2026 · [Details](z76NXRg1YWs.md) (shared: `latin` · `american` · `spanish`)
+- [El Arte de Pedir Comida en Español](https://youtu.be/z76NXRg1YWs) — Korea · 12 views · Apr 2, 2026 · [Details](z76NXRg1YWs.md) (shared: `latin` · `american` · `spanish`)
 - [Guía de Supervivencia: Español para tu Llegada a Latinoamérica](https://youtu.be/oSqbvvcADmI) — Korea · 7 views · Mar 15, 2026 · [Details](oSqbvvcADmI.md) (shared: `latin` · `spanish`)
 - [Jeju: Un Recuerdo en Tonos Pastel](https://youtu.be/rxQvDuohbt8) — Korea · 13 views · Feb 8, 2026 · [Details](rxQvDuohbt8.md) (shared: `latin` · `american`)
 - [Jeonju y Gochang: Apuntes de Corea](https://youtu.be/EvcUSPWkOA8) — Korea · 16 views · Jan 4, 2026 · [Details](EvcUSPWkOA8.md) (shared: `cultural`)

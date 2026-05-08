@@ -2,7 +2,7 @@
 type: tag
 tags: [istio-service-mesh]
 sources: 7
-updated: 2026-05-06
+updated: 2026-05-08
 ---
 
 # istio service mesh
@@ -17,7 +17,7 @@ Videos connected by the topic `istio service mesh`.
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 21 views · Apr 1, 2026 · [Details](../details/BiYKKVsJROk.md)
 - [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 13 views · Jan 10, 2026 · [Details](../details/C5HqbzLRYZ0.md)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 13 views · Mar 10, 2026 · [Details](../details/Hd767VA7Z-0.md)
-- [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) — Kubernetes · 2 views · May 6, 2026 · [Details](../details/4YsX6tYi5x4.md)
+- [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) — Kubernetes · 3 views · May 6, 2026 · [Details](../details/4YsX6tYi5x4.md)
 
 ---
-*Auto-generated on May 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 8, 2026. Back to [topic index](index.md).*

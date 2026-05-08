@@ -31,7 +31,7 @@ This talk frames “AI engineering” as a distinct discipline: not just trainin
 
 ## Related Videos
 
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 61 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `engineering` · `cache` · `design`)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 62 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `engineering` · `cache` · `design`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `systems` · `design`)
 - [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 61 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `cache` · `design`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 31 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `systems` · `design`)

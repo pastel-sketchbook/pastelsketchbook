@@ -33,7 +33,7 @@ This presentation explores MotherDuck's hybrid query processing architecture bas
 - [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 41 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `duckdb` · `query` · `serverless analytics`)
 - [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) — Kubernetes · 15 views · Mar 13, 2026 · [Details](u60g2nMtVi4.md) (shared: `duckdb` · `analytics` · `single-node`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `architecture` · `analytics`)
-- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 20 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `hybrid` · `architecture`)
+- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 21 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `hybrid` · `architecture`)
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 12 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `architecture`)
 
 ---

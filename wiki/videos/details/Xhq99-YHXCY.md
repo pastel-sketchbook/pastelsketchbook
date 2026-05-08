@@ -31,10 +31,10 @@ This video presents a framework for integrating AI agents into professional soft
 ## Related Videos
 
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `cli` · `integration` · `code`)
-- [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 51 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `agent` · `cli` · `code`)
+- [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 52 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `agent` · `cli` · `code`)
 - [The 2026 State of Al Agents](https://youtu.be/BAxPZdgmgRQ) — Development · 4 views · Jan 8, 2026 · [Details](BAxPZdgmgRQ.md) (shared: `workflows` · `coding`)
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 141 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `developer` · `code`)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 132 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `agent` · `code`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 139 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `agent` · `code`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

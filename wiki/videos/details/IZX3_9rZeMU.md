@@ -35,7 +35,7 @@ The Open 2i architecture introduces a "hybrid sandwich" model for building high-
 
 ## Related Videos
 
-- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 347 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `programming` · `memory management` · `memory`)
+- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 348 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `programming` · `memory management` · `memory`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `programming` · `memory management` · `memory`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 31 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `programming` · `memory management` · `memory`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `memory management` · `memory` · `management`)

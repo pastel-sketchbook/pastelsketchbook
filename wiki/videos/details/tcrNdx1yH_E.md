@@ -32,7 +32,7 @@ This video presents an architecture for streaming change events from Azure SQL M
 
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](N4nRAfBZ3BE.md) (shared: `azure event hubs` · `azure` · `event`)
 - [The Two-System Pattern](https://youtu.be/VxWyvAO3qb8) — Kubernetes · 14 views · Jan 15, 2026 · [Details](VxWyvAO3qb8.md) (shared: `azure event hubs` · `azure` · `event`)
-- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 20 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `change data capture` · `change` · `data`)
+- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 21 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `change data capture` · `change` · `data`)
 - [Drasi: The Future of Change-Driven Architecture](https://youtu.be/5Ztm7JNVa8E) — Kubernetes · 47 views · Feb 17, 2026 · [Details](5Ztm7JNVa8E.md) (shared: `data` · `event-driven architecture` · `event-driven`)
 - [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 27 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `change data capture` · `change` · `data`)
 

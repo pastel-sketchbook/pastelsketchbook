@@ -1,19 +1,4 @@
-# wiki_with_zmd
-
-Build and maintain the Pastel Sketchbook wiki using `zmd` as the local retrieval
-layer across raw transcripts and synthesized detail pages.
-
-## Use When
-
-- You need to generate or refresh `wiki/videos/details/*.md` from transcripts.
-- You want retrieval over both `wiki/raw/transcripts/*.md` and wiki pages.
-- You are triaging missing transcript/detail failures from `_failed.json` files.
-- You want faster, targeted context extraction before LLM summarization.
-
-## Do Not Use When
-
-- The task is unrelated to this repository's wiki/transcript pipeline.
-- You are editing non-wiki app features (UI, API, infra, deployment).
+# Wiki with zmd — Detailed Workflows
 
 ## Repo Paths
 
@@ -196,13 +181,9 @@ that the file contains a `## Summary` section — `loadVideoDetails()` in
 
 ## Failure-Driven Retry Strategy
 
-- Inspect transcript failures:
-  - `wiki/raw/transcripts/_failed.json`
-- Inspect detail failures:
-  - `wiki/videos/details/_failed.json`
+- Inspect transcript failures: `wiki/raw/transcripts/_failed.json`
+- Inspect detail failures: `wiki/videos/details/_failed.json`
 - Retry targeted IDs first (`--id`) before re-running broad batches.
-
-Examples:
 
 ```bash
 task wiki:transcripts -- --id <VIDEO_ID> --force --max-chars 120000
@@ -221,58 +202,16 @@ task wiki:details -- --id <VIDEO_ID> --force
 
 ## Retrieval Patterns (zmd)
 
-- Broad keyword recall:
-
-```bash
-zmd search "zero-copy"
-```
-
-- Avoid single-word generic queries (e.g., `"modern"`) because ranking can be
-  noisy across large transcript corpora.
-
-- Context snippets for prompt grounding:
-
-```bash
-zmd context "code review"
-```
-
-- Hybrid retrieval:
-
-```bash
-zmd query "service mesh authorization patterns"
-```
+- Broad keyword recall: `zmd search "zero-copy"`
+- Context snippets: `zmd context "code review"`
+- Hybrid retrieval: `zmd query "service mesh authorization patterns"`
 
 ### Recommended Query Workflow
 
-1) Start with intent-rich phrase (2-5 words), not a generic single term.
-
-```bash
-zmd context "modern code review workflow"
-zmd context "modern zero trust kubernetes"
-```
-
-2) Use returned `zmd://` path(s) to open authoritative sources.
-
-```bash
-zmd get "zmd://wiki/raw/transcripts/<VIDEO_ID>.md"
-zmd get "zmd://wiki/videos/details/<VIDEO_ID>.md"
-```
-
-3) If recall is weak, broaden with FTS and then refine.
-
-```bash
-zmd search "code review"
-zmd query "code review guardrails deterministic"
-```
-
-4) Prefer `context` + `get` as primary workflow for wiki authoring.
-
-
-- Fetch canonical source text:
-
-```bash
-zmd get "zmd://wiki/raw/transcripts/<VIDEO_ID>.md"
-```
+1. Start with intent-rich phrase (2-5 words), not a generic single term.
+2. Use returned `zmd://` path(s) to open authoritative sources with `zmd get`.
+3. If recall is weak, broaden with FTS and then refine.
+4. Prefer `context` + `get` as primary workflow for wiki authoring.
 
 ## Quality Gates
 
@@ -281,14 +220,5 @@ zmd get "zmd://wiki/raw/transcripts/<VIDEO_ID>.md"
 - Keep `wiki/log.md` append-only and parseable.
 - Reindex (`zmd update wiki`) after any bulk wiki changes.
 - **Always regenerate `wiki-bundle.json`** after adding/modifying detail pages.
-  The web app reads from the bundle, not from the markdown files directly.
-- **Do not commit empty or stub files:**
-  - `wiki/raw/transcripts/*.md` files must contain a `## Transcript` section
-    with actual transcript text. Files that are zero-byte, frontmatter-only,
-    or missing the transcript body must not be committed.
-  - `wiki/videos/details/*.md` files must contain synthesized content sections
-    (`## Summary`, `## Key Takeaways`, `## Topics Covered`). Stub files that
-    only have frontmatter + title + footer but no analysis content must not be
-    committed. Regenerate them either by direct LLM analysis of the raw
-    transcript (preferred) or with `task wiki:details -- --id <VIDEO_ID> --force`
-    before committing.
+- **Do not commit empty or stub files** — transcripts must have `## Transcript`,
+  details must have `## Summary`, `## Key Takeaways`, `## Topics Covered`.

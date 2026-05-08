@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-05-06
+updated: 2026-05-08
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 153
+Total topics: 154
 
 ## Topics
 
@@ -91,6 +91,7 @@ Total topics: 153
 - [debezium](debezium.md) (2)
 - [deployment frequency](deployment-frequency.md) (2)
 - [developer productivity](developer-productivity.md) (2)
+- [echo web framework](echo-web-framework.md) (2)
 - [enterprise ai deployment](enterprise-ai-deployment.md) (2)
 - [event-driven design](event-driven-design.md) (2)
 - [explicit allocators](explicit-allocators.md) (2)
@@ -166,4 +167,4 @@ Total topics: 153
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on May 6, 2026. Back to [videos index](../index.md).*
+*Auto-generated on May 8, 2026. Back to [videos index](../index.md).*

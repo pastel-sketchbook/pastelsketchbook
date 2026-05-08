@@ -2,7 +2,7 @@
 type: tag
 tags: [text-to-speech]
 sources: 2
-updated: 2026-05-06
+updated: 2026-05-08
 ---
 
 # text-to-speech
@@ -15,4 +15,4 @@ Videos connected by the topic `text-to-speech`.
 - [Building vibe-rust](https://youtu.be/BT08SXPvV6U) — Development · 61 views · Apr 4, 2026 · [Details](../details/BT08SXPvV6U.md)
 
 ---
-*Auto-generated on May 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 8, 2026. Back to [topic index](index.md).*
