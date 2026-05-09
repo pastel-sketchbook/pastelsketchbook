@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 154
+Total topics: 155
 
 ## Topics
 
@@ -154,6 +154,7 @@ Total topics: 154
 - [time complexity](time-complexity.md) (2)
 - [tokio](tokio.md) (2)
 - [tokio runtime](tokio-runtime.md) (2)
+- [tower service trait](tower-service-trait.md) (2)
 - [travel diary](travel-diary.md) (2)
 - [tree-sitter](tree-sitter.md) (2)
 - [type safety](type-safety.md) (2)
@@ -167,4 +168,4 @@ Total topics: 154
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on May 8, 2026. Back to [videos index](../index.md).*
+*Auto-generated on May 9, 2026. Back to [videos index](../index.md).*

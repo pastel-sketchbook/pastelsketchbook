@@ -32,9 +32,9 @@ This video dissects the architecture of a real-time audio visualizer built with 
 
 - [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) — Development · 134 views · Mar 18, 2026 · [Details](_zJ3_d1CODg.md) (shared: `bevy` · `engine` · `rust`)
 - [Neural TTS in Pastel-HN](https://youtu.be/d_0swhS1LyQ) — Development · 45 views · Feb 1, 2026 · [Details](d_0swhS1LyQ.md) (shared: `rust` · `audio`)
-- [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 4 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `engine` · `rust`)
+- [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 8 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `engine` · `rust`)
+- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 2 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `engine` · `rust`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 88 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 140 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

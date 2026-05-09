@@ -2,7 +2,7 @@
 type: tag
 tags: [zero-cost-abstractions]
 sources: 3
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 # zero-cost abstractions
@@ -16,4 +16,4 @@ Videos connected by the topic `zero-cost abstractions`.
 - [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 47 views · Jan 28, 2026 · [Details](../details/RDa6WtZmW8E.md)
 
 ---
-*Auto-generated on May 8, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 9, 2026. Back to [topic index](index.md).*

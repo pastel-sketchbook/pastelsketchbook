@@ -30,11 +30,11 @@ A visual blueprint of Sequelize's internal architecture, organized into four fun
 
 ## Related Videos
 
-- [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 4 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `orm` · `architecture` · `query`)
+- [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 8 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `orm` · `architecture` · `query`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `architecture` · `query` · `pattern`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 30 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `architecture` · `adapter` · `pattern`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 788 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `pattern` · `testing`)
-- [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 33 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `orm` · `architecture` · `query`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 789 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `pattern` · `testing`)
+- [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 34 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `orm` · `architecture` · `query`)
 
 ---
 *Auto-generated on May 8, 2026. Back to [development](../development.md) · [index](../index.md).*

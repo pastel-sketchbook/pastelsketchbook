@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [sentinel, siem, soar, xdr, llm, security, nist, proxy, pentesting, spider]
 sources: 13
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 # Security
@@ -64,4 +64,4 @@ updated: 2026-05-08
 - [Development](development.md) -- shared tags: `shift left`, `agent`, `ai`, `llm`, `context`, `resilience`, `ssrf`
 
 ---
-*Auto-generated on May 8, 2026. Back to [index](index.md).*
+*Auto-generated on May 9, 2026. Back to [index](index.md).*

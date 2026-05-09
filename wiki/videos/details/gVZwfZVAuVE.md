@@ -33,7 +33,7 @@ This video performs an analytical teardown of how Elixir 1.20 achieved a 400x ac
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `type` · `system`)
 - [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 55 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `binary` · `optimization`)
 - [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 198 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `compiler` · `optimization`)
-- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 152 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `compiler`)
+- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 153 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `compiler`)
 - [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 35 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `normal`)
 
 ---

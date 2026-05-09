@@ -2,7 +2,7 @@
 type: tag
 tags: [zig]
 sources: 9
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 # zig
@@ -12,7 +12,7 @@ Videos connected by the topic `zig`.
 ## Videos
 
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 348 views · Dec 28, 2025 · [Details](../details/olsB3bJxA2A.md)
-- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 152 views · Apr 17, 2026 · [Details](../details/E8f87EV4k3A.md)
+- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 153 views · Apr 17, 2026 · [Details](../details/E8f87EV4k3A.md)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 74 views · Mar 9, 2026 · [Details](../details/7yqkfHo8Mwk.md)
 - [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 62 views · Jan 29, 2026 · [Details](../details/o9yaniXkM-0.md)
 - [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) — Development · 52 views · Feb 28, 2026 · [Details](../details/AcpVuvtSXwI.md)
@@ -22,4 +22,4 @@ Videos connected by the topic `zig`.
 - [Teaching an Ancient Calendar to a Microscopic AI](https://youtu.be/4wX4mGuiTjw) — Development · 9 views · Mar 8, 2026 · [Details](../details/4wX4mGuiTjw.md)
 
 ---
-*Auto-generated on May 8, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 9, 2026. Back to [topic index](index.md).*

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-08T17:04:29.149Z",
-  "totalVideos": 312,
+  "generatedAt": "2026-05-09T22:12:56.834Z",
+  "totalVideos": 317,
   "categories": [
     {
       "name": "korea",
@@ -2854,7 +2854,7 @@
         "development"
       ],
       "videoCount": 65,
-      "totalViews": 1855,
+      "totalViews": 1856,
       "topTags": [
         {
           "tag": "aks",
@@ -2944,7 +2944,7 @@
             {
               "id": "4YsX6tYi5x4",
               "title": "Istio-Based Weighted Traffic Management on AKS",
-              "views": 3,
+              "views": 2,
               "date": "2026-05-06T20:43:06Z",
               "category": "kubernetes",
               "tags": [
@@ -3354,7 +3354,7 @@
             {
               "id": "Pxh2PcNx9W8",
               "title": "Modern Docker Networking & Traefik",
-              "views": 38,
+              "views": 39,
               "date": "2026-03-03T23:15:03Z",
               "category": "kubernetes",
               "tags": [
@@ -4414,7 +4414,7 @@
             {
               "id": "4YsX6tYi5x4",
               "title": "Istio-Based Weighted Traffic Management on AKS",
-              "views": 3,
+              "views": 2,
               "date": "2026-05-06T20:43:06Z",
               "category": "kubernetes",
               "tags": [
@@ -10384,7 +10384,7 @@
             {
               "id": "Pxh2PcNx9W8",
               "title": "Modern Docker Networking & Traefik",
-              "views": 38,
+              "views": 39,
               "date": "2026-03-03T23:15:03Z",
               "category": "kubernetes",
               "tags": [
@@ -10530,7 +10530,7 @@
         {
           "id": "4YsX6tYi5x4",
           "title": "Istio-Based Weighted Traffic Management on AKS",
-          "views": 3,
+          "views": 2,
           "date": "2026-05-06T20:43:06Z",
           "category": "kubernetes",
           "tags": [
@@ -10785,7 +10785,7 @@
         {
           "id": "2ksi8K7wg3I",
           "title": "Kubernetes 1.36 (Haru)",
-          "views": 44,
+          "views": 45,
           "date": "2026-04-23T22:03:32Z",
           "category": "kubernetes",
           "tags": [
@@ -12753,7 +12753,7 @@
         {
           "id": "Pxh2PcNx9W8",
           "title": "Modern Docker Networking & Traefik",
-          "views": 38,
+          "views": 39,
           "date": "2026-03-03T23:15:03Z",
           "category": "kubernetes",
           "tags": [
@@ -15191,12 +15191,12 @@
         "programming",
         "security"
       ],
-      "videoCount": 186,
-      "totalViews": 21965,
+      "videoCount": 191,
+      "totalViews": 22109,
       "topTags": [
         {
           "tag": "rust",
-          "count": 41
+          "count": 45
         },
         {
           "tag": "zig",
@@ -15235,16 +15235,16 @@
           "count": 7
         },
         {
-          "tag": "tracing",
+          "tag": "agent",
           "count": 6
         },
         {
           "tag": "axum",
-          "count": 5
+          "count": 6
         },
         {
-          "tag": "agent",
-          "count": 5
+          "tag": "tracing",
+          "count": 6
         },
         {
           "tag": "curiosity",
@@ -15255,23 +15255,23 @@
           "count": 5
         },
         {
+          "tag": "internal",
+          "count": 4
+        },
+        {
+          "tag": "skill",
+          "count": 4
+        },
+        {
+          "tag": "tonic",
+          "count": 4
+        },
+        {
+          "tag": "rfc",
+          "count": 4
+        },
+        {
           "tag": "typescript",
-          "count": 4
-        },
-        {
-          "tag": "echo",
-          "count": 4
-        },
-        {
-          "tag": "observability",
-          "count": 4
-        },
-        {
-          "tag": "hybrid",
-          "count": 4
-        },
-        {
-          "tag": "llm",
           "count": 4
         }
       ],
@@ -15279,6 +15279,327 @@
         {
           "name": "Rust",
           "videos": [
+            {
+              "id": "8PaVKQoDReY",
+              "title": "Candle: A Minimalist Framework for Serverless ML Inference",
+              "views": 2,
+              "date": "2026-05-09T22:08:03Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "candle",
+                "internal"
+              ],
+              "detail": {
+                "summary": "Candle is a Rust-native machine learning framework engineered for serverless inference, eliminating the Python and C-binding overhead typical of traditional stacks by compiling directly to native binaries or WebAssembly modules. Its architecture layers a tensor abstraction over zero-copy device views and pluggable CPU, CUDA, and Metal backends, enabling cold-start friendly deployment from edge to cloud. The framework supports a broad model ecosystem (Llama, Mistral, Whisper, Flux, SAM) and bridges Python through PyO3 while preserving Rust-native execution speed.",
+                "takeaways": [
+                  "A Rust-native stack with WASM compilation removes Python runtime and C-binding overhead, dramatically reducing cold-start latency for serverless inference.",
+                  "The tensor abstraction is decoupled from device storage through a layout layer that uses shape, stride, and offset for zero-copy views across CPU, CUDA, and Metal backends.",
+                  "Automatic differentiation is built from a four-step pipeline (forward op tracking, topological sort, reverse-mode backprop with gradient accumulation) defined over an op enum.",
+                  "Specialized kernels exploit Rayon multithreading, AVX/NEON/SIMD128 vectorization on CPU, cuDNN and cuBLAS plus custom PTX on CUDA, and Metal SDPA on Apple silicon.",
+                  "Browser inference is achieved via WASM-bindgen, browser cache for weights, and Web Workers running SIMD-128 kernels to keep the UI thread responsive.",
+                  "Multi-turn dialogue formatting uses a Jinja-powered chat template engine with presets for ChatML, Llama 2/3, Mistral, and Phi-3 read directly from `tokenizer.config.json`.",
+                  "ONNX interoperability and a Candle Tensor CLI (inspect, quantize to Q8.0 GGUF, dequantize) round out a production-ready toolchain for safetensors and GGUF formats."
+                ],
+                "topics": [
+                  "rust native ml inference",
+                  "serverless cold start",
+                  "zero copy tensor views",
+                  "automatic differentiation graph",
+                  "cuda metal cpu kernels",
+                  "wasm browser inference",
+                  "chat template engine",
+                  "onnx interoperability",
+                  "gguf safetensors quantization"
+                ],
+                "related": [
+                  {
+                    "id": "joYJ6rPN3UI",
+                    "sharedTopics": [
+                      "rust",
+                      "zero",
+                      "tensor",
+                      "automatic",
+                      "differentiation"
+                    ]
+                  },
+                  {
+                    "id": "_bFOZ51Q55Y",
+                    "sharedTopics": [
+                      "zero",
+                      "copy",
+                      "tensor",
+                      "safetensors"
+                    ]
+                  },
+                  {
+                    "id": "BT08SXPvV6U",
+                    "sharedTopics": [
+                      "rust",
+                      "onnx"
+                    ]
+                  },
+                  {
+                    "id": "yOOQNnaOLeM",
+                    "sharedTopics": [
+                      "rust",
+                      "interoperability"
+                    ]
+                  },
+                  {
+                    "id": "qxOOl1hx1zU",
+                    "sharedTopics": [
+                      "rust",
+                      "cuda"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "qAHyv6G3a7M",
+              "title": "Building the Unified Rust Backend",
+              "views": 23,
+              "date": "2026-05-09T07:32:42Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "tower",
+                "axum",
+                "tonic",
+                "middlewares"
+              ],
+              "detail": {
+                "summary": "This video presents an architectural blueprint for a unified Rust backend that multiplexes HTTP/REST traffic via Axum and gRPC traffic via Tonic behind a shared Tower middleware stack. By standardizing on `http::Request<B>` and the `tower::Service` trait over Hyper, identical authentication, tracing, rate limiting, and security logic runs once across both transport layers. A GeoIP-blocking case study walks through real complexities: thread-safe MMDB readers via `Arc<ArcSwap>`, cross-framework client IP extraction, and protocol-aware error responses.",
+                "takeaways": [
+                  "Tower's `Service` trait abstraction over Hyper allows a single middleware pipeline to serve both Axum REST and Tonic gRPC because gRPC is fundamentally an HTTP/2 POST with `application/grpc` content type.",
+                  "Multiplexing at the edge inspects `content-type` headers to route gRPC requests to Tonic and everything else to the Axum router while keeping security and observability uniform.",
+                  "MaxMind MMDB readers are shared across threads using memory mapping plus `Arc` for sync safety, and wrapped in `arc_swap` to enable hot-reloading without restarting the process.",
+                  "Client IP extraction must fall back across `axum::extract::ConnectInfo` and `tonic::transport::server::TcpConnectInfo`, since each framework exposes connection metadata differently.",
+                  "Protocol-aware error handling returns a standard 403 for HTTP but an HTTP 200 with `grpc-status: 7` for gRPC clients, preventing generic transport errors on the client side.",
+                  "Cargo feature flags wrap framework-specific code so shared crates compile leanly when only Axum or only Tonic is needed, achieving zero-cost protocol awareness.",
+                  "Generic body types (`http::Request<B>` with `B: Default`) and consistent return shapes form the \"Rosetta Stone\" pattern that lets shared middleware remain transport-agnostic."
+                ],
+                "topics": [
+                  "unified rust backend",
+                  "tower service trait",
+                  "axum tonic multiplexing",
+                  "shared middleware pipeline",
+                  "geoip blocking maxmind",
+                  "arc swap hot reload",
+                  "cross framework ip extraction",
+                  "protocol aware error handling",
+                  "cargo feature flag gating"
+                ],
+                "related": [
+                  {
+                    "id": "07aDX5YB-ao",
+                    "sharedTopics": [
+                      "unified",
+                      "tower service trait",
+                      "tower",
+                      "service",
+                      "trait"
+                    ]
+                  },
+                  {
+                    "id": "DwAOCljoNoc",
+                    "sharedTopics": [
+                      "rust",
+                      "tower",
+                      "service",
+                      "trait",
+                      "feature"
+                    ]
+                  },
+                  {
+                    "id": "J4iGUAXcAOA",
+                    "sharedTopics": [
+                      "rust",
+                      "tower",
+                      "axum",
+                      "middleware",
+                      "framework"
+                    ]
+                  },
+                  {
+                    "id": "7zFqW-ZcEbo",
+                    "sharedTopics": [
+                      "tower",
+                      "service",
+                      "axum",
+                      "tonic",
+                      "framework"
+                    ]
+                  },
+                  {
+                    "id": "L9ypC5863yA",
+                    "sharedTopics": [
+                      "rust",
+                      "tonic",
+                      "multiplexing",
+                      "blocking"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "_bFOZ51Q55Y",
+              "title": "Burn: The Rust Deep Learning Framework",
+              "views": 16,
+              "date": "2026-05-09T02:40:33Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "burn",
+                "internal"
+              ],
+              "detail": {
+                "summary": "Burn is a Rust deep learning framework built on a hardware-agnostic tensor abstraction that dispatches identical model code to CUDA, Metal, CPU, WASM, and bare-metal `no_std` targets without changes. It pairs CubeCL kernel fusion and compile-time named-tensor dimensionality validation with a complete training stack — Learner orchestration, async telemetry, BurnPack zero-copy serialization, and modular adapters that ingest PyTorch and safetensors files directly. Burn Remote and Burn RL extend the framework to distributed training and asynchronous reinforcement learning agents.",
+                "takeaways": [
+                  "A unified `Backend` trait lets a single `burn::tensor` API target CUDA, Metal, CPU, WASM, or no_std embedded ARM through runtime backend dispatch with zero model-code changes.",
+                  "Backend selection trades capabilities: CubeCL JIT for cross-platform GPU, CUDA for NVIDIA AOT/JIT performance, NDArray as the only no_std-capable option for embedded, and Torch for prototyping bridges.",
+                  "CubeCL kernel fusion automatically merges sequential ops (matmul → add → relu) into a single GPU kernel, shifting workloads from memory-bound to compute-bound.",
+                  "Experimental named-tensor support uses Rust's type system to map dimensions to semantic names (`d_model`, `hidden`), catching shape mismatches at compile time instead of runtime.",
+                  "The Learner struct centralizes the training/validation/checkpoint loop and dispatches telemetry to an async background thread so logging never blocks GPU computation.",
+                  "BurnPack aligns tensor data blocks to 256-byte boundaries, enabling zero-copy memory-mapped loading directly from disk without intermediate RAM allocation.",
+                  "Modular adapters (module adapter for shape transforms, key remapper for naming via regex) ingest PyTorch and safetensors files into native burn snapshots with minimal manual work.",
+                  "Burn Remote uses WebSockets to transparently route operations to network-attached hardware, while Burn RL offloads policy inference to async background threads with dynamic batching."
+                ],
+                "topics": [
+                  "hardware agnostic tensor",
+                  "cubecl kernel fusion",
+                  "compile time named tensors",
+                  "learner training orchestration",
+                  "burnpack zero copy serialization",
+                  "pytorch safetensors adapters",
+                  "no std embedded deployment",
+                  "asynchronous reinforcement learning",
+                  "multi backend dispatch"
+                ],
+                "related": [
+                  {
+                    "id": "joYJ6rPN3UI",
+                    "sharedTopics": [
+                      "tensor",
+                      "zero",
+                      "learning",
+                      "backend"
+                    ]
+                  },
+                  {
+                    "id": "8PaVKQoDReY",
+                    "sharedTopics": [
+                      "tensor",
+                      "zero",
+                      "copy",
+                      "safetensors"
+                    ]
+                  },
+                  {
+                    "id": "tyR8SdHpOeY",
+                    "sharedTopics": [
+                      "zero",
+                      "deployment"
+                    ]
+                  },
+                  {
+                    "id": "d1MH4nza95g",
+                    "sharedTopics": [
+                      "compile",
+                      "time",
+                      "dispatch"
+                    ]
+                  },
+                  {
+                    "id": "SpNfrWmI8iE",
+                    "sharedTopics": [
+                      "orchestration",
+                      "backend"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "SuuZW_fuEFc",
+              "title": "rr-mailtrap: The Developer's SMTP Sandbox",
+              "views": 12,
+              "date": "2026-05-08T17:38:27Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "smtp",
+                "trap",
+                "rfc",
+                "magika"
+              ],
+              "detail": {
+                "summary": "rr-mailtrap is a single-binary Rust SMTP sandbox that traps outbound test mail on localhost, exposing a Ratatui-powered TUI, an HTTP API with Prometheus metrics, and webhook integrations. It deliberately breaks production SMTP rules — accepting all messages, skipping credential validation, anchoring to 127.0.0.1 — to make local email testing safe and frictionless. Built-in chaos mode injects latency and SMTP failures, while an embedded Google Magika ONNX model provides AI-driven content-type detection at roughly 5 ms per file with ~99% accuracy.",
+                "takeaways": [
+                  "A single binary with zero external dependencies bundles the SMTP server, TLS handling, HTTP API, and Ratatui TUI for portable, no-sidecar local testing.",
+                  "The \"accept everything, inspect later\" pillar pairs with strict SMTP protocol fidelity (EHLO capabilities, response codes) so production mail clients behave identically against the trap.",
+                  "Chaos mode parameters like `--reject-rate` and `--slow-data-ms` simulate transient SMTP failures and latency without needing a separate proxy or fault-injection tool.",
+                  "Embedded Google Magika ONNX (~3 MB) detects 200+ file types at ~5 ms per file, exposing MIME mismatches where clients label PDFs as `application/octet-stream`.",
+                  "The synchronous ingest pipeline runs Magika via `tokio::task::spawn_blocking` so deep-learning content detection never blocks the async SMTP listener.",
+                  "Magika ONNX in-process beats `file(1)` and the Magika CLI by eliminating per-attachment process spawn overhead while remaining fully cross-platform.",
+                  "The Ratatui TUI offers vim-style navigation (`j`/`k`, `/`), inspection shortcuts (`H` headers, `B` body, `M` MIME tree, `R` raw, `T` SMTP transcript), and actions (`S` export EML, `A` save attachments).",
+                  "Loopback anchoring to 127.0.0.1 plus optional opt-in relay host guarantees test data never reaches real users while preserving full protocol-level realism."
+                ],
+                "topics": [
+                  "smtp sandbox trap",
+                  "ratatui terminal ui",
+                  "chaos mode fault injection",
+                  "magika onnx content detection",
+                  "mime mismatch validation",
+                  "single binary zero dependencies",
+                  "loopback safety net",
+                  "prometheus metrics webhooks",
+                  "mbox import export"
+                ],
+                "related": [
+                  {
+                    "id": "85pyYZFJ6_s",
+                    "sharedTopics": [
+                      "magika",
+                      "content",
+                      "detection",
+                      "validation"
+                    ]
+                  },
+                  {
+                    "id": "joYJ6rPN3UI",
+                    "sharedTopics": [
+                      "onnx",
+                      "zero",
+                      "safety"
+                    ]
+                  },
+                  {
+                    "id": "xVmoqBYlQMU",
+                    "sharedTopics": [
+                      "binary",
+                      "dependencies"
+                    ]
+                  },
+                  {
+                    "id": "sGQrnPJSsPc",
+                    "sharedTopics": [
+                      "mode",
+                      "detection"
+                    ]
+                  },
+                  {
+                    "id": "eJlXFaZNP6g",
+                    "sharedTopics": [
+                      "zero",
+                      "safety"
+                    ]
+                  }
+                ]
+              }
+            },
             {
               "id": "UOOkDh4RUbE",
               "title": "Architecture Review: tn-file-upload",
@@ -15363,7 +15684,7 @@
             {
               "id": "d1MH4nza95g",
               "title": "Tracing Asynchronous Rust",
-              "views": 89,
+              "views": 91,
               "date": "2026-05-03T16:24:44Z",
               "category": "development",
               "tags": [
@@ -15443,7 +15764,7 @@
             {
               "id": "07aDX5YB-ao",
               "title": "Modular Networking Architecture in Rust",
-              "views": 46,
+              "views": 47,
               "date": "2026-05-03T06:22:41Z",
               "category": "development",
               "tags": [
@@ -15472,6 +15793,16 @@
                   "unified http grpc stack"
                 ],
                 "related": [
+                  {
+                    "id": "qAHyv6G3a7M",
+                    "sharedTopics": [
+                      "tower service trait",
+                      "tower",
+                      "service",
+                      "trait",
+                      "protocol"
+                    ]
+                  },
                   {
                     "id": "DwAOCljoNoc",
                     "sharedTopics": [
@@ -15507,14 +15838,6 @@
                       "tonic",
                       "patterns",
                       "http",
-                      "grpc"
-                    ]
-                  },
-                  {
-                    "id": "90hw9qwXbbw",
-                    "sharedTopics": [
-                      "service",
-                      "tonic",
                       "grpc"
                     ]
                   }
@@ -15589,11 +15912,13 @@
                     ]
                   },
                   {
-                    "id": "xVmoqBYlQMU",
+                    "id": "qAHyv6G3a7M",
                     "sharedTopics": [
                       "rust",
+                      "service",
+                      "trait",
                       "feature",
-                      "flags"
+                      "tower"
                     ]
                   }
                 ]
@@ -15602,7 +15927,7 @@
             {
               "id": "90hw9qwXbbw",
               "title": "Architecting with Tonic",
-              "views": 140,
+              "views": 142,
               "date": "2026-05-02T09:48:38Z",
               "category": "development",
               "tags": [
@@ -15733,6 +16058,16 @@
                     ]
                   },
                   {
+                    "id": "qAHyv6G3a7M",
+                    "sharedTopics": [
+                      "axum",
+                      "rust",
+                      "framework",
+                      "tower",
+                      "middleware"
+                    ]
+                  },
+                  {
                     "id": "7zFqW-ZcEbo",
                     "sharedTopics": [
                       "axum",
@@ -15747,14 +16082,6 @@
                       "type safety",
                       "type",
                       "safety"
-                    ]
-                  },
-                  {
-                    "id": "DwAOCljoNoc",
-                    "sharedTopics": [
-                      "rust",
-                      "tower",
-                      "hyper"
                     ]
                   }
                 ]
@@ -15838,7 +16165,7 @@
             {
               "id": "L9ypC5863yA",
               "title": "The Microservices Communication Playbook",
-              "views": 121,
+              "views": 123,
               "date": "2026-04-24T20:19:57Z",
               "category": "development",
               "tags": [
@@ -15918,7 +16245,7 @@
             {
               "id": "NhYb7QkBdMs",
               "title": "Rusty Object Notation (RON)",
-              "views": 148,
+              "views": 149,
               "date": "2026-04-24T06:12:06Z",
               "category": "development",
               "tags": [
@@ -16135,7 +16462,7 @@
             {
               "id": "izLrX-02IQk",
               "title": "Rust 1.95.0",
-              "views": 202,
+              "views": 203,
               "date": "2026-04-18T20:42:55Z",
               "category": "development",
               "tags": [
@@ -16276,7 +16603,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4161,
+              "views": 4162,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -16717,13 +17044,14 @@
                     ]
                   },
                   {
-                    "id": "0Sed1oggMKY",
+                    "id": "8PaVKQoDReY",
                     "sharedTopics": [
+                      "engine",
                       "rust"
                     ]
                   },
                   {
-                    "id": "90hw9qwXbbw",
+                    "id": "0Sed1oggMKY",
                     "sharedTopics": [
                       "rust"
                     ]
@@ -17333,7 +17661,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 97,
+              "views": 99,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -17397,7 +17725,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 389,
+              "views": 394,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -17425,6 +17753,16 @@
                   "multi-threaded data loading"
                 ],
                 "related": [
+                  {
+                    "id": "8PaVKQoDReY",
+                    "sharedTopics": [
+                      "rust",
+                      "tensor",
+                      "automatic",
+                      "differentiation",
+                      "zero"
+                    ]
+                  },
                   {
                     "id": "LnJbrb0EUaE",
                     "sharedTopics": [
@@ -17456,14 +17794,6 @@
                       "rust",
                       "architecture",
                       "backend"
-                    ]
-                  },
-                  {
-                    "id": "xVdW3yUCbuU",
-                    "sharedTopics": [
-                      "rust",
-                      "code",
-                      "generation"
                     ]
                   }
                 ]
@@ -18613,9 +18943,164 @@
           "name": "AI & ML",
           "videos": [
             {
+              "id": "8PaVKQoDReY",
+              "title": "Candle: A Minimalist Framework for Serverless ML Inference",
+              "views": 2,
+              "date": "2026-05-09T22:08:03Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "candle",
+                "internal"
+              ],
+              "detail": {
+                "summary": "Candle is a Rust-native machine learning framework engineered for serverless inference, eliminating the Python and C-binding overhead typical of traditional stacks by compiling directly to native binaries or WebAssembly modules. Its architecture layers a tensor abstraction over zero-copy device views and pluggable CPU, CUDA, and Metal backends, enabling cold-start friendly deployment from edge to cloud. The framework supports a broad model ecosystem (Llama, Mistral, Whisper, Flux, SAM) and bridges Python through PyO3 while preserving Rust-native execution speed.",
+                "takeaways": [
+                  "A Rust-native stack with WASM compilation removes Python runtime and C-binding overhead, dramatically reducing cold-start latency for serverless inference.",
+                  "The tensor abstraction is decoupled from device storage through a layout layer that uses shape, stride, and offset for zero-copy views across CPU, CUDA, and Metal backends.",
+                  "Automatic differentiation is built from a four-step pipeline (forward op tracking, topological sort, reverse-mode backprop with gradient accumulation) defined over an op enum.",
+                  "Specialized kernels exploit Rayon multithreading, AVX/NEON/SIMD128 vectorization on CPU, cuDNN and cuBLAS plus custom PTX on CUDA, and Metal SDPA on Apple silicon.",
+                  "Browser inference is achieved via WASM-bindgen, browser cache for weights, and Web Workers running SIMD-128 kernels to keep the UI thread responsive.",
+                  "Multi-turn dialogue formatting uses a Jinja-powered chat template engine with presets for ChatML, Llama 2/3, Mistral, and Phi-3 read directly from `tokenizer.config.json`.",
+                  "ONNX interoperability and a Candle Tensor CLI (inspect, quantize to Q8.0 GGUF, dequantize) round out a production-ready toolchain for safetensors and GGUF formats."
+                ],
+                "topics": [
+                  "rust native ml inference",
+                  "serverless cold start",
+                  "zero copy tensor views",
+                  "automatic differentiation graph",
+                  "cuda metal cpu kernels",
+                  "wasm browser inference",
+                  "chat template engine",
+                  "onnx interoperability",
+                  "gguf safetensors quantization"
+                ],
+                "related": [
+                  {
+                    "id": "joYJ6rPN3UI",
+                    "sharedTopics": [
+                      "rust",
+                      "zero",
+                      "tensor",
+                      "automatic",
+                      "differentiation"
+                    ]
+                  },
+                  {
+                    "id": "_bFOZ51Q55Y",
+                    "sharedTopics": [
+                      "zero",
+                      "copy",
+                      "tensor",
+                      "safetensors"
+                    ]
+                  },
+                  {
+                    "id": "BT08SXPvV6U",
+                    "sharedTopics": [
+                      "rust",
+                      "onnx"
+                    ]
+                  },
+                  {
+                    "id": "yOOQNnaOLeM",
+                    "sharedTopics": [
+                      "rust",
+                      "interoperability"
+                    ]
+                  },
+                  {
+                    "id": "qxOOl1hx1zU",
+                    "sharedTopics": [
+                      "rust",
+                      "cuda"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "SuuZW_fuEFc",
+              "title": "rr-mailtrap: The Developer's SMTP Sandbox",
+              "views": 12,
+              "date": "2026-05-08T17:38:27Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "smtp",
+                "trap",
+                "rfc",
+                "magika"
+              ],
+              "detail": {
+                "summary": "rr-mailtrap is a single-binary Rust SMTP sandbox that traps outbound test mail on localhost, exposing a Ratatui-powered TUI, an HTTP API with Prometheus metrics, and webhook integrations. It deliberately breaks production SMTP rules — accepting all messages, skipping credential validation, anchoring to 127.0.0.1 — to make local email testing safe and frictionless. Built-in chaos mode injects latency and SMTP failures, while an embedded Google Magika ONNX model provides AI-driven content-type detection at roughly 5 ms per file with ~99% accuracy.",
+                "takeaways": [
+                  "A single binary with zero external dependencies bundles the SMTP server, TLS handling, HTTP API, and Ratatui TUI for portable, no-sidecar local testing.",
+                  "The \"accept everything, inspect later\" pillar pairs with strict SMTP protocol fidelity (EHLO capabilities, response codes) so production mail clients behave identically against the trap.",
+                  "Chaos mode parameters like `--reject-rate` and `--slow-data-ms` simulate transient SMTP failures and latency without needing a separate proxy or fault-injection tool.",
+                  "Embedded Google Magika ONNX (~3 MB) detects 200+ file types at ~5 ms per file, exposing MIME mismatches where clients label PDFs as `application/octet-stream`.",
+                  "The synchronous ingest pipeline runs Magika via `tokio::task::spawn_blocking` so deep-learning content detection never blocks the async SMTP listener.",
+                  "Magika ONNX in-process beats `file(1)` and the Magika CLI by eliminating per-attachment process spawn overhead while remaining fully cross-platform.",
+                  "The Ratatui TUI offers vim-style navigation (`j`/`k`, `/`), inspection shortcuts (`H` headers, `B` body, `M` MIME tree, `R` raw, `T` SMTP transcript), and actions (`S` export EML, `A` save attachments).",
+                  "Loopback anchoring to 127.0.0.1 plus optional opt-in relay host guarantees test data never reaches real users while preserving full protocol-level realism."
+                ],
+                "topics": [
+                  "smtp sandbox trap",
+                  "ratatui terminal ui",
+                  "chaos mode fault injection",
+                  "magika onnx content detection",
+                  "mime mismatch validation",
+                  "single binary zero dependencies",
+                  "loopback safety net",
+                  "prometheus metrics webhooks",
+                  "mbox import export"
+                ],
+                "related": [
+                  {
+                    "id": "85pyYZFJ6_s",
+                    "sharedTopics": [
+                      "magika",
+                      "content",
+                      "detection",
+                      "validation"
+                    ]
+                  },
+                  {
+                    "id": "joYJ6rPN3UI",
+                    "sharedTopics": [
+                      "onnx",
+                      "zero",
+                      "safety"
+                    ]
+                  },
+                  {
+                    "id": "xVmoqBYlQMU",
+                    "sharedTopics": [
+                      "binary",
+                      "dependencies"
+                    ]
+                  },
+                  {
+                    "id": "sGQrnPJSsPc",
+                    "sharedTopics": [
+                      "mode",
+                      "detection"
+                    ]
+                  },
+                  {
+                    "id": "eJlXFaZNP6g",
+                    "sharedTopics": [
+                      "zero",
+                      "safety"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "85pyYZFJ6_s",
               "title": "The Evolution of File Detection",
-              "views": 25,
+              "views": 32,
               "date": "2026-05-07T08:54:01Z",
               "category": "development",
               "tags": [
@@ -18643,6 +19128,15 @@
                 ],
                 "related": [
                   {
+                    "id": "SuuZW_fuEFc",
+                    "sharedTopics": [
+                      "detection",
+                      "magika",
+                      "content",
+                      "validation"
+                    ]
+                  },
+                  {
                     "id": "H-gkXATx8r0",
                     "sharedTopics": [
                       "google",
@@ -18665,12 +19159,6 @@
                   },
                   {
                     "id": "0NLj8g2hQNk",
-                    "sharedTopics": [
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "pzVOjl6mOD4",
                     "sharedTopics": [
                       "security"
                     ]
@@ -18758,7 +19246,7 @@
             {
               "id": "BQ4wab0UtLg",
               "title": "From Louvain to Leiden",
-              "views": 27,
+              "views": 28,
               "date": "2026-04-26T15:40:42Z",
               "category": "development",
               "tags": [
@@ -18830,7 +19318,7 @@
             {
               "id": "yAeM2vpPWeM",
               "title": "Design for Deletion",
-              "views": 154,
+              "views": 156,
               "date": "2026-04-25T10:56:42Z",
               "category": "development",
               "tags": [
@@ -19056,7 +19544,7 @@
             {
               "id": "z_W9dX6fliM",
               "title": "The Agentic Future",
-              "views": 62,
+              "views": 68,
               "date": "2026-04-24T15:58:08Z",
               "category": "development",
               "tags": [
@@ -19265,7 +19753,7 @@
             {
               "id": "E8f87EV4k3A",
               "title": "A Compiler, Not a Renderer",
-              "views": 152,
+              "views": 153,
               "date": "2026-04-17T12:06:22Z",
               "category": "development",
               "tags": [
@@ -19475,7 +19963,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 139,
+              "views": 146,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -19551,7 +20039,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2632,
+              "views": 2640,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -20621,7 +21109,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 670,
+              "views": 671,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -21543,7 +22031,7 @@
             {
               "id": "yAeM2vpPWeM",
               "title": "Design for Deletion",
-              "views": 154,
+              "views": 156,
               "date": "2026-04-25T10:56:42Z",
               "category": "development",
               "tags": [
@@ -21622,7 +22110,7 @@
             {
               "id": "L9ypC5863yA",
               "title": "The Microservices Communication Playbook",
-              "views": 121,
+              "views": 123,
               "date": "2026-04-24T20:19:57Z",
               "category": "development",
               "tags": [
@@ -23155,7 +23643,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 799,
+              "views": 806,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -23578,7 +24066,7 @@
             {
               "id": "LnJbrb0EUaE",
               "title": "The Prisma Ecosystem Architecture",
-              "views": 4,
+              "views": 8,
               "date": "2026-05-08T13:24:16Z",
               "category": "development",
               "tags": [
@@ -23658,7 +24146,7 @@
             {
               "id": "ZUINk3dp9eA",
               "title": "The Architecture of Sequelize",
-              "views": 9,
+              "views": 10,
               "date": "2026-05-08T05:09:13Z",
               "category": "development",
               "tags": [
@@ -23734,7 +24222,7 @@
             {
               "id": "eJlXFaZNP6g",
               "title": "TigerStyle: The Architecture of Elegance",
-              "views": 34,
+              "views": 35,
               "date": "2026-05-06T02:19:03Z",
               "category": "development",
               "tags": [
@@ -23962,7 +24450,7 @@
             {
               "id": "07aDX5YB-ao",
               "title": "Modular Networking Architecture in Rust",
-              "views": 46,
+              "views": 47,
               "date": "2026-05-03T06:22:41Z",
               "category": "development",
               "tags": [
@@ -23991,6 +24479,16 @@
                   "unified http grpc stack"
                 ],
                 "related": [
+                  {
+                    "id": "qAHyv6G3a7M",
+                    "sharedTopics": [
+                      "tower service trait",
+                      "tower",
+                      "service",
+                      "trait",
+                      "protocol"
+                    ]
+                  },
                   {
                     "id": "DwAOCljoNoc",
                     "sharedTopics": [
@@ -24026,14 +24524,6 @@
                       "tonic",
                       "patterns",
                       "http",
-                      "grpc"
-                    ]
-                  },
-                  {
-                    "id": "90hw9qwXbbw",
-                    "sharedTopics": [
-                      "service",
-                      "tonic",
                       "grpc"
                     ]
                   }
@@ -24187,7 +24677,7 @@
             {
               "id": "R3n8UxyD7mc",
               "title": "The Architecture of Systemic Decoupling",
-              "views": 54,
+              "views": 55,
               "date": "2026-04-27T22:23:45Z",
               "category": "development",
               "tags": [
@@ -24270,7 +24760,7 @@
             {
               "id": "L9ypC5863yA",
               "title": "The Microservices Communication Playbook",
-              "views": 121,
+              "views": 123,
               "date": "2026-04-24T20:19:57Z",
               "category": "development",
               "tags": [
@@ -24569,7 +25059,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4161,
+              "views": 4162,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -24963,7 +25453,7 @@
             {
               "id": "E30riOZ-YVo",
               "title": "The Architect's ORM Blueprint",
-              "views": 33,
+              "views": 34,
               "date": "2026-05-05T06:35:36Z",
               "category": "development",
               "tags": [
@@ -25407,7 +25897,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 97,
+              "views": 99,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -26401,9 +26891,406 @@
       ],
       "videos": [
         {
+          "id": "8PaVKQoDReY",
+          "title": "Candle: A Minimalist Framework for Serverless ML Inference",
+          "views": 2,
+          "date": "2026-05-09T22:08:03Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "candle",
+            "internal"
+          ],
+          "detail": {
+            "summary": "Candle is a Rust-native machine learning framework engineered for serverless inference, eliminating the Python and C-binding overhead typical of traditional stacks by compiling directly to native binaries or WebAssembly modules. Its architecture layers a tensor abstraction over zero-copy device views and pluggable CPU, CUDA, and Metal backends, enabling cold-start friendly deployment from edge to cloud. The framework supports a broad model ecosystem (Llama, Mistral, Whisper, Flux, SAM) and bridges Python through PyO3 while preserving Rust-native execution speed.",
+            "takeaways": [
+              "A Rust-native stack with WASM compilation removes Python runtime and C-binding overhead, dramatically reducing cold-start latency for serverless inference.",
+              "The tensor abstraction is decoupled from device storage through a layout layer that uses shape, stride, and offset for zero-copy views across CPU, CUDA, and Metal backends.",
+              "Automatic differentiation is built from a four-step pipeline (forward op tracking, topological sort, reverse-mode backprop with gradient accumulation) defined over an op enum.",
+              "Specialized kernels exploit Rayon multithreading, AVX/NEON/SIMD128 vectorization on CPU, cuDNN and cuBLAS plus custom PTX on CUDA, and Metal SDPA on Apple silicon.",
+              "Browser inference is achieved via WASM-bindgen, browser cache for weights, and Web Workers running SIMD-128 kernels to keep the UI thread responsive.",
+              "Multi-turn dialogue formatting uses a Jinja-powered chat template engine with presets for ChatML, Llama 2/3, Mistral, and Phi-3 read directly from `tokenizer.config.json`.",
+              "ONNX interoperability and a Candle Tensor CLI (inspect, quantize to Q8.0 GGUF, dequantize) round out a production-ready toolchain for safetensors and GGUF formats."
+            ],
+            "topics": [
+              "rust native ml inference",
+              "serverless cold start",
+              "zero copy tensor views",
+              "automatic differentiation graph",
+              "cuda metal cpu kernels",
+              "wasm browser inference",
+              "chat template engine",
+              "onnx interoperability",
+              "gguf safetensors quantization"
+            ],
+            "related": [
+              {
+                "id": "joYJ6rPN3UI",
+                "sharedTopics": [
+                  "rust",
+                  "zero",
+                  "tensor",
+                  "automatic",
+                  "differentiation"
+                ]
+              },
+              {
+                "id": "_bFOZ51Q55Y",
+                "sharedTopics": [
+                  "zero",
+                  "copy",
+                  "tensor",
+                  "safetensors"
+                ]
+              },
+              {
+                "id": "BT08SXPvV6U",
+                "sharedTopics": [
+                  "rust",
+                  "onnx"
+                ]
+              },
+              {
+                "id": "yOOQNnaOLeM",
+                "sharedTopics": [
+                  "rust",
+                  "interoperability"
+                ]
+              },
+              {
+                "id": "qxOOl1hx1zU",
+                "sharedTopics": [
+                  "rust",
+                  "cuda"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "jOw6d5zH658",
+          "title": "Engineering Al Agent Mastery with Waza",
+          "views": 7,
+          "date": "2026-05-09T14:32:47Z",
+          "category": "development",
+          "tags": [
+            "agent",
+            "skill",
+            "tool",
+            "waza"
+          ],
+          "detail": {
+            "summary": "Waza is a structured methodology and CLI for engineering AI agent skills under a measure-refine-master loop, replacing ad-hoc prompt scripting with a rigorous evaluation discipline. It uses declarative YAML eval specifications, fixture isolation, pluggable graders, and LLM-as-judge rubrics to validate non-deterministic agent behavior reproducibly. Continuous improvement is sealed by Azure Blob Storage for historical baselines, an interactive web dashboard, CI/CD gating with deterministic mock executors, and proactive token-budget enforcement.",
+            "takeaways": [
+              "Non-deterministic agent outputs make traditional unit tests insufficient; Waza standardizes evaluation around a measure-refine-master pipeline scaffolded by `waza init` and `waza new eval`.",
+              "Benchmarks are defined declaratively in `eval.yaml` with static or CSV-driven inputs, lifecycle hooks, and pluggable graders, then executed concurrently with caching via `waza run`.",
+              "Cross-model A/B comparisons via `waza compare` track per-task score deltas, pass-rate differences, and aggregate token usage to drive evidence-based iteration.",
+              "Readiness reports gate submissions across compliance scoring, token budget verification, eval suite presence, spec compliance, and advisory checks before code can merge.",
+              "CI/CD integration uses a deterministic mock executor to eliminate live API key dependencies and flaky LLM calls, with strict exit-code routing (0/1/2) controlling merge gates.",
+              "`waza tokens profile` and `waza tokens compare` enforce absolute and percentage token-growth thresholds against the main branch to protect agent context windows.",
+              "Azure Blob Storage organizes JSON results by skill name and run ID, while `waza serve` powers an interactive dashboard with score distributions, pass/fail charts, and trend indicators."
+            ],
+            "topics": [
+              "ai agent evaluation",
+              "declarative yaml eval specs",
+              "cross model ab comparison",
+              "llm as judge graders",
+              "cicd mock executor",
+              "token budget enforcement",
+              "azure blob historical baseline",
+              "agent skill scaffolding",
+              "interactive web dashboard"
+            ],
+            "related": [
+              {
+                "id": "JeqaHMmSh1s",
+                "sharedTopics": [
+                  "yaml",
+                  "model",
+                  "token",
+                  "skill"
+                ]
+              },
+              {
+                "id": "T-NdEF6btbg",
+                "sharedTopics": [
+                  "agent",
+                  "model",
+                  "token"
+                ]
+              },
+              {
+                "id": "RDa6WtZmW8E",
+                "sharedTopics": [
+                  "yaml",
+                  "model"
+                ]
+              },
+              {
+                "id": "js95nIDeA-c",
+                "sharedTopics": [
+                  "model",
+                  "web"
+                ]
+              },
+              {
+                "id": "i1HT5UIccTs",
+                "sharedTopics": [
+                  "agent",
+                  "scaffolding"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "qAHyv6G3a7M",
+          "title": "Building the Unified Rust Backend",
+          "views": 23,
+          "date": "2026-05-09T07:32:42Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "tower",
+            "axum",
+            "tonic",
+            "middlewares"
+          ],
+          "detail": {
+            "summary": "This video presents an architectural blueprint for a unified Rust backend that multiplexes HTTP/REST traffic via Axum and gRPC traffic via Tonic behind a shared Tower middleware stack. By standardizing on `http::Request<B>` and the `tower::Service` trait over Hyper, identical authentication, tracing, rate limiting, and security logic runs once across both transport layers. A GeoIP-blocking case study walks through real complexities: thread-safe MMDB readers via `Arc<ArcSwap>`, cross-framework client IP extraction, and protocol-aware error responses.",
+            "takeaways": [
+              "Tower's `Service` trait abstraction over Hyper allows a single middleware pipeline to serve both Axum REST and Tonic gRPC because gRPC is fundamentally an HTTP/2 POST with `application/grpc` content type.",
+              "Multiplexing at the edge inspects `content-type` headers to route gRPC requests to Tonic and everything else to the Axum router while keeping security and observability uniform.",
+              "MaxMind MMDB readers are shared across threads using memory mapping plus `Arc` for sync safety, and wrapped in `arc_swap` to enable hot-reloading without restarting the process.",
+              "Client IP extraction must fall back across `axum::extract::ConnectInfo` and `tonic::transport::server::TcpConnectInfo`, since each framework exposes connection metadata differently.",
+              "Protocol-aware error handling returns a standard 403 for HTTP but an HTTP 200 with `grpc-status: 7` for gRPC clients, preventing generic transport errors on the client side.",
+              "Cargo feature flags wrap framework-specific code so shared crates compile leanly when only Axum or only Tonic is needed, achieving zero-cost protocol awareness.",
+              "Generic body types (`http::Request<B>` with `B: Default`) and consistent return shapes form the \"Rosetta Stone\" pattern that lets shared middleware remain transport-agnostic."
+            ],
+            "topics": [
+              "unified rust backend",
+              "tower service trait",
+              "axum tonic multiplexing",
+              "shared middleware pipeline",
+              "geoip blocking maxmind",
+              "arc swap hot reload",
+              "cross framework ip extraction",
+              "protocol aware error handling",
+              "cargo feature flag gating"
+            ],
+            "related": [
+              {
+                "id": "07aDX5YB-ao",
+                "sharedTopics": [
+                  "unified",
+                  "tower service trait",
+                  "tower",
+                  "service",
+                  "trait"
+                ]
+              },
+              {
+                "id": "DwAOCljoNoc",
+                "sharedTopics": [
+                  "rust",
+                  "tower",
+                  "service",
+                  "trait",
+                  "feature"
+                ]
+              },
+              {
+                "id": "J4iGUAXcAOA",
+                "sharedTopics": [
+                  "rust",
+                  "tower",
+                  "axum",
+                  "middleware",
+                  "framework"
+                ]
+              },
+              {
+                "id": "7zFqW-ZcEbo",
+                "sharedTopics": [
+                  "tower",
+                  "service",
+                  "axum",
+                  "tonic",
+                  "framework"
+                ]
+              },
+              {
+                "id": "L9ypC5863yA",
+                "sharedTopics": [
+                  "rust",
+                  "tonic",
+                  "multiplexing",
+                  "blocking"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "_bFOZ51Q55Y",
+          "title": "Burn: The Rust Deep Learning Framework",
+          "views": 16,
+          "date": "2026-05-09T02:40:33Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "burn",
+            "internal"
+          ],
+          "detail": {
+            "summary": "Burn is a Rust deep learning framework built on a hardware-agnostic tensor abstraction that dispatches identical model code to CUDA, Metal, CPU, WASM, and bare-metal `no_std` targets without changes. It pairs CubeCL kernel fusion and compile-time named-tensor dimensionality validation with a complete training stack — Learner orchestration, async telemetry, BurnPack zero-copy serialization, and modular adapters that ingest PyTorch and safetensors files directly. Burn Remote and Burn RL extend the framework to distributed training and asynchronous reinforcement learning agents.",
+            "takeaways": [
+              "A unified `Backend` trait lets a single `burn::tensor` API target CUDA, Metal, CPU, WASM, or no_std embedded ARM through runtime backend dispatch with zero model-code changes.",
+              "Backend selection trades capabilities: CubeCL JIT for cross-platform GPU, CUDA for NVIDIA AOT/JIT performance, NDArray as the only no_std-capable option for embedded, and Torch for prototyping bridges.",
+              "CubeCL kernel fusion automatically merges sequential ops (matmul → add → relu) into a single GPU kernel, shifting workloads from memory-bound to compute-bound.",
+              "Experimental named-tensor support uses Rust's type system to map dimensions to semantic names (`d_model`, `hidden`), catching shape mismatches at compile time instead of runtime.",
+              "The Learner struct centralizes the training/validation/checkpoint loop and dispatches telemetry to an async background thread so logging never blocks GPU computation.",
+              "BurnPack aligns tensor data blocks to 256-byte boundaries, enabling zero-copy memory-mapped loading directly from disk without intermediate RAM allocation.",
+              "Modular adapters (module adapter for shape transforms, key remapper for naming via regex) ingest PyTorch and safetensors files into native burn snapshots with minimal manual work.",
+              "Burn Remote uses WebSockets to transparently route operations to network-attached hardware, while Burn RL offloads policy inference to async background threads with dynamic batching."
+            ],
+            "topics": [
+              "hardware agnostic tensor",
+              "cubecl kernel fusion",
+              "compile time named tensors",
+              "learner training orchestration",
+              "burnpack zero copy serialization",
+              "pytorch safetensors adapters",
+              "no std embedded deployment",
+              "asynchronous reinforcement learning",
+              "multi backend dispatch"
+            ],
+            "related": [
+              {
+                "id": "joYJ6rPN3UI",
+                "sharedTopics": [
+                  "tensor",
+                  "zero",
+                  "learning",
+                  "backend"
+                ]
+              },
+              {
+                "id": "8PaVKQoDReY",
+                "sharedTopics": [
+                  "tensor",
+                  "zero",
+                  "copy",
+                  "safetensors"
+                ]
+              },
+              {
+                "id": "tyR8SdHpOeY",
+                "sharedTopics": [
+                  "zero",
+                  "deployment"
+                ]
+              },
+              {
+                "id": "d1MH4nza95g",
+                "sharedTopics": [
+                  "compile",
+                  "time",
+                  "dispatch"
+                ]
+              },
+              {
+                "id": "SpNfrWmI8iE",
+                "sharedTopics": [
+                  "orchestration",
+                  "backend"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "SuuZW_fuEFc",
+          "title": "rr-mailtrap: The Developer's SMTP Sandbox",
+          "views": 12,
+          "date": "2026-05-08T17:38:27Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "smtp",
+            "trap",
+            "rfc",
+            "magika"
+          ],
+          "detail": {
+            "summary": "rr-mailtrap is a single-binary Rust SMTP sandbox that traps outbound test mail on localhost, exposing a Ratatui-powered TUI, an HTTP API with Prometheus metrics, and webhook integrations. It deliberately breaks production SMTP rules — accepting all messages, skipping credential validation, anchoring to 127.0.0.1 — to make local email testing safe and frictionless. Built-in chaos mode injects latency and SMTP failures, while an embedded Google Magika ONNX model provides AI-driven content-type detection at roughly 5 ms per file with ~99% accuracy.",
+            "takeaways": [
+              "A single binary with zero external dependencies bundles the SMTP server, TLS handling, HTTP API, and Ratatui TUI for portable, no-sidecar local testing.",
+              "The \"accept everything, inspect later\" pillar pairs with strict SMTP protocol fidelity (EHLO capabilities, response codes) so production mail clients behave identically against the trap.",
+              "Chaos mode parameters like `--reject-rate` and `--slow-data-ms` simulate transient SMTP failures and latency without needing a separate proxy or fault-injection tool.",
+              "Embedded Google Magika ONNX (~3 MB) detects 200+ file types at ~5 ms per file, exposing MIME mismatches where clients label PDFs as `application/octet-stream`.",
+              "The synchronous ingest pipeline runs Magika via `tokio::task::spawn_blocking` so deep-learning content detection never blocks the async SMTP listener.",
+              "Magika ONNX in-process beats `file(1)` and the Magika CLI by eliminating per-attachment process spawn overhead while remaining fully cross-platform.",
+              "The Ratatui TUI offers vim-style navigation (`j`/`k`, `/`), inspection shortcuts (`H` headers, `B` body, `M` MIME tree, `R` raw, `T` SMTP transcript), and actions (`S` export EML, `A` save attachments).",
+              "Loopback anchoring to 127.0.0.1 plus optional opt-in relay host guarantees test data never reaches real users while preserving full protocol-level realism."
+            ],
+            "topics": [
+              "smtp sandbox trap",
+              "ratatui terminal ui",
+              "chaos mode fault injection",
+              "magika onnx content detection",
+              "mime mismatch validation",
+              "single binary zero dependencies",
+              "loopback safety net",
+              "prometheus metrics webhooks",
+              "mbox import export"
+            ],
+            "related": [
+              {
+                "id": "85pyYZFJ6_s",
+                "sharedTopics": [
+                  "magika",
+                  "content",
+                  "detection",
+                  "validation"
+                ]
+              },
+              {
+                "id": "joYJ6rPN3UI",
+                "sharedTopics": [
+                  "onnx",
+                  "zero",
+                  "safety"
+                ]
+              },
+              {
+                "id": "xVmoqBYlQMU",
+                "sharedTopics": [
+                  "binary",
+                  "dependencies"
+                ]
+              },
+              {
+                "id": "sGQrnPJSsPc",
+                "sharedTopics": [
+                  "mode",
+                  "detection"
+                ]
+              },
+              {
+                "id": "eJlXFaZNP6g",
+                "sharedTopics": [
+                  "zero",
+                  "safety"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "LnJbrb0EUaE",
           "title": "The Prisma Ecosystem Architecture",
-          "views": 4,
+          "views": 8,
           "date": "2026-05-08T13:24:16Z",
           "category": "development",
           "tags": [
@@ -26483,7 +27370,7 @@
         {
           "id": "ZUINk3dp9eA",
           "title": "The Architecture of Sequelize",
-          "views": 9,
+          "views": 10,
           "date": "2026-05-08T05:09:13Z",
           "category": "development",
           "tags": [
@@ -26559,7 +27446,7 @@
         {
           "id": "85pyYZFJ6_s",
           "title": "The Evolution of File Detection",
-          "views": 25,
+          "views": 32,
           "date": "2026-05-07T08:54:01Z",
           "category": "development",
           "tags": [
@@ -26587,6 +27474,15 @@
             ],
             "related": [
               {
+                "id": "SuuZW_fuEFc",
+                "sharedTopics": [
+                  "detection",
+                  "magika",
+                  "content",
+                  "validation"
+                ]
+              },
+              {
                 "id": "H-gkXATx8r0",
                 "sharedTopics": [
                   "google",
@@ -26612,12 +27508,6 @@
                 "sharedTopics": [
                   "security"
                 ]
-              },
-              {
-                "id": "pzVOjl6mOD4",
-                "sharedTopics": [
-                  "security"
-                ]
               }
             ]
           }
@@ -26625,7 +27515,7 @@
         {
           "id": "eJlXFaZNP6g",
           "title": "TigerStyle: The Architecture of Elegance",
-          "views": 34,
+          "views": 35,
           "date": "2026-05-06T02:19:03Z",
           "category": "development",
           "tags": [
@@ -26697,7 +27587,7 @@
         {
           "id": "E30riOZ-YVo",
           "title": "The Architect's ORM Blueprint",
-          "views": 33,
+          "views": 34,
           "date": "2026-05-05T06:35:36Z",
           "category": "development",
           "tags": [
@@ -27004,7 +27894,7 @@
         {
           "id": "d1MH4nza95g",
           "title": "Tracing Asynchronous Rust",
-          "views": 89,
+          "views": 91,
           "date": "2026-05-03T16:24:44Z",
           "category": "development",
           "tags": [
@@ -27084,7 +27974,7 @@
         {
           "id": "07aDX5YB-ao",
           "title": "Modular Networking Architecture in Rust",
-          "views": 46,
+          "views": 47,
           "date": "2026-05-03T06:22:41Z",
           "category": "development",
           "tags": [
@@ -27113,6 +28003,16 @@
               "unified http grpc stack"
             ],
             "related": [
+              {
+                "id": "qAHyv6G3a7M",
+                "sharedTopics": [
+                  "tower service trait",
+                  "tower",
+                  "service",
+                  "trait",
+                  "protocol"
+                ]
+              },
               {
                 "id": "DwAOCljoNoc",
                 "sharedTopics": [
@@ -27148,14 +28048,6 @@
                   "tonic",
                   "patterns",
                   "http",
-                  "grpc"
-                ]
-              },
-              {
-                "id": "90hw9qwXbbw",
-                "sharedTopics": [
-                  "service",
-                  "tonic",
                   "grpc"
                 ]
               }
@@ -27230,11 +28122,13 @@
                 ]
               },
               {
-                "id": "xVmoqBYlQMU",
+                "id": "qAHyv6G3a7M",
                 "sharedTopics": [
                   "rust",
+                  "service",
+                  "trait",
                   "feature",
-                  "flags"
+                  "tower"
                 ]
               }
             ]
@@ -27243,7 +28137,7 @@
         {
           "id": "90hw9qwXbbw",
           "title": "Architecting with Tonic",
-          "views": 140,
+          "views": 142,
           "date": "2026-05-02T09:48:38Z",
           "category": "development",
           "tags": [
@@ -27374,6 +28268,16 @@
                 ]
               },
               {
+                "id": "qAHyv6G3a7M",
+                "sharedTopics": [
+                  "axum",
+                  "rust",
+                  "framework",
+                  "tower",
+                  "middleware"
+                ]
+              },
+              {
                 "id": "7zFqW-ZcEbo",
                 "sharedTopics": [
                   "axum",
@@ -27388,14 +28292,6 @@
                   "type safety",
                   "type",
                   "safety"
-                ]
-              },
-              {
-                "id": "DwAOCljoNoc",
-                "sharedTopics": [
-                  "rust",
-                  "tower",
-                  "hyper"
                 ]
               }
             ]
@@ -27776,7 +28672,7 @@
         {
           "id": "R3n8UxyD7mc",
           "title": "The Architecture of Systemic Decoupling",
-          "views": 54,
+          "views": 55,
           "date": "2026-04-27T22:23:45Z",
           "category": "development",
           "tags": [
@@ -27934,7 +28830,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 27,
+          "views": 28,
           "date": "2026-04-26T15:40:42Z",
           "category": "development",
           "tags": [
@@ -28006,7 +28902,7 @@
         {
           "id": "yAeM2vpPWeM",
           "title": "Design for Deletion",
-          "views": 154,
+          "views": 156,
           "date": "2026-04-25T10:56:42Z",
           "category": "development",
           "tags": [
@@ -28232,7 +29128,7 @@
         {
           "id": "L9ypC5863yA",
           "title": "The Microservices Communication Playbook",
-          "views": 121,
+          "views": 123,
           "date": "2026-04-24T20:19:57Z",
           "category": "development",
           "tags": [
@@ -28312,7 +29208,7 @@
         {
           "id": "z_W9dX6fliM",
           "title": "The Agentic Future",
-          "views": 62,
+          "views": 68,
           "date": "2026-04-24T15:58:08Z",
           "category": "development",
           "tags": [
@@ -28384,7 +29280,7 @@
         {
           "id": "NhYb7QkBdMs",
           "title": "Rusty Object Notation (RON)",
-          "views": 148,
+          "views": 149,
           "date": "2026-04-24T06:12:06Z",
           "category": "development",
           "tags": [
@@ -28951,7 +29847,7 @@
         {
           "id": "izLrX-02IQk",
           "title": "Rust 1.95.0",
-          "views": 202,
+          "views": 203,
           "date": "2026-04-18T20:42:55Z",
           "category": "development",
           "tags": [
@@ -29157,7 +30053,7 @@
         {
           "id": "E8f87EV4k3A",
           "title": "A Compiler, Not a Renderer",
-          "views": 152,
+          "views": 153,
           "date": "2026-04-17T12:06:22Z",
           "category": "development",
           "tags": [
@@ -29363,7 +30259,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 681,
+          "views": 685,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -29862,7 +30758,7 @@
         {
           "id": "LackTxguXFg",
           "title": "The Programmer's Guide to Essential RFCs",
-          "views": 104,
+          "views": 105,
           "date": "2026-04-10T16:29:16Z",
           "category": "development",
           "tags": [
@@ -29930,7 +30826,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 139,
+          "views": 146,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -30006,7 +30902,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2632,
+          "views": 2640,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -30741,7 +31637,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4161,
+          "views": 4162,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -32105,13 +33001,14 @@
                 ]
               },
               {
-                "id": "0Sed1oggMKY",
+                "id": "8PaVKQoDReY",
                 "sharedTopics": [
+                  "engine",
                   "rust"
                 ]
               },
               {
-                "id": "90hw9qwXbbw",
+                "id": "0Sed1oggMKY",
                 "sharedTopics": [
                   "rust"
                 ]
@@ -33833,7 +34730,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 209,
+          "views": 211,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -34196,7 +35093,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 670,
+          "views": 671,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -35084,7 +35981,7 @@
         {
           "id": "QBUQvfZJpaM",
           "title": "Modern Cryptography Standards: A Guide to AEAD",
-          "views": 57,
+          "views": 58,
           "date": "2026-02-18T23:24:48Z",
           "category": "development",
           "tags": [
@@ -35289,7 +36186,7 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 97,
+          "views": 99,
           "date": "2026-02-14T22:47:13Z",
           "category": "development",
           "tags": [
@@ -35353,7 +36250,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 799,
+          "views": 806,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -35424,7 +36321,7 @@
         {
           "id": "cWozmWrqnxs",
           "title": "The Repository Pattern",
-          "views": 788,
+          "views": 789,
           "date": "2026-02-13T18:01:39Z",
           "category": "development",
           "tags": [
@@ -35507,7 +36404,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 389,
+          "views": 394,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -35535,6 +36432,16 @@
               "multi-threaded data loading"
             ],
             "related": [
+              {
+                "id": "8PaVKQoDReY",
+                "sharedTopics": [
+                  "rust",
+                  "tensor",
+                  "automatic",
+                  "differentiation",
+                  "zero"
+                ]
+              },
               {
                 "id": "LnJbrb0EUaE",
                 "sharedTopics": [
@@ -35566,14 +36473,6 @@
                   "rust",
                   "architecture",
                   "backend"
-                ]
-              },
-              {
-                "id": "xVdW3yUCbuU",
-                "sharedTopics": [
-                  "rust",
-                  "code",
-                  "generation"
                 ]
               }
             ]
@@ -35659,7 +36558,7 @@
         {
           "id": "cEwAbu6FFRo",
           "title": "Compound Engineering",
-          "views": 145,
+          "views": 146,
           "date": "2026-02-11T13:08:01Z",
           "category": "development",
           "tags": [
@@ -36159,7 +37058,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 149,
+          "views": 156,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -36305,7 +37204,7 @@
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 433,
+          "views": 434,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -37938,7 +38837,7 @@
         {
           "id": "5KB2zLGjaps",
           "title": "Conventional Commits",
-          "views": 14,
+          "views": 15,
           "date": "2026-01-19T10:21:27Z",
           "category": "development",
           "tags": [
@@ -42109,7 +43008,7 @@
         {
           "id": "LackTxguXFg",
           "title": "The Programmer's Guide to Essential RFCs",
-          "views": 104,
+          "views": 105,
           "date": "2026-04-10T16:29:16Z",
           "category": "development"
         },
@@ -42158,7 +43057,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 27,
+          "views": 28,
           "date": "2026-04-26T15:40:42Z",
           "category": "development"
         },
@@ -42262,7 +43161,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 139,
+          "views": 146,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -42307,6 +43206,13 @@
           "views": 25,
           "date": "2026-01-02T21:40:38Z",
           "category": "development"
+        },
+        {
+          "id": "jOw6d5zH658",
+          "title": "Engineering Al Agent Mastery with Waza",
+          "views": 7,
+          "date": "2026-05-09T14:32:47Z",
+          "category": "development"
         }
       ]
     },
@@ -42321,14 +43227,14 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2632,
+          "views": 2640,
           "date": "2026-04-09T22:17:25Z",
           "category": "development"
         },
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 670,
+          "views": 671,
           "date": "2026-02-28T05:29:43Z",
           "category": "development"
         },
@@ -42349,8 +43255,15 @@
         {
           "id": "yAeM2vpPWeM",
           "title": "Design for Deletion",
-          "views": 154,
+          "views": 156,
           "date": "2026-04-25T10:56:42Z",
+          "category": "development"
+        },
+        {
+          "id": "TEGFwsAcxK8",
+          "title": "Agent Skills for Flutter",
+          "views": 146,
+          "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
@@ -42358,13 +43271,6 @@
           "title": "How to Kill the Code Review",
           "views": 141,
           "date": "2026-03-18T11:10:57Z",
-          "category": "development"
-        },
-        {
-          "id": "TEGFwsAcxK8",
-          "title": "Agent Skills for Flutter",
-          "views": 139,
-          "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
@@ -42403,18 +43309,18 @@
           "category": "development"
         },
         {
+          "id": "z_W9dX6fliM",
+          "title": "The Agentic Future",
+          "views": 68,
+          "date": "2026-04-24T15:58:08Z",
+          "category": "development"
+        },
+        {
           "id": "quD4pyCwKB4",
           "title": "Enterprise Infrastructure as Code for Al Agents",
           "views": 66,
           "date": "2026-04-25T17:46:48Z",
           "category": "kubernetes"
-        },
-        {
-          "id": "z_W9dX6fliM",
-          "title": "The Agentic Future",
-          "views": 62,
-          "date": "2026-04-24T15:58:08Z",
-          "category": "development"
         },
         {
           "id": "Y0DQGVALb7I",
@@ -42445,17 +43351,17 @@
           "category": "development"
         },
         {
+          "id": "85pyYZFJ6_s",
+          "title": "The Evolution of File Detection",
+          "views": 32,
+          "date": "2026-05-07T08:54:01Z",
+          "category": "development"
+        },
+        {
           "id": "lsjfczYFBeQ",
           "title": "The Evolution of RFCs in the Al Era",
           "views": 31,
           "date": "2026-04-16T22:17:14Z",
-          "category": "development"
-        },
-        {
-          "id": "85pyYZFJ6_s",
-          "title": "The Evolution of File Detection",
-          "views": 25,
-          "date": "2026-05-07T08:54:01Z",
           "category": "development"
         },
         {
@@ -42751,7 +43657,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 139,
+          "views": 146,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -42767,6 +43673,13 @@
           "title": "Agent Skills for Dart",
           "views": 52,
           "date": "2026-04-28T18:55:44Z",
+          "category": "development"
+        },
+        {
+          "id": "jOw6d5zH658",
+          "title": "Engineering Al Agent Mastery with Waza",
+          "views": 7,
+          "date": "2026-05-09T14:32:47Z",
           "category": "development"
         }
       ]
@@ -42894,28 +43807,28 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 389,
+          "views": 394,
           "date": "2026-02-13T15:08:23Z",
           "category": "development"
         },
         {
           "id": "izLrX-02IQk",
           "title": "Rust 1.95.0",
-          "views": 202,
+          "views": 203,
           "date": "2026-04-18T20:42:55Z",
           "category": "development"
         },
         {
           "id": "NhYb7QkBdMs",
           "title": "Rusty Object Notation (RON)",
-          "views": 148,
+          "views": 149,
           "date": "2026-04-24T06:12:06Z",
           "category": "development"
         },
         {
           "id": "90hw9qwXbbw",
           "title": "Architecting with Tonic",
-          "views": 140,
+          "views": 142,
           "date": "2026-05-02T09:48:38Z",
           "category": "development"
         },
@@ -42936,7 +43849,7 @@
         {
           "id": "L9ypC5863yA",
           "title": "The Microservices Communication Playbook",
-          "views": 121,
+          "views": 123,
           "date": "2026-04-24T20:19:57Z",
           "category": "development"
         },
@@ -42957,8 +43870,15 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 97,
+          "views": 99,
           "date": "2026-02-14T22:47:13Z",
+          "category": "development"
+        },
+        {
+          "id": "d1MH4nza95g",
+          "title": "Tracing Asynchronous Rust",
+          "views": 91,
+          "date": "2026-05-03T16:24:44Z",
           "category": "development"
         },
         {
@@ -42966,13 +43886,6 @@
           "title": "The Rust Architect's Sketchbook",
           "views": 91,
           "date": "2026-01-09T00:15:35Z",
-          "category": "development"
-        },
-        {
-          "id": "d1MH4nza95g",
-          "title": "Tracing Asynchronous Rust",
-          "views": 89,
-          "date": "2026-05-03T16:24:44Z",
           "category": "development"
         },
         {
@@ -43053,17 +43966,17 @@
           "category": "development"
         },
         {
+          "id": "07aDX5YB-ao",
+          "title": "Modular Networking Architecture in Rust",
+          "views": 47,
+          "date": "2026-05-03T06:22:41Z",
+          "category": "development"
+        },
+        {
           "id": "RDa6WtZmW8E",
           "title": "Mastering Serde in Rust ",
           "views": 47,
           "date": "2026-01-29T05:20:28Z",
-          "category": "development"
-        },
-        {
-          "id": "07aDX5YB-ao",
-          "title": "Modular Networking Architecture in Rust",
-          "views": 46,
-          "date": "2026-05-03T06:22:41Z",
           "category": "development"
         },
         {
@@ -43151,6 +44064,13 @@
           "category": "kubernetes"
         },
         {
+          "id": "qAHyv6G3a7M",
+          "title": "Building the Unified Rust Backend",
+          "views": 23,
+          "date": "2026-05-09T07:32:42Z",
+          "category": "development"
+        },
+        {
           "id": "0ttrfTfP864",
           "title": "ra-token-authority",
           "views": 21,
@@ -43179,10 +44099,24 @@
           "category": "kubernetes"
         },
         {
+          "id": "_bFOZ51Q55Y",
+          "title": "Burn: The Rust Deep Learning Framework",
+          "views": 16,
+          "date": "2026-05-09T02:40:33Z",
+          "category": "development"
+        },
+        {
           "id": "ZlEq2jFb8tI",
           "title": "Mastering Rust Error Handling",
           "views": 16,
           "date": "2026-02-06T12:28:35Z",
+          "category": "development"
+        },
+        {
+          "id": "SuuZW_fuEFc",
+          "title": "rr-mailtrap: The Developer's SMTP Sandbox",
+          "views": 12,
+          "date": "2026-05-08T17:38:27Z",
           "category": "development"
         },
         {
@@ -43197,6 +44131,13 @@
           "title": "The Professional Rust Toolbox",
           "views": 7,
           "date": "2026-01-08T10:19:31Z",
+          "category": "development"
+        },
+        {
+          "id": "8PaVKQoDReY",
+          "title": "Candle: A Minimalist Framework for Serverless ML Inference",
+          "views": 2,
+          "date": "2026-05-09T22:08:03Z",
           "category": "development"
         }
       ]

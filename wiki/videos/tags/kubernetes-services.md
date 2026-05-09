@@ -2,7 +2,7 @@
 type: tag
 tags: [kubernetes-services]
 sources: 2
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 # kubernetes services
@@ -15,4 +15,4 @@ Videos connected by the topic `kubernetes services`.
 - [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 13 views · Jan 10, 2026 · [Details](../details/C5HqbzLRYZ0.md)
 
 ---
-*Auto-generated on May 8, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 9, 2026. Back to [topic index](index.md).*

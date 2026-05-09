@@ -36,10 +36,10 @@ The video introduces the Semantic Operating System and Micro Module Architecture
 ## Related Videos
 
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `system` · `architecture` · `migration`)
-- [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 33 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `architecture` · `code` · `migration`)
-- [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 62 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `graph` · `detection`)
+- [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 34 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `architecture` · `code` · `migration`)
+- [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 68 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `graph` · `detection`)
 - [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 13 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `architecture` · `failure`)
-- [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 4 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `architecture` · `code`)
+- [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 8 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `architecture` · `code`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -34,7 +34,7 @@ This video presents a mastery guide for Dart 3.x, covering the language's fundam
 - [OpenFeature: The Standard for Feature Flagging](https://youtu.be/X65YHZUnFq0) — Development · 50 views · Apr 16, 2026 · [Details](X65YHZUnFq0.md) (shared: `feature flags` · `feature` · `flags`)
 - [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 84 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `feature flags` · `feature` · `flags`)
 - [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 45 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `safety` · `type safety` · `type`)
-- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 154 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `feature flags` · `feature` · `flags`)
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 156 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `feature flags` · `feature` · `flags`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

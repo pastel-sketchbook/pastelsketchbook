@@ -30,11 +30,11 @@ A progression through three generations of file type detection: static byte sign
 
 ## Related Videos
 
+- [rr-mailtrap: The Developer's SMTP Sandbox](https://youtu.be/SuuZW_fuEFc) — Development · 12 views · May 8, 2026 · [Details](SuuZW_fuEFc.md) (shared: `detection` · `magika` · `content`)
 - [Cryptographic Usability & The Tink Library](https://youtu.be/H-gkXATx8r0) — Development · 19 views · Feb 21, 2026 · [Details](H-gkXATx8r0.md) (shared: `google` · `security`)
 - [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 274 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `google` · `validation`)
-- [Tracing Asynchronous Rust](https://youtu.be/d1MH4nza95g) — Development · 89 views · May 3, 2026 · [Details](d1MH4nza95g.md) (shared: `file` · `type`)
+- [Tracing Asynchronous Rust](https://youtu.be/d1MH4nza95g) — Development · 91 views · May 3, 2026 · [Details](d1MH4nza95g.md) (shared: `file` · `type`)
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `security`)
-- [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 26 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `security`)
 
 ---
 *Auto-generated on May 8, 2026. Back to [development](../development.md) · [index](../index.md).*

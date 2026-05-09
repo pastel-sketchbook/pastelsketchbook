@@ -2,7 +2,7 @@
 type: tag
 tags: [trunk-based-development]
 sources: 3
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 # trunk-based development
@@ -16,4 +16,4 @@ Videos connected by the topic `trunk-based development`.
 - [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](../details/B2x09utLjtM.md)
 
 ---
-*Auto-generated on May 8, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 9, 2026. Back to [topic index](index.md).*

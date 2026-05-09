@@ -35,11 +35,11 @@ Burn is a high-performance deep learning framework implemented entirely in Rust,
 
 ## Related Videos
 
-- [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 4 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `rust` · `architecture` · `code`)
+- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 2 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `rust` · `tensor` · `automatic`)
+- [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 8 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `rust` · `architecture` · `code`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust` · `compile-time` · `safety`)
 - [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 47 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `rust` · `compile-time` · `data`)
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 45 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `rust` · `architecture` · `backend`)
-- [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `rust` · `code` · `generation`)
 
 ---
 *Auto-generated on Apr 6, 2026. Back to [development](../development.md) · [index](../index.md).*

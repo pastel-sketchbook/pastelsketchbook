@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, azure, rabbitmq, cue, shift left, cdc, rust, hybrid]
 sources: 65
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 # Kubernetes
@@ -23,13 +23,13 @@ updated: 2026-05-08
 
 ### AKS & Networking (20 videos)
 
-- [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) -- 3 views, May 6, 2026 · [Details](details/4YsX6tYi5x4.md)
+- [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) -- 2 views, May 6, 2026 · [Details](details/4YsX6tYi5x4.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [Modern Hybrid Identity ](https://youtu.be/nJ10P-fRqZQ) -- 8 views, Mar 17, 2026 · [Details](details/nJ10P-fRqZQ.md)
 - [Architecting AKS Networking - Trade-offs](https://youtu.be/F09-7mNt3F4) -- 14 views, Mar 12, 2026 · [Details](details/F09-7mNt3F4.md)
 - [Architecting AKS Networking](https://youtu.be/1PH7UB24xps) -- 18 views, Mar 11, 2026 · [Details](details/1PH7UB24xps.md)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) -- 13 views, Mar 10, 2026 · [Details](details/Hd767VA7Z-0.md)
-- [Modern Docker Networking & Traefik](https://youtu.be/Pxh2PcNx9W8) -- 38 views, Mar 3, 2026 · [Details](details/Pxh2PcNx9W8.md)
+- [Modern Docker Networking & Traefik](https://youtu.be/Pxh2PcNx9W8) -- 39 views, Mar 3, 2026 · [Details](details/Pxh2PcNx9W8.md)
 - [Architecting AKS Node Auto-Provisioning](https://youtu.be/3hSdKvqPcSE) -- 36 views, Feb 25, 2026 · [Details](details/3hSdKvqPcSE.md)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) -- 26 views, Feb 10, 2026 · [Details](details/MIZ0ATwu7C0.md)
 - [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) -- 50 views, Feb 5, 2026 · [Details](details/rgY4KTMFOMs.md)
@@ -46,7 +46,7 @@ updated: 2026-05-08
 
 ### Service Mesh (9 videos)
 
-- [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) -- 3 views, May 6, 2026 · [Details](details/4YsX6tYi5x4.md)
+- [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) -- 2 views, May 6, 2026 · [Details](details/4YsX6tYi5x4.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) -- 13 views, Mar 10, 2026 · [Details](details/Hd767VA7Z-0.md)
 - [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) -- 29 views, Feb 15, 2026 · [Details](details/P_xUJi_qt-Q.md)
@@ -158,18 +158,18 @@ updated: 2026-05-08
 
 - [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 16 views, Apr 22, 2026 · [Details](details/eZNBXDUc8OQ.md)
 - [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) -- 21 views, Apr 22, 2026 · [Details](details/p9LNSeAt5Zw.md)
-- [Modern Docker Networking & Traefik](https://youtu.be/Pxh2PcNx9W8) -- 38 views, Mar 3, 2026 · [Details](details/Pxh2PcNx9W8.md)
+- [Modern Docker Networking & Traefik](https://youtu.be/Pxh2PcNx9W8) -- 39 views, Mar 3, 2026 · [Details](details/Pxh2PcNx9W8.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
 | 1 | From Consensus Physics to Messaging Engineering | 10 | May 7, 2026 | [Watch](https://youtu.be/V9tvg6Yg3m4) | [Wiki](details/V9tvg6Yg3m4.md) |
-| 2 | Istio-Based Weighted Traffic Management on AKS | 3 | May 6, 2026 | [Watch](https://youtu.be/4YsX6tYi5x4) | [Wiki](details/4YsX6tYi5x4.md) |
+| 2 | Istio-Based Weighted Traffic Management on AKS | 2 | May 6, 2026 | [Watch](https://youtu.be/4YsX6tYi5x4) | [Wiki](details/4YsX6tYi5x4.md) |
 | 3 | DevSecOps on Azure Kubernetes Service | 20 | Apr 29, 2026 | [Watch](https://youtu.be/-e7kvcUXxtw) | [Wiki](details/-e7kvcUXxtw.md) |
 | 4 | Architecting Cost Efficiency for Al Workloads | 25 | Apr 25, 2026 | [Watch](https://youtu.be/eaPXjvB194w) | [Wiki](details/eaPXjvB194w.md) |
 | 5 | Enterprise Infrastructure as Code for Al Agents | 66 | Apr 25, 2026 | [Watch](https://youtu.be/quD4pyCwKB4) | [Wiki](details/quD4pyCwKB4.md) |
-| 6 | Kubernetes 1.36 (Haru) | 44 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
+| 6 | Kubernetes 1.36 (Haru) | 45 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
 | 7 | Architecting Modern Deployments | 16 | Apr 22, 2026 | [Watch](https://youtu.be/eZNBXDUc8OQ) | [Wiki](details/eZNBXDUc8OQ.md) |
 | 8 | Scaling Node.js from PM2 to Cloud-Native Orchestration | 21 | Apr 22, 2026 | [Watch](https://youtu.be/p9LNSeAt5Zw) | [Wiki](details/p9LNSeAt5Zw.md) |
 | 9 | The Cloud Rosetta Stone | 20 | Apr 18, 2026 | [Watch](https://youtu.be/PMgUhFxrjPc) | [Wiki](details/PMgUhFxrjPc.md) |
@@ -196,7 +196,7 @@ updated: 2026-05-08
 | 30 | Architecting AKS Networking | 18 | Mar 11, 2026 | [Watch](https://youtu.be/1PH7UB24xps) | [Wiki](details/1PH7UB24xps.md) |
 | 31 | Strategic Implementation of Blue-Green Deployment | 13 | Mar 10, 2026 | [Watch](https://youtu.be/Hd767VA7Z-0) | [Wiki](details/Hd767VA7Z-0.md) |
 | 32 | kube-log-viewer | 24 | Mar 5, 2026 | [Watch](https://youtu.be/aiYBPCkvhes) | [Wiki](details/aiYBPCkvhes.md) |
-| 33 | Modern Docker Networking & Traefik | 38 | Mar 3, 2026 | [Watch](https://youtu.be/Pxh2PcNx9W8) | [Wiki](details/Pxh2PcNx9W8.md) |
+| 33 | Modern Docker Networking & Traefik | 39 | Mar 3, 2026 | [Watch](https://youtu.be/Pxh2PcNx9W8) | [Wiki](details/Pxh2PcNx9W8.md) |
 | 34 | Architecting AKS Node Auto-Provisioning | 36 | Feb 25, 2026 | [Watch](https://youtu.be/3hSdKvqPcSE) | [Wiki](details/3hSdKvqPcSE.md) |
 | 35 | Kubernetes Auto-Scaling Strategies | 29 | Feb 23, 2026 | [Watch](https://youtu.be/y3WwL48DLYw) | [Wiki](details/y3WwL48DLYw.md) |
 | 36 | The Golden Path | 25 | Feb 21, 2026 | [Watch](https://youtu.be/ORjARjbukhY) | [Wiki](details/ORjARjbukhY.md) |
@@ -242,4 +242,4 @@ updated: 2026-05-08
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on May 8, 2026. Back to [index](index.md).*
+*Auto-generated on May 9, 2026. Back to [index](index.md).*

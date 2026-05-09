@@ -30,11 +30,11 @@ This video introduces codeprobe, a Rust-based CLI (v0.3.0) that uses concurrent 
 
 ## Related Videos
 
-- [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 4 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `rust` · `code` · `generation`)
+- [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 8 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `rust` · `code` · `generation`)
 - [Professional Al Agent Usage via the CLI](https://youtu.be/Xhq99-YHXCY) — Development · 25 views · Jan 2, 2026 · [Details](Xhq99-YHXCY.md) (shared: `cli` · `code` · `integration`)
 - [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 52 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `cli` · `code` · `automated`)
 - [The LLM Wiki Paradigm](https://youtu.be/BzvpasWYESU) — Development · 2.6K views · Apr 9, 2026 · [Details](BzvpasWYESU.md) (shared: `code` · `automated` · `generation`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 389 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `code` · `generation`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 394 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `code` · `generation`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
