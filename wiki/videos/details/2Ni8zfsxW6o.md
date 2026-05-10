@@ -30,7 +30,7 @@ This video provides a comparative analysis of two modernization strategies for m
 
 ## Related Videos
 
-- [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 37 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `modernization` · `migration` · `cloud-native`)
+- [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 39 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `modernization` · `migration` · `cloud-native`)
 - [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 96 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `migration` · `architecture` · `system`)
 - [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) — Development · 106 views · Feb 9, 2026 · [Details](qxOOl1hx1zU.md) (shared: `architecture` · `legacy`)
 - [The Architect's Baton](https://youtu.be/6WRiPikxs-Q) — Development · 125 views · Mar 7, 2026 · [Details](6WRiPikxs-Q.md) (shared: `cloud-native` · `architecture`)

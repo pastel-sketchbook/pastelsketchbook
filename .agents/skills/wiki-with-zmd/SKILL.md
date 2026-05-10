@@ -3,42 +3,45 @@ name: wiki-with-zmd
 description: |
   Build and maintain the Pastel Sketchbook wiki using zmd as the local retrieval
   layer across raw transcripts and synthesized detail pages. Handles transcript
-  export, detail page generation from raw transcripts, wiki bundle regeneration,
-  zmd indexing, and failure-driven retries.
+  export, detail page generation, wiki bundle regeneration, zmd indexing,
+  failure-driven retries, and syncing new videos into books.
   USE FOR: generate detail pages, export transcripts, regenerate wiki bundle,
-  zmd retrieval queries, triage failed transcripts, find missing details,
-  reindex wiki, verify bundle completeness.
+  zmd retrieval queries, triage failed transcripts, reindex wiki, sync videos to books.
   DO NOT USE FOR: editing non-wiki features (UI, API, infra), deploying the
   homepage, modifying app components unrelated to the wiki pipeline.
 ---
 
 # Wiki with zmd
 
-**UTILITY SKILL** — wiki generation and retrieval for Pastel Sketchbook.
+**UTILITY SKILL** — wiki generation, retrieval, and book sync for Pastel Sketchbook.
 
 ## Workflow
 
 1. Identify the task area from [references/workflows.md](references/workflows.md)
 2. Follow the matching section for commands and procedures
-3. Always reindex (`zmd update wiki`) and regenerate bundle after changes
+3. Reindex (`zmd update wiki`) and regenerate bundle after changes
+4. Evaluate book placement for new videos with details (see workflows.md)
 
 ## Key Principles
 
 - Raw transcripts in `wiki/raw/transcripts/` are the source of truth
-- Never write to `homepage/public/transcripts/` directly — it is a generated mirror
-- Always regenerate `wiki-bundle.json` after adding/modifying detail pages
-- Do not commit empty or stub files (must have content sections)
-- Prefer incremental generation and failure-targeted retries over broad reruns
+- Never write to `homepage/public/transcripts/` directly — generated mirror
+- Regenerate `wiki-bundle.json` after adding/modifying detail pages
+- No empty or stub files — must have content sections
+- Prefer incremental generation and failure-targeted retries
 - Use `zmd context` + `zmd get` as primary retrieval workflow
-- Do not manually write `## Related Videos` — it is auto-generated
+- `## Related Videos` is auto-generated — do not write manually
+- New videos with details go into `homepage/public/books.json`
 
 ## Examples
 
-- Generate missing details: find videos without detail pages, read raw transcript, write detail page, regenerate bundle
-- Retrieval: `zmd context "kubernetes networking"` → `zmd get "zmd://wiki/raw/transcripts/<id>.md"`
+- Generate details: find videos without detail pages, read transcript, write detail, regenerate bundle
+- Retrieval: `zmd context "kubernetes networking"` then `zmd get`
+- Book sync: classify video, add to appropriate chapter in `books.json`
 
 ## Troubleshooting
 
-- Video missing from bundle? Check detail file has `## Summary` section
-- Transcript mirror out of sync? Run `task wiki:transcripts` to re-mirror
-- Failed items? Check `_failed.json` files, retry with `--id <ID> --force`
+- Missing from bundle? Check detail file has `## Summary`
+- Mirror out of sync? Run `task wiki:transcripts`
+- Failed items? Check `_failed.json`, retry with `--id <ID> --force`
+- Not in books? Check `books.json` for the video ID

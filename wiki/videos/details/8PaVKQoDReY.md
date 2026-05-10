@@ -37,11 +37,11 @@ Candle is a Rust-native machine learning framework engineered for serverless inf
 
 ## Related Videos
 
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 394 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `zero` · `tensor`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/_bFOZ51Q55Y) — Development · 16 views · May 8, 2026 · [Details](_bFOZ51Q55Y.md) (shared: `zero` · `copy` · `tensor`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 396 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `zero` · `tensor`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/_bFOZ51Q55Y) — Development · 26 views · May 8, 2026 · [Details](_bFOZ51Q55Y.md) (shared: `zero` · `copy` · `tensor`)
+- [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 4 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `inference` · `graph` · `onnx`)
 - [Building vibe-rust](https://youtu.be/BT08SXPvV6U) — Development · 61 views · Apr 4, 2026 · [Details](BT08SXPvV6U.md) (shared: `rust` · `onnx`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `interoperability`)
-- [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) — Development · 106 views · Feb 9, 2026 · [Details](qxOOl1hx1zU.md) (shared: `rust` · `cuda`)
 
 ---
 *Auto-generated on May 9, 2026. Back to [development](../development.md) · [index](../index.md).*

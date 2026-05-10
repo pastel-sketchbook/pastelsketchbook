@@ -38,8 +38,8 @@ rr-mailtrap is a single-binary Rust SMTP sandbox that traps outbound test mail o
 
 ## Related Videos
 
-- [The Evolution of File Detection](https://youtu.be/85pyYZFJ6_s) — Development · 32 views · May 7, 2026 · [Details](85pyYZFJ6_s.md) (shared: `magika` · `content` · `detection`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 394 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `onnx` · `zero` · `safety`)
+- [The Evolution of File Detection](https://youtu.be/85pyYZFJ6_s) — Development · 36 views · May 7, 2026 · [Details](85pyYZFJ6_s.md) (shared: `magika` · `content` · `detection`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 396 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `onnx` · `zero` · `safety`)
 - [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 55 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `binary` · `dependencies`)
 - [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 96 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `mode` · `detection`)
 - [TigerStyle: The Architecture of Elegance](https://youtu.be/eJlXFaZNP6g) — Development · 35 views · May 5, 2026 · [Details](eJlXFaZNP6g.md) (shared: `zero` · `safety`)

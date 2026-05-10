@@ -1,0 +1,8 @@
+id: sync-videos-to-books
+description: Classify and sync a new video into books.json
+inputs:
+  prompt: |
+    A new video "The ONNX Ecosystem" (ID: Qi_vpz_5j7g) has been added with a detail page.
+    Determine which book and chapter it belongs in based on its content (ONNX IR, operator schemas,
+    backend API, ML interoperability). Update homepage/public/books.json accordingly.
+    Verify the book structure remains valid.

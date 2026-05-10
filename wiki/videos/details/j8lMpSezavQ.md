@@ -34,7 +34,7 @@ This video introduces QMD, a local-first hybrid search engine designed to serve 
 - [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 124 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `search` · `mcp server` · `mcp`)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 94 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `mcp` · `server` · `agent`)
 - [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 22 views · Apr 29, 2026 · [Details](GERT8PoS9Qk.md) (shared: `search` · `retrieval`)
-- [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 68 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `hybrid` · `knowledge`)
+- [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 69 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `hybrid` · `knowledge`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

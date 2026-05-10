@@ -2,7 +2,7 @@
 type: tag
 tags: [azure-kubernetes-service]
 sources: 7
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 
 # azure kubernetes service
@@ -20,4 +20,4 @@ Videos connected by the topic `azure kubernetes service`.
 - [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) — Kubernetes · 2 views · May 6, 2026 · [Details](../details/4YsX6tYi5x4.md)
 
 ---
-*Auto-generated on May 9, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 10, 2026. Back to [topic index](index.md).*

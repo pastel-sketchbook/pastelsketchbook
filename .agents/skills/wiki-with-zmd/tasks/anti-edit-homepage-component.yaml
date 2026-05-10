@@ -1,0 +1,6 @@
+id: anti-edit-homepage-component
+description: Reject request to edit non-wiki homepage components (anti-trigger)
+inputs:
+  prompt: |
+    I need to modify the homepage's Hero component in homepage/src/components/Hero.tsx
+    to change the button color from blue to red. Make this change.

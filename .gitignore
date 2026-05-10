@@ -7,3 +7,8 @@ tools/*/zig-out/
 tools/*/.zig-cache/
 /PS_wiki_analysis.pdf
 /.qmd/data.db
+
+# Waza eval artifacts (dev-only tooling)
+**/eval.yaml
+**/tasks/*.yaml
+**/fixtures/

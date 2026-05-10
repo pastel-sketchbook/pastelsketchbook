@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, azure, rabbitmq, cue, shift left, cdc, rust, hybrid]
 sources: 65
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 
 # Kubernetes
@@ -70,7 +70,7 @@ updated: 2026-05-09
 
 ### Messaging (8 videos)
 
-- [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) -- 10 views, May 7, 2026 · [Details](details/V9tvg6Yg3m4.md)
+- [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) -- 12 views, May 7, 2026 · [Details](details/V9tvg6Yg3m4.md)
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) -- 21 views, Apr 7, 2026 · [Details](details/KdLQEv3Tiiw.md)
 - [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) -- 75 views, Apr 5, 2026 · [Details](details/WRpjJV4SUKc.md)
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 25 views, Apr 4, 2026 · [Details](details/7iWL5-0C66s.md)
@@ -164,7 +164,7 @@ updated: 2026-05-09
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | From Consensus Physics to Messaging Engineering | 10 | May 7, 2026 | [Watch](https://youtu.be/V9tvg6Yg3m4) | [Wiki](details/V9tvg6Yg3m4.md) |
+| 1 | From Consensus Physics to Messaging Engineering | 12 | May 7, 2026 | [Watch](https://youtu.be/V9tvg6Yg3m4) | [Wiki](details/V9tvg6Yg3m4.md) |
 | 2 | Istio-Based Weighted Traffic Management on AKS | 2 | May 6, 2026 | [Watch](https://youtu.be/4YsX6tYi5x4) | [Wiki](details/4YsX6tYi5x4.md) |
 | 3 | DevSecOps on Azure Kubernetes Service | 20 | Apr 29, 2026 | [Watch](https://youtu.be/-e7kvcUXxtw) | [Wiki](details/-e7kvcUXxtw.md) |
 | 4 | Architecting Cost Efficiency for Al Workloads | 25 | Apr 25, 2026 | [Watch](https://youtu.be/eaPXjvB194w) | [Wiki](details/eaPXjvB194w.md) |
@@ -237,9 +237,9 @@ updated: 2026-05-09
 ## See Also
 
 - [Security](security.md) -- shared tags: `shift left`, `agent`, `ai`, `security`, `azure`, `orchestration`
-- [Development](development.md) -- shared tags: `curiosity`, `shift left`, `agent`, `ai`, `rabbitmq`, `skill`, `cloud`, `scylladb`, `cdc`, `rust`, `java`, `go`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `copilot`, `engineering`, `identity`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `messaging`
+- [Development](development.md) -- shared tags: `curiosity`, `shift left`, `agent`, `ai`, `rabbitmq`, `skill`, `cloud`, `scylladb`, `cdc`, `rust`, `java`, `go`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `copilot`, `engineering`, `identity`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `messaging`
 - [Finance](finance.md) -- shared tags: `curiosity`
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on May 9, 2026. Back to [index](index.md).*
+*Auto-generated on May 10, 2026. Back to [index](index.md).*

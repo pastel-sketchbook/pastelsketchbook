@@ -1,0 +1,8 @@
+id: zmd-retrieval-query
+description: Perform a zmd context and retrieval query for specific content
+inputs:
+  prompt: |
+    Use zmd to search for content related to "kubernetes networking" in the wiki.
+    First use `zmd context "kubernetes networking"` to establish context,
+    then use `zmd get` to retrieve relevant details.
+    Show what content was found and where it's located.

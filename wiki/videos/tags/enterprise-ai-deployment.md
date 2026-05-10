@@ -2,7 +2,7 @@
 type: tag
 tags: [enterprise-ai-deployment]
 sources: 2
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 
 # enterprise ai deployment
@@ -15,4 +15,4 @@ Videos connected by the topic `enterprise ai deployment`.
 - [Generative Al at Scale](https://youtu.be/uU46ltIELqk) — Development · 14 views · Mar 27, 2026 · [Details](../details/uU46ltIELqk.md)
 
 ---
-*Auto-generated on May 9, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 10, 2026. Back to [topic index](index.md).*

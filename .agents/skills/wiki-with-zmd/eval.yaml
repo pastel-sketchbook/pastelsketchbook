@@ -1,0 +1,59 @@
+name: wiki-with-zmd-eval
+description: Evaluation suite for wiki-with-zmd — wiki generation, retrieval, book sync, and triage workflows
+skill: wiki-with-zmd
+version: "1.0"
+config:
+  trials_per_task: 1
+  timeout_seconds: 300
+  parallel: false
+  executor: copilot-sdk
+  model: claude-opus-4.6
+graders:
+  - type: text
+    name: no_fatal_errors
+    config:
+      regex_not_match:
+        - "(?i)fatal|failed to|error:|exception"
+  - type: file
+    name: wiki_files_exist
+    config:
+      must_exist:
+        - "wiki/raw/transcripts/"
+  - type: action_sequence
+    name: wiki_workflow_sequence
+    config:
+      matching_mode: in_order_match
+      expected_actions:
+        - "view"
+        - "bash"
+  - type: text
+    name: zmd_retrieval_output
+    config:
+      contains:
+        - "context"
+      regex_not_match:
+        - "(?i)no results|not found|empty"
+  - type: text
+    name: bundle_regeneration
+    config:
+      contains:
+        - "bundle"
+        - "json"
+      regex_not_match:
+        - "(?i)invalid|corrupt"
+  - type: text
+    name: no_homepage_editing
+    config:
+      not_contains:
+        - "homepage/public/components"
+        - "UI modification"
+        - "deploy"
+metrics:
+  - name: positive_tasks
+    weight: 0.7
+    threshold: 0.75
+  - name: anti_trigger_avoidance
+    weight: 0.3
+    threshold: 1.0
+tasks:
+  - "tasks/*.yaml"

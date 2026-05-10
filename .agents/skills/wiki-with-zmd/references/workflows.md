@@ -222,3 +222,80 @@ task wiki:details -- --id <VIDEO_ID> --force
 - **Always regenerate `wiki-bundle.json`** after adding/modifying detail pages.
 - **Do not commit empty or stub files** — transcripts must have `## Transcript`,
   details must have `## Summary`, `## Key Takeaways`, `## Topics Covered`.
+- **Evaluate book placement** for every new video with a detail page.
+
+## Syncing New Videos to Books
+
+Books data lives in `homepage/public/books.json`. The books page
+(`homepage/routes/books.index.tsx`) renders chapters with video titles,
+summaries, and takeaways pulled from the wiki bundle at runtime.
+
+### Book Structure
+
+Two books, each with numbered chapters:
+
+| Book | Focus | Placement Signal |
+|------|-------|------------------|
+| **The Architect's Sketchbook** | Platform design, system blueprints, strategic view | Broad architecture, K8s blueprints, enterprise patterns, security posture, finance, delivery pipelines, event-driven landscapes |
+| **The Internals Companion** | RFCs, algorithms, memory models, library deep-dives | Specific RFCs, named libraries (Hyper/Axum/Tonic/Serde), algorithms, language internals (Rust/Go/Zig), database internals, ML inference |
+
+### Classification Decision Tree
+
+For each new video with a detail page:
+
+1. **Is it a broad platform/architecture overview?** → Book 1 (Architect's Sketchbook)
+2. **Is it a deep-dive into a specific library, RFC, algorithm, or language internal?** → Book 2 (Internals Companion)
+3. **Does it fit an existing chapter by topic/tags?** → Add `videoId` to that chapter's `videoIds` array
+4. **Does it start a new theme with no existing chapter?** → Create a new chapter (increment `number`, update subsequent chapter numbers)
+
+### Workflow
+
+After generating a detail page and regenerating the wiki bundle:
+
+1. Read the video's detail (summary, takeaways, topics) from the bundle or detail `.md`
+2. Read `homepage/public/books.json` to see existing chapters and their themes
+3. Classify the video using the decision tree above
+4. Edit `books.json`:
+   - To add to an existing chapter: append the video ID to that chapter's `videoIds`
+   - To create a new chapter: add a new chapter object with `number`, `title`, `summary`, `videoIds`, `tags`; renumber subsequent chapters
+5. Verify: `bun run build` in `homepage/` must pass
+
+### books.json Schema
+
+```json
+{
+  "generatedAt": "ISO timestamp",
+  "books": [
+    {
+      "id": "kebab-case-id",
+      "title": "Book Title",
+      "subtitle": "Subtitle",
+      "description": "1-2 sentence description",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Chapter Title",
+          "summary": "2-3 sentence chapter summary",
+          "videoIds": ["videoId1", "videoId2"],
+          "tags": ["tag1", "tag2"]
+        }
+      ]
+    }
+  ]
+}
+```
+
+### Verification
+
+After editing `books.json`, verify the video appears correctly:
+
+```bash
+# Check video is in books.json
+bun -e "const d=require('./homepage/public/books.json'); for(const b of d.books) for(const c of b.chapters) if(c.videoIds.includes('VIDEO_ID')) console.log(b.title, '/ Ch'+c.number, c.title)"
+
+# Check video has detail in wiki bundle (needed for title + takeaways to render)
+bun -e "const d=require('./homepage/public/wiki-bundle.json'); for(const c of d.categories) for(const v of c.videos) if(v.id==='VIDEO_ID') console.log(v.title, 'hasDetail:', !!v.detail)"
+
+# Build must pass
+bun --cwd homepage run build
+```

@@ -1,0 +1,7 @@
+id: triage-failed-transcripts
+description: Investigate and retry processing of failed transcripts
+inputs:
+  prompt: |
+    Check wiki/raw/transcripts/_failed.json for any transcripts that failed processing.
+    Identify the reason for each failure.
+    Create a retry plan with --force flag for transcripts that can be recovered.

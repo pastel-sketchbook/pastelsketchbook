@@ -1,0 +1,8 @@
+id: generate-detail-page
+description: Generate a detail page for a video from its raw transcript
+inputs:
+  prompt: |
+    I have a video with ID "Qi_vpz_5j7g" that has a raw transcript in wiki/raw/transcripts/Qi_vpz_5j7g.md.
+    Generate a detail page with Summary, Key Takeaways, and Topics Covered sections.
+    The detail page should go in wiki/videos/details/Qi_vpz_5j7g.md.
+    After generating, regenerate the wiki-bundle.json to ensure the detail page is indexed.

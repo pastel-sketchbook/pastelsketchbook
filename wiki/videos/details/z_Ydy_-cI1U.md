@@ -30,7 +30,7 @@ This video uses biological analogies (hippo dung spreading vs. ant-scale process
 
 ## Related Videos
 
-- [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 37 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `monolith decomposition` · `monolith` · `decomposition`)
+- [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 39 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `monolith decomposition` · `monolith` · `decomposition`)
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `distributed` · `systems`)
 - [Hangul + WASM](https://youtu.be/9yov-ZVv-Bo) — Development · 43 views · Jan 19, 2026 · [Details](9yov-ZVv-Bo.md) (shared: `decomposition` · `processing`)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `distributed` · `systems`)

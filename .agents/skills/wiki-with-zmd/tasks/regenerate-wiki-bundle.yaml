@@ -1,0 +1,9 @@
+id: regenerate-wiki-bundle
+description: Regenerate wiki-bundle.json after detail page modifications
+inputs:
+  prompt: |
+    Detail pages have been added or modified in wiki/videos/details/.
+    Regenerate wiki-bundle.json to reflect these changes. Verify that:
+    1. The bundle contains all detail pages with content
+    2. No empty or stub entries exist
+    3. The total video count matches expectations

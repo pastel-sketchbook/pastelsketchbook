@@ -1,0 +1,7 @@
+id: export-transcripts
+description: Export and verify transcripts are properly mirrored to the public location
+inputs:
+  prompt: |
+    Check which transcripts in wiki/raw/transcripts/ are missing from homepage/public/transcripts/.
+    Export any missing ones and verify the mirror is complete.
+    Do not modify the raw transcripts — only mirror them.

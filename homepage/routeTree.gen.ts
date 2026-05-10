@@ -13,8 +13,10 @@ import { Route as WikiRouteImport } from './routes/wiki'
 import { Route as ShowcaseRouteImport } from './routes/showcase'
 import { Route as PodcastRouteImport } from './routes/podcast'
 import { Route as CodeRouteImport } from './routes/code'
+import { Route as BooksRouteImport } from './routes/books'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as WikiIndexRouteImport } from './routes/wiki.index'
+import { Route as BooksIndexRouteImport } from './routes/books.index'
 import { Route as WikiLearningPlanRouteImport } from './routes/wiki.learning-plan'
 import { Route as WikiGraphRouteImport } from './routes/wiki.graph'
 import { Route as WikiVideoIdRouteImport } from './routes/wiki.video.$id'
@@ -39,6 +41,11 @@ const CodeRoute = CodeRouteImport.update({
   path: '/code',
   getParentRoute: () => rootRouteImport,
 } as any)
+const BooksRoute = BooksRouteImport.update({
+  id: '/books',
+  path: '/books',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
@@ -48,6 +55,11 @@ const WikiIndexRoute = WikiIndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => WikiRoute,
+} as any)
+const BooksIndexRoute = BooksIndexRouteImport.update({
+  id: '/',
+  path: '/',
+  getParentRoute: () => BooksRoute,
 } as any)
 const WikiLearningPlanRoute = WikiLearningPlanRouteImport.update({
   id: '/learning-plan',
@@ -67,12 +79,14 @@ const WikiVideoIdRoute = WikiVideoIdRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/books': typeof BooksRouteWithChildren
   '/code': typeof CodeRoute
   '/podcast': typeof PodcastRoute
   '/showcase': typeof ShowcaseRoute
   '/wiki': typeof WikiRouteWithChildren
   '/wiki/graph': typeof WikiGraphRoute
   '/wiki/learning-plan': typeof WikiLearningPlanRoute
+  '/books/': typeof BooksIndexRoute
   '/wiki/': typeof WikiIndexRoute
   '/wiki/video/$id': typeof WikiVideoIdRoute
 }
@@ -83,18 +97,21 @@ export interface FileRoutesByTo {
   '/showcase': typeof ShowcaseRoute
   '/wiki/graph': typeof WikiGraphRoute
   '/wiki/learning-plan': typeof WikiLearningPlanRoute
+  '/books': typeof BooksIndexRoute
   '/wiki': typeof WikiIndexRoute
   '/wiki/video/$id': typeof WikiVideoIdRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/books': typeof BooksRouteWithChildren
   '/code': typeof CodeRoute
   '/podcast': typeof PodcastRoute
   '/showcase': typeof ShowcaseRoute
   '/wiki': typeof WikiRouteWithChildren
   '/wiki/graph': typeof WikiGraphRoute
   '/wiki/learning-plan': typeof WikiLearningPlanRoute
+  '/books/': typeof BooksIndexRoute
   '/wiki/': typeof WikiIndexRoute
   '/wiki/video/$id': typeof WikiVideoIdRoute
 }
@@ -102,12 +119,14 @@ export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
+    | '/books'
     | '/code'
     | '/podcast'
     | '/showcase'
     | '/wiki'
     | '/wiki/graph'
     | '/wiki/learning-plan'
+    | '/books/'
     | '/wiki/'
     | '/wiki/video/$id'
   fileRoutesByTo: FileRoutesByTo
@@ -118,23 +137,27 @@ export interface FileRouteTypes {
     | '/showcase'
     | '/wiki/graph'
     | '/wiki/learning-plan'
+    | '/books'
     | '/wiki'
     | '/wiki/video/$id'
   id:
     | '__root__'
     | '/'
+    | '/books'
     | '/code'
     | '/podcast'
     | '/showcase'
     | '/wiki'
     | '/wiki/graph'
     | '/wiki/learning-plan'
+    | '/books/'
     | '/wiki/'
     | '/wiki/video/$id'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  BooksRoute: typeof BooksRouteWithChildren
   CodeRoute: typeof CodeRoute
   PodcastRoute: typeof PodcastRoute
   ShowcaseRoute: typeof ShowcaseRoute
@@ -171,6 +194,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof CodeRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/books': {
+      id: '/books'
+      path: '/books'
+      fullPath: '/books'
+      preLoaderRoute: typeof BooksRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/': {
       id: '/'
       path: '/'
@@ -184,6 +214,13 @@ declare module '@tanstack/react-router' {
       fullPath: '/wiki/'
       preLoaderRoute: typeof WikiIndexRouteImport
       parentRoute: typeof WikiRoute
+    }
+    '/books/': {
+      id: '/books/'
+      path: '/'
+      fullPath: '/books/'
+      preLoaderRoute: typeof BooksIndexRouteImport
+      parentRoute: typeof BooksRoute
     }
     '/wiki/learning-plan': {
       id: '/wiki/learning-plan'
@@ -209,6 +246,16 @@ declare module '@tanstack/react-router' {
   }
 }
 
+interface BooksRouteChildren {
+  BooksIndexRoute: typeof BooksIndexRoute
+}
+
+const BooksRouteChildren: BooksRouteChildren = {
+  BooksIndexRoute: BooksIndexRoute,
+}
+
+const BooksRouteWithChildren = BooksRoute._addFileChildren(BooksRouteChildren)
+
 interface WikiRouteChildren {
   WikiGraphRoute: typeof WikiGraphRoute
   WikiLearningPlanRoute: typeof WikiLearningPlanRoute
@@ -227,6 +274,7 @@ const WikiRouteWithChildren = WikiRoute._addFileChildren(WikiRouteChildren)
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  BooksRoute: BooksRouteWithChildren,
   CodeRoute: CodeRoute,
   PodcastRoute: PodcastRoute,
   ShowcaseRoute: ShowcaseRoute,

@@ -2,7 +2,7 @@
 type: tag
 tags: [vector-search]
 sources: 4
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 
 # vector search
@@ -17,4 +17,4 @@ Videos connected by the topic `vector search`.
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 17 views · Apr 11, 2026 · [Details](../details/a8heWpae5p0.md)
 
 ---
-*Auto-generated on May 9, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 10, 2026. Back to [topic index](index.md).*
