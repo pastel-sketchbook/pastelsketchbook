@@ -175,3 +175,15 @@ Exported 1 transcript files (single: 8PaVKQoDReY) to `wiki/raw/transcripts`.
 ## [2026-05-10] ingest | Video Metadata Sync
 
 Synced 318 videos across 6 categories (korea=17, finance=23, kubernetes=65, development=192, security=13, programming=8).
+
+## [2026-05-15] ingest | Video Metadata Sync
+
+Synced 326 videos across 6 categories (korea=17, finance=24, kubernetes=66, development=198, security=13, programming=8).
+
+## [2026-05-15] ingest | Video Transcripts
+
+Exported 1 transcript files (single: SRwWBbsaQH4) to `wiki/raw/transcripts`.
+
+## [2026-05-15] enrich | New Video Detail Pages & Book Sync
+
+Generated 8 detail pages from raw transcripts: SRwWBbsaQH4, WrZN5AgpaW4, ZbZdm5Opbno, n9Ebc-0E478, uz8nmkTPEpg, AvysIjFrTEw, ZfAc2pqcS-4, B81dHVYOYJA. Fetched raw transcripts for these and 2 others; 3 videos remain transcript-unavailable on YouTube (-e7kvcUXxtw, 1PH7UB24xps, -tZGlR8Zztg). Regenerated wiki bundle (326 videos, 326 with detail). Reindexed zmd. Synced 5 non-hidden new videos to books.json: SRwWBbsaQH4 → Architect's Sketchbook Ch7; uz8nmkTPEpg → Internals Companion Ch6; AvysIjFrTEw → Internals Companion Ch12; ZbZdm5Opbno + n9Ebc-0E478 → Internals Companion Ch13. Skipped 3 hidden videos (WrZN5AgpaW4, ZfAc2pqcS-4, B81dHVYOYJA). Build verified.

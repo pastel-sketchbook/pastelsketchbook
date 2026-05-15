@@ -31,7 +31,7 @@ This video presents a barbell investment strategy for 2026, balancing extreme hi
 ## Related Videos
 
 - [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 12 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `barbell strategy` · `barbell` · `strategy`)
-- [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 47 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `ai infrastructure investing` · `infrastructure` · `investing`)
+- [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `ai infrastructure investing` · `infrastructure` · `investing`)
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `strategy` · `portfolio allocation` · `portfolio`)
 - [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](EMXUbohWsWs.md) (shared: `strategy` · `investing` · `allocation`)
 - [The Retirement Red Zone](https://youtu.be/KBfVy5-M-5k) — Finance · 15 views · Dec 31, 2025 · [Details](KBfVy5-M-5k.md) (shared: `strategy` · `portfolio`)

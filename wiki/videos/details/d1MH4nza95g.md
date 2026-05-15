@@ -37,11 +37,11 @@ This presentation explains why traditional logging breaks down in async Rust —
 
 ## Related Videos
 
-- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 39 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `tracing` · `context` · `propagation`)
-- [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) — Development · 111 views · Mar 22, 2026 · [Details](vep9hSKc9I0.md) (shared: `tokio` · `tracing` · `async`)
-- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 107 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `tracing` · `context` · `propagation`)
+- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 45 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `tracing` · `context` · `propagation`)
+- [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) — Development · 112 views · Mar 22, 2026 · [Details](vep9hSKc9I0.md) (shared: `tokio` · `tracing` · `async`)
+- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 108 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `tracing` · `context` · `propagation`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `tokio` · `tracing` · `async`)
-- [The NestJS Architecture Blueprint](https://youtu.be/173Y2uPljgo) — Development · 40 views · May 4, 2026 · [Details](173Y2uPljgo.md) (shared: `pipeline` · `context` · `wrapper`)
+- [SQLx](https://youtu.be/uz8nmkTPEpg) — Development · 25 views · May 13, 2026 · [Details](uz8nmkTPEpg.md) (shared: `tokio` · `async` · `macro`)
 
 ---
 *Auto-generated on May 3, 2026. Back to [development](../development.md) · [index](../index.md).*

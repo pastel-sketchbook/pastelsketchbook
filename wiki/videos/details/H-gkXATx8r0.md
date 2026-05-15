@@ -30,11 +30,11 @@ This video examines the problem of cryptographic API misuse (85% misuse rate in 
 
 ## Related Videos
 
-- [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 26 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `cryptographic` · `security`)
+- [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 31 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `cryptographic` · `security`)
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `api` · `design`)
 - [Modern Microservice Trust](https://youtu.be/SeYrpzDTn6A) — Development · 19 views · Jan 13, 2026 · [Details](SeYrpzDTn6A.md) (shared: `security` · `vulnerabilities`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 790 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `api` · `design`)
-- [The Evolution of File Detection](https://youtu.be/85pyYZFJ6_s) — Development · 36 views · May 7, 2026 · [Details](85pyYZFJ6_s.md) (shared: `google` · `security`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 792 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `api` · `design`)
+- [The Evolution of File Detection](https://youtu.be/85pyYZFJ6_s) — Development · 38 views · May 7, 2026 · [Details](85pyYZFJ6_s.md) (shared: `google` · `security`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

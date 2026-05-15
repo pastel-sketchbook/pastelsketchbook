@@ -30,7 +30,7 @@ This video covers the Zig 0.16.0 release, a major milestone built from 1,183 com
 
 ## Related Videos
 
-- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 153 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `zig` · `compiler`)
+- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 155 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `zig` · `compiler`)
 - [pastel-hn](https://youtu.be/cJl2cchaHL8) — Development · 58 views · Jan 24, 2026 · [Details](cJl2cchaHL8.md) (shared: `zig` · `architectural`)
 - [zig-duckdb-ext](https://youtu.be/ymYtSum-2qc) — Development · 63 views · Mar 24, 2026 · [Details](ymYtSum-2qc.md) (shared: `zig` · `functions`)
 - [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 113 views · Feb 24, 2026 · [Details](DazzkNtnzec.md) (shared: `interface` · `implicit`)

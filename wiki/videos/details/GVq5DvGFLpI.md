@@ -32,8 +32,8 @@ This video provides a comprehensive security guide for building internal dashboa
 ## Related Videos
 
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `security` · `authentication`)
-- [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 26 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `security` · `authentication`)
-- [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 21 views · Jan 16, 2026 · [Details](0ttrfTfP864.md) (shared: `security` · `authentication`)
+- [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 31 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `security` · `authentication`)
+- [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 22 views · Jan 16, 2026 · [Details](0ttrfTfP864.md) (shared: `security` · `authentication`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 42 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `security` · `policy`)
 - [Modern Microservice Trust](https://youtu.be/SeYrpzDTn6A) — Development · 19 views · Jan 13, 2026 · [Details](SeYrpzDTn6A.md) (shared: `security` · `authentication`)
 

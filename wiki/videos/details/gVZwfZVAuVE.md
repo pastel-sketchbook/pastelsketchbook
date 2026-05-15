@@ -31,10 +31,10 @@ This video performs an analytical teardown of how Elixir 1.20 achieved a 400x ac
 ## Related Videos
 
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `type` · `system`)
-- [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 4 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `type` · `inference` · `form`)
+- [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 29 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `type` · `inference` · `form`)
 - [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 55 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `binary` · `optimization`)
-- [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 198 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `compiler` · `optimization`)
-- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 153 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `compiler`)
+- [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 202 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `compiler` · `optimization`)
+- [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 18 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `optimization` · `inference`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

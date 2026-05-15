@@ -30,10 +30,10 @@ This video presents a strategic framework for unifying security operations throu
 
 ## Related Videos
 
-- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 68 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `automation` · `cognitive load` · `cognitive`)
+- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 69 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `automation` · `cognitive load` · `cognitive`)
 - [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 57 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `security` · `operations`)
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 18 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `security`)
-- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 46 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security`)
+- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 47 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security`)
 - [2FA Orchestration in PingFederate](https://youtu.be/HxB-cJIbEgE) — Security · 10 views · Mar 29, 2026 · [Details](HxB-cJIbEgE.md) (shared: `orchestration`)
 
 ---

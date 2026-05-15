@@ -36,9 +36,9 @@ This video traces the architectural evolution of community detection algorithms 
 ## Related Videos
 
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `algorithm` · `optimization` · `algorithms`)
-- [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 69 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `community` · `detection` · `graph`)
+- [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 67 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `community` · `detection` · `graph`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 74 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `optimization` · `model`)
-- [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 25 views · Feb 6, 2026 · [Details](A96r5gqwUrI.md) (shared: `optimization` · `algorithms`)
+- [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 26 views · Feb 6, 2026 · [Details](A96r5gqwUrI.md) (shared: `optimization` · `algorithms`)
 - [Hardening a Prototype](https://youtu.be/DCGTYftRGWE) — Development · 23 views · Jan 25, 2026 · [Details](DCGTYftRGWE.md) (shared: `detection` · `optimization`)
 
 ---

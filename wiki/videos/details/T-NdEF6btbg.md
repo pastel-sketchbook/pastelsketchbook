@@ -35,11 +35,11 @@ Oh My Open Agent (OMO) is a multi-model orchestrator designed to replace single-
 
 ## Related Videos
 
-- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 274 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `orchestration` · `model context protocol (mcp)` · `model context protocol`)
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 672 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model context protocol` · `model` · `context`)
+- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 276 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `orchestration` · `model context protocol (mcp)` · `model context protocol`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 676 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model context protocol` · `model` · `context`)
 - [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](9oSUtndLto4.md) (shared: `model context protocol` · `model` · `context`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 74 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `model` · `autonomous` · `architecture`)
-- [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 59 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `mcp` · `agent` · `server`)
+- [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 60 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `mcp` · `agent` · `server`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

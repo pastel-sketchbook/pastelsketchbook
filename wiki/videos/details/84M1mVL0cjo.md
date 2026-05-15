@@ -34,7 +34,7 @@ This presentation argues that enterprise AI value comes from integrating individ
 - [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 46 views · Dec 28, 2025 · [Details](IF5sNQH-01c.md) (shared: `architecture` · `design` · `intelligence`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 74 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `architecture` · `autonomous`)
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `architecture` · `design`)
-- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 35 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `enterprise` · `autonomous`)
+- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 36 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `enterprise` · `autonomous`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

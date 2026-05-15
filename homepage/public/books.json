@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T00:00:00Z",
+  "generatedAt": "2026-05-15T10:00:00Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -53,7 +53,7 @@
           "number": 7,
           "title": "The Architecture of Wealth",
           "summary": "Before strategy comes psychology. The hedonic treadmill ensures rising income produces no lasting happiness gain — so wealth building starts with mindset, not spreadsheets. This chapter covers the three pillars (401k, Social Security, IRA), the retirement red zone, and compound interest as life's most underrated force.",
-          "videoIds": ["nfD3KzIriM8", "K1O4kHjFJaQ", "KBfVy5-M-5k", "MBnVggs6k5g", "HFmkEvxyJE4"],
+          "videoIds": ["nfD3KzIriM8", "K1O4kHjFJaQ", "KBfVy5-M-5k", "MBnVggs6k5g", "HFmkEvxyJE4", "SRwWBbsaQH4"],
           "tags": ["finance", "wealth", "retirement", "compound-interest"]
         },
         {
@@ -124,8 +124,8 @@
           "number": 6,
           "title": "The Rust Architect's Toolkit",
           "summary": "Separate IO-bound (Tokio) from CPU-bound (Rayon). Use Tower as a universal service abstraction. Bifurcate errors between thiserror (library) and anyhow (application). Trace with structured spans. This chapter is the opinionated field guide for production Rust.",
-          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU"],
-          "tags": ["rust", "tokio", "tower", "error-handling"]
+          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU", "uz8nmkTPEpg"],
+          "tags": ["rust", "tokio", "tower", "error-handling", "sqlx"]
         },
         {
           "number": 7,
@@ -166,15 +166,15 @@
           "number": 12,
           "title": "The ML Inference Stack",
           "summary": "ONNX provides the universal intermediate representation — a graph/node/value IR with SSA validation, operator schemas, and version conversion adapters that decouple model creation from hardware execution. Candle compiles Rust-native inference to WASM for serverless cold starts. Burn layers a tensor abstraction over pluggable backends. This chapter traces a model from training framework through ONNX IR to optimized hardware execution.",
-          "videoIds": ["Qi_vpz_5j7g", "8PaVKQoDReY", "joYJ6rPN3UI", "_bFOZ51Q55Y", "fNN88ZXWYKU"],
-          "tags": ["onnx", "candle", "burn", "ml-inference", "interoperability"]
+          "videoIds": ["Qi_vpz_5j7g", "8PaVKQoDReY", "joYJ6rPN3UI", "_bFOZ51Q55Y", "fNN88ZXWYKU", "AvysIjFrTEw"],
+          "tags": ["onnx", "candle", "burn", "ml-inference", "interoperability", "computer-vision"]
         },
         {
           "number": 13,
           "title": "The Database Internals Tour",
           "summary": "BadgerDB's LSM-tree Go-native store, ScyllaDB's shared-nothing architecture, HelixDB's unified graph-vector model, DuckDB's in-process analytics. This chapter visits four databases that each made a radical architectural bet — and examines why each bet was correct for its niche.",
-          "videoIds": ["eI2DXGISpbk", "mYClRFIlsFc", "kQc99Io3pCo", "ZBW6YozOu78", "BsiQrEaF3kU"],
-          "tags": ["databases", "badgerdb", "scylladb", "duckdb"]
+          "videoIds": ["eI2DXGISpbk", "mYClRFIlsFc", "kQc99Io3pCo", "ZBW6YozOu78", "BsiQrEaF3kU", "ZbZdm5Opbno", "n9Ebc-0E478"],
+          "tags": ["databases", "badgerdb", "scylladb", "duckdb", "datafusion", "lancedb"]
         }
       ]
     }

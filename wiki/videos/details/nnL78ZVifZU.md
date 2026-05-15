@@ -30,10 +30,10 @@ This video teaches candlestick chart analysis as a strategic framework for readi
 
 ## Related Videos
 
-- [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 47 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `analysis` · `market`)
+- [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `analysis` · `market`)
 - [The architecture of wealth](https://youtu.be/nfD3KzIriM8) — Finance · 8 views · Jan 16, 2026 · [Details](nfD3KzIriM8.md) (shared: `psychology`)
 - [The Mathematics of Human Capital Compounding](https://youtu.be/_4BC0zHGYTw) — Finance · 14 views · Mar 5, 2026 · [Details](_4BC0zHGYTw.md) (shared: `analysis`)
-- [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) — Finance · 46 views · Mar 26, 2026 · [Details](hnMR8rdGCnU.md) (shared: `psychology`)
+- [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) — Finance · 47 views · Mar 26, 2026 · [Details](hnMR8rdGCnU.md) (shared: `psychology`)
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `analysis`)
 
 ---

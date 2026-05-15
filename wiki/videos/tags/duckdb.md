@@ -2,7 +2,7 @@
 type: tag
 tags: [duckdb]
 sources: 3
-updated: 2026-05-10
+updated: 2026-05-15
 ---
 
 # duckdb
@@ -16,4 +16,4 @@ Videos connected by the topic `duckdb`.
 - [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) — Kubernetes · 15 views · Mar 13, 2026 · [Details](../details/u60g2nMtVi4.md)
 
 ---
-*Auto-generated on May 10, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 15, 2026. Back to [topic index](index.md).*

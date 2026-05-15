@@ -31,7 +31,7 @@ This video presents a structured migration framework for moving workloads from A
 ## Related Videos
 
 - [The Cloud Rosetta Stone](https://youtu.be/PMgUhFxrjPc) — Kubernetes · 20 views · Apr 18, 2026 · [Details](PMgUhFxrjPc.md) (shared: `aws` · `azure` · `mapping`)
-- [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) — Kubernetes · 25 views · Apr 4, 2026 · [Details](7iWL5-0C66s.md) (shared: `migration` · `cloud`)
+- [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) — Kubernetes · 26 views · Apr 4, 2026 · [Details](7iWL5-0C66s.md) (shared: `migration` · `cloud`)
 - [Modern Hybrid Identity ](https://youtu.be/nJ10P-fRqZQ) — Kubernetes · 8 views · Mar 17, 2026 · [Details](nJ10P-fRqZQ.md) (shared: `migration` · `cloud`)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 13 views · Mar 10, 2026 · [Details](Hd767VA7Z-0.md) (shared: `azure` · `strategy`)
 - [Architecting Cost Efficiency for Al Workloads](https://youtu.be/eaPXjvB194w) — Kubernetes · 25 views · Apr 25, 2026 · [Details](eaPXjvB194w.md) (shared: `azure` · `cosmos`)

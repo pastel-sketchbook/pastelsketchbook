@@ -34,7 +34,7 @@ This presentation addresses the "two places problem" in Kubernetes configuration
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) — Kubernetes · 28 views · Mar 16, 2026 · [Details](LUOX5xkSyi0.md) (shared: `cue` · `configuration management` · `configuration`)
 - [Beyond Static Configuration](https://youtu.be/okVlu1qseI4) — Kubernetes · 25 views · Feb 15, 2026 · [Details](okVlu1qseI4.md) (shared: `cue` · `configuration management` · `configuration`)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) — Kubernetes · 25 views · Feb 21, 2026 · [Details](ORjARjbukhY.md) (shared: `platform engineering` · `platform` · `engineering`)
-- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 68 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `platform` · `engineering`)
+- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 69 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `platform` · `engineering`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

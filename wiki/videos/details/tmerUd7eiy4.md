@@ -33,7 +33,7 @@ This video explores how to craft a personalized terminal environment by moving b
 - [Hangul + WASM](https://youtu.be/9yov-ZVv-Bo) — Development · 43 views · Jan 19, 2026 · [Details](9yov-ZVv-Bo.md) (shared: `performance`)
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `terminal`)
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `performance`)
-- [Bubble Tea v2](https://youtu.be/Hfut9CfJhN0) — Development · 56 views · Mar 2, 2026 · [Details](Hfut9CfJhN0.md) (shared: `terminal`)
+- [Bubble Tea v2](https://youtu.be/Hfut9CfJhN0) — Development · 58 views · Mar 2, 2026 · [Details](Hfut9CfJhN0.md) (shared: `terminal`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `performance`)
 
 ---

@@ -34,7 +34,7 @@ This video presents a strategic guide for 2026 high-yield and covered call ETFs,
 - [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 12 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `management` · `investing`)
 - [An Ambitious Ascent](https://youtu.be/MDNRiJN7aEg) — Finance · 11 views · Dec 29, 2025 · [Details](MDNRiJN7aEg.md) (shared: `etf` · `management`)
 - [The architecture of wealth](https://youtu.be/nfD3KzIriM8) — Finance · 8 views · Jan 16, 2026 · [Details](nfD3KzIriM8.md) (shared: `investing`)
-- [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) — Finance · 46 views · Mar 26, 2026 · [Details](hnMR8rdGCnU.md) (shared: `trap`)
+- [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) — Finance · 47 views · Mar 26, 2026 · [Details](hnMR8rdGCnU.md) (shared: `trap`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

@@ -35,11 +35,11 @@ A deep dive into the Echo web framework for building high-performance Go APIs, c
 
 ## Related Videos
 
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 45 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `web` · `framework` · `middleware`)
-- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 107 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `echo web framework` · `echo` · `web`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 46 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `web` · `framework` · `middleware`)
+- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 108 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `echo web framework` · `echo` · `web`)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `echo` · `framework` · `architecture`)
 - [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 57 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `framework` · `development` · `context`)
-- [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 45 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `framework` · `development`)
+- [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 18 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `api` · `pipeline` · `architecture`)
 
 ---
 *Auto-generated on May 8, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -34,7 +34,7 @@ This video provides a visual guide to Rust for developers transitioning from oth
 - [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 47 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `rust` · `zero-cost abstractions` · `zero-cost`)
 - [zig-duckdb-ext](https://youtu.be/ymYtSum-2qc) — Development · 63 views · Mar 24, 2026 · [Details](ymYtSum-2qc.md) (shared: `zero-cost abstractions` · `zero-cost` · `abstractions`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust` · `memory` · `safety`)
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 45 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `rust` · `type` · `safety`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 46 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `rust` · `type` · `safety`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

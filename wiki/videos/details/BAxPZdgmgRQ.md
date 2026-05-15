@@ -32,7 +32,7 @@ This video presents findings from a survey of 500+ technical leaders on the stat
 
 - [The Center Has a Bias](https://youtu.be/a1hIA6KQUFE) — Development · 38 views · Apr 13, 2026 · [Details](a1hIA6KQUFE.md) (shared: `agents` · `adoption` · `coding`)
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `ai agents` · `agents`)
-- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 35 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `agents` · `enterprise`)
+- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 36 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `agents` · `enterprise`)
 - [Generative Al at Scale](https://youtu.be/uU46ltIELqk) — Development · 14 views · Mar 27, 2026 · [Details](uU46ltIELqk.md) (shared: `enterprise` · `generative`)
 - [Professional Al Agent Usage via the CLI](https://youtu.be/Xhq99-YHXCY) — Development · 25 views · Jan 2, 2026 · [Details](Xhq99-YHXCY.md) (shared: `coding` · `workflows`)
 

@@ -32,8 +32,8 @@ This talk traces the evolution from “vector RAG” to “graph RAG” and then
 ## Related Videos
 
 - [From Louvain to Leiden](https://youtu.be/BQ4wab0UtLg) — Development · 28 views · Apr 26, 2026 · [Details](BQ4wab0UtLg.md) (shared: `graph` · `community` · `detection`)
-- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 35 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `enterprise` · `agentic`)
-- [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 59 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `knowledge` · `hybrid`)
+- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 36 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `enterprise` · `agentic`)
+- [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 60 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `knowledge` · `hybrid`)
 - [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 96 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `graph` · `detection`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `enterprise`)
 

@@ -30,11 +30,11 @@ This video presents a telescoping framework for breaking down large agile epics 
 
 ## Related Videos
 
+- [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 12 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `planning` · `execution`)
 - [Hangul + WASM](https://youtu.be/9yov-ZVv-Bo) — Development · 43 views · Jan 19, 2026 · [Details](9yov-ZVv-Bo.md) (shared: `decomposition`)
 - [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 2 views · Jan 6, 2026 · [Details](z_Ydy_-cI1U.md) (shared: `decomposition`)
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `system`)
 - [Ralph: The Autonomous Vibe Coding Workflow](https://youtu.be/V2LbQqD1lMM) — Development · 34 views · Jan 31, 2026 · [Details](V2LbQqD1lMM.md) (shared: `execution`)
-- [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `system`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

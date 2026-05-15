@@ -35,7 +35,7 @@ This blueprint dissects the internal architecture of NestJS, showing how a metad
 - [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 113 views · Feb 24, 2026 · [Details](DazzkNtnzec.md) (shared: `decorators` · `dependency` · `injection`)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 94 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `execution` · `context` · `protocol`)
 - [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](9oSUtndLto4.md) (shared: `context` · `protocol`)
-- [Tracing Asynchronous Rust](https://youtu.be/d1MH4nza95g) — Development · 91 views · May 3, 2026 · [Details](d1MH4nza95g.md) (shared: `wrapper` · `pipeline` · `context`)
+- [Tracing Asynchronous Rust](https://youtu.be/d1MH4nza95g) — Development · 93 views · May 3, 2026 · [Details](d1MH4nza95g.md) (shared: `wrapper` · `pipeline` · `context`)
 
 ---
 *Auto-generated on May 6, 2026. Back to [development](../development.md) · [index](../index.md).*

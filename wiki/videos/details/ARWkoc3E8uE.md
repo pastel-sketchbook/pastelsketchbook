@@ -30,10 +30,10 @@ This presentation examines how Go and Rust enforce the Gang of Four principle of
 
 ## Related Videos
 
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 142 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `traits` · `architecture`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 147 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `traits` · `architecture`)
 - [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 113 views · Feb 24, 2026 · [Details](DazzkNtnzec.md) (shared: `composition over inheritance` · `composition` · `inheritance`)
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `rust` · `gang` · `four`)
-- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 156 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `composition` · `design` · `architecture`)
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 158 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `composition` · `design` · `architecture`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 88 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `architecture`)
 
 ---

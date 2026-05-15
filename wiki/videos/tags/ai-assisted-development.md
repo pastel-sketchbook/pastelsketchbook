@@ -2,7 +2,7 @@
 type: tag
 tags: [ai-assisted-development]
 sources: 3
-updated: 2026-05-10
+updated: 2026-05-15
 ---
 
 # ai-assisted development
@@ -11,9 +11,9 @@ Videos connected by the topic `ai-assisted development`.
 
 ## Videos
 
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 149 views · Apr 10, 2026 · [Details](../details/TEGFwsAcxK8.md)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 156 views · Apr 10, 2026 · [Details](../details/TEGFwsAcxK8.md)
 - [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 52 views · Apr 28, 2026 · [Details](../details/i1HT5UIccTs.md)
 - [Taming the Genie](https://youtu.be/MaP2i4dTiQk) — Development · 16 views · Jan 23, 2026 · [Details](../details/MaP2i4dTiQk.md)
 
 ---
-*Auto-generated on May 10, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 15, 2026. Back to [topic index](index.md).*

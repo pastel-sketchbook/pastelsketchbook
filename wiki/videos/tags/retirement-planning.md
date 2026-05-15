@@ -2,7 +2,7 @@
 type: tag
 tags: [retirement-planning]
 sources: 3
-updated: 2026-05-10
+updated: 2026-05-15
 ---
 
 # retirement planning
@@ -16,4 +16,4 @@ Videos connected by the topic `retirement planning`.
 - [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](../details/EMXUbohWsWs.md)
 
 ---
-*Auto-generated on May 10, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 15, 2026. Back to [topic index](index.md).*

@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [sentinel, siem, soar, xdr, llm, security, nist, proxy, pentesting, spider]
 sources: 13
-updated: 2026-05-10
+updated: 2026-05-15
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-05-10
 | Metric | Value |
 |--------|-------|
 | Videos | 13 |
-| Total Views | 419 |
+| Total Views | 420 |
 | Most Recent | Apr 30, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -52,7 +52,7 @@ updated: 2026-05-10
 | 10 | The Strategic Roadmap for Data Classification | 17 | Mar 2, 2026 | [Watch](https://youtu.be/uhXcsWYhdkA) | [Wiki](details/uhXcsWYhdkA.md) |
 | 11 | The Orchestrator's Blueprint | 36 | Feb 28, 2026 | [Watch](https://youtu.be/Oa3jaLNSZvM) | [Wiki](details/Oa3jaLNSZvM.md) |
 | 12 | 2025 Global Threat Report | 14 | Feb 27, 2026 | [Watch](https://youtu.be/1MPD6MILLcQ) | [Wiki](details/1MPD6MILLcQ.md) |
-| 13 | Shannon: Autonomous Penetration Testing | 46 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) | [Wiki](details/JfGgWiiCTA0.md) |
+| 13 | Shannon: Autonomous Penetration Testing | 47 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) | [Wiki](details/JfGgWiiCTA0.md) |
 
 ## Top Tags
 
@@ -64,4 +64,4 @@ updated: 2026-05-10
 - [Development](development.md) -- shared tags: `shift left`, `agent`, `ai`, `llm`, `context`, `resilience`, `ssrf`
 
 ---
-*Auto-generated on May 10, 2026. Back to [index](index.md).*
+*Auto-generated on May 15, 2026. Back to [index](index.md).*

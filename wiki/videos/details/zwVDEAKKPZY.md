@@ -35,7 +35,7 @@ Go 1.26 introduces a paradigm shift toward automated modernization and intent-ba
 
 ## Related Videos
 
-- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 156 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `slices` · `technical` · `debt`)
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 158 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `slices` · `technical` · `debt`)
 - [The 10-Lens Research Analysis Framework](https://youtu.be/NztD5fYpXcg) — Development · 32 views · Mar 7, 2026 · [Details](NztD5fYpXcg.md) (shared: `analysis` · `framework`)
 - [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 57 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `framework` · `automated`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `analysis` · `automated`)

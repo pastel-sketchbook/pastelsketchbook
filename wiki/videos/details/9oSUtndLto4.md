@@ -30,8 +30,8 @@ This video demonstrates how the Model Context Protocol (MCP) bridges AI coding a
 
 ## Related Videos
 
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 672 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model context protocol` · `model` · `context`)
-- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 274 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `model context protocol` · `model` · `context`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 676 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model context protocol` · `model` · `context`)
+- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 276 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `model context protocol` · `model` · `context`)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 94 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `model context protocol` · `model` · `context`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `github` · `copilot`)
 - [Building with Gemini: The Unified Ecosystem](https://youtu.be/Y0DQGVALb7I) — Development · 54 views · Mar 29, 2026 · [Details](Y0DQGVALb7I.md) (shared: `context` · `models`)

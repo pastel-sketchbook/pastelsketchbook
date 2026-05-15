@@ -37,11 +37,11 @@ Candle is a Rust-native machine learning framework engineered for serverless inf
 
 ## Related Videos
 
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 396 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `zero` · `tensor`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/_bFOZ51Q55Y) — Development · 26 views · May 8, 2026 · [Details](_bFOZ51Q55Y.md) (shared: `zero` · `copy` · `tensor`)
-- [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 4 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `inference` · `graph` · `onnx`)
-- [Building vibe-rust](https://youtu.be/BT08SXPvV6U) — Development · 61 views · Apr 4, 2026 · [Details](BT08SXPvV6U.md) (shared: `rust` · `onnx`)
-- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `interoperability`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 411 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `zero` · `tensor`)
+- [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 18 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `inference` · `graph` · `cuda`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/_bFOZ51Q55Y) — Development · 478 views · May 8, 2026 · [Details](_bFOZ51Q55Y.md) (shared: `zero` · `copy` · `tensor`)
+- [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 29 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `inference` · `graph` · `onnx`)
+- [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 16 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `rust` · `zero` · `copy`)
 
 ---
 *Auto-generated on May 9, 2026. Back to [development](../development.md) · [index](../index.md).*

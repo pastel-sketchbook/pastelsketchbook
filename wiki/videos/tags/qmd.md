@@ -2,7 +2,7 @@
 type: tag
 tags: [qmd]
 sources: 2
-updated: 2026-05-10
+updated: 2026-05-15
 ---
 
 # qmd
@@ -11,8 +11,8 @@ Videos connected by the topic `qmd`.
 
 ## Videos
 
-- [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 59 views · Apr 13, 2026 · [Details](../details/j8lMpSezavQ.md)
+- [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 60 views · Apr 13, 2026 · [Details](../details/j8lMpSezavQ.md)
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 46 views · Apr 21, 2026 · [Details](../details/xkHQhOgapfY.md)
 
 ---
-*Auto-generated on May 10, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 15, 2026. Back to [topic index](index.md).*
