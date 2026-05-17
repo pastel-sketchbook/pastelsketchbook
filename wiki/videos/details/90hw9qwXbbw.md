@@ -47,8 +47,8 @@ Welcome.  It  is  a  pleasure  to  have  you here  for  today's  session  where 
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 88 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `tokio` · `runtime`)
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `tokio runtime` · `tokio`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `tonic` · `grpc` · `tokio`)
+- [The Tokio Architecture Blueprint](https://youtu.be/9HUPNhA3OrI) — Development · 33 views · May 15, 2026 · [Details](9HUPNhA3OrI.md) (shared: `rust` · `tokio` · `runtime`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `tokio` · `runtime`)
-- [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 50 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `rust` · `tokio` · `runtime`)
 
 ---
 *Auto-generated on May 2, 2026. Back to [development](../development.md) · [index](../index.md).*

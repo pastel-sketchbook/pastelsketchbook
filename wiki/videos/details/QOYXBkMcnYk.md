@@ -35,11 +35,11 @@ A deep dive into the Echo web framework for building high-performance Go APIs, c
 
 ## Related Videos
 
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 46 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `web` · `framework` · `middleware`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 48 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `web` · `framework` · `middleware`)
 - [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 108 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `echo web framework` · `echo` · `web`)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `echo` · `framework` · `architecture`)
 - [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 57 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `framework` · `development` · `context`)
-- [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 18 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `api` · `pipeline` · `architecture`)
+- [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 11 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `pipeline` · `architecture` · `lifecycle`)
 
 ---
 *Auto-generated on May 8, 2026. Back to [development](../development.md) · [index](../index.md).*

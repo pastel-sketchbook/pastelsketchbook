@@ -76,6 +76,13 @@
           "summary": "Change data capture, the push architecture, compensating transactions, and the strangler fig pattern — event-driven design is not one pattern but a landscape of interlocking decisions. This chapter maps that landscape from Debezium to ScyllaDB CDC to domain event choreography.",
           "videoIds": ["QE51ybyrQDM", "oqi_jJl3tAQ", "xlwu0YwE3_Q", "4aAyFYemYD8", "KdLQEv3Tiiw", "nomIVRSBEG4"],
           "tags": ["event-driven", "cdc", "patterns", "scylladb"]
+        },
+        {
+          "number": 11,
+          "title": "The Frontend & Desktop Shell Architecture",
+          "summary": "The repository pattern decouples UI from data access across React, Angular, and SolidJS. TanStack Query and signals provide the state layer. SolidJS 2.0 introduces async signals and the producer pattern. Tauri and Velox wrap web SPAs in thin native shells with strict CSP. This chapter maps the architectural patterns that define modern frontend and desktop development.",
+          "videoIds": ["3ybGkjogcFQ", "cWozmWrqnxs", "5Vloo08zQ7o", "00kCzR10M1w", "xvqZFPf5X60", "IZX3_9rZeMU", "ytA6gw6Tgaw", "Ul0ixBpd5iM"],
+          "tags": ["frontend", "solidjs", "tanstack", "tauri", "repository-pattern", "desktop"]
         }
       ]
     },
@@ -124,14 +131,14 @@
           "number": 6,
           "title": "The Rust Architect's Toolkit",
           "summary": "Separate IO-bound (Tokio) from CPU-bound (Rayon). Use Tower as a universal service abstraction. Bifurcate errors between thiserror (library) and anyhow (application). Trace with structured spans. This chapter is the opinionated field guide for production Rust.",
-          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU", "uz8nmkTPEpg"],
+          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU", "uz8nmkTPEpg", "9HUPNhA3OrI"],
           "tags": ["rust", "tokio", "tower", "error-handling", "sqlx"]
         },
         {
           "number": 7,
           "title": "Serialization and Type Safety",
           "summary": "Serde's derive macros, RON as a human-readable alternative to JSON, feature flags for conditional compilation, and Rust's error handling taxonomy (thiserror for libraries, anyhow for applications). This chapter covers the data boundary where types meet the outside world.",
-          "videoIds": ["RDa6WtZmW8E", "NhYb7QkBdMs", "ZlEq2jFb8tI", "WdK7PED1ug8"],
+          "videoIds": ["RDa6WtZmW8E", "NhYb7QkBdMs", "ZlEq2jFb8tI", "WdK7PED1ug8", "bAoDvQgmGjM"],
           "tags": ["serde", "serialization", "rust", "type-safety"]
         },
         {
@@ -152,7 +159,7 @@
           "number": 10,
           "title": "Zig: The Pragmatic Successor",
           "summary": "Comptime generics eliminate vtable overhead. Explicit allocators replace hidden malloc. Built-in SIMD vectors and error sets make the language a systems programming tool that refuses to hide cost. This chapter traces Zig from fundamentals through 0.16.0's architectural decoupling.",
-          "videoIds": ["yOOQNnaOLeM", "xV2EAL3NAVM", "hTEG3TsuUPQ", "olsB3bJxA2A"],
+          "videoIds": ["yOOQNnaOLeM", "xV2EAL3NAVM", "hTEG3TsuUPQ", "olsB3bJxA2A", "jrD_LGNsJXM"],
           "tags": ["zig", "comptime", "systems-programming"]
         },
         {
@@ -173,8 +180,22 @@
           "number": 13,
           "title": "The Database Internals Tour",
           "summary": "BadgerDB's LSM-tree Go-native store, ScyllaDB's shared-nothing architecture, HelixDB's unified graph-vector model, DuckDB's in-process analytics. This chapter visits four databases that each made a radical architectural bet — and examines why each bet was correct for its niche.",
-          "videoIds": ["eI2DXGISpbk", "mYClRFIlsFc", "kQc99Io3pCo", "ZBW6YozOu78", "BsiQrEaF3kU", "ZbZdm5Opbno", "n9Ebc-0E478"],
+          "videoIds": ["eI2DXGISpbk", "mYClRFIlsFc", "kQc99Io3pCo", "ZBW6YozOu78", "BsiQrEaF3kU", "ZbZdm5Opbno", "n9Ebc-0E478", "i2YEYgVx0AA"],
           "tags": ["databases", "badgerdb", "scylladb", "duckdb", "datafusion", "lancedb"]
+        },
+        {
+          "number": 14,
+          "title": "The Flutter/Dart Platform",
+          "summary": "Flutter Web's dual HTML and CanvasKit backends, the Impeller rendering engine, WASM compilation, and the 2026 roadmap toward Gen UI and agentic apps. Modern Dart 3.x adds sound null safety, records, and pattern matching. This chapter covers the platform-level architecture and the language evolution that underpins it.",
+          "videoIds": ["q-6cUColzQQ", "WMcKFQ200OE", "JBh6rzeS-Qc", "jzjGcFkAnfs", "LWc3AAHoxnU", "4_mBGmXA244"],
+          "tags": ["flutter", "dart", "impeller", "wasm", "roadmap", "architecture"]
+        },
+        {
+          "number": 15,
+          "title": "The Flutter/Dart Internals",
+          "summary": "Dio structures the HTTP client as concentric layers — global core, interceptor ring, and pluggable adapters. Riverpod organizes state into four cooperating layers around a ProviderContainer. Genkit Dart brings type-safe AI flows to the full Dart stack. Agent skills automate testing, diagnostics, and scaffolding. This chapter deep-dives the libraries and tooling that define Flutter's ecosystem.",
+          "videoIds": ["BhzeYd4aqOQ", "Gy-ky1pAF0U", "FOkG5ScxU88", "2iIi1H9V-Hg", "TEGFwsAcxK8", "i1HT5UIccTs"],
+          "tags": ["flutter", "dart", "dio", "riverpod", "genkit", "agent-skills"]
         }
       ]
     }

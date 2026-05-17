@@ -2,7 +2,7 @@
 type: tag
 tags: [barbell-strategy]
 sources: 2
-updated: 2026-05-15
+updated: 2026-05-17
 ---
 
 # barbell strategy
@@ -15,4 +15,4 @@ Videos connected by the topic `barbell strategy`.
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](../details/2NoJVXPpcco.md)
 
 ---
-*Auto-generated on May 15, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 17, 2026. Back to [topic index](index.md).*

@@ -34,7 +34,7 @@ This video covers backend design patterns in Rust, transitioning from the implic
 - [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 55 views · Apr 27, 2026 · [Details](R3n8UxyD7mc.md) (shared: `architecture` · `pattern` · `dependency injection`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 88 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `architecture` · `event-driven architecture`)
 - [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 792 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `pattern` · `dependency injection`)
-- [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 14 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `architecture` · `saga pattern` · `saga`)
+- [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 15 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `architecture` · `saga pattern` · `saga`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

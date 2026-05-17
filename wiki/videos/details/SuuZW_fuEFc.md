@@ -38,11 +38,11 @@ rr-mailtrap is a single-binary Rust SMTP sandbox that traps outbound test mail o
 
 ## Related Videos
 
-- [The Evolution of File Detection](https://youtu.be/85pyYZFJ6_s) — Development · 38 views · May 7, 2026 · [Details](85pyYZFJ6_s.md) (shared: `magika` · `content` · `detection`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 411 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `onnx` · `zero` · `safety`)
+- [The Evolution of File Detection](https://youtu.be/85pyYZFJ6_s) — Development · 48 views · May 7, 2026 · [Details](85pyYZFJ6_s.md) (shared: `magika` · `content` · `detection`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 422 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `onnx` · `zero` · `safety`)
+- [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 2 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `content` · `import` · `export`)
 - [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 55 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `binary` · `dependencies`)
 - [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 96 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `mode` · `detection`)
-- [Diagnostic Guide to Computer Vision Feature Detection](https://youtu.be/AvysIjFrTEw) — Development · 22 views · May 11, 2026 · [Details](AvysIjFrTEw.md) (shared: `detection` · `binary`)
 
 ---
 *Auto-generated on May 9, 2026. Back to [development](../development.md) · [index](../index.md).*

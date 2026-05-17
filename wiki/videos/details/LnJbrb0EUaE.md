@@ -31,10 +31,10 @@ A comprehensive architectural walkthrough of the Prisma ORM ecosystem, from its 
 ## Related Videos
 
 - [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 35 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `orm` · `architecture` · `query`)
-- [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 11 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `orm` · `architecture` · `query`)
+- [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 15 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `orm` · `architecture` · `query`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `rust` · `code` · `generation`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 411 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `architecture` · `rust` · `code`)
-- [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 12 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `architecture` · `query` · `engine`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 422 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `architecture` · `rust` · `code`)
+- [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 22 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `architecture` · `query` · `engine`)
 
 ---
 *Auto-generated on May 8, 2026. Back to [development](../development.md) · [index](../index.md).*

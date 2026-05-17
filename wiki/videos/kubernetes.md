@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, azure, rabbitmq, cue, k8s, shift left, cdc, rust]
 sources: 66
-updated: 2026-05-15
+updated: 2026-05-17
 ---
 
 # Kubernetes
@@ -23,7 +23,7 @@ updated: 2026-05-15
 
 ### AKS & Networking (20 videos)
 
-- [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) -- 3 views, May 6, 2026 · [Details](details/4YsX6tYi5x4.md)
+- [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) -- 9 views, May 6, 2026 · [Details](details/4YsX6tYi5x4.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [Modern Hybrid Identity ](https://youtu.be/nJ10P-fRqZQ) -- 8 views, Mar 17, 2026 · [Details](details/nJ10P-fRqZQ.md)
 - [Architecting AKS Networking - Trade-offs](https://youtu.be/F09-7mNt3F4) -- 14 views, Mar 12, 2026 · [Details](details/F09-7mNt3F4.md)
@@ -38,7 +38,7 @@ updated: 2026-05-15
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) -- 23 views, Jan 14, 2026 · [Details](details/A4-foXsdQiA.md)
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) -- 6 views, Jan 14, 2026 · [Details](details/C6wLm6NRZW4.md)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) -- 5 views, Jan 10, 2026 · [Details](details/N4nRAfBZ3BE.md)
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) -- 13 views, Jan 10, 2026 · [Details](details/C5HqbzLRYZ0.md)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) -- 14 views, Jan 10, 2026 · [Details](details/C5HqbzLRYZ0.md)
 - [Securely Exposing AKS Applications](https://youtu.be/A7eoKD5m6Ek) -- 9 views, Jan 8, 2026 · [Details](details/A7eoKD5m6Ek.md)
 - [Deploying CSR Applications on Vercel Versus AKS](https://youtu.be/snRi_JET1bg) -- 8 views, Jan 6, 2026 · [Details](details/snRi_JET1bg.md)
 - [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) -- 18 views, Jan 2, 2026 · [Details](details/8ycnldvJmuA.md)
@@ -46,7 +46,7 @@ updated: 2026-05-15
 
 ### Service Mesh (9 videos)
 
-- [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) -- 3 views, May 6, 2026 · [Details](details/4YsX6tYi5x4.md)
+- [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) -- 9 views, May 6, 2026 · [Details](details/4YsX6tYi5x4.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) -- 13 views, Mar 10, 2026 · [Details](details/Hd767VA7Z-0.md)
 - [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) -- 29 views, Feb 15, 2026 · [Details](details/P_xUJi_qt-Q.md)
@@ -54,7 +54,7 @@ updated: 2026-05-15
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) -- 46 views, Jan 16, 2026 · [Details](details/0U-SUJCmKAU.md)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) -- 23 views, Jan 14, 2026 · [Details](details/A4-foXsdQiA.md)
 - [Kubernetes Services & Istio](https://youtu.be/OnwiaDRj1-k) -- 30 views, Jan 12, 2026 · [Details](details/OnwiaDRj1-k.md)
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) -- 13 views, Jan 10, 2026 · [Details](details/C5HqbzLRYZ0.md)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) -- 14 views, Jan 10, 2026 · [Details](details/C5HqbzLRYZ0.md)
 
 ### Architecture (9 videos)
 
@@ -65,12 +65,12 @@ updated: 2026-05-15
 - [The Architecture of Modern Identity](https://youtu.be/n-Yt33ZdEHw) -- 62 views, Mar 18, 2026 · [Details](details/n-Yt33ZdEHw.md)
 - [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) -- 27 views, Feb 19, 2026 · [Details](details/rk_3xU9OF-k.md)
 - [ScyllaDB: The Next-Generation NoSQL Platform](https://youtu.be/mYClRFIlsFc) -- 13 views, Feb 19, 2026 · [Details](details/mYClRFIlsFc.md)
-- [Drasi: The Future of Change-Driven Architecture](https://youtu.be/5Ztm7JNVa8E) -- 47 views, Feb 17, 2026 · [Details](details/5Ztm7JNVa8E.md)
+- [Drasi: The Future of Change-Driven Architecture](https://youtu.be/5Ztm7JNVa8E) -- 48 views, Feb 17, 2026 · [Details](details/5Ztm7JNVa8E.md)
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) -- 12 views, Jan 9, 2026 · [Details](details/rJTUB-u8U2Y.md)
 
 ### Messaging (8 videos)
 
-- [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) -- 12 views, May 7, 2026 · [Details](details/V9tvg6Yg3m4.md)
+- [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) -- 17 views, May 7, 2026 · [Details](details/V9tvg6Yg3m4.md)
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) -- 21 views, Apr 7, 2026 · [Details](details/KdLQEv3Tiiw.md)
 - [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) -- 75 views, Apr 5, 2026 · [Details](details/WRpjJV4SUKc.md)
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 26 views, Apr 4, 2026 · [Details](details/7iWL5-0C66s.md)
@@ -84,7 +84,7 @@ updated: 2026-05-15
 - [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) -- 67 views, Apr 25, 2026 · [Details](details/quD4pyCwKB4.md)
 - [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 16 views, Apr 22, 2026 · [Details](details/eZNBXDUc8OQ.md)
 - [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) -- 21 views, Apr 22, 2026 · [Details](details/p9LNSeAt5Zw.md)
-- [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) -- 32 views, Apr 14, 2026 · [Details](details/mGMaqTvWrCc.md)
+- [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) -- 33 views, Apr 14, 2026 · [Details](details/mGMaqTvWrCc.md)
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 26 views, Apr 4, 2026 · [Details](details/7iWL5-0C66s.md)
 - [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) -- 69 views, Mar 26, 2026 · [Details](details/lexZnOlyml0.md)
 - [The Architecture of Modern Identity](https://youtu.be/n-Yt33ZdEHw) -- 62 views, Mar 18, 2026 · [Details](details/n-Yt33ZdEHw.md)
@@ -97,13 +97,13 @@ updated: 2026-05-15
 - [ScyllaDB: The Next-Generation NoSQL Platform](https://youtu.be/mYClRFIlsFc) -- 13 views, Feb 19, 2026 · [Details](details/mYClRFIlsFc.md)
 - [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 52 views, Feb 12, 2026 · [Details](details/eI2DXGISpbk.md)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) -- 26 views, Feb 10, 2026 · [Details](details/MIZ0ATwu7C0.md)
-- [MotherDuck: Serverless DuckDB in the Cloud & Client](https://youtu.be/BsiQrEaF3kU) -- 26 views, Feb 4, 2026 · [Details](details/BsiQrEaF3kU.md)
+- [MotherDuck: Serverless DuckDB in the Cloud & Client](https://youtu.be/BsiQrEaF3kU) -- 27 views, Feb 4, 2026 · [Details](details/BsiQrEaF3kU.md)
 - [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) -- 21 views, Jan 31, 2026 · [Details](details/Q4qm1hvVR2A.md)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) -- 5 views, Jan 10, 2026 · [Details](details/N4nRAfBZ3BE.md)
 
 ### Go (7 videos)
 
-- [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) -- 23 views, Apr 29, 2026 · [Details](details/-e7kvcUXxtw.md)
+- [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) -- 24 views, Apr 29, 2026 · [Details](details/-e7kvcUXxtw.md)
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 76 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) -- 25 views, Feb 21, 2026 · [Details](details/ORjARjbukhY.md)
@@ -113,7 +113,7 @@ updated: 2026-05-15
 
 ### Security (7 videos)
 
-- [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) -- 23 views, Apr 29, 2026 · [Details](details/-e7kvcUXxtw.md)
+- [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) -- 24 views, Apr 29, 2026 · [Details](details/-e7kvcUXxtw.md)
 - [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) -- 51 views, Feb 5, 2026 · [Details](details/rgY4KTMFOMs.md)
 - [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) -- 30 views, Jan 27, 2026 · [Details](details/KpSjLQpswW4.md)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 42 views, Jan 17, 2026 · [Details](details/4b-H6ZaoNUE.md)
@@ -124,7 +124,7 @@ updated: 2026-05-15
 ### CI/CD & DevOps (7 videos)
 
 - [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 16 views, Apr 22, 2026 · [Details](details/eZNBXDUc8OQ.md)
-- [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) -- 32 views, Apr 14, 2026 · [Details](details/mGMaqTvWrCc.md)
+- [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) -- 33 views, Apr 14, 2026 · [Details](details/mGMaqTvWrCc.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) -- 13 views, Mar 10, 2026 · [Details](details/Hd767VA7Z-0.md)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) -- 25 views, Feb 21, 2026 · [Details](details/ORjARjbukhY.md)
@@ -150,7 +150,7 @@ updated: 2026-05-15
 ### Rust (4 videos)
 
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 76 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
-- [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) -- 17 views, Apr 11, 2026 · [Details](details/a8heWpae5p0.md)
+- [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) -- 18 views, Apr 11, 2026 · [Details](details/a8heWpae5p0.md)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 42 views, Jan 17, 2026 · [Details](details/4b-H6ZaoNUE.md)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) -- 23 views, Jan 14, 2026 · [Details](details/A4-foXsdQiA.md)
 
@@ -164,20 +164,20 @@ updated: 2026-05-15
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | The Anatomy of Kubernetes | 25 | May 12, 2026 | [Watch](https://youtu.be/WrZN5AgpaW4) | [Wiki](details/WrZN5AgpaW4.md) |
-| 2 | From Consensus Physics to Messaging Engineering | 12 | May 7, 2026 | [Watch](https://youtu.be/V9tvg6Yg3m4) | [Wiki](details/V9tvg6Yg3m4.md) |
-| 3 | Istio-Based Weighted Traffic Management on AKS | 3 | May 6, 2026 | [Watch](https://youtu.be/4YsX6tYi5x4) | [Wiki](details/4YsX6tYi5x4.md) |
-| 4 | DevSecOps on Azure Kubernetes Service | 23 | Apr 29, 2026 | [Watch](https://youtu.be/-e7kvcUXxtw) | [Wiki](details/-e7kvcUXxtw.md) |
+| 1 | The Anatomy of Kubernetes | 26 | May 12, 2026 | [Watch](https://youtu.be/WrZN5AgpaW4) | [Wiki](details/WrZN5AgpaW4.md) |
+| 2 | From Consensus Physics to Messaging Engineering | 17 | May 7, 2026 | [Watch](https://youtu.be/V9tvg6Yg3m4) | [Wiki](details/V9tvg6Yg3m4.md) |
+| 3 | Istio-Based Weighted Traffic Management on AKS | 9 | May 6, 2026 | [Watch](https://youtu.be/4YsX6tYi5x4) | [Wiki](details/4YsX6tYi5x4.md) |
+| 4 | DevSecOps on Azure Kubernetes Service | 24 | Apr 29, 2026 | [Watch](https://youtu.be/-e7kvcUXxtw) | [Wiki](details/-e7kvcUXxtw.md) |
 | 5 | Architecting Cost Efficiency for Al Workloads | 25 | Apr 25, 2026 | [Watch](https://youtu.be/eaPXjvB194w) | [Wiki](details/eaPXjvB194w.md) |
 | 6 | Enterprise Infrastructure as Code for Al Agents | 67 | Apr 25, 2026 | [Watch](https://youtu.be/quD4pyCwKB4) | [Wiki](details/quD4pyCwKB4.md) |
-| 7 | Kubernetes 1.36 (Haru) | 47 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
+| 7 | Kubernetes 1.36 (Haru) | 50 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
 | 8 | Architecting Modern Deployments | 16 | Apr 22, 2026 | [Watch](https://youtu.be/eZNBXDUc8OQ) | [Wiki](details/eZNBXDUc8OQ.md) |
 | 9 | Scaling Node.js from PM2 to Cloud-Native Orchestration | 21 | Apr 22, 2026 | [Watch](https://youtu.be/p9LNSeAt5Zw) | [Wiki](details/p9LNSeAt5Zw.md) |
 | 10 | The Cloud Rosetta Stone | 20 | Apr 18, 2026 | [Watch](https://youtu.be/PMgUhFxrjPc) | [Wiki](details/PMgUhFxrjPc.md) |
 | 11 | Consuming CDC with ScyllaDB | 76 | Apr 17, 2026 | [Watch](https://youtu.be/nomIVRSBEG4) | [Wiki](details/nomIVRSBEG4.md) |
-| 12 | Building an End-to-End MLOps Pipeline | 32 | Apr 14, 2026 | [Watch](https://youtu.be/mGMaqTvWrCc) | [Wiki](details/mGMaqTvWrCc.md) |
+| 12 | Building an End-to-End MLOps Pipeline | 33 | Apr 14, 2026 | [Watch](https://youtu.be/mGMaqTvWrCc) | [Wiki](details/mGMaqTvWrCc.md) |
 | 13 | A Trillion Transactions | 37 | Apr 12, 2026 | [Watch](https://youtu.be/oHdhgeF4wlI) | [Wiki](details/oHdhgeF4wlI.md) |
-| 14 | minikv: Distributed Systems Meets Data Science | 17 | Apr 11, 2026 | [Watch](https://youtu.be/a8heWpae5p0) | [Wiki](details/a8heWpae5p0.md) |
+| 14 | minikv: Distributed Systems Meets Data Science | 18 | Apr 11, 2026 | [Watch](https://youtu.be/a8heWpae5p0) | [Wiki](details/a8heWpae5p0.md) |
 | 15 | Mastering Hybrid CDC Architectures | 21 | Apr 7, 2026 | [Watch](https://youtu.be/KdLQEv3Tiiw) | [Wiki](details/KdLQEv3Tiiw.md) |
 | 16 | Architecting Real-Time State | 75 | Apr 5, 2026 | [Watch](https://youtu.be/WRpjJV4SUKc) | [Wiki](details/WRpjJV4SUKc.md) |
 | 17 | Architecting the edge for HTTP/3 and QUIC | 92 | Apr 4, 2026 | [Watch](https://youtu.be/7Dchx829X_M) | [Wiki](details/7Dchx829X_M.md) |
@@ -204,13 +204,13 @@ updated: 2026-05-15
 | 38 | The Modern Platform Framework | 27 | Feb 19, 2026 | [Watch](https://youtu.be/rk_3xU9OF-k) | [Wiki](details/rk_3xU9OF-k.md) |
 | 39 | ScyllaDB: The Next-Generation NoSQL Platform | 13 | Feb 19, 2026 | [Watch](https://youtu.be/mYClRFIlsFc) | [Wiki](details/mYClRFIlsFc.md) |
 | 40 | Bridging Helm and CUE for Deterministic Value Composition | 23 | Feb 19, 2026 | [Watch](https://youtu.be/7eoxSgjwYlM) | [Wiki](details/7eoxSgjwYlM.md) |
-| 41 | Drasi: The Future of Change-Driven Architecture | 47 | Feb 17, 2026 | [Watch](https://youtu.be/5Ztm7JNVa8E) | [Wiki](details/5Ztm7JNVa8E.md) |
+| 41 | Drasi: The Future of Change-Driven Architecture | 48 | Feb 17, 2026 | [Watch](https://youtu.be/5Ztm7JNVa8E) | [Wiki](details/5Ztm7JNVa8E.md) |
 | 42 | Advanced Architectural Synthesis | 29 | Feb 15, 2026 | [Watch](https://youtu.be/P_xUJi_qt-Q) | [Wiki](details/P_xUJi_qt-Q.md) |
 | 43 | Beyond Static Configuration | 25 | Feb 15, 2026 | [Watch](https://youtu.be/okVlu1qseI4) | [Wiki](details/okVlu1qseI4.md) |
 | 44 | BadgerDB: The Go-Native Key-Value Store | 52 | Feb 12, 2026 | [Watch](https://youtu.be/eI2DXGISpbk) | [Wiki](details/eI2DXGISpbk.md) |
 | 45 | Architecting Meilisearch on AKS & Istio | 26 | Feb 10, 2026 | [Watch](https://youtu.be/MIZ0ATwu7C0) | [Wiki](details/MIZ0ATwu7C0.md) |
 | 46 | Secure Web App with Azure AD/OAuth2 Proxy | 51 | Feb 5, 2026 | [Watch](https://youtu.be/rgY4KTMFOMs) | [Wiki](details/rgY4KTMFOMs.md) |
-| 47 | MotherDuck: Serverless DuckDB in the Cloud & Client | 26 | Feb 4, 2026 | [Watch](https://youtu.be/BsiQrEaF3kU) | [Wiki](details/BsiQrEaF3kU.md) |
+| 47 | MotherDuck: Serverless DuckDB in the Cloud & Client | 27 | Feb 4, 2026 | [Watch](https://youtu.be/BsiQrEaF3kU) | [Wiki](details/BsiQrEaF3kU.md) |
 | 48 | Dragonfly on AKS | 21 | Jan 31, 2026 | [Watch](https://youtu.be/Q4qm1hvVR2A) | [Wiki](details/Q4qm1hvVR2A.md) |
 | 49 | The 2026 Architectural Standard | 54 | Jan 31, 2026 | [Watch](https://youtu.be/WHonjixQgBY) | [Wiki](details/WHonjixQgBY.md) |
 | 50 | Secure Service-to-Service Authorization with SpiceDB | 30 | Jan 27, 2026 | [Watch](https://youtu.be/KpSjLQpswW4) | [Wiki](details/KpSjLQpswW4.md) |
@@ -224,7 +224,7 @@ updated: 2026-05-15
 | 58 | Kubernetes Services & Istio | 30 | Jan 12, 2026 | [Watch](https://youtu.be/OnwiaDRj1-k) | [Wiki](details/OnwiaDRj1-k.md) |
 | 59 | A Blueprint for Secure Azure Authentication in Go | 18 | Jan 12, 2026 | [Watch](https://youtu.be/R2zktRqz81U) | [Wiki](details/R2zktRqz81U.md) |
 | 60 | Choosing Your Messaging Fabric on AKS | 5 | Jan 10, 2026 | [Watch](https://youtu.be/N4nRAfBZ3BE) | [Wiki](details/N4nRAfBZ3BE.md) |
-| 61 | K8s Services  AKS & Istio | 13 | Jan 10, 2026 | [Watch](https://youtu.be/C5HqbzLRYZ0) | [Wiki](details/C5HqbzLRYZ0.md) |
+| 61 | K8s Services  AKS & Istio | 14 | Jan 10, 2026 | [Watch](https://youtu.be/C5HqbzLRYZ0) | [Wiki](details/C5HqbzLRYZ0.md) |
 | 62 | Kubernetes Cluster Architecture | 12 | Jan 9, 2026 | [Watch](https://youtu.be/rJTUB-u8U2Y) | [Wiki](details/rJTUB-u8U2Y.md) |
 | 63 | Securely Exposing AKS Applications | 9 | Jan 8, 2026 | [Watch](https://youtu.be/A7eoKD5m6Ek) | [Wiki](details/A7eoKD5m6Ek.md) |
 | 64 | Deploying CSR Applications on Vercel Versus AKS | 8 | Jan 6, 2026 | [Watch](https://youtu.be/snRi_JET1bg) | [Wiki](details/snRi_JET1bg.md) |
@@ -243,4 +243,4 @@ updated: 2026-05-15
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on May 15, 2026. Back to [index](index.md).*
+*Auto-generated on May 17, 2026. Back to [index](index.md).*

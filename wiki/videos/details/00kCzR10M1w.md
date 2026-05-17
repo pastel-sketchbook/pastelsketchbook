@@ -39,7 +39,7 @@ SolidJS 2.0 is an evolutionary advancement of the framework's fine-grained react
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `pattern` · `immutable`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `async` · `serialization`)
 - [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 70 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `async` · `pattern`)
-- [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `async` · `serialization`)
+- [The Blueprint of Reactivity](https://youtu.be/Gy-ky1pAF0U) — Development · 19 views · May 16, 2026 · [Details](Gy-ky1pAF0U.md) (shared: `async` · `graph`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

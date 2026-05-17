@@ -2,7 +2,7 @@
 type: tag
 tags: [fault-tolerance]
 sources: 2
-updated: 2026-05-15
+updated: 2026-05-17
 ---
 
 # fault tolerance
@@ -15,4 +15,4 @@ Videos connected by the topic `fault tolerance`.
 - [A Trillion Transactions](https://youtu.be/oHdhgeF4wlI) — Kubernetes · 37 views · Apr 12, 2026 · [Details](../details/oHdhgeF4wlI.md)
 
 ---
-*Auto-generated on May 15, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 17, 2026. Back to [topic index](index.md).*

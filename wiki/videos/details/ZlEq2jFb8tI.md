@@ -33,8 +33,8 @@ This video presents Rust error handling as a four-stage lifecycle journey: libra
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `thiserror` · `anyhow` · `tracing`)
 - [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) — Development · 112 views · Mar 22, 2026 · [Details](vep9hSKc9I0.md) (shared: `rust` · `tracing` · `observability`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `ecosystem`)
-- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 45 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `tracing` · `observability`)
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 46 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `rust` · `lifecycle`)
+- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 46 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `tracing` · `observability`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 48 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `rust` · `lifecycle`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

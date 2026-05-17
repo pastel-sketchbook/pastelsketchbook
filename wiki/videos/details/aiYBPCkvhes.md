@@ -33,8 +33,8 @@ This video introduces kube-log-viewer, a 100% Rust terminal UI for streaming and
 - [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `rust tui` · `rust` · `tui`)
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 12 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes` · `pod`)
 - [Kubernetes Auto-Scaling Strategies](https://youtu.be/y3WwL48DLYw) — Kubernetes · 29 views · Feb 23, 2026 · [Details](y3WwL48DLYw.md) (shared: `kubernetes` · `pod`)
-- [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 17 views · Apr 11, 2026 · [Details](a8heWpae5p0.md) (shared: `kubernetes` · `log`)
-- [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) — Kubernetes · 12 views · May 7, 2026 · [Details](V9tvg6Yg3m4.md) (shared: `kubernetes` · `log`)
+- [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 18 views · Apr 11, 2026 · [Details](a8heWpae5p0.md) (shared: `kubernetes` · `log`)
+- [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) — Kubernetes · 17 views · May 7, 2026 · [Details](V9tvg6Yg3m4.md) (shared: `kubernetes` · `log`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

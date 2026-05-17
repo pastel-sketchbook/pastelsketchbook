@@ -30,7 +30,7 @@ This video provides a comprehensive walkthrough of the modern 3D computer graphi
 
 ## Related Videos
 
-- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 155 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline`)
+- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 156 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline`)
 - [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 16 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `tracing`)
 - [Tracing Asynchronous Rust](https://youtu.be/d1MH4nza95g) — Development · 93 views · May 3, 2026 · [Details](d1MH4nza95g.md) (shared: `pipeline` · `tracing`)
 - [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 31 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `algorithm`)

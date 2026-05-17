@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [sentinel, siem, soar, xdr, llm, security, nist, proxy, pentesting, spider]
 sources: 13
-updated: 2026-05-15
+updated: 2026-05-17
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-05-15
 | Metric | Value |
 |--------|-------|
 | Videos | 13 |
-| Total Views | 420 |
+| Total Views | 421 |
 | Most Recent | Apr 30, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -42,7 +42,7 @@ updated: 2026-05-15
 |---|-------|-------|-----------|------|--------|
 | 1 | ZAP: Getting Started with Software Security Testing | 19 | Apr 30, 2026 | [Watch](https://youtu.be/infh5ZZwvLU) | [Wiki](details/infh5ZZwvLU.md) |
 | 2 | Azure Sentinel & M365 Defender | 17 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
-| 3 | Designing for Privacy | 39 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
+| 3 | Designing for Privacy | 40 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
 | 4 | Custom Graphs in Microsoft Sentinel (Preview) | 57 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
 | 5 | Black-Hat LLMs: The End of the 20-Year Security Balance | 76 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) | [Wiki](details/Zeg8zSOvoyE.md) |
 | 6 | 2FA Orchestration in PingFederate | 10 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) | [Wiki](details/HxB-cJIbEgE.md) |
@@ -61,7 +61,7 @@ updated: 2026-05-15
 ## See Also
 
 - [Kubernetes](kubernetes.md) -- shared tags: `shift left`, `agent`, `ai`, `security`, `azure`, `orchestration`
-- [Development](development.md) -- shared tags: `shift left`, `agent`, `ai`, `llm`, `context`, `resilience`, `ssrf`
+- [Development](development.md) -- shared tags: `shift left`, `agent`, `ai`, `data`, `llm`, `context`, `resilience`, `ssrf`
 
 ---
-*Auto-generated on May 15, 2026. Back to [index](index.md).*
+*Auto-generated on May 17, 2026. Back to [index](index.md).*

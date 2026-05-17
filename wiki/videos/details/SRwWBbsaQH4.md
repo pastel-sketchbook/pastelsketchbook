@@ -31,10 +31,10 @@ A scalable property tax ingestion strategy targets all 3,143 US counties by expl
 ## Related Videos
 
 - [2050: The Post-Labor Paradigm](https://youtu.be/ybR0RxXj2_M) — Finance · 10 views · Feb 7, 2026 · [Details](ybR0RxXj2_M.md) (shared: `automation`)
-- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 64 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data`)
+- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 66 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 87 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data`)
+- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 6 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `data` · `integration` · `evidence`)
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 141 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `automation` · `generation`)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 156 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `automation` · `generation`)
 
 ---
 *Auto-generated on May 15, 2026. Back to [finance](../finance.md) · [index](../index.md).*

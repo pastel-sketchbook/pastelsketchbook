@@ -32,7 +32,7 @@ This video presents an enterprise-grade Flutter application template built aroun
 
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `repository pattern` · `repository` · `pattern`)
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `flutter` · `repository pattern` · `repository`)
-- [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 14 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `pattern` · `architecture` · `state management`)
+- [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 15 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `pattern` · `architecture` · `state management`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 30 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `repository pattern` · `repository` · `pattern`)
 - [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 55 views · Apr 27, 2026 · [Details](R3n8UxyD7mc.md) (shared: `repository pattern` · `repository` · `pattern`)
 

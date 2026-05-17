@@ -2,7 +2,7 @@
 type: tag
 tags: [facade-pattern]
 sources: 2
-updated: 2026-05-15
+updated: 2026-05-17
 ---
 
 # facade pattern
@@ -15,4 +15,4 @@ Videos connected by the topic `facade pattern`.
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](../details/WahgsFhj3W0.md)
 
 ---
-*Auto-generated on May 15, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 17, 2026. Back to [topic index](index.md).*

@@ -34,7 +34,7 @@ A visual blueprint of Sequelize's internal architecture, organized into four fun
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `architecture` · `query` · `pattern`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 30 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `architecture` · `adapter` · `pattern`)
 - [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 792 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `pattern` · `testing`)
-- [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 35 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `orm` · `architecture` · `query`)
+- [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 11 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `architecture` · `layer` · `pipeline`)
 
 ---
 *Auto-generated on May 8, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -33,7 +33,7 @@ This video introduces Ralph, a framework for autonomous "vibe coding" that enabl
 - [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 57 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `coding` · `context` · `development`)
 - [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 676 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `workflow` · `context` · `development`)
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `autonomous` · `development`)
-- [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 94 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `autonomous` · `context` · `execution`)
+- [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 96 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `autonomous` · `context` · `execution`)
 - [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](B2x09utLjtM.md) (shared: `workflow` · `development`)
 
 ---

@@ -34,7 +34,7 @@ This presentation is an architectural guide to long polling and its role in achi
 - [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 86 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `http` · `compatibility`)
 - [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 127 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `server` · `compatibility`)
 - [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 209 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `connection` · `http`)
-- [The Programmer's Guide to Essential RFCs](https://youtu.be/LackTxguXFg) — Development · 107 views · Apr 10, 2026 · [Details](LackTxguXFg.md) (shared: `http`)
+- [The Programmer's Guide to Essential RFCs](https://youtu.be/LackTxguXFg) — Development · 108 views · Apr 10, 2026 · [Details](LackTxguXFg.md) (shared: `http`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-05-15
+updated: 2026-05-17
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 155
+Total topics: 157
 
 ## Topics
 
@@ -23,6 +23,7 @@ Total topics: 155
 - [dependency injection](dependency-injection.md) (5)
 - [distributed tracing](distributed-tracing.md) (5)
 - [rust](rust.md) (5)
+- [vector search](vector-search.md) (5)
 - [aks](aks.md) (4)
 - [configuration management](configuration-management.md) (4)
 - [data-oriented design](data-oriented-design.md) (4)
@@ -32,7 +33,6 @@ Total topics: 155
 - [opentelemetry](opentelemetry.md) (4)
 - [state management](state-management.md) (4)
 - [systems programming](systems-programming.md) (4)
-- [vector search](vector-search.md) (4)
 - [webassembly](webassembly.md) (4)
 - [ai-assisted development](ai-assisted-development.md) (3)
 - [azure devops](azure-devops.md) (3)
@@ -83,6 +83,7 @@ Total topics: 155
 - [comptime](comptime.md) (2)
 - [connection migration](connection-migration.md) (2)
 - [containerization](containerization.md) (2)
+- [content security policy](content-security-policy.md) (2)
 - [context switching](context-switching.md) (2)
 - [continuous integration](continuous-integration.md) (2)
 - [correspondent banking](correspondent-banking.md) (2)
@@ -138,6 +139,7 @@ Total topics: 155
 - [problem decomposition](problem-decomposition.md) (2)
 - [qmd](qmd.md) (2)
 - [rayon data parallelism](rayon-data-parallelism.md) (2)
+- [request lifecycle](request-lifecycle.md) (2)
 - [revsets](revsets.md) (2)
 - [risk management](risk-management.md) (2)
 - [rolling updates](rolling-updates.md) (2)
@@ -168,4 +170,4 @@ Total topics: 155
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on May 15, 2026. Back to [videos index](../index.md).*
+*Auto-generated on May 17, 2026. Back to [videos index](../index.md).*

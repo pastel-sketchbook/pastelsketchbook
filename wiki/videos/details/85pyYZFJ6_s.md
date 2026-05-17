@@ -32,9 +32,9 @@ A progression through three generations of file type detection: static byte sign
 
 - [rr-mailtrap: The Developer's SMTP Sandbox](https://youtu.be/SuuZW_fuEFc) — Development · 16 views · May 8, 2026 · [Details](SuuZW_fuEFc.md) (shared: `detection` · `magika` · `content`)
 - [Cryptographic Usability & The Tink Library](https://youtu.be/H-gkXATx8r0) — Development · 20 views · Feb 21, 2026 · [Details](H-gkXATx8r0.md) (shared: `google` · `security`)
-- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 276 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `google` · `validation`)
-- [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 29 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `type` · `security`)
-- [Tracing Asynchronous Rust](https://youtu.be/d1MH4nza95g) — Development · 93 views · May 3, 2026 · [Details](d1MH4nza95g.md) (shared: `file` · `type`)
+- [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 2 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `content` · `security`)
+- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 277 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `google` · `validation`)
+- [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 31 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `type` · `security`)
 
 ---
 *Auto-generated on May 8, 2026. Back to [development](../development.md) · [index](../index.md).*

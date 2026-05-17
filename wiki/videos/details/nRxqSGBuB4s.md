@@ -32,9 +32,9 @@ This video covers the core algorithmic patterns essential for writing efficient 
 
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `algorithms` · `time complexity` · `time`)
 - [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 47 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `binary` · `data`)
-- [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 23 views · Apr 29, 2026 · [Details](GERT8PoS9Qk.md) (shared: `binary` · `search`)
+- [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 24 views · Apr 29, 2026 · [Details](GERT8PoS9Qk.md) (shared: `binary` · `search`)
+- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 6 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `search` · `data`)
 - [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 35 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `data`)
-- [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 29 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `data`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

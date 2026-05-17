@@ -37,9 +37,9 @@ The video introduces the Semantic Operating System and Micro Module Architecture
 
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `system` · `architecture` · `migration`)
 - [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 35 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `architecture` · `code` · `migration`)
-- [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 18 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `module` · `architecture` · `graph`)
+- [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 25 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `module` · `architecture` · `graph`)
 - [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 67 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `graph` · `detection`)
-- [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 14 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `architecture` · `failure`)
+- [The Blueprint of Reactivity](https://youtu.be/Gy-ky1pAF0U) — Development · 19 views · May 16, 2026 · [Details](Gy-ky1pAF0U.md) (shared: `architecture` · `graph`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

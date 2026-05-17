@@ -2,7 +2,7 @@
 type: tag
 tags: [cache-locality]
 sources: 2
-updated: 2026-05-15
+updated: 2026-05-17
 ---
 
 # cache locality
@@ -15,4 +15,4 @@ Videos connected by the topic `cache locality`.
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](../details/guwVjGsg3h4.md)
 
 ---
-*Auto-generated on May 15, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 17, 2026. Back to [topic index](index.md).*

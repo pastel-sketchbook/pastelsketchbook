@@ -39,7 +39,7 @@ This technical deep dive explores the implementation of Single Instruction Multi
 - [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 202 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `simd` · `avx-512` · `optimization`)
 - [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 81 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `zig` · `programming`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 74 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `zig` · `optimization`)
-- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 348 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `programming`)
+- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 350 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `programming`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

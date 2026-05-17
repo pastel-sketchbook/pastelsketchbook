@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-15T09:49:29.086Z",
-  "totalVideos": 326,
+  "generatedAt": "2026-05-17T21:41:19.121Z",
+  "totalVideos": 333,
   "categories": [
     {
       "name": "korea",
@@ -1246,7 +1246,7 @@
         "development"
       ],
       "videoCount": 24,
-      "totalViews": 515,
+      "totalViews": 518,
       "topTags": [
         {
           "tag": "curiosity",
@@ -1402,7 +1402,7 @@
         {
           "id": "SRwWBbsaQH4",
           "title": "Nationwide Data Coverage & Auto-Filing Feasibility",
-          "views": 12,
+          "views": 13,
           "date": "2026-05-13T07:23:27Z",
           "category": "finance",
           "tags": [
@@ -1449,14 +1449,15 @@
                 ]
               },
               {
-                "id": "0HEqwk9UMOc",
+                "id": "i2YEYgVx0AA",
                 "sharedTopics": [
-                  "automation",
-                  "generation"
+                  "data",
+                  "integration",
+                  "evidence"
                 ]
               },
               {
-                "id": "TEGFwsAcxK8",
+                "id": "0HEqwk9UMOc",
                 "sharedTopics": [
                   "automation",
                   "generation"
@@ -1468,7 +1469,7 @@
         {
           "id": "M_NbzCCHFp0",
           "title": "The Orbital Compute Blueprint",
-          "views": 64,
+          "views": 66,
           "date": "2026-05-02T20:46:53Z",
           "category": "finance",
           "tags": [
@@ -2927,7 +2928,7 @@
         "development"
       ],
       "videoCount": 66,
-      "totalViews": 1893,
+      "totalViews": 1914,
       "topTags": [
         {
           "tag": "aks",
@@ -3017,7 +3018,7 @@
             {
               "id": "4YsX6tYi5x4",
               "title": "Istio-Based Weighted Traffic Management on AKS",
-              "views": 3,
+              "views": 9,
               "date": "2026-05-06T20:43:06Z",
               "category": "kubernetes",
               "tags": [
@@ -4103,7 +4104,7 @@
             {
               "id": "C5HqbzLRYZ0",
               "title": "K8s Services  AKS & Istio",
-              "views": 13,
+              "views": 14,
               "date": "2026-01-10T16:26:22Z",
               "category": "kubernetes",
               "tags": [
@@ -4487,7 +4488,7 @@
             {
               "id": "4YsX6tYi5x4",
               "title": "Istio-Based Weighted Traffic Management on AKS",
-              "views": 3,
+              "views": 9,
               "date": "2026-05-06T20:43:06Z",
               "category": "kubernetes",
               "tags": [
@@ -5140,7 +5141,7 @@
             {
               "id": "C5HqbzLRYZ0",
               "title": "K8s Services  AKS & Istio",
-              "views": 13,
+              "views": 14,
               "date": "2026-01-10T16:26:22Z",
               "category": "kubernetes",
               "tags": [
@@ -5754,7 +5755,7 @@
             {
               "id": "5Ztm7JNVa8E",
               "title": "Drasi: The Future of Change-Driven Architecture",
-              "views": 47,
+              "views": 48,
               "date": "2026-02-17T21:28:39Z",
               "category": "kubernetes",
               "tags": [
@@ -5903,7 +5904,7 @@
             {
               "id": "V9tvg6Yg3m4",
               "title": "From Consensus Physics to Messaging Engineering",
-              "views": 12,
+              "views": 17,
               "date": "2026-05-07T22:45:08Z",
               "category": "kubernetes",
               "tags": [
@@ -6770,7 +6771,7 @@
             {
               "id": "mGMaqTvWrCc",
               "title": "Building an End-to-End MLOps Pipeline",
-              "views": 32,
+              "views": 33,
               "date": "2026-04-14T23:21:34Z",
               "category": "kubernetes",
               "tags": [
@@ -7499,7 +7500,7 @@
             {
               "id": "BsiQrEaF3kU",
               "title": "MotherDuck: Serverless DuckDB in the Cloud & Client",
-              "views": 26,
+              "views": 27,
               "date": "2026-02-04T11:42:09Z",
               "category": "kubernetes",
               "tags": [
@@ -7724,7 +7725,7 @@
             {
               "id": "-e7kvcUXxtw",
               "title": "DevSecOps on Azure Kubernetes Service",
-              "views": 23,
+              "views": 24,
               "date": "2026-04-29T21:49:39Z",
               "category": "kubernetes",
               "tags": [
@@ -8194,7 +8195,7 @@
             {
               "id": "-e7kvcUXxtw",
               "title": "DevSecOps on Azure Kubernetes Service",
-              "views": 23,
+              "views": 24,
               "date": "2026-04-29T21:49:39Z",
               "category": "kubernetes",
               "tags": [
@@ -8756,7 +8757,7 @@
             {
               "id": "mGMaqTvWrCc",
               "title": "Building an End-to-End MLOps Pipeline",
-              "views": 32,
+              "views": 33,
               "date": "2026-04-14T23:21:34Z",
               "category": "kubernetes",
               "tags": [
@@ -10065,7 +10066,7 @@
             {
               "id": "a8heWpae5p0",
               "title": "minikv: Distributed Systems Meets Data Science",
-              "views": 17,
+              "views": 18,
               "date": "2026-04-12T04:50:10Z",
               "category": "kubernetes",
               "tags": [
@@ -10529,7 +10530,7 @@
         {
           "id": "WrZN5AgpaW4",
           "title": "The Anatomy of Kubernetes",
-          "views": 25,
+          "views": 26,
           "date": "2026-05-12T18:05:42Z",
           "category": "kubernetes",
           "tags": [
@@ -10602,7 +10603,7 @@
         {
           "id": "V9tvg6Yg3m4",
           "title": "From Consensus Physics to Messaging Engineering",
-          "views": 12,
+          "views": 17,
           "date": "2026-05-07T22:45:08Z",
           "category": "kubernetes",
           "tags": [
@@ -10679,7 +10680,7 @@
         {
           "id": "4YsX6tYi5x4",
           "title": "Istio-Based Weighted Traffic Management on AKS",
-          "views": 3,
+          "views": 9,
           "date": "2026-05-06T20:43:06Z",
           "category": "kubernetes",
           "tags": [
@@ -10763,7 +10764,7 @@
         {
           "id": "-e7kvcUXxtw",
           "title": "DevSecOps on Azure Kubernetes Service",
-          "views": 23,
+          "views": 24,
           "date": "2026-04-29T21:49:39Z",
           "category": "kubernetes",
           "tags": [
@@ -10934,7 +10935,7 @@
         {
           "id": "2ksi8K7wg3I",
           "title": "Kubernetes 1.36 (Haru)",
-          "views": 47,
+          "views": 50,
           "date": "2026-04-23T22:03:32Z",
           "category": "kubernetes",
           "tags": [
@@ -11308,7 +11309,7 @@
         {
           "id": "mGMaqTvWrCc",
           "title": "Building an End-to-End MLOps Pipeline",
-          "views": 32,
+          "views": 33,
           "date": "2026-04-14T23:21:34Z",
           "category": "kubernetes",
           "tags": [
@@ -11452,7 +11453,7 @@
         {
           "id": "a8heWpae5p0",
           "title": "minikv: Distributed Systems Meets Data Science",
-          "views": 17,
+          "views": 18,
           "date": "2026-04-12T04:50:10Z",
           "category": "kubernetes",
           "tags": [
@@ -13387,7 +13388,7 @@
         {
           "id": "5Ztm7JNVa8E",
           "title": "Drasi: The Future of Change-Driven Architecture",
-          "views": 47,
+          "views": 48,
           "date": "2026-02-17T21:28:39Z",
           "category": "kubernetes",
           "tags": [
@@ -13839,7 +13840,7 @@
         {
           "id": "BsiQrEaF3kU",
           "title": "MotherDuck: Serverless DuckDB in the Cloud & Client",
-          "views": 26,
+          "views": 27,
           "date": "2026-02-04T11:42:09Z",
           "category": "kubernetes",
           "tags": [
@@ -14890,7 +14891,7 @@
         {
           "id": "C5HqbzLRYZ0",
           "title": "K8s Services  AKS & Istio",
-          "views": 13,
+          "views": 14,
           "date": "2026-01-10T16:26:22Z",
           "category": "kubernetes",
           "tags": [
@@ -15346,16 +15347,16 @@
         "programming",
         "security"
       ],
-      "videoCount": 198,
-      "totalViews": 23307,
+      "videoCount": 205,
+      "totalViews": 24035,
       "topTags": [
         {
           "tag": "rust",
-          "count": 48
+          "count": 51
         },
         {
           "tag": "zig",
-          "count": 29
+          "count": 30
         },
         {
           "tag": "ai",
@@ -15367,14 +15368,14 @@
         },
         {
           "tag": "internal",
-          "count": 9
-        },
-        {
-          "tag": "service",
-          "count": 8
+          "count": 11
         },
         {
           "tag": "flutter",
+          "count": 10
+        },
+        {
+          "tag": "service",
           "count": 8
         },
         {
@@ -15394,6 +15395,14 @@
           "count": 7
         },
         {
+          "tag": "curiosity",
+          "count": 6
+        },
+        {
+          "tag": "tokio",
+          "count": 6
+        },
+        {
           "tag": "agent",
           "count": 6
         },
@@ -15406,11 +15415,11 @@
           "count": 6
         },
         {
-          "tag": "curiosity",
+          "tag": "tauri",
           "count": 5
         },
         {
-          "tag": "tokio",
+          "tag": "dart",
           "count": 5
         },
         {
@@ -15420,14 +15429,6 @@
         {
           "tag": "python",
           "count": 4
-        },
-        {
-          "tag": "skill",
-          "count": 4
-        },
-        {
-          "tag": "tonic",
-          "count": 4
         }
       ],
       "clusters": [
@@ -15435,9 +15436,239 @@
           "name": "Rust",
           "videos": [
             {
+              "id": "ytA6gw6Tgaw",
+              "title": "SlideVoice Studio Desktop Shell Architecture",
+              "views": 2,
+              "date": "2026-05-17T18:33:33Z",
+              "category": "development",
+              "tags": [
+                "tauri",
+                "rust",
+                "bun",
+                "svs"
+              ],
+              "detail": {
+                "summary": "SlideVoice Studio wraps an existing Vite + React single-page application in a thin Tauri 2 shell to deliver a native, local-first desktop experience without rewriting the web codebase. The shell enforces a strict content security policy with zero IPC commands, while the in-app workflow uses the Google Gemini API and browser media APIs to turn slide decks into narrated videos entirely on-device.",
+                "takeaways": [
+                  "A Tauri 2 wrapper with zero IPC commands and a strict CSP gives the SPA a hardened native shell without exposing additional attack surface.",
+                  "The five-stage workflow (import, narrate, voice, preview, export) keeps all media, scripts, and audio on the local device for full data privacy.",
+                  "PDFs are rendered with PDF.js, narration scripts come from speaker notes or Gemini drafts, and audio is generated via Gemini text-to-speech voices like Zephyr, Puck, and Fenrir.",
+                  "The core stack consolidates around Bun 1.3 as runtime/package manager/test runner, Biome for formatting, and Vite 8 + React 19 + TypeScript + Tailwind CSS 4 for the UI.",
+                  "A well-defined window contract (default 1280x820, minimum 960x640) and IndexedDB persistence make the desktop launch feel native rather than a wrapped browser tab."
+                ],
+                "topics": [
+                  "tauri 2 desktop shell",
+                  "local first architecture",
+                  "vite react spa",
+                  "gemini api narration",
+                  "pdf.js slide import",
+                  "media recorder export",
+                  "bun toolchain",
+                  "content security policy"
+                ],
+                "related": [
+                  {
+                    "id": "cJl2cchaHL8",
+                    "sharedTopics": [
+                      "tauri",
+                      "desktop",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "Ul0ixBpd5iM",
+                    "sharedTopics": [
+                      "tauri",
+                      "desktop",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "3ybGkjogcFQ",
+                    "sharedTopics": [
+                      "architecture",
+                      "react"
+                    ]
+                  },
+                  {
+                    "id": "SuuZW_fuEFc",
+                    "sharedTopics": [
+                      "import",
+                      "export",
+                      "content"
+                    ]
+                  },
+                  {
+                    "id": "a2kADxV0kBM",
+                    "sharedTopics": [
+                      "architecture",
+                      "api"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "9HUPNhA3OrI",
+              "title": "The Tokio Architecture Blueprint",
+              "views": 33,
+              "date": "2026-05-15T21:12:14Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "tokio",
+                "macro"
+              ],
+              "detail": {
+                "summary": "Tokio is structured as a layered runtime: scheduling engines at the base (work-stealing multi-thread scheduler and event loop), IO drivers and reactors in the middle, and the ergonomic task and macro system on top. A `Runtime` orchestrates the scheduler, timer, and IO drivers, with a `Builder` for configuration, a `Handle` for cross-thread spawning, and a dedicated blocking pool to keep synchronous work off the async event loop.",
+                "takeaways": [
+                  "The runtime stack separates scheduling, IO reactors, and task/macro ergonomics into distinct layers that can be reasoned about independently.",
+                  "The multi-thread scheduler uses per-worker local queues with work-stealing to balance load, while the current-thread scheduler keeps everything on a single thread for predictable, low-overhead workloads.",
+                  "`Runtime`, `Builder`, and `Handle` form the configuration surface: `Builder` tunes thread counts and lifecycle hooks, `Handle` provides a clonable spawn API across the application.",
+                  "A dedicated blocking pool offloads synchronous operations so they cannot stall the asynchronous event loop.",
+                  "Choosing between current-thread and multi-thread schedulers depends on hardware and workload — single-threaded simplicity vs. multi-core throughput with concurrent injection queues."
+                ],
+                "topics": [
+                  "tokio runtime architecture",
+                  "work stealing scheduler",
+                  "current thread scheduler",
+                  "io drivers and reactors",
+                  "blocking pool",
+                  "runtime builder",
+                  "async task spawning",
+                  "rust async runtime"
+                ],
+                "related": [
+                  {
+                    "id": "0Sed1oggMKY",
+                    "sharedTopics": [
+                      "tokio",
+                      "runtime",
+                      "architecture",
+                      "async",
+                      "rust"
+                    ]
+                  },
+                  {
+                    "id": "90hw9qwXbbw",
+                    "sharedTopics": [
+                      "tokio",
+                      "runtime",
+                      "architecture",
+                      "async",
+                      "rust"
+                    ]
+                  },
+                  {
+                    "id": "lY5TU8qHduM",
+                    "sharedTopics": [
+                      "tokio",
+                      "runtime",
+                      "async",
+                      "rust"
+                    ]
+                  },
+                  {
+                    "id": "js95nIDeA-c",
+                    "sharedTopics": [
+                      "tokio",
+                      "runtime",
+                      "async",
+                      "rust"
+                    ]
+                  },
+                  {
+                    "id": "F59lTcC6xJ0",
+                    "sharedTopics": [
+                      "tokio",
+                      "runtime",
+                      "async",
+                      "rust"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "i2YEYgVx0AA",
+              "title": "Integrating LanceDB & Defining Data Engine Roles",
+              "views": 6,
+              "date": "2026-05-15T12:08:04Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "levy",
+                "adr",
+                "data"
+              ],
+              "detail": {
+                "summary": "Pastel Levy adopts a dual-store architecture in which PostgreSQL remains the sole authoritative source of truth for writes, while LanceDB serves as a derived columnar and vector acceleration layer for analytical workloads. This ADR-style decision targets five workloads — multi-dimensional similarity search, equity cohort analysis, RAG over statutes, versioned evidence snapshots, and columnar bulk staging — that PostGIS alone cannot serve efficiently.",
+                "takeaways": [
+                  "PostgreSQL stays as the single source of truth: only API handlers may write to it, preserving transactional guarantees and definitive valuation math.",
+                  "LanceDB is a derived projection store rebuilt from PostgreSQL data, used for fast candidate retrieval, semantic search, and efficient columnar scans.",
+                  "A scheduled Lance rebuild job extracts and transforms PostgreSQL data, then publishes to S3-compatible storage and an embedded LanceDB instance that is multi-replica safe.",
+                  "The architecture is justified by five analytical workloads — `comp` similarity search, equity/unequal-appraisal cohorts, RAG over county forms, versioned evidence snapshots, and bulk columnar ingestion.",
+                  "Treating LanceDB as an acceleration layer rather than a primary store keeps the system of record secure while unlocking vector and columnar performance."
+                ],
+                "topics": [
+                  "lancedb integration",
+                  "dual store architecture",
+                  "postgres source of truth",
+                  "vector search",
+                  "columnar analytics",
+                  "rag retrieval",
+                  "versioned evidence snapshots",
+                  "data engine roles"
+                ],
+                "related": [
+                  {
+                    "id": "GERT8PoS9Qk",
+                    "sharedTopics": [
+                      "vector search",
+                      "vector",
+                      "search",
+                      "retrieval"
+                    ]
+                  },
+                  {
+                    "id": "n9Ebc-0E478",
+                    "sharedTopics": [
+                      "lancedb",
+                      "vector",
+                      "search",
+                      "columnar"
+                    ]
+                  },
+                  {
+                    "id": "EWwk29GzHgg",
+                    "sharedTopics": [
+                      "vector search",
+                      "vector",
+                      "search"
+                    ]
+                  },
+                  {
+                    "id": "ZbZdm5Opbno",
+                    "sharedTopics": [
+                      "architecture",
+                      "columnar",
+                      "engine"
+                    ]
+                  },
+                  {
+                    "id": "84M1mVL0cjo",
+                    "sharedTopics": [
+                      "integration",
+                      "architecture"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "n9Ebc-0E478",
               "title": "Building the Multimodal Al Lakehouse",
-              "views": 16,
+              "views": 21,
               "date": "2026-05-14T12:06:25Z",
               "category": "development",
               "tags": [
@@ -15467,6 +15698,15 @@
                   "permutation table splits"
                 ],
                 "related": [
+                  {
+                    "id": "i2YEYgVx0AA",
+                    "sharedTopics": [
+                      "lancedb",
+                      "columnar",
+                      "vector",
+                      "search"
+                    ]
+                  },
                   {
                     "id": "ZbZdm5Opbno",
                     "sharedTopics": [
@@ -15499,14 +15739,6 @@
                       "vector",
                       "search"
                     ]
-                  },
-                  {
-                    "id": "8PaVKQoDReY",
-                    "sharedTopics": [
-                      "rust",
-                      "zero",
-                      "copy"
-                    ]
                   }
                 ]
               }
@@ -15514,7 +15746,7 @@
             {
               "id": "uz8nmkTPEpg",
               "title": "SQLx",
-              "views": 25,
+              "views": 31,
               "date": "2026-05-13T22:37:02Z",
               "category": "development",
               "tags": [
@@ -15559,6 +15791,14 @@
                     ]
                   },
                   {
+                    "id": "jrD_LGNsJXM",
+                    "sharedTopics": [
+                      "async",
+                      "concurrency",
+                      "runtimes"
+                    ]
+                  },
+                  {
                     "id": "UOOkDh4RUbE",
                     "sharedTopics": [
                       "validation",
@@ -15573,13 +15813,6 @@
                       "layer",
                       "agnostic"
                     ]
-                  },
-                  {
-                    "id": "0Sed1oggMKY",
-                    "sharedTopics": [
-                      "async",
-                      "tokio"
-                    ]
                   }
                 ]
               }
@@ -15587,7 +15820,7 @@
             {
               "id": "B81dHVYOYJA",
               "title": "Inside the Typst Compiler Engine",
-              "views": 35,
+              "views": 38,
               "date": "2026-05-11T00:02:22Z",
               "category": "development",
               "tags": [
@@ -15658,7 +15891,7 @@
             {
               "id": "8PaVKQoDReY",
               "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-              "views": 33,
+              "views": 37,
               "date": "2026-05-09T22:08:03Z",
               "category": "development",
               "tags": [
@@ -15740,7 +15973,7 @@
             {
               "id": "qAHyv6G3a7M",
               "title": "Building the Unified Rust Backend",
-              "views": 171,
+              "views": 277,
               "date": "2026-05-09T07:32:42Z",
               "category": "development",
               "tags": [
@@ -15828,7 +16061,7 @@
             {
               "id": "_bFOZ51Q55Y",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 478,
+              "views": 745,
               "date": "2026-05-09T02:40:33Z",
               "category": "development",
               "tags": [
@@ -15960,6 +16193,14 @@
                     ]
                   },
                   {
+                    "id": "ytA6gw6Tgaw",
+                    "sharedTopics": [
+                      "content",
+                      "import",
+                      "export"
+                    ]
+                  },
+                  {
                     "id": "xVmoqBYlQMU",
                     "sharedTopics": [
                       "binary",
@@ -15972,13 +16213,6 @@
                       "mode",
                       "detection"
                     ]
-                  },
-                  {
-                    "id": "AvysIjFrTEw",
-                    "sharedTopics": [
-                      "detection",
-                      "binary"
-                    ]
                   }
                 ]
               }
@@ -15986,7 +16220,7 @@
             {
               "id": "UOOkDh4RUbE",
               "title": "Architecture Review: tn-file-upload",
-              "views": 26,
+              "views": 28,
               "date": "2026-05-04T23:49:00Z",
               "category": "development",
               "tags": [
@@ -16126,19 +16360,19 @@
                     ]
                   },
                   {
-                    "id": "7zFqW-ZcEbo",
+                    "id": "Gy-ky1pAF0U",
                     "sharedTopics": [
-                      "tokio",
-                      "tracing",
-                      "async"
+                      "async",
+                      "time",
+                      "graph"
                     ]
                   },
                   {
-                    "id": "uz8nmkTPEpg",
+                    "id": "9HUPNhA3OrI",
                     "sharedTopics": [
                       "tokio",
                       "async",
-                      "macro"
+                      "blocking"
                     ]
                   }
                 ]
@@ -16370,16 +16604,17 @@
                     ]
                   },
                   {
-                    "id": "js95nIDeA-c",
+                    "id": "9HUPNhA3OrI",
                     "sharedTopics": [
                       "rust",
                       "tokio",
                       "runtime",
-                      "async"
+                      "async",
+                      "architecture"
                     ]
                   },
                   {
-                    "id": "F59lTcC6xJ0",
+                    "id": "js95nIDeA-c",
                     "sharedTopics": [
                       "rust",
                       "tokio",
@@ -16393,7 +16628,7 @@
             {
               "id": "J4iGUAXcAOA",
               "title": "The Axum Web Framework",
-              "views": 46,
+              "views": 48,
               "date": "2026-05-01T22:55:53Z",
               "category": "development",
               "tags": [
@@ -16522,6 +16757,14 @@
                     ]
                   },
                   {
+                    "id": "i2YEYgVx0AA",
+                    "sharedTopics": [
+                      "vector search",
+                      "vector",
+                      "search"
+                    ]
+                  },
+                  {
                     "id": "n9Ebc-0E478",
                     "sharedTopics": [
                       "rust",
@@ -16534,13 +16777,6 @@
                     "sharedTopics": [
                       "rust",
                       "concurrency"
-                    ]
-                  },
-                  {
-                    "id": "DwAOCljoNoc",
-                    "sharedTopics": [
-                      "rust",
-                      "compatibility"
                     ]
                   }
                 ]
@@ -16846,7 +17082,7 @@
             {
               "id": "izLrX-02IQk",
               "title": "Rust 1.95.0",
-              "views": 206,
+              "views": 209,
               "date": "2026-04-18T20:42:55Z",
               "category": "development",
               "tags": [
@@ -16987,7 +17223,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4167,
+              "views": 4172,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -17059,7 +17295,7 @@
             {
               "id": "F59lTcC6xJ0",
               "title": "Architectural Principles of Fearless Concurrency",
-              "views": 50,
+              "views": 51,
               "date": "2026-03-28T22:00:43Z",
               "category": "development",
               "tags": [
@@ -17448,7 +17684,7 @@
             {
               "id": "_zJ3_d1CODg",
               "title": "Bevy-Demo",
-              "views": 136,
+              "views": 138,
               "date": "2026-03-19T00:18:34Z",
               "category": "development",
               "tags": [
@@ -17812,7 +18048,7 @@
             {
               "id": "ARWkoc3E8uE",
               "title": "Composition by Design",
-              "views": 31,
+              "views": 32,
               "date": "2026-02-23T23:33:01Z",
               "category": "development",
               "tags": [
@@ -18047,7 +18283,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 104,
+              "views": 110,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -18111,7 +18347,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 411,
+              "views": 422,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -18311,21 +18547,22 @@
                     ]
                   },
                   {
+                    "id": "9HUPNhA3OrI",
+                    "sharedTopics": [
+                      "tokio",
+                      "rust",
+                      "async",
+                      "architecture",
+                      "runtime"
+                    ]
+                  },
+                  {
                     "id": "Th5MMOFQbh8",
                     "sharedTopics": [
                       "rust",
                       "event-driven architecture",
                       "event-driven",
                       "architecture"
-                    ]
-                  },
-                  {
-                    "id": "js95nIDeA-c",
-                    "sharedTopics": [
-                      "tokio",
-                      "rust",
-                      "async",
-                      "runtime"
                     ]
                   }
                 ]
@@ -19331,7 +19568,7 @@
             {
               "id": "8PaVKQoDReY",
               "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-              "views": 33,
+              "views": 37,
               "date": "2026-05-09T22:08:03Z",
               "category": "development",
               "tags": [
@@ -19465,6 +19702,14 @@
                     ]
                   },
                   {
+                    "id": "ytA6gw6Tgaw",
+                    "sharedTopics": [
+                      "content",
+                      "import",
+                      "export"
+                    ]
+                  },
+                  {
                     "id": "xVmoqBYlQMU",
                     "sharedTopics": [
                       "binary",
@@ -19477,13 +19722,6 @@
                       "mode",
                       "detection"
                     ]
-                  },
-                  {
-                    "id": "AvysIjFrTEw",
-                    "sharedTopics": [
-                      "detection",
-                      "binary"
-                    ]
                   }
                 ]
               }
@@ -19491,7 +19729,7 @@
             {
               "id": "85pyYZFJ6_s",
               "title": "The Evolution of File Detection",
-              "views": 38,
+              "views": 48,
               "date": "2026-05-07T08:54:01Z",
               "category": "development",
               "tags": [
@@ -19535,6 +19773,13 @@
                     ]
                   },
                   {
+                    "id": "ytA6gw6Tgaw",
+                    "sharedTopics": [
+                      "content",
+                      "security"
+                    ]
+                  },
+                  {
                     "id": "fv61JXUCbeo",
                     "sharedTopics": [
                       "google",
@@ -19546,13 +19791,6 @@
                     "sharedTopics": [
                       "type",
                       "security"
-                    ]
-                  },
-                  {
-                    "id": "d1MH4nza95g",
-                    "sharedTopics": [
-                      "file",
-                      "type"
                     ]
                   }
                 ]
@@ -19638,7 +19876,7 @@
             {
               "id": "BQ4wab0UtLg",
               "title": "From Louvain to Leiden",
-              "views": 28,
+              "views": 29,
               "date": "2026-04-26T15:40:42Z",
               "category": "development",
               "tags": [
@@ -19997,9 +20235,10 @@
                     ]
                   },
                   {
-                    "id": "84M1mVL0cjo",
+                    "id": "i2YEYgVx0AA",
                     "sharedTopics": [
-                      "enterprise"
+                      "rag",
+                      "vector"
                     ]
                   }
                 ]
@@ -20145,7 +20384,7 @@
             {
               "id": "E8f87EV4k3A",
               "title": "A Compiler, Not a Renderer",
-              "views": 155,
+              "views": 156,
               "date": "2026-04-17T12:06:22Z",
               "category": "development",
               "tags": [
@@ -20356,7 +20595,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 156,
+              "views": 157,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -20432,7 +20671,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2666,
+              "views": 2667,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -20506,7 +20745,7 @@
             {
               "id": "fv61JXUCbeo",
               "title": "Stitch Agent Skills",
-              "views": 276,
+              "views": 277,
               "date": "2026-04-05T21:24:52Z",
               "category": "development",
               "tags": [
@@ -20584,7 +20823,7 @@
             {
               "id": "T-NdEF6btbg",
               "title": "The Open Market of Al Coding",
-              "views": 94,
+              "views": 96,
               "date": "2026-04-05T12:38:23Z",
               "category": "development",
               "tags": [
@@ -20998,9 +21237,9 @@
                     ]
                   },
                   {
-                    "id": "BzvpasWYESU",
+                    "id": "bAoDvQgmGjM",
                     "sharedTopics": [
-                      "llm",
+                      "standard",
                       "code"
                     ]
                   }
@@ -22348,7 +22587,7 @@
             {
               "id": "QOYXBkMcnYk",
               "title": "The Echo Web Framework",
-              "views": 38,
+              "views": 40,
               "date": "2026-05-04T02:03:06Z",
               "category": "development",
               "tags": [
@@ -22412,11 +22651,11 @@
                     ]
                   },
                   {
-                    "id": "ZfAc2pqcS-4",
+                    "id": "BhzeYd4aqOQ",
                     "sharedTopics": [
-                      "api",
                       "pipeline",
-                      "architecture"
+                      "architecture",
+                      "lifecycle"
                     ]
                   }
                 ]
@@ -22926,9 +23165,9 @@
                     ]
                   },
                   {
-                    "id": "BzvpasWYESU",
+                    "id": "bAoDvQgmGjM",
                     "sharedTopics": [
-                      "llm",
+                      "standard",
                       "code"
                     ]
                   }
@@ -23567,13 +23806,14 @@
                     ]
                   },
                   {
-                    "id": "dDtVuJXVYJk",
+                    "id": "i2YEYgVx0AA",
                     "sharedTopics": [
+                      "search",
                       "data"
                     ]
                   },
                   {
-                    "id": "am9FvNiJ24M",
+                    "id": "dDtVuJXVYJk",
                     "sharedTopics": [
                       "data"
                     ]
@@ -23584,7 +23824,7 @@
             {
               "id": "Hfut9CfJhN0",
               "title": "Bubble Tea v2",
-              "views": 58,
+              "views": 59,
               "date": "2026-03-02T12:02:38Z",
               "category": "development",
               "tags": [
@@ -23809,7 +24049,7 @@
             {
               "id": "DazzkNtnzec",
               "title": "Design Patterns in Go",
-              "views": 113,
+              "views": 117,
               "date": "2026-02-24T23:48:12Z",
               "category": "development",
               "tags": [
@@ -23885,7 +24125,7 @@
             {
               "id": "ARWkoc3E8uE",
               "title": "Composition by Design",
-              "views": 31,
+              "views": 32,
               "date": "2026-02-23T23:33:01Z",
               "category": "development",
               "tags": [
@@ -24038,7 +24278,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 825,
+              "views": 829,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -24460,9 +24700,163 @@
           "name": "Architecture",
           "videos": [
             {
+              "id": "ytA6gw6Tgaw",
+              "title": "SlideVoice Studio Desktop Shell Architecture",
+              "views": 2,
+              "date": "2026-05-17T18:33:33Z",
+              "category": "development",
+              "tags": [
+                "tauri",
+                "rust",
+                "bun",
+                "svs"
+              ],
+              "detail": {
+                "summary": "SlideVoice Studio wraps an existing Vite + React single-page application in a thin Tauri 2 shell to deliver a native, local-first desktop experience without rewriting the web codebase. The shell enforces a strict content security policy with zero IPC commands, while the in-app workflow uses the Google Gemini API and browser media APIs to turn slide decks into narrated videos entirely on-device.",
+                "takeaways": [
+                  "A Tauri 2 wrapper with zero IPC commands and a strict CSP gives the SPA a hardened native shell without exposing additional attack surface.",
+                  "The five-stage workflow (import, narrate, voice, preview, export) keeps all media, scripts, and audio on the local device for full data privacy.",
+                  "PDFs are rendered with PDF.js, narration scripts come from speaker notes or Gemini drafts, and audio is generated via Gemini text-to-speech voices like Zephyr, Puck, and Fenrir.",
+                  "The core stack consolidates around Bun 1.3 as runtime/package manager/test runner, Biome for formatting, and Vite 8 + React 19 + TypeScript + Tailwind CSS 4 for the UI.",
+                  "A well-defined window contract (default 1280x820, minimum 960x640) and IndexedDB persistence make the desktop launch feel native rather than a wrapped browser tab."
+                ],
+                "topics": [
+                  "tauri 2 desktop shell",
+                  "local first architecture",
+                  "vite react spa",
+                  "gemini api narration",
+                  "pdf.js slide import",
+                  "media recorder export",
+                  "bun toolchain",
+                  "content security policy"
+                ],
+                "related": [
+                  {
+                    "id": "cJl2cchaHL8",
+                    "sharedTopics": [
+                      "tauri",
+                      "desktop",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "Ul0ixBpd5iM",
+                    "sharedTopics": [
+                      "tauri",
+                      "desktop",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "3ybGkjogcFQ",
+                    "sharedTopics": [
+                      "architecture",
+                      "react"
+                    ]
+                  },
+                  {
+                    "id": "SuuZW_fuEFc",
+                    "sharedTopics": [
+                      "import",
+                      "export",
+                      "content"
+                    ]
+                  },
+                  {
+                    "id": "a2kADxV0kBM",
+                    "sharedTopics": [
+                      "architecture",
+                      "api"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "9HUPNhA3OrI",
+              "title": "The Tokio Architecture Blueprint",
+              "views": 33,
+              "date": "2026-05-15T21:12:14Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "tokio",
+                "macro"
+              ],
+              "detail": {
+                "summary": "Tokio is structured as a layered runtime: scheduling engines at the base (work-stealing multi-thread scheduler and event loop), IO drivers and reactors in the middle, and the ergonomic task and macro system on top. A `Runtime` orchestrates the scheduler, timer, and IO drivers, with a `Builder` for configuration, a `Handle` for cross-thread spawning, and a dedicated blocking pool to keep synchronous work off the async event loop.",
+                "takeaways": [
+                  "The runtime stack separates scheduling, IO reactors, and task/macro ergonomics into distinct layers that can be reasoned about independently.",
+                  "The multi-thread scheduler uses per-worker local queues with work-stealing to balance load, while the current-thread scheduler keeps everything on a single thread for predictable, low-overhead workloads.",
+                  "`Runtime`, `Builder`, and `Handle` form the configuration surface: `Builder` tunes thread counts and lifecycle hooks, `Handle` provides a clonable spawn API across the application.",
+                  "A dedicated blocking pool offloads synchronous operations so they cannot stall the asynchronous event loop.",
+                  "Choosing between current-thread and multi-thread schedulers depends on hardware and workload — single-threaded simplicity vs. multi-core throughput with concurrent injection queues."
+                ],
+                "topics": [
+                  "tokio runtime architecture",
+                  "work stealing scheduler",
+                  "current thread scheduler",
+                  "io drivers and reactors",
+                  "blocking pool",
+                  "runtime builder",
+                  "async task spawning",
+                  "rust async runtime"
+                ],
+                "related": [
+                  {
+                    "id": "0Sed1oggMKY",
+                    "sharedTopics": [
+                      "tokio",
+                      "runtime",
+                      "architecture",
+                      "async",
+                      "rust"
+                    ]
+                  },
+                  {
+                    "id": "90hw9qwXbbw",
+                    "sharedTopics": [
+                      "tokio",
+                      "runtime",
+                      "architecture",
+                      "async",
+                      "rust"
+                    ]
+                  },
+                  {
+                    "id": "lY5TU8qHduM",
+                    "sharedTopics": [
+                      "tokio",
+                      "runtime",
+                      "async",
+                      "rust"
+                    ]
+                  },
+                  {
+                    "id": "js95nIDeA-c",
+                    "sharedTopics": [
+                      "tokio",
+                      "runtime",
+                      "async",
+                      "rust"
+                    ]
+                  },
+                  {
+                    "id": "F59lTcC6xJ0",
+                    "sharedTopics": [
+                      "tokio",
+                      "runtime",
+                      "async",
+                      "rust"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "ZfAc2pqcS-4",
               "title": "OpenCV Library Architecture and Capabilities",
-              "views": 18,
+              "views": 25,
               "date": "2026-05-11T11:00:37Z",
               "category": "development",
               "tags": [
@@ -24621,7 +25015,7 @@
             {
               "id": "ZUINk3dp9eA",
               "title": "The Architecture of Sequelize",
-              "views": 11,
+              "views": 15,
               "date": "2026-05-08T05:09:13Z",
               "category": "development",
               "tags": [
@@ -24684,11 +25078,11 @@
                     ]
                   },
                   {
-                    "id": "E30riOZ-YVo",
+                    "id": "BhzeYd4aqOQ",
                     "sharedTopics": [
-                      "orm",
                       "architecture",
-                      "query"
+                      "layer",
+                      "pipeline"
                     ]
                   }
                 ]
@@ -24697,7 +25091,7 @@
             {
               "id": "eJlXFaZNP6g",
               "title": "TigerStyle: The Architecture of Elegance",
-              "views": 36,
+              "views": 44,
               "date": "2026-05-06T02:19:03Z",
               "category": "development",
               "tags": [
@@ -24769,7 +25163,7 @@
             {
               "id": "UOOkDh4RUbE",
               "title": "Architecture Review: tn-file-upload",
-              "views": 26,
+              "views": 28,
               "date": "2026-05-04T23:49:00Z",
               "category": "development",
               "tags": [
@@ -24850,7 +25244,7 @@
             {
               "id": "173Y2uPljgo",
               "title": "The NestJS Architecture Blueprint",
-              "views": 42,
+              "views": 45,
               "date": "2026-05-04T11:44:35Z",
               "category": "development",
               "tags": [
@@ -24881,6 +25275,15 @@
                 ],
                 "related": [
                   {
+                    "id": "BhzeYd4aqOQ",
+                    "sharedTopics": [
+                      "request",
+                      "pipeline",
+                      "http",
+                      "adapters"
+                    ]
+                  },
+                  {
                     "id": "oxNF_GNuWpE",
                     "sharedTopics": [
                       "dependency",
@@ -24909,14 +25312,6 @@
                     "sharedTopics": [
                       "context",
                       "protocol"
-                    ]
-                  },
-                  {
-                    "id": "d1MH4nza95g",
-                    "sharedTopics": [
-                      "wrapper",
-                      "pipeline",
-                      "context"
                     ]
                   }
                 ]
@@ -25084,7 +25479,7 @@
             {
               "id": "GERT8PoS9Qk",
               "title": "The Architecture of Similarity",
-              "views": 23,
+              "views": 24,
               "date": "2026-04-29T12:35:21Z",
               "category": "development",
               "detail": {
@@ -25117,6 +25512,15 @@
                     ]
                   },
                   {
+                    "id": "i2YEYgVx0AA",
+                    "sharedTopics": [
+                      "vector search",
+                      "vector",
+                      "search",
+                      "retrieval"
+                    ]
+                  },
+                  {
                     "id": "EWwk29GzHgg",
                     "sharedTopics": [
                       "vector search",
@@ -25137,13 +25541,6 @@
                     "sharedTopics": [
                       "binary",
                       "search"
-                    ]
-                  },
-                  {
-                    "id": "j8lMpSezavQ",
-                    "sharedTopics": [
-                      "search",
-                      "retrieval"
                     ]
                   }
                 ]
@@ -25393,7 +25790,7 @@
             {
               "id": "wKzz0jKiScM",
               "title": "Emacs Architecture, Neovim Philosophy",
-              "views": 281,
+              "views": 284,
               "date": "2026-04-19T22:51:25Z",
               "category": "development",
               "tags": [
@@ -25535,7 +25932,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4167,
+              "views": 4172,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -26056,6 +26453,14 @@
                     ]
                   },
                   {
+                    "id": "i2YEYgVx0AA",
+                    "sharedTopics": [
+                      "vector search",
+                      "vector",
+                      "search"
+                    ]
+                  },
+                  {
                     "id": "n9Ebc-0E478",
                     "sharedTopics": [
                       "rust",
@@ -26069,13 +26474,6 @@
                       "rust",
                       "concurrency"
                     ]
-                  },
-                  {
-                    "id": "DwAOCljoNoc",
-                    "sharedTopics": [
-                      "rust",
-                      "compatibility"
-                    ]
                   }
                 ]
               }
@@ -26083,7 +26481,7 @@
             {
               "id": "am9FvNiJ24M",
               "title": "The 2026 Change Data Capture Blueprint",
-              "views": 29,
+              "views": 30,
               "date": "2026-04-08T22:14:35Z",
               "category": "development",
               "tags": [
@@ -26235,7 +26633,7 @@
             {
               "id": "ZBW6YozOu78",
               "title": "Serverless Analytics with DuckDB & Python",
-              "views": 41,
+              "views": 42,
               "date": "2026-03-15T01:12:59Z",
               "category": "development",
               "tags": [
@@ -26378,7 +26776,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 104,
+              "views": 110,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -26489,16 +26887,17 @@
                     ]
                   },
                   {
-                    "id": "n9Ebc-0E478",
+                    "id": "i2YEYgVx0AA",
                     "sharedTopics": [
                       "search",
-                      "api"
+                      "integration"
                     ]
                   },
                   {
-                    "id": "43UjmZtW2JU",
+                    "id": "ytA6gw6Tgaw",
                     "sharedTopics": [
-                      "management"
+                      "content",
+                      "api"
                     ]
                   }
                 ]
@@ -26512,7 +26911,7 @@
             {
               "id": "am9FvNiJ24M",
               "title": "The 2026 Change Data Capture Blueprint",
-              "views": 29,
+              "views": 30,
               "date": "2026-04-08T22:14:35Z",
               "category": "development",
               "tags": [
@@ -26747,7 +27146,7 @@
             {
               "id": "wyIhJ3LMnRg",
               "title": "W3C Trace Context",
-              "views": 45,
+              "views": 46,
               "date": "2026-03-21T13:19:14Z",
               "category": "development",
               "tags": [
@@ -27373,9 +27772,533 @@
       ],
       "videos": [
         {
+          "id": "jrD_LGNsJXM",
+          "title": "Async 1/0 in Zig 0.16, Today",
+          "views": 5,
+          "date": "2026-05-17T19:24:16Z",
+          "category": "development",
+          "tags": [
+            "zig",
+            "async",
+            "zio"
+          ],
+          "detail": {
+            "summary": "Zig 0.16 ships a `std.io` interface that decouples application code from the underlying concurrency runtime, enabling interchangeable async implementations across platforms. By pairing this abstraction with the third-party ZIO runtime and stackful coroutines, applications can scale far beyond the hard limits of OS threads while keeping library code portable.",
+            "takeaways": [
+              "The new `std.io` interface in Zig 0.16 standardizes both IO and concurrency, letting libraries target a single abstraction while applications swap runtimes without rewrites.",
+              "The default thread-pool implementation hits hard OS limits (e.g., `ulimit -u`) around tens of thousands of tasks, making it unsuitable for highly concurrent workloads.",
+              "ZIO replaces OS threads with stackful coroutines multiplexed onto a small worker pool, allowing hundreds of thousands of concurrent tasks with bounded resource use.",
+              "Decoupling abstraction from runtime lets the same code run on embedded targets, desktop, or high-throughput servers by selecting the right runtime at link time.",
+              "Stackful coroutines preserve familiar synchronous control flow while still giving the runtime the scheduling hooks it needs for cooperative multitasking."
+            ],
+            "topics": [
+              "zig 0.16 async io",
+              "std.io interface",
+              "zio runtime",
+              "stackful coroutines",
+              "os thread limits",
+              "interchangeable runtimes",
+              "concurrency scaling",
+              "cooperative scheduling"
+            ],
+            "related": [
+              {
+                "id": "F59lTcC6xJ0",
+                "sharedTopics": [
+                  "async",
+                  "runtime",
+                  "concurrency",
+                  "scaling"
+                ]
+              },
+              {
+                "id": "0Sed1oggMKY",
+                "sharedTopics": [
+                  "async",
+                  "runtime",
+                  "cooperative"
+                ]
+              },
+              {
+                "id": "lY5TU8qHduM",
+                "sharedTopics": [
+                  "async",
+                  "runtime",
+                  "concurrency"
+                ]
+              },
+              {
+                "id": "9HUPNhA3OrI",
+                "sharedTopics": [
+                  "async",
+                  "runtime",
+                  "thread"
+                ]
+              },
+              {
+                "id": "uz8nmkTPEpg",
+                "sharedTopics": [
+                  "async",
+                  "runtimes",
+                  "concurrency"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "ytA6gw6Tgaw",
+          "title": "SlideVoice Studio Desktop Shell Architecture",
+          "views": 2,
+          "date": "2026-05-17T18:33:33Z",
+          "category": "development",
+          "tags": [
+            "tauri",
+            "rust",
+            "bun",
+            "svs"
+          ],
+          "detail": {
+            "summary": "SlideVoice Studio wraps an existing Vite + React single-page application in a thin Tauri 2 shell to deliver a native, local-first desktop experience without rewriting the web codebase. The shell enforces a strict content security policy with zero IPC commands, while the in-app workflow uses the Google Gemini API and browser media APIs to turn slide decks into narrated videos entirely on-device.",
+            "takeaways": [
+              "A Tauri 2 wrapper with zero IPC commands and a strict CSP gives the SPA a hardened native shell without exposing additional attack surface.",
+              "The five-stage workflow (import, narrate, voice, preview, export) keeps all media, scripts, and audio on the local device for full data privacy.",
+              "PDFs are rendered with PDF.js, narration scripts come from speaker notes or Gemini drafts, and audio is generated via Gemini text-to-speech voices like Zephyr, Puck, and Fenrir.",
+              "The core stack consolidates around Bun 1.3 as runtime/package manager/test runner, Biome for formatting, and Vite 8 + React 19 + TypeScript + Tailwind CSS 4 for the UI.",
+              "A well-defined window contract (default 1280x820, minimum 960x640) and IndexedDB persistence make the desktop launch feel native rather than a wrapped browser tab."
+            ],
+            "topics": [
+              "tauri 2 desktop shell",
+              "local first architecture",
+              "vite react spa",
+              "gemini api narration",
+              "pdf.js slide import",
+              "media recorder export",
+              "bun toolchain",
+              "content security policy"
+            ],
+            "related": [
+              {
+                "id": "cJl2cchaHL8",
+                "sharedTopics": [
+                  "tauri",
+                  "desktop",
+                  "architecture"
+                ]
+              },
+              {
+                "id": "Ul0ixBpd5iM",
+                "sharedTopics": [
+                  "tauri",
+                  "desktop",
+                  "architecture"
+                ]
+              },
+              {
+                "id": "3ybGkjogcFQ",
+                "sharedTopics": [
+                  "architecture",
+                  "react"
+                ]
+              },
+              {
+                "id": "SuuZW_fuEFc",
+                "sharedTopics": [
+                  "import",
+                  "export",
+                  "content"
+                ]
+              },
+              {
+                "id": "a2kADxV0kBM",
+                "sharedTopics": [
+                  "architecture",
+                  "api"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "bAoDvQgmGjM",
+          "title": "The Anatomy of Modern Text",
+          "views": 39,
+          "date": "2026-05-17T07:42:42Z",
+          "category": "development",
+          "tags": [
+            "unicode",
+            "curiosity",
+            "grapheme cluster"
+          ],
+          "detail": {
+            "summary": "Modern text processing rests on four distinct layers — grapheme cluster, code point, character encoding, and raw bits — that Unicode introduces to replace the fragmented world of ASCII, EBCDIC, and Shift-JIS. Understanding these abstractions, along with the 17-plane code space and encodings like UTF-8, is essential to avoid mojibake and to correctly handle multi-byte characters in modern software.",
+            "takeaways": [
+              "Legacy encodings (ASCII, EBCDIC, Shift-JIS) were regionally isolated, causing data to degrade into mojibake whenever it crossed system boundaries.",
+              "Unicode separates a character's identity (code point) from its binary representation, requiring software to traverse grapheme cluster → code point → encoding → bits.",
+              "A single user-perceived character like `é` maps to code point U+00E9, which UTF-8 encodes as the two bytes `C3 A9` before reaching the bit layer.",
+              "Unicode organizes over one million code points into 17 planes, anchored by the Basic Multilingual Plane that covers most living scripts.",
+              "Treating text as raw bytes or single `char` units is a common source of bugs because grapheme clusters and multi-byte encodings break those assumptions."
+            ],
+            "topics": [
+              "unicode standard",
+              "grapheme clusters",
+              "code points",
+              "utf-8 encoding",
+              "legacy encodings",
+              "mojibake",
+              "unicode planes",
+              "string processing layers"
+            ],
+            "related": [
+              {
+                "id": "9yov-ZVv-Bo",
+                "sharedTopics": [
+                  "unicode",
+                  "processing"
+                ]
+              },
+              {
+                "id": "Z90u9EVf4M4",
+                "sharedTopics": [
+                  "standard",
+                  "code"
+                ]
+              },
+              {
+                "id": "E30riOZ-YVo",
+                "sharedTopics": [
+                  "code",
+                  "layers"
+                ]
+              },
+              {
+                "id": "z_Ydy_-cI1U",
+                "sharedTopics": [
+                  "processing"
+                ]
+              },
+              {
+                "id": "0HEqwk9UMOc",
+                "sharedTopics": [
+                  "code"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "Gy-ky1pAF0U",
+          "title": "The Blueprint of Reactivity",
+          "views": 19,
+          "date": "2026-05-16T20:24:00Z",
+          "category": "development",
+          "tags": [
+            "flutter",
+            "dart",
+            "riverpod",
+            "internal"
+          ],
+          "detail": {
+            "summary": "Riverpod organizes Flutter state management into four cooperating layers — core state, Flutter bridge, automated workflow, and advanced tooling — built around a `ProviderContainer` that tracks dependencies, schedules refreshes, and disposes resources. A clear provider taxonomy (standard, future, stream, notifier, async notifier, stream notifier) lets developers pick the right primitive based on mutability and asynchrony.",
+            "takeaways": [
+              "The `ProviderContainer` is the in-memory dependency graph, while `ProviderScope` provides the lexical boundary and override hooks needed for testing.",
+              "Provider choice maps cleanly to two dimensions: mutability (immutable vs. notifier) and synchrony (sync vs. future/stream).",
+              "`FutureProvider` and `StreamProvider` cover read-only async data, while `AsyncNotifierProvider` and `StreamNotifierProvider` handle mutable async state.",
+              "Macros in the automated workflow layer eliminate boilerplate by generating provider declarations from annotated classes.",
+              "Advanced tooling adds time-travel debugging and integrated SQLite storage, giving teams introspection and persistence without bespoke wiring."
+            ],
+            "topics": [
+              "riverpod architecture",
+              "provider container",
+              "provider scope",
+              "provider taxonomy",
+              "async notifier",
+              "flutter state management",
+              "dependency graph",
+              "time travel debugging"
+            ],
+            "related": [
+              {
+                "id": "LWc3AAHoxnU",
+                "sharedTopics": [
+                  "architecture",
+                  "flutter",
+                  "state",
+                  "management"
+                ]
+              },
+              {
+                "id": "3ybGkjogcFQ",
+                "sharedTopics": [
+                  "architecture",
+                  "state",
+                  "management"
+                ]
+              },
+              {
+                "id": "SpNfrWmI8iE",
+                "sharedTopics": [
+                  "architecture",
+                  "async",
+                  "dependency"
+                ]
+              },
+              {
+                "id": "xlwu0YwE3_Q",
+                "sharedTopics": [
+                  "architecture",
+                  "state",
+                  "management"
+                ]
+              },
+              {
+                "id": "BhzeYd4aqOQ",
+                "sharedTopics": [
+                  "architecture",
+                  "taxonomy",
+                  "flutter"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "BhzeYd4aqOQ",
+          "title": "Architecting Network Layers with Dio",
+          "views": 11,
+          "date": "2026-05-16T06:21:52Z",
+          "category": "development",
+          "tags": [
+            "flutter",
+            "dart",
+            "dio",
+            "internal"
+          ],
+          "detail": {
+            "summary": "Dio structures the Dart/Flutter HTTP client as concentric layers — a global core, a middleware ring of interceptors and transformers, and an edge of pluggable HTTP client adapters — to decouple network logic from platform-specific transport. The `DioException` taxonomy then centralizes failure categorization (timeouts, connection errors, bad responses, bad certificates) with rich diagnostic context for resilient applications.",
+            "takeaways": [
+              "Dio separates global base options, per-request overrides, and platform-specific transport into clearly bounded layers that can evolve independently.",
+              "Interceptors and transformers form a middleware ring where authentication, logging, and request/response data conversion live as composable units.",
+              "Edge execution swaps adapters per platform — IO HTTP client for native, browser HTTP client for web, plus native adapters for specialized targets.",
+              "The request lifecycle is fully interceptable: `RequestOptions` → `onRequest` → adapter call → response transformation → `onResponse`, giving predictable hooks at every step.",
+              "`DioException` wraps standard errors with stack trace, original `RequestOptions`, and partial response data, and categorizes failures into connection/send/receive timeouts, bad certificate, connection error, and bad response."
+            ],
+            "topics": [
+              "dio http client",
+              "network layer architecture",
+              "interceptors and transformers",
+              "http client adapters",
+              "request lifecycle",
+              "dio exception taxonomy",
+              "flutter networking",
+              "decoupled communication pipeline"
+            ],
+            "related": [
+              {
+                "id": "173Y2uPljgo",
+                "sharedTopics": [
+                  "http",
+                  "adapters",
+                  "request",
+                  "pipeline"
+                ]
+              },
+              {
+                "id": "J4iGUAXcAOA",
+                "sharedTopics": [
+                  "request lifecycle",
+                  "request",
+                  "lifecycle"
+                ]
+              },
+              {
+                "id": "Gy-ky1pAF0U",
+                "sharedTopics": [
+                  "architecture",
+                  "taxonomy",
+                  "flutter"
+                ]
+              },
+              {
+                "id": "LnJbrb0EUaE",
+                "sharedTopics": [
+                  "client",
+                  "architecture",
+                  "pipeline"
+                ]
+              },
+              {
+                "id": "ZUINk3dp9eA",
+                "sharedTopics": [
+                  "layer",
+                  "architecture",
+                  "pipeline"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "9HUPNhA3OrI",
+          "title": "The Tokio Architecture Blueprint",
+          "views": 33,
+          "date": "2026-05-15T21:12:14Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "tokio",
+            "macro"
+          ],
+          "detail": {
+            "summary": "Tokio is structured as a layered runtime: scheduling engines at the base (work-stealing multi-thread scheduler and event loop), IO drivers and reactors in the middle, and the ergonomic task and macro system on top. A `Runtime` orchestrates the scheduler, timer, and IO drivers, with a `Builder` for configuration, a `Handle` for cross-thread spawning, and a dedicated blocking pool to keep synchronous work off the async event loop.",
+            "takeaways": [
+              "The runtime stack separates scheduling, IO reactors, and task/macro ergonomics into distinct layers that can be reasoned about independently.",
+              "The multi-thread scheduler uses per-worker local queues with work-stealing to balance load, while the current-thread scheduler keeps everything on a single thread for predictable, low-overhead workloads.",
+              "`Runtime`, `Builder`, and `Handle` form the configuration surface: `Builder` tunes thread counts and lifecycle hooks, `Handle` provides a clonable spawn API across the application.",
+              "A dedicated blocking pool offloads synchronous operations so they cannot stall the asynchronous event loop.",
+              "Choosing between current-thread and multi-thread schedulers depends on hardware and workload — single-threaded simplicity vs. multi-core throughput with concurrent injection queues."
+            ],
+            "topics": [
+              "tokio runtime architecture",
+              "work stealing scheduler",
+              "current thread scheduler",
+              "io drivers and reactors",
+              "blocking pool",
+              "runtime builder",
+              "async task spawning",
+              "rust async runtime"
+            ],
+            "related": [
+              {
+                "id": "0Sed1oggMKY",
+                "sharedTopics": [
+                  "tokio",
+                  "runtime",
+                  "architecture",
+                  "async",
+                  "rust"
+                ]
+              },
+              {
+                "id": "90hw9qwXbbw",
+                "sharedTopics": [
+                  "tokio",
+                  "runtime",
+                  "architecture",
+                  "async",
+                  "rust"
+                ]
+              },
+              {
+                "id": "lY5TU8qHduM",
+                "sharedTopics": [
+                  "tokio",
+                  "runtime",
+                  "async",
+                  "rust"
+                ]
+              },
+              {
+                "id": "js95nIDeA-c",
+                "sharedTopics": [
+                  "tokio",
+                  "runtime",
+                  "async",
+                  "rust"
+                ]
+              },
+              {
+                "id": "F59lTcC6xJ0",
+                "sharedTopics": [
+                  "tokio",
+                  "runtime",
+                  "async",
+                  "rust"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "i2YEYgVx0AA",
+          "title": "Integrating LanceDB & Defining Data Engine Roles",
+          "views": 6,
+          "date": "2026-05-15T12:08:04Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "levy",
+            "adr",
+            "data"
+          ],
+          "detail": {
+            "summary": "Pastel Levy adopts a dual-store architecture in which PostgreSQL remains the sole authoritative source of truth for writes, while LanceDB serves as a derived columnar and vector acceleration layer for analytical workloads. This ADR-style decision targets five workloads — multi-dimensional similarity search, equity cohort analysis, RAG over statutes, versioned evidence snapshots, and columnar bulk staging — that PostGIS alone cannot serve efficiently.",
+            "takeaways": [
+              "PostgreSQL stays as the single source of truth: only API handlers may write to it, preserving transactional guarantees and definitive valuation math.",
+              "LanceDB is a derived projection store rebuilt from PostgreSQL data, used for fast candidate retrieval, semantic search, and efficient columnar scans.",
+              "A scheduled Lance rebuild job extracts and transforms PostgreSQL data, then publishes to S3-compatible storage and an embedded LanceDB instance that is multi-replica safe.",
+              "The architecture is justified by five analytical workloads — `comp` similarity search, equity/unequal-appraisal cohorts, RAG over county forms, versioned evidence snapshots, and bulk columnar ingestion.",
+              "Treating LanceDB as an acceleration layer rather than a primary store keeps the system of record secure while unlocking vector and columnar performance."
+            ],
+            "topics": [
+              "lancedb integration",
+              "dual store architecture",
+              "postgres source of truth",
+              "vector search",
+              "columnar analytics",
+              "rag retrieval",
+              "versioned evidence snapshots",
+              "data engine roles"
+            ],
+            "related": [
+              {
+                "id": "GERT8PoS9Qk",
+                "sharedTopics": [
+                  "vector search",
+                  "vector",
+                  "search",
+                  "retrieval"
+                ]
+              },
+              {
+                "id": "n9Ebc-0E478",
+                "sharedTopics": [
+                  "lancedb",
+                  "vector",
+                  "search",
+                  "columnar"
+                ]
+              },
+              {
+                "id": "EWwk29GzHgg",
+                "sharedTopics": [
+                  "vector search",
+                  "vector",
+                  "search"
+                ]
+              },
+              {
+                "id": "ZbZdm5Opbno",
+                "sharedTopics": [
+                  "architecture",
+                  "columnar",
+                  "engine"
+                ]
+              },
+              {
+                "id": "84M1mVL0cjo",
+                "sharedTopics": [
+                  "integration",
+                  "architecture"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "ZbZdm5Opbno",
           "title": "The Architectural Blueprint of Apache DataFusion",
-          "views": 12,
+          "views": 22,
           "date": "2026-05-14T22:04:01Z",
           "category": "development",
           "tags": [
@@ -27439,11 +28362,11 @@
                 ]
               },
               {
-                "id": "54lO6XE-AeQ",
+                "id": "i2YEYgVx0AA",
                 "sharedTopics": [
-                  "apache",
                   "architecture",
-                  "arrow"
+                  "engine",
+                  "columnar"
                 ]
               }
             ]
@@ -27452,7 +28375,7 @@
         {
           "id": "n9Ebc-0E478",
           "title": "Building the Multimodal Al Lakehouse",
-          "views": 16,
+          "views": 21,
           "date": "2026-05-14T12:06:25Z",
           "category": "development",
           "tags": [
@@ -27482,6 +28405,15 @@
               "permutation table splits"
             ],
             "related": [
+              {
+                "id": "i2YEYgVx0AA",
+                "sharedTopics": [
+                  "lancedb",
+                  "columnar",
+                  "vector",
+                  "search"
+                ]
+              },
               {
                 "id": "ZbZdm5Opbno",
                 "sharedTopics": [
@@ -27514,14 +28446,6 @@
                   "vector",
                   "search"
                 ]
-              },
-              {
-                "id": "8PaVKQoDReY",
-                "sharedTopics": [
-                  "rust",
-                  "zero",
-                  "copy"
-                ]
               }
             ]
           }
@@ -27529,7 +28453,7 @@
         {
           "id": "uz8nmkTPEpg",
           "title": "SQLx",
-          "views": 25,
+          "views": 31,
           "date": "2026-05-13T22:37:02Z",
           "category": "development",
           "tags": [
@@ -27574,6 +28498,14 @@
                 ]
               },
               {
+                "id": "jrD_LGNsJXM",
+                "sharedTopics": [
+                  "async",
+                  "concurrency",
+                  "runtimes"
+                ]
+              },
+              {
                 "id": "UOOkDh4RUbE",
                 "sharedTopics": [
                   "validation",
@@ -27588,13 +28520,6 @@
                   "layer",
                   "agnostic"
                 ]
-              },
-              {
-                "id": "0Sed1oggMKY",
-                "sharedTopics": [
-                  "async",
-                  "tokio"
-                ]
               }
             ]
           }
@@ -27602,7 +28527,7 @@
         {
           "id": "AvysIjFrTEw",
           "title": "Diagnostic Guide to Computer Vision Feature Detection",
-          "views": 22,
+          "views": 31,
           "date": "2026-05-12T00:01:43Z",
           "category": "development",
           "tags": [
@@ -27673,7 +28598,7 @@
         {
           "id": "ZfAc2pqcS-4",
           "title": "OpenCV Library Architecture and Capabilities",
-          "views": 18,
+          "views": 25,
           "date": "2026-05-11T11:00:37Z",
           "category": "development",
           "tags": [
@@ -27751,7 +28676,7 @@
         {
           "id": "B81dHVYOYJA",
           "title": "Inside the Typst Compiler Engine",
-          "views": 35,
+          "views": 38,
           "date": "2026-05-11T00:02:22Z",
           "category": "development",
           "tags": [
@@ -27822,7 +28747,7 @@
         {
           "id": "Qi_vpz_5j7g",
           "title": "The ONNX Ecosystem",
-          "views": 29,
+          "views": 31,
           "date": "2026-05-10T16:28:12Z",
           "category": "development",
           "tags": [
@@ -27905,7 +28830,7 @@
         {
           "id": "8PaVKQoDReY",
           "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-          "views": 33,
+          "views": 37,
           "date": "2026-05-09T22:08:03Z",
           "category": "development",
           "tags": [
@@ -27987,7 +28912,7 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 145,
+          "views": 217,
           "date": "2026-05-09T14:32:47Z",
           "category": "development",
           "tags": [
@@ -28063,7 +28988,7 @@
         {
           "id": "qAHyv6G3a7M",
           "title": "Building the Unified Rust Backend",
-          "views": 171,
+          "views": 277,
           "date": "2026-05-09T07:32:42Z",
           "category": "development",
           "tags": [
@@ -28151,7 +29076,7 @@
         {
           "id": "_bFOZ51Q55Y",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 478,
+          "views": 745,
           "date": "2026-05-09T02:40:33Z",
           "category": "development",
           "tags": [
@@ -28283,6 +29208,14 @@
                 ]
               },
               {
+                "id": "ytA6gw6Tgaw",
+                "sharedTopics": [
+                  "content",
+                  "import",
+                  "export"
+                ]
+              },
+              {
                 "id": "xVmoqBYlQMU",
                 "sharedTopics": [
                   "binary",
@@ -28294,13 +29227,6 @@
                 "sharedTopics": [
                   "mode",
                   "detection"
-                ]
-              },
-              {
-                "id": "AvysIjFrTEw",
-                "sharedTopics": [
-                  "detection",
-                  "binary"
                 ]
               }
             ]
@@ -28390,7 +29316,7 @@
         {
           "id": "ZUINk3dp9eA",
           "title": "The Architecture of Sequelize",
-          "views": 11,
+          "views": 15,
           "date": "2026-05-08T05:09:13Z",
           "category": "development",
           "tags": [
@@ -28453,11 +29379,11 @@
                 ]
               },
               {
-                "id": "E30riOZ-YVo",
+                "id": "BhzeYd4aqOQ",
                 "sharedTopics": [
-                  "orm",
                   "architecture",
-                  "query"
+                  "layer",
+                  "pipeline"
                 ]
               }
             ]
@@ -28466,7 +29392,7 @@
         {
           "id": "85pyYZFJ6_s",
           "title": "The Evolution of File Detection",
-          "views": 38,
+          "views": 48,
           "date": "2026-05-07T08:54:01Z",
           "category": "development",
           "tags": [
@@ -28510,6 +29436,13 @@
                 ]
               },
               {
+                "id": "ytA6gw6Tgaw",
+                "sharedTopics": [
+                  "content",
+                  "security"
+                ]
+              },
+              {
                 "id": "fv61JXUCbeo",
                 "sharedTopics": [
                   "google",
@@ -28522,13 +29455,6 @@
                   "type",
                   "security"
                 ]
-              },
-              {
-                "id": "d1MH4nza95g",
-                "sharedTopics": [
-                  "file",
-                  "type"
-                ]
               }
             ]
           }
@@ -28536,7 +29462,7 @@
         {
           "id": "eJlXFaZNP6g",
           "title": "TigerStyle: The Architecture of Elegance",
-          "views": 36,
+          "views": 44,
           "date": "2026-05-06T02:19:03Z",
           "category": "development",
           "tags": [
@@ -28685,7 +29611,7 @@
         {
           "id": "UOOkDh4RUbE",
           "title": "Architecture Review: tn-file-upload",
-          "views": 26,
+          "views": 28,
           "date": "2026-05-04T23:49:00Z",
           "category": "development",
           "tags": [
@@ -28766,7 +29692,7 @@
         {
           "id": "173Y2uPljgo",
           "title": "The NestJS Architecture Blueprint",
-          "views": 42,
+          "views": 45,
           "date": "2026-05-04T11:44:35Z",
           "category": "development",
           "tags": [
@@ -28797,6 +29723,15 @@
             ],
             "related": [
               {
+                "id": "BhzeYd4aqOQ",
+                "sharedTopics": [
+                  "request",
+                  "pipeline",
+                  "http",
+                  "adapters"
+                ]
+              },
+              {
                 "id": "oxNF_GNuWpE",
                 "sharedTopics": [
                   "dependency",
@@ -28826,14 +29761,6 @@
                   "context",
                   "protocol"
                 ]
-              },
-              {
-                "id": "d1MH4nza95g",
-                "sharedTopics": [
-                  "wrapper",
-                  "pipeline",
-                  "context"
-                ]
               }
             ]
           }
@@ -28841,7 +29768,7 @@
         {
           "id": "QOYXBkMcnYk",
           "title": "The Echo Web Framework",
-          "views": 38,
+          "views": 40,
           "date": "2026-05-04T02:03:06Z",
           "category": "development",
           "tags": [
@@ -28905,11 +29832,11 @@
                 ]
               },
               {
-                "id": "ZfAc2pqcS-4",
+                "id": "BhzeYd4aqOQ",
                 "sharedTopics": [
-                  "api",
                   "pipeline",
-                  "architecture"
+                  "architecture",
+                  "lifecycle"
                 ]
               }
             ]
@@ -28977,19 +29904,19 @@
                 ]
               },
               {
-                "id": "7zFqW-ZcEbo",
+                "id": "Gy-ky1pAF0U",
                 "sharedTopics": [
-                  "tokio",
-                  "tracing",
-                  "async"
+                  "async",
+                  "time",
+                  "graph"
                 ]
               },
               {
-                "id": "uz8nmkTPEpg",
+                "id": "9HUPNhA3OrI",
                 "sharedTopics": [
                   "tokio",
                   "async",
-                  "macro"
+                  "blocking"
                 ]
               }
             ]
@@ -29221,16 +30148,17 @@
                 ]
               },
               {
-                "id": "js95nIDeA-c",
+                "id": "9HUPNhA3OrI",
                 "sharedTopics": [
                   "rust",
                   "tokio",
                   "runtime",
-                  "async"
+                  "async",
+                  "architecture"
                 ]
               },
               {
-                "id": "F59lTcC6xJ0",
+                "id": "js95nIDeA-c",
                 "sharedTopics": [
                   "rust",
                   "tokio",
@@ -29244,7 +30172,7 @@
         {
           "id": "J4iGUAXcAOA",
           "title": "The Axum Web Framework",
-          "views": 46,
+          "views": 48,
           "date": "2026-05-01T22:55:53Z",
           "category": "development",
           "tags": [
@@ -29324,7 +30252,7 @@
         {
           "id": "xlwu0YwE3_Q",
           "title": "The Compensating Transaction Pattern",
-          "views": 14,
+          "views": 15,
           "date": "2026-04-30T22:19:52Z",
           "category": "development",
           "tags": [
@@ -29480,7 +30408,7 @@
         {
           "id": "GERT8PoS9Qk",
           "title": "The Architecture of Similarity",
-          "views": 23,
+          "views": 24,
           "date": "2026-04-29T12:35:21Z",
           "category": "development",
           "detail": {
@@ -29513,6 +30441,15 @@
                 ]
               },
               {
+                "id": "i2YEYgVx0AA",
+                "sharedTopics": [
+                  "vector search",
+                  "vector",
+                  "search",
+                  "retrieval"
+                ]
+              },
+              {
                 "id": "EWwk29GzHgg",
                 "sharedTopics": [
                   "vector search",
@@ -29534,13 +30471,6 @@
                   "binary",
                   "search"
                 ]
-              },
-              {
-                "id": "j8lMpSezavQ",
-                "sharedTopics": [
-                  "search",
-                  "retrieval"
-                ]
               }
             ]
           }
@@ -29548,7 +30478,7 @@
         {
           "id": "4aAyFYemYD8",
           "title": "The Strangler Fig Pattern",
-          "views": 41,
+          "views": 42,
           "date": "2026-04-29T00:49:39Z",
           "category": "development",
           "tags": [
@@ -29828,6 +30758,14 @@
                 ]
               },
               {
+                "id": "i2YEYgVx0AA",
+                "sharedTopics": [
+                  "vector search",
+                  "vector",
+                  "search"
+                ]
+              },
+              {
                 "id": "n9Ebc-0E478",
                 "sharedTopics": [
                   "rust",
@@ -29841,13 +30779,6 @@
                   "rust",
                   "concurrency"
                 ]
-              },
-              {
-                "id": "DwAOCljoNoc",
-                "sharedTopics": [
-                  "rust",
-                  "compatibility"
-                ]
               }
             ]
           }
@@ -29855,7 +30786,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 28,
+          "views": 29,
           "date": "2026-04-26T15:40:42Z",
           "category": "development",
           "tags": [
@@ -30294,9 +31225,10 @@
                 ]
               },
               {
-                "id": "84M1mVL0cjo",
+                "id": "i2YEYgVx0AA",
                 "sharedTopics": [
-                  "enterprise"
+                  "rag",
+                  "vector"
                 ]
               }
             ]
@@ -30666,7 +31598,7 @@
         {
           "id": "wKzz0jKiScM",
           "title": "Emacs Architecture, Neovim Philosophy",
-          "views": 281,
+          "views": 284,
           "date": "2026-04-19T22:51:25Z",
           "category": "development",
           "tags": [
@@ -30873,7 +31805,7 @@
         {
           "id": "izLrX-02IQk",
           "title": "Rust 1.95.0",
-          "views": 206,
+          "views": 209,
           "date": "2026-04-18T20:42:55Z",
           "category": "development",
           "tags": [
@@ -31079,7 +32011,7 @@
         {
           "id": "E8f87EV4k3A",
           "title": "A Compiler, Not a Renderer",
-          "views": 155,
+          "views": 156,
           "date": "2026-04-17T12:06:22Z",
           "category": "development",
           "tags": [
@@ -31286,7 +32218,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 701,
+          "views": 705,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -31342,7 +32274,7 @@
                 ]
               },
               {
-                "id": "Qv9X3ZY474U",
+                "id": "jrD_LGNsJXM",
                 "sharedTopics": [
                   "zig",
                   "interface"
@@ -31632,7 +32564,7 @@
         {
           "id": "-tZGlR8Zztg",
           "title": "The Illusion of Design",
-          "views": 33,
+          "views": 36,
           "date": "2026-04-11T07:48:34Z",
           "category": "development",
           "tags": [
@@ -31750,6 +32682,13 @@
             ],
             "related": [
               {
+                "id": "BhzeYd4aqOQ",
+                "sharedTopics": [
+                  "networking",
+                  "communication"
+                ]
+              },
+              {
                 "id": "FM6zp63maS8",
                 "sharedTopics": [
                   "protocol"
@@ -31772,12 +32711,6 @@
                 "sharedTopics": [
                   "analysis"
                 ]
-              },
-              {
-                "id": "WMcKFQ200OE",
-                "sharedTopics": [
-                  "protocol"
-                ]
               }
             ]
           }
@@ -31785,7 +32718,7 @@
         {
           "id": "LackTxguXFg",
           "title": "The Programmer's Guide to Essential RFCs",
-          "views": 107,
+          "views": 108,
           "date": "2026-04-10T16:29:16Z",
           "category": "development",
           "tags": [
@@ -31853,7 +32786,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 156,
+          "views": 157,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -31929,7 +32862,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2666,
+          "views": 2667,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -32071,7 +33004,7 @@
         {
           "id": "am9FvNiJ24M",
           "title": "The 2026 Change Data Capture Blueprint",
-          "views": 29,
+          "views": 30,
           "date": "2026-04-08T22:14:35Z",
           "category": "development",
           "tags": [
@@ -32364,7 +33297,7 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 276,
+          "views": 277,
           "date": "2026-04-05T21:24:52Z",
           "category": "development",
           "tags": [
@@ -32442,7 +33375,7 @@
         {
           "id": "T-NdEF6btbg",
           "title": "The Open Market of Al Coding",
-          "views": 94,
+          "views": 96,
           "date": "2026-04-05T12:38:23Z",
           "category": "development",
           "tags": [
@@ -32664,7 +33597,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4167,
+          "views": 4172,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -33079,7 +34012,7 @@
         {
           "id": "F59lTcC6xJ0",
           "title": "Architectural Principles of Fearless Concurrency",
-          "views": 50,
+          "views": 51,
           "date": "2026-03-28T22:00:43Z",
           "category": "development",
           "tags": [
@@ -33370,9 +34303,9 @@
                 ]
               },
               {
-                "id": "BzvpasWYESU",
+                "id": "bAoDvQgmGjM",
                 "sharedTopics": [
-                  "llm",
+                  "standard",
                   "code"
                 ]
               }
@@ -33764,7 +34697,7 @@
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
-          "views": 45,
+          "views": 46,
           "date": "2026-03-21T13:19:14Z",
           "category": "development",
           "tags": [
@@ -34132,7 +35065,7 @@
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
-          "views": 136,
+          "views": 138,
           "date": "2026-03-19T00:18:34Z",
           "category": "development",
           "tags": [
@@ -34406,7 +35339,7 @@
         {
           "id": "ZBW6YozOu78",
           "title": "Serverless Analytics with DuckDB & Python",
-          "views": 41,
+          "views": 42,
           "date": "2026-03-15T01:12:59Z",
           "category": "development",
           "tags": [
@@ -34627,7 +35560,7 @@
         {
           "id": "2iIi1H9V-Hg",
           "title": "Announcing Genkit Dart",
-          "views": 47,
+          "views": 51,
           "date": "2026-03-13T13:28:36Z",
           "category": "development",
           "tags": [
@@ -35253,10 +36186,10 @@
                 ]
               },
               {
-                "id": "xlwu0YwE3_Q",
+                "id": "Gy-ky1pAF0U",
                 "sharedTopics": [
                   "architecture",
-                  "failure"
+                  "graph"
                 ]
               }
             ]
@@ -35538,13 +36471,14 @@
                 ]
               },
               {
-                "id": "dDtVuJXVYJk",
+                "id": "i2YEYgVx0AA",
                 "sharedTopics": [
+                  "search",
                   "data"
                 ]
               },
               {
-                "id": "am9FvNiJ24M",
+                "id": "dDtVuJXVYJk",
                 "sharedTopics": [
                   "data"
                 ]
@@ -35766,7 +36700,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 224,
+          "views": 231,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -35823,10 +36757,10 @@
                 ]
               },
               {
-                "id": "7zFqW-ZcEbo",
+                "id": "Gy-ky1pAF0U",
                 "sharedTopics": [
                   "async",
-                  "serialization"
+                  "graph"
                 ]
               }
             ]
@@ -35835,7 +36769,7 @@
         {
           "id": "Hfut9CfJhN0",
           "title": "Bubble Tea v2",
-          "views": 58,
+          "views": 59,
           "date": "2026-03-02T12:02:38Z",
           "category": "development",
           "tags": [
@@ -36281,7 +37215,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 128,
+          "views": 129,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -36558,7 +37492,7 @@
         {
           "id": "DazzkNtnzec",
           "title": "Design Patterns in Go",
-          "views": 113,
+          "views": 117,
           "date": "2026-02-24T23:48:12Z",
           "category": "development",
           "tags": [
@@ -36634,7 +37568,7 @@
         {
           "id": "ARWkoc3E8uE",
           "title": "Composition by Design",
-          "views": 31,
+          "views": 32,
           "date": "2026-02-23T23:33:01Z",
           "category": "development",
           "tags": [
@@ -37017,7 +37951,7 @@
         {
           "id": "QBUQvfZJpaM",
           "title": "Modern Cryptography Standards: A Guide to AEAD",
-          "views": 61,
+          "views": 62,
           "date": "2026-02-18T23:24:48Z",
           "category": "development",
           "tags": [
@@ -37222,7 +38156,7 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 104,
+          "views": 110,
           "date": "2026-02-14T22:47:13Z",
           "category": "development",
           "tags": [
@@ -37286,7 +38220,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 825,
+          "views": 829,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -37440,7 +38374,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 411,
+          "views": 422,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -37594,7 +38528,7 @@
         {
           "id": "cEwAbu6FFRo",
           "title": "Compound Engineering",
-          "views": 157,
+          "views": 160,
           "date": "2026-02-11T13:08:01Z",
           "category": "development",
           "tags": [
@@ -37789,16 +38723,17 @@
                 ]
               },
               {
-                "id": "n9Ebc-0E478",
+                "id": "i2YEYgVx0AA",
                 "sharedTopics": [
                   "search",
-                  "api"
+                  "integration"
                 ]
               },
               {
-                "id": "43UjmZtW2JU",
+                "id": "ytA6gw6Tgaw",
                 "sharedTopics": [
-                  "management"
+                  "content",
+                  "api"
                 ]
               }
             ]
@@ -37930,21 +38865,22 @@
                 ]
               },
               {
+                "id": "9HUPNhA3OrI",
+                "sharedTopics": [
+                  "tokio",
+                  "rust",
+                  "async",
+                  "architecture",
+                  "runtime"
+                ]
+              },
+              {
                 "id": "Th5MMOFQbh8",
                 "sharedTopics": [
                   "rust",
                   "event-driven architecture",
                   "event-driven",
                   "architecture"
-                ]
-              },
-              {
-                "id": "js95nIDeA-c",
-                "sharedTopics": [
-                  "tokio",
-                  "rust",
-                  "async",
-                  "runtime"
                 ]
               }
             ]
@@ -38096,7 +39032,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 170,
+          "views": 177,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -38173,7 +39109,7 @@
         {
           "id": "5st-kLcNrE8",
           "title": "Jujutsu (jj):  An Introduction of its Paradigm Shift",
-          "views": 116,
+          "views": 117,
           "date": "2026-02-06T00:13:53Z",
           "category": "development",
           "tags": [
@@ -38242,7 +39178,7 @@
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 441,
+          "views": 443,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -38684,7 +39620,7 @@
         {
           "id": "o9yaniXkM-0",
           "title": "Practical Data Oriented Design in Zig",
-          "views": 65,
+          "views": 66,
           "date": "2026-01-30T01:28:52Z",
           "category": "development",
           "tags": [
@@ -39795,9 +40731,10 @@
                 ]
               },
               {
-                "id": "tmerUd7eiy4",
+                "id": "bAoDvQgmGjM",
                 "sharedTopics": [
-                  "performance"
+                  "processing",
+                  "unicode"
                 ]
               }
             ]
@@ -40440,17 +41377,18 @@
                 ]
               },
               {
+                "id": "i2YEYgVx0AA",
+                "sharedTopics": [
+                  "data",
+                  "analytics"
+                ]
+              },
+              {
                 "id": "u60g2nMtVi4",
                 "sharedTopics": [
                   "data",
                   "analytics",
                   "engineering"
-                ]
-              },
-              {
-                "id": "dDtVuJXVYJk",
-                "sharedTopics": [
-                  "data"
                 ]
               }
             ]
@@ -41534,7 +42472,7 @@
         {
           "id": "olsB3bJxA2A",
           "title": "Let's check about Zig",
-          "views": 348,
+          "views": 350,
           "date": "2025-12-28T09:28:00Z",
           "category": "development",
           "tags": [
@@ -41825,7 +42763,7 @@
         "development"
       ],
       "videoCount": 13,
-      "totalViews": 420,
+      "totalViews": 421,
       "topTags": [
         {
           "tag": "sentinel",
@@ -42700,7 +43638,7 @@
         {
           "id": "_5DCBqOCr8c",
           "title": "Designing for Privacy",
-          "views": 39,
+          "views": 40,
           "date": "2026-04-19T04:59:35Z",
           "category": "security",
           "tags": [
@@ -43521,6 +44459,15 @@
             ],
             "related": [
               {
+                "id": "ytA6gw6Tgaw",
+                "sharedTopics": [
+                  "security",
+                  "content security policy",
+                  "content",
+                  "policy"
+                ]
+              },
+              {
                 "id": "0NLj8g2hQNk",
                 "sharedTopics": [
                   "security",
@@ -43546,13 +44493,6 @@
                 "sharedTopics": [
                   "security",
                   "policy"
-                ]
-              },
-              {
-                "id": "SeYrpzDTn6A",
-                "sharedTopics": [
-                  "security",
-                  "authentication"
                 ]
               }
             ]
@@ -44046,7 +44986,7 @@
         {
           "id": "LackTxguXFg",
           "title": "The Programmer's Guide to Essential RFCs",
-          "views": 107,
+          "views": 108,
           "date": "2026-04-10T16:29:16Z",
           "category": "development"
         },
@@ -44060,7 +45000,7 @@
         {
           "id": "M_NbzCCHFp0",
           "title": "The Orbital Compute Blueprint",
-          "views": 64,
+          "views": 66,
           "date": "2026-05-02T20:46:53Z",
           "category": "finance"
         },
@@ -44072,6 +45012,13 @@
           "category": "finance"
         },
         {
+          "id": "bAoDvQgmGjM",
+          "title": "The Anatomy of Modern Text",
+          "views": 39,
+          "date": "2026-05-17T07:42:42Z",
+          "category": "development"
+        },
+        {
           "id": "oHdhgeF4wlI",
           "title": "A Trillion Transactions",
           "views": 37,
@@ -44081,7 +45028,7 @@
         {
           "id": "-tZGlR8Zztg",
           "title": "The Illusion of Design",
-          "views": 33,
+          "views": 36,
           "date": "2026-04-11T07:48:34Z",
           "category": "development"
         },
@@ -44095,7 +45042,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 28,
+          "views": 29,
           "date": "2026-04-26T15:40:42Z",
           "category": "development"
         },
@@ -44109,7 +45056,7 @@
         {
           "id": "SRwWBbsaQH4",
           "title": "Nationwide Data Coverage & Auto-Filing Feasibility",
-          "views": 12,
+          "views": 13,
           "date": "2026-05-13T07:23:27Z",
           "category": "finance"
         },
@@ -44161,7 +45108,7 @@
         {
           "id": "-e7kvcUXxtw",
           "title": "DevSecOps on Azure Kubernetes Service",
-          "views": 23,
+          "views": 24,
           "date": "2026-04-29T21:49:39Z",
           "category": "kubernetes"
         },
@@ -44199,22 +45146,22 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 276,
+          "views": 277,
           "date": "2026-04-05T21:24:52Z",
-          "category": "development"
-        },
-        {
-          "id": "TEGFwsAcxK8",
-          "title": "Agent Skills for Flutter",
-          "views": 156,
-          "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 145,
+          "views": 217,
           "date": "2026-05-09T14:32:47Z",
+          "category": "development"
+        },
+        {
+          "id": "TEGFwsAcxK8",
+          "title": "Agent Skills for Flutter",
+          "views": 157,
+          "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
@@ -44272,7 +45219,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2666,
+          "views": 2667,
           "date": "2026-04-09T22:17:25Z",
           "category": "development"
         },
@@ -44286,7 +45233,7 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 276,
+          "views": 277,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
@@ -44307,7 +45254,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 156,
+          "views": 157,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -44328,7 +45275,7 @@
         {
           "id": "T-NdEF6btbg",
           "title": "The Open Market of Al Coding",
-          "views": 94,
+          "views": 96,
           "date": "2026-04-05T12:38:23Z",
           "category": "development"
         },
@@ -44382,17 +45329,17 @@
           "category": "development"
         },
         {
+          "id": "85pyYZFJ6_s",
+          "title": "The Evolution of File Detection",
+          "views": 48,
+          "date": "2026-05-07T08:54:01Z",
+          "category": "development"
+        },
+        {
           "id": "IF5sNQH-01c",
           "title": "NotebookLM's Intelligence Flow",
           "views": 46,
           "date": "2025-12-28T08:31:48Z",
-          "category": "development"
-        },
-        {
-          "id": "85pyYZFJ6_s",
-          "title": "The Evolution of File Detection",
-          "views": 38,
-          "date": "2026-05-07T08:54:01Z",
           "category": "development"
         },
         {
@@ -44491,16 +45438,23 @@
         {
           "id": "n9Ebc-0E478",
           "title": "Building the Multimodal Al Lakehouse",
-          "views": 16,
+          "views": 21,
           "date": "2026-05-14T12:06:25Z",
           "category": "development"
         },
         {
           "id": "SRwWBbsaQH4",
           "title": "Nationwide Data Coverage & Auto-Filing Feasibility",
-          "views": 12,
+          "views": 13,
           "date": "2026-05-13T07:23:27Z",
           "category": "finance"
+        },
+        {
+          "id": "i2YEYgVx0AA",
+          "title": "Integrating LanceDB & Defining Data Engine Roles",
+          "views": 6,
+          "date": "2026-05-15T12:08:04Z",
+          "category": "development"
         }
       ]
     },
@@ -44514,7 +45468,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 128,
+          "views": 129,
           "date": "2026-02-27T12:49:18Z",
           "category": "development"
         },
@@ -44544,64 +45498,78 @@
         {
           "id": "_bFOZ51Q55Y",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 478,
+          "views": 745,
           "date": "2026-05-09T02:40:33Z",
           "category": "development"
         },
         {
           "id": "B81dHVYOYJA",
           "title": "Inside the Typst Compiler Engine",
-          "views": 35,
+          "views": 38,
           "date": "2026-05-11T00:02:22Z",
           "category": "development"
         },
         {
           "id": "8PaVKQoDReY",
           "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-          "views": 33,
+          "views": 37,
           "date": "2026-05-09T22:08:03Z",
           "category": "development"
         },
         {
           "id": "Qi_vpz_5j7g",
           "title": "The ONNX Ecosystem",
-          "views": 29,
+          "views": 31,
           "date": "2026-05-10T16:28:12Z",
           "category": "development"
         },
         {
           "id": "WrZN5AgpaW4",
           "title": "The Anatomy of Kubernetes",
-          "views": 25,
+          "views": 26,
           "date": "2026-05-12T18:05:42Z",
           "category": "kubernetes"
         },
         {
           "id": "ZfAc2pqcS-4",
           "title": "OpenCV Library Architecture and Capabilities",
-          "views": 18,
+          "views": 25,
           "date": "2026-05-11T11:00:37Z",
-          "category": "development"
-        },
-        {
-          "id": "n9Ebc-0E478",
-          "title": "Building the Multimodal Al Lakehouse",
-          "views": 16,
-          "date": "2026-05-14T12:06:25Z",
           "category": "development"
         },
         {
           "id": "ZbZdm5Opbno",
           "title": "The Architectural Blueprint of Apache DataFusion",
-          "views": 12,
+          "views": 22,
           "date": "2026-05-14T22:04:01Z",
+          "category": "development"
+        },
+        {
+          "id": "n9Ebc-0E478",
+          "title": "Building the Multimodal Al Lakehouse",
+          "views": 21,
+          "date": "2026-05-14T12:06:25Z",
+          "category": "development"
+        },
+        {
+          "id": "Gy-ky1pAF0U",
+          "title": "The Blueprint of Reactivity",
+          "views": 19,
+          "date": "2026-05-16T20:24:00Z",
           "category": "development"
         },
         {
           "id": "ZUINk3dp9eA",
           "title": "The Architecture of Sequelize",
-          "views": 11,
+          "views": 15,
           "date": "2026-05-08T05:09:13Z",
+          "category": "development"
+        },
+        {
+          "id": "BhzeYd4aqOQ",
+          "title": "Architecting Network Layers with Dio",
+          "views": 11,
+          "date": "2026-05-16T06:21:52Z",
           "category": "development"
         },
         {
@@ -44658,7 +45626,7 @@
         {
           "id": "am9FvNiJ24M",
           "title": "The 2026 Change Data Capture Blueprint",
-          "views": 29,
+          "views": 30,
           "date": "2026-04-08T22:14:35Z",
           "category": "development"
         },
@@ -44679,7 +45647,7 @@
         {
           "id": "V9tvg6Yg3m4",
           "title": "From Consensus Physics to Messaging Engineering",
-          "views": 12,
+          "views": 17,
           "date": "2026-05-07T22:45:08Z",
           "category": "kubernetes"
         },
@@ -44709,7 +45677,7 @@
         {
           "id": "-e7kvcUXxtw",
           "title": "DevSecOps on Azure Kubernetes Service",
-          "views": 23,
+          "views": 24,
           "date": "2026-04-29T21:49:39Z",
           "category": "kubernetes"
         },
@@ -44732,7 +45700,7 @@
         {
           "id": "mGMaqTvWrCc",
           "title": "Building an End-to-End MLOps Pipeline",
-          "views": 32,
+          "views": 33,
           "date": "2026-04-14T23:21:34Z",
           "category": "kubernetes"
         },
@@ -44797,22 +45765,22 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 276,
+          "views": 277,
           "date": "2026-04-05T21:24:52Z",
-          "category": "development"
-        },
-        {
-          "id": "TEGFwsAcxK8",
-          "title": "Agent Skills for Flutter",
-          "views": 156,
-          "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 145,
+          "views": 217,
           "date": "2026-05-09T14:32:47Z",
+          "category": "development"
+        },
+        {
+          "id": "TEGFwsAcxK8",
+          "title": "Agent Skills for Flutter",
+          "views": 157,
+          "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
@@ -44901,7 +45869,7 @@
         {
           "id": "am9FvNiJ24M",
           "title": "The 2026 Change Data Capture Blueprint",
-          "views": 29,
+          "views": 30,
           "date": "2026-04-08T22:14:35Z",
           "category": "development"
         }
@@ -44931,7 +45899,7 @@
         {
           "id": "am9FvNiJ24M",
           "title": "The 2026 Change Data Capture Blueprint",
-          "views": 29,
+          "views": 30,
           "date": "2026-04-08T22:14:35Z",
           "category": "development"
         },

@@ -33,8 +33,8 @@ This video presents a custom integration architecture between Adobe Experience M
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `integration` · `enterprise`)
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 20 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `manager` · `management`)
 - [React Native vs. Flutter for Enterprise Apps](https://youtu.be/jzjGcFkAnfs) — Development · 32 views · Feb 26, 2026 · [Details](jzjGcFkAnfs.md) (shared: `bridge` · `enterprise`)
-- [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 16 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `search` · `api`)
-- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `management`)
+- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 6 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `search` · `integration`)
+- [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 2 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `content` · `api`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

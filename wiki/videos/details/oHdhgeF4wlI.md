@@ -33,7 +33,7 @@ Drawing from TigerBeetle's architectural philosophy, this video argues that the 
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `fault tolerance` · `fault` · `tolerance`)
 - [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) — Kubernetes · 70 views · Mar 22, 2026 · [Details](QE51ybyrQDM.md) (shared: `distributed systems` · `distributed` · `systems`)
 - [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 29 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `distributed systems` · `distributed` · `systems`)
-- [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) — Kubernetes · 12 views · May 7, 2026 · [Details](V9tvg6Yg3m4.md) (shared: `distributed` · `systems` · `system`)
+- [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) — Kubernetes · 17 views · May 7, 2026 · [Details](V9tvg6Yg3m4.md) (shared: `distributed` · `systems` · `system`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `distributed` · `architecture`)
 
 ---

@@ -31,7 +31,7 @@ This video presents microgpt-zig, a first-principles GPT implementation in pure 
 ## Related Videos
 
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 74 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `zig` · `gpt` · `architecture`)
-- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 155 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `zig` · `zero-dependency`)
+- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 156 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `zig` · `zero-dependency`)
 - [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 81 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `zig` · `zero-dependency`)
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `zig` · `architecture`)
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `zig` · `architecture`)

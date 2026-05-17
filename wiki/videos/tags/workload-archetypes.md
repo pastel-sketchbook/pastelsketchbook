@@ -2,7 +2,7 @@
 type: tag
 tags: [workload-archetypes]
 sources: 2
-updated: 2026-05-15
+updated: 2026-05-17
 ---
 
 # workload archetypes
@@ -15,4 +15,4 @@ Videos connected by the topic `workload archetypes`.
 - [The Golden Path](https://youtu.be/ORjARjbukhY) — Kubernetes · 25 views · Feb 21, 2026 · [Details](../details/ORjARjbukhY.md)
 
 ---
-*Auto-generated on May 15, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 17, 2026. Back to [topic index](index.md).*

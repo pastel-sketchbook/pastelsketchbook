@@ -32,9 +32,9 @@ Apache DataFusion is a modular, Arrow-native query engine that translates SQL an
 
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 9 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `architecture` · `query` · `engine`)
 - [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 35 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `architecture` · `query` · `engine`)
-- [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 16 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `datafusion` · `arrow` · `query`)
-- [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 11 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `architecture` · `query` · `pipeline`)
-- [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) — Development · 4.2K views · Apr 3, 2026 · [Details](54lO6XE-AeQ.md) (shared: `apache` · `architecture` · `arrow`)
+- [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 21 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `datafusion` · `arrow` · `query`)
+- [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 15 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `architecture` · `query` · `pipeline`)
+- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 6 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `architecture` · `engine` · `columnar`)
 
 ---
 *Auto-generated on May 15, 2026. Back to [development](../development.md) · [index](../index.md).*

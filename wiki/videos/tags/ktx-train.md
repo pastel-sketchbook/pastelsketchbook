@@ -2,7 +2,7 @@
 type: tag
 tags: [ktx-train]
 sources: 2
-updated: 2026-05-15
+updated: 2026-05-17
 ---
 
 # ktx train
@@ -15,4 +15,4 @@ Videos connected by the topic `ktx train`.
 - [Mi Cuaderno de Busan](https://youtu.be/vNHblhm9oQo) — Korea · 8 views · Jan 1, 2026 · [Details](../details/vNHblhm9oQo.md)
 
 ---
-*Auto-generated on May 15, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 17, 2026. Back to [topic index](index.md).*

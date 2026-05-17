@@ -38,7 +38,7 @@ Waza is a structured methodology and CLI for engineering AI agent skills under a
 ## Related Videos
 
 - [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 676 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `yaml` · `model` · `token`)
-- [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 94 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `agent` · `model` · `token`)
+- [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 96 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `agent` · `model` · `token`)
 - [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 47 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `yaml` · `model`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `model` · `web`)
 - [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 52 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `agent` · `scaffolding`)
