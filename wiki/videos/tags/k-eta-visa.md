@@ -2,7 +2,7 @@
 type: tag
 tags: [k-eta-visa]
 sources: 2
-updated: 2026-05-17
+updated: 2026-05-20
 ---
 
 # k-eta visa
@@ -15,4 +15,4 @@ Videos connected by the topic `k-eta visa`.
 - [Seúl 2026: Tu Diario de Viaje](https://youtu.be/kvdBJSRUchA) — Korea · 13 views · Feb 11, 2026 · [Details](../details/kvdBJSRUchA.md)
 
 ---
-*Auto-generated on May 17, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 20, 2026. Back to [topic index](index.md).*

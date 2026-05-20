@@ -33,8 +33,8 @@ This presentation architects a polyglot modern IDE within Emacs 29+ using evil-m
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `migration`)
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 46 views · Apr 21, 2026 · [Details](xkHQhOgapfY.md) (shared: `tree-sitter`)
 - [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 42 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `migration`)
+- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 24 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `migration`)
 - [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 209 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `migration`)
-- [Rusty Object Notation (RON)](https://youtu.be/NhYb7QkBdMs) — Development · 149 views · Apr 24, 2026 · [Details](NhYb7QkBdMs.md) (shared: `lsp`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*

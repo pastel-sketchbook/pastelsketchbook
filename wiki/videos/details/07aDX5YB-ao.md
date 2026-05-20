@@ -35,10 +35,10 @@ This presentation explains how the Tower crate enables a protocol-agnostic, modu
 
 ## Related Videos
 
-- [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 277 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `tower service trait` · `tower` · `service`)
-- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 86 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `tower` · `service` · `trait`)
+- [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 458 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `tower service trait` · `tower` · `service`)
+- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 88 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `tower` · `service` · `trait`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `tower` · `service` · `axum`)
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 48 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `tower` · `middleware` · `axum`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 50 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `tower` · `middleware` · `axum`)
 - [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 124 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `tonic` · `patterns` · `http`)
 
 ---

@@ -31,7 +31,7 @@ This video provides a guide to Google's Gemini 3.x models and the unified SDK ec
 ## Related Videos
 
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 141 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `code` · `generation`)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 157 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `code` · `generation`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 163 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `code` · `generation`)
 - [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](9oSUtndLto4.md) (shared: `models` · `context`)
 - [Building with Genkit Dart](https://youtu.be/FOkG5ScxU88) — Development · 61 views · Mar 15, 2026 · [Details](FOkG5ScxU88.md) (shared: `gemini` · `unified`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `code` · `generation`)

@@ -30,7 +30,7 @@ This Korean-language tutorial walks through building a persistent CLI todo list 
 
 ## Related Videos
 
-- [비동기 처리 - async/await](https://youtu.be/F6aMGDfVAFg) — Programming · 18 views · Jan 10, 2026 · [Details](F6aMGDfVAFg.md) (shared: `bun runtime` · `bun` · `runtime`)
+- [비동기 처리 - async/await](https://youtu.be/F6aMGDfVAFg) — Programming · 19 views · Jan 10, 2026 · [Details](F6aMGDfVAFg.md) (shared: `bun runtime` · `bun` · `runtime`)
 - [타입스크립트와 번으로 배우는 프로그래밍 1](https://youtu.be/T5FjMjTQCBI) — Programming · 78 views · Jan 10, 2026 · [Details](T5FjMjTQCBI.md) (shared: `bun runtime` · `bun` · `runtime`)
 - [알고리즘에서 코드로  TypeScript 가이드](https://youtu.be/dsxuWtfzBGI) — Programming · 13 views · Jan 14, 2026 · [Details](dsxuWtfzBGI.md) (shared: `typescript` · `korean programming tutorial` · `korean`)
 - [알고리즘 완전 정복](https://youtu.be/iEn_PMcBlDk) — Programming · 5 views · Jan 14, 2026 · [Details](iEn_PMcBlDk.md) (shared: `typescript`)

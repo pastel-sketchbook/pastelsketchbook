@@ -30,11 +30,11 @@ This video provides a technical briefing on the Rust 1.95.0 release, covering th
 
 ## Related Videos
 
+- [From 0 to N-Dimensions](https://youtu.be/6M76N3jhh1Q) — Development · 21 views · May 19, 2026 · [Details](6M76N3jhh1Q.md) (shared: `rust` · `macro` · `crate`)
 - [Pastel Market: Engineering a Unified Terminal Workspace](https://youtu.be/feWjiYzQQ-k) — Development · 41 views · Apr 19, 2026 · [Details](feWjiYzQQ-k.md) (shared: `rust` · `crate`)
-- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 88 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust`)
+- [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 4 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `rust` · `crate`)
+- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust`)
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 147 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust`)
-- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust`)
-- [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 61 views · Apr 20, 2026 · [Details](FM6zp63maS8.md) (shared: `rust`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*

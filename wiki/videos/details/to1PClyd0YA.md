@@ -30,11 +30,11 @@ This video presents a technical blueprint for using CUE (Configure Unify Execute
 
 ## Related Videos
 
-- [Bridging Helm and CUE for Deterministic Value Composition](https://youtu.be/7eoxSgjwYlM) — Kubernetes · 23 views · Feb 19, 2026 · [Details](7eoxSgjwYlM.md) (shared: `cue` · `configuration management` · `configuration`)
+- [Bridging Helm and CUE for Deterministic Value Composition](https://youtu.be/7eoxSgjwYlM) — Kubernetes · 24 views · Feb 19, 2026 · [Details](7eoxSgjwYlM.md) (shared: `cue` · `configuration management` · `configuration`)
 - [Beyond Static Configuration](https://youtu.be/okVlu1qseI4) — Kubernetes · 25 views · Feb 15, 2026 · [Details](okVlu1qseI4.md) (shared: `cue language` · `cue` · `language`)
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) — Kubernetes · 28 views · Mar 16, 2026 · [Details](LUOX5xkSyi0.md) (shared: `cue language` · `cue` · `language`)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) — Kubernetes · 25 views · Feb 21, 2026 · [Details](ORjARjbukhY.md) (shared: `kubernetes` · `platform engineering` · `platform`)
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 14 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `kubernetes` · `management`)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 15 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `kubernetes` · `management`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

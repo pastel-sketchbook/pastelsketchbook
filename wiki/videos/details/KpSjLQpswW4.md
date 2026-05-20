@@ -30,10 +30,10 @@ This video presents an architectural framework for implementing relationship-bas
 
 ## Related Videos
 
-- [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 26 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `azure kubernetes service` · `azure` · `kubernetes`)
+- [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `azure kubernetes service` · `azure` · `kubernetes`)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 23 views · Jan 14, 2026 · [Details](A4-foXsdQiA.md) (shared: `kubernetes` · `service` · `zero trust`)
 - [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) — Kubernetes · 18 views · Jan 2, 2026 · [Details](8ycnldvJmuA.md) (shared: `azure kubernetes service` · `azure` · `kubernetes`)
-- [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 46 views · Jan 16, 2026 · [Details](0U-SUJCmKAU.md) (shared: `kubernetes` · `zero trust` · `zero`)
+- [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 47 views · Jan 16, 2026 · [Details](0U-SUJCmKAU.md) (shared: `kubernetes` · `zero trust` · `zero`)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](N4nRAfBZ3BE.md) (shared: `azure kubernetes service` · `azure` · `kubernetes`)
 
 ---

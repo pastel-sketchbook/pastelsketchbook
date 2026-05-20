@@ -33,7 +33,7 @@ TigerStyle is presented as a disciplined software engineering philosophy that tr
 - [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 158 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `technical` · `debt` · `design`)
 - [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 46 views · Dec 28, 2025 · [Details](IF5sNQH-01c.md) (shared: `flow` · `design`)
 - [The Strategic Synthesis:Shift Left & Shift Right](https://youtu.be/5-ZNXQegVhs) — Development · 20 views · Feb 16, 2026 · [Details](5-ZNXQegVhs.md) (shared: `production` · `cost`)
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 66 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `performance` · `design`)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 69 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `performance` · `design`)
 - [Hardening a Prototype](https://youtu.be/DCGTYftRGWE) — Development · 23 views · Jan 25, 2026 · [Details](DCGTYftRGWE.md) (shared: `performance` · `design`)
 
 ---

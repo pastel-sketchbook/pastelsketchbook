@@ -30,7 +30,7 @@ This technical deep dive covers ScyllaDB, a high-performance NoSQL database buil
 
 ## Related Videos
 
-- [Drasi: The Future of Change-Driven Architecture](https://youtu.be/5Ztm7JNVa8E) — Kubernetes · 48 views · Feb 17, 2026 · [Details](5Ztm7JNVa8E.md) (shared: `real-time`)
+- [Drasi: The Future of Change-Driven Architecture](https://youtu.be/5Ztm7JNVa8E) — Kubernetes · 51 views · Feb 17, 2026 · [Details](5Ztm7JNVa8E.md) (shared: `real-time`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `database`)
 - [Kubernetes Version Upgrade Strategy](https://youtu.be/ftODZr2_V5Q) — Kubernetes · 29 views · Dec 26, 2025 · [Details](ftODZr2_V5Q.md) (shared: `compatibility`)
 - [The Cloud Rosetta Stone](https://youtu.be/PMgUhFxrjPc) — Kubernetes · 20 views · Apr 18, 2026 · [Details](PMgUhFxrjPc.md) (shared: `database`)

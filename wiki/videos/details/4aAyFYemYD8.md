@@ -47,7 +47,7 @@ Welcome.  Today  I  would  like  to  introduce you  to  a  powerful  architectur
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `legacy` · `modernization` · `migration`)
 - [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 2 views · Jan 6, 2026 · [Details](z_Ydy_-cI1U.md) (shared: `monolith decomposition` · `monolith` · `decomposition`)
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `pattern` · `facade`)
-- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 70 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `pattern` · `facade`)
+- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 71 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `pattern` · `facade`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `pattern`)
 
 ---

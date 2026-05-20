@@ -30,7 +30,7 @@ This video provides a technical blueprint for deploying Meilisearch on Azure Kub
 
 ## Related Videos
 
-- [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 46 views · Jan 16, 2026 · [Details](0U-SUJCmKAU.md) (shared: `kubernetes` · `zero trust` · `zero`)
+- [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 47 views · Jan 16, 2026 · [Details](0U-SUJCmKAU.md) (shared: `kubernetes` · `zero trust` · `zero`)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 21 views · Apr 1, 2026 · [Details](BiYKKVsJROk.md) (shared: `service` · `istio service mesh` · `istio`)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 13 views · Mar 10, 2026 · [Details](Hd767VA7Z-0.md) (shared: `azure kubernetes service` · `azure` · `kubernetes`)
 - [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) — Kubernetes · 30 views · Jan 27, 2026 · [Details](KpSjLQpswW4.md) (shared: `azure kubernetes service` · `azure` · `kubernetes`)

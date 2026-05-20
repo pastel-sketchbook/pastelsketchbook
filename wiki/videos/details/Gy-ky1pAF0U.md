@@ -37,9 +37,9 @@ Riverpod organizes Flutter state management into four cooperating layers — cor
 
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 36 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `architecture` · `flutter` · `state`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 34 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `architecture` · `state` · `management`)
-- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 70 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `architecture` · `async` · `dependency`)
+- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 71 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `architecture` · `async` · `dependency`)
 - [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 15 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `architecture` · `state` · `management`)
-- [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 11 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `architecture` · `taxonomy` · `flutter`)
+- [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 14 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `architecture` · `taxonomy` · `flutter`)
 
 ---
 *Auto-generated on May 17, 2026. Back to [development](../development.md) · [index](../index.md).*

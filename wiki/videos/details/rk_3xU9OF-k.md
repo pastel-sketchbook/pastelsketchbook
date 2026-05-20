@@ -33,8 +33,8 @@ This video presents the Modern Platform Framework v2.0, a blueprint for architec
 - [The Golden Path](https://youtu.be/ORjARjbukhY) — Kubernetes · 25 views · Feb 21, 2026 · [Details](ORjARjbukhY.md) (shared: `platform` · `kubernetes` · `workload archetypes`)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](N4nRAfBZ3BE.md) (shared: `kubernetes` · `event` · `hubs`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 42 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `kubernetes` · `workload` · `istio`)
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 14 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `kubernetes` · `istio`)
-- [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 26 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `kubernetes` · `istio`)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 15 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `kubernetes` · `istio`)
+- [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `kubernetes` · `istio`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

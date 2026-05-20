@@ -32,7 +32,7 @@ Leetgo is a command-line interface tool that brings LeetCode problem solving int
 
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 141 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `developer productivity` · `developer` · `productivity`)
 - [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) — Development · 4.2K views · Apr 3, 2026 · [Details](54lO6XE-AeQ.md) (shared: `context switching` · `context` · `switching`)
-- [Fuzzy Find Everything](https://youtu.be/IkVazryUiko) — Development · 56 views · Mar 4, 2026 · [Details](IkVazryUiko.md) (shared: `cli` · `productivity`)
+- [Fuzzy Find Everything](https://youtu.be/IkVazryUiko) — Development · 57 views · Mar 4, 2026 · [Details](IkVazryUiko.md) (shared: `cli` · `productivity`)
 - [Professional Al Agent Usage via the CLI](https://youtu.be/Xhq99-YHXCY) — Development · 25 views · Jan 2, 2026 · [Details](Xhq99-YHXCY.md) (shared: `cli` · `developer`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `cli` · `test`)
 

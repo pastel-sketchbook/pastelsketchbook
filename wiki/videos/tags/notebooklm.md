@@ -2,7 +2,7 @@
 type: tag
 tags: [notebooklm]
 sources: 2
-updated: 2026-05-17
+updated: 2026-05-20
 ---
 
 # notebooklm
@@ -11,8 +11,8 @@ Videos connected by the topic `notebooklm`.
 
 ## Videos
 
-- [Architecting Action: 10 NotebookLM Prompts](https://youtu.be/Wa0EHhhKV8Q) — Development · 129 views · Feb 27, 2026 · [Details](../details/Wa0EHhhKV8Q.md)
+- [Architecting Action: 10 NotebookLM Prompts](https://youtu.be/Wa0EHhhKV8Q) — Development · 132 views · Feb 27, 2026 · [Details](../details/Wa0EHhhKV8Q.md)
 - [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 46 views · Dec 28, 2025 · [Details](../details/IF5sNQH-01c.md)
 
 ---
-*Auto-generated on May 17, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 20, 2026. Back to [topic index](index.md).*

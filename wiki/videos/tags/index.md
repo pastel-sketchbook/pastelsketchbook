@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-05-17
+updated: 2026-05-20
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 157
+Total topics: 159
 
 ## Topics
 
@@ -71,6 +71,7 @@ Total topics: 157
 - [axum](axum.md) (2)
 - [axum web framework](axum-web-framework.md) (2)
 - [barbell strategy](barbell-strategy.md) (2)
+- [burn framework](burn-framework.md) (2)
 - [c interoperability](c-interoperability.md) (2)
 - [cache locality](cache-locality.md) (2)
 - [cache optimization](cache-optimization.md) (2)
@@ -143,6 +144,7 @@ Total topics: 157
 - [revsets](revsets.md) (2)
 - [risk management](risk-management.md) (2)
 - [rolling updates](rolling-updates.md) (2)
+- [rust machine learning](rust-machine-learning.md) (2)
 - [saga pattern](saga-pattern.md) (2)
 - [saml](saml.md) (2)
 - [serverless analytics](serverless-analytics.md) (2)
@@ -170,4 +172,4 @@ Total topics: 157
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on May 17, 2026. Back to [videos index](../index.md).*
+*Auto-generated on May 20, 2026. Back to [videos index](../index.md).*

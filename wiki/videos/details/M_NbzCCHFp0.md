@@ -46,10 +46,10 @@ Welcome.  Today  we  are  exploring  the orbital  compute  blueprint,  a compreh
 ## Related Videos
 
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 87 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data` · `center` · `infrastructure`)
+- [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) — Finance · 5 views · May 20, 2026 · [Details](Dx8pFmojxL4.md) (shared: `data` · `economics`)
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `infrastructure`)
 - [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `infrastructure`)
 - [The Mystery of the Nickel Coke](https://youtu.be/l9UUqD2Bz2E) — Finance · 10 views · Apr 10, 2026 · [Details](l9UUqD2Bz2E.md) (shared: `economics`)
-- [Nationwide Data Coverage & Auto-Filing Feasibility](https://youtu.be/SRwWBbsaQH4) — Finance · 13 views · May 13, 2026 · [Details](SRwWBbsaQH4.md) (shared: `data`)
 
 ---
 *Auto-generated on May 2, 2026. Back to [finance](../finance.md) · [index](../index.md).*

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-17T21:41:19.121Z",
-  "totalVideos": 333,
+  "generatedAt": "2026-05-20T23:21:17.943Z",
+  "totalVideos": 343,
   "categories": [
     {
       "name": "korea",
@@ -8,8 +8,8 @@
       "related": [
         "finance"
       ],
-      "videoCount": 17,
-      "totalViews": 213,
+      "videoCount": 20,
+      "totalViews": 228,
       "topTags": [
         {
           "tag": "viaje",
@@ -70,6 +70,213 @@
       ],
       "clusters": [],
       "videos": [
+        {
+          "id": "t-WvRifOu-E",
+          "title": "Dossier de Reubicación en Costa Rica",
+          "views": 2,
+          "date": "2026-05-20T22:22:00Z",
+          "category": "korea",
+          "detail": {
+            "summary": "This relocation dossier dismantles the idealized image of Costa Rica as an accessible paradise by exposing a 30–60% expatriate exodus rate driven by hidden cost-of-living overruns and infrastructure gaps. It walks through the legal foundations of the pensionado residency category, the DIEX process with Dirección General de Migración y Extranjería, and contrasts Costa Rica's territorial tax system — 0% income tax on foreign pensions, 13% VAT, and an annual property tax — against the U.S. worldwide model.",
+            "takeaways": [
+              "Between 30% and 60% of expatriates leave Costa Rica within their first five years, primarily due to hidden living costs and infrastructure deficiencies.",
+              "The pensionado residency requires a guaranteed lifetime pension certified by the country of origin, plus a $250 DIEX processing fee.",
+              "Supporting documents such as birth certificates and criminal records must be apostilled and no older than six months, with resolution taking three to six months.",
+              "Pensionado residency must be renewed every two years and only requires a minimum physical presence of one day per year to remain valid.",
+              "Costa Rica's territorial tax system exempts foreign-source pensions and investments from income tax while applying a 13% VAT and annual property tax locally."
+            ],
+            "topics": [
+              "costa rica relocation",
+              "pensionado residency",
+              "diex migration process",
+              "apostilled documents",
+              "territorial tax system",
+              "expatriate exodus rate",
+              "cost of living",
+              "infrastructure gaps"
+            ],
+            "related": [
+              {
+                "id": "7-mEDyQsJlI",
+                "sharedTopics": [
+                  "relocation",
+                  "residency",
+                  "tax",
+                  "system",
+                  "cost"
+                ]
+              },
+              {
+                "id": "ApeNMU7KDH0",
+                "sharedTopics": [
+                  "relocation",
+                  "pensionado",
+                  "expatriate",
+                  "living"
+                ]
+              },
+              {
+                "id": "2Ni8zfsxW6o",
+                "sharedTopics": [
+                  "migration",
+                  "system"
+                ]
+              },
+              {
+                "id": "sGQrnPJSsPc",
+                "sharedTopics": [
+                  "migration",
+                  "system"
+                ]
+              },
+              {
+                "id": "a1hIA6KQUFE",
+                "sharedTopics": [
+                  "cost"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "7-mEDyQsJlI",
+          "title": "El Plan Maestro para Mudarse a Ecuador en 2026",
+          "views": 8,
+          "date": "2026-05-19T19:20:08Z",
+          "category": "korea",
+          "detail": {
+            "summary": "A strategic, data-driven guide for expatriates planning a 2026 relocation to Ecuador, structured in three phases: vision (cultural fit and cost-of-living analysis), infrastructure (visas, real estate, tax optimization), and local reality (security, healthcare, and logistics). The session quantifies the purchasing power multiplier that lets a US-equivalent lifestyle of $5,000–$8,000 per month be sustained in Ecuador for roughly $2,300, with concrete monthly budgets benchmarked across Cuenca and Quito.",
+            "takeaways": [
+              "The expatriate journey is framed as three sequential phases — vision, infrastructure, and local reality — each with distinct decision criteria.",
+              "Ecuador delivers a 50–70% reduction in cost of living versus the United States, projecting $600,000–$900,000 in retained purchasing power over a 20-year retirement horizon.",
+              "A basic single-person budget in Cuenca lands near $1,400/month, while a comfortable couple's lifestyle in Quito's La Floresta neighborhood runs about $2,310/month.",
+              "Healthcare costs are dramatically lower, with a typical medical consultation at roughly $40 in Ecuador versus $200 in the US at comparable quality.",
+              "Successful relocation depends on operational fundamentals: visa selection, real estate strategy, tax optimization, and integration with the public IESS health system."
+            ],
+            "topics": [
+              "expat relocation planning",
+              "purchasing power multiplier",
+              "ecuador cost of living",
+              "retirement budgeting",
+              "visa and residency",
+              "real estate strategy",
+              "tax optimization",
+              "iess healthcare system"
+            ],
+            "related": [
+              {
+                "id": "t-WvRifOu-E",
+                "sharedTopics": [
+                  "relocation",
+                  "cost",
+                  "living",
+                  "residency",
+                  "tax"
+                ]
+              },
+              {
+                "id": "ApeNMU7KDH0",
+                "sharedTopics": [
+                  "relocation",
+                  "living",
+                  "visa",
+                  "real",
+                  "estate"
+                ]
+              },
+              {
+                "id": "HFmkEvxyJE4",
+                "sharedTopics": [
+                  "planning",
+                  "retirement",
+                  "strategy",
+                  "healthcare"
+                ]
+              },
+              {
+                "id": "G-vvSNwm-jE",
+                "sharedTopics": [
+                  "planning",
+                  "retirement",
+                  "strategy",
+                  "optimization"
+                ]
+              },
+              {
+                "id": "kvdBJSRUchA",
+                "sharedTopics": [
+                  "visa"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "ApeNMU7KDH0",
+          "title": "Dossier de Reubicación e Inversión: Panamá 2026",
+          "views": 4,
+          "date": "2026-05-18T17:41:31Z",
+          "category": "korea",
+          "detail": {
+            "summary": "A strategic relocation and investment briefing on Panama for 2026, framing the country as a hub of the Americas built on first-world infrastructure, a dollarized economy, and competitive migration programs. The dossier walks through quality-of-life pillars — including the expanded Panama City metro, Johns Hopkins-affiliated hospitals, and the cleanest air in Central America per IQ Air 2025 and WHO data — alongside a matrix of four destinations (Panama City, Boquete, Coronado, Bocas del Toro) tailored to professionals, retirees, and investors.",
+            "takeaways": [
+              "Panama's 2026 value proposition rests on three pillars: world-class infrastructure with metro expansion, a pristine natural environment, and economic stability via full dollarization.",
+              "The Pensionado visa remains one of the world's most competitive retirement programs, offering broad discounts on essential services for new residents.",
+              "Healthcare quality is anchored by hospitals affiliated with international institutions such as Johns Hopkins, supporting the expatriate medical safety net.",
+              "Four destination archetypes serve different profiles: Panama City for professionals and digital nomads, Boquete for retirees in a mountain climate, Coronado for beach-and-golf investors, and Bocas del Toro for hospitality entrepreneurs.",
+              "Coastal real estate remains accessible, with reference pricing of roughly $15,000 for an 1,100-square-foot apartment in the Coronado area."
+            ],
+            "topics": [
+              "panama relocation",
+              "expatriate investment",
+              "dollarized economy",
+              "pensionado visa program",
+              "panama city metro expansion",
+              "boquete mountain living",
+              "coronado beach real estate",
+              "bocas del toro hospitality"
+            ],
+            "related": [
+              {
+                "id": "7-mEDyQsJlI",
+                "sharedTopics": [
+                  "relocation",
+                  "visa",
+                  "living",
+                  "real",
+                  "estate"
+                ]
+              },
+              {
+                "id": "t-WvRifOu-E",
+                "sharedTopics": [
+                  "relocation",
+                  "expatriate",
+                  "pensionado",
+                  "living"
+                ]
+              },
+              {
+                "id": "nxuaOP3C1Ns",
+                "sharedTopics": [
+                  "city"
+                ]
+              },
+              {
+                "id": "kvdBJSRUchA",
+                "sharedTopics": [
+                  "visa"
+                ]
+              },
+              {
+                "id": "rxQvDuohbt8",
+                "sharedTopics": [
+                  "visa"
+                ]
+              }
+            ]
+          }
+        },
         {
           "id": "z76NXRg1YWs",
           "title": "El Arte de Pedir Comida en Español",
@@ -1180,7 +1387,7 @@
         {
           "id": "V2cZl5s4EKU",
           "title": "스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작",
-          "views": 26,
+          "views": 27,
           "date": "2025-12-26T23:35:15Z",
           "category": "korea",
           "detail": {
@@ -1245,12 +1452,16 @@
         "korea",
         "development"
       ],
-      "videoCount": 24,
-      "totalViews": 518,
+      "videoCount": 26,
+      "totalViews": 541,
       "topTags": [
         {
           "tag": "curiosity",
-          "count": 7
+          "count": 9
+        },
+        {
+          "tag": "mandu",
+          "count": 1
         },
         {
           "tag": "levy",
@@ -1277,6 +1488,72 @@
         {
           "name": "Architecture",
           "videos": [
+            {
+              "id": "Dx8pFmojxL4",
+              "title": "The Architecture of Al Subscriptions",
+              "views": 5,
+              "date": "2026-05-20T07:37:20Z",
+              "category": "finance",
+              "tags": [
+                "curiosity"
+              ],
+              "detail": {
+                "summary": "This talk frames AI providers as the new ISPs, where subscriptions sell cognitive capacity and context windows rather than raw bandwidth, with compute availability and rate throttling replacing physical wiring as the bottleneck. It standardizes 2026 service grades into four tiers — basic, fast ($20), gigabit ($200–$250), and business fiber ($25/seat) — and maps them onto an engine-class hierarchy from commuter models up through luxury SUV and Ferrari-class reasoning engines.",
+                "takeaways": [
+                  "AI subscriptions are repositioning intelligence and context as the new metered utility, displacing megabits-per-second as the unit consumers pay for.",
+                  "The free commuter tier is monetized indirectly through data harvesting and integrated advertising rather than direct fees.",
+                  "The $20 luxury SUV tier delivers unlimited standard use, priority peak access, web browsing, and image generation for general business workloads.",
+                  "Ferrari-class engines at $200–$1,000/month unlock deep reasoning, multi-minute thinking loops, and virtually infinite context windows for knowledge-intensive tasks.",
+                  "Business fiber plans starting at $25/seat add shared workspaces, zero data training privacy, and SOC 2 compliance for enterprise buyers."
+                ],
+                "topics": [
+                  "ai subscription tiers",
+                  "cognitive bandwidth",
+                  "context window economics",
+                  "rate throttling",
+                  "engine class hierarchy",
+                  "ferrari class reasoning",
+                  "enterprise ai compliance",
+                  "data harvesting monetization"
+                ],
+                "related": [
+                  {
+                    "id": "kQc99Io3pCo",
+                    "sharedTopics": [
+                      "context",
+                      "enterprise",
+                      "compliance",
+                      "data"
+                    ]
+                  },
+                  {
+                    "id": "M_NbzCCHFp0",
+                    "sharedTopics": [
+                      "economics",
+                      "data"
+                    ]
+                  },
+                  {
+                    "id": "MBnVggs6k5g",
+                    "sharedTopics": [
+                      "rate"
+                    ]
+                  },
+                  {
+                    "id": "l9UUqD2Bz2E",
+                    "sharedTopics": [
+                      "economics"
+                    ]
+                  },
+                  {
+                    "id": "YYVxMSqBqe8",
+                    "sharedTopics": [
+                      "compliance"
+                    ]
+                  }
+                ]
+              }
+            },
             {
               "id": "hnMR8rdGCnU",
               "title": "The Architecture of Fulfillment",
@@ -1400,9 +1677,132 @@
       ],
       "videos": [
         {
+          "id": "Dx8pFmojxL4",
+          "title": "The Architecture of Al Subscriptions",
+          "views": 5,
+          "date": "2026-05-20T07:37:20Z",
+          "category": "finance",
+          "tags": [
+            "curiosity"
+          ],
+          "detail": {
+            "summary": "This talk frames AI providers as the new ISPs, where subscriptions sell cognitive capacity and context windows rather than raw bandwidth, with compute availability and rate throttling replacing physical wiring as the bottleneck. It standardizes 2026 service grades into four tiers — basic, fast ($20), gigabit ($200–$250), and business fiber ($25/seat) — and maps them onto an engine-class hierarchy from commuter models up through luxury SUV and Ferrari-class reasoning engines.",
+            "takeaways": [
+              "AI subscriptions are repositioning intelligence and context as the new metered utility, displacing megabits-per-second as the unit consumers pay for.",
+              "The free commuter tier is monetized indirectly through data harvesting and integrated advertising rather than direct fees.",
+              "The $20 luxury SUV tier delivers unlimited standard use, priority peak access, web browsing, and image generation for general business workloads.",
+              "Ferrari-class engines at $200–$1,000/month unlock deep reasoning, multi-minute thinking loops, and virtually infinite context windows for knowledge-intensive tasks.",
+              "Business fiber plans starting at $25/seat add shared workspaces, zero data training privacy, and SOC 2 compliance for enterprise buyers."
+            ],
+            "topics": [
+              "ai subscription tiers",
+              "cognitive bandwidth",
+              "context window economics",
+              "rate throttling",
+              "engine class hierarchy",
+              "ferrari class reasoning",
+              "enterprise ai compliance",
+              "data harvesting monetization"
+            ],
+            "related": [
+              {
+                "id": "kQc99Io3pCo",
+                "sharedTopics": [
+                  "context",
+                  "enterprise",
+                  "compliance",
+                  "data"
+                ]
+              },
+              {
+                "id": "M_NbzCCHFp0",
+                "sharedTopics": [
+                  "economics",
+                  "data"
+                ]
+              },
+              {
+                "id": "MBnVggs6k5g",
+                "sharedTopics": [
+                  "rate"
+                ]
+              },
+              {
+                "id": "l9UUqD2Bz2E",
+                "sharedTopics": [
+                  "economics"
+                ]
+              },
+              {
+                "id": "YYVxMSqBqe8",
+                "sharedTopics": [
+                  "compliance"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "UorjmtDDRgQ",
+          "title": "A global geography of folded dough",
+          "views": 14,
+          "date": "2026-05-18T22:27:45Z",
+          "category": "finance",
+          "tags": [
+            "curiosity",
+            "mandu"
+          ],
+          "detail": {
+            "summary": "This talk traces the cultural and historical diffusion of folded-dough foods — from the Chinese protodumpling along the Silk Road to Central Asian manti, Himalayan momos, Eastern European pierogi, Italian tortellini, and Latin American empanadas. It frames Turkic and Mongol nomads as culinary pollinators whose movements seeded regional adaptations, and follows the linguistic drift of the proto-root *manty* across Turkish, Armenian, and Himalayan languages.",
+            "takeaways": [
+              "Folded dough functions as a near-universal comfort food whose core architecture recurs independently across East Asia, Europe, and the Americas.",
+              "The Chinese protodumpling is identified as the foundational form that traveled outward along the Silk Road to become regional specialties such as manti and mantou.",
+              "Turkic and Mongol nomadic groups acted as active agents of culinary cross-pollination, carrying recipes westward into Europe, eastward to Korea, and across Central Asia.",
+              "Mongolian buuz serves as an evolutionary branching point, splitting into westward Central Asian adaptations and eastward Korean integrations.",
+              "Linguistic anchors like the proto-root *manty* show systematic fracture and adaptation as the tradition migrated across the Eurasian continent."
+            ],
+            "topics": [
+              "folded dough geography",
+              "silk road culinary diffusion",
+              "protodumpling lineage",
+              "turkic and mongol pollinators",
+              "mongolian buuz branching",
+              "manti linguistic roots",
+              "himalayan momo",
+              "global dumpling convergence"
+            ],
+            "related": [
+              {
+                "id": "_LrmdP64y6A",
+                "sharedTopics": [
+                  "culinary"
+                ]
+              },
+              {
+                "id": "YYVxMSqBqe8",
+                "sharedTopics": [
+                  "global"
+                ]
+              },
+              {
+                "id": "hTEG3TsuUPQ",
+                "sharedTopics": [
+                  "global"
+                ]
+              },
+              {
+                "id": "5st-kLcNrE8",
+                "sharedTopics": [
+                  "branching"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "SRwWBbsaQH4",
           "title": "Nationwide Data Coverage & Auto-Filing Feasibility",
-          "views": 13,
+          "views": 14,
           "date": "2026-05-13T07:23:27Z",
           "category": "finance",
           "tags": [
@@ -1449,18 +1849,17 @@
                 ]
               },
               {
+                "id": "Dx8pFmojxL4",
+                "sharedTopics": [
+                  "data"
+                ]
+              },
+              {
                 "id": "i2YEYgVx0AA",
                 "sharedTopics": [
                   "data",
                   "integration",
                   "evidence"
-                ]
-              },
-              {
-                "id": "0HEqwk9UMOc",
-                "sharedTopics": [
-                  "automation",
-                  "generation"
                 ]
               }
             ]
@@ -1469,7 +1868,7 @@
         {
           "id": "M_NbzCCHFp0",
           "title": "The Orbital Compute Blueprint",
-          "views": 66,
+          "views": 69,
           "date": "2026-05-02T20:46:53Z",
           "category": "finance",
           "tags": [
@@ -1506,6 +1905,13 @@
                 ]
               },
               {
+                "id": "Dx8pFmojxL4",
+                "sharedTopics": [
+                  "data",
+                  "economics"
+                ]
+              },
+              {
                 "id": "2NoJVXPpcco",
                 "sharedTopics": [
                   "infrastructure"
@@ -1521,12 +1927,6 @@
                 "id": "l9UUqD2Bz2E",
                 "sharedTopics": [
                   "economics"
-                ]
-              },
-              {
-                "id": "SRwWBbsaQH4",
-                "sharedTopics": [
-                  "data"
                 ]
               }
             ]
@@ -1575,6 +1975,12 @@
                 ]
               },
               {
+                "id": "Dx8pFmojxL4",
+                "sharedTopics": [
+                  "compliance"
+                ]
+              },
+              {
                 "id": "C6wLm6NRZW4",
                 "sharedTopics": [
                   "compliance"
@@ -1582,12 +1988,6 @@
               },
               {
                 "id": "1VjSLqfPf9s",
-                "sharedTopics": [
-                  "compliance"
-                ]
-              },
-              {
-                "id": "kQc99Io3pCo",
                 "sharedTopics": [
                   "compliance"
                 ]
@@ -1755,6 +2155,12 @@
                 ]
               },
               {
+                "id": "Dx8pFmojxL4",
+                "sharedTopics": [
+                  "economics"
+                ]
+              },
+              {
                 "id": "gKYw0_jkNFI",
                 "sharedTopics": [
                   "history"
@@ -1764,12 +2170,6 @@
                 "id": "4h84JgKkt94",
                 "sharedTopics": [
                   "history"
-                ]
-              },
-              {
-                "id": "4b-H6ZaoNUE",
-                "sharedTopics": [
-                  "policy"
                 ]
               }
             ]
@@ -1999,6 +2399,12 @@
             ],
             "related": [
               {
+                "id": "UorjmtDDRgQ",
+                "sharedTopics": [
+                  "culinary"
+                ]
+              },
+              {
                 "id": "0Sed1oggMKY",
                 "sharedTopics": [
                   "architecture"
@@ -2018,12 +2424,6 @@
               },
               {
                 "id": "AcpVuvtSXwI",
-                "sharedTopics": [
-                  "architecture"
-                ]
-              },
-              {
-                "id": "_sxPf3tHq3s",
                 "sharedTopics": [
                   "architecture"
                 ]
@@ -2455,15 +2855,15 @@
                 ]
               },
               {
-                "id": "nRxqSGBuB4s",
+                "id": "Dx8pFmojxL4",
                 "sharedTopics": [
-                  "time"
+                  "rate"
                 ]
               },
               {
-                "id": "oqi_jJl3tAQ",
+                "id": "nRxqSGBuB4s",
                 "sharedTopics": [
-                  "rate"
+                  "time"
                 ]
               }
             ]
@@ -2927,12 +3327,12 @@
         "security",
         "development"
       ],
-      "videoCount": 66,
-      "totalViews": 1914,
+      "videoCount": 67,
+      "totalViews": 1967,
       "topTags": [
         {
           "tag": "aks",
-          "count": 19
+          "count": 20
         },
         {
           "tag": "kubernetes",
@@ -2953,6 +3353,10 @@
         {
           "tag": "cue",
           "count": 5
+        },
+        {
+          "tag": "go",
+          "count": 3
         },
         {
           "tag": "k8s",
@@ -3005,10 +3409,6 @@
         {
           "tag": "aws",
           "count": 2
-        },
-        {
-          "tag": "go",
-          "count": 2
         }
       ],
       "clusters": [
@@ -3016,9 +3416,80 @@
           "name": "AKS & Networking",
           "videos": [
             {
+              "id": "u_ooo1WDAc8",
+              "title": "The Complete Local Azure Environment",
+              "views": 14,
+              "date": "2026-05-16T19:38:19Z",
+              "category": "kubernetes",
+              "tags": [
+                "go",
+                "aks",
+                "emulator",
+                "kumo"
+              ],
+              "detail": {
+                "summary": "The AKS API emulator is a zero-dependency, single Go binary that replicates the AKS control plane, virtual networks, storage, and ingress locally to enable frictionless CI/CD and rapid iteration. It supports 20 providers and over 80 ARM REST endpoints, integrates with the Azure SDK for Go and Terraform, and adheres to industry mechanics like RFC 7396 patch, ETag/if-match concurrency, and long-running operations. The architecture replaces live-cloud workflows that suffer from Entra ID friction, slow feedback, and dirty state with millisecond-feedback, ephemeral local sessions.",
+                "takeaways": [
+                  "The emulator ships as a single self-contained Go binary with only Cobra and UUID as external modules, removing the need for PostgreSQL, Redis, or message queues.",
+                  "Local-first development eliminates paid Azure subscriptions and Entra ID authentication hurdles while guaranteeing a clean ephemeral state per session.",
+                  "ARM compatibility covers 20 providers and 80+ REST endpoints with full Azure SDK for Go and Terraform interoperability for infrastructure-as-code workflows.",
+                  "State management uses high-performance in-memory storage with optional JSON persistence, and concurrency is governed by ETag and if-match controls.",
+                  "Built-in chaos testing via error injection and skip-token pagination make the emulator suitable for validating resilience and large query workloads locally."
+                ],
+                "topics": [
+                  "aks api emulator",
+                  "zero dependency local azure",
+                  "single go binary",
+                  "arm rest endpoints",
+                  "rfc 7396 patch",
+                  "etag if-match concurrency",
+                  "long running operations",
+                  "terraform ready infrastructure"
+                ],
+                "related": [
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "aks",
+                      "zero",
+                      "azure"
+                    ]
+                  },
+                  {
+                    "id": "C6wLm6NRZW4",
+                    "sharedTopics": [
+                      "aks",
+                      "azure"
+                    ]
+                  },
+                  {
+                    "id": "3hSdKvqPcSE",
+                    "sharedTopics": [
+                      "aks",
+                      "terraform"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "zero",
+                      "azure"
+                    ]
+                  },
+                  {
+                    "id": "0U-SUJCmKAU",
+                    "sharedTopics": [
+                      "aks",
+                      "zero"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "4YsX6tYi5x4",
               "title": "Istio-Based Weighted Traffic Management on AKS",
-              "views": 9,
+              "views": 10,
               "date": "2026-05-06T20:43:06Z",
               "category": "kubernetes",
               "tags": [
@@ -3534,6 +4005,13 @@
                     ]
                   },
                   {
+                    "id": "u_ooo1WDAc8",
+                    "sharedTopics": [
+                      "aks",
+                      "terraform"
+                    ]
+                  },
+                  {
                     "id": "C6wLm6NRZW4",
                     "sharedTopics": [
                       "aks"
@@ -3544,12 +4022,6 @@
                     "sharedTopics": [
                       "aks"
                     ]
-                  },
-                  {
-                    "id": "y3WwL48DLYw",
-                    "sharedTopics": [
-                      "autoscaler"
-                    ]
                   }
                 ]
               }
@@ -3557,7 +4029,7 @@
             {
               "id": "MIZ0ATwu7C0",
               "title": "Architecting Meilisearch on AKS & Istio",
-              "views": 26,
+              "views": 27,
               "date": "2026-02-10T09:50:21Z",
               "category": "kubernetes",
               "tags": [
@@ -4104,7 +4576,7 @@
             {
               "id": "C5HqbzLRYZ0",
               "title": "K8s Services  AKS & Istio",
-              "views": 14,
+              "views": 15,
               "date": "2026-01-10T16:26:22Z",
               "category": "kubernetes",
               "tags": [
@@ -4488,7 +4960,7 @@
             {
               "id": "4YsX6tYi5x4",
               "title": "Istio-Based Weighted Traffic Management on AKS",
-              "views": 9,
+              "views": 10,
               "date": "2026-05-06T20:43:06Z",
               "category": "kubernetes",
               "tags": [
@@ -4816,7 +5288,7 @@
             {
               "id": "MIZ0ATwu7C0",
               "title": "Architecting Meilisearch on AKS & Istio",
-              "views": 26,
+              "views": 27,
               "date": "2026-02-10T09:50:21Z",
               "category": "kubernetes",
               "tags": [
@@ -4898,7 +5370,7 @@
             {
               "id": "0U-SUJCmKAU",
               "title": "From Stateful to Secure",
-              "views": 46,
+              "views": 47,
               "date": "2026-01-16T06:38:21Z",
               "category": "kubernetes",
               "tags": [
@@ -5141,7 +5613,7 @@
             {
               "id": "C5HqbzLRYZ0",
               "title": "K8s Services  AKS & Istio",
-              "views": 14,
+              "views": 15,
               "date": "2026-01-10T16:26:22Z",
               "category": "kubernetes",
               "tags": [
@@ -5755,7 +6227,7 @@
             {
               "id": "5Ztm7JNVa8E",
               "title": "Drasi: The Future of Change-Driven Architecture",
-              "views": 48,
+              "views": 51,
               "date": "2026-02-17T21:28:39Z",
               "category": "kubernetes",
               "tags": [
@@ -5899,12 +6371,553 @@
           ]
         },
         {
+          "name": "Go",
+          "videos": [
+            {
+              "id": "u_ooo1WDAc8",
+              "title": "The Complete Local Azure Environment",
+              "views": 14,
+              "date": "2026-05-16T19:38:19Z",
+              "category": "kubernetes",
+              "tags": [
+                "go",
+                "aks",
+                "emulator",
+                "kumo"
+              ],
+              "detail": {
+                "summary": "The AKS API emulator is a zero-dependency, single Go binary that replicates the AKS control plane, virtual networks, storage, and ingress locally to enable frictionless CI/CD and rapid iteration. It supports 20 providers and over 80 ARM REST endpoints, integrates with the Azure SDK for Go and Terraform, and adheres to industry mechanics like RFC 7396 patch, ETag/if-match concurrency, and long-running operations. The architecture replaces live-cloud workflows that suffer from Entra ID friction, slow feedback, and dirty state with millisecond-feedback, ephemeral local sessions.",
+                "takeaways": [
+                  "The emulator ships as a single self-contained Go binary with only Cobra and UUID as external modules, removing the need for PostgreSQL, Redis, or message queues.",
+                  "Local-first development eliminates paid Azure subscriptions and Entra ID authentication hurdles while guaranteeing a clean ephemeral state per session.",
+                  "ARM compatibility covers 20 providers and 80+ REST endpoints with full Azure SDK for Go and Terraform interoperability for infrastructure-as-code workflows.",
+                  "State management uses high-performance in-memory storage with optional JSON persistence, and concurrency is governed by ETag and if-match controls.",
+                  "Built-in chaos testing via error injection and skip-token pagination make the emulator suitable for validating resilience and large query workloads locally."
+                ],
+                "topics": [
+                  "aks api emulator",
+                  "zero dependency local azure",
+                  "single go binary",
+                  "arm rest endpoints",
+                  "rfc 7396 patch",
+                  "etag if-match concurrency",
+                  "long running operations",
+                  "terraform ready infrastructure"
+                ],
+                "related": [
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "aks",
+                      "zero",
+                      "azure"
+                    ]
+                  },
+                  {
+                    "id": "C6wLm6NRZW4",
+                    "sharedTopics": [
+                      "aks",
+                      "azure"
+                    ]
+                  },
+                  {
+                    "id": "3hSdKvqPcSE",
+                    "sharedTopics": [
+                      "aks",
+                      "terraform"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "zero",
+                      "azure"
+                    ]
+                  },
+                  {
+                    "id": "0U-SUJCmKAU",
+                    "sharedTopics": [
+                      "aks",
+                      "zero"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "-e7kvcUXxtw",
+              "title": "DevSecOps on Azure Kubernetes Service",
+              "views": 23,
+              "date": "2026-04-29T21:49:39Z",
+              "category": "kubernetes",
+              "tags": [
+                "shift left",
+                "governance",
+                "monitoring",
+                "security",
+                "stride"
+              ],
+              "detail": {
+                "summary": "*Transcript unavailable for this video.*",
+                "takeaways": [],
+                "topics": []
+              }
+            },
+            {
+              "id": "nomIVRSBEG4",
+              "title": "Consuming CDC with ScyllaDB",
+              "views": 76,
+              "date": "2026-04-18T04:36:03Z",
+              "category": "kubernetes",
+              "tags": [
+                "scylladb",
+                "cdc",
+                "rust",
+                "java",
+                "go"
+              ],
+              "detail": {
+                "summary": "This video presents a professional blueprint for consuming change data capture (CDC) events from ScyllaDB across three language ecosystems: Rust, Go, and Java. It examines the gap between CDC's conceptual simplicity and its operational complexity in distributed environments, demonstrating how the ScyllaDB CDC library abstracts cluster topology changes — node joins, partition splits, and shard shifts — so application code can focus on pure sequential business logic.",
+                "takeaways": [
+                  "ScyllaDB CDC generates automatic change streams when enabled on a table, consumable through language-specific drivers in Rust (Tokio-based stream processor), Go (goroutine pool event listener), and Java (Reactor Core reactive model).",
+                  "The CDC library acts as an abstraction shield that transparently manages cluster topology changes, connection errors, and shard redistribution, hiding distributed systems complexity from application code.",
+                  "Operational complexity is the core challenge: what appears as a simple one-to-one data stream requires handling node joins/leaves, partition splitting, stream synchronization, and manual error recovery without the library abstraction.",
+                  "Each language implementation offers distinct concurrency models — Rust's async Tokio runtime for low-latency processing, Go's goroutine pools for high-concurrency handling, and Java's Reactor Core for enterprise-grade reactive pipelines."
+                ],
+                "topics": [
+                  "scylladb cdc",
+                  "change data capture",
+                  "rust tokio",
+                  "go routine pool",
+                  "java reactor core",
+                  "cluster topology",
+                  "cdc library abstraction",
+                  "distributed event streaming"
+                ],
+                "related": [
+                  {
+                    "id": "tcrNdx1yH_E",
+                    "sharedTopics": [
+                      "change data capture",
+                      "change",
+                      "data",
+                      "capture",
+                      "event"
+                    ]
+                  },
+                  {
+                    "id": "KdLQEv3Tiiw",
+                    "sharedTopics": [
+                      "cdc",
+                      "change data capture",
+                      "change",
+                      "data",
+                      "capture"
+                    ]
+                  },
+                  {
+                    "id": "WRpjJV4SUKc",
+                    "sharedTopics": [
+                      "cdc",
+                      "change data capture",
+                      "change",
+                      "data",
+                      "capture"
+                    ]
+                  },
+                  {
+                    "id": "am9FvNiJ24M",
+                    "sharedTopics": [
+                      "change data capture",
+                      "change",
+                      "data",
+                      "capture",
+                      "streaming"
+                    ]
+                  },
+                  {
+                    "id": "WHonjixQgBY",
+                    "sharedTopics": [
+                      "data",
+                      "distributed"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "BiYKKVsJROk",
+              "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
+              "views": 21,
+              "date": "2026-04-01T10:26:37Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "istio",
+                "argocd",
+                "gitops",
+                "wif"
+              ],
+              "detail": {
+                "summary": "This presentation details a four-layer microservices architecture on AKS integrating Istio service mesh, Argo CD GitOps, and Azure Workload Identity Federation for zero-trust deployments. The layers stack from AKS platform and workload identity at the base, through Istio mTLS and traffic management, Argo CD automated deployment synced to git repositories, up to the application layer.",
+                "takeaways": [
+                  "The four-layer architecture stacks AKS platform, Istio service mesh, Argo CD GitOps, and microservices application for comprehensive security and automation.",
+                  "Azure Workload Identity Federation eliminates long-lived credentials by providing verified managed identity for every service.",
+                  "Istio handles mTLS for service-to-service encryption and traffic management without application code changes.",
+                  "Argo CD ensures the cluster state remains continuously synchronized with git repositories through automated GitOps deployment."
+                ],
+                "topics": [
+                  "aks",
+                  "istio service mesh",
+                  "argo cd",
+                  "gitops",
+                  "workload identity federation",
+                  "zero trust",
+                  "mutual tls"
+                ],
+                "related": [
+                  {
+                    "id": "A4-foXsdQiA",
+                    "sharedTopics": [
+                      "service",
+                      "mesh",
+                      "identity",
+                      "zero trust",
+                      "zero"
+                    ]
+                  },
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "aks",
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh",
+                      "zero trust"
+                    ]
+                  },
+                  {
+                    "id": "4b-H6ZaoNUE",
+                    "sharedTopics": [
+                      "istio",
+                      "service",
+                      "mesh",
+                      "workload",
+                      "identity"
+                    ]
+                  },
+                  {
+                    "id": "C5HqbzLRYZ0",
+                    "sharedTopics": [
+                      "aks",
+                      "istio service mesh",
+                      "istio",
+                      "service",
+                      "mesh"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "ORjARjbukhY",
+              "title": "The Golden Path",
+              "views": 25,
+              "date": "2026-02-21T10:33:08Z",
+              "category": "kubernetes",
+              "tags": [
+                "golden",
+                "deployments",
+                "tandardization"
+              ],
+              "detail": {
+                "summary": "This video presents a comprehensive architecture v2.0 blueprint for massive Kubernetes deployments organized in three concentric layers: core services/data, service mesh/orchestration, and security boundary/compliance. It advocates moving from binary public-vs-internal security categorization to a three-dimensional model that considers runtime stack, workload archetype, and blast radius. The golden path framework provides standardized platform engineering guidelines for scalable, secure infrastructure.",
+                "takeaways": [
+                  "The architecture v2.0 uses three concentric layers: core services/data, service mesh/orchestration, and security/compliance boundary.",
+                  "Binary public-vs-internal security models are inadequate; modern systems need classification by runtime stack, workload archetype, and blast radius.",
+                  "The golden path serves as a construction manual for platform engineering, ensuring consistency across large-scale Kubernetes deployments.",
+                  "Multi-dimensional workload categorization (edge, transactional, analytical, streaming, batch) replaces simplistic network zone thinking."
+                ],
+                "topics": [
+                  "platform engineering",
+                  "kubernetes architecture",
+                  "security boundaries",
+                  "service mesh",
+                  "workload archetypes",
+                  "blast radius"
+                ],
+                "related": [
+                  {
+                    "id": "rk_3xU9OF-k",
+                    "sharedTopics": [
+                      "platform",
+                      "kubernetes",
+                      "workload archetypes",
+                      "workload",
+                      "archetypes"
+                    ]
+                  },
+                  {
+                    "id": "4b-H6ZaoNUE",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "security",
+                      "service",
+                      "mesh",
+                      "workload"
+                    ]
+                  },
+                  {
+                    "id": "A4-foXsdQiA",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "security",
+                      "service mesh",
+                      "service",
+                      "mesh"
+                    ]
+                  },
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "architecture",
+                      "security",
+                      "service",
+                      "mesh",
+                      "workload"
+                    ]
+                  },
+                  {
+                    "id": "to1PClyd0YA",
+                    "sharedTopics": [
+                      "platform engineering",
+                      "platform",
+                      "engineering",
+                      "kubernetes"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "eI2DXGISpbk",
+              "title": "BadgerDB: The Go-Native Key-Value Store",
+              "views": 53,
+              "date": "2026-02-13T00:09:38Z",
+              "category": "kubernetes",
+              "tags": [
+                "go",
+                "badgerdb",
+                "key-value store"
+              ],
+              "detail": {
+                "summary": "This video introduces BadgerDB, a pure Go embeddable key-value store engineered for SSDs and built as a high-performance alternative to RocksDB. Developed by the Dgraph team to eliminate CGo bottlenecks, BadgerDB implements the WiscKey thesis of separating keys from values to reduce write amplification inherent in traditional LSM-tree stores like LevelDB and RocksDB. Now at stable v4.x, it powers petabyte-scale datasets in production environments.",
+                "takeaways": [
+                  "BadgerDB eliminates the CGo friction of integrating C++ stores like RocksDB, which causes build complexity, difficult memory profiling, and scheduler conflicts between Go and C++ threads.",
+                  "The WiscKey thesis separates keys from values during LSM-tree compaction, dramatically reducing write amplification compared to traditional stores that rewrite both together.",
+                  "Pure Go architecture provides native access to Go's profiling tools (pprof), efficient goroutine management, and fast compilation without cross-language integration overhead.",
+                  "BadgerDB v4.x already powers petabyte-scale datasets in demanding production environments, proving its reliability at scale."
+                ],
+                "topics": [
+                  "badgerdb",
+                  "lsm-tree",
+                  "wisckey thesis",
+                  "write amplification",
+                  "pure go storage",
+                  "ssd optimization",
+                  "key-value store"
+                ],
+                "related": [
+                  {
+                    "id": "a8heWpae5p0",
+                    "sharedTopics": [
+                      "key-value",
+                      "store"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "storage"
+                    ]
+                  },
+                  {
+                    "id": "0U-SUJCmKAU",
+                    "sharedTopics": [
+                      "storage"
+                    ]
+                  },
+                  {
+                    "id": "mGMaqTvWrCc",
+                    "sharedTopics": [
+                      "storage"
+                    ]
+                  },
+                  {
+                    "id": "PMgUhFxrjPc",
+                    "sharedTopics": [
+                      "storage"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "Q4qm1hvVR2A",
+              "title": "Dragonfly on AKS",
+              "views": 21,
+              "date": "2026-01-31T16:23:17Z",
+              "category": "kubernetes",
+              "tags": [
+                "kubernetes",
+                "dragonfly",
+                "performance",
+                "aeraki",
+                "aks"
+              ],
+              "detail": {
+                "summary": "This video covers deploying Dragonfly as a high-performance in-memory data store on Azure Kubernetes Service (AKS) integrated with the Istio service mesh. It highlights the \"multi-core gap\" where legacy single-threaded systems like Redis waste 31 of 32 available CPU cores, while Dragonfly's shared-nothing architecture utilizes all cores for maximum throughput. The session bridges AKS, Istio, and Dragonfly to create a scalable, high-efficiency infrastructure.",
+                "takeaways": [
+                  "Redis's single-threaded event loop creates a multi-core gap, leaving 31 of 32 cores idle on modern Azure E5v5 instances.",
+                  "Dragonfly uses a shared-nothing architecture where each thread operates independently, enabling full multi-core utilization.",
+                  "The deployment integrates Dragonfly with Istio service mesh on AKS for mTLS, traffic management, and observability.",
+                  "Moving from shared-memory structures to per-thread isolated data eliminates contention and maximizes parallel throughput."
+                ],
+                "topics": [
+                  "dragonfly db",
+                  "redis alternative",
+                  "aks deployment",
+                  "shared-nothing architecture",
+                  "multi-core utilization",
+                  "istio integration"
+                ],
+                "related": [
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "aks",
+                      "architecture",
+                      "istio"
+                    ]
+                  },
+                  {
+                    "id": "_sxPf3tHq3s",
+                    "sharedTopics": [
+                      "deployment",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "ctKLD4d146g",
+                    "sharedTopics": [
+                      "deployment",
+                      "integration"
+                    ]
+                  },
+                  {
+                    "id": "C5HqbzLRYZ0",
+                    "sharedTopics": [
+                      "aks",
+                      "istio"
+                    ]
+                  },
+                  {
+                    "id": "VxWyvAO3qb8",
+                    "sharedTopics": [
+                      "aks",
+                      "architecture"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "R2zktRqz81U",
+              "title": "A Blueprint for Secure Azure Authentication in Go",
+              "views": 18,
+              "date": "2026-01-13T00:32:55Z",
+              "category": "kubernetes",
+              "tags": [
+                "workload identity",
+                "azure",
+                "sdk"
+              ],
+              "detail": {
+                "summary": "This video provides a comprehensive guide to the Azure Identity SDK for Go, covering the full spectrum of credential types from environment-based authentication to service principal credentials, developer tool credentials, and cloud-native managed identities. It walks through selecting the appropriate credential type for development vs. production environments and implementing robust authentication between Go applications and the Azure ecosystem.",
+                "takeaways": [
+                  "The Azure Identity SDK for Go offers environment credentials, service principal credentials (client secret, certificate, assertion), developer tool credentials (Azure CLI, PowerShell, VS Code), and managed identities.",
+                  "Service principal credentials using client secret, certificate, or assertion enable secure app-to-Azure authentication for service-to-service communication.",
+                  "Developer tool credentials allow using existing Azure CLI or PowerShell login sessions during local development without separate credential management.",
+                  "Managed identities in cloud-native environments eliminate the need for stored secrets by leveraging Azure's built-in identity infrastructure."
+                ],
+                "topics": [
+                  "azure identity sdk",
+                  "go authentication",
+                  "service principals",
+                  "managed identity",
+                  "azure cli credential",
+                  "credential types"
+                ],
+                "related": [
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "azure",
+                      "identity",
+                      "authentication",
+                      "service"
+                    ]
+                  },
+                  {
+                    "id": "8ycnldvJmuA",
+                    "sharedTopics": [
+                      "azure",
+                      "service"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "azure",
+                      "service"
+                    ]
+                  },
+                  {
+                    "id": "N4nRAfBZ3BE",
+                    "sharedTopics": [
+                      "azure",
+                      "service"
+                    ]
+                  },
+                  {
+                    "id": "4b-H6ZaoNUE",
+                    "sharedTopics": [
+                      "identity",
+                      "service"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
           "name": "Messaging",
           "videos": [
             {
               "id": "V9tvg6Yg3m4",
               "title": "From Consensus Physics to Messaging Engineering",
-              "views": 17,
+              "views": 45,
               "date": "2026-05-07T22:45:08Z",
               "category": "kubernetes",
               "tags": [
@@ -6301,7 +7314,7 @@
             {
               "id": "0U-SUJCmKAU",
               "title": "From Stateful to Secure",
-              "views": 46,
+              "views": 47,
               "date": "2026-01-16T06:38:21Z",
               "category": "kubernetes",
               "tags": [
@@ -7355,7 +8368,7 @@
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 52,
+              "views": 53,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -7418,7 +8431,7 @@
             {
               "id": "MIZ0ATwu7C0",
               "title": "Architecting Meilisearch on AKS & Istio",
-              "views": 26,
+              "views": 27,
               "date": "2026-02-10T09:50:21Z",
               "category": "kubernetes",
               "tags": [
@@ -7720,482 +8733,12 @@
           ]
         },
         {
-          "name": "Go",
-          "videos": [
-            {
-              "id": "-e7kvcUXxtw",
-              "title": "DevSecOps on Azure Kubernetes Service",
-              "views": 24,
-              "date": "2026-04-29T21:49:39Z",
-              "category": "kubernetes",
-              "tags": [
-                "shift left",
-                "governance",
-                "monitoring",
-                "security",
-                "stride"
-              ],
-              "detail": {
-                "summary": "*Transcript unavailable for this video.*",
-                "takeaways": [],
-                "topics": []
-              }
-            },
-            {
-              "id": "nomIVRSBEG4",
-              "title": "Consuming CDC with ScyllaDB",
-              "views": 76,
-              "date": "2026-04-18T04:36:03Z",
-              "category": "kubernetes",
-              "tags": [
-                "scylladb",
-                "cdc",
-                "rust",
-                "java",
-                "go"
-              ],
-              "detail": {
-                "summary": "This video presents a professional blueprint for consuming change data capture (CDC) events from ScyllaDB across three language ecosystems: Rust, Go, and Java. It examines the gap between CDC's conceptual simplicity and its operational complexity in distributed environments, demonstrating how the ScyllaDB CDC library abstracts cluster topology changes — node joins, partition splits, and shard shifts — so application code can focus on pure sequential business logic.",
-                "takeaways": [
-                  "ScyllaDB CDC generates automatic change streams when enabled on a table, consumable through language-specific drivers in Rust (Tokio-based stream processor), Go (goroutine pool event listener), and Java (Reactor Core reactive model).",
-                  "The CDC library acts as an abstraction shield that transparently manages cluster topology changes, connection errors, and shard redistribution, hiding distributed systems complexity from application code.",
-                  "Operational complexity is the core challenge: what appears as a simple one-to-one data stream requires handling node joins/leaves, partition splitting, stream synchronization, and manual error recovery without the library abstraction.",
-                  "Each language implementation offers distinct concurrency models — Rust's async Tokio runtime for low-latency processing, Go's goroutine pools for high-concurrency handling, and Java's Reactor Core for enterprise-grade reactive pipelines."
-                ],
-                "topics": [
-                  "scylladb cdc",
-                  "change data capture",
-                  "rust tokio",
-                  "go routine pool",
-                  "java reactor core",
-                  "cluster topology",
-                  "cdc library abstraction",
-                  "distributed event streaming"
-                ],
-                "related": [
-                  {
-                    "id": "tcrNdx1yH_E",
-                    "sharedTopics": [
-                      "change data capture",
-                      "change",
-                      "data",
-                      "capture",
-                      "event"
-                    ]
-                  },
-                  {
-                    "id": "KdLQEv3Tiiw",
-                    "sharedTopics": [
-                      "cdc",
-                      "change data capture",
-                      "change",
-                      "data",
-                      "capture"
-                    ]
-                  },
-                  {
-                    "id": "WRpjJV4SUKc",
-                    "sharedTopics": [
-                      "cdc",
-                      "change data capture",
-                      "change",
-                      "data",
-                      "capture"
-                    ]
-                  },
-                  {
-                    "id": "am9FvNiJ24M",
-                    "sharedTopics": [
-                      "change data capture",
-                      "change",
-                      "data",
-                      "capture",
-                      "streaming"
-                    ]
-                  },
-                  {
-                    "id": "WHonjixQgBY",
-                    "sharedTopics": [
-                      "data",
-                      "distributed"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "BiYKKVsJROk",
-              "title": "Advanced Microservices Blueprint on Azure Kubernetes Service",
-              "views": 21,
-              "date": "2026-04-01T10:26:37Z",
-              "category": "kubernetes",
-              "tags": [
-                "aks",
-                "istio",
-                "argocd",
-                "gitops",
-                "wif"
-              ],
-              "detail": {
-                "summary": "This presentation details a four-layer microservices architecture on AKS integrating Istio service mesh, Argo CD GitOps, and Azure Workload Identity Federation for zero-trust deployments. The layers stack from AKS platform and workload identity at the base, through Istio mTLS and traffic management, Argo CD automated deployment synced to git repositories, up to the application layer.",
-                "takeaways": [
-                  "The four-layer architecture stacks AKS platform, Istio service mesh, Argo CD GitOps, and microservices application for comprehensive security and automation.",
-                  "Azure Workload Identity Federation eliminates long-lived credentials by providing verified managed identity for every service.",
-                  "Istio handles mTLS for service-to-service encryption and traffic management without application code changes.",
-                  "Argo CD ensures the cluster state remains continuously synchronized with git repositories through automated GitOps deployment."
-                ],
-                "topics": [
-                  "aks",
-                  "istio service mesh",
-                  "argo cd",
-                  "gitops",
-                  "workload identity federation",
-                  "zero trust",
-                  "mutual tls"
-                ],
-                "related": [
-                  {
-                    "id": "A4-foXsdQiA",
-                    "sharedTopics": [
-                      "service",
-                      "mesh",
-                      "identity",
-                      "zero trust",
-                      "zero"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "aks",
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh"
-                    ]
-                  },
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh",
-                      "zero trust"
-                    ]
-                  },
-                  {
-                    "id": "4b-H6ZaoNUE",
-                    "sharedTopics": [
-                      "istio",
-                      "service",
-                      "mesh",
-                      "workload",
-                      "identity"
-                    ]
-                  },
-                  {
-                    "id": "C5HqbzLRYZ0",
-                    "sharedTopics": [
-                      "aks",
-                      "istio service mesh",
-                      "istio",
-                      "service",
-                      "mesh"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "ORjARjbukhY",
-              "title": "The Golden Path",
-              "views": 25,
-              "date": "2026-02-21T10:33:08Z",
-              "category": "kubernetes",
-              "tags": [
-                "golden",
-                "deployments",
-                "tandardization"
-              ],
-              "detail": {
-                "summary": "This video presents a comprehensive architecture v2.0 blueprint for massive Kubernetes deployments organized in three concentric layers: core services/data, service mesh/orchestration, and security boundary/compliance. It advocates moving from binary public-vs-internal security categorization to a three-dimensional model that considers runtime stack, workload archetype, and blast radius. The golden path framework provides standardized platform engineering guidelines for scalable, secure infrastructure.",
-                "takeaways": [
-                  "The architecture v2.0 uses three concentric layers: core services/data, service mesh/orchestration, and security/compliance boundary.",
-                  "Binary public-vs-internal security models are inadequate; modern systems need classification by runtime stack, workload archetype, and blast radius.",
-                  "The golden path serves as a construction manual for platform engineering, ensuring consistency across large-scale Kubernetes deployments.",
-                  "Multi-dimensional workload categorization (edge, transactional, analytical, streaming, batch) replaces simplistic network zone thinking."
-                ],
-                "topics": [
-                  "platform engineering",
-                  "kubernetes architecture",
-                  "security boundaries",
-                  "service mesh",
-                  "workload archetypes",
-                  "blast radius"
-                ],
-                "related": [
-                  {
-                    "id": "rk_3xU9OF-k",
-                    "sharedTopics": [
-                      "platform",
-                      "kubernetes",
-                      "workload archetypes",
-                      "workload",
-                      "archetypes"
-                    ]
-                  },
-                  {
-                    "id": "4b-H6ZaoNUE",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "security",
-                      "service",
-                      "mesh",
-                      "workload"
-                    ]
-                  },
-                  {
-                    "id": "A4-foXsdQiA",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "security",
-                      "service mesh",
-                      "service",
-                      "mesh"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "architecture",
-                      "security",
-                      "service",
-                      "mesh",
-                      "workload"
-                    ]
-                  },
-                  {
-                    "id": "to1PClyd0YA",
-                    "sharedTopics": [
-                      "platform engineering",
-                      "platform",
-                      "engineering",
-                      "kubernetes"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "eI2DXGISpbk",
-              "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 52,
-              "date": "2026-02-13T00:09:38Z",
-              "category": "kubernetes",
-              "tags": [
-                "go",
-                "badgerdb",
-                "key-value store"
-              ],
-              "detail": {
-                "summary": "This video introduces BadgerDB, a pure Go embeddable key-value store engineered for SSDs and built as a high-performance alternative to RocksDB. Developed by the Dgraph team to eliminate CGo bottlenecks, BadgerDB implements the WiscKey thesis of separating keys from values to reduce write amplification inherent in traditional LSM-tree stores like LevelDB and RocksDB. Now at stable v4.x, it powers petabyte-scale datasets in production environments.",
-                "takeaways": [
-                  "BadgerDB eliminates the CGo friction of integrating C++ stores like RocksDB, which causes build complexity, difficult memory profiling, and scheduler conflicts between Go and C++ threads.",
-                  "The WiscKey thesis separates keys from values during LSM-tree compaction, dramatically reducing write amplification compared to traditional stores that rewrite both together.",
-                  "Pure Go architecture provides native access to Go's profiling tools (pprof), efficient goroutine management, and fast compilation without cross-language integration overhead.",
-                  "BadgerDB v4.x already powers petabyte-scale datasets in demanding production environments, proving its reliability at scale."
-                ],
-                "topics": [
-                  "badgerdb",
-                  "lsm-tree",
-                  "wisckey thesis",
-                  "write amplification",
-                  "pure go storage",
-                  "ssd optimization",
-                  "key-value store"
-                ],
-                "related": [
-                  {
-                    "id": "a8heWpae5p0",
-                    "sharedTopics": [
-                      "key-value",
-                      "store"
-                    ]
-                  },
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "storage"
-                    ]
-                  },
-                  {
-                    "id": "0U-SUJCmKAU",
-                    "sharedTopics": [
-                      "storage"
-                    ]
-                  },
-                  {
-                    "id": "mGMaqTvWrCc",
-                    "sharedTopics": [
-                      "storage"
-                    ]
-                  },
-                  {
-                    "id": "PMgUhFxrjPc",
-                    "sharedTopics": [
-                      "storage"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "Q4qm1hvVR2A",
-              "title": "Dragonfly on AKS",
-              "views": 21,
-              "date": "2026-01-31T16:23:17Z",
-              "category": "kubernetes",
-              "tags": [
-                "kubernetes",
-                "dragonfly",
-                "performance",
-                "aeraki",
-                "aks"
-              ],
-              "detail": {
-                "summary": "This video covers deploying Dragonfly as a high-performance in-memory data store on Azure Kubernetes Service (AKS) integrated with the Istio service mesh. It highlights the \"multi-core gap\" where legacy single-threaded systems like Redis waste 31 of 32 available CPU cores, while Dragonfly's shared-nothing architecture utilizes all cores for maximum throughput. The session bridges AKS, Istio, and Dragonfly to create a scalable, high-efficiency infrastructure.",
-                "takeaways": [
-                  "Redis's single-threaded event loop creates a multi-core gap, leaving 31 of 32 cores idle on modern Azure E5v5 instances.",
-                  "Dragonfly uses a shared-nothing architecture where each thread operates independently, enabling full multi-core utilization.",
-                  "The deployment integrates Dragonfly with Istio service mesh on AKS for mTLS, traffic management, and observability.",
-                  "Moving from shared-memory structures to per-thread isolated data eliminates contention and maximizes parallel throughput."
-                ],
-                "topics": [
-                  "dragonfly db",
-                  "redis alternative",
-                  "aks deployment",
-                  "shared-nothing architecture",
-                  "multi-core utilization",
-                  "istio integration"
-                ],
-                "related": [
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "aks",
-                      "architecture",
-                      "istio"
-                    ]
-                  },
-                  {
-                    "id": "_sxPf3tHq3s",
-                    "sharedTopics": [
-                      "deployment",
-                      "architecture"
-                    ]
-                  },
-                  {
-                    "id": "ctKLD4d146g",
-                    "sharedTopics": [
-                      "deployment",
-                      "integration"
-                    ]
-                  },
-                  {
-                    "id": "C5HqbzLRYZ0",
-                    "sharedTopics": [
-                      "aks",
-                      "istio"
-                    ]
-                  },
-                  {
-                    "id": "VxWyvAO3qb8",
-                    "sharedTopics": [
-                      "aks",
-                      "architecture"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "R2zktRqz81U",
-              "title": "A Blueprint for Secure Azure Authentication in Go",
-              "views": 18,
-              "date": "2026-01-13T00:32:55Z",
-              "category": "kubernetes",
-              "tags": [
-                "workload identity",
-                "azure",
-                "sdk"
-              ],
-              "detail": {
-                "summary": "This video provides a comprehensive guide to the Azure Identity SDK for Go, covering the full spectrum of credential types from environment-based authentication to service principal credentials, developer tool credentials, and cloud-native managed identities. It walks through selecting the appropriate credential type for development vs. production environments and implementing robust authentication between Go applications and the Azure ecosystem.",
-                "takeaways": [
-                  "The Azure Identity SDK for Go offers environment credentials, service principal credentials (client secret, certificate, assertion), developer tool credentials (Azure CLI, PowerShell, VS Code), and managed identities.",
-                  "Service principal credentials using client secret, certificate, or assertion enable secure app-to-Azure authentication for service-to-service communication.",
-                  "Developer tool credentials allow using existing Azure CLI or PowerShell login sessions during local development without separate credential management.",
-                  "Managed identities in cloud-native environments eliminate the need for stored secrets by leveraging Azure's built-in identity infrastructure."
-                ],
-                "topics": [
-                  "azure identity sdk",
-                  "go authentication",
-                  "service principals",
-                  "managed identity",
-                  "azure cli credential",
-                  "credential types"
-                ],
-                "related": [
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "azure",
-                      "identity",
-                      "authentication",
-                      "service"
-                    ]
-                  },
-                  {
-                    "id": "8ycnldvJmuA",
-                    "sharedTopics": [
-                      "azure",
-                      "service"
-                    ]
-                  },
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "azure",
-                      "service"
-                    ]
-                  },
-                  {
-                    "id": "N4nRAfBZ3BE",
-                    "sharedTopics": [
-                      "azure",
-                      "service"
-                    ]
-                  },
-                  {
-                    "id": "4b-H6ZaoNUE",
-                    "sharedTopics": [
-                      "identity",
-                      "service"
-                    ]
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
           "name": "Security",
           "videos": [
             {
               "id": "-e7kvcUXxtw",
               "title": "DevSecOps on Azure Kubernetes Service",
-              "views": 24,
+              "views": 23,
               "date": "2026-04-29T21:49:39Z",
               "category": "kubernetes",
               "tags": [
@@ -8458,7 +9001,7 @@
             {
               "id": "0U-SUJCmKAU",
               "title": "From Stateful to Secure",
-              "views": 46,
+              "views": 47,
               "date": "2026-01-16T06:38:21Z",
               "category": "kubernetes",
               "tags": [
@@ -9071,7 +9614,7 @@
             {
               "id": "7eoxSgjwYlM",
               "title": "Bridging Helm and CUE for Deterministic Value Composition",
-              "views": 23,
+              "views": 24,
               "date": "2026-02-19T13:24:37Z",
               "category": "kubernetes",
               "tags": [
@@ -9830,7 +10373,7 @@
             {
               "id": "7eoxSgjwYlM",
               "title": "Bridging Helm and CUE for Deterministic Value Composition",
-              "views": 23,
+              "views": 24,
               "date": "2026-02-19T13:24:37Z",
               "category": "kubernetes",
               "tags": [
@@ -10528,6 +11071,77 @@
       ],
       "videos": [
         {
+          "id": "u_ooo1WDAc8",
+          "title": "The Complete Local Azure Environment",
+          "views": 14,
+          "date": "2026-05-16T19:38:19Z",
+          "category": "kubernetes",
+          "tags": [
+            "go",
+            "aks",
+            "emulator",
+            "kumo"
+          ],
+          "detail": {
+            "summary": "The AKS API emulator is a zero-dependency, single Go binary that replicates the AKS control plane, virtual networks, storage, and ingress locally to enable frictionless CI/CD and rapid iteration. It supports 20 providers and over 80 ARM REST endpoints, integrates with the Azure SDK for Go and Terraform, and adheres to industry mechanics like RFC 7396 patch, ETag/if-match concurrency, and long-running operations. The architecture replaces live-cloud workflows that suffer from Entra ID friction, slow feedback, and dirty state with millisecond-feedback, ephemeral local sessions.",
+            "takeaways": [
+              "The emulator ships as a single self-contained Go binary with only Cobra and UUID as external modules, removing the need for PostgreSQL, Redis, or message queues.",
+              "Local-first development eliminates paid Azure subscriptions and Entra ID authentication hurdles while guaranteeing a clean ephemeral state per session.",
+              "ARM compatibility covers 20 providers and 80+ REST endpoints with full Azure SDK for Go and Terraform interoperability for infrastructure-as-code workflows.",
+              "State management uses high-performance in-memory storage with optional JSON persistence, and concurrency is governed by ETag and if-match controls.",
+              "Built-in chaos testing via error injection and skip-token pagination make the emulator suitable for validating resilience and large query workloads locally."
+            ],
+            "topics": [
+              "aks api emulator",
+              "zero dependency local azure",
+              "single go binary",
+              "arm rest endpoints",
+              "rfc 7396 patch",
+              "etag if-match concurrency",
+              "long running operations",
+              "terraform ready infrastructure"
+            ],
+            "related": [
+              {
+                "id": "rgY4KTMFOMs",
+                "sharedTopics": [
+                  "aks",
+                  "zero",
+                  "azure"
+                ]
+              },
+              {
+                "id": "C6wLm6NRZW4",
+                "sharedTopics": [
+                  "aks",
+                  "azure"
+                ]
+              },
+              {
+                "id": "3hSdKvqPcSE",
+                "sharedTopics": [
+                  "aks",
+                  "terraform"
+                ]
+              },
+              {
+                "id": "MIZ0ATwu7C0",
+                "sharedTopics": [
+                  "zero",
+                  "azure"
+                ]
+              },
+              {
+                "id": "0U-SUJCmKAU",
+                "sharedTopics": [
+                  "aks",
+                  "zero"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "WrZN5AgpaW4",
           "title": "The Anatomy of Kubernetes",
           "views": 26,
@@ -10603,7 +11217,7 @@
         {
           "id": "V9tvg6Yg3m4",
           "title": "From Consensus Physics to Messaging Engineering",
-          "views": 17,
+          "views": 45,
           "date": "2026-05-07T22:45:08Z",
           "category": "kubernetes",
           "tags": [
@@ -10680,7 +11294,7 @@
         {
           "id": "4YsX6tYi5x4",
           "title": "Istio-Based Weighted Traffic Management on AKS",
-          "views": 9,
+          "views": 10,
           "date": "2026-05-06T20:43:06Z",
           "category": "kubernetes",
           "tags": [
@@ -10764,7 +11378,7 @@
         {
           "id": "-e7kvcUXxtw",
           "title": "DevSecOps on Azure Kubernetes Service",
-          "views": 24,
+          "views": 23,
           "date": "2026-04-29T21:49:39Z",
           "category": "kubernetes",
           "tags": [
@@ -10935,7 +11549,7 @@
         {
           "id": "2ksi8K7wg3I",
           "title": "Kubernetes 1.36 (Haru)",
-          "views": 50,
+          "views": 53,
           "date": "2026-04-23T22:03:32Z",
           "category": "kubernetes",
           "tags": [
@@ -13012,6 +13626,13 @@
                 ]
               },
               {
+                "id": "u_ooo1WDAc8",
+                "sharedTopics": [
+                  "aks",
+                  "terraform"
+                ]
+              },
+              {
                 "id": "C6wLm6NRZW4",
                 "sharedTopics": [
                   "aks"
@@ -13021,12 +13642,6 @@
                 "id": "C5HqbzLRYZ0",
                 "sharedTopics": [
                   "aks"
-                ]
-              },
-              {
-                "id": "y3WwL48DLYw",
-                "sharedTopics": [
-                  "autoscaler"
                 ]
               }
             ]
@@ -13313,7 +13928,7 @@
         {
           "id": "7eoxSgjwYlM",
           "title": "Bridging Helm and CUE for Deterministic Value Composition",
-          "views": 23,
+          "views": 24,
           "date": "2026-02-19T13:24:37Z",
           "category": "kubernetes",
           "tags": [
@@ -13388,7 +14003,7 @@
         {
           "id": "5Ztm7JNVa8E",
           "title": "Drasi: The Future of Change-Driven Architecture",
-          "views": 48,
+          "views": 51,
           "date": "2026-02-17T21:28:39Z",
           "category": "kubernetes",
           "tags": [
@@ -13614,7 +14229,7 @@
         {
           "id": "eI2DXGISpbk",
           "title": "BadgerDB: The Go-Native Key-Value Store",
-          "views": 52,
+          "views": 53,
           "date": "2026-02-13T00:09:38Z",
           "category": "kubernetes",
           "tags": [
@@ -13677,7 +14292,7 @@
         {
           "id": "MIZ0ATwu7C0",
           "title": "Architecting Meilisearch on AKS & Istio",
-          "views": 26,
+          "views": 27,
           "date": "2026-02-10T09:50:21Z",
           "category": "kubernetes",
           "tags": [
@@ -14278,7 +14893,7 @@
         {
           "id": "0U-SUJCmKAU",
           "title": "From Stateful to Secure",
-          "views": 46,
+          "views": 47,
           "date": "2026-01-16T06:38:21Z",
           "category": "kubernetes",
           "tags": [
@@ -14891,7 +15506,7 @@
         {
           "id": "C5HqbzLRYZ0",
           "title": "K8s Services  AKS & Istio",
-          "views": 14,
+          "views": 15,
           "date": "2026-01-10T16:26:22Z",
           "category": "kubernetes",
           "tags": [
@@ -15347,12 +15962,12 @@
         "programming",
         "security"
       ],
-      "videoCount": 205,
-      "totalViews": 24035,
+      "videoCount": 209,
+      "totalViews": 24917,
       "topTags": [
         {
           "tag": "rust",
-          "count": 51
+          "count": 55
         },
         {
           "tag": "zig",
@@ -15415,6 +16030,10 @@
           "count": 6
         },
         {
+          "tag": "ml",
+          "count": 5
+        },
+        {
           "tag": "tauri",
           "count": 5
         },
@@ -15425,10 +16044,6 @@
         {
           "tag": "orm",
           "count": 4
-        },
-        {
-          "tag": "python",
-          "count": 4
         }
       ],
       "clusters": [
@@ -15436,9 +16051,307 @@
           "name": "Rust",
           "videos": [
             {
+              "id": "kSQtbPEtDkY",
+              "title": "The Architecture of tracel-ai/models",
+              "views": 1,
+              "date": "2026-05-20T22:58:18Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ml",
+                "models"
+              ],
+              "detail": {
+                "summary": "This presentation tours the architecture of the `tracel-ai/models` repository, a 98.6% Rust-native deep learning collection built on top of the Burn framework. It walks through the official and community-contributed model catalog across text/NLP, computer vision, and audio/speech, highlighting how architectures like Albert, Llama, MobileNetV2, SqueezeNet, ResNet, YOLOx, and Whisper are implemented natively in Burn. The talk frames Burn as a flexible, high-performance backend for portable, hardware-agnostic model deployment.",
+                "takeaways": [
+                  "The `tracel-ai/models` repository is a Rust-native deep learning ecosystem (362 stars, 62 forks, 24 contributors) with only 1.4% Python code, demonstrating Burn's viability as a pure-Rust ML stack.",
+                  "Models are organized into three primary domains — text/NLP, computer vision, and audio/speech — with a clear split between an official collection and community contributions.",
+                  "The official vision lineup spans a compact-to-complex spectrum: SqueezeNet for constrained devices, MobileNetV2 for mobile classification, ResNet for high-accuracy classification, and YOLOx for real-time object detection.",
+                  "Text and NLP support centers on foundational transformer architectures such as Albert, Llama, MiniLM, and RoBERTa, extended by the community with Llama 2, RWKV v7, and Craft.",
+                  "Audio and speech coverage is community-driven, providing native Burn implementations of Whisper, Whisper Live, Chord Speech Aligner, and Wav2Vec 2.0 ahead of an official collection."
+                ],
+                "topics": [
+                  "burn framework",
+                  "rust-native deep learning",
+                  "model zoo architecture",
+                  "computer vision models",
+                  "transformer nlp models",
+                  "speech recognition models",
+                  "mobile-optimized inference",
+                  "community model contributions"
+                ],
+                "related": [
+                  {
+                    "id": "htpvlYnX77w",
+                    "sharedTopics": [
+                      "burn framework",
+                      "burn",
+                      "framework",
+                      "learning"
+                    ]
+                  },
+                  {
+                    "id": "joYJ6rPN3UI",
+                    "sharedTopics": [
+                      "deep",
+                      "learning",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "AcpVuvtSXwI",
+                    "sharedTopics": [
+                      "architecture",
+                      "transformer"
+                    ]
+                  },
+                  {
+                    "id": "7yqkfHo8Mwk",
+                    "sharedTopics": [
+                      "model",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "9oSUtndLto4",
+                    "sharedTopics": [
+                      "model",
+                      "models"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "KR188eZ9gRE",
+              "title": "Blueprinting Machine Learning in Rust",
+              "views": 4,
+              "date": "2026-05-20T15:26:31Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ml",
+                "book"
+              ],
+              "detail": {
+                "summary": "This session is a visual syllabus for integrating machine learning and data science directly into the Rust ecosystem, drawing from the Rust machine learning book. It frames Rust's memory safety, execution speed, and strict compilation as foundations for reliable ML systems, and it addresses two distinct audiences: ML practitioners learning Rust syntax and crates, and Rustaceans learning core ML algorithms and data science paradigms.",
+                "takeaways": [
+                  "Rust's systems-level guarantees — memory safety, execution speed, and strict compilation — make it a strong substrate for robust and efficient machine learning applications.",
+                  "The curriculum bridges two audiences by anchoring Rust concepts in familiar ML workflows for practitioners and grounding ML algorithms in idiomatic Rust for systems programmers.",
+                  "Four foundational Rust pillars are essential preparation: ownership, error handling with `Result` and `Option`, functional features like iterators and closures, and crate ecosystem navigation.",
+                  "Mastery of these Rust fundamentals is recommended but not strictly required, with The Rust Programming Language book suggested as a prerequisite reading for beginners.",
+                  "Deep mathematical mastery is not assumed; the material targets a pragmatic baseline of ML mathematical knowledge sufficient to implement algorithms natively in Rust."
+                ],
+                "topics": [
+                  "rust machine learning",
+                  "data science in rust",
+                  "ownership and memory safety",
+                  "result and option error handling",
+                  "iterators and closures",
+                  "crate ecosystem",
+                  "neural networks",
+                  "systems-level programming"
+                ],
+                "related": [
+                  {
+                    "id": "43UjmZtW2JU",
+                    "sharedTopics": [
+                      "rust",
+                      "ownership",
+                      "memory",
+                      "safety"
+                    ]
+                  },
+                  {
+                    "id": "ZlEq2jFb8tI",
+                    "sharedTopics": [
+                      "rust",
+                      "error",
+                      "handling",
+                      "ecosystem"
+                    ]
+                  },
+                  {
+                    "id": "yOOQNnaOLeM",
+                    "sharedTopics": [
+                      "rust",
+                      "learning",
+                      "memory",
+                      "programming"
+                    ]
+                  },
+                  {
+                    "id": "axvxGj3yOgA",
+                    "sharedTopics": [
+                      "rust",
+                      "ownership",
+                      "memory",
+                      "programming"
+                    ]
+                  },
+                  {
+                    "id": "htpvlYnX77w",
+                    "sharedTopics": [
+                      "rust machine learning",
+                      "rust",
+                      "machine",
+                      "learning"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "6M76N3jhh1Q",
+              "title": "From 0 to N-Dimensions",
+              "views": 21,
+              "date": "2026-05-19T21:59:19Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ml",
+                "ndarray"
+              ],
+              "detail": {
+                "summary": "This session deconstructs the architecture of Rust's `ndarray` crate, explaining how it manages memory, indexing, and performance across arbitrary dimensions. It walks through fixed-data initialization with the `array!` macro, type-explicit allocation via turbofish syntax (`::<f64, _>`), and structured builders like `from_elem`, `linspace`, and the identity matrix constructor. The talk frames these primitives as the foundation for numerical simulations and high-performance data pipelines in systems programming.",
+                "takeaways": [
+                  "The `array!` macro maps nested brackets directly to rows and columns, producing a 2D matrix like the 2x3 example from `[[1,2,3],[4,5,6]]`.",
+                  "Allocating empty arrays with `Array::zeros` requires turbofish annotation such as `::<f64, _>` so the compiler can infer both element type and dimensionality.",
+                  "Dimension parameters like `(3, 2, 4)` map directly to depth and horizontal axes, letting Rust's type system catch shape errors at compile time.",
+                  "The `from_elem` builder produces uniform blocks (e.g., a 2x2 matrix filled with ones), while `linspace(0., 5., 11)` generates evenly spaced intervals for signal processing and visualization.",
+                  "The `eye(n)` constructor instantly creates an n×n identity matrix for linear algebra workloads, and the `s![..]` slice macro defines bounded view windows into multi-dimensional data."
+                ],
+                "topics": [
+                  "ndarray crate",
+                  "n-dimensional arrays",
+                  "array macro initialization",
+                  "turbofish type annotations",
+                  "linspace and from_elem builders",
+                  "identity matrix construction",
+                  "slice view windows",
+                  "rust numerical computing"
+                ],
+                "related": [
+                  {
+                    "id": "htpvlYnX77w",
+                    "sharedTopics": [
+                      "ndarray",
+                      "rust",
+                      "numerical",
+                      "computing"
+                    ]
+                  },
+                  {
+                    "id": "izLrX-02IQk",
+                    "sharedTopics": [
+                      "crate",
+                      "macro",
+                      "rust"
+                    ]
+                  },
+                  {
+                    "id": "h31-NtagNoU",
+                    "sharedTopics": [
+                      "arrays",
+                      "array"
+                    ]
+                  },
+                  {
+                    "id": "DIMW-iHlDxE",
+                    "sharedTopics": [
+                      "type",
+                      "rust"
+                    ]
+                  },
+                  {
+                    "id": "J4iGUAXcAOA",
+                    "sharedTopics": [
+                      "type",
+                      "rust"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "htpvlYnX77w",
+              "title": "Mastering Machine Learning in Rust",
+              "views": 24,
+              "date": "2026-05-19T06:00:38Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ml",
+                "burn"
+              ],
+              "detail": {
+                "summary": "A self-guided roadmap for mastering machine learning in Rust, centered on the Burn framework and its surrounding ecosystem. The session frames Rust's memory safety, performance, and fearless concurrency as differentiators for ML, while acknowledging that learners must rely on official documentation, community blogs, and code reading rather than mainstream courses. It surveys foundational crates (ndarray, Linfa, smartcore) and core deep learning frameworks (Burn and Candle) with their PyTorch/NumPy/scikit-learn equivalents.",
+                "takeaways": [
+                  "The Burn Book is positioned as the official textbook and the primary path to complete framework mastery.",
+                  "Foundational numerical and traditional ML work in Rust maps to `ndarray` (NumPy), `Linfa` (scikit-learn), and `smartcore` (scikit-learn) as stepping stones before deep learning.",
+                  "Burn is a fully Rust-native deep learning framework covering the full model lifecycle from custom training loops to multi-backend inference deployment.",
+                  "Candle, from Hugging Face, complements Burn as a minimalist framework valued for educational insight and lightweight inference.",
+                  "Mastery requires reading the Burn and Candle code bases directly to internalize typed-driven machine learning patterns."
+                ],
+                "topics": [
+                  "burn framework",
+                  "rust machine learning",
+                  "candle framework",
+                  "ndarray numerical computing",
+                  "linfa traditional ml",
+                  "smartcore algorithms",
+                  "pytorch to rust migration",
+                  "typed-driven ml"
+                ],
+                "related": [
+                  {
+                    "id": "kSQtbPEtDkY",
+                    "sharedTopics": [
+                      "burn framework",
+                      "burn",
+                      "framework",
+                      "learning"
+                    ]
+                  },
+                  {
+                    "id": "KR188eZ9gRE",
+                    "sharedTopics": [
+                      "rust machine learning",
+                      "rust",
+                      "machine",
+                      "learning"
+                    ]
+                  },
+                  {
+                    "id": "6M76N3jhh1Q",
+                    "sharedTopics": [
+                      "rust",
+                      "ndarray",
+                      "numerical",
+                      "computing"
+                    ]
+                  },
+                  {
+                    "id": "yOOQNnaOLeM",
+                    "sharedTopics": [
+                      "rust",
+                      "learning"
+                    ]
+                  },
+                  {
+                    "id": "js95nIDeA-c",
+                    "sharedTopics": [
+                      "framework",
+                      "rust"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "ytA6gw6Tgaw",
               "title": "SlideVoice Studio Desktop Shell Architecture",
-              "views": 2,
+              "views": 29,
               "date": "2026-05-17T18:33:33Z",
               "category": "development",
               "tags": [
@@ -15511,7 +16424,7 @@
             {
               "id": "9HUPNhA3OrI",
               "title": "The Tokio Architecture Blueprint",
-              "views": 33,
+              "views": 50,
               "date": "2026-05-15T21:12:14Z",
               "category": "development",
               "tags": [
@@ -15668,7 +16581,7 @@
             {
               "id": "n9Ebc-0E478",
               "title": "Building the Multimodal Al Lakehouse",
-              "views": 21,
+              "views": 20,
               "date": "2026-05-14T12:06:25Z",
               "category": "development",
               "tags": [
@@ -15820,7 +16733,7 @@
             {
               "id": "B81dHVYOYJA",
               "title": "Inside the Typst Compiler Engine",
-              "views": 38,
+              "views": 56,
               "date": "2026-05-11T00:02:22Z",
               "category": "development",
               "tags": [
@@ -15891,7 +16804,7 @@
             {
               "id": "8PaVKQoDReY",
               "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-              "views": 37,
+              "views": 54,
               "date": "2026-05-09T22:08:03Z",
               "category": "development",
               "tags": [
@@ -15973,7 +16886,7 @@
             {
               "id": "qAHyv6G3a7M",
               "title": "Building the Unified Rust Backend",
-              "views": 277,
+              "views": 458,
               "date": "2026-05-09T07:32:42Z",
               "category": "development",
               "tags": [
@@ -16061,7 +16974,7 @@
             {
               "id": "_bFOZ51Q55Y",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 745,
+              "views": 988,
               "date": "2026-05-09T02:40:33Z",
               "category": "development",
               "tags": [
@@ -16141,7 +17054,7 @@
             {
               "id": "SuuZW_fuEFc",
               "title": "rr-mailtrap: The Developer's SMTP Sandbox",
-              "views": 16,
+              "views": 24,
               "date": "2026-05-08T17:38:27Z",
               "category": "development",
               "tags": [
@@ -16301,7 +17214,7 @@
             {
               "id": "d1MH4nza95g",
               "title": "Tracing Asynchronous Rust",
-              "views": 93,
+              "views": 97,
               "date": "2026-05-03T16:24:44Z",
               "category": "development",
               "tags": [
@@ -16381,7 +17294,7 @@
             {
               "id": "07aDX5YB-ao",
               "title": "Modular Networking Architecture in Rust",
-              "views": 51,
+              "views": 57,
               "date": "2026-05-03T06:22:41Z",
               "category": "development",
               "tags": [
@@ -16464,7 +17377,7 @@
             {
               "id": "DwAOCljoNoc",
               "title": "Hyper: The Foundation of Fast HTTP in Rust",
-              "views": 86,
+              "views": 88,
               "date": "2026-05-02T18:35:37Z",
               "category": "development",
               "tags": [
@@ -16628,7 +17541,7 @@
             {
               "id": "J4iGUAXcAOA",
               "title": "The Axum Web Framework",
-              "views": 48,
+              "views": 50,
               "date": "2026-05-01T22:55:53Z",
               "category": "development",
               "tags": [
@@ -16708,7 +17621,7 @@
             {
               "id": "EWwk29GzHgg",
               "title": "Architecting the Next Evolution of the Local Database",
-              "views": 127,
+              "views": 129,
               "date": "2026-04-27T08:39:23Z",
               "category": "development",
               "tags": [
@@ -16865,7 +17778,7 @@
             {
               "id": "NhYb7QkBdMs",
               "title": "Rusty Object Notation (RON)",
-              "views": 149,
+              "views": 150,
               "date": "2026-04-24T06:12:06Z",
               "category": "development",
               "tags": [
@@ -17065,15 +17978,17 @@
                     ]
                   },
                   {
-                    "id": "0Sed1oggMKY",
+                    "id": "KR188eZ9gRE",
                     "sharedTopics": [
-                      "rust"
+                      "rust",
+                      "crate"
                     ]
                   },
                   {
-                    "id": "90hw9qwXbbw",
+                    "id": "6M76N3jhh1Q",
                     "sharedTopics": [
-                      "rust"
+                      "rust",
+                      "crate"
                     ]
                   }
                 ]
@@ -17082,7 +17997,7 @@
             {
               "id": "izLrX-02IQk",
               "title": "Rust 1.95.0",
-              "views": 209,
+              "views": 211,
               "date": "2026-04-18T20:42:55Z",
               "category": "development",
               "tags": [
@@ -17111,7 +18026,22 @@
                 ],
                 "related": [
                   {
+                    "id": "6M76N3jhh1Q",
+                    "sharedTopics": [
+                      "rust",
+                      "macro",
+                      "crate"
+                    ]
+                  },
+                  {
                     "id": "feWjiYzQQ-k",
+                    "sharedTopics": [
+                      "rust",
+                      "crate"
+                    ]
+                  },
+                  {
+                    "id": "KR188eZ9gRE",
                     "sharedTopics": [
                       "rust",
                       "crate"
@@ -17125,18 +18055,6 @@
                   },
                   {
                     "id": "90hw9qwXbbw",
-                    "sharedTopics": [
-                      "rust"
-                    ]
-                  },
-                  {
-                    "id": "43UjmZtW2JU",
-                    "sharedTopics": [
-                      "rust"
-                    ]
-                  },
-                  {
-                    "id": "FM6zp63maS8",
                     "sharedTopics": [
                       "rust"
                     ]
@@ -17223,7 +18141,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4172,
+              "views": 4178,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -17456,7 +18374,7 @@
             {
               "id": "vep9hSKc9I0",
               "title": "Dial9 Demo - Deep Observability in Async Rust",
-              "views": 112,
+              "views": 115,
               "date": "2026-03-22T10:40:21Z",
               "category": "development",
               "tags": [
@@ -17534,7 +18452,7 @@
             {
               "id": "lY5TU8qHduM",
               "title": "The Flight Recorder for Tokio",
-              "views": 27,
+              "views": 28,
               "date": "2026-03-20T22:45:15Z",
               "category": "development",
               "tags": [
@@ -17684,7 +18602,7 @@
             {
               "id": "_zJ3_d1CODg",
               "title": "Bevy-Demo",
-              "views": 138,
+              "views": 141,
               "date": "2026-03-19T00:18:34Z",
               "category": "development",
               "tags": [
@@ -17756,7 +18674,7 @@
             {
               "id": "DIMW-iHlDxE",
               "title": "Mastering Comprehensive Rust",
-              "views": 71,
+              "views": 72,
               "date": "2026-03-11T22:16:29Z",
               "category": "development",
               "tags": [
@@ -18121,7 +19039,7 @@
             {
               "id": "Th5MMOFQbh8",
               "title": "Backend Patterns in Rust",
-              "views": 45,
+              "views": 47,
               "date": "2026-02-23T03:44:24Z",
               "category": "development",
               "tags": [
@@ -18203,7 +19121,7 @@
             {
               "id": "SpNfrWmI8iE",
               "title": "Architecting Scalable Rust Backends",
-              "views": 70,
+              "views": 71,
               "date": "2026-02-22T10:43:18Z",
               "category": "development",
               "tags": [
@@ -18283,7 +19201,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 110,
+              "views": 114,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -18347,7 +19265,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 422,
+              "views": 434,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -18403,19 +19321,20 @@
                     ]
                   },
                   {
+                    "id": "KR188eZ9gRE",
+                    "sharedTopics": [
+                      "rust",
+                      "learning",
+                      "safety",
+                      "data"
+                    ]
+                  },
+                  {
                     "id": "RDa6WtZmW8E",
                     "sharedTopics": [
                       "rust",
                       "compile-time",
                       "data"
-                    ]
-                  },
-                  {
-                    "id": "Th5MMOFQbh8",
-                    "sharedTopics": [
-                      "rust",
-                      "architecture",
-                      "backend"
                     ]
                   }
                 ]
@@ -18493,7 +19412,7 @@
             {
               "id": "0Sed1oggMKY",
               "title": "Tokio: The Asynchronous Runtime for Rust",
-              "views": 88,
+              "views": 89,
               "date": "2026-02-08T20:27:32Z",
               "category": "development",
               "tags": [
@@ -18609,6 +19528,15 @@
                     ]
                   },
                   {
+                    "id": "KR188eZ9gRE",
+                    "sharedTopics": [
+                      "rust",
+                      "error",
+                      "ecosystem",
+                      "handling"
+                    ]
+                  },
+                  {
                     "id": "vep9hSKc9I0",
                     "sharedTopics": [
                       "rust",
@@ -18629,13 +19557,6 @@
                       "tracing",
                       "observability"
                     ]
-                  },
-                  {
-                    "id": "J4iGUAXcAOA",
-                    "sharedTopics": [
-                      "rust",
-                      "lifecycle"
-                    ]
                   }
                 ]
               }
@@ -18643,7 +19564,7 @@
             {
               "id": "d_0swhS1LyQ",
               "title": "Neural TTS in Pastel-HN",
-              "views": 45,
+              "views": 46,
               "date": "2026-02-01T12:24:48Z",
               "category": "development",
               "tags": [
@@ -18717,7 +19638,7 @@
             {
               "id": "RDa6WtZmW8E",
               "title": "Mastering Serde in Rust ",
-              "views": 47,
+              "views": 49,
               "date": "2026-01-29T05:20:28Z",
               "category": "development",
               "tags": [
@@ -18857,9 +19778,10 @@
                     ]
                   },
                   {
-                    "id": "DIMW-iHlDxE",
+                    "id": "KR188eZ9gRE",
                     "sharedTopics": [
                       "rust",
+                      "ownership",
                       "safety",
                       "memory"
                     ]
@@ -19484,7 +20406,7 @@
             {
               "id": "axvxGj3yOgA",
               "title": "The Memory Management Trilemma",
-              "views": 31,
+              "views": 32,
               "date": "2026-01-07T03:10:14Z",
               "category": "development",
               "tags": [
@@ -19566,9 +20488,307 @@
           "name": "AI & ML",
           "videos": [
             {
+              "id": "kSQtbPEtDkY",
+              "title": "The Architecture of tracel-ai/models",
+              "views": 1,
+              "date": "2026-05-20T22:58:18Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ml",
+                "models"
+              ],
+              "detail": {
+                "summary": "This presentation tours the architecture of the `tracel-ai/models` repository, a 98.6% Rust-native deep learning collection built on top of the Burn framework. It walks through the official and community-contributed model catalog across text/NLP, computer vision, and audio/speech, highlighting how architectures like Albert, Llama, MobileNetV2, SqueezeNet, ResNet, YOLOx, and Whisper are implemented natively in Burn. The talk frames Burn as a flexible, high-performance backend for portable, hardware-agnostic model deployment.",
+                "takeaways": [
+                  "The `tracel-ai/models` repository is a Rust-native deep learning ecosystem (362 stars, 62 forks, 24 contributors) with only 1.4% Python code, demonstrating Burn's viability as a pure-Rust ML stack.",
+                  "Models are organized into three primary domains — text/NLP, computer vision, and audio/speech — with a clear split between an official collection and community contributions.",
+                  "The official vision lineup spans a compact-to-complex spectrum: SqueezeNet for constrained devices, MobileNetV2 for mobile classification, ResNet for high-accuracy classification, and YOLOx for real-time object detection.",
+                  "Text and NLP support centers on foundational transformer architectures such as Albert, Llama, MiniLM, and RoBERTa, extended by the community with Llama 2, RWKV v7, and Craft.",
+                  "Audio and speech coverage is community-driven, providing native Burn implementations of Whisper, Whisper Live, Chord Speech Aligner, and Wav2Vec 2.0 ahead of an official collection."
+                ],
+                "topics": [
+                  "burn framework",
+                  "rust-native deep learning",
+                  "model zoo architecture",
+                  "computer vision models",
+                  "transformer nlp models",
+                  "speech recognition models",
+                  "mobile-optimized inference",
+                  "community model contributions"
+                ],
+                "related": [
+                  {
+                    "id": "htpvlYnX77w",
+                    "sharedTopics": [
+                      "burn framework",
+                      "burn",
+                      "framework",
+                      "learning"
+                    ]
+                  },
+                  {
+                    "id": "joYJ6rPN3UI",
+                    "sharedTopics": [
+                      "deep",
+                      "learning",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "AcpVuvtSXwI",
+                    "sharedTopics": [
+                      "architecture",
+                      "transformer"
+                    ]
+                  },
+                  {
+                    "id": "7yqkfHo8Mwk",
+                    "sharedTopics": [
+                      "model",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "9oSUtndLto4",
+                    "sharedTopics": [
+                      "model",
+                      "models"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "KR188eZ9gRE",
+              "title": "Blueprinting Machine Learning in Rust",
+              "views": 4,
+              "date": "2026-05-20T15:26:31Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ml",
+                "book"
+              ],
+              "detail": {
+                "summary": "This session is a visual syllabus for integrating machine learning and data science directly into the Rust ecosystem, drawing from the Rust machine learning book. It frames Rust's memory safety, execution speed, and strict compilation as foundations for reliable ML systems, and it addresses two distinct audiences: ML practitioners learning Rust syntax and crates, and Rustaceans learning core ML algorithms and data science paradigms.",
+                "takeaways": [
+                  "Rust's systems-level guarantees — memory safety, execution speed, and strict compilation — make it a strong substrate for robust and efficient machine learning applications.",
+                  "The curriculum bridges two audiences by anchoring Rust concepts in familiar ML workflows for practitioners and grounding ML algorithms in idiomatic Rust for systems programmers.",
+                  "Four foundational Rust pillars are essential preparation: ownership, error handling with `Result` and `Option`, functional features like iterators and closures, and crate ecosystem navigation.",
+                  "Mastery of these Rust fundamentals is recommended but not strictly required, with The Rust Programming Language book suggested as a prerequisite reading for beginners.",
+                  "Deep mathematical mastery is not assumed; the material targets a pragmatic baseline of ML mathematical knowledge sufficient to implement algorithms natively in Rust."
+                ],
+                "topics": [
+                  "rust machine learning",
+                  "data science in rust",
+                  "ownership and memory safety",
+                  "result and option error handling",
+                  "iterators and closures",
+                  "crate ecosystem",
+                  "neural networks",
+                  "systems-level programming"
+                ],
+                "related": [
+                  {
+                    "id": "43UjmZtW2JU",
+                    "sharedTopics": [
+                      "rust",
+                      "ownership",
+                      "memory",
+                      "safety"
+                    ]
+                  },
+                  {
+                    "id": "ZlEq2jFb8tI",
+                    "sharedTopics": [
+                      "rust",
+                      "error",
+                      "handling",
+                      "ecosystem"
+                    ]
+                  },
+                  {
+                    "id": "yOOQNnaOLeM",
+                    "sharedTopics": [
+                      "rust",
+                      "learning",
+                      "memory",
+                      "programming"
+                    ]
+                  },
+                  {
+                    "id": "axvxGj3yOgA",
+                    "sharedTopics": [
+                      "rust",
+                      "ownership",
+                      "memory",
+                      "programming"
+                    ]
+                  },
+                  {
+                    "id": "htpvlYnX77w",
+                    "sharedTopics": [
+                      "rust machine learning",
+                      "rust",
+                      "machine",
+                      "learning"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "6M76N3jhh1Q",
+              "title": "From 0 to N-Dimensions",
+              "views": 21,
+              "date": "2026-05-19T21:59:19Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ml",
+                "ndarray"
+              ],
+              "detail": {
+                "summary": "This session deconstructs the architecture of Rust's `ndarray` crate, explaining how it manages memory, indexing, and performance across arbitrary dimensions. It walks through fixed-data initialization with the `array!` macro, type-explicit allocation via turbofish syntax (`::<f64, _>`), and structured builders like `from_elem`, `linspace`, and the identity matrix constructor. The talk frames these primitives as the foundation for numerical simulations and high-performance data pipelines in systems programming.",
+                "takeaways": [
+                  "The `array!` macro maps nested brackets directly to rows and columns, producing a 2D matrix like the 2x3 example from `[[1,2,3],[4,5,6]]`.",
+                  "Allocating empty arrays with `Array::zeros` requires turbofish annotation such as `::<f64, _>` so the compiler can infer both element type and dimensionality.",
+                  "Dimension parameters like `(3, 2, 4)` map directly to depth and horizontal axes, letting Rust's type system catch shape errors at compile time.",
+                  "The `from_elem` builder produces uniform blocks (e.g., a 2x2 matrix filled with ones), while `linspace(0., 5., 11)` generates evenly spaced intervals for signal processing and visualization.",
+                  "The `eye(n)` constructor instantly creates an n×n identity matrix for linear algebra workloads, and the `s![..]` slice macro defines bounded view windows into multi-dimensional data."
+                ],
+                "topics": [
+                  "ndarray crate",
+                  "n-dimensional arrays",
+                  "array macro initialization",
+                  "turbofish type annotations",
+                  "linspace and from_elem builders",
+                  "identity matrix construction",
+                  "slice view windows",
+                  "rust numerical computing"
+                ],
+                "related": [
+                  {
+                    "id": "htpvlYnX77w",
+                    "sharedTopics": [
+                      "ndarray",
+                      "rust",
+                      "numerical",
+                      "computing"
+                    ]
+                  },
+                  {
+                    "id": "izLrX-02IQk",
+                    "sharedTopics": [
+                      "crate",
+                      "macro",
+                      "rust"
+                    ]
+                  },
+                  {
+                    "id": "h31-NtagNoU",
+                    "sharedTopics": [
+                      "arrays",
+                      "array"
+                    ]
+                  },
+                  {
+                    "id": "DIMW-iHlDxE",
+                    "sharedTopics": [
+                      "type",
+                      "rust"
+                    ]
+                  },
+                  {
+                    "id": "J4iGUAXcAOA",
+                    "sharedTopics": [
+                      "type",
+                      "rust"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "htpvlYnX77w",
+              "title": "Mastering Machine Learning in Rust",
+              "views": 24,
+              "date": "2026-05-19T06:00:38Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ml",
+                "burn"
+              ],
+              "detail": {
+                "summary": "A self-guided roadmap for mastering machine learning in Rust, centered on the Burn framework and its surrounding ecosystem. The session frames Rust's memory safety, performance, and fearless concurrency as differentiators for ML, while acknowledging that learners must rely on official documentation, community blogs, and code reading rather than mainstream courses. It surveys foundational crates (ndarray, Linfa, smartcore) and core deep learning frameworks (Burn and Candle) with their PyTorch/NumPy/scikit-learn equivalents.",
+                "takeaways": [
+                  "The Burn Book is positioned as the official textbook and the primary path to complete framework mastery.",
+                  "Foundational numerical and traditional ML work in Rust maps to `ndarray` (NumPy), `Linfa` (scikit-learn), and `smartcore` (scikit-learn) as stepping stones before deep learning.",
+                  "Burn is a fully Rust-native deep learning framework covering the full model lifecycle from custom training loops to multi-backend inference deployment.",
+                  "Candle, from Hugging Face, complements Burn as a minimalist framework valued for educational insight and lightweight inference.",
+                  "Mastery requires reading the Burn and Candle code bases directly to internalize typed-driven machine learning patterns."
+                ],
+                "topics": [
+                  "burn framework",
+                  "rust machine learning",
+                  "candle framework",
+                  "ndarray numerical computing",
+                  "linfa traditional ml",
+                  "smartcore algorithms",
+                  "pytorch to rust migration",
+                  "typed-driven ml"
+                ],
+                "related": [
+                  {
+                    "id": "kSQtbPEtDkY",
+                    "sharedTopics": [
+                      "burn framework",
+                      "burn",
+                      "framework",
+                      "learning"
+                    ]
+                  },
+                  {
+                    "id": "KR188eZ9gRE",
+                    "sharedTopics": [
+                      "rust machine learning",
+                      "rust",
+                      "machine",
+                      "learning"
+                    ]
+                  },
+                  {
+                    "id": "6M76N3jhh1Q",
+                    "sharedTopics": [
+                      "rust",
+                      "ndarray",
+                      "numerical",
+                      "computing"
+                    ]
+                  },
+                  {
+                    "id": "yOOQNnaOLeM",
+                    "sharedTopics": [
+                      "rust",
+                      "learning"
+                    ]
+                  },
+                  {
+                    "id": "js95nIDeA-c",
+                    "sharedTopics": [
+                      "framework",
+                      "rust"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "8PaVKQoDReY",
               "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-              "views": 37,
+              "views": 54,
               "date": "2026-05-09T22:08:03Z",
               "category": "development",
               "tags": [
@@ -19650,7 +20870,7 @@
             {
               "id": "SuuZW_fuEFc",
               "title": "rr-mailtrap: The Developer's SMTP Sandbox",
-              "views": 16,
+              "views": 24,
               "date": "2026-05-08T17:38:27Z",
               "category": "development",
               "tags": [
@@ -19876,7 +21096,7 @@
             {
               "id": "BQ4wab0UtLg",
               "title": "From Louvain to Leiden",
-              "views": 29,
+              "views": 30,
               "date": "2026-04-26T15:40:42Z",
               "category": "development",
               "tags": [
@@ -20103,7 +21323,7 @@
             {
               "id": "fNN88ZXWYKU",
               "title": "Machine Learning Systems",
-              "views": 175,
+              "views": 176,
               "date": "2026-04-24T23:06:32Z",
               "category": "development",
               "tags": [
@@ -20315,7 +21535,7 @@
             {
               "id": "q-6cUColzQQ",
               "title": "Flutter Web Explained",
-              "views": 31,
+              "views": 32,
               "date": "2026-04-18T12:37:49Z",
               "category": "development",
               "tags": [
@@ -20595,7 +21815,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 157,
+              "views": 163,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -20671,7 +21891,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2667,
+              "views": 2677,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -21741,7 +22961,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 676,
+              "views": 681,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -23177,7 +24397,7 @@
             {
               "id": "yCJDmGrk8sM",
               "title": "Advancing Go Garbage Collection with Green Tea",
-              "views": 155,
+              "views": 158,
               "date": "2026-03-24T22:59:50Z",
               "category": "development",
               "tags": [
@@ -23824,7 +25044,7 @@
             {
               "id": "Hfut9CfJhN0",
               "title": "Bubble Tea v2",
-              "views": 59,
+              "views": 62,
               "date": "2026-03-02T12:02:38Z",
               "category": "development",
               "tags": [
@@ -23966,7 +25186,7 @@
             {
               "id": "uqZ-mwxGf2c",
               "title": "Modern Observability in Go",
-              "views": 108,
+              "views": 109,
               "date": "2026-03-01T14:36:52Z",
               "category": "development",
               "tags": [
@@ -24198,7 +25418,7 @@
             {
               "id": "SpNfrWmI8iE",
               "title": "Architecting Scalable Rust Backends",
-              "views": 70,
+              "views": 71,
               "date": "2026-02-22T10:43:18Z",
               "category": "development",
               "tags": [
@@ -24278,7 +25498,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 829,
+              "views": 839,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -24700,9 +25920,81 @@
           "name": "Architecture",
           "videos": [
             {
+              "id": "kSQtbPEtDkY",
+              "title": "The Architecture of tracel-ai/models",
+              "views": 1,
+              "date": "2026-05-20T22:58:18Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ml",
+                "models"
+              ],
+              "detail": {
+                "summary": "This presentation tours the architecture of the `tracel-ai/models` repository, a 98.6% Rust-native deep learning collection built on top of the Burn framework. It walks through the official and community-contributed model catalog across text/NLP, computer vision, and audio/speech, highlighting how architectures like Albert, Llama, MobileNetV2, SqueezeNet, ResNet, YOLOx, and Whisper are implemented natively in Burn. The talk frames Burn as a flexible, high-performance backend for portable, hardware-agnostic model deployment.",
+                "takeaways": [
+                  "The `tracel-ai/models` repository is a Rust-native deep learning ecosystem (362 stars, 62 forks, 24 contributors) with only 1.4% Python code, demonstrating Burn's viability as a pure-Rust ML stack.",
+                  "Models are organized into three primary domains — text/NLP, computer vision, and audio/speech — with a clear split between an official collection and community contributions.",
+                  "The official vision lineup spans a compact-to-complex spectrum: SqueezeNet for constrained devices, MobileNetV2 for mobile classification, ResNet for high-accuracy classification, and YOLOx for real-time object detection.",
+                  "Text and NLP support centers on foundational transformer architectures such as Albert, Llama, MiniLM, and RoBERTa, extended by the community with Llama 2, RWKV v7, and Craft.",
+                  "Audio and speech coverage is community-driven, providing native Burn implementations of Whisper, Whisper Live, Chord Speech Aligner, and Wav2Vec 2.0 ahead of an official collection."
+                ],
+                "topics": [
+                  "burn framework",
+                  "rust-native deep learning",
+                  "model zoo architecture",
+                  "computer vision models",
+                  "transformer nlp models",
+                  "speech recognition models",
+                  "mobile-optimized inference",
+                  "community model contributions"
+                ],
+                "related": [
+                  {
+                    "id": "htpvlYnX77w",
+                    "sharedTopics": [
+                      "burn framework",
+                      "burn",
+                      "framework",
+                      "learning"
+                    ]
+                  },
+                  {
+                    "id": "joYJ6rPN3UI",
+                    "sharedTopics": [
+                      "deep",
+                      "learning",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "AcpVuvtSXwI",
+                    "sharedTopics": [
+                      "architecture",
+                      "transformer"
+                    ]
+                  },
+                  {
+                    "id": "7yqkfHo8Mwk",
+                    "sharedTopics": [
+                      "model",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "9oSUtndLto4",
+                    "sharedTopics": [
+                      "model",
+                      "models"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "ytA6gw6Tgaw",
               "title": "SlideVoice Studio Desktop Shell Architecture",
-              "views": 2,
+              "views": 29,
               "date": "2026-05-17T18:33:33Z",
               "category": "development",
               "tags": [
@@ -24775,7 +26067,7 @@
             {
               "id": "9HUPNhA3OrI",
               "title": "The Tokio Architecture Blueprint",
-              "views": 33,
+              "views": 50,
               "date": "2026-05-15T21:12:14Z",
               "category": "development",
               "tags": [
@@ -24856,7 +26148,7 @@
             {
               "id": "ZfAc2pqcS-4",
               "title": "OpenCV Library Architecture and Capabilities",
-              "views": 25,
+              "views": 43,
               "date": "2026-05-11T11:00:37Z",
               "category": "development",
               "tags": [
@@ -24934,7 +26226,7 @@
             {
               "id": "LnJbrb0EUaE",
               "title": "The Prisma Ecosystem Architecture",
-              "views": 9,
+              "views": 17,
               "date": "2026-05-08T13:24:16Z",
               "category": "development",
               "tags": [
@@ -25015,7 +26307,7 @@
             {
               "id": "ZUINk3dp9eA",
               "title": "The Architecture of Sequelize",
-              "views": 15,
+              "views": 23,
               "date": "2026-05-08T05:09:13Z",
               "category": "development",
               "tags": [
@@ -25091,7 +26383,7 @@
             {
               "id": "eJlXFaZNP6g",
               "title": "TigerStyle: The Architecture of Elegance",
-              "views": 44,
+              "views": 45,
               "date": "2026-05-06T02:19:03Z",
               "category": "development",
               "tags": [
@@ -25244,7 +26536,7 @@
             {
               "id": "173Y2uPljgo",
               "title": "The NestJS Architecture Blueprint",
-              "views": 45,
+              "views": 46,
               "date": "2026-05-04T11:44:35Z",
               "category": "development",
               "tags": [
@@ -25320,7 +26612,7 @@
             {
               "id": "07aDX5YB-ao",
               "title": "Modular Networking Architecture in Rust",
-              "views": 51,
+              "views": 57,
               "date": "2026-05-03T06:22:41Z",
               "category": "development",
               "tags": [
@@ -25403,7 +26695,7 @@
             {
               "id": "oqi_jJl3tAQ",
               "title": "The Push Architecture Blueprint",
-              "views": 35,
+              "views": 36,
               "date": "2026-04-30T09:17:45Z",
               "category": "development",
               "tags": [
@@ -25479,7 +26771,7 @@
             {
               "id": "GERT8PoS9Qk",
               "title": "The Architecture of Similarity",
-              "views": 24,
+              "views": 25,
               "date": "2026-04-29T12:35:21Z",
               "category": "development",
               "detail": {
@@ -25790,7 +27082,7 @@
             {
               "id": "wKzz0jKiScM",
               "title": "Emacs Architecture, Neovim Philosophy",
-              "views": 284,
+              "views": 286,
               "date": "2026-04-19T22:51:25Z",
               "category": "development",
               "tags": [
@@ -25838,15 +27130,15 @@
                     ]
                   },
                   {
-                    "id": "JWeu5aqAkR0",
+                    "id": "htpvlYnX77w",
                     "sharedTopics": [
                       "migration"
                     ]
                   },
                   {
-                    "id": "NhYb7QkBdMs",
+                    "id": "JWeu5aqAkR0",
                     "sharedTopics": [
-                      "lsp"
+                      "migration"
                     ]
                   }
                 ]
@@ -25932,7 +27224,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4172,
+              "views": 4178,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -26243,7 +27535,7 @@
             {
               "id": "IZX3_9rZeMU",
               "title": "The Hybrid TUI Architecture",
-              "views": 545,
+              "views": 546,
               "date": "2026-02-10T10:11:11Z",
               "category": "development",
               "tags": [
@@ -26327,7 +27619,7 @@
             {
               "id": "E30riOZ-YVo",
               "title": "The Architect's ORM Blueprint",
-              "views": 35,
+              "views": 38,
               "date": "2026-05-05T06:35:36Z",
               "category": "development",
               "tags": [
@@ -26404,7 +27696,7 @@
             {
               "id": "EWwk29GzHgg",
               "title": "Architecting the Next Evolution of the Local Database",
-              "views": 127,
+              "views": 129,
               "date": "2026-04-27T08:39:23Z",
               "category": "development",
               "tags": [
@@ -26776,7 +28068,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 110,
+              "views": 114,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -27146,7 +28438,7 @@
             {
               "id": "wyIhJ3LMnRg",
               "title": "W3C Trace Context",
-              "views": 46,
+              "views": 50,
               "date": "2026-03-21T13:19:14Z",
               "category": "development",
               "tags": [
@@ -27772,9 +29064,307 @@
       ],
       "videos": [
         {
+          "id": "kSQtbPEtDkY",
+          "title": "The Architecture of tracel-ai/models",
+          "views": 1,
+          "date": "2026-05-20T22:58:18Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "ml",
+            "models"
+          ],
+          "detail": {
+            "summary": "This presentation tours the architecture of the `tracel-ai/models` repository, a 98.6% Rust-native deep learning collection built on top of the Burn framework. It walks through the official and community-contributed model catalog across text/NLP, computer vision, and audio/speech, highlighting how architectures like Albert, Llama, MobileNetV2, SqueezeNet, ResNet, YOLOx, and Whisper are implemented natively in Burn. The talk frames Burn as a flexible, high-performance backend for portable, hardware-agnostic model deployment.",
+            "takeaways": [
+              "The `tracel-ai/models` repository is a Rust-native deep learning ecosystem (362 stars, 62 forks, 24 contributors) with only 1.4% Python code, demonstrating Burn's viability as a pure-Rust ML stack.",
+              "Models are organized into three primary domains — text/NLP, computer vision, and audio/speech — with a clear split between an official collection and community contributions.",
+              "The official vision lineup spans a compact-to-complex spectrum: SqueezeNet for constrained devices, MobileNetV2 for mobile classification, ResNet for high-accuracy classification, and YOLOx for real-time object detection.",
+              "Text and NLP support centers on foundational transformer architectures such as Albert, Llama, MiniLM, and RoBERTa, extended by the community with Llama 2, RWKV v7, and Craft.",
+              "Audio and speech coverage is community-driven, providing native Burn implementations of Whisper, Whisper Live, Chord Speech Aligner, and Wav2Vec 2.0 ahead of an official collection."
+            ],
+            "topics": [
+              "burn framework",
+              "rust-native deep learning",
+              "model zoo architecture",
+              "computer vision models",
+              "transformer nlp models",
+              "speech recognition models",
+              "mobile-optimized inference",
+              "community model contributions"
+            ],
+            "related": [
+              {
+                "id": "htpvlYnX77w",
+                "sharedTopics": [
+                  "burn framework",
+                  "burn",
+                  "framework",
+                  "learning"
+                ]
+              },
+              {
+                "id": "joYJ6rPN3UI",
+                "sharedTopics": [
+                  "deep",
+                  "learning",
+                  "architecture"
+                ]
+              },
+              {
+                "id": "AcpVuvtSXwI",
+                "sharedTopics": [
+                  "architecture",
+                  "transformer"
+                ]
+              },
+              {
+                "id": "7yqkfHo8Mwk",
+                "sharedTopics": [
+                  "model",
+                  "architecture"
+                ]
+              },
+              {
+                "id": "9oSUtndLto4",
+                "sharedTopics": [
+                  "model",
+                  "models"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "KR188eZ9gRE",
+          "title": "Blueprinting Machine Learning in Rust",
+          "views": 4,
+          "date": "2026-05-20T15:26:31Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "ml",
+            "book"
+          ],
+          "detail": {
+            "summary": "This session is a visual syllabus for integrating machine learning and data science directly into the Rust ecosystem, drawing from the Rust machine learning book. It frames Rust's memory safety, execution speed, and strict compilation as foundations for reliable ML systems, and it addresses two distinct audiences: ML practitioners learning Rust syntax and crates, and Rustaceans learning core ML algorithms and data science paradigms.",
+            "takeaways": [
+              "Rust's systems-level guarantees — memory safety, execution speed, and strict compilation — make it a strong substrate for robust and efficient machine learning applications.",
+              "The curriculum bridges two audiences by anchoring Rust concepts in familiar ML workflows for practitioners and grounding ML algorithms in idiomatic Rust for systems programmers.",
+              "Four foundational Rust pillars are essential preparation: ownership, error handling with `Result` and `Option`, functional features like iterators and closures, and crate ecosystem navigation.",
+              "Mastery of these Rust fundamentals is recommended but not strictly required, with The Rust Programming Language book suggested as a prerequisite reading for beginners.",
+              "Deep mathematical mastery is not assumed; the material targets a pragmatic baseline of ML mathematical knowledge sufficient to implement algorithms natively in Rust."
+            ],
+            "topics": [
+              "rust machine learning",
+              "data science in rust",
+              "ownership and memory safety",
+              "result and option error handling",
+              "iterators and closures",
+              "crate ecosystem",
+              "neural networks",
+              "systems-level programming"
+            ],
+            "related": [
+              {
+                "id": "43UjmZtW2JU",
+                "sharedTopics": [
+                  "rust",
+                  "ownership",
+                  "memory",
+                  "safety"
+                ]
+              },
+              {
+                "id": "ZlEq2jFb8tI",
+                "sharedTopics": [
+                  "rust",
+                  "error",
+                  "handling",
+                  "ecosystem"
+                ]
+              },
+              {
+                "id": "yOOQNnaOLeM",
+                "sharedTopics": [
+                  "rust",
+                  "learning",
+                  "memory",
+                  "programming"
+                ]
+              },
+              {
+                "id": "axvxGj3yOgA",
+                "sharedTopics": [
+                  "rust",
+                  "ownership",
+                  "memory",
+                  "programming"
+                ]
+              },
+              {
+                "id": "htpvlYnX77w",
+                "sharedTopics": [
+                  "rust machine learning",
+                  "rust",
+                  "machine",
+                  "learning"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "6M76N3jhh1Q",
+          "title": "From 0 to N-Dimensions",
+          "views": 21,
+          "date": "2026-05-19T21:59:19Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "ml",
+            "ndarray"
+          ],
+          "detail": {
+            "summary": "This session deconstructs the architecture of Rust's `ndarray` crate, explaining how it manages memory, indexing, and performance across arbitrary dimensions. It walks through fixed-data initialization with the `array!` macro, type-explicit allocation via turbofish syntax (`::<f64, _>`), and structured builders like `from_elem`, `linspace`, and the identity matrix constructor. The talk frames these primitives as the foundation for numerical simulations and high-performance data pipelines in systems programming.",
+            "takeaways": [
+              "The `array!` macro maps nested brackets directly to rows and columns, producing a 2D matrix like the 2x3 example from `[[1,2,3],[4,5,6]]`.",
+              "Allocating empty arrays with `Array::zeros` requires turbofish annotation such as `::<f64, _>` so the compiler can infer both element type and dimensionality.",
+              "Dimension parameters like `(3, 2, 4)` map directly to depth and horizontal axes, letting Rust's type system catch shape errors at compile time.",
+              "The `from_elem` builder produces uniform blocks (e.g., a 2x2 matrix filled with ones), while `linspace(0., 5., 11)` generates evenly spaced intervals for signal processing and visualization.",
+              "The `eye(n)` constructor instantly creates an n×n identity matrix for linear algebra workloads, and the `s![..]` slice macro defines bounded view windows into multi-dimensional data."
+            ],
+            "topics": [
+              "ndarray crate",
+              "n-dimensional arrays",
+              "array macro initialization",
+              "turbofish type annotations",
+              "linspace and from_elem builders",
+              "identity matrix construction",
+              "slice view windows",
+              "rust numerical computing"
+            ],
+            "related": [
+              {
+                "id": "htpvlYnX77w",
+                "sharedTopics": [
+                  "ndarray",
+                  "rust",
+                  "numerical",
+                  "computing"
+                ]
+              },
+              {
+                "id": "izLrX-02IQk",
+                "sharedTopics": [
+                  "crate",
+                  "macro",
+                  "rust"
+                ]
+              },
+              {
+                "id": "h31-NtagNoU",
+                "sharedTopics": [
+                  "arrays",
+                  "array"
+                ]
+              },
+              {
+                "id": "DIMW-iHlDxE",
+                "sharedTopics": [
+                  "type",
+                  "rust"
+                ]
+              },
+              {
+                "id": "J4iGUAXcAOA",
+                "sharedTopics": [
+                  "type",
+                  "rust"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "htpvlYnX77w",
+          "title": "Mastering Machine Learning in Rust",
+          "views": 24,
+          "date": "2026-05-19T06:00:38Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "ml",
+            "burn"
+          ],
+          "detail": {
+            "summary": "A self-guided roadmap for mastering machine learning in Rust, centered on the Burn framework and its surrounding ecosystem. The session frames Rust's memory safety, performance, and fearless concurrency as differentiators for ML, while acknowledging that learners must rely on official documentation, community blogs, and code reading rather than mainstream courses. It surveys foundational crates (ndarray, Linfa, smartcore) and core deep learning frameworks (Burn and Candle) with their PyTorch/NumPy/scikit-learn equivalents.",
+            "takeaways": [
+              "The Burn Book is positioned as the official textbook and the primary path to complete framework mastery.",
+              "Foundational numerical and traditional ML work in Rust maps to `ndarray` (NumPy), `Linfa` (scikit-learn), and `smartcore` (scikit-learn) as stepping stones before deep learning.",
+              "Burn is a fully Rust-native deep learning framework covering the full model lifecycle from custom training loops to multi-backend inference deployment.",
+              "Candle, from Hugging Face, complements Burn as a minimalist framework valued for educational insight and lightweight inference.",
+              "Mastery requires reading the Burn and Candle code bases directly to internalize typed-driven machine learning patterns."
+            ],
+            "topics": [
+              "burn framework",
+              "rust machine learning",
+              "candle framework",
+              "ndarray numerical computing",
+              "linfa traditional ml",
+              "smartcore algorithms",
+              "pytorch to rust migration",
+              "typed-driven ml"
+            ],
+            "related": [
+              {
+                "id": "kSQtbPEtDkY",
+                "sharedTopics": [
+                  "burn framework",
+                  "burn",
+                  "framework",
+                  "learning"
+                ]
+              },
+              {
+                "id": "KR188eZ9gRE",
+                "sharedTopics": [
+                  "rust machine learning",
+                  "rust",
+                  "machine",
+                  "learning"
+                ]
+              },
+              {
+                "id": "6M76N3jhh1Q",
+                "sharedTopics": [
+                  "rust",
+                  "ndarray",
+                  "numerical",
+                  "computing"
+                ]
+              },
+              {
+                "id": "yOOQNnaOLeM",
+                "sharedTopics": [
+                  "rust",
+                  "learning"
+                ]
+              },
+              {
+                "id": "js95nIDeA-c",
+                "sharedTopics": [
+                  "framework",
+                  "rust"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "jrD_LGNsJXM",
           "title": "Async 1/0 in Zig 0.16, Today",
-          "views": 5,
+          "views": 51,
           "date": "2026-05-17T19:24:16Z",
           "category": "development",
           "tags": [
@@ -27849,7 +29439,7 @@
         {
           "id": "ytA6gw6Tgaw",
           "title": "SlideVoice Studio Desktop Shell Architecture",
-          "views": 2,
+          "views": 29,
           "date": "2026-05-17T18:33:33Z",
           "category": "development",
           "tags": [
@@ -27922,7 +29512,7 @@
         {
           "id": "bAoDvQgmGjM",
           "title": "The Anatomy of Modern Text",
-          "views": 39,
+          "views": 46,
           "date": "2026-05-17T07:42:42Z",
           "category": "development",
           "tags": [
@@ -27989,7 +29579,7 @@
         {
           "id": "Gy-ky1pAF0U",
           "title": "The Blueprint of Reactivity",
-          "views": 19,
+          "views": 24,
           "date": "2026-05-16T20:24:00Z",
           "category": "development",
           "tags": [
@@ -28065,7 +29655,7 @@
         {
           "id": "BhzeYd4aqOQ",
           "title": "Architecting Network Layers with Dio",
-          "views": 11,
+          "views": 14,
           "date": "2026-05-16T06:21:52Z",
           "category": "development",
           "tags": [
@@ -28141,7 +29731,7 @@
         {
           "id": "9HUPNhA3OrI",
           "title": "The Tokio Architecture Blueprint",
-          "views": 33,
+          "views": 50,
           "date": "2026-05-15T21:12:14Z",
           "category": "development",
           "tags": [
@@ -28298,7 +29888,7 @@
         {
           "id": "ZbZdm5Opbno",
           "title": "The Architectural Blueprint of Apache DataFusion",
-          "views": 22,
+          "views": 25,
           "date": "2026-05-14T22:04:01Z",
           "category": "development",
           "tags": [
@@ -28375,7 +29965,7 @@
         {
           "id": "n9Ebc-0E478",
           "title": "Building the Multimodal Al Lakehouse",
-          "views": 21,
+          "views": 20,
           "date": "2026-05-14T12:06:25Z",
           "category": "development",
           "tags": [
@@ -28527,7 +30117,7 @@
         {
           "id": "AvysIjFrTEw",
           "title": "Diagnostic Guide to Computer Vision Feature Detection",
-          "views": 31,
+          "views": 33,
           "date": "2026-05-12T00:01:43Z",
           "category": "development",
           "tags": [
@@ -28598,7 +30188,7 @@
         {
           "id": "ZfAc2pqcS-4",
           "title": "OpenCV Library Architecture and Capabilities",
-          "views": 25,
+          "views": 43,
           "date": "2026-05-11T11:00:37Z",
           "category": "development",
           "tags": [
@@ -28676,7 +30266,7 @@
         {
           "id": "B81dHVYOYJA",
           "title": "Inside the Typst Compiler Engine",
-          "views": 38,
+          "views": 56,
           "date": "2026-05-11T00:02:22Z",
           "category": "development",
           "tags": [
@@ -28747,7 +30337,7 @@
         {
           "id": "Qi_vpz_5j7g",
           "title": "The ONNX Ecosystem",
-          "views": 31,
+          "views": 40,
           "date": "2026-05-10T16:28:12Z",
           "category": "development",
           "tags": [
@@ -28830,7 +30420,7 @@
         {
           "id": "8PaVKQoDReY",
           "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-          "views": 37,
+          "views": 54,
           "date": "2026-05-09T22:08:03Z",
           "category": "development",
           "tags": [
@@ -28912,7 +30502,7 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 217,
+          "views": 282,
           "date": "2026-05-09T14:32:47Z",
           "category": "development",
           "tags": [
@@ -28988,7 +30578,7 @@
         {
           "id": "qAHyv6G3a7M",
           "title": "Building the Unified Rust Backend",
-          "views": 277,
+          "views": 458,
           "date": "2026-05-09T07:32:42Z",
           "category": "development",
           "tags": [
@@ -29076,7 +30666,7 @@
         {
           "id": "_bFOZ51Q55Y",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 745,
+          "views": 988,
           "date": "2026-05-09T02:40:33Z",
           "category": "development",
           "tags": [
@@ -29156,7 +30746,7 @@
         {
           "id": "SuuZW_fuEFc",
           "title": "rr-mailtrap: The Developer's SMTP Sandbox",
-          "views": 16,
+          "views": 24,
           "date": "2026-05-08T17:38:27Z",
           "category": "development",
           "tags": [
@@ -29235,7 +30825,7 @@
         {
           "id": "LnJbrb0EUaE",
           "title": "The Prisma Ecosystem Architecture",
-          "views": 9,
+          "views": 17,
           "date": "2026-05-08T13:24:16Z",
           "category": "development",
           "tags": [
@@ -29316,7 +30906,7 @@
         {
           "id": "ZUINk3dp9eA",
           "title": "The Architecture of Sequelize",
-          "views": 15,
+          "views": 23,
           "date": "2026-05-08T05:09:13Z",
           "category": "development",
           "tags": [
@@ -29462,7 +31052,7 @@
         {
           "id": "eJlXFaZNP6g",
           "title": "TigerStyle: The Architecture of Elegance",
-          "views": 44,
+          "views": 45,
           "date": "2026-05-06T02:19:03Z",
           "category": "development",
           "tags": [
@@ -29534,7 +31124,7 @@
         {
           "id": "E30riOZ-YVo",
           "title": "The Architect's ORM Blueprint",
-          "views": 35,
+          "views": 38,
           "date": "2026-05-05T06:35:36Z",
           "category": "development",
           "tags": [
@@ -29692,7 +31282,7 @@
         {
           "id": "173Y2uPljgo",
           "title": "The NestJS Architecture Blueprint",
-          "views": 45,
+          "views": 46,
           "date": "2026-05-04T11:44:35Z",
           "category": "development",
           "tags": [
@@ -29845,7 +31435,7 @@
         {
           "id": "d1MH4nza95g",
           "title": "Tracing Asynchronous Rust",
-          "views": 93,
+          "views": 97,
           "date": "2026-05-03T16:24:44Z",
           "category": "development",
           "tags": [
@@ -29925,7 +31515,7 @@
         {
           "id": "07aDX5YB-ao",
           "title": "Modular Networking Architecture in Rust",
-          "views": 51,
+          "views": 57,
           "date": "2026-05-03T06:22:41Z",
           "category": "development",
           "tags": [
@@ -30008,7 +31598,7 @@
         {
           "id": "DwAOCljoNoc",
           "title": "Hyper: The Foundation of Fast HTTP in Rust",
-          "views": 86,
+          "views": 88,
           "date": "2026-05-02T18:35:37Z",
           "category": "development",
           "tags": [
@@ -30172,7 +31762,7 @@
         {
           "id": "J4iGUAXcAOA",
           "title": "The Axum Web Framework",
-          "views": 48,
+          "views": 50,
           "date": "2026-05-01T22:55:53Z",
           "category": "development",
           "tags": [
@@ -30332,7 +31922,7 @@
         {
           "id": "oqi_jJl3tAQ",
           "title": "The Push Architecture Blueprint",
-          "views": 35,
+          "views": 36,
           "date": "2026-04-30T09:17:45Z",
           "category": "development",
           "tags": [
@@ -30408,7 +31998,7 @@
         {
           "id": "GERT8PoS9Qk",
           "title": "The Architecture of Similarity",
-          "views": 24,
+          "views": 25,
           "date": "2026-04-29T12:35:21Z",
           "category": "development",
           "detail": {
@@ -30709,7 +32299,7 @@
         {
           "id": "EWwk29GzHgg",
           "title": "Architecting the Next Evolution of the Local Database",
-          "views": 127,
+          "views": 129,
           "date": "2026-04-27T08:39:23Z",
           "category": "development",
           "tags": [
@@ -30786,7 +32376,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 29,
+          "views": 30,
           "date": "2026-04-26T15:40:42Z",
           "category": "development",
           "tags": [
@@ -31013,7 +32603,7 @@
         {
           "id": "fNN88ZXWYKU",
           "title": "Machine Learning Systems",
-          "views": 175,
+          "views": 176,
           "date": "2026-04-24T23:06:32Z",
           "category": "development",
           "tags": [
@@ -31237,7 +32827,7 @@
         {
           "id": "NhYb7QkBdMs",
           "title": "Rusty Object Notation (RON)",
-          "views": 149,
+          "views": 150,
           "date": "2026-04-24T06:12:06Z",
           "category": "development",
           "tags": [
@@ -31598,7 +33188,7 @@
         {
           "id": "wKzz0jKiScM",
           "title": "Emacs Architecture, Neovim Philosophy",
-          "views": 284,
+          "views": 286,
           "date": "2026-04-19T22:51:25Z",
           "category": "development",
           "tags": [
@@ -31646,15 +33236,15 @@
                 ]
               },
               {
-                "id": "JWeu5aqAkR0",
+                "id": "htpvlYnX77w",
                 "sharedTopics": [
                   "migration"
                 ]
               },
               {
-                "id": "NhYb7QkBdMs",
+                "id": "JWeu5aqAkR0",
                 "sharedTopics": [
-                  "lsp"
+                  "migration"
                 ]
               }
             ]
@@ -31718,15 +33308,17 @@
                 ]
               },
               {
-                "id": "0Sed1oggMKY",
+                "id": "KR188eZ9gRE",
                 "sharedTopics": [
-                  "rust"
+                  "rust",
+                  "crate"
                 ]
               },
               {
-                "id": "90hw9qwXbbw",
+                "id": "6M76N3jhh1Q",
                 "sharedTopics": [
-                  "rust"
+                  "rust",
+                  "crate"
                 ]
               }
             ]
@@ -31805,7 +33397,7 @@
         {
           "id": "izLrX-02IQk",
           "title": "Rust 1.95.0",
-          "views": 209,
+          "views": 211,
           "date": "2026-04-18T20:42:55Z",
           "category": "development",
           "tags": [
@@ -31834,7 +33426,22 @@
             ],
             "related": [
               {
+                "id": "6M76N3jhh1Q",
+                "sharedTopics": [
+                  "rust",
+                  "macro",
+                  "crate"
+                ]
+              },
+              {
                 "id": "feWjiYzQQ-k",
+                "sharedTopics": [
+                  "rust",
+                  "crate"
+                ]
+              },
+              {
+                "id": "KR188eZ9gRE",
                 "sharedTopics": [
                   "rust",
                   "crate"
@@ -31851,18 +33458,6 @@
                 "sharedTopics": [
                   "rust"
                 ]
-              },
-              {
-                "id": "43UjmZtW2JU",
-                "sharedTopics": [
-                  "rust"
-                ]
-              },
-              {
-                "id": "FM6zp63maS8",
-                "sharedTopics": [
-                  "rust"
-                ]
               }
             ]
           }
@@ -31870,7 +33465,7 @@
         {
           "id": "q-6cUColzQQ",
           "title": "Flutter Web Explained",
-          "views": 31,
+          "views": 32,
           "date": "2026-04-18T12:37:49Z",
           "category": "development",
           "tags": [
@@ -32218,7 +33813,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 705,
+          "views": 706,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -32786,7 +34381,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 157,
+          "views": 163,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -32862,7 +34457,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2667,
+          "views": 2677,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -33597,7 +35192,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4172,
+          "views": 4178,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -34315,7 +35910,7 @@
         {
           "id": "yCJDmGrk8sM",
           "title": "Advancing Go Garbage Collection with Green Tea",
-          "views": 155,
+          "views": 158,
           "date": "2026-03-24T22:59:50Z",
           "category": "development",
           "tags": [
@@ -34619,7 +36214,7 @@
         {
           "id": "vep9hSKc9I0",
           "title": "Dial9 Demo - Deep Observability in Async Rust",
-          "views": 112,
+          "views": 115,
           "date": "2026-03-22T10:40:21Z",
           "category": "development",
           "tags": [
@@ -34697,7 +36292,7 @@
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
-          "views": 46,
+          "views": 50,
           "date": "2026-03-21T13:19:14Z",
           "category": "development",
           "tags": [
@@ -34834,7 +36429,7 @@
         {
           "id": "lY5TU8qHduM",
           "title": "The Flight Recorder for Tokio",
-          "views": 27,
+          "views": 28,
           "date": "2026-03-20T22:45:15Z",
           "category": "development",
           "tags": [
@@ -35065,7 +36660,7 @@
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
-          "views": 138,
+          "views": 141,
           "date": "2026-03-19T00:18:34Z",
           "category": "development",
           "tags": [
@@ -35694,7 +37289,7 @@
         {
           "id": "DIMW-iHlDxE",
           "title": "Mastering Comprehensive Rust",
-          "views": 71,
+          "views": 72,
           "date": "2026-03-11T22:16:29Z",
           "category": "development",
           "tags": [
@@ -36489,7 +38084,7 @@
         {
           "id": "IkVazryUiko",
           "title": "Fuzzy Find Everything",
-          "views": 56,
+          "views": 57,
           "date": "2026-03-04T22:43:54Z",
           "category": "development",
           "tags": [
@@ -36700,7 +38295,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 231,
+          "views": 244,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -36769,7 +38364,7 @@
         {
           "id": "Hfut9CfJhN0",
           "title": "Bubble Tea v2",
-          "views": 59,
+          "views": 62,
           "date": "2026-03-02T12:02:38Z",
           "category": "development",
           "tags": [
@@ -36911,7 +38506,7 @@
         {
           "id": "uqZ-mwxGf2c",
           "title": "Modern Observability in Go",
-          "views": 108,
+          "views": 109,
           "date": "2026-03-01T14:36:52Z",
           "category": "development",
           "tags": [
@@ -37063,7 +38658,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 676,
+          "views": 681,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -37215,7 +38810,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 129,
+          "views": 132,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -37641,7 +39236,7 @@
         {
           "id": "Th5MMOFQbh8",
           "title": "Backend Patterns in Rust",
-          "views": 45,
+          "views": 47,
           "date": "2026-02-23T03:44:24Z",
           "category": "development",
           "tags": [
@@ -37723,7 +39318,7 @@
         {
           "id": "SpNfrWmI8iE",
           "title": "Architecting Scalable Rust Backends",
-          "views": 70,
+          "views": 71,
           "date": "2026-02-22T10:43:18Z",
           "category": "development",
           "tags": [
@@ -38156,7 +39751,7 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 110,
+          "views": 114,
           "date": "2026-02-14T22:47:13Z",
           "category": "development",
           "tags": [
@@ -38220,7 +39815,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 829,
+          "views": 839,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -38291,7 +39886,7 @@
         {
           "id": "cWozmWrqnxs",
           "title": "The Repository Pattern",
-          "views": 792,
+          "views": 793,
           "date": "2026-02-13T18:01:39Z",
           "category": "development",
           "tags": [
@@ -38374,7 +39969,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 422,
+          "views": 434,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -38430,19 +40025,20 @@
                 ]
               },
               {
+                "id": "KR188eZ9gRE",
+                "sharedTopics": [
+                  "rust",
+                  "learning",
+                  "safety",
+                  "data"
+                ]
+              },
+              {
                 "id": "RDa6WtZmW8E",
                 "sharedTopics": [
                   "rust",
                   "compile-time",
                   "data"
-                ]
-              },
-              {
-                "id": "Th5MMOFQbh8",
-                "sharedTopics": [
-                  "rust",
-                  "architecture",
-                  "backend"
                 ]
               }
             ]
@@ -38528,7 +40124,7 @@
         {
           "id": "cEwAbu6FFRo",
           "title": "Compound Engineering",
-          "views": 160,
+          "views": 163,
           "date": "2026-02-11T13:08:01Z",
           "category": "development",
           "tags": [
@@ -38597,7 +40193,7 @@
         {
           "id": "IZX3_9rZeMU",
           "title": "The Hybrid TUI Architecture",
-          "views": 545,
+          "views": 546,
           "date": "2026-02-10T10:11:11Z",
           "category": "development",
           "tags": [
@@ -38811,7 +40407,7 @@
         {
           "id": "0Sed1oggMKY",
           "title": "Tokio: The Asynchronous Runtime for Rust",
-          "views": 88,
+          "views": 89,
           "date": "2026-02-08T20:27:32Z",
           "category": "development",
           "tags": [
@@ -38998,6 +40594,15 @@
                 ]
               },
               {
+                "id": "KR188eZ9gRE",
+                "sharedTopics": [
+                  "rust",
+                  "error",
+                  "ecosystem",
+                  "handling"
+                ]
+              },
+              {
                 "id": "vep9hSKc9I0",
                 "sharedTopics": [
                   "rust",
@@ -39018,13 +40623,6 @@
                   "tracing",
                   "observability"
                 ]
-              },
-              {
-                "id": "J4iGUAXcAOA",
-                "sharedTopics": [
-                  "rust",
-                  "lifecycle"
-                ]
               }
             ]
           }
@@ -39032,7 +40630,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 177,
+          "views": 185,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -39178,7 +40776,7 @@
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 443,
+          "views": 446,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -39328,7 +40926,7 @@
         {
           "id": "d_0swhS1LyQ",
           "title": "Neural TTS in Pastel-HN",
-          "views": 45,
+          "views": 46,
           "date": "2026-02-01T12:24:48Z",
           "category": "development",
           "tags": [
@@ -39620,7 +41218,7 @@
         {
           "id": "o9yaniXkM-0",
           "title": "Practical Data Oriented Design in Zig",
-          "views": 66,
+          "views": 69,
           "date": "2026-01-30T01:28:52Z",
           "category": "development",
           "tags": [
@@ -39699,7 +41297,7 @@
         {
           "id": "RDa6WtZmW8E",
           "title": "Mastering Serde in Rust ",
-          "views": 47,
+          "views": 49,
           "date": "2026-01-29T05:20:28Z",
           "category": "development",
           "tags": [
@@ -39979,9 +41577,10 @@
                 ]
               },
               {
-                "id": "DIMW-iHlDxE",
+                "id": "KR188eZ9gRE",
                 "sharedTopics": [
                   "rust",
+                  "ownership",
                   "safety",
                   "memory"
                 ]
@@ -41384,11 +42983,10 @@
                 ]
               },
               {
-                "id": "u60g2nMtVi4",
+                "id": "KR188eZ9gRE",
                 "sharedTopics": [
                   "data",
-                  "analytics",
-                  "engineering"
+                  "science"
                 ]
               }
             ]
@@ -42186,7 +43784,7 @@
         {
           "id": "axvxGj3yOgA",
           "title": "The Memory Management Trilemma",
-          "views": 31,
+          "views": 32,
           "date": "2026-01-07T03:10:14Z",
           "category": "development",
           "tags": [
@@ -42763,7 +44361,7 @@
         "development"
       ],
       "videoCount": 13,
-      "totalViews": 421,
+      "totalViews": 427,
       "topTags": [
         {
           "tag": "sentinel",
@@ -42853,7 +44451,7 @@
             {
               "id": "infh5ZZwvLU",
               "title": "ZAP: Getting Started with Software Security Testing",
-              "views": 19,
+              "views": 22,
               "date": "2026-04-30T22:21:34Z",
               "category": "security",
               "tags": [
@@ -43489,7 +45087,7 @@
         {
           "id": "infh5ZZwvLU",
           "title": "ZAP: Getting Started with Software Security Testing",
-          "views": 19,
+          "views": 22,
           "date": "2026-04-30T22:21:34Z",
           "category": "security",
           "tags": [
@@ -43638,7 +45236,7 @@
         {
           "id": "_5DCBqOCr8c",
           "title": "Designing for Privacy",
-          "views": 40,
+          "views": 42,
           "date": "2026-04-19T04:59:35Z",
           "category": "security",
           "tags": [
@@ -43707,7 +45305,7 @@
         {
           "id": "u8XCBK6lGw0",
           "title": "Custom Graphs in Microsoft Sentinel (Preview)",
-          "views": 57,
+          "views": 58,
           "date": "2026-04-11T15:44:17Z",
           "category": "security",
           "tags": [
@@ -44399,7 +45997,7 @@
         "development"
       ],
       "videoCount": 8,
-      "totalViews": 210,
+      "totalViews": 211,
       "topTags": [
         {
           "tag": "알고리즘",
@@ -44834,7 +46432,7 @@
         {
           "id": "F6aMGDfVAFg",
           "title": "비동기 처리 - async/await",
-          "views": 18,
+          "views": 19,
           "date": "2026-01-10T07:11:59Z",
           "category": "programming",
           "detail": {
@@ -45000,7 +46598,7 @@
         {
           "id": "M_NbzCCHFp0",
           "title": "The Orbital Compute Blueprint",
-          "views": 66,
+          "views": 69,
           "date": "2026-05-02T20:46:53Z",
           "category": "finance"
         },
@@ -45014,7 +46612,7 @@
         {
           "id": "bAoDvQgmGjM",
           "title": "The Anatomy of Modern Text",
-          "views": 39,
+          "views": 46,
           "date": "2026-05-17T07:42:42Z",
           "category": "development"
         },
@@ -45042,7 +46640,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 29,
+          "views": 30,
           "date": "2026-04-26T15:40:42Z",
           "category": "development"
         },
@@ -45054,9 +46652,16 @@
           "category": "finance"
         },
         {
+          "id": "UorjmtDDRgQ",
+          "title": "A global geography of folded dough",
+          "views": 14,
+          "date": "2026-05-18T22:27:45Z",
+          "category": "finance"
+        },
+        {
           "id": "SRwWBbsaQH4",
           "title": "Nationwide Data Coverage & Auto-Filing Feasibility",
-          "views": 13,
+          "views": 14,
           "date": "2026-05-13T07:23:27Z",
           "category": "finance"
         },
@@ -45072,6 +46677,13 @@
           "title": "Nesting in Global Finance",
           "views": 6,
           "date": "2026-04-12T20:20:01Z",
+          "category": "finance"
+        },
+        {
+          "id": "Dx8pFmojxL4",
+          "title": "The Architecture of Al Subscriptions",
+          "views": 5,
+          "date": "2026-05-20T07:37:20Z",
           "category": "finance"
         },
         {
@@ -45106,17 +46718,17 @@
           "category": "kubernetes"
         },
         {
-          "id": "-e7kvcUXxtw",
-          "title": "DevSecOps on Azure Kubernetes Service",
+          "id": "7eoxSgjwYlM",
+          "title": "Bridging Helm and CUE for Deterministic Value Composition",
           "views": 24,
-          "date": "2026-04-29T21:49:39Z",
+          "date": "2026-02-19T13:24:37Z",
           "category": "kubernetes"
         },
         {
-          "id": "7eoxSgjwYlM",
-          "title": "Bridging Helm and CUE for Deterministic Value Composition",
+          "id": "-e7kvcUXxtw",
+          "title": "DevSecOps on Azure Kubernetes Service",
           "views": 23,
-          "date": "2026-02-19T13:24:37Z",
+          "date": "2026-04-29T21:49:39Z",
           "category": "kubernetes"
         },
         {
@@ -45144,6 +46756,13 @@
       ],
       "videos": [
         {
+          "id": "jOw6d5zH658",
+          "title": "Engineering Al Agent Mastery with Waza",
+          "views": 282,
+          "date": "2026-05-09T14:32:47Z",
+          "category": "development"
+        },
+        {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
           "views": 277,
@@ -45151,16 +46770,9 @@
           "category": "development"
         },
         {
-          "id": "jOw6d5zH658",
-          "title": "Engineering Al Agent Mastery with Waza",
-          "views": 217,
-          "date": "2026-05-09T14:32:47Z",
-          "category": "development"
-        },
-        {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 157,
+          "views": 163,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -45219,14 +46831,14 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2667,
+          "views": 2677,
           "date": "2026-04-09T22:17:25Z",
           "category": "development"
         },
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 676,
+          "views": 681,
           "date": "2026-02-28T05:29:43Z",
           "category": "development"
         },
@@ -45240,8 +46852,15 @@
         {
           "id": "fNN88ZXWYKU",
           "title": "Machine Learning Systems",
-          "views": 175,
+          "views": 176,
           "date": "2026-04-24T23:06:32Z",
+          "category": "development"
+        },
+        {
+          "id": "TEGFwsAcxK8",
+          "title": "Agent Skills for Flutter",
+          "views": 163,
+          "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
@@ -45249,13 +46868,6 @@
           "title": "Design for Deletion",
           "views": 158,
           "date": "2026-04-25T10:56:42Z",
-          "category": "development"
-        },
-        {
-          "id": "TEGFwsAcxK8",
-          "title": "Agent Skills for Flutter",
-          "views": 157,
-          "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
@@ -45438,14 +47050,14 @@
         {
           "id": "n9Ebc-0E478",
           "title": "Building the Multimodal Al Lakehouse",
-          "views": 21,
+          "views": 20,
           "date": "2026-05-14T12:06:25Z",
           "category": "development"
         },
         {
           "id": "SRwWBbsaQH4",
           "title": "Nationwide Data Coverage & Auto-Filing Feasibility",
-          "views": 13,
+          "views": 14,
           "date": "2026-05-13T07:23:27Z",
           "category": "finance"
         },
@@ -45468,7 +47080,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 129,
+          "views": 132,
           "date": "2026-02-27T12:49:18Z",
           "category": "development"
         },
@@ -45489,6 +47101,183 @@
       ]
     },
     {
+      "tag": "go",
+      "categories": [
+        "kubernetes",
+        "development"
+      ],
+      "videos": [
+        {
+          "id": "zwVDEAKKPZY",
+          "title": "Go 1.26: The Era of Automated Modernization",
+          "views": 839,
+          "date": "2026-02-14T09:23:06Z",
+          "category": "development"
+        },
+        {
+          "id": "Qo3oJv4uyBI",
+          "title": "High-Performance Go: Inside the 1.26 Release",
+          "views": 202,
+          "date": "2026-02-12T13:08:12Z",
+          "category": "development"
+        },
+        {
+          "id": "Z90u9EVf4M4",
+          "title": "Writing Modern Go in the Age of Al",
+          "views": 191,
+          "date": "2026-03-26T22:28:15Z",
+          "category": "development"
+        },
+        {
+          "id": "yCJDmGrk8sM",
+          "title": "Advancing Go Garbage Collection with Green Tea",
+          "views": 158,
+          "date": "2026-03-24T22:59:50Z",
+          "category": "development"
+        },
+        {
+          "id": "L9ypC5863yA",
+          "title": "The Microservices Communication Playbook",
+          "views": 124,
+          "date": "2026-04-24T20:19:57Z",
+          "category": "development"
+        },
+        {
+          "id": "DazzkNtnzec",
+          "title": "Design Patterns in Go",
+          "views": 117,
+          "date": "2026-02-24T23:48:12Z",
+          "category": "development"
+        },
+        {
+          "id": "uqZ-mwxGf2c",
+          "title": "Modern Observability in Go",
+          "views": 109,
+          "date": "2026-03-01T14:36:52Z",
+          "category": "development"
+        },
+        {
+          "id": "qxOOl1hx1zU",
+          "title": "The Future of Al Programming:  2031 Strategic Outlook",
+          "views": 106,
+          "date": "2026-02-09T13:26:58Z",
+          "category": "development"
+        },
+        {
+          "id": "CXtHwJQphLI",
+          "title": "Production-Ready RabbitMQ in Go",
+          "views": 93,
+          "date": "2026-03-20T03:40:50Z",
+          "category": "development"
+        },
+        {
+          "id": "IYfTi_HNDl4",
+          "title": "Building Production-Grade RabbitMQ in Go",
+          "views": 77,
+          "date": "2026-04-06T22:28:09Z",
+          "category": "development"
+        },
+        {
+          "id": "nomIVRSBEG4",
+          "title": "Consuming CDC with ScyllaDB",
+          "views": 76,
+          "date": "2026-04-18T04:36:03Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "VHuQi_1t5qQ",
+          "title": "Mastering Go Pointers",
+          "views": 76,
+          "date": "2026-04-17T18:20:09Z",
+          "category": "development"
+        },
+        {
+          "id": "Hfut9CfJhN0",
+          "title": "Bubble Tea v2",
+          "views": 62,
+          "date": "2026-03-02T12:02:38Z",
+          "category": "development"
+        },
+        {
+          "id": "MuDJGnGTn3k",
+          "title": "Leetgo",
+          "views": 57,
+          "date": "2026-04-09T09:55:24Z",
+          "category": "development"
+        },
+        {
+          "id": "eI2DXGISpbk",
+          "title": "BadgerDB: The Go-Native Key-Value Store",
+          "views": 53,
+          "date": "2026-02-13T00:09:38Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "KCuGqld6nOc",
+          "title": "The Go Concurrency Paradox",
+          "views": 49,
+          "date": "2026-01-10T00:17:59Z",
+          "category": "development"
+        },
+        {
+          "id": "oxNF_GNuWpE",
+          "title": "The Pragmatic Go Developer",
+          "views": 45,
+          "date": "2026-03-10T22:01:11Z",
+          "category": "development"
+        },
+        {
+          "id": "QOYXBkMcnYk",
+          "title": "The Echo Web Framework",
+          "views": 40,
+          "date": "2026-05-04T02:03:06Z",
+          "category": "development"
+        },
+        {
+          "id": "INNKxTAagE4",
+          "title": "Resilient Asynchronous Systems in Go",
+          "views": 38,
+          "date": "2026-03-24T02:07:42Z",
+          "category": "development"
+        },
+        {
+          "id": "ARWkoc3E8uE",
+          "title": "Composition by Design",
+          "views": 32,
+          "date": "2026-02-23T23:33:01Z",
+          "category": "development"
+        },
+        {
+          "id": "2Ni8zfsxW6o",
+          "title": "Modernizing Legacy COBOL",
+          "views": 28,
+          "date": "2026-02-01T13:20:19Z",
+          "category": "development"
+        },
+        {
+          "id": "xfOATs8ncLM",
+          "title": "Isolating Observability in Go",
+          "views": 17,
+          "date": "2026-03-12T22:39:00Z",
+          "category": "development"
+        },
+        {
+          "id": "u_ooo1WDAc8",
+          "title": "The Complete Local Azure Environment",
+          "views": 14,
+          "date": "2026-05-16T19:38:19Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "guwVjGsg3h4",
+          "title": "The Pragmatics of Order",
+          "views": 13,
+          "date": "2026-03-08T09:59:59Z",
+          "category": "development"
+        }
+      ]
+    },
+    {
       "tag": "internal",
       "categories": [
         "kubernetes",
@@ -45498,28 +47287,35 @@
         {
           "id": "_bFOZ51Q55Y",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 745,
+          "views": 988,
           "date": "2026-05-09T02:40:33Z",
           "category": "development"
         },
         {
           "id": "B81dHVYOYJA",
           "title": "Inside the Typst Compiler Engine",
-          "views": 38,
+          "views": 56,
           "date": "2026-05-11T00:02:22Z",
           "category": "development"
         },
         {
           "id": "8PaVKQoDReY",
           "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-          "views": 37,
+          "views": 54,
           "date": "2026-05-09T22:08:03Z",
+          "category": "development"
+        },
+        {
+          "id": "ZfAc2pqcS-4",
+          "title": "OpenCV Library Architecture and Capabilities",
+          "views": 43,
+          "date": "2026-05-11T11:00:37Z",
           "category": "development"
         },
         {
           "id": "Qi_vpz_5j7g",
           "title": "The ONNX Ecosystem",
-          "views": 31,
+          "views": 40,
           "date": "2026-05-10T16:28:12Z",
           "category": "development"
         },
@@ -45531,52 +47327,45 @@
           "category": "kubernetes"
         },
         {
-          "id": "ZfAc2pqcS-4",
-          "title": "OpenCV Library Architecture and Capabilities",
-          "views": 25,
-          "date": "2026-05-11T11:00:37Z",
-          "category": "development"
-        },
-        {
           "id": "ZbZdm5Opbno",
           "title": "The Architectural Blueprint of Apache DataFusion",
-          "views": 22,
+          "views": 25,
           "date": "2026-05-14T22:04:01Z",
-          "category": "development"
-        },
-        {
-          "id": "n9Ebc-0E478",
-          "title": "Building the Multimodal Al Lakehouse",
-          "views": 21,
-          "date": "2026-05-14T12:06:25Z",
           "category": "development"
         },
         {
           "id": "Gy-ky1pAF0U",
           "title": "The Blueprint of Reactivity",
-          "views": 19,
+          "views": 24,
           "date": "2026-05-16T20:24:00Z",
           "category": "development"
         },
         {
           "id": "ZUINk3dp9eA",
           "title": "The Architecture of Sequelize",
-          "views": 15,
+          "views": 23,
           "date": "2026-05-08T05:09:13Z",
           "category": "development"
         },
         {
-          "id": "BhzeYd4aqOQ",
-          "title": "Architecting Network Layers with Dio",
-          "views": 11,
-          "date": "2026-05-16T06:21:52Z",
+          "id": "n9Ebc-0E478",
+          "title": "Building the Multimodal Al Lakehouse",
+          "views": 20,
+          "date": "2026-05-14T12:06:25Z",
           "category": "development"
         },
         {
           "id": "LnJbrb0EUaE",
           "title": "The Prisma Ecosystem Architecture",
-          "views": 9,
+          "views": 17,
           "date": "2026-05-08T13:24:16Z",
+          "category": "development"
+        },
+        {
+          "id": "BhzeYd4aqOQ",
+          "title": "Architecting Network Layers with Dio",
+          "views": 14,
+          "date": "2026-05-16T06:21:52Z",
           "category": "development"
         }
       ]
@@ -45612,8 +47401,15 @@
         {
           "id": "0U-SUJCmKAU",
           "title": "From Stateful to Secure",
-          "views": 46,
+          "views": 47,
           "date": "2026-01-16T06:38:21Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "V9tvg6Yg3m4",
+          "title": "From Consensus Physics to Messaging Engineering",
+          "views": 45,
+          "date": "2026-05-07T22:45:08Z",
           "category": "kubernetes"
         },
         {
@@ -45645,13 +47441,6 @@
           "category": "kubernetes"
         },
         {
-          "id": "V9tvg6Yg3m4",
-          "title": "From Consensus Physics to Messaging Engineering",
-          "views": 17,
-          "date": "2026-05-07T22:45:08Z",
-          "category": "kubernetes"
-        },
-        {
           "id": "N4nRAfBZ3BE",
           "title": "Choosing Your Messaging Fabric on AKS",
           "views": 5,
@@ -45677,7 +47466,7 @@
         {
           "id": "-e7kvcUXxtw",
           "title": "DevSecOps on Azure Kubernetes Service",
-          "views": 24,
+          "views": 23,
           "date": "2026-04-29T21:49:39Z",
           "category": "kubernetes"
         },
@@ -45763,6 +47552,13 @@
       ],
       "videos": [
         {
+          "id": "jOw6d5zH658",
+          "title": "Engineering Al Agent Mastery with Waza",
+          "views": 282,
+          "date": "2026-05-09T14:32:47Z",
+          "category": "development"
+        },
+        {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
           "views": 277,
@@ -45770,16 +47566,9 @@
           "category": "development"
         },
         {
-          "id": "jOw6d5zH658",
-          "title": "Engineering Al Agent Mastery with Waza",
-          "views": 217,
-          "date": "2026-05-09T14:32:47Z",
-          "category": "development"
-        },
-        {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 157,
+          "views": 163,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -45872,43 +47661,6 @@
           "views": 30,
           "date": "2026-04-08T22:14:35Z",
           "category": "development"
-        }
-      ]
-    },
-    {
-      "tag": "cdc",
-      "categories": [
-        "kubernetes",
-        "development"
-      ],
-      "videos": [
-        {
-          "id": "nomIVRSBEG4",
-          "title": "Consuming CDC with ScyllaDB",
-          "views": 76,
-          "date": "2026-04-18T04:36:03Z",
-          "category": "kubernetes"
-        },
-        {
-          "id": "WRpjJV4SUKc",
-          "title": "Architecting Real-Time State",
-          "views": 75,
-          "date": "2026-04-05T12:14:36Z",
-          "category": "kubernetes"
-        },
-        {
-          "id": "am9FvNiJ24M",
-          "title": "The 2026 Change Data Capture Blueprint",
-          "views": 30,
-          "date": "2026-04-08T22:14:35Z",
-          "category": "development"
-        },
-        {
-          "id": "KdLQEv3Tiiw",
-          "title": "Mastering Hybrid CDC Architectures",
-          "views": 21,
-          "date": "2026-04-08T02:45:20Z",
-          "category": "kubernetes"
         }
       ]
     }
