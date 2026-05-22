@@ -12,22 +12,28 @@ The homepage is the first application in this monorepo. It's a React-based landi
 
 ## Tech Stack
 
-- **Runtime**: Bun
-- **Framework**: React 19.2.3
-- **Routing**: TanStack Router 1.144.0
-- **Build Tool**: Vite (latest)
-- **Language**: TypeScript 5.8.3 (strict mode enabled)
-- **Styling**: Tailwind CSS 4.1.18
-- **Charts**: Recharts 3.6.0
-- **AI**: Google GenAI SDK 1.34.0
-- **Linting/Formatting**: Biome (latest)
+- **Runtime**: [Bun](https://bun.sh) — **the only supported runtime**. All scripts, dev server, build, tests, and the `prebuild` pipeline run under `bun`. Do not use `npm`, `pnpm`, `yarn`, or `node` directly.
+- **Framework**: React 19.2.6
+- **Routing**: TanStack Router 1.170.6
+- **Build Tool**: Vite 8.0.14
+- **Language**: TypeScript 6.0.3 (strict mode enabled)
+- **Styling**: Tailwind CSS 4.3.0
+- **3D**: Three.js 0.184 (with `@react-three/fiber` 9.6 + `@react-three/drei` 10.7)
+- **Charts**: Recharts 3.8.1
+- **Animation**: framer-motion 12.40
+- **State**: TanStack React Query 5.100
+- **Validation**: Zod 4.4
+- **AI**: Google GenAI SDK 2.6
+- **Testing**: Vitest 4.1 + Happy DOM 20.9 + Testing Library 16.3
+- **Linting/Formatting**: Biome 2.4
+- **Deployment**: Vercel 54.4 (`@vercel/node` 5.8)
 
 ## Getting Started
 
 ### Prerequisites
 
-- [Bun](https://bun.sh) (recommended) or Node.js 18+
-- Google GenAI API key
+- [Bun](https://bun.sh) — required. The lockfile is `bun.lock` and `@types/bun` is wired into TypeScript. Other package managers and Node.js are not supported in this codebase.
+- Google GenAI API key (for Spark AI; the app renders without it)
 
 ### Installation
 
@@ -118,12 +124,19 @@ homepage/
 
 ## Available Scripts
 
+All scripts are invoked through `bun run` (no `npm`, `pnpm`, `yarn`, or `node`).
+
 | Command | Description |
 |---------|-------------|
 | `bun run dev` | Start development server |
-| `bun run build` | Build for production |
+| `bun run build` | Build for production (runs `prebuild` first) |
 | `bun run preview` | Preview production build |
-| `bun run router:generate` | Generate route types |
+| `bun run router:generate` | Generate route types (TanStack Router) |
+| `bun run sync:videos` | Sync YouTube video metadata into `public/videos-metadata.json` |
+| `bun run wiki:transcripts` | Export raw transcripts into `wiki/raw/transcripts/` and mirror to `public/transcripts/` |
+| `bun run wiki:generate` | Regenerate wiki markdown pages and `public/wiki-bundle.json` |
+| `bun run wiki:analysis` | Generate the semiannual channel analysis now |
+| `bun run wiki:analysis:if-due` | Generate the semiannual channel analysis only when due (Apr/Oct) |
 | `bun run format` | Format all files with Biome |
 | `bun run format:check` | Check formatting without changes |
 | `bun run lint` | Check for linting errors |
@@ -134,6 +147,10 @@ homepage/
 | `bun run test:ui` | Run tests with UI interface |
 | `bun run test:run` | Run tests once |
 | `bun run test:coverage` | Run tests with coverage report |
+| `bun run check:all` | Pre-push quality gate: `format:check` + `lint` + `test:coverage` |
+| `bun run deploy:vercel` | Deploy to Vercel production (use only with explicit user approval) |
+
+> **Note**: All standalone scripts under [`scripts/`](./scripts/) are executed via the Bun runtime (`bun scripts/<name>.ts`) and rely on Bun-specific APIs and `@types/bun`. Do not run them with `node` or `tsx`.
 
 ## Color Palette
 
