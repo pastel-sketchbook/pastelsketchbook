@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-05-20
+updated: 2026-05-22
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 159
+Total topics: 160
 
 ## Topics
 
@@ -168,8 +168,9 @@ Total topics: 159
 - [wasm](wasm.md) (2)
 - [workload archetypes](workload-archetypes.md) (2)
 - [workload identity](workload-identity.md) (2)
+- [workload identity federation](workload-identity-federation.md) (2)
 - [write-ahead log](write-ahead-log.md) (2)
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on May 20, 2026. Back to [videos index](../index.md).*
+*Auto-generated on May 22, 2026. Back to [videos index](../index.md).*

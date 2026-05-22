@@ -1,16 +1,9 @@
 {
-  "generatedAt": "2026-05-20T23:25:36.471Z",
-  "runLabel": "single: -tZGlR8Zztg",
+  "generatedAt": "2026-05-22T21:27:22.297Z",
+  "runLabel": "single: B7MMdnv3y1M",
   "attempted": 1,
-  "written": 0,
+  "written": 1,
   "skipped": 0,
-  "failedCount": 1,
-  "failed": [
-    {
-      "id": "-tZGlR8Zztg",
-      "title": "The Illusion of Design",
-      "category": "development",
-      "error": "Command failed: /Users/AD9C65/projects/pastel-projects/pastel-sketchbook/tools/yt-transcript/zig-out/bin/yt-transcript -tZGlR8Zztg --max-chars 120000"
-    }
-  ]
+  "failedCount": 0,
+  "failed": []
 }

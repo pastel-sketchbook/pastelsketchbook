@@ -32,9 +32,9 @@ A walk through the Typst compiler engine, tracing a `.typ` source file through p
 
 - [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 156 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline` · `layout` · `svg`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `pipeline` · `cli`)
-- [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 25 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `pipeline` · `rules`)
-- [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 458 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `pipeline` · `trait`)
-- [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 40 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `intermediate` · `representation`)
+- [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 27 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `pipeline` · `rules`)
+- [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 565 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `pipeline` · `trait`)
+- [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 43 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `intermediate` · `representation`)
 
 ---
 *Auto-generated on May 15, 2026. Back to [development](../development.md) · [index](../index.md).*

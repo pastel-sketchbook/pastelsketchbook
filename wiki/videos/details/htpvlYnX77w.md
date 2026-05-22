@@ -30,11 +30,11 @@ A self-guided roadmap for mastering machine learning in Rust, centered on the Bu
 
 ## Related Videos
 
-- [The Architecture of tracel-ai/models](https://youtu.be/kSQtbPEtDkY) — Development · 1 views · May 20, 2026 · [Details](kSQtbPEtDkY.md) (shared: `burn framework` · `burn` · `framework`)
-- [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 4 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `rust machine learning` · `rust` · `machine`)
-- [From 0 to N-Dimensions](https://youtu.be/6M76N3jhh1Q) — Development · 21 views · May 19, 2026 · [Details](6M76N3jhh1Q.md) (shared: `rust` · `ndarray` · `numerical`)
-- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `learning`)
-- [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `framework` · `rust`)
+- [The Architecture of tracel-ai/models](https://youtu.be/kSQtbPEtDkY) — Development · 12 views · May 20, 2026 · [Details](kSQtbPEtDkY.md) (shared: `burn framework` · `burn` · `framework`)
+- [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 17 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `rust machine learning` · `rust` · `machine`)
+- [From 0 to N-Dimensions](https://youtu.be/6M76N3jhh1Q) — Development · 27 views · May 19, 2026 · [Details](6M76N3jhh1Q.md) (shared: `rust` · `ndarray` · `numerical`)
+- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 22 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `burn` · `framework` · `rust`)
+- [Architecting Local Legal Embeddings](https://youtu.be/V6Ru7YYLneE) — Development · 6 views · May 22, 2026 · [Details](V6Ru7YYLneE.md) (shared: `burn` · `rust` · `learning`)
 
 ---
 *Auto-generated on May 20, 2026. Back to [development](../development.md) · [index](../index.md).*

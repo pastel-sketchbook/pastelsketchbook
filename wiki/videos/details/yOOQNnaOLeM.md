@@ -31,7 +31,7 @@ This video positions Zig as a pragmatic successor to C that preserves C's raw pe
 ## Related Videos
 
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 350 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `c interoperability` · `interoperability`)
-- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 32 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `memory management` · `memory`)
+- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 33 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `memory management` · `memory`)
 - [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 446 views · Feb 2, 2026 · [Details](xV2EAL3NAVM.md) (shared: `zig` · `comptime` · `systems programming`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `memory management` · `memory` · `management`)
 - [The Hybrid TUI Architecture](https://youtu.be/IZX3_9rZeMU) — Development · 546 views · Feb 10, 2026 · [Details](IZX3_9rZeMU.md) (shared: `memory management` · `memory` · `management`)

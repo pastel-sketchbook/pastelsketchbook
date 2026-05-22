@@ -2,7 +2,7 @@
 type: tag
 tags: [azure-event-hubs]
 sources: 3
-updated: 2026-05-20
+updated: 2026-05-22
 ---
 
 # azure event hubs
@@ -16,4 +16,4 @@ Videos connected by the topic `azure event hubs`.
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](../details/N4nRAfBZ3BE.md)
 
 ---
-*Auto-generated on May 20, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 22, 2026. Back to [topic index](index.md).*

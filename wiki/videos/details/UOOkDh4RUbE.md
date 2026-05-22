@@ -30,11 +30,11 @@ tn-file-upload is a production-grade streaming-first gRPC file service written i
 
 ## Related Videos
 
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 147 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `grpc` · `tonic` · `tokio`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 149 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `grpc` · `tonic` · `tokio`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `grpc` · `tonic` · `tokio`)
 - [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 124 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `grpc` · `streaming` · `tonic`)
 - [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 22 views · Jan 16, 2026 · [Details](0ttrfTfP864.md) (shared: `tokio` · `axum` · `kubernetes`)
-- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) — Development · 57 views · May 3, 2026 · [Details](07aDX5YB-ao.md) (shared: `grpc` · `tonic` · `axum`)
+- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) — Development · 58 views · May 3, 2026 · [Details](07aDX5YB-ao.md) (shared: `grpc` · `tonic` · `axum`)
 
 ---
 *Auto-generated on May 6, 2026. Back to [development](../development.md) · [index](../index.md).*

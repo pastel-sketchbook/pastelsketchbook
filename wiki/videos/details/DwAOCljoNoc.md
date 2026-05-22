@@ -45,11 +45,11 @@ Welcome.  Today  we  are  exploring  Hyper, the  foundation  of  fast  HTTP  in 
 
 ## Related Videos
 
-- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) — Development · 57 views · May 3, 2026 · [Details](07aDX5YB-ao.md) (shared: `hyper` · `http` · `service`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 147 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `service` · `async`)
+- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) — Development · 58 views · May 3, 2026 · [Details](07aDX5YB-ao.md) (shared: `hyper` · `http` · `service`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 149 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `service` · `async`)
 - [Modern Dart](https://youtu.be/JBh6rzeS-Qc) — Development · 81 views · Jan 20, 2026 · [Details](JBh6rzeS-Qc.md) (shared: `feature flags` · `feature` · `flags`)
 - [OpenFeature: The Standard for Feature Flagging](https://youtu.be/X65YHZUnFq0) — Development · 51 views · Apr 16, 2026 · [Details](X65YHZUnFq0.md) (shared: `feature flags` · `feature` · `flags`)
-- [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 458 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `rust` · `service` · `trait`)
+- [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 565 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `rust` · `service` · `trait`)
 
 ---
 *Auto-generated on May 2, 2026. Back to [development](../development.md) · [index](../index.md).*

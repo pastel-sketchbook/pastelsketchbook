@@ -30,11 +30,11 @@ This presentation tours the architecture of the `tracel-ai/models` repository, a
 
 ## Related Videos
 
+- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 22 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `burn` · `framework` · `deep`)
 - [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 24 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `burn framework` · `burn` · `framework`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 434 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `deep` · `learning` · `architecture`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 444 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `deep` · `learning` · `architecture`)
 - [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) — Development · 54 views · Feb 28, 2026 · [Details](AcpVuvtSXwI.md) (shared: `architecture` · `transformer`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 74 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `model` · `architecture`)
-- [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](9oSUtndLto4.md) (shared: `model` · `models`)
 
 ---
 *Auto-generated on May 20, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -31,10 +31,10 @@ A four-layer blueprint of the OpenCV library, from build-system foundations on A
 ## Related Videos
 
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `library` · `architecture` · `webassembly`)
-- [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 40 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `hardware` · `abstraction` · `inference`)
+- [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 43 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `hardware` · `abstraction` · `inference`)
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `architecture` · `abstraction` · `build`)
+- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 22 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `architecture` · `hardware` · `inference`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 30 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `architecture` · `abstraction` · `api`)
-- [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 26 views · Feb 6, 2026 · [Details](A96r5gqwUrI.md) (shared: `abstraction` · `simd` · `optimization`)
 
 ---
 *Auto-generated on May 15, 2026. Back to [development](../development.md) · [index](../index.md).*

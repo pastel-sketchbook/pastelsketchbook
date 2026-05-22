@@ -30,11 +30,11 @@ This talk frames AI providers as the new ISPs, where subscriptions sell cognitiv
 
 ## Related Videos
 
-- [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) — Development · 114 views · Feb 14, 2026 · [Details](kQc99Io3pCo.md) (shared: `context` · `enterprise` · `compliance`)
-- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 69 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `economics` · `data`)
+- [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) — Development · 115 views · Feb 14, 2026 · [Details](kQc99Io3pCo.md) (shared: `context` · `enterprise` · `compliance`)
+- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) — Finance · 13 views · May 21, 2026 · [Details](9xDzB24tO4I.md) (shared: `enterprise` · `data`)
+- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 71 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `economics` · `data`)
 - [The Exchange Rate of Your Life](https://youtu.be/MBnVggs6k5g) — Finance · 17 views · Jan 22, 2026 · [Details](MBnVggs6k5g.md) (shared: `rate`)
 - [The Mystery of the Nickel Coke](https://youtu.be/l9UUqD2Bz2E) — Finance · 10 views · Apr 10, 2026 · [Details](l9UUqD2Bz2E.md) (shared: `economics`)
-- [Nesting in Global Finance](https://youtu.be/YYVxMSqBqe8) — Finance · 6 views · Apr 12, 2026 · [Details](YYVxMSqBqe8.md) (shared: `compliance`)
 
 ---
 *Auto-generated on May 20, 2026. Back to [finance](../finance.md) · [index](../index.md).*

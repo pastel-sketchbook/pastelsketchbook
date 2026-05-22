@@ -32,8 +32,8 @@ This video introduces Rusty Object Notation (RON) as a Rust-native data/config s
 ## Related Videos
 
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `serde serialization` · `serde` · `serialization`)
-- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 49 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `serde` · `serialization` · `rust`)
-- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 32 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `rust` · `trade-offs` · `design`)
+- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 48 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `serde` · `serialization` · `rust`)
+- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 33 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `rust` · `trade-offs` · `design`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `serde serialization` · `serde` · `serialization`)
 - [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 32 views · Feb 23, 2026 · [Details](ARWkoc3E8uE.md) (shared: `rust` · `design`)
 

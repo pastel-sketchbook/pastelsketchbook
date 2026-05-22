@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 343
-updated: 2026-05-20
+sources: 348
+updated: 2026-05-22
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 343 |
-| Total Views | 28.3K |
+| Total Videos | 348 |
+| Total Views | 29.0K |
 | Categories | 6 |
-| Last Updated | May 20, 2026 |
+| Last Updated | May 22, 2026 |
 
 ## Categories
 
@@ -24,27 +24,27 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 ### [Korea](korea.md)
 
-Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 20 videos, 228 total views.
+Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 20 videos, 232 total views.
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 26 videos, 541 total views.
+Videos covering personal finance, investing, and economics. 28 videos, 563 total views.
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 67 videos, 2.0K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 68 videos, 2.0K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 209 videos, 24.9K total views.
+Videos about software development, tools, workflows, and engineering practices. 211 videos, 25.6K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 13 videos, 427 total views.
+Videos on cybersecurity, application security, and security engineering. 13 videos, 431 total views.
 
 ### [Programming](programming.md)
 
-Videos about programming languages, paradigms, and computer science concepts. 8 videos, 211 total views.
+Videos about programming languages, paradigms, and computer science concepts. 8 videos, 212 total views.
 
 ## Cross-Category Tags
 
@@ -52,10 +52,11 @@ Tags appearing in multiple categories (potential synthesis targets):
 
 | Tag | Categories |
 |-----|------------|
+| `ai` | [Finance](finance.md), [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `curiosity` | [Finance](finance.md), [Kubernetes](kubernetes.md), [Development](development.md) |
 | `shift left` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `agent` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
-| `ai` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
+| `2026` | [Finance](finance.md), [Development](development.md) |
 | `levy` | [Finance](finance.md), [Development](development.md) |
 | `notebooklm` | [Finance](finance.md), [Development](development.md) |
 | `go` | [Kubernetes](kubernetes.md), [Development](development.md) |
@@ -66,7 +67,6 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `skill` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `cloud` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `orchestration` | [Kubernetes](kubernetes.md), [Security](security.md) |
-| `scylladb` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on May 20, 2026. See [wiki index](../index.md).*
+*Auto-generated on May 22, 2026. See [wiki index](../index.md).*

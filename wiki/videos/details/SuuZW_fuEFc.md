@@ -38,11 +38,11 @@ rr-mailtrap is a single-binary Rust SMTP sandbox that traps outbound test mail o
 
 ## Related Videos
 
-- [The Evolution of File Detection](https://youtu.be/85pyYZFJ6_s) — Development · 48 views · May 7, 2026 · [Details](85pyYZFJ6_s.md) (shared: `magika` · `content` · `detection`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 434 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `onnx` · `zero` · `safety`)
-- [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 29 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `content` · `import` · `export`)
+- [The Evolution of File Detection](https://youtu.be/85pyYZFJ6_s) — Development · 49 views · May 7, 2026 · [Details](85pyYZFJ6_s.md) (shared: `magika` · `content` · `detection`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 444 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `onnx` · `zero` · `safety`)
+- [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 30 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `content` · `import` · `export`)
 - [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 55 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `binary` · `dependencies`)
-- [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 96 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `mode` · `detection`)
+- [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 97 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `mode` · `detection`)
 
 ---
 *Auto-generated on May 9, 2026. Back to [development](../development.md) · [index](../index.md).*

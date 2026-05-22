@@ -34,7 +34,7 @@ This video walks through the foundational RFC documents that define the internet
 - [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 209 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `tcp` · `http` · `tls`)
 - [RFC 862 and the Echo Protocol](https://youtu.be/ea5lpF3RyzE) — Development · 39 views · Apr 7, 2026 · [Details](ea5lpF3RyzE.md) (shared: `rfc` · `tcp`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 74 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `model`)
-- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 49 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `model`)
+- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 48 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `model`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

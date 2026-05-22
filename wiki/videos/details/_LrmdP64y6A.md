@@ -30,8 +30,8 @@ This video presents a connoisseur's master class on apple varieties, treating po
 ## Related Videos
 
 - [A global geography of folded dough](https://youtu.be/UorjmtDDRgQ) — Finance · 14 views · May 18, 2026 · [Details](UorjmtDDRgQ.md) (shared: `culinary`)
-- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 147 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `architecture`)
+- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 88 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 149 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `architecture`)
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 12 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `architecture`)
 - [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) — Development · 54 views · Feb 28, 2026 · [Details](AcpVuvtSXwI.md) (shared: `architecture`)
 

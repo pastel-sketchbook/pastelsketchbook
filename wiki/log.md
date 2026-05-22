@@ -203,3 +203,23 @@ Synced 343 videos across 6 categories (korea=20, finance=26, kubernetes=67, deve
 ## [2026-05-20] ingest | Video Transcripts
 
 Exported 1 transcript files (single: t-WvRifOu-E) to `wiki/raw/transcripts`.
+
+## [2026-05-22] ingest | Video Metadata Sync
+
+Synced 348 videos across 6 categories (korea=20, finance=28, kubernetes=68, development=211, security=13, programming=8).
+
+## [2026-05-22] ingest | Video Transcripts
+
+Exported 1 transcript files (single: 9xDzB24tO4I) to `wiki/raw/transcripts`.
+
+## [2026-05-22] enrich | New Video Detail Pages & Book Sync
+
+Fetched raw transcripts for 5 new videos from 2026-05-22 metadata sync: 9xDzB24tO4I, rjhabJ8Bx5U, 9ga0NT3ZohQ, V6Ru7YYLneE, B7MMdnv3y1M. Generated 5 detail pages from raw transcripts. Regenerated wiki bundle (348 videos, 348 with detail). Reindexed zmd (867 docs, 373 new). Synced 2 non-hidden new videos to books.json: 9xDzB24tO4I → Architect's Sketchbook Ch8 (2026 Architectural Standard); 9ga0NT3ZohQ → Architect's Sketchbook Ch6 (Modern Delivery Flywheel). Skipped 3 hidden videos (rjhabJ8Bx5U, V6Ru7YYLneE, B7MMdnv3y1M). Public transcripts mirror in sync. Build verified.
+
+## [2026-05-22] enrich | Released Hidden Videos & Book Sync
+
+Removed 3 videos from `HIDDEN_VIDEO_IDS` in `homepage/src/config/videos.ts`: rjhabJ8Bx5U, V6Ru7YYLneE, B7MMdnv3y1M. Classified into books.json: rjhabJ8Bx5U → Architect's Sketchbook Ch7 (Architecture of Wealth); V6Ru7YYLneE + B7MMdnv3y1M → Internals Companion Ch12 (ML Inference Stack). Build verified.
+
+## [2026-05-22] enrich | Book Sync Adjustment
+
+Removed rjhabJ8Bx5U (Architecting the New Capital Regime) from Architect's Sketchbook Ch7 per user request. Video remains visible in showcase but is not classified into any book chapter.

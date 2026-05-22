@@ -44,10 +44,10 @@ Welcome.  It  is  a  pleasure  to  have  you here  for  today's  session  where 
 
 ## Related Videos
 
-- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `tokio` · `runtime`)
-- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 28 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `tokio runtime` · `tokio`)
+- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 88 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `tokio` · `runtime`)
+- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `tokio runtime` · `tokio`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `tonic` · `grpc` · `tokio`)
-- [The Tokio Architecture Blueprint](https://youtu.be/9HUPNhA3OrI) — Development · 50 views · May 15, 2026 · [Details](9HUPNhA3OrI.md) (shared: `rust` · `tokio` · `runtime`)
+- [The Tokio Architecture Blueprint](https://youtu.be/9HUPNhA3OrI) — Development · 49 views · May 15, 2026 · [Details](9HUPNhA3OrI.md) (shared: `rust` · `tokio` · `runtime`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `tokio` · `runtime`)
 
 ---

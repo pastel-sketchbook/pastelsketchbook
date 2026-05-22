@@ -36,9 +36,9 @@ Pastel Levy adopts a dual-store architecture in which PostgreSQL remains the sol
 ## Related Videos
 
 - [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 25 views · Apr 29, 2026 · [Details](GERT8PoS9Qk.md) (shared: `vector search` · `vector` · `search`)
-- [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 20 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `lancedb` · `vector` · `search`)
-- [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 129 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `vector search` · `vector` · `search`)
-- [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 25 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `architecture` · `columnar` · `engine`)
+- [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 21 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `lancedb` · `vector` · `search`)
+- [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 130 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `vector search` · `vector` · `search`)
+- [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 27 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `architecture` · `columnar` · `engine`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `integration` · `architecture`)
 
 ---

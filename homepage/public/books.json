@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T10:00:00Z",
+  "generatedAt": "2026-05-22T22:00:00Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -46,7 +46,7 @@
           "number": 6,
           "title": "The Modern Delivery Flywheel",
           "summary": "Shift-left testing, conventional commits, trunk-based development, and GitOps form a flywheel where each practice accelerates the next. This chapter connects the dots from a developer's commit to a production canary, through the lens of continuous flow.",
-          "videoIds": ["B2x09utLjtM", "5-ZNXQegVhs", "tcrNdx1yH_E", "5KB2zLGjaps", "PNFlYx8HiOM", "eZNBXDUc8OQ"],
+          "videoIds": ["B2x09utLjtM", "5-ZNXQegVhs", "tcrNdx1yH_E", "5KB2zLGjaps", "PNFlYx8HiOM", "eZNBXDUc8OQ", "9ga0NT3ZohQ"],
           "tags": ["devops", "gitops", "trunk-based", "cicd"]
         },
         {
@@ -60,7 +60,7 @@
           "number": 8,
           "title": "The 2026 Architectural Standard",
           "summary": "The era of distributed cluster complexity is ending. ClickHouse replaces the fragmented warehouse landscape, purpose-built databases replace component chaining, and AI agents reshape the SDLC. This chapter is the manifesto for what comes next.",
-          "videoIds": ["WHonjixQgBY", "Z98SHl4nSFI", "z_W9dX6fliM", "YoIXlqspLWE", "Dx8pFmojxL4"],
+          "videoIds": ["WHonjixQgBY", "Z98SHl4nSFI", "z_W9dX6fliM", "YoIXlqspLWE", "Dx8pFmojxL4", "9xDzB24tO4I"],
           "tags": ["architecture", "ai-agents", "databases", "future"]
         },
         {
@@ -173,7 +173,7 @@
           "number": 12,
           "title": "The ML Inference Stack",
           "summary": "ONNX provides the universal intermediate representation — a graph/node/value IR with SSA validation, operator schemas, and version conversion adapters that decouple model creation from hardware execution. Candle compiles Rust-native inference to WASM for serverless cold starts. Burn layers a tensor abstraction over pluggable backends. This chapter traces a model from training framework through ONNX IR to optimized hardware execution.",
-          "videoIds": ["Qi_vpz_5j7g", "8PaVKQoDReY", "joYJ6rPN3UI", "_bFOZ51Q55Y", "fNN88ZXWYKU", "AvysIjFrTEw", "htpvlYnX77w", "KR188eZ9gRE", "kSQtbPEtDkY", "6M76N3jhh1Q"],
+          "videoIds": ["Qi_vpz_5j7g", "8PaVKQoDReY", "joYJ6rPN3UI", "_bFOZ51Q55Y", "fNN88ZXWYKU", "AvysIjFrTEw", "htpvlYnX77w", "KR188eZ9gRE", "kSQtbPEtDkY", "6M76N3jhh1Q", "B7MMdnv3y1M", "V6Ru7YYLneE"],
           "tags": ["onnx", "candle", "burn", "ml-inference", "interoperability", "computer-vision"]
         },
         {
