@@ -30,14 +30,18 @@ The landing page for Pastel Sketchbook. It features:
 - **Philosophy**: Core values and learning approach
 
 **Tech Stack**:
-- React 19.2.3
-- TanStack Router 1.147.3
-- Vite 7.3.1
-- Tailwind CSS 4.1.18
-- Google GenAI SDK
-- Recharts (charts)
-- Biome (formatting/linting)
-- Vitest (testing)
+- React 19.2.6
+- TanStack Router 1.170.6
+- Vite 8.0.14
+- TypeScript 6.0.3
+- Tailwind CSS 4.3.0
+- Three.js 0.184 (React Three Fiber + Drei)
+- Recharts 3.8.1
+- framer-motion 12.40
+- Google GenAI SDK 2.6
+- Zod 4.4
+- Biome 2.4 (formatting/linting)
+- Vitest 4.1 + Happy DOM (testing)
 
 **Location**: `homepage/`
 
@@ -210,13 +214,9 @@ This is an active development project. See **CONTRIBUTING.md** (coming soon) for
 
 ## License
 
-TBD
+MIT — see [LICENSE](LICENSE).
 
 ## Contact
 
 For questions or to join the community, visit the homepage at [pastelsketchbook.com](https://pastelsketchbook.com) or open an issue on GitHub.
 
----
-
-**Last Updated**: January 12, 2026  
-**Project Stage**: MVP Development (Homepage Phase Complete)
