@@ -34,7 +34,7 @@ This session deconstructs the architecture of Rust's `ndarray` crate, explaining
 - [Rust 1.95.0](https://youtu.be/izLrX-02IQk) — Development · 215 views · Apr 18, 2026 · [Details](izLrX-02IQk.md) (shared: `crate` · `macro` · `rust`)
 - [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 61 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `arrays` · `array`)
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 71 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `type` · `rust`)
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 51 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `type` · `rust`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 55 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `type` · `rust`)
 
 ---
 *Auto-generated on May 20, 2026. Back to [development](../development.md) · [index](../index.md).*

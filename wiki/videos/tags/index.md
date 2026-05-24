@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 160
+Total topics: 164
 
 ## Topics
 
@@ -71,6 +71,7 @@ Total topics: 160
 - [axum](axum.md) (2)
 - [axum web framework](axum-web-framework.md) (2)
 - [barbell strategy](barbell-strategy.md) (2)
+- [burn deep learning framework](burn-deep-learning-framework.md) (2)
 - [burn framework](burn-framework.md) (2)
 - [c interoperability](c-interoperability.md) (2)
 - [cache locality](cache-locality.md) (2)
@@ -114,6 +115,7 @@ Total topics: 160
 - [korean travel](korean-travel.md) (2)
 - [ktx train](ktx-train.md) (2)
 - [kubernetes architecture](kubernetes-architecture.md) (2)
+- [kubernetes orchestration](kubernetes-orchestration.md) (2)
 - [kubernetes security](kubernetes-security.md) (2)
 - [kubernetes services](kubernetes-services.md) (2)
 - [local-first search](local-first-search.md) (2)
@@ -139,6 +141,7 @@ Total topics: 160
 - [portfolio allocation](portfolio-allocation.md) (2)
 - [problem decomposition](problem-decomposition.md) (2)
 - [qmd](qmd.md) (2)
+- [ratatui terminal ui](ratatui-terminal-ui.md) (2)
 - [rayon data parallelism](rayon-data-parallelism.md) (2)
 - [request lifecycle](request-lifecycle.md) (2)
 - [revsets](revsets.md) (2)
@@ -152,6 +155,7 @@ Total topics: 160
 - [service-to-service auth](service-to-service-auth.md) (2)
 - [single sign-on](single-sign-on.md) (2)
 - [stateful workloads](stateful-workloads.md) (2)
+- [tauri 2 desktop shell](tauri-2-desktop-shell.md) (2)
 - [terminal ui](terminal-ui.md) (2)
 - [terraform](terraform.md) (2)
 - [text-to-speech](text-to-speech.md) (2)
@@ -173,4 +177,4 @@ Total topics: 160
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on May 22, 2026. Back to [videos index](../index.md).*
+*Auto-generated on May 23, 2026. Back to [videos index](../index.md).*

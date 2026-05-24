@@ -30,7 +30,7 @@ This video presents a 2026 architectural manifesto for modern database selection
 
 ## Related Videos
 
-- [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) — Kubernetes · 70 views · Mar 22, 2026 · [Details](QE51ybyrQDM.md) (shared: `distributed` · `architecture` · `patterns`)
+- [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) — Kubernetes · 71 views · Mar 22, 2026 · [Details](QE51ybyrQDM.md) (shared: `distributed` · `architecture` · `patterns`)
 - [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 35 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `database` · `distributed` · `architecture`)
 - [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 29 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `distributed` · `architecture` · `data`)
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 21 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `sql` · `architecture` · `data`)

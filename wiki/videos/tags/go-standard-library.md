@@ -2,7 +2,7 @@
 type: tag
 tags: [go-standard-library]
 sources: 3
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # go standard library
@@ -16,4 +16,4 @@ Videos connected by the topic `go standard library`.
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](../details/guwVjGsg3h4.md)
 
 ---
-*Auto-generated on May 22, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 23, 2026. Back to [topic index](index.md).*

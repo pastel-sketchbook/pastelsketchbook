@@ -39,7 +39,7 @@ This video addresses the tendency of AI coding agents to generate outdated Go co
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `go standard library` · `standard` · `library`)
 - [Taming the Genie](https://youtu.be/MaP2i4dTiQk) — Development · 16 views · Jan 23, 2026 · [Details](MaP2i4dTiQk.md) (shared: `software` · `llm` · `code`)
 - [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 158 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `technical` · `debt` · `code`)
-- [The Anatomy of Modern Text](https://youtu.be/bAoDvQgmGjM) — Development · 46 views · May 17, 2026 · [Details](bAoDvQgmGjM.md) (shared: `standard` · `code`)
+- [The Anatomy of Modern Text](https://youtu.be/bAoDvQgmGjM) — Development · 47 views · May 17, 2026 · [Details](bAoDvQgmGjM.md) (shared: `standard` · `code`)
 
 ---
 *Auto-generated on Apr 6, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [hardware-acceleration]
 sources: 2
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # hardware acceleration
@@ -15,4 +15,4 @@ Videos connected by the topic `hardware acceleration`.
 - [PictureViewer](https://youtu.be/HiaotGxHTfo) — Development · 15 views · Feb 25, 2026 · [Details](../details/HiaotGxHTfo.md)
 
 ---
-*Auto-generated on May 22, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 23, 2026. Back to [topic index](index.md).*

@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, azure, rabbitmq, cue, go, k8s, shift left, cdc]
 sources: 68
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # Kubernetes
@@ -23,7 +23,7 @@ updated: 2026-05-22
 
 ### AKS & Networking (22 videos)
 
-- [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) -- 6 views, May 22, 2026 · [Details](details/9ga0NT3ZohQ.md)
+- [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) -- 9 views, May 22, 2026 · [Details](details/9ga0NT3ZohQ.md)
 - [The Complete Local Azure Environment](https://youtu.be/u_ooo1WDAc8) -- 16 views, May 16, 2026 · [Details](details/u_ooo1WDAc8.md)
 - [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) -- 12 views, May 6, 2026 · [Details](details/4YsX6tYi5x4.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
@@ -48,7 +48,7 @@ updated: 2026-05-22
 
 ### AI & ML (9 videos)
 
-- [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) -- 6 views, May 22, 2026 · [Details](details/9ga0NT3ZohQ.md)
+- [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) -- 9 views, May 22, 2026 · [Details](details/9ga0NT3ZohQ.md)
 - [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) -- 67 views, Apr 25, 2026 · [Details](details/quD4pyCwKB4.md)
 - [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 16 views, Apr 22, 2026 · [Details](details/eZNBXDUc8OQ.md)
 - [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) -- 21 views, Apr 22, 2026 · [Details](details/p9LNSeAt5Zw.md)
@@ -60,7 +60,7 @@ updated: 2026-05-22
 
 ### Go (9 videos)
 
-- [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) -- 6 views, May 22, 2026 · [Details](details/9ga0NT3ZohQ.md)
+- [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) -- 9 views, May 22, 2026 · [Details](details/9ga0NT3ZohQ.md)
 - [The Complete Local Azure Environment](https://youtu.be/u_ooo1WDAc8) -- 16 views, May 16, 2026 · [Details](details/u_ooo1WDAc8.md)
 - [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) -- 23 views, Apr 29, 2026 · [Details](details/-e7kvcUXxtw.md)
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 76 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
@@ -87,7 +87,7 @@ updated: 2026-05-22
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) -- 21 views, Apr 7, 2026 · [Details](details/KdLQEv3Tiiw.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) -- 69 views, Mar 26, 2026 · [Details](details/lexZnOlyml0.md)
-- [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) -- 70 views, Mar 22, 2026 · [Details](details/QE51ybyrQDM.md)
+- [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) -- 71 views, Mar 22, 2026 · [Details](details/QE51ybyrQDM.md)
 - [The Architecture of Modern Identity](https://youtu.be/n-Yt33ZdEHw) -- 62 views, Mar 18, 2026 · [Details](details/n-Yt33ZdEHw.md)
 - [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) -- 27 views, Feb 19, 2026 · [Details](details/rk_3xU9OF-k.md)
 - [ScyllaDB: The Next-Generation NoSQL Platform](https://youtu.be/mYClRFIlsFc) -- 13 views, Feb 19, 2026 · [Details](details/mYClRFIlsFc.md)
@@ -96,7 +96,7 @@ updated: 2026-05-22
 
 ### CI/CD & DevOps (8 videos)
 
-- [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) -- 6 views, May 22, 2026 · [Details](details/9ga0NT3ZohQ.md)
+- [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) -- 9 views, May 22, 2026 · [Details](details/9ga0NT3ZohQ.md)
 - [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 16 views, Apr 22, 2026 · [Details](details/eZNBXDUc8OQ.md)
 - [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) -- 33 views, Apr 14, 2026 · [Details](details/mGMaqTvWrCc.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 21 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
@@ -170,7 +170,7 @@ updated: 2026-05-22
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Seamless GitOps on Azure | 6 | May 22, 2026 | [Watch](https://youtu.be/9ga0NT3ZohQ) | [Wiki](details/9ga0NT3ZohQ.md) |
+| 1 | Seamless GitOps on Azure | 9 | May 22, 2026 | [Watch](https://youtu.be/9ga0NT3ZohQ) | [Wiki](details/9ga0NT3ZohQ.md) |
 | 2 | The Complete Local Azure Environment | 16 | May 16, 2026 | [Watch](https://youtu.be/u_ooo1WDAc8) | [Wiki](details/u_ooo1WDAc8.md) |
 | 3 | The Anatomy of Kubernetes | 26 | May 12, 2026 | [Watch](https://youtu.be/WrZN5AgpaW4) | [Wiki](details/WrZN5AgpaW4.md) |
 | 4 | From Consensus Physics to Messaging Engineering | 45 | May 7, 2026 | [Watch](https://youtu.be/V9tvg6Yg3m4) | [Wiki](details/V9tvg6Yg3m4.md) |
@@ -178,7 +178,7 @@ updated: 2026-05-22
 | 6 | DevSecOps on Azure Kubernetes Service | 23 | Apr 29, 2026 | [Watch](https://youtu.be/-e7kvcUXxtw) | [Wiki](details/-e7kvcUXxtw.md) |
 | 7 | Architecting Cost Efficiency for Al Workloads | 25 | Apr 25, 2026 | [Watch](https://youtu.be/eaPXjvB194w) | [Wiki](details/eaPXjvB194w.md) |
 | 8 | Enterprise Infrastructure as Code for Al Agents | 67 | Apr 25, 2026 | [Watch](https://youtu.be/quD4pyCwKB4) | [Wiki](details/quD4pyCwKB4.md) |
-| 9 | Kubernetes 1.36 (Haru) | 54 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
+| 9 | Kubernetes 1.36 (Haru) | 55 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
 | 10 | Architecting Modern Deployments | 16 | Apr 22, 2026 | [Watch](https://youtu.be/eZNBXDUc8OQ) | [Wiki](details/eZNBXDUc8OQ.md) |
 | 11 | Scaling Node.js from PM2 to Cloud-Native Orchestration | 21 | Apr 22, 2026 | [Watch](https://youtu.be/p9LNSeAt5Zw) | [Wiki](details/p9LNSeAt5Zw.md) |
 | 12 | The Cloud Rosetta Stone | 20 | Apr 18, 2026 | [Watch](https://youtu.be/PMgUhFxrjPc) | [Wiki](details/PMgUhFxrjPc.md) |
@@ -193,7 +193,7 @@ updated: 2026-05-22
 | 21 | Advanced Microservices Blueprint on Azure Kubernetes Service | 21 | Apr 1, 2026 | [Watch](https://youtu.be/BiYKKVsJROk) | [Wiki](details/BiYKKVsJROk.md) |
 | 22 | Azure Enterprise Edge Lab | 9 | Mar 31, 2026 | [Watch](https://youtu.be/fMjflPvjaJ8) | [Wiki](details/fMjflPvjaJ8.md) |
 | 23 | Agentic Platform Engineering with GitHub Copilot | 69 | Mar 26, 2026 | [Watch](https://youtu.be/lexZnOlyml0) | [Wiki](details/lexZnOlyml0.md) |
-| 24 | Designing the Event-Driven Landscape | 70 | Mar 22, 2026 | [Watch](https://youtu.be/QE51ybyrQDM) | [Wiki](details/QE51ybyrQDM.md) |
+| 24 | Designing the Event-Driven Landscape | 71 | Mar 22, 2026 | [Watch](https://youtu.be/QE51ybyrQDM) | [Wiki](details/QE51ybyrQDM.md) |
 | 25 | Migrating Workloads from AWS to Azure | 9 | Mar 22, 2026 | [Watch](https://youtu.be/RLlEbcXO6k8) | [Wiki](details/RLlEbcXO6k8.md) |
 | 26 | Continuous Flow | 15 | Mar 22, 2026 | [Watch](https://youtu.be/tcrNdx1yH_E) | [Wiki](details/tcrNdx1yH_E.md) |
 | 27 | The Architecture of Modern Identity | 62 | Mar 18, 2026 | [Watch](https://youtu.be/n-Yt33ZdEHw) | [Wiki](details/n-Yt33ZdEHw.md) |
@@ -245,10 +245,10 @@ updated: 2026-05-22
 
 ## See Also
 
-- [Security](security.md) -- shared tags: `ai`, `shift left`, `agent`, `security`, `azure`, `orchestration`
+- [Security](security.md) -- shared tags: `ai`, `shift left`, `agent`, `governance`, `security`, `azure`, `orchestration`
 - [Development](development.md) -- shared tags: `ai`, `curiosity`, `shift left`, `agent`, `go`, `internal`, `rabbitmq`, `skill`, `cloud`, `scylladb`, `cdc`, `rust`, `java`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `copilot`, `engineering`, `identity`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `messaging`
 - [Finance](finance.md) -- shared tags: `ai`, `curiosity`
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on May 22, 2026. Back to [index](index.md).*
+*Auto-generated on May 23, 2026. Back to [index](index.md).*

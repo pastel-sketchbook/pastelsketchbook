@@ -35,7 +35,7 @@ This architecture rationale documents a Rust-native Burn-powered ML pipeline for
 
 ## Related Videos
 
-- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 22 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `rust` · `burn` · `pipeline`)
+- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 27 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `rust` · `burn` · `pipeline`)
 - [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 24 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `rust` · `burn` · `learning`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `learning`)
 - [Hangul Typing](https://youtu.be/Pp36ysjfWd8) — Development · 9 views · Jan 22, 2026 · [Details](Pp36ysjfWd8.md) (shared: `korean` · `learning`)

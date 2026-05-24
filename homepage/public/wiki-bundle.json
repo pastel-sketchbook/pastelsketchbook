@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-22T21:43:24.680Z",
-  "totalVideos": 348,
+  "generatedAt": "2026-05-24T02:00:00.286Z",
+  "totalVideos": 352,
   "categories": [
     {
       "name": "korea",
@@ -9,7 +9,7 @@
         "finance"
       ],
       "videoCount": 20,
-      "totalViews": 232,
+      "totalViews": 233,
       "topTags": [
         {
           "tag": "viaje",
@@ -73,7 +73,7 @@
         {
           "id": "t-WvRifOu-E",
           "title": "Dossier de Reubicación en Costa Rica",
-          "views": 6,
+          "views": 7,
           "date": "2026-05-20T22:22:00Z",
           "category": "korea",
           "detail": {
@@ -1453,7 +1453,7 @@
         "development"
       ],
       "videoCount": 28,
-      "totalViews": 563,
+      "totalViews": 571,
       "topTags": [
         {
           "tag": "curiosity",
@@ -1689,7 +1689,7 @@
             {
               "id": "9xDzB24tO4I",
               "title": "The 2026 Enterprise AI Blueprint",
-              "views": 13,
+              "views": 14,
               "date": "2026-05-21T21:09:53Z",
               "category": "finance",
               "tags": [
@@ -1818,7 +1818,7 @@
         {
           "id": "9xDzB24tO4I",
           "title": "The 2026 Enterprise AI Blueprint",
-          "views": 13,
+          "views": 14,
           "date": "2026-05-21T21:09:53Z",
           "category": "finance",
           "tags": [
@@ -1885,7 +1885,7 @@
         {
           "id": "rjhabJ8Bx5U",
           "title": "Architecting the New Capital Regime",
-          "views": 7,
+          "views": 12,
           "date": "2026-05-21T07:04:45Z",
           "category": "finance",
           "tags": [
@@ -2140,7 +2140,7 @@
         {
           "id": "M_NbzCCHFp0",
           "title": "The Orbital Compute Blueprint",
-          "views": 71,
+          "views": 73,
           "date": "2026-05-02T20:46:53Z",
           "category": "finance",
           "tags": [
@@ -3602,7 +3602,7 @@
         "development"
       ],
       "videoCount": 68,
-      "totalViews": 1981,
+      "totalViews": 1986,
       "topTags": [
         {
           "tag": "aks",
@@ -3692,7 +3692,7 @@
             {
               "id": "9ga0NT3ZohQ",
               "title": "Seamless GitOps on Azure",
-              "views": 6,
+              "views": 9,
               "date": "2026-05-22T09:48:19Z",
               "category": "kubernetes",
               "tags": [
@@ -5317,7 +5317,7 @@
             {
               "id": "9ga0NT3ZohQ",
               "title": "Seamless GitOps on Azure",
-              "views": 6,
+              "views": 9,
               "date": "2026-05-22T09:48:19Z",
               "category": "kubernetes",
               "tags": [
@@ -5994,7 +5994,7 @@
             {
               "id": "9ga0NT3ZohQ",
               "title": "Seamless GitOps on Azure",
-              "views": 6,
+              "views": 9,
               "date": "2026-05-22T09:48:19Z",
               "category": "kubernetes",
               "tags": [
@@ -7595,7 +7595,7 @@
             {
               "id": "QE51ybyrQDM",
               "title": "Designing the Event-Driven Landscape",
-              "views": 70,
+              "views": 71,
               "date": "2026-03-23T04:50:00Z",
               "category": "kubernetes",
               "tags": [
@@ -8032,7 +8032,7 @@
             {
               "id": "9ga0NT3ZohQ",
               "title": "Seamless GitOps on Azure",
-              "views": 6,
+              "views": 9,
               "date": "2026-05-22T09:48:19Z",
               "category": "kubernetes",
               "tags": [
@@ -11673,7 +11673,7 @@
         {
           "id": "9ga0NT3ZohQ",
           "title": "Seamless GitOps on Azure",
-          "views": 6,
+          "views": 9,
           "date": "2026-05-22T09:48:19Z",
           "category": "kubernetes",
           "tags": [
@@ -12229,7 +12229,7 @@
         {
           "id": "2ksi8K7wg3I",
           "title": "Kubernetes 1.36 (Haru)",
-          "views": 54,
+          "views": 55,
           "date": "2026-04-23T22:03:32Z",
           "category": "kubernetes",
           "tags": [
@@ -13359,7 +13359,7 @@
         {
           "id": "QE51ybyrQDM",
           "title": "Designing the Event-Driven Landscape",
-          "views": 70,
+          "views": 71,
           "date": "2026-03-23T04:50:00Z",
           "category": "kubernetes",
           "tags": [
@@ -16648,12 +16648,12 @@
         "programming",
         "security"
       ],
-      "videoCount": 211,
-      "totalViews": 25612,
+      "videoCount": 214,
+      "totalViews": 25924,
       "topTags": [
         {
           "tag": "rust",
-          "count": 57
+          "count": 58
         },
         {
           "tag": "zig",
@@ -16665,7 +16665,7 @@
         },
         {
           "tag": "go",
-          "count": 21
+          "count": 22
         },
         {
           "tag": "internal",
@@ -16674,6 +16674,10 @@
         {
           "tag": "flutter",
           "count": 10
+        },
+        {
+          "tag": "ml",
+          "count": 8
         },
         {
           "tag": "service",
@@ -16688,7 +16692,7 @@
           "count": 8
         },
         {
-          "tag": "ml",
+          "tag": "agent",
           "count": 7
         },
         {
@@ -16700,15 +16704,15 @@
           "count": 7
         },
         {
+          "tag": "tauri",
+          "count": 6
+        },
+        {
           "tag": "curiosity",
           "count": 6
         },
         {
           "tag": "tokio",
-          "count": 6
-        },
-        {
-          "tag": "agent",
           "count": 6
         },
         {
@@ -16720,16 +16724,12 @@
           "count": 6
         },
         {
-          "tag": "tauri",
+          "tag": "burn",
           "count": 5
         },
         {
           "tag": "dart",
           "count": 5
-        },
-        {
-          "tag": "burn",
-          "count": 4
         }
       ],
       "clusters": [
@@ -16737,9 +16737,93 @@
           "name": "Rust",
           "videos": [
             {
+              "id": "TpyKC8_30xs",
+              "title": "The Burn Book App Architecture",
+              "views": 5,
+              "date": "2026-05-23T18:01:49Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ml",
+                "burn",
+                "tauri"
+              ],
+              "detail": {
+                "summary": "The Burn Book is a multi-surface deep learning curriculum architecture for the Burn Rust ML framework, delivering a 147-page interactive course across three surfaces: a Ratatui-based TUI, an Axum + mdBook web interface, and a Tauri 2 desktop shell with embedded terminal. The architecture centers on a single content source of truth dynamically routed to each purpose-built execution environment.",
+                "takeaways": [
+                  "Three delivery surfaces share a single content source of truth: a terminal TUI (Ratatui), a web interface (Axum + mdBook), and a desktop shell (Tauri 2 with embedded Axum server and xterm.js PTY bridge).",
+                  "The desktop application embeds a self-contained Axum server on a background Tokio runtime instead of using local file protocols, ensuring correct same-origin behavior and service worker compatibility at the cost of ~200KB binary size.",
+                  "The PTY bridge design keeps the Rust backend zero-parsing — it funnels raw PTY bytes directly to xterm.js via base64-encoded messages, preventing data loss during complex terminal escape sequence transmission.",
+                  "A planned migration targets replacing the xterm.js right pane with Ghostty's native C rendering library for GPU-accelerated terminal display, currently blocked by a Zig toolchain version incompatibility.",
+                  "The architecture bundles everything into a single executable with zero external server processes required, managed through a centralized task runner for build consistency across all three surfaces."
+                ],
+                "topics": [
+                  "multi-surface architecture",
+                  "burn deep learning framework",
+                  "ratatui terminal ui",
+                  "axum embedded server",
+                  "tauri 2 desktop shell",
+                  "xterm.js pty bridge",
+                  "ghostty native rendering",
+                  "zig toolchain"
+                ],
+                "related": [
+                  {
+                    "id": "B7MMdnv3y1M",
+                    "sharedTopics": [
+                      "architecture",
+                      "burn deep learning framework",
+                      "burn",
+                      "deep",
+                      "learning"
+                    ]
+                  },
+                  {
+                    "id": "Ul0ixBpd5iM",
+                    "sharedTopics": [
+                      "architecture",
+                      "tauri",
+                      "desktop",
+                      "bridge",
+                      "native"
+                    ]
+                  },
+                  {
+                    "id": "ytA6gw6Tgaw",
+                    "sharedTopics": [
+                      "architecture",
+                      "tauri 2 desktop shell",
+                      "tauri",
+                      "desktop",
+                      "shell"
+                    ]
+                  },
+                  {
+                    "id": "kSQtbPEtDkY",
+                    "sharedTopics": [
+                      "architecture",
+                      "burn",
+                      "deep",
+                      "learning",
+                      "framework"
+                    ]
+                  },
+                  {
+                    "id": "a2kADxV0kBM",
+                    "sharedTopics": [
+                      "architecture",
+                      "terminal",
+                      "rendering",
+                      "zig"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "V6Ru7YYLneE",
               "title": "Architecting Local Legal Embeddings",
-              "views": 6,
+              "views": 30,
               "date": "2026-05-22T20:52:22Z",
               "category": "development",
               "tags": [
@@ -16814,7 +16898,7 @@
             {
               "id": "B7MMdnv3y1M",
               "title": "The Burn Book",
-              "views": 22,
+              "views": 27,
               "date": "2026-05-21T21:46:02Z",
               "category": "development",
               "tags": [
@@ -16864,6 +16948,16 @@
                     ]
                   },
                   {
+                    "id": "TpyKC8_30xs",
+                    "sharedTopics": [
+                      "burn deep learning framework",
+                      "burn",
+                      "deep",
+                      "learning",
+                      "framework"
+                    ]
+                  },
+                  {
                     "id": "V6Ru7YYLneE",
                     "sharedTopics": [
                       "burn",
@@ -16881,15 +16975,6 @@
                       "model",
                       "performance"
                     ]
-                  },
-                  {
-                    "id": "J4iGUAXcAOA",
-                    "sharedTopics": [
-                      "framework",
-                      "rust",
-                      "lifecycle",
-                      "integration"
-                    ]
                   }
                 ]
               }
@@ -16897,7 +16982,7 @@
             {
               "id": "kSQtbPEtDkY",
               "title": "The Architecture of tracel-ai/models",
-              "views": 12,
+              "views": 14,
               "date": "2026-05-20T22:58:18Z",
               "category": "development",
               "tags": [
@@ -16936,6 +17021,16 @@
                     ]
                   },
                   {
+                    "id": "TpyKC8_30xs",
+                    "sharedTopics": [
+                      "burn",
+                      "framework",
+                      "deep",
+                      "learning",
+                      "architecture"
+                    ]
+                  },
+                  {
                     "id": "htpvlYnX77w",
                     "sharedTopics": [
                       "burn framework",
@@ -16957,13 +17052,6 @@
                     "sharedTopics": [
                       "architecture",
                       "transformer"
-                    ]
-                  },
-                  {
-                    "id": "7yqkfHo8Mwk",
-                    "sharedTopics": [
-                      "model",
-                      "architecture"
                     ]
                   }
                 ]
@@ -17051,7 +17139,7 @@
             {
               "id": "6M76N3jhh1Q",
               "title": "From 0 to N-Dimensions",
-              "views": 27,
+              "views": 29,
               "date": "2026-05-19T21:59:19Z",
               "category": "development",
               "tags": [
@@ -17231,6 +17319,16 @@
                 ],
                 "related": [
                   {
+                    "id": "TpyKC8_30xs",
+                    "sharedTopics": [
+                      "tauri 2 desktop shell",
+                      "tauri",
+                      "desktop",
+                      "shell",
+                      "architecture"
+                    ]
+                  },
+                  {
                     "id": "cJl2cchaHL8",
                     "sharedTopics": [
                       "tauri",
@@ -17260,13 +17358,6 @@
                       "export",
                       "content"
                     ]
-                  },
-                  {
-                    "id": "a2kADxV0kBM",
-                    "sharedTopics": [
-                      "architecture",
-                      "api"
-                    ]
                   }
                 ]
               }
@@ -17274,7 +17365,7 @@
             {
               "id": "9HUPNhA3OrI",
               "title": "The Tokio Architecture Blueprint",
-              "views": 49,
+              "views": 50,
               "date": "2026-05-15T21:12:14Z",
               "category": "development",
               "tags": [
@@ -17583,7 +17674,7 @@
             {
               "id": "B81dHVYOYJA",
               "title": "Inside the Typst Compiler Engine",
-              "views": 62,
+              "views": 63,
               "date": "2026-05-11T00:02:22Z",
               "category": "development",
               "tags": [
@@ -17654,7 +17745,7 @@
             {
               "id": "8PaVKQoDReY",
               "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-              "views": 59,
+              "views": 60,
               "date": "2026-05-09T22:08:03Z",
               "category": "development",
               "tags": [
@@ -17737,7 +17828,7 @@
             {
               "id": "qAHyv6G3a7M",
               "title": "Building the Unified Rust Backend",
-              "views": 565,
+              "views": 602,
               "date": "2026-05-09T07:32:42Z",
               "category": "development",
               "tags": [
@@ -17825,7 +17916,7 @@
             {
               "id": "_bFOZ51Q55Y",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 1377,
+              "views": 1520,
               "date": "2026-05-09T02:40:33Z",
               "category": "development",
               "tags": [
@@ -17958,6 +18049,14 @@
                     ]
                   },
                   {
+                    "id": "TpyKC8_30xs",
+                    "sharedTopics": [
+                      "ratatui terminal ui",
+                      "ratatui",
+                      "terminal"
+                    ]
+                  },
+                  {
                     "id": "ytA6gw6Tgaw",
                     "sharedTopics": [
                       "content",
@@ -17970,13 +18069,6 @@
                     "sharedTopics": [
                       "binary",
                       "dependencies"
-                    ]
-                  },
-                  {
-                    "id": "sGQrnPJSsPc",
-                    "sharedTopics": [
-                      "mode",
-                      "detection"
                     ]
                   }
                 ]
@@ -18044,20 +18136,20 @@
                     ]
                   },
                   {
+                    "id": "xiTVDbJscik",
+                    "sharedTopics": [
+                      "grpc",
+                      "streaming",
+                      "runtime",
+                      "kubernetes"
+                    ]
+                  },
+                  {
                     "id": "0ttrfTfP864",
                     "sharedTopics": [
                       "tokio",
                       "axum",
                       "kubernetes"
-                    ]
-                  },
-                  {
-                    "id": "07aDX5YB-ao",
-                    "sharedTopics": [
-                      "grpc",
-                      "tonic",
-                      "axum",
-                      "trait"
                     ]
                   }
                 ]
@@ -18066,7 +18158,7 @@
             {
               "id": "d1MH4nza95g",
               "title": "Tracing Asynchronous Rust",
-              "views": 99,
+              "views": 100,
               "date": "2026-05-03T16:24:44Z",
               "category": "development",
               "tags": [
@@ -18146,7 +18238,7 @@
             {
               "id": "07aDX5YB-ao",
               "title": "Modular Networking Architecture in Rust",
-              "views": 58,
+              "views": 59,
               "date": "2026-05-03T06:22:41Z",
               "category": "development",
               "tags": [
@@ -18393,7 +18485,7 @@
             {
               "id": "J4iGUAXcAOA",
               "title": "The Axum Web Framework",
-              "views": 51,
+              "views": 55,
               "date": "2026-05-01T22:55:53Z",
               "category": "development",
               "tags": [
@@ -18993,7 +19085,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4181,
+              "views": 4185,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -19454,7 +19546,7 @@
             {
               "id": "_zJ3_d1CODg",
               "title": "Bevy-Demo",
-              "views": 145,
+              "views": 146,
               "date": "2026-03-19T00:18:34Z",
               "category": "development",
               "tags": [
@@ -20053,7 +20145,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 115,
+              "views": 116,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -20117,7 +20209,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 444,
+              "views": 448,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -20699,17 +20791,19 @@
                     ]
                   },
                   {
+                    "id": "TpyKC8_30xs",
+                    "sharedTopics": [
+                      "tauri",
+                      "zig",
+                      "architecture",
+                      "desktop"
+                    ]
+                  },
+                  {
                     "id": "tyR8SdHpOeY",
                     "sharedTopics": [
                       "zig",
                       "webassembly",
-                      "architecture"
-                    ]
-                  },
-                  {
-                    "id": "AcpVuvtSXwI",
-                    "sharedTopics": [
-                      "zig",
                       "architecture"
                     ]
                   }
@@ -21343,9 +21437,93 @@
           "name": "AI & ML",
           "videos": [
             {
+              "id": "TpyKC8_30xs",
+              "title": "The Burn Book App Architecture",
+              "views": 5,
+              "date": "2026-05-23T18:01:49Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ml",
+                "burn",
+                "tauri"
+              ],
+              "detail": {
+                "summary": "The Burn Book is a multi-surface deep learning curriculum architecture for the Burn Rust ML framework, delivering a 147-page interactive course across three surfaces: a Ratatui-based TUI, an Axum + mdBook web interface, and a Tauri 2 desktop shell with embedded terminal. The architecture centers on a single content source of truth dynamically routed to each purpose-built execution environment.",
+                "takeaways": [
+                  "Three delivery surfaces share a single content source of truth: a terminal TUI (Ratatui), a web interface (Axum + mdBook), and a desktop shell (Tauri 2 with embedded Axum server and xterm.js PTY bridge).",
+                  "The desktop application embeds a self-contained Axum server on a background Tokio runtime instead of using local file protocols, ensuring correct same-origin behavior and service worker compatibility at the cost of ~200KB binary size.",
+                  "The PTY bridge design keeps the Rust backend zero-parsing — it funnels raw PTY bytes directly to xterm.js via base64-encoded messages, preventing data loss during complex terminal escape sequence transmission.",
+                  "A planned migration targets replacing the xterm.js right pane with Ghostty's native C rendering library for GPU-accelerated terminal display, currently blocked by a Zig toolchain version incompatibility.",
+                  "The architecture bundles everything into a single executable with zero external server processes required, managed through a centralized task runner for build consistency across all three surfaces."
+                ],
+                "topics": [
+                  "multi-surface architecture",
+                  "burn deep learning framework",
+                  "ratatui terminal ui",
+                  "axum embedded server",
+                  "tauri 2 desktop shell",
+                  "xterm.js pty bridge",
+                  "ghostty native rendering",
+                  "zig toolchain"
+                ],
+                "related": [
+                  {
+                    "id": "B7MMdnv3y1M",
+                    "sharedTopics": [
+                      "architecture",
+                      "burn deep learning framework",
+                      "burn",
+                      "deep",
+                      "learning"
+                    ]
+                  },
+                  {
+                    "id": "Ul0ixBpd5iM",
+                    "sharedTopics": [
+                      "architecture",
+                      "tauri",
+                      "desktop",
+                      "bridge",
+                      "native"
+                    ]
+                  },
+                  {
+                    "id": "ytA6gw6Tgaw",
+                    "sharedTopics": [
+                      "architecture",
+                      "tauri 2 desktop shell",
+                      "tauri",
+                      "desktop",
+                      "shell"
+                    ]
+                  },
+                  {
+                    "id": "kSQtbPEtDkY",
+                    "sharedTopics": [
+                      "architecture",
+                      "burn",
+                      "deep",
+                      "learning",
+                      "framework"
+                    ]
+                  },
+                  {
+                    "id": "a2kADxV0kBM",
+                    "sharedTopics": [
+                      "architecture",
+                      "terminal",
+                      "rendering",
+                      "zig"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "V6Ru7YYLneE",
               "title": "Architecting Local Legal Embeddings",
-              "views": 6,
+              "views": 30,
               "date": "2026-05-22T20:52:22Z",
               "category": "development",
               "tags": [
@@ -21420,7 +21598,7 @@
             {
               "id": "B7MMdnv3y1M",
               "title": "The Burn Book",
-              "views": 22,
+              "views": 27,
               "date": "2026-05-21T21:46:02Z",
               "category": "development",
               "tags": [
@@ -21470,6 +21648,16 @@
                     ]
                   },
                   {
+                    "id": "TpyKC8_30xs",
+                    "sharedTopics": [
+                      "burn deep learning framework",
+                      "burn",
+                      "deep",
+                      "learning",
+                      "framework"
+                    ]
+                  },
+                  {
                     "id": "V6Ru7YYLneE",
                     "sharedTopics": [
                       "burn",
@@ -21487,15 +21675,6 @@
                       "model",
                       "performance"
                     ]
-                  },
-                  {
-                    "id": "J4iGUAXcAOA",
-                    "sharedTopics": [
-                      "framework",
-                      "rust",
-                      "lifecycle",
-                      "integration"
-                    ]
                   }
                 ]
               }
@@ -21503,7 +21682,7 @@
             {
               "id": "kSQtbPEtDkY",
               "title": "The Architecture of tracel-ai/models",
-              "views": 12,
+              "views": 14,
               "date": "2026-05-20T22:58:18Z",
               "category": "development",
               "tags": [
@@ -21542,6 +21721,16 @@
                     ]
                   },
                   {
+                    "id": "TpyKC8_30xs",
+                    "sharedTopics": [
+                      "burn",
+                      "framework",
+                      "deep",
+                      "learning",
+                      "architecture"
+                    ]
+                  },
+                  {
                     "id": "htpvlYnX77w",
                     "sharedTopics": [
                       "burn framework",
@@ -21563,13 +21752,6 @@
                     "sharedTopics": [
                       "architecture",
                       "transformer"
-                    ]
-                  },
-                  {
-                    "id": "7yqkfHo8Mwk",
-                    "sharedTopics": [
-                      "model",
-                      "architecture"
                     ]
                   }
                 ]
@@ -21657,7 +21839,7 @@
             {
               "id": "6M76N3jhh1Q",
               "title": "From 0 to N-Dimensions",
-              "views": 27,
+              "views": 29,
               "date": "2026-05-19T21:59:19Z",
               "category": "development",
               "tags": [
@@ -21807,7 +21989,7 @@
             {
               "id": "8PaVKQoDReY",
               "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-              "views": 59,
+              "views": 60,
               "date": "2026-05-09T22:08:03Z",
               "category": "development",
               "tags": [
@@ -21942,6 +22124,14 @@
                     ]
                   },
                   {
+                    "id": "TpyKC8_30xs",
+                    "sharedTopics": [
+                      "ratatui terminal ui",
+                      "ratatui",
+                      "terminal"
+                    ]
+                  },
+                  {
                     "id": "ytA6gw6Tgaw",
                     "sharedTopics": [
                       "content",
@@ -21954,13 +22144,6 @@
                     "sharedTopics": [
                       "binary",
                       "dependencies"
-                    ]
-                  },
-                  {
-                    "id": "sGQrnPJSsPc",
-                    "sharedTopics": [
-                      "mode",
-                      "detection"
                     ]
                   }
                 ]
@@ -22039,7 +22222,7 @@
             {
               "id": "i1HT5UIccTs",
               "title": "Agent Skills for Dart",
-              "views": 52,
+              "views": 53,
               "date": "2026-04-28T18:55:44Z",
               "category": "development",
               "tags": [
@@ -22116,7 +22299,7 @@
             {
               "id": "BQ4wab0UtLg",
               "title": "From Louvain to Leiden",
-              "views": 31,
+              "views": 32,
               "date": "2026-04-26T15:40:42Z",
               "category": "development",
               "tags": [
@@ -22835,7 +23018,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 169,
+              "views": 171,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -22911,7 +23094,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2680,
+              "views": 2682,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -22985,7 +23168,7 @@
             {
               "id": "fv61JXUCbeo",
               "title": "Stitch Agent Skills",
-              "views": 277,
+              "views": 278,
               "date": "2026-04-05T21:24:52Z",
               "category": "development",
               "tags": [
@@ -23743,17 +23926,18 @@
                     ]
                   },
                   {
+                    "id": "TpyKC8_30xs",
+                    "sharedTopics": [
+                      "zig",
+                      "learning",
+                      "framework"
+                    ]
+                  },
+                  {
                     "id": "7yqkfHo8Mwk",
                     "sharedTopics": [
                       "zig",
                       "optimization"
-                    ]
-                  },
-                  {
-                    "id": "olsB3bJxA2A",
-                    "sharedTopics": [
-                      "zig",
-                      "systems"
                     ]
                   }
                 ]
@@ -23981,7 +24165,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 682,
+              "views": 684,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -24824,6 +25008,81 @@
         {
           "name": "Go",
           "videos": [
+            {
+              "id": "zWuFvi-0Go4",
+              "title": "The pkg.go.dev API",
+              "views": 1,
+              "date": "2026-05-24T01:45:51Z",
+              "category": "development",
+              "tags": [
+                "go",
+                "pkg.go.dev",
+                "api"
+              ],
+              "detail": {
+                "summary": "The pkg.go.dev API is Go's official programmatic gateway for package metadata, replacing fragile web scraping with a stateless, GET-only V1 beta service. Built on three pillars — stateless caching architecture, strict backward compatibility, and machine-readable OpenAPI specifications — it prioritizes precision over convenience by requiring explicit module path declarations.",
+                "takeaways": [
+                  "The API transitioned from fragile web scraping to direct API access with a V1 beta gateway designed for modern automated workflows including AI-assisted coding and CI/CD pipelines.",
+                  "Three architectural pillars underpin the service: stateless GET-only design with itemized cache clusters, backward-compatible v1 beta stability, and machine-readable OpenAPI specifications for automated client generation.",
+                  "Precision-over-convenience design requires explicit module path declarations and returns ambiguous candidate errors rather than performing implicit resolution like the web UI does.",
+                  "The API capability map spans four categories: core entity data, discovery and search, code insights (symbols and vulnerabilities), and ecosystem graph (dependency paths and version history).",
+                  "The reference pkg-site CLI demonstrates terminal-based access with automatic pagination and data formatting, ready for both ad-hoc investigations and CI/CD pipeline scripts."
+                ],
+                "topics": [
+                  "go ecosystem",
+                  "package discovery api",
+                  "stateless get-only architecture",
+                  "explicit module resolution",
+                  "openapi specification",
+                  "dependency graph analysis",
+                  "pkg-site cli",
+                  "backward compatibility"
+                ],
+                "related": [
+                  {
+                    "id": "a2kADxV0kBM",
+                    "sharedTopics": [
+                      "api",
+                      "architecture",
+                      "cli"
+                    ]
+                  },
+                  {
+                    "id": "ZfAc2pqcS-4",
+                    "sharedTopics": [
+                      "api",
+                      "architecture",
+                      "module",
+                      "graph"
+                    ]
+                  },
+                  {
+                    "id": "tyR8SdHpOeY",
+                    "sharedTopics": [
+                      "api",
+                      "architecture",
+                      "dependency"
+                    ]
+                  },
+                  {
+                    "id": "cWozmWrqnxs",
+                    "sharedTopics": [
+                      "api",
+                      "architecture",
+                      "dependency"
+                    ]
+                  },
+                  {
+                    "id": "Gy-ky1pAF0U",
+                    "sharedTopics": [
+                      "architecture",
+                      "dependency",
+                      "graph"
+                    ]
+                  }
+                ]
+              }
+            },
             {
               "id": "QOYXBkMcnYk",
               "title": "The Echo Web Framework",
@@ -26102,6 +26361,14 @@
                     ]
                   },
                   {
+                    "id": "TpyKC8_30xs",
+                    "sharedTopics": [
+                      "terminal",
+                      "framework",
+                      "rendering"
+                    ]
+                  },
+                  {
                     "id": "js95nIDeA-c",
                     "sharedTopics": [
                       "framework",
@@ -26120,12 +26387,6 @@
                     "sharedTopics": [
                       "terminal",
                       "rendering"
-                    ]
-                  },
-                  {
-                    "id": "FM6zp63maS8",
-                    "sharedTopics": [
-                      "tui"
                     ]
                   }
                 ]
@@ -26207,7 +26468,7 @@
             {
               "id": "uqZ-mwxGf2c",
               "title": "Modern Observability in Go",
-              "views": 109,
+              "views": 110,
               "date": "2026-03-01T14:36:52Z",
               "category": "development",
               "tags": [
@@ -26519,7 +26780,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 841,
+              "views": 846,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -26941,9 +27202,93 @@
           "name": "Architecture",
           "videos": [
             {
+              "id": "TpyKC8_30xs",
+              "title": "The Burn Book App Architecture",
+              "views": 5,
+              "date": "2026-05-23T18:01:49Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "ml",
+                "burn",
+                "tauri"
+              ],
+              "detail": {
+                "summary": "The Burn Book is a multi-surface deep learning curriculum architecture for the Burn Rust ML framework, delivering a 147-page interactive course across three surfaces: a Ratatui-based TUI, an Axum + mdBook web interface, and a Tauri 2 desktop shell with embedded terminal. The architecture centers on a single content source of truth dynamically routed to each purpose-built execution environment.",
+                "takeaways": [
+                  "Three delivery surfaces share a single content source of truth: a terminal TUI (Ratatui), a web interface (Axum + mdBook), and a desktop shell (Tauri 2 with embedded Axum server and xterm.js PTY bridge).",
+                  "The desktop application embeds a self-contained Axum server on a background Tokio runtime instead of using local file protocols, ensuring correct same-origin behavior and service worker compatibility at the cost of ~200KB binary size.",
+                  "The PTY bridge design keeps the Rust backend zero-parsing — it funnels raw PTY bytes directly to xterm.js via base64-encoded messages, preventing data loss during complex terminal escape sequence transmission.",
+                  "A planned migration targets replacing the xterm.js right pane with Ghostty's native C rendering library for GPU-accelerated terminal display, currently blocked by a Zig toolchain version incompatibility.",
+                  "The architecture bundles everything into a single executable with zero external server processes required, managed through a centralized task runner for build consistency across all three surfaces."
+                ],
+                "topics": [
+                  "multi-surface architecture",
+                  "burn deep learning framework",
+                  "ratatui terminal ui",
+                  "axum embedded server",
+                  "tauri 2 desktop shell",
+                  "xterm.js pty bridge",
+                  "ghostty native rendering",
+                  "zig toolchain"
+                ],
+                "related": [
+                  {
+                    "id": "B7MMdnv3y1M",
+                    "sharedTopics": [
+                      "architecture",
+                      "burn deep learning framework",
+                      "burn",
+                      "deep",
+                      "learning"
+                    ]
+                  },
+                  {
+                    "id": "Ul0ixBpd5iM",
+                    "sharedTopics": [
+                      "architecture",
+                      "tauri",
+                      "desktop",
+                      "bridge",
+                      "native"
+                    ]
+                  },
+                  {
+                    "id": "ytA6gw6Tgaw",
+                    "sharedTopics": [
+                      "architecture",
+                      "tauri 2 desktop shell",
+                      "tauri",
+                      "desktop",
+                      "shell"
+                    ]
+                  },
+                  {
+                    "id": "kSQtbPEtDkY",
+                    "sharedTopics": [
+                      "architecture",
+                      "burn",
+                      "deep",
+                      "learning",
+                      "framework"
+                    ]
+                  },
+                  {
+                    "id": "a2kADxV0kBM",
+                    "sharedTopics": [
+                      "architecture",
+                      "terminal",
+                      "rendering",
+                      "zig"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "kSQtbPEtDkY",
               "title": "The Architecture of tracel-ai/models",
-              "views": 12,
+              "views": 14,
               "date": "2026-05-20T22:58:18Z",
               "category": "development",
               "tags": [
@@ -26982,6 +27327,16 @@
                     ]
                   },
                   {
+                    "id": "TpyKC8_30xs",
+                    "sharedTopics": [
+                      "burn",
+                      "framework",
+                      "deep",
+                      "learning",
+                      "architecture"
+                    ]
+                  },
+                  {
                     "id": "htpvlYnX77w",
                     "sharedTopics": [
                       "burn framework",
@@ -27003,13 +27358,6 @@
                     "sharedTopics": [
                       "architecture",
                       "transformer"
-                    ]
-                  },
-                  {
-                    "id": "7yqkfHo8Mwk",
-                    "sharedTopics": [
-                      "model",
-                      "architecture"
                     ]
                   }
                 ]
@@ -27048,6 +27396,16 @@
                 ],
                 "related": [
                   {
+                    "id": "TpyKC8_30xs",
+                    "sharedTopics": [
+                      "tauri 2 desktop shell",
+                      "tauri",
+                      "desktop",
+                      "shell",
+                      "architecture"
+                    ]
+                  },
+                  {
                     "id": "cJl2cchaHL8",
                     "sharedTopics": [
                       "tauri",
@@ -27077,13 +27435,6 @@
                       "export",
                       "content"
                     ]
-                  },
-                  {
-                    "id": "a2kADxV0kBM",
-                    "sharedTopics": [
-                      "architecture",
-                      "api"
-                    ]
                   }
                 ]
               }
@@ -27091,7 +27442,7 @@
             {
               "id": "9HUPNhA3OrI",
               "title": "The Tokio Architecture Blueprint",
-              "views": 49,
+              "views": 50,
               "date": "2026-05-15T21:12:14Z",
               "category": "development",
               "tags": [
@@ -27172,7 +27523,7 @@
             {
               "id": "ZfAc2pqcS-4",
               "title": "OpenCV Library Architecture and Capabilities",
-              "views": 45,
+              "views": 46,
               "date": "2026-05-11T11:00:37Z",
               "category": "development",
               "tags": [
@@ -27229,20 +27580,21 @@
                     ]
                   },
                   {
+                    "id": "zWuFvi-0Go4",
+                    "sharedTopics": [
+                      "architecture",
+                      "module",
+                      "graph",
+                      "api"
+                    ]
+                  },
+                  {
                     "id": "B7MMdnv3y1M",
                     "sharedTopics": [
                       "architecture",
                       "hardware",
                       "inference",
                       "pipeline"
-                    ]
-                  },
-                  {
-                    "id": "5Vloo08zQ7o",
-                    "sharedTopics": [
-                      "architecture",
-                      "abstraction",
-                      "api"
                     ]
                   }
                 ]
@@ -27539,20 +27891,20 @@
                     ]
                   },
                   {
+                    "id": "xiTVDbJscik",
+                    "sharedTopics": [
+                      "grpc",
+                      "streaming",
+                      "runtime",
+                      "kubernetes"
+                    ]
+                  },
+                  {
                     "id": "0ttrfTfP864",
                     "sharedTopics": [
                       "tokio",
                       "axum",
                       "kubernetes"
-                    ]
-                  },
-                  {
-                    "id": "07aDX5YB-ao",
-                    "sharedTopics": [
-                      "grpc",
-                      "tonic",
-                      "axum",
-                      "trait"
                     ]
                   }
                 ]
@@ -27561,7 +27913,7 @@
             {
               "id": "173Y2uPljgo",
               "title": "The NestJS Architecture Blueprint",
-              "views": 46,
+              "views": 47,
               "date": "2026-05-04T11:44:35Z",
               "category": "development",
               "tags": [
@@ -27637,7 +27989,7 @@
             {
               "id": "07aDX5YB-ao",
               "title": "Modular Networking Architecture in Rust",
-              "views": 58,
+              "views": 59,
               "date": "2026-05-03T06:22:41Z",
               "category": "development",
               "tags": [
@@ -27720,7 +28072,7 @@
             {
               "id": "oqi_jJl3tAQ",
               "title": "The Push Architecture Blueprint",
-              "views": 36,
+              "views": 38,
               "date": "2026-04-30T09:17:45Z",
               "category": "development",
               "tags": [
@@ -27796,7 +28148,7 @@
             {
               "id": "GERT8PoS9Qk",
               "title": "The Architecture of Similarity",
-              "views": 25,
+              "views": 26,
               "date": "2026-04-29T12:35:21Z",
               "category": "development",
               "detail": {
@@ -28249,7 +28601,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4181,
+              "views": 4185,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -28399,7 +28751,7 @@
             {
               "id": "3ybGkjogcFQ",
               "title": "Modern State Architecture: The Repository Pattern",
-              "views": 34,
+              "views": 35,
               "date": "2026-02-20T12:47:49Z",
               "category": "development",
               "tags": [
@@ -28798,7 +29150,7 @@
             {
               "id": "am9FvNiJ24M",
               "title": "The 2026 Change Data Capture Blueprint",
-              "views": 30,
+              "views": 31,
               "date": "2026-04-08T22:14:35Z",
               "category": "development",
               "tags": [
@@ -29093,7 +29445,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 115,
+              "views": 116,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -29228,7 +29580,7 @@
             {
               "id": "am9FvNiJ24M",
               "title": "The 2026 Change Data Capture Blueprint",
-              "views": 30,
+              "views": 31,
               "date": "2026-04-08T22:14:35Z",
               "category": "development",
               "tags": [
@@ -29463,7 +29815,7 @@
             {
               "id": "wyIhJ3LMnRg",
               "title": "W3C Trace Context",
-              "views": 51,
+              "views": 52,
               "date": "2026-03-21T13:19:14Z",
               "category": "development",
               "tags": [
@@ -30089,9 +30441,244 @@
       ],
       "videos": [
         {
+          "id": "zWuFvi-0Go4",
+          "title": "The pkg.go.dev API",
+          "views": 1,
+          "date": "2026-05-24T01:45:51Z",
+          "category": "development",
+          "tags": [
+            "go",
+            "pkg.go.dev",
+            "api"
+          ],
+          "detail": {
+            "summary": "The pkg.go.dev API is Go's official programmatic gateway for package metadata, replacing fragile web scraping with a stateless, GET-only V1 beta service. Built on three pillars — stateless caching architecture, strict backward compatibility, and machine-readable OpenAPI specifications — it prioritizes precision over convenience by requiring explicit module path declarations.",
+            "takeaways": [
+              "The API transitioned from fragile web scraping to direct API access with a V1 beta gateway designed for modern automated workflows including AI-assisted coding and CI/CD pipelines.",
+              "Three architectural pillars underpin the service: stateless GET-only design with itemized cache clusters, backward-compatible v1 beta stability, and machine-readable OpenAPI specifications for automated client generation.",
+              "Precision-over-convenience design requires explicit module path declarations and returns ambiguous candidate errors rather than performing implicit resolution like the web UI does.",
+              "The API capability map spans four categories: core entity data, discovery and search, code insights (symbols and vulnerabilities), and ecosystem graph (dependency paths and version history).",
+              "The reference pkg-site CLI demonstrates terminal-based access with automatic pagination and data formatting, ready for both ad-hoc investigations and CI/CD pipeline scripts."
+            ],
+            "topics": [
+              "go ecosystem",
+              "package discovery api",
+              "stateless get-only architecture",
+              "explicit module resolution",
+              "openapi specification",
+              "dependency graph analysis",
+              "pkg-site cli",
+              "backward compatibility"
+            ],
+            "related": [
+              {
+                "id": "a2kADxV0kBM",
+                "sharedTopics": [
+                  "api",
+                  "architecture",
+                  "cli"
+                ]
+              },
+              {
+                "id": "ZfAc2pqcS-4",
+                "sharedTopics": [
+                  "api",
+                  "architecture",
+                  "module",
+                  "graph"
+                ]
+              },
+              {
+                "id": "tyR8SdHpOeY",
+                "sharedTopics": [
+                  "api",
+                  "architecture",
+                  "dependency"
+                ]
+              },
+              {
+                "id": "cWozmWrqnxs",
+                "sharedTopics": [
+                  "api",
+                  "architecture",
+                  "dependency"
+                ]
+              },
+              {
+                "id": "Gy-ky1pAF0U",
+                "sharedTopics": [
+                  "architecture",
+                  "dependency",
+                  "graph"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "TpyKC8_30xs",
+          "title": "The Burn Book App Architecture",
+          "views": 5,
+          "date": "2026-05-23T18:01:49Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "ml",
+            "burn",
+            "tauri"
+          ],
+          "detail": {
+            "summary": "The Burn Book is a multi-surface deep learning curriculum architecture for the Burn Rust ML framework, delivering a 147-page interactive course across three surfaces: a Ratatui-based TUI, an Axum + mdBook web interface, and a Tauri 2 desktop shell with embedded terminal. The architecture centers on a single content source of truth dynamically routed to each purpose-built execution environment.",
+            "takeaways": [
+              "Three delivery surfaces share a single content source of truth: a terminal TUI (Ratatui), a web interface (Axum + mdBook), and a desktop shell (Tauri 2 with embedded Axum server and xterm.js PTY bridge).",
+              "The desktop application embeds a self-contained Axum server on a background Tokio runtime instead of using local file protocols, ensuring correct same-origin behavior and service worker compatibility at the cost of ~200KB binary size.",
+              "The PTY bridge design keeps the Rust backend zero-parsing — it funnels raw PTY bytes directly to xterm.js via base64-encoded messages, preventing data loss during complex terminal escape sequence transmission.",
+              "A planned migration targets replacing the xterm.js right pane with Ghostty's native C rendering library for GPU-accelerated terminal display, currently blocked by a Zig toolchain version incompatibility.",
+              "The architecture bundles everything into a single executable with zero external server processes required, managed through a centralized task runner for build consistency across all three surfaces."
+            ],
+            "topics": [
+              "multi-surface architecture",
+              "burn deep learning framework",
+              "ratatui terminal ui",
+              "axum embedded server",
+              "tauri 2 desktop shell",
+              "xterm.js pty bridge",
+              "ghostty native rendering",
+              "zig toolchain"
+            ],
+            "related": [
+              {
+                "id": "B7MMdnv3y1M",
+                "sharedTopics": [
+                  "architecture",
+                  "burn deep learning framework",
+                  "burn",
+                  "deep",
+                  "learning"
+                ]
+              },
+              {
+                "id": "Ul0ixBpd5iM",
+                "sharedTopics": [
+                  "architecture",
+                  "tauri",
+                  "desktop",
+                  "bridge",
+                  "native"
+                ]
+              },
+              {
+                "id": "ytA6gw6Tgaw",
+                "sharedTopics": [
+                  "architecture",
+                  "tauri 2 desktop shell",
+                  "tauri",
+                  "desktop",
+                  "shell"
+                ]
+              },
+              {
+                "id": "kSQtbPEtDkY",
+                "sharedTopics": [
+                  "architecture",
+                  "burn",
+                  "deep",
+                  "learning",
+                  "framework"
+                ]
+              },
+              {
+                "id": "a2kADxV0kBM",
+                "sharedTopics": [
+                  "architecture",
+                  "terminal",
+                  "rendering",
+                  "zig"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "xiTVDbJscik",
+          "title": "AX: The Distributed Agent Runtime",
+          "views": 14,
+          "date": "2026-05-23T14:24:46Z",
+          "category": "development",
+          "tags": [
+            "ax",
+            "distributed",
+            "agent",
+            "runtime"
+          ],
+          "detail": {
+            "summary": "AX is Google's open-source distributed agent runtime built on an actor-based architecture orchestrated over Kubernetes, providing a resilient backbone for autonomous agentic workflows. It shifts from monolithic agent design to decoupled, isolated actors managed by a central controller with resumable streams, durable event logs, and a gRPC-based agent service interface.",
+            "takeaways": [
+              "The architecture shifts from monolithic AI agent codebases to a decoupled actor model with dynamically spawned, isolated actors (planner, RAG, SQL execution) managed by a resilient central runtime optimized for Kubernetes.",
+              "The AX controller coordinates all communication via three internal components: the executor for driving execution logic, the event log for maintaining historical records, and the registry for managing state and entity definitions.",
+              "Resumable streams use sequence numbers in a durable event log — clients reconnect with their last received sequence number and receive only missed events, avoiding full session restarts.",
+              "The system supports four agent integration pathways: native gRPC (Go/Python), ADK (Python), A2A bridge for existing agents, and experimental Colab for Jupyter-based prototyping.",
+              "Currently undergoing refactoring toward a stable release (83.8% Go, 13.5% Python), with planned milestones including bring-your-own-harness protocol, sub-agent suspension/resumption, and anti-gravity as the default harness."
+            ],
+            "topics": [
+              "distributed agent runtime",
+              "actor-based architecture",
+              "resumable streaming",
+              "durable event log",
+              "grpc agent service",
+              "kubernetes orchestration",
+              "agent substrate",
+              "fork and resume semantics"
+            ],
+            "related": [
+              {
+                "id": "90hw9qwXbbw",
+                "sharedTopics": [
+                  "runtime",
+                  "architecture",
+                  "grpc",
+                  "service"
+                ]
+              },
+              {
+                "id": "UOOkDh4RUbE",
+                "sharedTopics": [
+                  "runtime",
+                  "streaming",
+                  "grpc",
+                  "kubernetes"
+                ]
+              },
+              {
+                "id": "xlwu0YwE3_Q",
+                "sharedTopics": [
+                  "distributed",
+                  "architecture",
+                  "orchestration"
+                ]
+              },
+              {
+                "id": "7zFqW-ZcEbo",
+                "sharedTopics": [
+                  "runtime",
+                  "grpc",
+                  "service"
+                ]
+              },
+              {
+                "id": "0Sed1oggMKY",
+                "sharedTopics": [
+                  "runtime",
+                  "architecture"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "V6Ru7YYLneE",
           "title": "Architecting Local Legal Embeddings",
-          "views": 6,
+          "views": 30,
           "date": "2026-05-22T20:52:22Z",
           "category": "development",
           "tags": [
@@ -30166,7 +30753,7 @@
         {
           "id": "B7MMdnv3y1M",
           "title": "The Burn Book",
-          "views": 22,
+          "views": 27,
           "date": "2026-05-21T21:46:02Z",
           "category": "development",
           "tags": [
@@ -30216,6 +30803,16 @@
                 ]
               },
               {
+                "id": "TpyKC8_30xs",
+                "sharedTopics": [
+                  "burn deep learning framework",
+                  "burn",
+                  "deep",
+                  "learning",
+                  "framework"
+                ]
+              },
+              {
                 "id": "V6Ru7YYLneE",
                 "sharedTopics": [
                   "burn",
@@ -30233,15 +30830,6 @@
                   "model",
                   "performance"
                 ]
-              },
-              {
-                "id": "J4iGUAXcAOA",
-                "sharedTopics": [
-                  "framework",
-                  "rust",
-                  "lifecycle",
-                  "integration"
-                ]
               }
             ]
           }
@@ -30249,7 +30837,7 @@
         {
           "id": "kSQtbPEtDkY",
           "title": "The Architecture of tracel-ai/models",
-          "views": 12,
+          "views": 14,
           "date": "2026-05-20T22:58:18Z",
           "category": "development",
           "tags": [
@@ -30288,6 +30876,16 @@
                 ]
               },
               {
+                "id": "TpyKC8_30xs",
+                "sharedTopics": [
+                  "burn",
+                  "framework",
+                  "deep",
+                  "learning",
+                  "architecture"
+                ]
+              },
+              {
                 "id": "htpvlYnX77w",
                 "sharedTopics": [
                   "burn framework",
@@ -30309,13 +30907,6 @@
                 "sharedTopics": [
                   "architecture",
                   "transformer"
-                ]
-              },
-              {
-                "id": "7yqkfHo8Mwk",
-                "sharedTopics": [
-                  "model",
-                  "architecture"
                 ]
               }
             ]
@@ -30403,7 +30994,7 @@
         {
           "id": "6M76N3jhh1Q",
           "title": "From 0 to N-Dimensions",
-          "views": 27,
+          "views": 29,
           "date": "2026-05-19T21:59:19Z",
           "category": "development",
           "tags": [
@@ -30553,7 +31144,7 @@
         {
           "id": "jrD_LGNsJXM",
           "title": "Async 1/0 in Zig 0.16, Today",
-          "views": 71,
+          "views": 76,
           "date": "2026-05-17T19:24:16Z",
           "category": "development",
           "tags": [
@@ -30658,6 +31249,16 @@
             ],
             "related": [
               {
+                "id": "TpyKC8_30xs",
+                "sharedTopics": [
+                  "tauri 2 desktop shell",
+                  "tauri",
+                  "desktop",
+                  "shell",
+                  "architecture"
+                ]
+              },
+              {
                 "id": "cJl2cchaHL8",
                 "sharedTopics": [
                   "tauri",
@@ -30687,13 +31288,6 @@
                   "export",
                   "content"
                 ]
-              },
-              {
-                "id": "a2kADxV0kBM",
-                "sharedTopics": [
-                  "architecture",
-                  "api"
-                ]
               }
             ]
           }
@@ -30701,7 +31295,7 @@
         {
           "id": "bAoDvQgmGjM",
           "title": "The Anatomy of Modern Text",
-          "views": 46,
+          "views": 47,
           "date": "2026-05-17T07:42:42Z",
           "category": "development",
           "tags": [
@@ -30844,7 +31438,7 @@
         {
           "id": "BhzeYd4aqOQ",
           "title": "Architecting Network Layers with Dio",
-          "views": 14,
+          "views": 15,
           "date": "2026-05-16T06:21:52Z",
           "category": "development",
           "tags": [
@@ -30920,7 +31514,7 @@
         {
           "id": "9HUPNhA3OrI",
           "title": "The Tokio Architecture Blueprint",
-          "views": 49,
+          "views": 50,
           "date": "2026-05-15T21:12:14Z",
           "category": "development",
           "tags": [
@@ -31377,7 +31971,7 @@
         {
           "id": "ZfAc2pqcS-4",
           "title": "OpenCV Library Architecture and Capabilities",
-          "views": 45,
+          "views": 46,
           "date": "2026-05-11T11:00:37Z",
           "category": "development",
           "tags": [
@@ -31434,20 +32028,21 @@
                 ]
               },
               {
+                "id": "zWuFvi-0Go4",
+                "sharedTopics": [
+                  "architecture",
+                  "module",
+                  "graph",
+                  "api"
+                ]
+              },
+              {
                 "id": "B7MMdnv3y1M",
                 "sharedTopics": [
                   "architecture",
                   "hardware",
                   "inference",
                   "pipeline"
-                ]
-              },
-              {
-                "id": "5Vloo08zQ7o",
-                "sharedTopics": [
-                  "architecture",
-                  "abstraction",
-                  "api"
                 ]
               }
             ]
@@ -31456,7 +32051,7 @@
         {
           "id": "B81dHVYOYJA",
           "title": "Inside the Typst Compiler Engine",
-          "views": 62,
+          "views": 63,
           "date": "2026-05-11T00:02:22Z",
           "category": "development",
           "tags": [
@@ -31527,7 +32122,7 @@
         {
           "id": "Qi_vpz_5j7g",
           "title": "The ONNX Ecosystem",
-          "views": 43,
+          "views": 44,
           "date": "2026-05-10T16:28:12Z",
           "category": "development",
           "tags": [
@@ -31611,7 +32206,7 @@
         {
           "id": "8PaVKQoDReY",
           "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-          "views": 59,
+          "views": 60,
           "date": "2026-05-09T22:08:03Z",
           "category": "development",
           "tags": [
@@ -31694,7 +32289,7 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 312,
+          "views": 327,
           "date": "2026-05-09T14:32:47Z",
           "category": "development",
           "tags": [
@@ -31770,7 +32365,7 @@
         {
           "id": "qAHyv6G3a7M",
           "title": "Building the Unified Rust Backend",
-          "views": 565,
+          "views": 602,
           "date": "2026-05-09T07:32:42Z",
           "category": "development",
           "tags": [
@@ -31858,7 +32453,7 @@
         {
           "id": "_bFOZ51Q55Y",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 1377,
+          "views": 1520,
           "date": "2026-05-09T02:40:33Z",
           "category": "development",
           "tags": [
@@ -31991,6 +32586,14 @@
                 ]
               },
               {
+                "id": "TpyKC8_30xs",
+                "sharedTopics": [
+                  "ratatui terminal ui",
+                  "ratatui",
+                  "terminal"
+                ]
+              },
+              {
                 "id": "ytA6gw6Tgaw",
                 "sharedTopics": [
                   "content",
@@ -32003,13 +32606,6 @@
                 "sharedTopics": [
                   "binary",
                   "dependencies"
-                ]
-              },
-              {
-                "id": "sGQrnPJSsPc",
-                "sharedTopics": [
-                  "mode",
-                  "detection"
                 ]
               }
             ]
@@ -32453,20 +33049,20 @@
                 ]
               },
               {
+                "id": "xiTVDbJscik",
+                "sharedTopics": [
+                  "grpc",
+                  "streaming",
+                  "runtime",
+                  "kubernetes"
+                ]
+              },
+              {
                 "id": "0ttrfTfP864",
                 "sharedTopics": [
                   "tokio",
                   "axum",
                   "kubernetes"
-                ]
-              },
-              {
-                "id": "07aDX5YB-ao",
-                "sharedTopics": [
-                  "grpc",
-                  "tonic",
-                  "axum",
-                  "trait"
                 ]
               }
             ]
@@ -32475,7 +33071,7 @@
         {
           "id": "173Y2uPljgo",
           "title": "The NestJS Architecture Blueprint",
-          "views": 46,
+          "views": 47,
           "date": "2026-05-04T11:44:35Z",
           "category": "development",
           "tags": [
@@ -32629,7 +33225,7 @@
         {
           "id": "d1MH4nza95g",
           "title": "Tracing Asynchronous Rust",
-          "views": 99,
+          "views": 100,
           "date": "2026-05-03T16:24:44Z",
           "category": "development",
           "tags": [
@@ -32709,7 +33305,7 @@
         {
           "id": "07aDX5YB-ao",
           "title": "Modular Networking Architecture in Rust",
-          "views": 58,
+          "views": 59,
           "date": "2026-05-03T06:22:41Z",
           "category": "development",
           "tags": [
@@ -32956,7 +33552,7 @@
         {
           "id": "J4iGUAXcAOA",
           "title": "The Axum Web Framework",
-          "views": 51,
+          "views": 55,
           "date": "2026-05-01T22:55:53Z",
           "category": "development",
           "tags": [
@@ -33036,7 +33632,7 @@
         {
           "id": "xlwu0YwE3_Q",
           "title": "The Compensating Transaction Pattern",
-          "views": 17,
+          "views": 18,
           "date": "2026-04-30T22:19:52Z",
           "category": "development",
           "tags": [
@@ -33116,7 +33712,7 @@
         {
           "id": "oqi_jJl3tAQ",
           "title": "The Push Architecture Blueprint",
-          "views": 36,
+          "views": 38,
           "date": "2026-04-30T09:17:45Z",
           "category": "development",
           "tags": [
@@ -33192,7 +33788,7 @@
         {
           "id": "GERT8PoS9Qk",
           "title": "The Architecture of Similarity",
-          "views": 25,
+          "views": 26,
           "date": "2026-04-29T12:35:21Z",
           "category": "development",
           "detail": {
@@ -33333,7 +33929,7 @@
         {
           "id": "i1HT5UIccTs",
           "title": "Agent Skills for Dart",
-          "views": 52,
+          "views": 53,
           "date": "2026-04-28T18:55:44Z",
           "category": "development",
           "tags": [
@@ -33570,7 +34166,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 31,
+          "views": 32,
           "date": "2026-04-26T15:40:42Z",
           "category": "development",
           "tags": [
@@ -35007,7 +35603,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 712,
+          "views": 715,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -35575,7 +36171,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 169,
+          "views": 171,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -35651,7 +36247,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2680,
+          "views": 2682,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -35793,7 +36389,7 @@
         {
           "id": "am9FvNiJ24M",
           "title": "The 2026 Change Data Capture Blueprint",
-          "views": 30,
+          "views": 31,
           "date": "2026-04-08T22:14:35Z",
           "category": "development",
           "tags": [
@@ -36086,7 +36682,7 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 277,
+          "views": 278,
           "date": "2026-04-05T21:24:52Z",
           "category": "development",
           "tags": [
@@ -36386,7 +36982,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4181,
+          "views": 4185,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -36599,7 +37195,7 @@
         {
           "id": "oUTf9j6fWJo",
           "title": "Reed: The Modern Terminal File Viewer",
-          "views": 143,
+          "views": 144,
           "date": "2026-03-30T22:20:06Z",
           "category": "development",
           "tags": [
@@ -37335,7 +37931,7 @@
         {
           "id": "zrP3muXzQX4",
           "title": "Reins: The Framework for Al-Assisted Development",
-          "views": 57,
+          "views": 58,
           "date": "2026-03-23T11:19:38Z",
           "category": "development",
           "tags": [
@@ -37486,7 +38082,7 @@
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
-          "views": 51,
+          "views": 52,
           "date": "2026-03-21T13:19:14Z",
           "category": "development",
           "tags": [
@@ -37854,7 +38450,7 @@
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
-          "views": 145,
+          "views": 146,
           "date": "2026-03-19T00:18:34Z",
           "category": "development",
           "tags": [
@@ -38328,19 +38924,20 @@
                 ]
               },
               {
+                "id": "TpyKC8_30xs",
+                "sharedTopics": [
+                  "zig",
+                  "terminal",
+                  "architecture",
+                  "rendering"
+                ]
+              },
+              {
                 "id": "oUTf9j6fWJo",
                 "sharedTopics": [
                   "terminal",
                   "cli",
                   "rendering"
-                ]
-              },
-              {
-                "id": "cWozmWrqnxs",
-                "sharedTopics": [
-                  "api",
-                  "architecture",
-                  "design"
                 ]
               }
             ]
@@ -38896,17 +39493,18 @@
                 ]
               },
               {
+                "id": "TpyKC8_30xs",
+                "sharedTopics": [
+                  "zig",
+                  "learning",
+                  "framework"
+                ]
+              },
+              {
                 "id": "7yqkfHo8Mwk",
                 "sharedTopics": [
                   "zig",
                   "optimization"
-                ]
-              },
-              {
-                "id": "olsB3bJxA2A",
-                "sharedTopics": [
-                  "zig",
-                  "systems"
                 ]
               }
             ]
@@ -38961,6 +39559,14 @@
                 ]
               },
               {
+                "id": "zWuFvi-0Go4",
+                "sharedTopics": [
+                  "module",
+                  "architecture",
+                  "graph"
+                ]
+              },
+              {
                 "id": "ZfAc2pqcS-4",
                 "sharedTopics": [
                   "module",
@@ -38973,13 +39579,6 @@
                 "sharedTopics": [
                   "graph",
                   "detection"
-                ]
-              },
-              {
-                "id": "Gy-ky1pAF0U",
-                "sharedTopics": [
-                  "architecture",
-                  "graph"
                 ]
               }
             ]
@@ -39490,7 +40089,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 246,
+          "views": 249,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -39596,6 +40195,14 @@
                 ]
               },
               {
+                "id": "TpyKC8_30xs",
+                "sharedTopics": [
+                  "terminal",
+                  "framework",
+                  "rendering"
+                ]
+              },
+              {
                 "id": "js95nIDeA-c",
                 "sharedTopics": [
                   "framework",
@@ -39614,12 +40221,6 @@
                 "sharedTopics": [
                   "terminal",
                   "rendering"
-                ]
-              },
-              {
-                "id": "FM6zp63maS8",
-                "sharedTopics": [
-                  "tui"
                 ]
               }
             ]
@@ -39701,7 +40302,7 @@
         {
           "id": "uqZ-mwxGf2c",
           "title": "Modern Observability in Go",
-          "views": 109,
+          "views": 110,
           "date": "2026-03-01T14:36:52Z",
           "category": "development",
           "tags": [
@@ -39853,7 +40454,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 682,
+          "views": 684,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -40005,7 +40606,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 132,
+          "views": 133,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -40133,10 +40734,11 @@
                 ]
               },
               {
-                "id": "2iIi1H9V-Hg",
+                "id": "TpyKC8_30xs",
                 "sharedTopics": [
-                  "flutter",
-                  "dart"
+                  "native",
+                  "bridge",
+                  "architecture"
                 ]
               }
             ]
@@ -40660,7 +41262,7 @@
         {
           "id": "3ybGkjogcFQ",
           "title": "Modern State Architecture: The Repository Pattern",
-          "views": 34,
+          "views": 35,
           "date": "2026-02-20T12:47:49Z",
           "category": "development",
           "tags": [
@@ -40946,7 +41548,7 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 115,
+          "views": 116,
           "date": "2026-02-14T22:47:13Z",
           "category": "development",
           "tags": [
@@ -41010,7 +41612,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 841,
+          "views": 846,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -41164,7 +41766,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 444,
+          "views": 448,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -41827,7 +42429,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 185,
+          "views": 187,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -42415,7 +43017,7 @@
         {
           "id": "o9yaniXkM-0",
           "title": "Practical Data Oriented Design in Zig",
-          "views": 69,
+          "views": 70,
           "date": "2026-01-30T01:28:52Z",
           "category": "development",
           "tags": [
@@ -42669,6 +43271,16 @@
                 ]
               },
               {
+                "id": "TpyKC8_30xs",
+                "sharedTopics": [
+                  "tauri",
+                  "architecture",
+                  "desktop",
+                  "native",
+                  "bridge"
+                ]
+              },
+              {
                 "id": "jzjGcFkAnfs",
                 "sharedTopics": [
                   "architecture",
@@ -42692,14 +43304,6 @@
                   "architecture",
                   "cross-platform",
                   "development"
-                ]
-              },
-              {
-                "id": "d_0swhS1LyQ",
-                "sharedTopics": [
-                  "tauri",
-                  "desktop",
-                  "rust"
                 ]
               }
             ]
@@ -43080,17 +43684,19 @@
                 ]
               },
               {
+                "id": "TpyKC8_30xs",
+                "sharedTopics": [
+                  "tauri",
+                  "zig",
+                  "architecture",
+                  "desktop"
+                ]
+              },
+              {
                 "id": "tyR8SdHpOeY",
                 "sharedTopics": [
                   "zig",
                   "webassembly",
-                  "architecture"
-                ]
-              },
-              {
-                "id": "AcpVuvtSXwI",
-                "sharedTopics": [
-                  "zig",
                   "architecture"
                 ]
               }
@@ -43609,7 +44215,7 @@
         {
           "id": "5KB2zLGjaps",
           "title": "Conventional Commits",
-          "views": 15,
+          "views": 16,
           "date": "2026-01-19T10:21:27Z",
           "category": "development",
           "tags": [
@@ -44220,6 +44826,13 @@
             ],
             "related": [
               {
+                "id": "TpyKC8_30xs",
+                "sharedTopics": [
+                  "terminal",
+                  "shell"
+                ]
+              },
+              {
                 "id": "9yov-ZVv-Bo",
                 "sharedTopics": [
                   "performance"
@@ -44241,12 +44854,6 @@
                 "id": "Hfut9CfJhN0",
                 "sharedTopics": [
                   "terminal"
-                ]
-              },
-              {
-                "id": "js95nIDeA-c",
-                "sharedTopics": [
-                  "performance"
                 ]
               }
             ]
@@ -45558,9 +46165,13 @@
         "kubernetes",
         "development"
       ],
-      "videoCount": 13,
-      "totalViews": 431,
+      "videoCount": 14,
+      "totalViews": 449,
       "topTags": [
+        {
+          "tag": "agent",
+          "count": 2
+        },
         {
           "tag": "sentinel",
           "count": 2
@@ -45588,6 +46199,14 @@
         {
           "tag": "nist",
           "count": 2
+        },
+        {
+          "tag": "governance",
+          "count": 1
+        },
+        {
+          "tag": "toolkit",
+          "count": 1
         },
         {
           "tag": "proxy",
@@ -45628,18 +46247,6 @@
         {
           "tag": "dpia",
           "count": 1
-        },
-        {
-          "tag": "compliance",
-          "count": 1
-        },
-        {
-          "tag": "context",
-          "count": 1
-        },
-        {
-          "tag": "custom graph",
-          "count": 1
         }
       ],
       "clusters": [
@@ -45649,7 +46256,7 @@
             {
               "id": "infh5ZZwvLU",
               "title": "ZAP: Getting Started with Software Security Testing",
-              "views": 24,
+              "views": 26,
               "date": "2026-04-30T22:21:34Z",
               "category": "security",
               "tags": [
@@ -45851,8 +46458,9 @@
                     ]
                   },
                   {
-                    "id": "1VjSLqfPf9s",
+                    "id": "MFiVlaMYmwM",
                     "sharedTopics": [
+                      "agent",
                       "security"
                     ]
                   }
@@ -45977,6 +46585,14 @@
                     ]
                   },
                   {
+                    "id": "MFiVlaMYmwM",
+                    "sharedTopics": [
+                      "zero",
+                      "trust",
+                      "security"
+                    ]
+                  },
+                  {
                     "id": "_5DCBqOCr8c",
                     "sharedTopics": [
                       "data",
@@ -45987,13 +46603,6 @@
                     "id": "u8XCBK6lGw0",
                     "sharedTopics": [
                       "data",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "CA1nlknmR3g",
-                    "sharedTopics": [
-                      "architecture",
                       "security"
                     ]
                   }
@@ -46201,8 +46810,9 @@
                     ]
                   },
                   {
-                    "id": "1VjSLqfPf9s",
+                    "id": "MFiVlaMYmwM",
                     "sharedTopics": [
+                      "agent",
                       "security"
                     ]
                   }
@@ -46283,9 +46893,84 @@
       ],
       "videos": [
         {
+          "id": "MFiVlaMYmwM",
+          "title": "Microsoft Agent Governance Toolkit",
+          "views": 16,
+          "date": "2026-05-23T04:44:12Z",
+          "category": "security",
+          "tags": [
+            "agent",
+            "governance",
+            "toolkit"
+          ],
+          "detail": {
+            "summary": "The Microsoft Agent Governance Toolkit is a public preview framework for enforcing security and control in autonomous AI agent deployments through runtime policy enforcement, zero-trust identity, and execution sandboxing. It achieves 0.00% policy violation rates by using deterministic application-layer intercepts rather than fragile prompt-based safety, with sub-millisecond policy evaluation at 35,000 operations per second.",
+            "takeaways": [
+              "Prompt-based safety resulted in a 26.67% policy violation rate during red team testing, while application-layer enforcement via the AGT governance engine achieved 0.00% by intercepting and validating every tool call, resource access, and inter-agent message before execution.",
+              "The policy engine is deterministic and fail-by-default at 0.012ms P50 latency per single rule, supporting YAML, OPA/Rego, and Cedar policy languages through a Python middleware layer.",
+              "Zero-trust identity incorporates quantum-safe credentials (ED25519, ML-DSA65), SPIFFE/SVID compatibility, behavioral trust scoring with decay, and delegation ceilings that prevent child agents from exceeding parent trust levels.",
+              "The OWASP Agentic Top 10 is systematically addressed: goal hijacking blocked by policy engine, excessive capabilities via least privilege, identity abuse via zero-trust framework, memory poisoning via episodic integrity checks, and rogue agents via instant kill switch.",
+              "Cryptographic audit trails use Merkle tree structures for tamper-proof logging, with reconstructible decision bills of materials and native CloudEvents export for SIEM integration."
+            ],
+            "topics": [
+              "agent governance",
+              "zero trust identity",
+              "runtime policy enforcement",
+              "execution sandboxing",
+              "behavioral trust scoring",
+              "merkle audit trails",
+              "owasp agentic top 10",
+              "mcp security gateway"
+            ],
+            "related": [
+              {
+                "id": "4b-H6ZaoNUE",
+                "sharedTopics": [
+                  "zero",
+                  "trust",
+                  "identity",
+                  "policy",
+                  "security"
+                ]
+              },
+              {
+                "id": "uhXcsWYhdkA",
+                "sharedTopics": [
+                  "zero",
+                  "trust",
+                  "security"
+                ]
+              },
+              {
+                "id": "JfGgWiiCTA0",
+                "sharedTopics": [
+                  "agent",
+                  "security"
+                ]
+              },
+              {
+                "id": "infh5ZZwvLU",
+                "sharedTopics": [
+                  "owasp",
+                  "security"
+                ]
+              },
+              {
+                "id": "A4-foXsdQiA",
+                "sharedTopics": [
+                  "zero",
+                  "trust",
+                  "identity",
+                  "security"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "infh5ZZwvLU",
           "title": "ZAP: Getting Started with Software Security Testing",
-          "views": 24,
+          "views": 26,
           "date": "2026-04-30T22:21:34Z",
           "category": "security",
           "tags": [
@@ -46692,17 +47377,16 @@
                 ]
               },
               {
-                "id": "R2zktRqz81U",
+                "id": "MFiVlaMYmwM",
                 "sharedTopics": [
-                  "authentication",
                   "identity"
                 ]
               },
               {
-                "id": "2kvYb2pVe5o",
+                "id": "R2zktRqz81U",
                 "sharedTopics": [
-                  "identity",
-                  "oauth"
+                  "authentication",
+                  "identity"
                 ]
               }
             ]
@@ -46836,8 +47520,9 @@
                 ]
               },
               {
-                "id": "1VjSLqfPf9s",
+                "id": "MFiVlaMYmwM",
                 "sharedTopics": [
+                  "agent",
                   "security"
                 ]
               }
@@ -46962,6 +47647,14 @@
                 ]
               },
               {
+                "id": "MFiVlaMYmwM",
+                "sharedTopics": [
+                  "zero",
+                  "trust",
+                  "security"
+                ]
+              },
+              {
                 "id": "_5DCBqOCr8c",
                 "sharedTopics": [
                   "data",
@@ -46972,13 +47665,6 @@
                 "id": "u8XCBK6lGw0",
                 "sharedTopics": [
                   "data",
-                  "security"
-                ]
-              },
-              {
-                "id": "CA1nlknmR3g",
-                "sharedTopics": [
-                  "architecture",
                   "security"
                 ]
               }
@@ -47178,9 +47864,10 @@
                 ]
               },
               {
-                "id": "1VjSLqfPf9s",
+                "id": "MFiVlaMYmwM",
                 "sharedTopics": [
-                  "security"
+                  "security",
+                  "agent"
                 ]
               }
             ]
@@ -47783,21 +48470,21 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2680,
+          "views": 2682,
           "date": "2026-04-09T22:17:25Z",
           "category": "development"
         },
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 682,
+          "views": 684,
           "date": "2026-02-28T05:29:43Z",
           "category": "development"
         },
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 277,
+          "views": 278,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
@@ -47811,7 +48498,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 169,
+          "views": 171,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -47888,7 +48575,7 @@
         {
           "id": "i1HT5UIccTs",
           "title": "Agent Skills for Dart",
-          "views": 52,
+          "views": 53,
           "date": "2026-04-28T18:55:44Z",
           "category": "development"
         },
@@ -47963,18 +48650,18 @@
           "category": "development"
         },
         {
+          "id": "9xDzB24tO4I",
+          "title": "The 2026 Enterprise AI Blueprint",
+          "views": 14,
+          "date": "2026-05-21T21:09:53Z",
+          "category": "finance"
+        },
+        {
           "id": "uU46ltIELqk",
           "title": "Generative Al at Scale",
           "views": 14,
           "date": "2026-03-27T23:03:40Z",
           "category": "development"
-        },
-        {
-          "id": "9xDzB24tO4I",
-          "title": "The 2026 Enterprise AI Blueprint",
-          "views": 13,
-          "date": "2026-05-21T21:09:53Z",
-          "category": "finance"
         },
         {
           "id": "tqDisu2tmG0",
@@ -48024,9 +48711,16 @@
         {
           "id": "M_NbzCCHFp0",
           "title": "The Orbital Compute Blueprint",
-          "views": 71,
+          "views": 73,
           "date": "2026-05-02T20:46:53Z",
           "category": "finance"
+        },
+        {
+          "id": "bAoDvQgmGjM",
+          "title": "The Anatomy of Modern Text",
+          "views": 47,
+          "date": "2026-05-17T07:42:42Z",
+          "category": "development"
         },
         {
           "id": "1smShC18TWA",
@@ -48034,13 +48728,6 @@
           "views": 46,
           "date": "2026-04-17T22:28:02Z",
           "category": "finance"
-        },
-        {
-          "id": "bAoDvQgmGjM",
-          "title": "The Anatomy of Modern Text",
-          "views": 46,
-          "date": "2026-05-17T07:42:42Z",
-          "category": "development"
         },
         {
           "id": "oHdhgeF4wlI",
@@ -48059,7 +48746,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 31,
+          "views": 32,
           "date": "2026-04-26T15:40:42Z",
           "category": "development"
         },
@@ -48078,6 +48765,13 @@
           "category": "finance"
         },
         {
+          "id": "9xDzB24tO4I",
+          "title": "The 2026 Enterprise AI Blueprint",
+          "views": 14,
+          "date": "2026-05-21T21:09:53Z",
+          "category": "finance"
+        },
+        {
           "id": "UorjmtDDRgQ",
           "title": "A global geography of folded dough",
           "views": 14,
@@ -48092,10 +48786,10 @@
           "category": "finance"
         },
         {
-          "id": "9xDzB24tO4I",
-          "title": "The 2026 Enterprise AI Blueprint",
-          "views": 13,
-          "date": "2026-05-21T21:09:53Z",
+          "id": "rjhabJ8Bx5U",
+          "title": "Architecting the New Capital Regime",
+          "views": 12,
+          "date": "2026-05-21T07:04:45Z",
           "category": "finance"
         },
         {
@@ -48103,13 +48797,6 @@
           "title": "The Mystery of the Nickel Coke",
           "views": 10,
           "date": "2026-04-10T15:32:57Z",
-          "category": "finance"
-        },
-        {
-          "id": "rjhabJ8Bx5U",
-          "title": "Architecting the New Capital Regime",
-          "views": 7,
-          "date": "2026-05-21T07:04:45Z",
           "category": "finance"
         },
         {
@@ -48198,21 +48885,21 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 312,
+          "views": 327,
           "date": "2026-05-09T14:32:47Z",
           "category": "development"
         },
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 277,
+          "views": 278,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 169,
+          "views": 171,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -48233,7 +48920,7 @@
         {
           "id": "i1HT5UIccTs",
           "title": "Agent Skills for Dart",
-          "views": 52,
+          "views": 53,
           "date": "2026-04-28T18:55:44Z",
           "category": "development"
         },
@@ -48257,6 +48944,20 @@
           "views": 25,
           "date": "2026-01-02T21:40:38Z",
           "category": "development"
+        },
+        {
+          "id": "MFiVlaMYmwM",
+          "title": "Microsoft Agent Governance Toolkit",
+          "views": 16,
+          "date": "2026-05-23T04:44:12Z",
+          "category": "security"
+        },
+        {
+          "id": "xiTVDbJscik",
+          "title": "AX: The Distributed Agent Runtime",
+          "views": 14,
+          "date": "2026-05-23T14:24:46Z",
+          "category": "development"
         }
       ]
     },
@@ -48277,14 +48978,14 @@
         {
           "id": "am9FvNiJ24M",
           "title": "The 2026 Change Data Capture Blueprint",
-          "views": 30,
+          "views": 31,
           "date": "2026-04-08T22:14:35Z",
           "category": "development"
         },
         {
           "id": "9xDzB24tO4I",
           "title": "The 2026 Enterprise AI Blueprint",
-          "views": 13,
+          "views": 14,
           "date": "2026-05-21T21:09:53Z",
           "category": "finance"
         },
@@ -48337,7 +49038,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 132,
+          "views": 133,
           "date": "2026-02-27T12:49:18Z",
           "category": "development"
         },
@@ -48367,7 +49068,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 841,
+          "views": 846,
           "date": "2026-02-14T09:23:06Z",
           "category": "development"
         },
@@ -48409,7 +49110,7 @@
         {
           "id": "uqZ-mwxGf2c",
           "title": "Modern Observability in Go",
-          "views": 109,
+          "views": 110,
           "date": "2026-03-01T14:36:52Z",
           "category": "development"
         },
@@ -48531,6 +49232,13 @@
           "views": 13,
           "date": "2026-03-08T09:59:59Z",
           "category": "development"
+        },
+        {
+          "id": "zWuFvi-0Go4",
+          "title": "The pkg.go.dev API",
+          "views": 1,
+          "date": "2026-05-24T01:45:51Z",
+          "category": "development"
         }
       ]
     },
@@ -48544,35 +49252,35 @@
         {
           "id": "_bFOZ51Q55Y",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 1377,
+          "views": 1520,
           "date": "2026-05-09T02:40:33Z",
           "category": "development"
         },
         {
           "id": "B81dHVYOYJA",
           "title": "Inside the Typst Compiler Engine",
-          "views": 62,
+          "views": 63,
           "date": "2026-05-11T00:02:22Z",
           "category": "development"
         },
         {
           "id": "8PaVKQoDReY",
           "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-          "views": 59,
+          "views": 60,
           "date": "2026-05-09T22:08:03Z",
           "category": "development"
         },
         {
           "id": "ZfAc2pqcS-4",
           "title": "OpenCV Library Architecture and Capabilities",
-          "views": 45,
+          "views": 46,
           "date": "2026-05-11T11:00:37Z",
           "category": "development"
         },
         {
           "id": "Qi_vpz_5j7g",
           "title": "The ONNX Ecosystem",
-          "views": 43,
+          "views": 44,
           "date": "2026-05-10T16:28:12Z",
           "category": "development"
         },
@@ -48621,7 +49329,7 @@
         {
           "id": "BhzeYd4aqOQ",
           "title": "Architecting Network Layers with Dio",
-          "views": 14,
+          "views": 15,
           "date": "2026-05-16T06:21:52Z",
           "category": "development"
         }
@@ -48679,7 +49387,7 @@
         {
           "id": "am9FvNiJ24M",
           "title": "The 2026 Change Data Capture Blueprint",
-          "views": 30,
+          "views": 31,
           "date": "2026-04-08T22:14:35Z",
           "category": "development"
         },
@@ -48703,6 +49411,29 @@
           "views": 5,
           "date": "2026-01-10T21:55:01Z",
           "category": "kubernetes"
+        }
+      ]
+    },
+    {
+      "tag": "governance",
+      "categories": [
+        "kubernetes",
+        "security"
+      ],
+      "videos": [
+        {
+          "id": "-e7kvcUXxtw",
+          "title": "DevSecOps on Azure Kubernetes Service",
+          "views": 23,
+          "date": "2026-04-29T21:49:39Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "MFiVlaMYmwM",
+          "title": "Microsoft Agent Governance Toolkit",
+          "views": 16,
+          "date": "2026-05-23T04:44:12Z",
+          "category": "security"
         }
       ]
     },
@@ -48811,21 +49542,21 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 312,
+          "views": 327,
           "date": "2026-05-09T14:32:47Z",
           "category": "development"
         },
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 277,
+          "views": 278,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 169,
+          "views": 171,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -48839,7 +49570,7 @@
         {
           "id": "i1HT5UIccTs",
           "title": "Agent Skills for Dart",
-          "views": 52,
+          "views": 53,
           "date": "2026-04-28T18:55:44Z",
           "category": "development"
         }
@@ -48872,29 +49603,6 @@
           "views": 14,
           "date": "2026-03-27T23:03:40Z",
           "category": "development"
-        }
-      ]
-    },
-    {
-      "tag": "orchestration",
-      "categories": [
-        "kubernetes",
-        "security"
-      ],
-      "videos": [
-        {
-          "id": "p9LNSeAt5Zw",
-          "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-          "views": 21,
-          "date": "2026-04-22T10:25:18Z",
-          "category": "kubernetes"
-        },
-        {
-          "id": "HxB-cJIbEgE",
-          "title": "2FA Orchestration in PingFederate",
-          "views": 10,
-          "date": "2026-03-29T14:37:03Z",
-          "category": "security"
         }
       ]
     }

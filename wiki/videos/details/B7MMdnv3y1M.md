@@ -35,11 +35,11 @@ The Burn Book is an architectural blueprint for the Rust Burn deep-learning fram
 
 ## Related Videos
 
-- [The Architecture of tracel-ai/models](https://youtu.be/kSQtbPEtDkY) — Development · 12 views · May 20, 2026 · [Details](kSQtbPEtDkY.md) (shared: `burn` · `deep` · `learning`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 444 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `deep` · `learning` · `rust`)
-- [Architecting Local Legal Embeddings](https://youtu.be/V6Ru7YYLneE) — Development · 6 views · May 22, 2026 · [Details](V6Ru7YYLneE.md) (shared: `burn` · `learning` · `rust`)
+- [The Architecture of tracel-ai/models](https://youtu.be/kSQtbPEtDkY) — Development · 14 views · May 20, 2026 · [Details](kSQtbPEtDkY.md) (shared: `burn` · `deep` · `learning`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 448 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `deep` · `learning` · `rust`)
+- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 5 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `burn deep learning framework` · `burn` · `deep`)
+- [Architecting Local Legal Embeddings](https://youtu.be/V6Ru7YYLneE) — Development · 30 views · May 22, 2026 · [Details](V6Ru7YYLneE.md) (shared: `burn` · `learning` · `rust`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `framework` · `rust` · `model`)
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 51 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `framework` · `rust` · `lifecycle`)
 
 ---
 *Auto-generated on May 22, 2026. Back to [development](../development.md) · [index](../index.md).*

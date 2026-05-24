@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 348
-updated: 2026-05-22
+sources: 352
+updated: 2026-05-24
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 348 |
-| Total Views | 29.0K |
+| Total Videos | 352 |
+| Total Views | 29.4K |
 | Categories | 6 |
-| Last Updated | May 22, 2026 |
+| Last Updated | May 23, 2026 |
 
 ## Categories
 
@@ -24,11 +24,11 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 ### [Korea](korea.md)
 
-Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 20 videos, 232 total views.
+Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 20 videos, 233 total views.
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 28 videos, 563 total views.
+Videos covering personal finance, investing, and economics. 28 videos, 571 total views.
 
 ### [Kubernetes](kubernetes.md)
 
@@ -36,11 +36,11 @@ Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 211 videos, 25.6K total views.
+Videos about software development, tools, workflows, and engineering practices. 214 videos, 25.9K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 13 videos, 431 total views.
+Videos on cybersecurity, application security, and security engineering. 14 videos, 449 total views.
 
 ### [Programming](programming.md)
 
@@ -62,11 +62,11 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `go` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `internal` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `rabbitmq` | [Kubernetes](kubernetes.md), [Development](development.md) |
+| `governance` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `security` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `azure` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `skill` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `cloud` | [Kubernetes](kubernetes.md), [Development](development.md) |
-| `orchestration` | [Kubernetes](kubernetes.md), [Security](security.md) |
 
 ---
-*Auto-generated on May 22, 2026. See [wiki index](../index.md).*
+*Auto-generated on May 23, 2026. See [wiki index](../index.md).*

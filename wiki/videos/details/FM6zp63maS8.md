@@ -36,7 +36,7 @@ This video presents hexcap, a Rust-based TUI packet capture tool designed to bri
 
 - [Packet Capture Fundamentals](https://youtu.be/vtzEOYX_8k8) — Development · 45 views · Apr 20, 2026 · [Details](vtzEOYX_8k8.md) (shared: `capture` · `libpcap`)
 - [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `rust` · `tui`)
-- [Reed: The Modern Terminal File Viewer](https://youtu.be/oUTf9j6fWJo) — Development · 143 views · Mar 30, 2026 · [Details](oUTf9j6fWJo.md) (shared: `rust` · `protocol`)
+- [Reed: The Modern Terminal File Viewer](https://youtu.be/oUTf9j6fWJo) — Development · 144 views · Mar 30, 2026 · [Details](oUTf9j6fWJo.md) (shared: `rust` · `protocol`)
 - [Pastel Market: Engineering a Unified Terminal Workspace](https://youtu.be/feWjiYzQQ-k) — Development · 41 views · Apr 19, 2026 · [Details](feWjiYzQQ-k.md) (shared: `rust` · `tui`)
 - [Architectural Evolution of a Vision Tool](https://youtu.be/Qv9X3ZY474U) — Development · 53 views · Mar 28, 2026 · [Details](Qv9X3ZY474U.md) (shared: `rust` · `ffi`)
 

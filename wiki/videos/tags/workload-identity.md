@@ -2,7 +2,7 @@
 type: tag
 tags: [workload-identity]
 sources: 2
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # workload identity
@@ -15,4 +15,4 @@ Videos connected by the topic `workload identity`.
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 42 views · Jan 17, 2026 · [Details](../details/4b-H6ZaoNUE.md)
 
 ---
-*Auto-generated on May 22, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 23, 2026. Back to [topic index](index.md).*

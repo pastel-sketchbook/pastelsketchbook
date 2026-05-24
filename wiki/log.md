@@ -223,3 +223,11 @@ Removed 3 videos from `HIDDEN_VIDEO_IDS` in `homepage/src/config/videos.ts`: rjh
 ## [2026-05-22] enrich | Book Sync Adjustment
 
 Removed rjhabJ8Bx5U (Architecting the New Capital Regime) from Architect's Sketchbook Ch7 per user request. Video remains visible in showcase but is not classified into any book chapter.
+
+## [2026-05-24] ingest | Video Metadata Sync
+
+Synced 352 videos across 6 categories (korea=20, finance=28, kubernetes=68, development=214, security=14, programming=8).
+
+## [2026-05-24] ingest | Video Transcripts
+
+Exported 1 transcript files (single: zWuFvi-0Go4) to `wiki/raw/transcripts`.

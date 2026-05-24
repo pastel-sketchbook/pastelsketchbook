@@ -2,7 +2,7 @@
 type: tag
 tags: [oidc]
 sources: 2
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # oidc
@@ -15,4 +15,4 @@ Videos connected by the topic `oidc`.
 - [Modern Hybrid Identity ](https://youtu.be/nJ10P-fRqZQ) — Kubernetes · 8 views · Mar 17, 2026 · [Details](../details/nJ10P-fRqZQ.md)
 
 ---
-*Auto-generated on May 22, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 23, 2026. Back to [topic index](index.md).*

@@ -30,7 +30,7 @@ This presentation is an architectural guide to long polling and its role in achi
 
 ## Related Videos
 
-- [The Push Architecture Blueprint](https://youtu.be/oqi_jJl3tAQ) — Development · 36 views · Apr 30, 2026 · [Details](oqi_jJl3tAQ.md) (shared: `polling` · `push`)
+- [The Push Architecture Blueprint](https://youtu.be/oqi_jJl3tAQ) — Development · 38 views · Apr 30, 2026 · [Details](oqi_jJl3tAQ.md) (shared: `polling` · `push`)
 - [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 89 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `http` · `compatibility`)
 - [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 130 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `server` · `compatibility`)
 - [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 209 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `connection` · `http`)

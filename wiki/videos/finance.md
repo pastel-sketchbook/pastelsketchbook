@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, ai, 2026, mandu, levy, property tax, orbital, stocks, notebooklm]
 sources: 28
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-05-22
 | Metric | Value |
 |--------|-------|
 | Videos | 28 |
-| Total Views | 563 |
+| Total Views | 571 |
 | Most Recent | May 21, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -29,19 +29,19 @@ updated: 2026-05-22
 
 ### AI & ML (2 videos)
 
-- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) -- 13 views, May 21, 2026 · [Details](details/9xDzB24tO4I.md)
+- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) -- 14 views, May 21, 2026 · [Details](details/9xDzB24tO4I.md)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 47 views, Mar 26, 2026 · [Details](details/hnMR8rdGCnU.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | The 2026 Enterprise AI Blueprint | 13 | May 21, 2026 | [Watch](https://youtu.be/9xDzB24tO4I) | [Wiki](details/9xDzB24tO4I.md) |
-| 2 | Architecting the New Capital Regime | 7 | May 21, 2026 | [Watch](https://youtu.be/rjhabJ8Bx5U) | [Wiki](details/rjhabJ8Bx5U.md) |
+| 1 | The 2026 Enterprise AI Blueprint | 14 | May 21, 2026 | [Watch](https://youtu.be/9xDzB24tO4I) | [Wiki](details/9xDzB24tO4I.md) |
+| 2 | Architecting the New Capital Regime | 12 | May 21, 2026 | [Watch](https://youtu.be/rjhabJ8Bx5U) | [Wiki](details/rjhabJ8Bx5U.md) |
 | 3 | The Architecture of Al Subscriptions | 5 | May 20, 2026 | [Watch](https://youtu.be/Dx8pFmojxL4) | [Wiki](details/Dx8pFmojxL4.md) |
 | 4 | A global geography of folded dough | 14 | May 18, 2026 | [Watch](https://youtu.be/UorjmtDDRgQ) | [Wiki](details/UorjmtDDRgQ.md) |
 | 5 | Nationwide Data Coverage & Auto-Filing Feasibility | 14 | May 13, 2026 | [Watch](https://youtu.be/SRwWBbsaQH4) | [Wiki](details/SRwWBbsaQH4.md) |
-| 6 | The Orbital Compute Blueprint | 71 | May 2, 2026 | [Watch](https://youtu.be/M_NbzCCHFp0) | [Wiki](details/M_NbzCCHFp0.md) |
+| 6 | The Orbital Compute Blueprint | 73 | May 2, 2026 | [Watch](https://youtu.be/M_NbzCCHFp0) | [Wiki](details/M_NbzCCHFp0.md) |
 | 7 | Decoding the Black Box of Global Finance | 46 | Apr 17, 2026 | [Watch](https://youtu.be/1smShC18TWA) | [Wiki](details/1smShC18TWA.md) |
 | 8 | The End of the American Penny | 3 | Apr 15, 2026 | [Watch](https://youtu.be/vzwjAlEz_bI) | [Wiki](details/vzwjAlEz_bI.md) |
 | 9 | Nesting in Global Finance | 6 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) | [Wiki](details/YYVxMSqBqe8.md) |
@@ -77,4 +77,4 @@ updated: 2026-05-22
 - [Security](security.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on May 22, 2026. Back to [index](index.md).*
+*Auto-generated on May 23, 2026. Back to [index](index.md).*

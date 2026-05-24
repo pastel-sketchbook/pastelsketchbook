@@ -2,7 +2,7 @@
 type: tag
 tags: [axum-web-framework]
 sources: 2
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # axum web framework
@@ -15,4 +15,4 @@ Videos connected by the topic `axum web framework`.
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](../details/js95nIDeA-c.md)
 
 ---
-*Auto-generated on May 22, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 23, 2026. Back to [topic index](index.md).*

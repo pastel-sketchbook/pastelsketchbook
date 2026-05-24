@@ -18,7 +18,7 @@
           "number": 2,
           "title": "Zero Trust as First Principle",
           "summary": "Perimeter security died with static IPs. In a world of ephemeral workloads, identity is the new firewall. This chapter traces the shift from network-based trust to workload identity via SPIRE, Cilium at L3/L4, and Istio at L7 — the gold-standard combination for production Kubernetes.",
-          "videoIds": ["4b-H6ZaoNUE", "SeYrpzDTn6A", "A4-foXsdQiA", "KpSjLQpswW4"],
+          "videoIds": ["4b-H6ZaoNUE", "SeYrpzDTn6A", "A4-foXsdQiA", "KpSjLQpswW4", "MFiVlaMYmwM"],
           "tags": ["zero-trust", "security", "istio", "cilium"]
         },
         {
@@ -131,7 +131,7 @@
           "number": 6,
           "title": "The Rust Architect's Toolkit",
           "summary": "Separate IO-bound (Tokio) from CPU-bound (Rayon). Use Tower as a universal service abstraction. Bifurcate errors between thiserror (library) and anyhow (application). Trace with structured spans. This chapter is the opinionated field guide for production Rust.",
-          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU", "uz8nmkTPEpg", "9HUPNhA3OrI"],
+          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU", "uz8nmkTPEpg", "9HUPNhA3OrI", "TpyKC8_30xs"],
           "tags": ["rust", "tokio", "tower", "error-handling", "sqlx"]
         },
         {
@@ -166,7 +166,7 @@
           "number": 11,
           "title": "Go: Concurrency, GC, and Modernization",
           "summary": "The Go concurrency paradox: goroutines are cheap but coordination is hard. Green Tea GC advances latency bounds. Go 1.26 introduces automated modernization. This chapter covers Go's runtime internals from scheduler to garbage collector to the pragmatic developer's daily toolkit.",
-          "videoIds": ["KCuGqld6nOc", "yCJDmGrk8sM", "zwVDEAKKPZY", "VHuQi_1t5qQ", "Qo3oJv4uyBI", "oxNF_GNuWpE"],
+          "videoIds": ["KCuGqld6nOc", "yCJDmGrk8sM", "zwVDEAKKPZY", "VHuQi_1t5qQ", "Qo3oJv4uyBI", "oxNF_GNuWpE", "zWuFvi-0Go4", "xiTVDbJscik"],
           "tags": ["go", "concurrency", "gc", "runtime"]
         },
         {

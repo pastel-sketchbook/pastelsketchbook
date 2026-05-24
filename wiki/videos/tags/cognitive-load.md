@@ -2,7 +2,7 @@
 type: tag
 tags: [cognitive-load]
 sources: 2
-updated: 2026-05-22
+updated: 2026-05-24
 ---
 
 # cognitive load
@@ -15,4 +15,4 @@ Videos connected by the topic `cognitive load`.
 - [The Orchestrator's Blueprint](https://youtu.be/Oa3jaLNSZvM) — Security · 36 views · Feb 28, 2026 · [Details](../details/Oa3jaLNSZvM.md)
 
 ---
-*Auto-generated on May 22, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 23, 2026. Back to [topic index](index.md).*

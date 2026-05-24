@@ -34,7 +34,7 @@ This video introduces Pastel Market, a high-performance Rust TUI that consolidat
 - [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 61 views · Apr 20, 2026 · [Details](FM6zp63maS8.md) (shared: `rust` · `tui`)
 - [Rust 1.95.0](https://youtu.be/izLrX-02IQk) — Development · 215 views · Apr 18, 2026 · [Details](izLrX-02IQk.md) (shared: `rust` · `crate`)
 - [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 17 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `rust` · `crate`)
-- [From 0 to N-Dimensions](https://youtu.be/6M76N3jhh1Q) — Development · 27 views · May 19, 2026 · [Details](6M76N3jhh1Q.md) (shared: `rust` · `crate`)
+- [From 0 to N-Dimensions](https://youtu.be/6M76N3jhh1Q) — Development · 29 views · May 19, 2026 · [Details](6M76N3jhh1Q.md) (shared: `rust` · `crate`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*
