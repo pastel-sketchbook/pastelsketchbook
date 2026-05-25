@@ -34,7 +34,7 @@ A systems-engineering tour of the feature-based computer vision pipeline — det
 - [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](B2x09utLjtM.md) (shared: `feature` · `pipeline`)
 - [Generative Al at Scale](https://youtu.be/uU46ltIELqk) — Development · 14 views · Mar 27, 2026 · [Details](uU46ltIELqk.md) (shared: `pipeline` · `scale`)
 - [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 55 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `feature` · `binary`)
-- [Beat - Anatomy of a Real-Time Visualizer](https://youtu.be/lin_ycbQGtE) — Development · 26 views · Mar 20, 2026 · [Details](lin_ycbQGtE.md) (shared: `detection` · `real-time`)
+- [Beat - Anatomy of a Real-Time Visualizer](https://youtu.be/lin_ycbQGtE) — Development · 27 views · Mar 20, 2026 · [Details](lin_ycbQGtE.md) (shared: `detection` · `real-time`)
 
 ---
 *Auto-generated on May 15, 2026. Back to [development](../development.md) · [index](../index.md).*

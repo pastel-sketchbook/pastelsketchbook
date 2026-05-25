@@ -31,10 +31,10 @@ A four-layer blueprint of the OpenCV library, from build-system foundations on A
 ## Related Videos
 
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `library` · `architecture` · `webassembly`)
-- [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 44 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `hardware` · `abstraction` · `inference`)
+- [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 49 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `hardware` · `abstraction` · `inference`)
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `architecture` · `abstraction` · `build`)
-- [The pkg.go.dev API](https://youtu.be/zWuFvi-0Go4) — Development · 1 views · May 23, 2026 · [Details](zWuFvi-0Go4.md) (shared: `architecture` · `module` · `graph`)
-- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 27 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `architecture` · `hardware` · `inference`)
+- [The pkg.go.dev API](https://youtu.be/zWuFvi-0Go4) — Development · 11 views · May 23, 2026 · [Details](zWuFvi-0Go4.md) (shared: `architecture` · `module` · `graph`)
+- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 28 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `architecture` · `hardware` · `inference`)
 
 ---
 *Auto-generated on May 15, 2026. Back to [development](../development.md) · [index](../index.md).*

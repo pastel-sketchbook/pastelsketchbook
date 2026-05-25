@@ -60,7 +60,7 @@
           "number": 8,
           "title": "The 2026 Architectural Standard",
           "summary": "The era of distributed cluster complexity is ending. ClickHouse replaces the fragmented warehouse landscape, purpose-built databases replace component chaining, and AI agents reshape the SDLC. This chapter is the manifesto for what comes next.",
-          "videoIds": ["WHonjixQgBY", "Z98SHl4nSFI", "z_W9dX6fliM", "YoIXlqspLWE", "Dx8pFmojxL4", "9xDzB24tO4I"],
+          "videoIds": ["WHonjixQgBY", "Z98SHl4nSFI", "z_W9dX6fliM", "YoIXlqspLWE", "Dx8pFmojxL4", "9xDzB24tO4I", "yXZnBtdDTFk", "nwAdb-PyRlo"],
           "tags": ["architecture", "ai-agents", "databases", "future"]
         },
         {
@@ -131,7 +131,7 @@
           "number": 6,
           "title": "The Rust Architect's Toolkit",
           "summary": "Separate IO-bound (Tokio) from CPU-bound (Rayon). Use Tower as a universal service abstraction. Bifurcate errors between thiserror (library) and anyhow (application). Trace with structured spans. This chapter is the opinionated field guide for production Rust.",
-          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU", "uz8nmkTPEpg", "9HUPNhA3OrI", "TpyKC8_30xs"],
+          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU", "uz8nmkTPEpg", "9HUPNhA3OrI", "TpyKC8_30xs", "S3Vc_R-HezY"],
           "tags": ["rust", "tokio", "tower", "error-handling", "sqlx"]
         },
         {
@@ -180,8 +180,8 @@
           "number": 13,
           "title": "The Database Internals Tour",
           "summary": "BadgerDB's LSM-tree Go-native store, ScyllaDB's shared-nothing architecture, HelixDB's unified graph-vector model, DuckDB's in-process analytics. This chapter visits four databases that each made a radical architectural bet — and examines why each bet was correct for its niche.",
-          "videoIds": ["eI2DXGISpbk", "mYClRFIlsFc", "kQc99Io3pCo", "ZBW6YozOu78", "BsiQrEaF3kU", "ZbZdm5Opbno", "n9Ebc-0E478", "i2YEYgVx0AA"],
-          "tags": ["databases", "badgerdb", "scylladb", "duckdb", "datafusion", "lancedb"]
+          "videoIds": ["eI2DXGISpbk", "mYClRFIlsFc", "kQc99Io3pCo", "ZBW6YozOu78", "BsiQrEaF3kU", "ZbZdm5Opbno", "n9Ebc-0E478", "i2YEYgVx0AA", "LxI5YjCUswI"],
+          "tags": ["databases", "badgerdb", "scylladb", "duckdb", "datafusion", "lancedb", "dynamodb"]
         },
         {
           "number": 14,

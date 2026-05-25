@@ -34,7 +34,7 @@ Based on Andrew Kelly's work at the Zig Software Foundation, this video explains
 - [Hardening a Prototype](https://youtu.be/DCGTYftRGWE) — Development · 23 views · Jan 25, 2026 · [Details](DCGTYftRGWE.md) (shared: `data-oriented design` · `data-oriented` · `design`)
 - [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 12 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `data-oriented design` · `data-oriented` · `design`)
 - [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 13 views · Jan 25, 2026 · [Details](3Fpey_L_XRU.md) (shared: `zig` · `struct of arrays` · `struct`)
-- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 33 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `design` · `zig` · `memory`)
+- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 34 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `design` · `zig` · `memory`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

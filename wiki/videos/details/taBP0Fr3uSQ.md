@@ -31,7 +31,7 @@ This video dissects the LiteLLM supply chain compromise (PyPI packages 1.82.7 an
 ## Related Videos
 
 - [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 48 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security` · `vulnerability`)
-- [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 26 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `security` · `vulnerability`)
+- [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 25 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `security` · `vulnerability`)
 - [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) — Security · 76 views · Mar 31, 2026 · [Details](Zeg8zSOvoyE.md) (shared: `security` · `vulnerability`)
 - [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 59 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `attack` · `security`)
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 18 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `security`)

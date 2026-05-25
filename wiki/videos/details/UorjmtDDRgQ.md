@@ -31,7 +31,7 @@ This talk traces the cultural and historical diffusion of folded-dough foods —
 ## Related Videos
 
 - [The Pomology Field Guide](https://youtu.be/_LrmdP64y6A) — Finance · 20 views · Mar 19, 2026 · [Details](_LrmdP64y6A.md) (shared: `culinary`)
-- [Nesting in Global Finance](https://youtu.be/YYVxMSqBqe8) — Finance · 6 views · Apr 12, 2026 · [Details](YYVxMSqBqe8.md) (shared: `global`)
+- [Nesting in Global Finance](https://youtu.be/YYVxMSqBqe8) — Finance · 7 views · Apr 12, 2026 · [Details](YYVxMSqBqe8.md) (shared: `global`)
 - [Zig 0.16.0: Architectural Decoupling](https://youtu.be/hTEG3TsuUPQ) — Development · 715 views · Apr 15, 2026 · [Details](hTEG3TsuUPQ.md) (shared: `global`)
 - [Jujutsu (jj):  An Introduction of its Paradigm Shift](https://youtu.be/5st-kLcNrE8) — Development · 117 views · Feb 5, 2026 · [Details](5st-kLcNrE8.md) (shared: `branching`)
 

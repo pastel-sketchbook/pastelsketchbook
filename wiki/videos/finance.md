@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, ai, 2026, mandu, levy, property tax, orbital, stocks, notebooklm]
 sources: 28
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-05-24
 | Metric | Value |
 |--------|-------|
 | Videos | 28 |
-| Total Views | 571 |
+| Total Views | 575 |
 | Most Recent | May 21, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -29,22 +29,22 @@ updated: 2026-05-24
 
 ### AI & ML (2 videos)
 
-- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) -- 14 views, May 21, 2026 · [Details](details/9xDzB24tO4I.md)
+- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) -- 15 views, May 21, 2026 · [Details](details/9xDzB24tO4I.md)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 47 views, Mar 26, 2026 · [Details](details/hnMR8rdGCnU.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | The 2026 Enterprise AI Blueprint | 14 | May 21, 2026 | [Watch](https://youtu.be/9xDzB24tO4I) | [Wiki](details/9xDzB24tO4I.md) |
-| 2 | Architecting the New Capital Regime | 12 | May 21, 2026 | [Watch](https://youtu.be/rjhabJ8Bx5U) | [Wiki](details/rjhabJ8Bx5U.md) |
+| 1 | The 2026 Enterprise AI Blueprint | 15 | May 21, 2026 | [Watch](https://youtu.be/9xDzB24tO4I) | [Wiki](details/9xDzB24tO4I.md) |
+| 2 | Architecting the New Capital Regime | 13 | May 21, 2026 | [Watch](https://youtu.be/rjhabJ8Bx5U) | [Wiki](details/rjhabJ8Bx5U.md) |
 | 3 | The Architecture of Al Subscriptions | 5 | May 20, 2026 | [Watch](https://youtu.be/Dx8pFmojxL4) | [Wiki](details/Dx8pFmojxL4.md) |
 | 4 | A global geography of folded dough | 14 | May 18, 2026 | [Watch](https://youtu.be/UorjmtDDRgQ) | [Wiki](details/UorjmtDDRgQ.md) |
 | 5 | Nationwide Data Coverage & Auto-Filing Feasibility | 14 | May 13, 2026 | [Watch](https://youtu.be/SRwWBbsaQH4) | [Wiki](details/SRwWBbsaQH4.md) |
 | 6 | The Orbital Compute Blueprint | 73 | May 2, 2026 | [Watch](https://youtu.be/M_NbzCCHFp0) | [Wiki](details/M_NbzCCHFp0.md) |
 | 7 | Decoding the Black Box of Global Finance | 46 | Apr 17, 2026 | [Watch](https://youtu.be/1smShC18TWA) | [Wiki](details/1smShC18TWA.md) |
 | 8 | The End of the American Penny | 3 | Apr 15, 2026 | [Watch](https://youtu.be/vzwjAlEz_bI) | [Wiki](details/vzwjAlEz_bI.md) |
-| 9 | Nesting in Global Finance | 6 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) | [Wiki](details/YYVxMSqBqe8.md) |
+| 9 | Nesting in Global Finance | 7 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) | [Wiki](details/YYVxMSqBqe8.md) |
 | 10 | The Mystery of the Nickel Coke | 10 | Apr 10, 2026 | [Watch](https://youtu.be/l9UUqD2Bz2E) | [Wiki](details/l9UUqD2Bz2E.md) |
 | 11 | The Final Five Years | 16 | Apr 7, 2026 | [Watch](https://youtu.be/HFmkEvxyJE4) | [Wiki](details/HFmkEvxyJE4.md) |
 | 12 | The Architecture of Fulfillment | 47 | Mar 26, 2026 | [Watch](https://youtu.be/hnMR8rdGCnU) | [Wiki](details/hnMR8rdGCnU.md) |
@@ -52,7 +52,7 @@ updated: 2026-05-24
 | 14 | The Pomology Field Guide | 20 | Mar 19, 2026 | [Watch](https://youtu.be/_LrmdP64y6A) | [Wiki](details/_LrmdP64y6A.md) |
 | 15 | The 2026 Market Barbell | 9 | Mar 16, 2026 | [Watch](https://youtu.be/2NoJVXPpcco) | [Wiki](details/2NoJVXPpcco.md) |
 | 16 | The Mathematics of Human Capital Compounding | 14 | Mar 5, 2026 | [Watch](https://youtu.be/_4BC0zHGYTw) | [Wiki](details/_4BC0zHGYTw.md) |
-| 17 | Navigating the Al Capital Cycle: 2026 & Beyond | 87 | Feb 17, 2026 | [Watch](https://youtu.be/9z6mOWQgU84) | [Wiki](details/9z6mOWQgU84.md) |
+| 17 | Navigating the Al Capital Cycle: 2026 & Beyond | 88 | Feb 17, 2026 | [Watch](https://youtu.be/9z6mOWQgU84) | [Wiki](details/9z6mOWQgU84.md) |
 | 18 | The 2026 Barbell Strategy | 12 | Feb 17, 2026 | [Watch](https://youtu.be/bn-Nvmxgur8) | [Wiki](details/bn-Nvmxgur8.md) |
 | 19 | 2050: The Post-Labor Paradigm | 10 | Feb 7, 2026 | [Watch](https://youtu.be/ybR0RxXj2_M) | [Wiki](details/ybR0RxXj2_M.md) |
 | 20 | The Three Pillars of Financial Freedom | 15 | Jan 23, 2026 | [Watch](https://youtu.be/K1O4kHjFJaQ) | [Wiki](details/K1O4kHjFJaQ.md) |
@@ -77,4 +77,4 @@ updated: 2026-05-24
 - [Security](security.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on May 23, 2026. Back to [index](index.md).*
+*Auto-generated on May 25, 2026. Back to [index](index.md).*

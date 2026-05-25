@@ -31,10 +31,10 @@ This video presents Bubble Tea v2 from Charm, the next evolution of terminal use
 ## Related Videos
 
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `terminal ui` · `terminal` · `tui`)
-- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 5 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `terminal` · `framework` · `rendering`)
+- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 14 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `terminal` · `framework` · `rendering`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `framework` · `ecosystem`)
 - [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `terminal` · `tui`)
-- [Reed: The Modern Terminal File Viewer](https://youtu.be/oUTf9j6fWJo) — Development · 144 views · Mar 30, 2026 · [Details](oUTf9j6fWJo.md) (shared: `terminal` · `rendering`)
+- [Reed: The Modern Terminal File Viewer](https://youtu.be/oUTf9j6fWJo) — Development · 145 views · Mar 30, 2026 · [Details](oUTf9j6fWJo.md) (shared: `terminal` · `rendering`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

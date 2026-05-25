@@ -32,7 +32,7 @@ This video analyzes the market transition from 2025's high-beta breakout growth 
 
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `analysis` · `ai infrastructure investing` · `infrastructure`)
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `market` · `analysis`)
-- [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 87 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `infrastructure` · `economy`)
+- [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 88 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `infrastructure` · `economy`)
 - [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 12 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `investing`)
 - [The architecture of wealth](https://youtu.be/nfD3KzIriM8) — Finance · 8 views · Jan 16, 2026 · [Details](nfD3KzIriM8.md) (shared: `investing`)
 

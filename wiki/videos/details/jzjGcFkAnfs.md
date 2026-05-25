@@ -32,9 +32,9 @@ This video provides a CTO-level architectural comparison of React Native versus 
 
 - [Flutter & Dart: The 2026 Roadmap](https://youtu.be/WMcKFQ200OE) — Development · 62 views · Feb 27, 2026 · [Details](WMcKFQ200OE.md) (shared: `flutter` · `impeller` · `dart`)
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 47 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `native` · `cross-platform` · `bridge`)
-- [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 36 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `flutter` · `mobile` · `architecture`)
+- [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `flutter` · `mobile` · `architecture`)
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `flutter` · `dart` · `architecture`)
-- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 5 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `native` · `bridge` · `architecture`)
+- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 14 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `native` · `bridge` · `architecture`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

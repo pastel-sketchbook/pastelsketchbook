@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 164
+Total topics: 166
 
 ## Topics
 
@@ -138,6 +138,7 @@ Total topics: 164
 - [pattern matching](pattern-matching.md) (2)
 - [performance optimization](performance-optimization.md) (2)
 - [persistent storage](persistent-storage.md) (2)
+- [pluggable storage trait](pluggable-storage-trait.md) (2)
 - [portfolio allocation](portfolio-allocation.md) (2)
 - [problem decomposition](problem-decomposition.md) (2)
 - [qmd](qmd.md) (2)
@@ -155,6 +156,7 @@ Total topics: 164
 - [service-to-service auth](service-to-service-auth.md) (2)
 - [single sign-on](single-sign-on.md) (2)
 - [stateful workloads](stateful-workloads.md) (2)
+- [strangler fig pattern](strangler-fig-pattern.md) (2)
 - [tauri 2 desktop shell](tauri-2-desktop-shell.md) (2)
 - [terminal ui](terminal-ui.md) (2)
 - [terraform](terraform.md) (2)
@@ -177,4 +179,4 @@ Total topics: 164
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on May 23, 2026. Back to [videos index](../index.md).*
+*Auto-generated on May 25, 2026. Back to [videos index](../index.md).*

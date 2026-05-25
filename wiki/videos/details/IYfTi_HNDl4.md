@@ -34,7 +34,7 @@ This video explains how to build production-grade RabbitMQ systems in Go using a
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `rabbitmq` · `architecture` · `distributed`)
 - [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 18 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `pattern` · `architecture` · `distributed`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 35 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `pattern` · `architecture`)
-- [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 36 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `pattern` · `architecture`)
+- [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `pattern` · `architecture`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

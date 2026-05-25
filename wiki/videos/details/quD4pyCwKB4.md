@@ -39,7 +39,7 @@ This video introduces the Terraform skill blueprint, a context-engineering layer
 - [Azure Enterprise Edge Lab](https://youtu.be/fMjflPvjaJ8) — Kubernetes · 9 views · Mar 31, 2026 · [Details](fMjflPvjaJ8.md) (shared: `infrastructure as code` · `infrastructure` · `code`)
 - [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 21 views · Apr 22, 2026 · [Details](p9LNSeAt5Zw.md) (shared: `infrastructure` · `ci/cd pipelines` · `pipelines`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 35 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `state management` · `state` · `management`)
-- [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 36 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `state management` · `state` · `management`)
+- [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `state management` · `state` · `management`)
 
 ---
 *Auto-generated on Apr 26, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*
