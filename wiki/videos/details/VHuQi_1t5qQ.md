@@ -36,9 +36,9 @@ This video provides a comprehensive guide to Go pointers, covering fundamentals 
 
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 350 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `pointer` · `garbage`)
 - [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 204 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `garbage` · `collector`)
-- [A Guide to Rust Smart Pointers](https://youtu.be/WdK7PED1ug8) — Development · 43 views · Feb 26, 2026 · [Details](WdK7PED1ug8.md) (shared: `pointers` · `heap`)
-- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 851 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `analysis` · `slices`)
-- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 50 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `pointers`)
+- [A Guide to Rust Smart Pointers](https://youtu.be/WdK7PED1ug8) — Development · 44 views · Feb 26, 2026 · [Details](WdK7PED1ug8.md) (shared: `pointers` · `heap`)
+- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 854 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `analysis` · `slices`)
+- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 53 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `pointers`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*

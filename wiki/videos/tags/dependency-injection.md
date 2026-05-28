@@ -2,7 +2,7 @@
 type: tag
 tags: [dependency-injection]
 sources: 5
-updated: 2026-05-25
+updated: 2026-05-28
 ---
 
 # dependency injection
@@ -13,9 +13,9 @@ Videos connected by the topic `dependency injection`.
 
 - [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 794 views · Feb 13, 2026 · [Details](../details/cWozmWrqnxs.md)
 - [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 117 views · Feb 24, 2026 · [Details](../details/DazzkNtnzec.md)
-- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 71 views · Feb 22, 2026 · [Details](../details/SpNfrWmI8iE.md)
+- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 72 views · Feb 22, 2026 · [Details](../details/SpNfrWmI8iE.md)
 - [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 55 views · Apr 27, 2026 · [Details](../details/R3n8UxyD7mc.md)
-- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 47 views · Feb 22, 2026 · [Details](../details/Th5MMOFQbh8.md)
+- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 48 views · Feb 22, 2026 · [Details](../details/Th5MMOFQbh8.md)
 
 ---
-*Auto-generated on May 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 28, 2026. Back to [topic index](index.md).*

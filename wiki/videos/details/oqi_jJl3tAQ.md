@@ -44,11 +44,11 @@ Welcome  everyone  to  today's presentation.  On  this  slide,  we introduce  th
 
 ## Related Videos
 
-- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 88 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `event-driven architecture` · `event-driven` · `architecture`)
-- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `event-driven architecture` · `event-driven` · `architecture`)
+- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `event-driven architecture` · `event-driven` · `architecture`)
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 39 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `event-driven architecture` · `event-driven` · `architecture`)
 - [Drasi: The Future of Change-Driven Architecture](https://youtu.be/5Ztm7JNVa8E) — Kubernetes · 51 views · Feb 17, 2026 · [Details](5Ztm7JNVa8E.md) (shared: `event-driven architecture` · `event-driven` · `architecture`)
-- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 47 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `event-driven architecture` · `event-driven` · `architecture`)
-- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 158 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `event-driven architecture` · `event-driven` · `architecture`)
+- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 48 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `event-driven architecture` · `event-driven` · `architecture`)
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 159 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `event-driven architecture` · `event-driven` · `architecture`)
 
 ---
 *Auto-generated on May 2, 2026. Back to [development](../development.md) · [index](../index.md).*

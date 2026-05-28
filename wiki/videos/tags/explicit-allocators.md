@@ -2,7 +2,7 @@
 type: tag
 tags: [explicit-allocators]
 sources: 2
-updated: 2026-05-25
+updated: 2026-05-28
 ---
 
 # explicit allocators
@@ -15,4 +15,4 @@ Videos connected by the topic `explicit allocators`.
 - [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 26 views · Feb 6, 2026 · [Details](../details/A96r5gqwUrI.md)
 
 ---
-*Auto-generated on May 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 28, 2026. Back to [topic index](index.md).*

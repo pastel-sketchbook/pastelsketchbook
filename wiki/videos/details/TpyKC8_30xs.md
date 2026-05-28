@@ -30,10 +30,10 @@ The Burn Book is a multi-surface deep learning curriculum architecture for the B
 
 ## Related Videos
 
-- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 28 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `architecture` · `burn deep learning framework` · `burn`)
+- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 29 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `architecture` · `burn deep learning framework` · `burn`)
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 47 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `architecture` · `tauri` · `desktop`)
-- [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 30 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `architecture` · `tauri 2 desktop shell` · `tauri`)
-- [The Architecture of tracel-ai/models](https://youtu.be/kSQtbPEtDkY) — Development · 16 views · May 20, 2026 · [Details](kSQtbPEtDkY.md) (shared: `architecture` · `burn` · `deep`)
+- [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 31 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `architecture` · `tauri 2 desktop shell` · `tauri`)
+- [The Architecture of tracel-ai/models](https://youtu.be/kSQtbPEtDkY) — Development · 18 views · May 20, 2026 · [Details](kSQtbPEtDkY.md) (shared: `architecture` · `burn` · `deep`)
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `architecture` · `terminal` · `rendering`)
 
 ---

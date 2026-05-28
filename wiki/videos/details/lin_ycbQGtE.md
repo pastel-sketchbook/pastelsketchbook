@@ -34,7 +34,7 @@ This video dissects the architecture of a real-time audio visualizer built with 
 - [Neural TTS in Pastel-HN](https://youtu.be/d_0swhS1LyQ) — Development · 46 views · Feb 1, 2026 · [Details](d_0swhS1LyQ.md) (shared: `rust` · `audio`)
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `engine` · `rust`)
 - [Diagnostic Guide to Computer Vision Feature Detection](https://youtu.be/AvysIjFrTEw) — Development · 33 views · May 11, 2026 · [Details](AvysIjFrTEw.md) (shared: `real-time` · `detection`)
-- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 63 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `engine` · `rust`)
+- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 72 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `engine` · `rust`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

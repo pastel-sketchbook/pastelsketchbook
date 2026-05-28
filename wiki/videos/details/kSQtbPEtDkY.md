@@ -30,10 +30,10 @@ This presentation tours the architecture of the `tracel-ai/models` repository, a
 
 ## Related Videos
 
-- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 28 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `burn` · `framework` · `deep`)
-- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 14 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `burn` · `framework` · `deep`)
-- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 30 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `burn framework` · `burn` · `framework`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 462 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `deep` · `learning` · `architecture`)
+- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 29 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `burn` · `framework` · `deep`)
+- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 17 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `burn` · `framework` · `deep`)
+- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 35 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `burn framework` · `burn` · `framework`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 472 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `deep` · `learning` · `architecture`)
 - [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) — Development · 54 views · Feb 28, 2026 · [Details](AcpVuvtSXwI.md) (shared: `architecture` · `transformer`)
 
 ---

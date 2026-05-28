@@ -30,7 +30,7 @@ This video examines RFC 862, the Echo Protocol authored by Jon Postel in May 198
 
 ## Related Videos
 
-- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 38 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `echo` · `distributed` · `systems`)
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 39 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `echo` · `distributed` · `systems`)
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `distributed` · `systems`)
 - [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 2 views · Jan 6, 2026 · [Details](z_Ydy_-cI1U.md) (shared: `distributed` · `systems`)
 - [The Programmer's Guide to Essential RFCs](https://youtu.be/LackTxguXFg) — Development · 108 views · Apr 10, 2026 · [Details](LackTxguXFg.md) (shared: `rfc` · `tcp`)

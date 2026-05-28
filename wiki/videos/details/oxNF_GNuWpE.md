@@ -34,7 +34,7 @@ This video presents the philosophy of pragmatic Go development, emphasizing Go's
 - [Writing Modern Go in the Age of Al](https://youtu.be/Z90u9EVf4M4) — Development · 191 views · Mar 26, 2026 · [Details](Z90u9EVf4M4.md) (shared: `go standard library` · `standard` · `library`)
 - [The NestJS Architecture Blueprint](https://youtu.be/173Y2uPljgo) — Development · 47 views · May 4, 2026 · [Details](173Y2uPljgo.md) (shared: `http` · `context` · `dependency`)
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `library` · `dependency`)
-- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 47 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `patterns` · `dependency`)
+- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 48 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `patterns` · `dependency`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 356
-updated: 2026-05-25
+sources: 364
+updated: 2026-05-28
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 356 |
-| Total Views | 29.8K |
+| Total Videos | 364 |
+| Total Views | 30.7K |
 | Categories | 6 |
-| Last Updated | May 25, 2026 |
+| Last Updated | May 28, 2026 |
 
 ## Categories
 
@@ -24,11 +24,11 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 ### [Korea](korea.md)
 
-Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 20 videos, 233 total views.
+Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 20 videos, 234 total views.
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 28 videos, 575 total views.
+Videos covering personal finance, investing, and economics. 30 videos, 606 total views.
 
 ### [Kubernetes](kubernetes.md)
 
@@ -36,15 +36,15 @@ Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 217 videos, 26.3K total views.
+Videos about software development, tools, workflows, and engineering practices. 223 videos, 27.1K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 14 videos, 456 total views.
+Videos on cybersecurity, application security, and security engineering. 14 videos, 478 total views.
 
 ### [Programming](programming.md)
 
-Videos about programming languages, paradigms, and computer science concepts. 8 videos, 212 total views.
+Videos about programming languages, paradigms, and computer science concepts. 8 videos, 213 total views.
 
 ## Cross-Category Tags
 
@@ -69,4 +69,4 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `skill` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on May 25, 2026. See [wiki index](../index.md).*
+*Auto-generated on May 28, 2026. See [wiki index](../index.md).*

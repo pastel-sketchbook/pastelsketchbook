@@ -35,11 +35,11 @@ This talk contrasts greenfield and brownfield strategies for integrating AI codi
 
 ## Related Videos
 
-- [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 42 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `migration` · `strangler fig pattern` · `strangler`)
+- [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 43 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `migration` · `strangler fig pattern` · `strangler`)
 - [Modern Dart](https://youtu.be/JBh6rzeS-Qc) — Development · 81 views · Jan 20, 2026 · [Details](JBh6rzeS-Qc.md) (shared: `pattern` · `safety`)
-- [rr-mailtrap: The Developer's SMTP Sandbox](https://youtu.be/SuuZW_fuEFc) — Development · 24 views · May 8, 2026 · [Details](SuuZW_fuEFc.md) (shared: `safety` · `net` · `validation`)
+- [rr-mailtrap: The Developer's SMTP Sandbox](https://youtu.be/SuuZW_fuEFc) — Development · 25 views · May 8, 2026 · [Details](SuuZW_fuEFc.md) (shared: `safety` · `net` · `validation`)
 - [The Pragmatic Go Developer](https://youtu.be/oxNF_GNuWpE) — Development · 45 views · Mar 10, 2026 · [Details](oxNF_GNuWpE.md) (shared: `context` · `net`)
-- [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 58 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `context` · `guardrails`)
+- [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 65 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `context` · `guardrails`)
 
 ---
 *Auto-generated on May 25, 2026. Back to [development](../development.md) · [index](../index.md).*

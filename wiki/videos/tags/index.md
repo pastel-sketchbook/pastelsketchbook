@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-05-25
+updated: 2026-05-28
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 166
+Total topics: 167
 
 ## Topics
 
@@ -17,9 +17,9 @@ Total topics: 166
 - [istio service mesh](istio-service-mesh.md) (7)
 - [rabbitmq](rabbitmq.md) (7)
 - [zero trust](zero-trust.md) (7)
+- [change data capture](change-data-capture.md) (6)
 - [memory management](memory-management.md) (6)
 - [repository pattern](repository-pattern.md) (6)
-- [change data capture](change-data-capture.md) (5)
 - [dependency injection](dependency-injection.md) (5)
 - [distributed tracing](distributed-tracing.md) (5)
 - [rust](rust.md) (5)
@@ -34,6 +34,7 @@ Total topics: 166
 - [state management](state-management.md) (4)
 - [systems programming](systems-programming.md) (4)
 - [webassembly](webassembly.md) (4)
+- [ai infrastructure investing](ai-infrastructure-investing.md) (3)
 - [ai-assisted development](ai-assisted-development.md) (3)
 - [azure devops](azure-devops.md) (3)
 - [azure event hubs](azure-event-hubs.md) (3)
@@ -63,8 +64,8 @@ Total topics: 166
 - [trunk-based development](trunk-based-development.md) (3)
 - [zero-cost abstractions](zero-cost-abstractions.md) (3)
 - [zig programming](zig-programming.md) (3)
+- [agentic orchestration](agentic-orchestration.md) (2)
 - [ai agents](ai-agents.md) (2)
-- [ai infrastructure investing](ai-infrastructure-investing.md) (2)
 - [aks networking](aks-networking.md) (2)
 - [aks security](aks-security.md) (2)
 - [api abstraction](api-abstraction.md) (2)
@@ -179,4 +180,4 @@ Total topics: 166
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on May 25, 2026. Back to [videos index](../index.md).*
+*Auto-generated on May 28, 2026. Back to [videos index](../index.md).*

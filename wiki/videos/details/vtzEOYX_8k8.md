@@ -32,9 +32,9 @@ This session provides a comprehensive architectural overview of the Wireshark ec
 
 - [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 61 views · Apr 20, 2026 · [Details](FM6zp63maS8.md) (shared: `libpcap` · `capture`)
 - [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 31 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `capture`)
-- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 851 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `capture`)
+- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 854 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `capture`)
+- [Local Change Data Capture at Scale](https://youtu.be/FIelcuTti-I) — Development · 18 views · May 26, 2026 · [Details](FIelcuTti-I.md) (shared: `capture`)
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 21 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `capture`)
-- [Continuous Flow](https://youtu.be/tcrNdx1yH_E) — Kubernetes · 15 views · Mar 22, 2026 · [Details](tcrNdx1yH_E.md) (shared: `capture`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*

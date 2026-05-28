@@ -31,7 +31,7 @@ This video argues that the "big data" era's default reliance on distributed comp
 ## Related Videos
 
 - [MotherDuck: Serverless DuckDB in the Cloud & Client](https://youtu.be/BsiQrEaF3kU) — Kubernetes · 27 views · Feb 4, 2026 · [Details](BsiQrEaF3kU.md) (shared: `duckdb` · `single-node` · `analytics`)
-- [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 43 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `duckdb` · `python` · `data`)
+- [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 50 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `duckdb` · `python` · `data`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `data` · `analytics`)
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 20 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `duckdb` · `python` · `data`)
 - [The 98  Prediction Problem](https://youtu.be/FDYu2fllfuE) — Development · 3 views · Jan 12, 2026 · [Details](FDYu2fllfuE.md) (shared: `data` · `engineering` · `analytics`)

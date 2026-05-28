@@ -30,11 +30,11 @@ This video presents Rust error handling as a four-stage lifecycle journey: libra
 
 ## Related Videos
 
-- [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 91 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `thiserror` · `anyhow` · `tracing`)
-- [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 20 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `rust` · `error` · `ecosystem`)
+- [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 93 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `thiserror` · `anyhow` · `tracing`)
+- [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 26 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `rust` · `error` · `ecosystem`)
 - [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) — Development · 117 views · Mar 22, 2026 · [Details](vep9hSKc9I0.md) (shared: `rust` · `tracing` · `observability`)
-- [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 7 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `ecosystem`)
-- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 52 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `tracing` · `observability`)
+- [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `ecosystem`)
+- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 54 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `tracing` · `observability`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

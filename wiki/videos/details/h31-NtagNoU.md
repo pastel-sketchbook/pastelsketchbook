@@ -30,10 +30,10 @@ This video provides a deep dive into memory layout mechanics in the Zig programm
 
 ## Related Videos
 
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 70 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `zig` · `memory` · `layout`)
-- [Hardening a Prototype](https://youtu.be/DCGTYftRGWE) — Development · 23 views · Jan 25, 2026 · [Details](DCGTYftRGWE.md) (shared: `memory` · `struct` · `data-oriented design`)
-- [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 12 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `zig` · `data-oriented design` · `data-oriented`)
-- [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 13 views · Jan 25, 2026 · [Details](3Fpey_L_XRU.md) (shared: `zig` · `struct` · `arrays`)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 72 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `zig` · `memory` · `layout`)
+- [Hardening a Prototype](https://youtu.be/DCGTYftRGWE) — Development · 24 views · Jan 25, 2026 · [Details](DCGTYftRGWE.md) (shared: `memory` · `struct` · `data-oriented design`)
+- [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 13 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `zig` · `data-oriented design` · `data-oriented`)
+- [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 14 views · Jan 25, 2026 · [Details](3Fpey_L_XRU.md) (shared: `zig` · `struct` · `arrays`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 34 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `memory` · `design`)
 
 ---

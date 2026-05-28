@@ -34,7 +34,7 @@ A walkthrough of the Kubernetes monorepo dissects how the control plane (API ser
 - [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 57 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `control` · `plane`)
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) — Kubernetes · 28 views · Mar 16, 2026 · [Details](LUOX5xkSyi0.md) (shared: `language` · `validation`)
 - [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 14 views · Mar 16, 2026 · [Details](to1PClyd0YA.md) (shared: `kubernetes` · `language`)
-- [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) — Kubernetes · 30 views · Jan 27, 2026 · [Details](KpSjLQpswW4.md) (shared: `kubernetes` · `control`)
+- [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) — Kubernetes · 31 views · Jan 27, 2026 · [Details](KpSjLQpswW4.md) (shared: `kubernetes` · `control`)
 
 ---
 *Auto-generated on May 15, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

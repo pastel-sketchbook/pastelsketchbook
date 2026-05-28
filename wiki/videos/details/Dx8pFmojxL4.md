@@ -31,8 +31,8 @@ This talk frames AI providers as the new ISPs, where subscriptions sell cognitiv
 ## Related Videos
 
 - [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) — Development · 116 views · Feb 14, 2026 · [Details](kQc99Io3pCo.md) (shared: `context` · `enterprise` · `compliance`)
-- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) — Finance · 15 views · May 21, 2026 · [Details](9xDzB24tO4I.md) (shared: `enterprise` · `data`)
-- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 73 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `economics` · `data`)
+- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) — Finance · 19 views · May 21, 2026 · [Details](9xDzB24tO4I.md) (shared: `enterprise` · `data`)
+- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 74 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `economics` · `data`)
 - [The Exchange Rate of Your Life](https://youtu.be/MBnVggs6k5g) — Finance · 17 views · Jan 22, 2026 · [Details](MBnVggs6k5g.md) (shared: `rate`)
 - [The Mystery of the Nickel Coke](https://youtu.be/l9UUqD2Bz2E) — Finance · 10 views · Apr 10, 2026 · [Details](l9UUqD2Bz2E.md) (shared: `economics`)
 
