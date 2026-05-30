@@ -2,7 +2,7 @@
 type: tag
 tags: [tokio-async-runtime]
 sources: 3
-updated: 2026-05-28
+updated: 2026-05-30
 ---
 
 # tokio async runtime
@@ -16,4 +16,4 @@ Videos connected by the topic `tokio async runtime`.
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](../details/js95nIDeA-c.md)
 
 ---
-*Auto-generated on May 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on May 30, 2026. Back to [topic index](index.md).*

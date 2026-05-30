@@ -30,7 +30,7 @@ This video introduces a flight-recorder-style telemetry system for the Tokio asy
 
 ## Related Videos
 
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 150 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `tokio runtime` · `tokio` · `runtime`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 151 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `tokio runtime` · `tokio` · `runtime`)
 - [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) — Development · 117 views · Mar 22, 2026 · [Details](vep9hSKc9I0.md) (shared: `tokio` · `rust` · `latency`)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 51 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `tokio` · `runtime` · `rust`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `tokio` · `runtime` · `rust`)

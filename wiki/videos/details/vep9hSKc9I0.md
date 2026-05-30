@@ -34,7 +34,7 @@ This video demonstrates deep observability techniques for async Rust application
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 93 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `async` · `observability` · `tokio`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `async` · `rust` · `tokio`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `async` · `rust` · `tokio`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 150 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `async` · `rust` · `tokio`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 151 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `async` · `rust` · `tokio`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

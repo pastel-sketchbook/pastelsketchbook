@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, ai, 2026, mandu, levy, property tax, orbital, stocks, notebooklm]
 sources: 30
-updated: 2026-05-28
+updated: 2026-05-30
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-05-28
 | Metric | Value |
 |--------|-------|
 | Videos | 30 |
-| Total Views | 606 |
+| Total Views | 636 |
 | Most Recent | May 28, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -23,29 +23,29 @@ updated: 2026-05-28
 
 ### Architecture (4 videos)
 
-- [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 23 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
-- [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) -- 6 views, May 20, 2026 · [Details](details/Dx8pFmojxL4.md)
+- [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 41 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
+- [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) -- 7 views, May 20, 2026 · [Details](details/Dx8pFmojxL4.md)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 47 views, Mar 26, 2026 · [Details](details/hnMR8rdGCnU.md)
 - [The architecture of wealth](https://youtu.be/nfD3KzIriM8) -- 8 views, Jan 16, 2026 · [Details](details/nfD3KzIriM8.md)
 
 ### AI & ML (3 videos)
 
-- [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 23 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
-- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) -- 19 views, May 21, 2026 · [Details](details/9xDzB24tO4I.md)
+- [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 41 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
+- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) -- 22 views, May 21, 2026 · [Details](details/9xDzB24tO4I.md)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 47 views, Mar 26, 2026 · [Details](details/hnMR8rdGCnU.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | The Strategic Guide to Annuities | 1 | May 28, 2026 | [Watch](https://youtu.be/UGQ-ItKwJNw) | [Wiki](details/UGQ-ItKwJNw.md) |
-| 2 | The 10-Year Al Investing Architecture | 23 | May 25, 2026 | [Watch](https://youtu.be/3bcmjx5F5Xs) | [Wiki](details/3bcmjx5F5Xs.md) |
-| 3 | The 2026 Enterprise AI Blueprint | 19 | May 21, 2026 | [Watch](https://youtu.be/9xDzB24tO4I) | [Wiki](details/9xDzB24tO4I.md) |
-| 4 | Architecting the New Capital Regime | 14 | May 21, 2026 | [Watch](https://youtu.be/rjhabJ8Bx5U) | [Wiki](details/rjhabJ8Bx5U.md) |
-| 5 | The Architecture of Al Subscriptions | 6 | May 20, 2026 | [Watch](https://youtu.be/Dx8pFmojxL4) | [Wiki](details/Dx8pFmojxL4.md) |
+| 1 | The Strategic Guide to Annuities | 5 | May 28, 2026 | [Watch](https://youtu.be/UGQ-ItKwJNw) | [Wiki](details/UGQ-ItKwJNw.md) |
+| 2 | The 10-Year Al Investing Architecture | 41 | May 25, 2026 | [Watch](https://youtu.be/3bcmjx5F5Xs) | [Wiki](details/3bcmjx5F5Xs.md) |
+| 3 | The 2026 Enterprise AI Blueprint | 22 | May 21, 2026 | [Watch](https://youtu.be/9xDzB24tO4I) | [Wiki](details/9xDzB24tO4I.md) |
+| 4 | Architecting the New Capital Regime | 16 | May 21, 2026 | [Watch](https://youtu.be/rjhabJ8Bx5U) | [Wiki](details/rjhabJ8Bx5U.md) |
+| 5 | The Architecture of Al Subscriptions | 7 | May 20, 2026 | [Watch](https://youtu.be/Dx8pFmojxL4) | [Wiki](details/Dx8pFmojxL4.md) |
 | 6 | A global geography of folded dough | 14 | May 18, 2026 | [Watch](https://youtu.be/UorjmtDDRgQ) | [Wiki](details/UorjmtDDRgQ.md) |
 | 7 | Nationwide Data Coverage & Auto-Filing Feasibility | 14 | May 13, 2026 | [Watch](https://youtu.be/SRwWBbsaQH4) | [Wiki](details/SRwWBbsaQH4.md) |
-| 8 | The Orbital Compute Blueprint | 74 | May 2, 2026 | [Watch](https://youtu.be/M_NbzCCHFp0) | [Wiki](details/M_NbzCCHFp0.md) |
+| 8 | The Orbital Compute Blueprint | 75 | May 2, 2026 | [Watch](https://youtu.be/M_NbzCCHFp0) | [Wiki](details/M_NbzCCHFp0.md) |
 | 9 | Decoding the Black Box of Global Finance | 46 | Apr 17, 2026 | [Watch](https://youtu.be/1smShC18TWA) | [Wiki](details/1smShC18TWA.md) |
 | 10 | The End of the American Penny | 3 | Apr 15, 2026 | [Watch](https://youtu.be/vzwjAlEz_bI) | [Wiki](details/vzwjAlEz_bI.md) |
 | 11 | Nesting in Global Finance | 7 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) | [Wiki](details/YYVxMSqBqe8.md) |
@@ -56,7 +56,7 @@ updated: 2026-05-28
 | 16 | The Pomology Field Guide | 20 | Mar 19, 2026 | [Watch](https://youtu.be/_LrmdP64y6A) | [Wiki](details/_LrmdP64y6A.md) |
 | 17 | The 2026 Market Barbell | 9 | Mar 16, 2026 | [Watch](https://youtu.be/2NoJVXPpcco) | [Wiki](details/2NoJVXPpcco.md) |
 | 18 | The Mathematics of Human Capital Compounding | 14 | Mar 5, 2026 | [Watch](https://youtu.be/_4BC0zHGYTw) | [Wiki](details/_4BC0zHGYTw.md) |
-| 19 | Navigating the Al Capital Cycle: 2026 & Beyond | 88 | Feb 17, 2026 | [Watch](https://youtu.be/9z6mOWQgU84) | [Wiki](details/9z6mOWQgU84.md) |
+| 19 | Navigating the Al Capital Cycle: 2026 & Beyond | 89 | Feb 17, 2026 | [Watch](https://youtu.be/9z6mOWQgU84) | [Wiki](details/9z6mOWQgU84.md) |
 | 20 | The 2026 Barbell Strategy | 12 | Feb 17, 2026 | [Watch](https://youtu.be/bn-Nvmxgur8) | [Wiki](details/bn-Nvmxgur8.md) |
 | 21 | 2050: The Post-Labor Paradigm | 10 | Feb 7, 2026 | [Watch](https://youtu.be/ybR0RxXj2_M) | [Wiki](details/ybR0RxXj2_M.md) |
 | 22 | The Three Pillars of Financial Freedom | 15 | Jan 23, 2026 | [Watch](https://youtu.be/K1O4kHjFJaQ) | [Wiki](details/K1O4kHjFJaQ.md) |
@@ -81,4 +81,4 @@ updated: 2026-05-28
 - [Security](security.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on May 28, 2026. Back to [index](index.md).*
+*Auto-generated on May 30, 2026. Back to [index](index.md).*

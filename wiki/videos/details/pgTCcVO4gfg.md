@@ -31,10 +31,10 @@ This video explores the systemic mechanics of LLM-assisted engineering, identify
 ## Related Videos
 
 - [The 98  Prediction Problem](https://youtu.be/FDYu2fllfuE) — Development · 3 views · Jan 12, 2026 · [Details](FDYu2fllfuE.md) (shared: `engineering` · `limits`)
-- [Compound Engineering](https://youtu.be/cEwAbu6FFRo) — Development · 168 views · Feb 11, 2026 · [Details](cEwAbu6FFRo.md) (shared: `engineering` · `architectural`)
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 686 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `architectural` · `context`)
+- [Compound Engineering](https://youtu.be/cEwAbu6FFRo) — Development · 169 views · Feb 11, 2026 · [Details](cEwAbu6FFRo.md) (shared: `engineering` · `architectural`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 687 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `architectural` · `context`)
 - [The Architect's Baton](https://youtu.be/6WRiPikxs-Q) — Development · 125 views · Mar 7, 2026 · [Details](6WRiPikxs-Q.md) (shared: `systemic` · `context`)
-- [Architecting Al in Software Engineering](https://youtu.be/yXZnBtdDTFk) — Development · 58 views · May 25, 2026 · [Details](yXZnBtdDTFk.md) (shared: `engineering` · `context`)
+- [Architecting Al in Software Engineering](https://youtu.be/yXZnBtdDTFk) — Development · 68 views · May 25, 2026 · [Details](yXZnBtdDTFk.md) (shared: `engineering` · `context`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -35,10 +35,10 @@ This session frames ECMAScript Modules (ESM) as the standardized, statically ana
 
 ## Related Videos
 
-- [The pkg.go.dev API](https://youtu.be/zWuFvi-0Go4) — Development · 13 views · May 23, 2026 · [Details](zWuFvi-0Go4.md) (shared: `module` · `analysis` · `resolution`)
+- [The pkg.go.dev API](https://youtu.be/zWuFvi-0Go4) — Development · 15 views · May 23, 2026 · [Details](zWuFvi-0Go4.md) (shared: `module` · `analysis` · `resolution`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `analysis` · `tooling`)
 - [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 38 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `migration` · `evolution`)
-- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 854 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `analysis` · `tree`)
+- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 857 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `analysis` · `tree`)
 - [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 97 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `module` · `migration`)
 
 ---

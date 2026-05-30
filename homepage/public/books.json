@@ -18,7 +18,7 @@
           "number": 2,
           "title": "Zero Trust as First Principle",
           "summary": "Perimeter security died with static IPs. In a world of ephemeral workloads, identity is the new firewall. This chapter traces the shift from network-based trust to workload identity via SPIRE, Cilium at L3/L4, and Istio at L7 — the gold-standard combination for production Kubernetes.",
-          "videoIds": ["4b-H6ZaoNUE", "SeYrpzDTn6A", "A4-foXsdQiA", "KpSjLQpswW4", "MFiVlaMYmwM"],
+          "videoIds": ["-e7kvcUXxtw", "4b-H6ZaoNUE", "SeYrpzDTn6A", "A4-foXsdQiA", "KpSjLQpswW4", "MFiVlaMYmwM"],
           "tags": ["zero-trust", "security", "istio", "cilium"]
         },
         {
@@ -131,8 +131,8 @@
           "number": 6,
           "title": "The Rust Architect's Toolkit",
           "summary": "Separate IO-bound (Tokio) from CPU-bound (Rayon). Use Tower as a universal service abstraction. Bifurcate errors between thiserror (library) and anyhow (application). Trace with structured spans. This chapter is the opinionated field guide for production Rust.",
-          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU", "uz8nmkTPEpg", "9HUPNhA3OrI", "TpyKC8_30xs", "S3Vc_R-HezY"],
-          "tags": ["rust", "tokio", "tower", "error-handling", "sqlx"]
+          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU", "uz8nmkTPEpg", "9HUPNhA3OrI", "TpyKC8_30xs", "S3Vc_R-HezY", "cDNqrUa260k", "d3JxtD__-L0"],
+          "tags": ["rust", "tokio", "tower", "error-handling", "sqlx", "cargo", "clippy", "bevy"]
         },
         {
           "number": 7,
@@ -152,7 +152,7 @@
           "number": 9,
           "title": "TigerStyle and the Philosophy of Zero Debt",
           "summary": "Safety > Performance > Developer Experience. An hour of upfront design saves months of production cost. NASA's Power of Ten rules, explicit control flow, no hidden allocations. This chapter presents TigerBeetle's engineering philosophy as a systematic alternative to move-fast-break-things.",
-          "videoIds": ["eJlXFaZNP6g", "pgTCcVO4gfg"],
+          "videoIds": ["-tZGlR8Zztg", "eJlXFaZNP6g", "pgTCcVO4gfg"],
           "tags": ["tigerstyle", "engineering-philosophy", "safety"]
         },
         {
@@ -194,8 +194,8 @@
           "number": 15,
           "title": "The Flutter/Dart Internals",
           "summary": "Dio structures the HTTP client as concentric layers — global core, interceptor ring, and pluggable adapters. Riverpod organizes state into four cooperating layers around a ProviderContainer. Genkit Dart brings type-safe AI flows to the full Dart stack. Agent skills automate testing, diagnostics, and scaffolding. This chapter deep-dives the libraries and tooling that define Flutter's ecosystem.",
-          "videoIds": ["BhzeYd4aqOQ", "Gy-ky1pAF0U", "FOkG5ScxU88", "2iIi1H9V-Hg", "TEGFwsAcxK8", "i1HT5UIccTs"],
-          "tags": ["flutter", "dart", "dio", "riverpod", "genkit", "agent-skills"]
+          "videoIds": ["BhzeYd4aqOQ", "Gy-ky1pAF0U", "FOkG5ScxU88", "2iIi1H9V-Hg", "TEGFwsAcxK8", "i1HT5UIccTs", "78hLFt3_Gh4"],
+          "tags": ["flutter", "dart", "dio", "riverpod", "genkit", "agent-skills", "ffmpeg", "desktop"]
         }
       ]
     }

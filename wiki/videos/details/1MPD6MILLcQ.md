@@ -34,7 +34,7 @@ This video analyzes the CrowdStrike 2025 Global Threat Report, defining the curr
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 36 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `credential`)
 - [The Essential Algorithmic Toolkit](https://youtu.be/nRxqSGBuB4s) — Development · 56 views · Mar 6, 2026 · [Details](nRxqSGBuB4s.md) (shared: `time`)
 - [A Blueprint for Secure Azure Authentication in Go](https://youtu.be/R2zktRqz81U) — Kubernetes · 18 views · Jan 12, 2026 · [Details](R2zktRqz81U.md) (shared: `credential`)
-- [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `time`)
+- [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) — Kubernetes · 23 views · Apr 29, 2026 · [Details](-e7kvcUXxtw.md) (shared: `threat`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

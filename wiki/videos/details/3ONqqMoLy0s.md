@@ -35,7 +35,7 @@ This talk traces the journey from 2D images to a continuous 4D reconstruction of
 
 ## Related Videos
 
-- [The Architecture of a Virtual Voice](https://youtu.be/aQpGQClZSvc) — Development · 10 views · May 27, 2026 · [Details](aQpGQClZSvc.md) (shared: `neural` · `modeling` · `synthesis`)
+- [The Architecture of a Virtual Voice](https://youtu.be/aQpGQClZSvc) — Development · 12 views · May 27, 2026 · [Details](aQpGQClZSvc.md) (shared: `neural` · `modeling` · `synthesis`)
 - [The Geometry of Light](https://youtu.be/_mwtz_8lBWc) — Development · 29 views · Mar 21, 2026 · [Details](_mwtz_8lBWc.md) (shared: `lighting` · `pipeline`)
 - [Neural TTS in Pastel-HN](https://youtu.be/d_0swhS1LyQ) — Development · 46 views · Feb 1, 2026 · [Details](d_0swhS1LyQ.md) (shared: `neural` · `synthesis`)
 - [The NestJS Architecture Blueprint](https://youtu.be/173Y2uPljgo) — Development · 47 views · May 4, 2026 · [Details](173Y2uPljgo.md) (shared: `hybrid` · `pipeline`)

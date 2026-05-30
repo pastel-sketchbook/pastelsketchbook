@@ -247,3 +247,20 @@ Synced 364 videos across 6 categories (korea=20, finance=30, kubernetes=69, deve
 ## [2026-05-28] ingest | Video Transcripts
 
 Exported 1 transcript files (single: UGQ-ItKwJNw) to `wiki/raw/transcripts`.
+
+## [2026-05-30] ingest | Video Metadata Sync
+
+Synced 367 videos across 6 categories (korea=20, finance=30, kubernetes=69, development=226, security=14, programming=8).
+
+## [2026-05-30] ingest | Video Transcripts
+
+Exported 1 transcript files (single: 78hLFt3_Gh4) to `wiki/raw/transcripts`.
+
+## [2026-05-30] ingest | Video Details
+
+Generated detail pages for 3 new videos directly from raw transcripts:
+- `cDNqrUa260k` — Rust 1.96 Ecosystem Release (development)
+- `d3JxtD__-L0` — Architecting a Modern Robocode Engine (development)
+- `78hLFt3_Gh4` — A Desktop-First Export Strategy for SlideVoice Studio (development)
+
+Also fetched transcripts for `cDNqrUa260k` and `d3JxtD__-L0` (previously missing) and synced 364 transcripts into `homepage/public/transcripts/`. Regenerated wiki bundle (367 detail pages, all categories) and reindexed zmd (912 docs total). Placed new videos in books: Rust 1.96 + Robocode → Internals Companion Ch6 (Rust Architect's Toolkit), SlideVoice → Internals Companion Ch15 (Flutter/Dart Internals).

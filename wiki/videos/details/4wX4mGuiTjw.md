@@ -39,7 +39,7 @@ This study demonstrates the implementation of a 15.6k parameter, one-layer GPT m
 - [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 61 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `zig` · `optimization` · `cache`)
 - [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 72 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `zig` · `optimization` · `cache`)
 - [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 17 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `zig` · `learning` · `framework`)
-- [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 74 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `zig` · `optimization`)
+- [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 75 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `zig` · `optimization`)
 
 ---
 *Auto-generated on Apr 6, 2026. Back to [development](../development.md) · [index](../index.md).*

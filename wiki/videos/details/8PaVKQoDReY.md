@@ -37,9 +37,9 @@ Candle is a Rust-native machine learning framework engineered for serverless inf
 
 ## Related Videos
 
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 472 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `zero` · `tensor`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 476 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `zero` · `tensor`)
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 29 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `rust` · `inference` · `tensor`)
-- [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 57 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `inference` · `graph` · `cuda`)
+- [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 58 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `inference` · `graph` · `cuda`)
 - [Burn: The Rust Deep Learning Framework](https://youtu.be/_bFOZ51Q55Y) — Development · 2.0K views · May 8, 2026 · [Details](_bFOZ51Q55Y.md) (shared: `zero` · `copy` · `tensor`)
 - [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 62 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `inference` · `graph` · `onnx`)
 

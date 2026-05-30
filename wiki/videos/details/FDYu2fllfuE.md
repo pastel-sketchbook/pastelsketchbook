@@ -34,7 +34,7 @@ This video examines an ambitious data science project that attempted to predict 
 - [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 50 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `data` · `analytics`)
 - [The 10k LOC Sweet Spot](https://youtu.be/pgTCcVO4gfg) — Development · 15 views · Apr 21, 2026 · [Details](pgTCcVO4gfg.md) (shared: `limits` · `engineering`)
 - [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 8 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `data` · `analytics`)
-- [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 26 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `data` · `science`)
+- [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 27 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `data` · `science`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

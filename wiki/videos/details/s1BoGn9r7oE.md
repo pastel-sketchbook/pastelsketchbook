@@ -33,8 +33,8 @@ This video presents a strategic guide for 2026 high-yield and covered call ETFs,
 - [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](EMXUbohWsWs.md) (shared: `etfs` · `active` · `etf`)
 - [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 12 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `management` · `investing`)
 - [An Ambitious Ascent](https://youtu.be/MDNRiJN7aEg) — Finance · 11 views · Dec 29, 2025 · [Details](MDNRiJN7aEg.md) (shared: `etf` · `management`)
-- [The Strategic Guide to Annuities](https://youtu.be/UGQ-ItKwJNw) — Finance · 1 views · May 28, 2026 · [Details](UGQ-ItKwJNw.md) (shared: `premium` · `income`)
-- [Architecting the New Capital Regime](https://youtu.be/rjhabJ8Bx5U) — Finance · 14 views · May 21, 2026 · [Details](rjhabJ8Bx5U.md) (shared: `management` · `premium`)
+- [The Strategic Guide to Annuities](https://youtu.be/UGQ-ItKwJNw) — Finance · 5 views · May 28, 2026 · [Details](UGQ-ItKwJNw.md) (shared: `premium` · `income`)
+- [Architecting the New Capital Regime](https://youtu.be/rjhabJ8Bx5U) — Finance · 16 views · May 21, 2026 · [Details](rjhabJ8Bx5U.md) (shared: `management` · `premium`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

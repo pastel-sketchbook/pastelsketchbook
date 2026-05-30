@@ -34,7 +34,7 @@ A walk through the Typst compiler engine, tracing a `.typ` source file through p
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `pipeline` · `cli`)
 - [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 33 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `pipeline` · `rules`)
 - [svs-cli: 10 Critical Things](https://youtu.be/S3Vc_R-HezY) — Development · 15 views · May 24, 2026 · [Details](S3Vc_R-HezY.md) (shared: `pipeline` · `layout`)
-- [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 724 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `pipeline` · `trait`)
+- [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 732 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `pipeline` · `trait`)
 
 ---
 *Auto-generated on May 15, 2026. Back to [development](../development.md) · [index](../index.md).*

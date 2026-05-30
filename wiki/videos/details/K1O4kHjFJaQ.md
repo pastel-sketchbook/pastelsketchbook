@@ -34,7 +34,7 @@ This video presents a strategic guide for young professionals covering the three
 - [The Final 5 Years](https://youtu.be/G-vvSNwm-jE) — Finance · 19 views · Mar 20, 2026 · [Details](G-vvSNwm-jE.md) (shared: `social` · `security` · `retirement`)
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `retirement planning` · `retirement` · `planning`)
 - [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](EMXUbohWsWs.md) (shared: `retirement planning` · `retirement` · `planning`)
-- [The Strategic Guide to Annuities](https://youtu.be/UGQ-ItKwJNw) — Finance · 1 views · May 28, 2026 · [Details](UGQ-ItKwJNw.md) (shared: `retirement` · `planning`)
+- [The Strategic Guide to Annuities](https://youtu.be/UGQ-ItKwJNw) — Finance · 5 views · May 28, 2026 · [Details](UGQ-ItKwJNw.md) (shared: `retirement` · `planning`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*
