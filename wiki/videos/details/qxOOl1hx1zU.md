@@ -30,9 +30,9 @@ This video presents a 5-year strategic forecast for AI programming languages, pr
 
 ## Related Videos
 
-- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 72 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `rust` · `orchestration` · `architecture`)
+- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 73 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `rust` · `orchestration` · `architecture`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `architecture`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 151 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `architecture`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 152 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `architecture`)
 - [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 23 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `stack` · `architecture`)
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `architecture` · `legacy`)
 

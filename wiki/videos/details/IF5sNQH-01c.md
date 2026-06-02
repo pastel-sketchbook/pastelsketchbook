@@ -31,10 +31,10 @@ This video analyzes Google's NotebookLM through the lens of "intelligence flow a
 ## Related Videos
 
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `intelligence` · `architecture` · `design`)
-- [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `architecture` · `design`)
-- [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 32 views · Feb 23, 2026 · [Details](ARWkoc3E8uE.md) (shared: `architecture` · `design`)
+- [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 35 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `architecture` · `design`)
+- [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 33 views · Feb 23, 2026 · [Details](ARWkoc3E8uE.md) (shared: `architecture` · `design`)
 - [The Architect's Baton](https://youtu.be/6WRiPikxs-Q) — Development · 125 views · Mar 7, 2026 · [Details](6WRiPikxs-Q.md) (shared: `architecture` · `design`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 794 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `design`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 795 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `design`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

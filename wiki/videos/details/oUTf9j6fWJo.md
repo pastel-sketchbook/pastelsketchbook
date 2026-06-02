@@ -30,7 +30,7 @@ This video introduces Reed, a modern terminal file viewer that integrates IDE-le
 
 ## Related Videos
 
-- [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `terminal` · `rendering` · `cli`)
+- [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 35 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `terminal` · `rendering` · `cli`)
 - [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `terminal` · `rust` · `cli`)
 - [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 61 views · Apr 20, 2026 · [Details](FM6zp63maS8.md) (shared: `protocol` · `rust`)
 - [Fuzzy Find Everything](https://youtu.be/IkVazryUiko) — Development · 57 views · Mar 4, 2026 · [Details](IkVazryUiko.md) (shared: `cli` · `tools`)

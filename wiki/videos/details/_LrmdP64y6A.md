@@ -29,10 +29,10 @@ This video presents a connoisseur's master class on apple varieties, treating po
 
 ## Related Videos
 
-- [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 41 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `architecture`)
-- [A global geography of folded dough](https://youtu.be/UorjmtDDRgQ) — Finance · 14 views · May 18, 2026 · [Details](UorjmtDDRgQ.md) (shared: `culinary`)
+- [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 42 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `architecture`)
+- [A global geography of folded dough](https://youtu.be/UorjmtDDRgQ) — Finance · 15 views · May 18, 2026 · [Details](UorjmtDDRgQ.md) (shared: `culinary`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 151 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `architecture`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 152 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `architecture`)
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 12 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `architecture`)
 
 ---

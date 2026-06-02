@@ -264,3 +264,15 @@ Generated detail pages for 3 new videos directly from raw transcripts:
 - `78hLFt3_Gh4` — A Desktop-First Export Strategy for SlideVoice Studio (development)
 
 Also fetched transcripts for `cDNqrUa260k` and `d3JxtD__-L0` (previously missing) and synced 364 transcripts into `homepage/public/transcripts/`. Regenerated wiki bundle (367 detail pages, all categories) and reindexed zmd (912 docs total). Placed new videos in books: Rust 1.96 + Robocode → Internals Companion Ch6 (Rust Architect's Toolkit), SlideVoice → Internals Companion Ch15 (Flutter/Dart Internals).
+
+## [2026-06-02] ingest | Video Details
+
+Generated 1 video detail pages (all videos).
+
+## [2026-06-02] ingest | Video Metadata Sync
+
+Synced 373 videos across 6 categories (korea=20, finance=30, kubernetes=70, development=231, security=14, programming=8).
+
+## [2026-06-02] ingest | Video Transcripts
+
+Exported 6 transcript files (all videos) to `wiki/raw/transcripts`.

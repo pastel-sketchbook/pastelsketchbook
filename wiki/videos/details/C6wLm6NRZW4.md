@@ -34,7 +34,7 @@ This session walks through the complete four-phase lifecycle of a modern applica
 - [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) — Kubernetes · 18 views · Jan 2, 2026 · [Details](8ycnldvJmuA.md) (shared: `azure devops` · `azure` · `devops`)
 - [Securely Exposing AKS Applications](https://youtu.be/A7eoKD5m6Ek) — Kubernetes · 9 views · Jan 8, 2026 · [Details](A7eoKD5m6Ek.md) (shared: `application` · `azure` · `aks`)
 - [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 36 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `azure devops` · `azure` · `devops`)
-- [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) — Kubernetes · 23 views · Apr 29, 2026 · [Details](-e7kvcUXxtw.md) (shared: `azure` · `governance`)
+- [The Two-System Pattern](https://youtu.be/VxWyvAO3qb8) — Kubernetes · 14 views · Jan 15, 2026 · [Details](VxWyvAO3qb8.md) (shared: `azure` · `aks`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T23:50:00Z",
+  "generatedAt": "2026-06-02T12:45:00Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -11,8 +11,8 @@
           "number": 1,
           "title": "The Control Plane and the Worker",
           "summary": "Every distributed system has a brain and muscle. Kubernetes cluster architecture reveals the universal pattern: a reconciliation loop (etcd + scheduler) directing ephemeral executors (kubelet + pods). This chapter uses the city-planning analogy to build a mental model that applies far beyond K8s.",
-          "videoIds": ["rJTUB-u8U2Y", "2ksi8K7wg3I"],
-          "tags": ["kubernetes", "architecture", "control-plane"]
+          "videoIds": ["rJTUB-u8U2Y", "2ksi8K7wg3I", "hvkvH7i8NLc"],
+          "tags": ["kubernetes", "architecture", "control-plane", "operators"]
         },
         {
           "number": 2,
@@ -46,8 +46,8 @@
           "number": 6,
           "title": "The Modern Delivery Flywheel",
           "summary": "Shift-left testing, conventional commits, trunk-based development, and GitOps form a flywheel where each practice accelerates the next. This chapter connects the dots from a developer's commit to a production canary, through the lens of continuous flow.",
-          "videoIds": ["B2x09utLjtM", "5-ZNXQegVhs", "tcrNdx1yH_E", "5KB2zLGjaps", "PNFlYx8HiOM", "eZNBXDUc8OQ", "9ga0NT3ZohQ"],
-          "tags": ["devops", "gitops", "trunk-based", "cicd"]
+          "videoIds": ["B2x09utLjtM", "5-ZNXQegVhs", "tcrNdx1yH_E", "5KB2zLGjaps", "PNFlYx8HiOM", "eZNBXDUc8OQ", "9ga0NT3ZohQ", "i8wjbDfxZTY"],
+          "tags": ["devops", "gitops", "trunk-based", "cicd", "python-tooling"]
         },
         {
           "number": 7,
@@ -81,7 +81,7 @@
           "number": 11,
           "title": "The Frontend & Desktop Shell Architecture",
           "summary": "The repository pattern decouples UI from data access across React, Angular, and SolidJS. TanStack Query and signals provide the state layer. SolidJS 2.0 introduces async signals and the producer pattern. Tauri and Velox wrap web SPAs in thin native shells with strict CSP. This chapter maps the architectural patterns that define modern frontend and desktop development.",
-          "videoIds": ["3ybGkjogcFQ", "cWozmWrqnxs", "5Vloo08zQ7o", "00kCzR10M1w", "xvqZFPf5X60", "IZX3_9rZeMU", "ytA6gw6Tgaw", "Ul0ixBpd5iM", "Fqokr0P2_ag"],
+          "videoIds": ["3ybGkjogcFQ", "cWozmWrqnxs", "5Vloo08zQ7o", "00kCzR10M1w", "xvqZFPf5X60", "IZX3_9rZeMU", "ytA6gw6Tgaw", "Ul0ixBpd5iM", "Fqokr0P2_ag", "L4YBdUVCFd4"],
           "tags": ["frontend", "solidjs", "tanstack", "tauri", "repository-pattern", "desktop", "javascript", "esm"]
         }
       ]
@@ -96,8 +96,8 @@
           "number": 1,
           "title": "The RFC Foundation",
           "summary": "The internet is built on text documents. RFC 862 (Echo), RFC 2119 (requirement keywords), IP, TCP, UDP, DNS, HTTP, TLS — understanding these specifications transforms a developer from protocol consumer into protocol debugger. This chapter reads the originals.",
-          "videoIds": ["LackTxguXFg", "ea5lpF3RyzE", "lsjfczYFBeQ", "JWeu5aqAkR0", "7LynLmseNRk"],
-          "tags": ["rfc", "protocols", "http3", "tcp", "bluetooth"]
+          "videoIds": ["LackTxguXFg", "ea5lpF3RyzE", "lsjfczYFBeQ", "JWeu5aqAkR0", "7LynLmseNRk", "JNHxVHyzWdE"],
+          "tags": ["rfc", "protocols", "http3", "tcp", "bluetooth", "usb", "pcie"]
         },
         {
           "number": 2,
@@ -131,8 +131,8 @@
           "number": 6,
           "title": "The Rust Architect's Toolkit",
           "summary": "Separate IO-bound (Tokio) from CPU-bound (Rayon). Use Tower as a universal service abstraction. Bifurcate errors between thiserror (library) and anyhow (application). Trace with structured spans. This chapter is the opinionated field guide for production Rust.",
-          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU", "uz8nmkTPEpg", "9HUPNhA3OrI", "TpyKC8_30xs", "S3Vc_R-HezY", "cDNqrUa260k", "d3JxtD__-L0"],
-          "tags": ["rust", "tokio", "tower", "error-handling", "sqlx", "cargo", "clippy", "bevy"]
+          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU", "uz8nmkTPEpg", "9HUPNhA3OrI", "TpyKC8_30xs", "S3Vc_R-HezY", "cDNqrUa260k", "d3JxtD__-L0", "uiU9K1hIQBo"],
+          "tags": ["rust", "tokio", "tower", "error-handling", "sqlx", "cargo", "clippy", "bevy", "duckdb", "llama-cpp"]
         },
         {
           "number": 7,
@@ -187,8 +187,8 @@
           "number": 14,
           "title": "The Flutter/Dart Platform",
           "summary": "Flutter Web's dual HTML and CanvasKit backends, the Impeller rendering engine, WASM compilation, and the 2026 roadmap toward Gen UI and agentic apps. Modern Dart 3.x adds sound null safety, records, and pattern matching. This chapter covers the platform-level architecture and the language evolution that underpins it.",
-          "videoIds": ["q-6cUColzQQ", "WMcKFQ200OE", "JBh6rzeS-Qc", "jzjGcFkAnfs", "LWc3AAHoxnU", "4_mBGmXA244"],
-          "tags": ["flutter", "dart", "impeller", "wasm", "roadmap", "architecture"]
+          "videoIds": ["q-6cUColzQQ", "WMcKFQ200OE", "JBh6rzeS-Qc", "jzjGcFkAnfs", "LWc3AAHoxnU", "4_mBGmXA244", "CqBZBJTAo3I"],
+          "tags": ["flutter", "dart", "impeller", "wasm", "roadmap", "architecture", "genui", "google-adk"]
         },
         {
           "number": 15,

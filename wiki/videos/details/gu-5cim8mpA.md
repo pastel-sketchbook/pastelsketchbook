@@ -30,11 +30,11 @@ This video serves as a foundational reference guide for novice AI/BI developers 
 
 ## Related Videos
 
-- [Jujutsu (jj) for Git-compatible Workflow](https://youtu.be/TmlqoKqMD2Y) — Development · 197 views · Feb 5, 2026 · [Details](TmlqoKqMD2Y.md) (shared: `data` · `git` · `version`)
+- [Jujutsu (jj) for Git-compatible Workflow](https://youtu.be/TmlqoKqMD2Y) — Development · 204 views · Feb 5, 2026 · [Details](TmlqoKqMD2Y.md) (shared: `data` · `git` · `version`)
+- [Why uv, ruff, and ty are mandatory](https://youtu.be/i8wjbDfxZTY) — Development · 12 views · Jun 2, 2026 · [Details](i8wjbDfxZTY.md) (shared: `uv package manager` · `package` · `manager`)
 - [The Modern Git Playbook](https://youtu.be/Z06RjO-zFxI) — Development · 33 views · Jan 18, 2026 · [Details](Z06RjO-zFxI.md) (shared: `git` · `version` · `control`)
 - [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 50 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `duckdb` · `python` · `data`)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `development` · `management`)
-- [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `package` · `data`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -30,11 +30,11 @@ This video explores the mathematical foundations of ALOHA random access network 
 
 ## Related Videos
 
+- [Deconstructing the Bridge](https://youtu.be/JNHxVHyzWdE) — Development · 12 views · Jun 1, 2026 · [Details](JNHxVHyzWdE.md) (shared: `protocol` · `access` · `analysis`)
 - [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 20 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `networking` · `communication`)
 - [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 61 views · Apr 20, 2026 · [Details](FM6zp63maS8.md) (shared: `protocol`)
 - [The 10-Lens Research Analysis Framework](https://youtu.be/NztD5fYpXcg) — Development · 32 views · Mar 7, 2026 · [Details](NztD5fYpXcg.md) (shared: `analysis`)
 - [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](9oSUtndLto4.md) (shared: `protocol`)
-- [The Strategic Synthesis:Shift Left & Shift Right](https://youtu.be/5-ZNXQegVhs) — Development · 21 views · Feb 16, 2026 · [Details](5-ZNXQegVhs.md) (shared: `analysis`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

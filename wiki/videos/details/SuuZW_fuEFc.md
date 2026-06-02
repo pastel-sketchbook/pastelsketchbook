@@ -39,9 +39,9 @@ rr-mailtrap is a single-binary Rust SMTP sandbox that traps outbound test mail o
 ## Related Videos
 
 - [The Evolution of File Detection](https://youtu.be/85pyYZFJ6_s) — Development · 48 views · May 7, 2026 · [Details](85pyYZFJ6_s.md) (shared: `magika` · `content` · `detection`)
-- [Architecting Al in Software Engineering](https://youtu.be/yXZnBtdDTFk) — Development · 68 views · May 25, 2026 · [Details](yXZnBtdDTFk.md) (shared: `validation` · `safety` · `net`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 476 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `onnx` · `zero` · `safety`)
-- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 17 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `ratatui terminal ui` · `ratatui` · `terminal`)
+- [Architecting Al in Software Engineering](https://youtu.be/yXZnBtdDTFk) — Development · 70 views · May 25, 2026 · [Details](yXZnBtdDTFk.md) (shared: `validation` · `safety` · `net`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 492 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `onnx` · `zero` · `safety`)
+- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 19 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `ratatui terminal ui` · `ratatui` · `terminal`)
 - [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 31 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `content` · `import` · `export`)
 
 ---

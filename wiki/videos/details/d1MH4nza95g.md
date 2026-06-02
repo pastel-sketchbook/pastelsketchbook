@@ -37,10 +37,10 @@ This presentation explains why traditional logging breaks down in async Rust —
 
 ## Related Videos
 
-- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 57 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `tracing` · `context` · `propagation`)
-- [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) — Development · 117 views · Mar 22, 2026 · [Details](vep9hSKc9I0.md) (shared: `tokio` · `tracing` · `async`)
+- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 58 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `tracing` · `context` · `propagation`)
+- [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) — Development · 119 views · Mar 22, 2026 · [Details](vep9hSKc9I0.md) (shared: `tokio` · `tracing` · `async`)
 - [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 110 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `tracing` · `context` · `propagation`)
-- [The Blueprint of Reactivity](https://youtu.be/Gy-ky1pAF0U) — Development · 25 views · May 16, 2026 · [Details](Gy-ky1pAF0U.md) (shared: `async` · `time` · `graph`)
+- [The Blueprint of Reactivity](https://youtu.be/Gy-ky1pAF0U) — Development · 26 views · May 16, 2026 · [Details](Gy-ky1pAF0U.md) (shared: `async` · `time` · `graph`)
 - [The Tokio Architecture Blueprint](https://youtu.be/9HUPNhA3OrI) — Development · 55 views · May 15, 2026 · [Details](9HUPNhA3OrI.md) (shared: `tokio` · `async` · `blocking`)
 
 ---

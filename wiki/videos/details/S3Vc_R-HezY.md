@@ -35,7 +35,7 @@ This codebase passover deck walks through ten invariants of svs-cli, a headless 
 
 ## Related Videos
 
-- [A Desktop-First Export Strategy for SlideVoice Studio](https://youtu.be/78hLFt3_Gh4) — Development · 18 views · May 29, 2026 · [Details](78hLFt3_Gh4.md) (shared: `pipeline` · `api` · `gemini`)
+- [A Desktop-First Export Strategy for SlideVoice Studio](https://youtu.be/78hLFt3_Gh4) — Development · 31 views · May 29, 2026 · [Details](78hLFt3_Gh4.md) (shared: `pipeline` · `api` · `gemini`)
 - [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 31 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `api` · `slide` · `gemini`)
 - [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 156 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline` · `layout`)
 - [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 61 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `cache` · `layout`)

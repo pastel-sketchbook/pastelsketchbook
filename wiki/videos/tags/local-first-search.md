@@ -2,7 +2,7 @@
 type: tag
 tags: [local-first-search]
 sources: 2
-updated: 2026-05-30
+updated: 2026-06-02
 ---
 
 # local-first search
@@ -15,4 +15,4 @@ Videos connected by the topic `local-first search`.
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 46 views · Apr 21, 2026 · [Details](../details/xkHQhOgapfY.md)
 
 ---
-*Auto-generated on May 30, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 2, 2026. Back to [topic index](index.md).*

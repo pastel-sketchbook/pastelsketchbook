@@ -32,7 +32,7 @@ This video presents the architecture of BookFinder, a multi-source library catal
 
 - [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 81 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `zig programming` · `zig` · `programming`)
 - [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 112 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `zig` · `programming` · `architecture`)
-- [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 34 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `zig` · `architecture` · `api`)
+- [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 35 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `zig` · `architecture` · `api`)
 - [Smooth Motion](https://youtu.be/qbBA7GWZbu4) — Development · 48 views · Jan 24, 2026 · [Details](qbBA7GWZbu4.md) (shared: `zig programming` · `zig` · `programming`)
 - [pastel-hn](https://youtu.be/cJl2cchaHL8) — Development · 58 views · Jan 24, 2026 · [Details](cJl2cchaHL8.md) (shared: `zig` · `architecture` · `webassembly`)
 

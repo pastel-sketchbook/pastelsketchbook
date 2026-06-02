@@ -30,11 +30,11 @@ This video argues for unifying shift-left (proactive prevention) and shift-right
 
 ## Related Videos
 
-- [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) — Kubernetes · 23 views · Apr 29, 2026 · [Details](-e7kvcUXxtw.md) (shared: `shift left` · `shift` · `left`)
 - [TigerStyle: The Architecture of Elegance](https://youtu.be/eJlXFaZNP6g) — Development · 50 views · May 5, 2026 · [Details](eJlXFaZNP6g.md) (shared: `cost` · `production`)
 - [The 10-Lens Research Analysis Framework](https://youtu.be/NztD5fYpXcg) — Development · 32 views · Mar 7, 2026 · [Details](NztD5fYpXcg.md) (shared: `analysis`)
 - [The Center Has a Bias](https://youtu.be/a1hIA6KQUFE) — Development · 38 views · Apr 13, 2026 · [Details](a1hIA6KQUFE.md) (shared: `cost`)
 - [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 17 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `observability`)
+- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 36 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `devops`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

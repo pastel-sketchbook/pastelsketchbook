@@ -34,7 +34,7 @@ This video examines RFC 862, the Echo Protocol authored by Jon Postel in May 198
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `distributed` · `systems`)
 - [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 2 views · Jan 6, 2026 · [Details](z_Ydy_-cI1U.md) (shared: `distributed` · `systems`)
 - [The Programmer's Guide to Essential RFCs](https://youtu.be/LackTxguXFg) — Development · 108 views · Apr 10, 2026 · [Details](LackTxguXFg.md) (shared: `rfc` · `tcp`)
-- [Isolating Observability in Go](https://youtu.be/xfOATs8ncLM) — Development · 17 views · Mar 12, 2026 · [Details](xfOATs8ncLM.md) (shared: `echo` · `benchmarking`)
+- [Isolating Observability in Go](https://youtu.be/xfOATs8ncLM) — Development · 18 views · Mar 12, 2026 · [Details](xfOATs8ncLM.md) (shared: `echo` · `benchmarking`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

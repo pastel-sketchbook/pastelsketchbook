@@ -1,19 +1,19 @@
 ---
 type: index
-updated: 2026-05-30
+updated: 2026-06-02
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 169
+Total topics: 168
 
 ## Topics
 
 - [zig](zig.md) (9)
-- [azure kubernetes service](azure-kubernetes-service.md) (8)
 - [event-driven architecture](event-driven-architecture.md) (8)
+- [azure kubernetes service](azure-kubernetes-service.md) (7)
 - [istio service mesh](istio-service-mesh.md) (7)
 - [rabbitmq](rabbitmq.md) (7)
 - [zero trust](zero-trust.md) (7)
@@ -108,7 +108,6 @@ Total topics: 169
 - [git compatibility](git-compatibility.md) (2)
 - [github copilot](github-copilot.md) (2)
 - [gitops](gitops.md) (2)
-- [governance](governance.md) (2)
 - [hardware acceleration](hardware-acceleration.md) (2)
 - [immutable infrastructure](immutable-infrastructure.md) (2)
 - [json parsing](json-parsing.md) (2)
@@ -156,7 +155,6 @@ Total topics: 169
 - [serverless analytics](serverless-analytics.md) (2)
 - [service mesh security](service-mesh-security.md) (2)
 - [service-to-service auth](service-to-service-auth.md) (2)
-- [shift left](shift-left.md) (2)
 - [single sign-on](single-sign-on.md) (2)
 - [stateful workloads](stateful-workloads.md) (2)
 - [strangler fig pattern](strangler-fig-pattern.md) (2)
@@ -172,6 +170,7 @@ Total topics: 169
 - [tree-sitter](tree-sitter.md) (2)
 - [type safety](type-safety.md) (2)
 - [typescript basics](typescript-basics.md) (2)
+- [uv package manager](uv-package-manager.md) (2)
 - [values.yaml](values-yaml.md) (2)
 - [verlet integration](verlet-integration.md) (2)
 - [wasm](wasm.md) (2)
@@ -182,4 +181,4 @@ Total topics: 169
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on May 30, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Jun 2, 2026. Back to [videos index](../index.md).*

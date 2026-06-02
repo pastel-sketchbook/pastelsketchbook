@@ -35,7 +35,7 @@ This presentation formally decomposes the Hatsune Miku vocal synthesis pipeline 
 
 ## Related Videos
 
-- [The Architecture of Space and Time](https://youtu.be/3ONqqMoLy0s) — Development · 27 views · May 26, 2026 · [Details](3ONqqMoLy0s.md) (shared: `synthesis` · `pipeline` · `neural`)
+- [The Architecture of Space and Time](https://youtu.be/3ONqqMoLy0s) — Development · 28 views · May 26, 2026 · [Details](3ONqqMoLy0s.md) (shared: `synthesis` · `pipeline` · `neural`)
 - [Neural TTS in Pastel-HN](https://youtu.be/d_0swhS1LyQ) — Development · 46 views · Feb 1, 2026 · [Details](d_0swhS1LyQ.md) (shared: `synthesis` · `neural`)
 - [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 23 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `pipeline` · `expression`)
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 29 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `pipeline` · `performance`)

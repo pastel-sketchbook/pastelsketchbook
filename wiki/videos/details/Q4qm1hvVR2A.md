@@ -31,7 +31,7 @@ This video covers deploying Dragonfly as a high-performance in-memory data store
 ## Related Videos
 
 - [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) — Kubernetes · 10 views · May 22, 2026 · [Details](9ga0NT3ZohQ.md) (shared: `aks` · `deployment` · `architecture`)
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 51 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `aks` · `architecture` · `istio`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 56 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `aks` · `architecture` · `istio`)
 - [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `deployment` · `architecture`)
 - [The Codebase Lifecycle](https://youtu.be/ctKLD4d146g) — Kubernetes · 16 views · Jan 13, 2026 · [Details](ctKLD4d146g.md) (shared: `deployment` · `integration`)
 - [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 15 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `aks` · `istio`)
