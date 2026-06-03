@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [agent, sentinel, siem, soar, xdr, llm, security, nist, governance, toolkit]
 sources: 14
-updated: 2026-06-02
+updated: 2026-06-04
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-06-02
 | Metric | Value |
 |--------|-------|
 | Videos | 14 |
-| Total Views | 491 |
+| Total Views | 493 |
 | Most Recent | May 22, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -40,7 +40,7 @@ updated: 2026-06-02
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Microsoft Agent Governance Toolkit | 59 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
+| 1 | Microsoft Agent Governance Toolkit | 60 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
 | 2 | ZAP: Getting Started with Software Security Testing | 23 | Apr 30, 2026 | [Watch](https://youtu.be/infh5ZZwvLU) | [Wiki](details/infh5ZZwvLU.md) |
 | 3 | Azure Sentinel & M365 Defender | 17 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
 | 4 | Designing for Privacy | 42 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
@@ -53,7 +53,7 @@ updated: 2026-06-02
 | 11 | The Strategic Roadmap for Data Classification | 18 | Mar 2, 2026 | [Watch](https://youtu.be/uhXcsWYhdkA) | [Wiki](details/uhXcsWYhdkA.md) |
 | 12 | The Orchestrator's Blueprint | 36 | Feb 28, 2026 | [Watch](https://youtu.be/Oa3jaLNSZvM) | [Wiki](details/Oa3jaLNSZvM.md) |
 | 13 | 2025 Global Threat Report | 14 | Feb 27, 2026 | [Watch](https://youtu.be/1MPD6MILLcQ) | [Wiki](details/1MPD6MILLcQ.md) |
-| 14 | Shannon: Autonomous Penetration Testing | 48 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) | [Wiki](details/JfGgWiiCTA0.md) |
+| 14 | Shannon: Autonomous Penetration Testing | 49 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) | [Wiki](details/JfGgWiiCTA0.md) |
 
 ## Top Tags
 
@@ -66,4 +66,4 @@ updated: 2026-06-02
 - [Finance](finance.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on Jun 2, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 3, 2026. Back to [index](index.md).*

@@ -39,7 +39,7 @@ Go 1.26 introduces a paradigm shift toward automated modernization and intent-ba
 - [The 10-Lens Research Analysis Framework](https://youtu.be/NztD5fYpXcg) — Development · 32 views · Mar 7, 2026 · [Details](NztD5fYpXcg.md) (shared: `analysis` · `framework`)
 - [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 70 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `framework` · `automated`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `analysis` · `automated`)
-- [Mastering Go Pointers](https://youtu.be/VHuQi_1t5qQ) — Development · 76 views · Apr 17, 2026 · [Details](VHuQi_1t5qQ.md) (shared: `analysis` · `slices`)
+- [Mastering Go Pointers](https://youtu.be/VHuQi_1t5qQ) — Development · 77 views · Apr 17, 2026 · [Details](VHuQi_1t5qQ.md) (shared: `analysis` · `slices`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

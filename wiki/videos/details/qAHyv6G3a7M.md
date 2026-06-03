@@ -38,10 +38,10 @@ This video presents an architectural blueprint for a unified Rust backend that m
 ## Related Videos
 
 - [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) — Development · 61 views · May 3, 2026 · [Details](07aDX5YB-ao.md) (shared: `unified` · `tower service trait` · `tower`)
-- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 94 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `rust` · `tower` · `service`)
+- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 95 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `rust` · `tower` · `service`)
 - [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 58 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `rust` · `tower` · `axum`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 93 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `tower` · `service` · `axum`)
-- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 124 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `rust` · `tonic` · `multiplexing`)
+- [Copilot-Backed Code Review Architecture](https://youtu.be/JMk8y25qo2M) — Development · 7 views · Jun 2, 2026 · [Details](JMk8y25qo2M.md) (shared: `rust` · `tower` · `axum`)
 
 ---
 *Auto-generated on May 9, 2026. Back to [development](../development.md) · [index](../index.md).*

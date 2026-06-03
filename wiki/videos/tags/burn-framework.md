@@ -2,7 +2,7 @@
 type: tag
 tags: [burn-framework]
 sources: 2
-updated: 2026-06-02
+updated: 2026-06-04
 ---
 
 # burn framework
@@ -15,4 +15,4 @@ Videos connected by the topic `burn framework`.
 - [The Architecture of tracel-ai/models](https://youtu.be/kSQtbPEtDkY) — Development · 18 views · May 20, 2026 · [Details](../details/kSQtbPEtDkY.md)
 
 ---
-*Auto-generated on Jun 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 3, 2026. Back to [topic index](index.md).*

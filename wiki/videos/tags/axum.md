@@ -2,7 +2,7 @@
 type: tag
 tags: [axum]
 sources: 2
-updated: 2026-06-02
+updated: 2026-06-04
 ---
 
 # axum
@@ -12,7 +12,7 @@ Videos connected by the topic `axum`.
 ## Videos
 
 - [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 58 views · May 1, 2026 · [Details](../details/J4iGUAXcAOA.md)
-- [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 22 views · Jan 16, 2026 · [Details](../details/0ttrfTfP864.md)
+- [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 23 views · Jan 16, 2026 · [Details](../details/0ttrfTfP864.md)
 
 ---
-*Auto-generated on Jun 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 3, 2026. Back to [topic index](index.md).*

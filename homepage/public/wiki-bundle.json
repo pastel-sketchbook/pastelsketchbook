@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-02T12:13:34.972Z",
-  "totalVideos": 373,
+  "generatedAt": "2026-06-04T01:18:28.842Z",
+  "totalVideos": 376,
   "categories": [
     {
       "name": "korea",
@@ -1452,12 +1452,12 @@
         "korea",
         "development"
       ],
-      "videoCount": 30,
-      "totalViews": 667,
+      "videoCount": 31,
+      "totalViews": 670,
       "topTags": [
         {
           "tag": "curiosity",
-          "count": 12
+          "count": 13
         },
         {
           "tag": "ai",
@@ -1496,6 +1496,70 @@
         {
           "name": "Architecture",
           "videos": [
+            {
+              "id": "P-QVC5lOMbU",
+              "title": "The Architecture of Insurance Pricing",
+              "views": 3,
+              "date": "2026-06-03T11:00:02Z",
+              "category": "finance",
+              "tags": [
+                "curiosity"
+              ],
+              "detail": {
+                "summary": "A walkthrough of modern actuarial ratemaking that decomposes insurance pricing into frequency, severity, and pure-premium models and shows why Generalized Linear Models (GLMs) — fit via Iteratively Reweighted Least Squares — remain the regulator-friendly workhorse of the industry. The talk explores the Tweedie variance spectrum (Poisson at p=1, gamma at p=2, compound Poisson-gamma in between) and contrasts GLMs with ML approaches like gradient boosting that increasingly ride on top for feature engineering and residual modeling.",
+                "takeaways": [
+                  "The fundamental insurance equation balances profit/risk margin, expenses, and expected claims cost against premium revenue, with insolvency on one side and lost market share on the other.",
+                  "Risk segmentation differentiates customers using line-specific factors (driver age and vehicle for auto, mortality and health metrics for life, demographics and property characteristics for health/property) to prevent cross-subsidization and stay regulator-compliant.",
+                  "GLMs decompose into three plug-in components — random (distribution family from the exponential family), systematic (linear predictor η = Xβ), and link function (log link enables multiplicative rating tables) — fit via IRLS until convergence.",
+                  "The Tweedie sweet spot 1 < p < 2 yields the compound Poisson-gamma distribution that models claim frequency and severity simultaneously, which is why Tweedie GLMs dominate pure-premium modeling.",
+                  "Production diagnostics rely on lift curves and Gini/Lorenz curves for segmentation power, deviance and Pearson residuals for fit, exposure-weighted residuals for fairness, and VIF for multicollinearity between rating factors."
+                ],
+                "topics": [
+                  "generalized linear models",
+                  "tweedie distribution",
+                  "iteratively reweighted least squares",
+                  "frequency and severity modeling",
+                  "pure premium",
+                  "multiplicative rating tables",
+                  "actuarial diagnostics",
+                  "risk segmentation",
+                  "ai actuarial pricing"
+                ],
+                "related": [
+                  {
+                    "id": "UGQ-ItKwJNw",
+                    "sharedTopics": [
+                      "premium",
+                      "risk"
+                    ]
+                  },
+                  {
+                    "id": "bn-Nvmxgur8",
+                    "sharedTopics": [
+                      "risk"
+                    ]
+                  },
+                  {
+                    "id": "MDNRiJN7aEg",
+                    "sharedTopics": [
+                      "risk"
+                    ]
+                  },
+                  {
+                    "id": "l9UUqD2Bz2E",
+                    "sharedTopics": [
+                      "pricing"
+                    ]
+                  },
+                  {
+                    "id": "EMXUbohWsWs",
+                    "sharedTopics": [
+                      "risk"
+                    ]
+                  }
+                ]
+              }
+            },
             {
               "id": "3bcmjx5F5Xs",
               "title": "The 10-Year Al Investing Architecture",
@@ -1963,6 +2027,70 @@
         }
       ],
       "videos": [
+        {
+          "id": "P-QVC5lOMbU",
+          "title": "The Architecture of Insurance Pricing",
+          "views": 3,
+          "date": "2026-06-03T11:00:02Z",
+          "category": "finance",
+          "tags": [
+            "curiosity"
+          ],
+          "detail": {
+            "summary": "A walkthrough of modern actuarial ratemaking that decomposes insurance pricing into frequency, severity, and pure-premium models and shows why Generalized Linear Models (GLMs) — fit via Iteratively Reweighted Least Squares — remain the regulator-friendly workhorse of the industry. The talk explores the Tweedie variance spectrum (Poisson at p=1, gamma at p=2, compound Poisson-gamma in between) and contrasts GLMs with ML approaches like gradient boosting that increasingly ride on top for feature engineering and residual modeling.",
+            "takeaways": [
+              "The fundamental insurance equation balances profit/risk margin, expenses, and expected claims cost against premium revenue, with insolvency on one side and lost market share on the other.",
+              "Risk segmentation differentiates customers using line-specific factors (driver age and vehicle for auto, mortality and health metrics for life, demographics and property characteristics for health/property) to prevent cross-subsidization and stay regulator-compliant.",
+              "GLMs decompose into three plug-in components — random (distribution family from the exponential family), systematic (linear predictor η = Xβ), and link function (log link enables multiplicative rating tables) — fit via IRLS until convergence.",
+              "The Tweedie sweet spot 1 < p < 2 yields the compound Poisson-gamma distribution that models claim frequency and severity simultaneously, which is why Tweedie GLMs dominate pure-premium modeling.",
+              "Production diagnostics rely on lift curves and Gini/Lorenz curves for segmentation power, deviance and Pearson residuals for fit, exposure-weighted residuals for fairness, and VIF for multicollinearity between rating factors."
+            ],
+            "topics": [
+              "generalized linear models",
+              "tweedie distribution",
+              "iteratively reweighted least squares",
+              "frequency and severity modeling",
+              "pure premium",
+              "multiplicative rating tables",
+              "actuarial diagnostics",
+              "risk segmentation",
+              "ai actuarial pricing"
+            ],
+            "related": [
+              {
+                "id": "UGQ-ItKwJNw",
+                "sharedTopics": [
+                  "premium",
+                  "risk"
+                ]
+              },
+              {
+                "id": "bn-Nvmxgur8",
+                "sharedTopics": [
+                  "risk"
+                ]
+              },
+              {
+                "id": "MDNRiJN7aEg",
+                "sharedTopics": [
+                  "risk"
+                ]
+              },
+              {
+                "id": "l9UUqD2Bz2E",
+                "sharedTopics": [
+                  "pricing"
+                ]
+              },
+              {
+                "id": "EMXUbohWsWs",
+                "sharedTopics": [
+                  "risk"
+                ]
+              }
+            ]
+          }
+        },
         {
           "id": "UGQ-ItKwJNw",
           "title": "The Strategic Guide to Annuities",
@@ -2729,9 +2857,9 @@
                 ]
               },
               {
-                "id": "gKYw0_jkNFI",
+                "id": "P-QVC5lOMbU",
                 "sharedTopics": [
-                  "history"
+                  "pricing"
                 ]
               }
             ]
@@ -3903,7 +4031,7 @@
         "development"
       ],
       "videoCount": 70,
-      "totalViews": 2062,
+      "totalViews": 2072,
       "topTags": [
         {
           "tag": "aks",
@@ -6456,9 +6584,65 @@
                 "stride"
               ],
               "detail": {
-                "summary": "*Transcript unavailable for this video.*",
-                "takeaways": [],
-                "topics": []
+                "summary": "A blueprint for embedding continuous security across the AKS application lifecycle by mapping five stages — plan, develop, build, deploy, operate — onto Microsoft Entra ID, GitHub Advanced Security, Azure Container Registry, Microsoft Defender for Containers/DevOps, Ratify, Azure Policy/Gatekeeper, Azure CNI with Cilium, and the Sentinel/Monitor/Log Analytics observability stack. The talk argues for STRIDE-driven threat modeling up front, signed-image and SBOM-backed supply chain integrity, OIDC-based pull GitOps, and unified SIEM correlation in production.",
+                "takeaways": [
+                  "Shift security left by running SonarQube, SARIF, OWASP, and Trivy checks inside the IDE and pre-commit hooks so vulnerabilities are caught before code ever leaves the developer workstation.",
+                  "Build supply-chain trust with SBOMs (Microsoft SBOM tool or Syft producing SPDX/CycloneDX), Defender for Containers registry scans, and Notation + Azure Key Vault image signing verified at admission by Ratify.",
+                  "Enforce cluster posture as code using Azure Policy and Gatekeeper at the cluster layer, unattended OS/runtime upgrades at the node layer, and Azure CNI powered by Cilium's eBPF data plane with FQDN filtering at the pod layer.",
+                  "Eliminate long-lived secrets in deployment by combining GitHub environment approvals, OpenID Connect federation, and pull-based GitOps to reach Azure resources without stored credentials.",
+                  "Unify operational visibility through Azure Monitor + managed Grafana for metrics, Log Analytics for centralized logs, and Microsoft Sentinel + Defender for Cloud for correlated threat detection and configuration-drift alerting."
+                ],
+                "topics": [
+                  "devsecops lifecycle",
+                  "stride threat modeling",
+                  "software bill of materials",
+                  "image signing with notation",
+                  "ratify admission verification",
+                  "oidc gitops deployment",
+                  "azure cni cilium ebpf",
+                  "azure policy gatekeeper governance",
+                  "sentinel defender siem correlation"
+                ],
+                "related": [
+                  {
+                    "id": "C6wLm6NRZW4",
+                    "sharedTopics": [
+                      "lifecycle",
+                      "azure",
+                      "governance"
+                    ]
+                  },
+                  {
+                    "id": "9ga0NT3ZohQ",
+                    "sharedTopics": [
+                      "image",
+                      "gitops",
+                      "deployment",
+                      "azure"
+                    ]
+                  },
+                  {
+                    "id": "ctKLD4d146g",
+                    "sharedTopics": [
+                      "lifecycle",
+                      "deployment"
+                    ]
+                  },
+                  {
+                    "id": "4b-H6ZaoNUE",
+                    "sharedTopics": [
+                      "cilium",
+                      "policy"
+                    ]
+                  },
+                  {
+                    "id": "Hd767VA7Z-0",
+                    "sharedTopics": [
+                      "deployment",
+                      "azure"
+                    ]
+                  }
+                ]
               }
             },
             {
@@ -10191,9 +10375,65 @@
                 "stride"
               ],
               "detail": {
-                "summary": "*Transcript unavailable for this video.*",
-                "takeaways": [],
-                "topics": []
+                "summary": "A blueprint for embedding continuous security across the AKS application lifecycle by mapping five stages — plan, develop, build, deploy, operate — onto Microsoft Entra ID, GitHub Advanced Security, Azure Container Registry, Microsoft Defender for Containers/DevOps, Ratify, Azure Policy/Gatekeeper, Azure CNI with Cilium, and the Sentinel/Monitor/Log Analytics observability stack. The talk argues for STRIDE-driven threat modeling up front, signed-image and SBOM-backed supply chain integrity, OIDC-based pull GitOps, and unified SIEM correlation in production.",
+                "takeaways": [
+                  "Shift security left by running SonarQube, SARIF, OWASP, and Trivy checks inside the IDE and pre-commit hooks so vulnerabilities are caught before code ever leaves the developer workstation.",
+                  "Build supply-chain trust with SBOMs (Microsoft SBOM tool or Syft producing SPDX/CycloneDX), Defender for Containers registry scans, and Notation + Azure Key Vault image signing verified at admission by Ratify.",
+                  "Enforce cluster posture as code using Azure Policy and Gatekeeper at the cluster layer, unattended OS/runtime upgrades at the node layer, and Azure CNI powered by Cilium's eBPF data plane with FQDN filtering at the pod layer.",
+                  "Eliminate long-lived secrets in deployment by combining GitHub environment approvals, OpenID Connect federation, and pull-based GitOps to reach Azure resources without stored credentials.",
+                  "Unify operational visibility through Azure Monitor + managed Grafana for metrics, Log Analytics for centralized logs, and Microsoft Sentinel + Defender for Cloud for correlated threat detection and configuration-drift alerting."
+                ],
+                "topics": [
+                  "devsecops lifecycle",
+                  "stride threat modeling",
+                  "software bill of materials",
+                  "image signing with notation",
+                  "ratify admission verification",
+                  "oidc gitops deployment",
+                  "azure cni cilium ebpf",
+                  "azure policy gatekeeper governance",
+                  "sentinel defender siem correlation"
+                ],
+                "related": [
+                  {
+                    "id": "C6wLm6NRZW4",
+                    "sharedTopics": [
+                      "lifecycle",
+                      "azure",
+                      "governance"
+                    ]
+                  },
+                  {
+                    "id": "9ga0NT3ZohQ",
+                    "sharedTopics": [
+                      "image",
+                      "gitops",
+                      "deployment",
+                      "azure"
+                    ]
+                  },
+                  {
+                    "id": "ctKLD4d146g",
+                    "sharedTopics": [
+                      "lifecycle",
+                      "deployment"
+                    ]
+                  },
+                  {
+                    "id": "4b-H6ZaoNUE",
+                    "sharedTopics": [
+                      "cilium",
+                      "policy"
+                    ]
+                  },
+                  {
+                    "id": "Hd767VA7Z-0",
+                    "sharedTopics": [
+                      "deployment",
+                      "azure"
+                    ]
+                  }
+                ]
               }
             },
             {
@@ -11467,7 +11707,7 @@
             {
               "id": "to1PClyd0YA",
               "title": "Architecting Kubernetes with CUE",
-              "views": 14,
+              "views": 15,
               "date": "2026-03-17T00:52:39Z",
               "category": "kubernetes",
               "tags": [
@@ -12059,7 +12299,7 @@
         {
           "id": "hvkvH7i8NLc",
           "title": "Architecting Kubernetes Operators",
-          "views": 12,
+          "views": 18,
           "date": "2026-05-31T10:00:36Z",
           "category": "kubernetes",
           "tags": [
@@ -12598,9 +12838,65 @@
             "stride"
           ],
           "detail": {
-            "summary": "*Transcript unavailable for this video.*",
-            "takeaways": [],
-            "topics": []
+            "summary": "A blueprint for embedding continuous security across the AKS application lifecycle by mapping five stages — plan, develop, build, deploy, operate — onto Microsoft Entra ID, GitHub Advanced Security, Azure Container Registry, Microsoft Defender for Containers/DevOps, Ratify, Azure Policy/Gatekeeper, Azure CNI with Cilium, and the Sentinel/Monitor/Log Analytics observability stack. The talk argues for STRIDE-driven threat modeling up front, signed-image and SBOM-backed supply chain integrity, OIDC-based pull GitOps, and unified SIEM correlation in production.",
+            "takeaways": [
+              "Shift security left by running SonarQube, SARIF, OWASP, and Trivy checks inside the IDE and pre-commit hooks so vulnerabilities are caught before code ever leaves the developer workstation.",
+              "Build supply-chain trust with SBOMs (Microsoft SBOM tool or Syft producing SPDX/CycloneDX), Defender for Containers registry scans, and Notation + Azure Key Vault image signing verified at admission by Ratify.",
+              "Enforce cluster posture as code using Azure Policy and Gatekeeper at the cluster layer, unattended OS/runtime upgrades at the node layer, and Azure CNI powered by Cilium's eBPF data plane with FQDN filtering at the pod layer.",
+              "Eliminate long-lived secrets in deployment by combining GitHub environment approvals, OpenID Connect federation, and pull-based GitOps to reach Azure resources without stored credentials.",
+              "Unify operational visibility through Azure Monitor + managed Grafana for metrics, Log Analytics for centralized logs, and Microsoft Sentinel + Defender for Cloud for correlated threat detection and configuration-drift alerting."
+            ],
+            "topics": [
+              "devsecops lifecycle",
+              "stride threat modeling",
+              "software bill of materials",
+              "image signing with notation",
+              "ratify admission verification",
+              "oidc gitops deployment",
+              "azure cni cilium ebpf",
+              "azure policy gatekeeper governance",
+              "sentinel defender siem correlation"
+            ],
+            "related": [
+              {
+                "id": "C6wLm6NRZW4",
+                "sharedTopics": [
+                  "lifecycle",
+                  "azure",
+                  "governance"
+                ]
+              },
+              {
+                "id": "9ga0NT3ZohQ",
+                "sharedTopics": [
+                  "image",
+                  "gitops",
+                  "deployment",
+                  "azure"
+                ]
+              },
+              {
+                "id": "ctKLD4d146g",
+                "sharedTopics": [
+                  "lifecycle",
+                  "deployment"
+                ]
+              },
+              {
+                "id": "4b-H6ZaoNUE",
+                "sharedTopics": [
+                  "cilium",
+                  "policy"
+                ]
+              },
+              {
+                "id": "Hd767VA7Z-0",
+                "sharedTopics": [
+                  "deployment",
+                  "azure"
+                ]
+              }
+            ]
           }
         },
         {
@@ -12759,7 +13055,7 @@
         {
           "id": "2ksi8K7wg3I",
           "title": "Kubernetes 1.36 (Haru)",
-          "views": 59,
+          "views": 62,
           "date": "2026-04-23T22:03:32Z",
           "category": "kubernetes",
           "tags": [
@@ -14277,7 +14573,7 @@
         {
           "id": "to1PClyd0YA",
           "title": "Architecting Kubernetes with CUE",
-          "views": 14,
+          "views": 15,
           "date": "2026-03-17T00:52:39Z",
           "category": "kubernetes",
           "tags": [
@@ -17187,12 +17483,12 @@
         "programming",
         "security"
       ],
-      "videoCount": 231,
-      "totalViews": 27664,
+      "videoCount": 233,
+      "totalViews": 27914,
       "topTags": [
         {
           "tag": "rust",
-          "count": 64
+          "count": 66
         },
         {
           "tag": "zig",
@@ -17207,12 +17503,12 @@
           "count": 22
         },
         {
-          "tag": "flutter",
+          "tag": "internal",
           "count": 12
         },
         {
-          "tag": "internal",
-          "count": 11
+          "tag": "flutter",
+          "count": 12
         },
         {
           "tag": "curiosity",
@@ -17276,9 +17572,168 @@
           "name": "Rust",
           "videos": [
             {
+              "id": "SNgYSLZ2Ck4",
+              "title": "The Architecture of Serde",
+              "views": 1,
+              "date": "2026-06-03T23:00:12Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "internal",
+                "serde",
+                "serialization",
+                "lifetime"
+              ],
+              "detail": {
+                "summary": "Deconstructs Rust's serde framework as a zero-cost data interchange layer that collapses the M×N format-conversion problem into M+N by routing all types through a universal data model. The talk walks through the serde core (Serialize, Deserialize, Visitor traits) versus serde_derive (procedural macros producing hyper-optimized state machines), the visitor handshake pattern, in-place deserialization, and the `'de` lifetime anchor that enables true zero-copy borrowing from the input buffer.",
+                "takeaways": [
+                  "Serde collapses M data types × N formats into M+N converters by introducing a universal intermediate data model, so each Rust type only learns to talk to the data model and each format only learns to read/write it.",
+                  "Serialization delegates from container types into builder-style helpers (`serialize_seq`, `serialize_struct`, `serialize_map`) that call primitive methods (`serialize_bool`, `serialize_u8`, `serialize_str`) on a format-aware serializer, decoupling data from format.",
+                  "Deserialization is a two-way visitor handshake: the Deserializer parses the raw bytes and identifies the type, then calls a typed method like `visit_string` on a Visitor supplied by the target type, which materializes the value into Rust memory.",
+                  "The `'de` lifetime anchors borrowed slices like `&'de str` to the original input buffer, letting structs hold views into the source bytes for true zero-copy deserialization with no duplicate string allocations.",
+                  "`serde_derive` is a five-stage procedural-macro pipeline (syn parsing → attribute validation → bounds injection → code generation → sealed token output) that wires generic bounds and lifetimes into per-type state machines at compile time, eliminating runtime overhead."
+                ],
+                "topics": [
+                  "zero copy deserialization",
+                  "visitor handshake pattern",
+                  "serde data model",
+                  "'de lifetime anchor",
+                  "in place deserialization",
+                  "procedural macro pipeline",
+                  "enum tagging strategies",
+                  "serialize and deserialize traits",
+                  "m by n format complexity"
+                ],
+                "related": [
+                  {
+                    "id": "RDa6WtZmW8E",
+                    "sharedTopics": [
+                      "serde",
+                      "data",
+                      "model"
+                    ]
+                  },
+                  {
+                    "id": "n9Ebc-0E478",
+                    "sharedTopics": [
+                      "zero",
+                      "copy",
+                      "format"
+                    ]
+                  },
+                  {
+                    "id": "nRxqSGBuB4s",
+                    "sharedTopics": [
+                      "data",
+                      "complexity"
+                    ]
+                  },
+                  {
+                    "id": "5Vloo08zQ7o",
+                    "sharedTopics": [
+                      "pattern",
+                      "data"
+                    ]
+                  },
+                  {
+                    "id": "4_mBGmXA244",
+                    "sharedTopics": [
+                      "pattern",
+                      "data"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "JMk8y25qo2M",
+              "title": "Copilot-Backed Code Review Architecture",
+              "views": 7,
+              "date": "2026-06-02T23:00:17Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "github",
+                "copilot",
+                "sdk",
+                "ado"
+              ],
+              "detail": {
+                "summary": "A Rust service that orchestrates the GitHub Copilot SDK to perform isolated, token-aware code reviews against Azure DevOps pull requests, returning structured findings as inline PR comments. The architecture pairs a Tokio-based async runtime with dual transport (Axum HTTP for humans and webhooks, Tonic gRPC for service-to-service) atop a shared Tower middleware layer, while bounding model context windows and externalizing prompts to keep reviews predictable, auditable, and safe.",
+                "takeaways": [
+                  "A five-step pipeline (retrieve PR metadata → construct bounded review packets → analyze via Copilot SDK in an isolated session → parse structured JSON findings → publish inline ADO comments) replaces manual review bottlenecks with scalable automation.",
+                  "Rust + Tokio delivers predictable latency, memory safety without GC, single-binary deployment, and strong compile-time validation of review packets; the Copilot SDK handles auth, model routing (default Claude Sonnet 4.6), token lifecycle, retries, and session isolation.",
+                  "Strict context bounds (max 50 files, 24 KB per file, 160 KB total) plus a single retry budget for missing-file requests prevent truncation failures and runaway cost spirals while still handling ~95% of context-extension cases.",
+                  "Prompts are externalized into RON config (system messages and output contracts), `agents.md` (model persona and guardrails), and audit-rule files, so prompt changes ship via git history without recompiling the service.",
+                  "Security posture enforces zero data retention on source/diffs/prompts/responses, no hard-coded credentials (env vars or Azure CLI fallback), sanitized error responses, and `available_tools = []` to guarantee the model cannot execute code."
+                ],
+                "topics": [
+                  "rust async runtime",
+                  "github copilot sdk orchestration",
+                  "azure devops pull request automation",
+                  "axum and tonic dual transport",
+                  "tower middleware",
+                  "bounded context window",
+                  "externalized prompt config",
+                  "cloudevents and w3c tracing",
+                  "session isolation"
+                ],
+                "related": [
+                  {
+                    "id": "J4iGUAXcAOA",
+                    "sharedTopics": [
+                      "rust",
+                      "request",
+                      "axum",
+                      "tower middleware",
+                      "tower"
+                    ]
+                  },
+                  {
+                    "id": "7zFqW-ZcEbo",
+                    "sharedTopics": [
+                      "async",
+                      "runtime",
+                      "axum",
+                      "tonic",
+                      "tower"
+                    ]
+                  },
+                  {
+                    "id": "90hw9qwXbbw",
+                    "sharedTopics": [
+                      "rust",
+                      "async",
+                      "runtime",
+                      "tonic"
+                    ]
+                  },
+                  {
+                    "id": "Jf1VkCXsmwU",
+                    "sharedTopics": [
+                      "runtime",
+                      "github",
+                      "copilot",
+                      "sdk",
+                      "orchestration"
+                    ]
+                  },
+                  {
+                    "id": "js95nIDeA-c",
+                    "sharedTopics": [
+                      "rust",
+                      "async",
+                      "runtime",
+                      "axum"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "uiU9K1hIQBo",
               "title": "Persona Modeling Architecture",
-              "views": 9,
+              "views": 17,
               "date": "2026-06-01T23:00:32Z",
               "category": "development",
               "tags": [
@@ -17359,7 +17814,7 @@
             {
               "id": "cDNqrUa260k",
               "title": "Rust 1.96 Ecosystem Release",
-              "views": 27,
+              "views": 31,
               "date": "2026-05-30T10:00:22Z",
               "category": "development",
               "tags": [
@@ -17431,7 +17886,7 @@
             {
               "id": "d3JxtD__-L0",
               "title": "Architecting a Modern Robocode Engine",
-              "views": 51,
+              "views": 56,
               "date": "2026-05-29T21:33:13Z",
               "category": "development",
               "tags": [
@@ -18670,7 +19125,7 @@
             {
               "id": "B81dHVYOYJA",
               "title": "Inside the Typst Compiler Engine",
-              "views": 99,
+              "views": 104,
               "date": "2026-05-11T00:02:22Z",
               "category": "development",
               "tags": [
@@ -18741,7 +19196,7 @@
             {
               "id": "8PaVKQoDReY",
               "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-              "views": 74,
+              "views": 75,
               "date": "2026-05-09T22:08:03Z",
               "category": "development",
               "tags": [
@@ -18824,7 +19279,7 @@
             {
               "id": "qAHyv6G3a7M",
               "title": "Building the Unified Rust Backend",
-              "views": 741,
+              "views": 744,
               "date": "2026-05-09T07:32:42Z",
               "category": "development",
               "tags": [
@@ -18898,12 +19353,13 @@
                     ]
                   },
                   {
-                    "id": "L9ypC5863yA",
+                    "id": "JMk8y25qo2M",
                     "sharedTopics": [
                       "rust",
+                      "tower",
+                      "axum",
                       "tonic",
-                      "multiplexing",
-                      "blocking"
+                      "middleware"
                     ]
                   }
                 ]
@@ -18912,7 +19368,7 @@
             {
               "id": "_bFOZ51Q55Y",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 2009,
+              "views": 2017,
               "date": "2026-05-09T02:40:33Z",
               "category": "development",
               "tags": [
@@ -19318,7 +19774,7 @@
             {
               "id": "DwAOCljoNoc",
               "title": "Hyper: The Foundation of Fast HTTP in Rust",
-              "views": 94,
+              "views": 95,
               "date": "2026-05-02T18:35:37Z",
               "category": "development",
               "tags": [
@@ -19521,6 +19977,16 @@
                     ]
                   },
                   {
+                    "id": "JMk8y25qo2M",
+                    "sharedTopics": [
+                      "axum",
+                      "rust",
+                      "tower middleware",
+                      "tower",
+                      "middleware"
+                    ]
+                  },
+                  {
                     "id": "js95nIDeA-c",
                     "sharedTopics": [
                       "axum",
@@ -19547,14 +20013,6 @@
                       "framework",
                       "tower"
                     ]
-                  },
-                  {
-                    "id": "JBh6rzeS-Qc",
-                    "sharedTopics": [
-                      "type safety",
-                      "type",
-                      "safety"
-                    ]
                   }
                 ]
               }
@@ -19562,7 +20020,7 @@
             {
               "id": "EWwk29GzHgg",
               "title": "Architecting the Next Evolution of the Local Database",
-              "views": 130,
+              "views": 131,
               "date": "2026-04-27T08:39:23Z",
               "category": "development",
               "tags": [
@@ -20083,7 +20541,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4198,
+              "views": 4200,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -20546,7 +21004,7 @@
             {
               "id": "_zJ3_d1CODg",
               "title": "Bevy-Demo",
-              "views": 148,
+              "views": 151,
               "date": "2026-03-19T00:18:34Z",
               "category": "development",
               "tags": [
@@ -21211,7 +21669,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 492,
+              "views": 496,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -22034,7 +22492,7 @@
             {
               "id": "0ttrfTfP864",
               "title": "ra-token-authority",
-              "views": 22,
+              "views": 23,
               "date": "2026-01-16T16:34:51Z",
               "category": "development",
               "tags": [
@@ -22439,9 +22897,94 @@
           "name": "AI & ML",
           "videos": [
             {
+              "id": "JMk8y25qo2M",
+              "title": "Copilot-Backed Code Review Architecture",
+              "views": 7,
+              "date": "2026-06-02T23:00:17Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "github",
+                "copilot",
+                "sdk",
+                "ado"
+              ],
+              "detail": {
+                "summary": "A Rust service that orchestrates the GitHub Copilot SDK to perform isolated, token-aware code reviews against Azure DevOps pull requests, returning structured findings as inline PR comments. The architecture pairs a Tokio-based async runtime with dual transport (Axum HTTP for humans and webhooks, Tonic gRPC for service-to-service) atop a shared Tower middleware layer, while bounding model context windows and externalizing prompts to keep reviews predictable, auditable, and safe.",
+                "takeaways": [
+                  "A five-step pipeline (retrieve PR metadata → construct bounded review packets → analyze via Copilot SDK in an isolated session → parse structured JSON findings → publish inline ADO comments) replaces manual review bottlenecks with scalable automation.",
+                  "Rust + Tokio delivers predictable latency, memory safety without GC, single-binary deployment, and strong compile-time validation of review packets; the Copilot SDK handles auth, model routing (default Claude Sonnet 4.6), token lifecycle, retries, and session isolation.",
+                  "Strict context bounds (max 50 files, 24 KB per file, 160 KB total) plus a single retry budget for missing-file requests prevent truncation failures and runaway cost spirals while still handling ~95% of context-extension cases.",
+                  "Prompts are externalized into RON config (system messages and output contracts), `agents.md` (model persona and guardrails), and audit-rule files, so prompt changes ship via git history without recompiling the service.",
+                  "Security posture enforces zero data retention on source/diffs/prompts/responses, no hard-coded credentials (env vars or Azure CLI fallback), sanitized error responses, and `available_tools = []` to guarantee the model cannot execute code."
+                ],
+                "topics": [
+                  "rust async runtime",
+                  "github copilot sdk orchestration",
+                  "azure devops pull request automation",
+                  "axum and tonic dual transport",
+                  "tower middleware",
+                  "bounded context window",
+                  "externalized prompt config",
+                  "cloudevents and w3c tracing",
+                  "session isolation"
+                ],
+                "related": [
+                  {
+                    "id": "J4iGUAXcAOA",
+                    "sharedTopics": [
+                      "rust",
+                      "request",
+                      "axum",
+                      "tower middleware",
+                      "tower"
+                    ]
+                  },
+                  {
+                    "id": "7zFqW-ZcEbo",
+                    "sharedTopics": [
+                      "async",
+                      "runtime",
+                      "axum",
+                      "tonic",
+                      "tower"
+                    ]
+                  },
+                  {
+                    "id": "90hw9qwXbbw",
+                    "sharedTopics": [
+                      "rust",
+                      "async",
+                      "runtime",
+                      "tonic"
+                    ]
+                  },
+                  {
+                    "id": "Jf1VkCXsmwU",
+                    "sharedTopics": [
+                      "runtime",
+                      "github",
+                      "copilot",
+                      "sdk",
+                      "orchestration"
+                    ]
+                  },
+                  {
+                    "id": "js95nIDeA-c",
+                    "sharedTopics": [
+                      "rust",
+                      "async",
+                      "runtime",
+                      "axum"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "Jf1VkCXsmwU",
               "title": "The GitHub Copilot SDK Blueprint",
-              "views": 50,
+              "views": 83,
               "date": "2026-05-28T11:46:10Z",
               "category": "development",
               "tags": [
@@ -22469,6 +23012,16 @@
                   "tool invocation patterns"
                 ],
                 "related": [
+                  {
+                    "id": "JMk8y25qo2M",
+                    "sharedTopics": [
+                      "github",
+                      "copilot",
+                      "sdk",
+                      "orchestration",
+                      "runtime"
+                    ]
+                  },
                   {
                     "id": "vSjgNxi7W-4",
                     "sharedTopics": [
@@ -22499,14 +23052,6 @@
                       "agent",
                       "runtime",
                       "cli"
-                    ]
-                  },
-                  {
-                    "id": "xiTVDbJscik",
-                    "sharedTopics": [
-                      "orchestration",
-                      "agent",
-                      "runtime"
                     ]
                   }
                 ]
@@ -23213,7 +23758,7 @@
             {
               "id": "8PaVKQoDReY",
               "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-              "views": 74,
+              "views": 75,
               "date": "2026-05-09T22:08:03Z",
               "category": "development",
               "tags": [
@@ -23524,7 +24069,7 @@
             {
               "id": "BQ4wab0UtLg",
               "title": "From Louvain to Leiden",
-              "views": 35,
+              "views": 38,
               "date": "2026-04-26T15:40:42Z",
               "category": "development",
               "tags": [
@@ -24245,7 +24790,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 191,
+              "views": 193,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -25391,7 +25936,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 688,
+              "views": 690,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -25945,17 +26490,18 @@
                     ]
                   },
                   {
-                    "id": "xVdW3yUCbuU",
+                    "id": "JMk8y25qo2M",
                     "sharedTopics": [
+                      "context",
                       "github",
                       "copilot"
                     ]
                   },
                   {
-                    "id": "Y0DQGVALb7I",
+                    "id": "xVdW3yUCbuU",
                     "sharedTopics": [
-                      "context",
-                      "models"
+                      "github",
+                      "copilot"
                     ]
                   }
                 ]
@@ -26551,7 +27097,7 @@
             {
               "id": "VHuQi_1t5qQ",
               "title": "Mastering Go Pointers",
-              "views": 76,
+              "views": 77,
               "date": "2026-04-17T18:20:09Z",
               "category": "development",
               "tags": [
@@ -26905,7 +27451,7 @@
             {
               "id": "yCJDmGrk8sM",
               "title": "Advancing Go Garbage Collection with Green Tea",
-              "views": 159,
+              "views": 162,
               "date": "2026-03-24T22:59:50Z",
               "category": "development",
               "tags": [
@@ -27542,9 +28088,10 @@
                     ]
                   },
                   {
-                    "id": "dDtVuJXVYJk",
+                    "id": "SNgYSLZ2Ck4",
                     "sharedTopics": [
-                      "data"
+                      "data",
+                      "complexity"
                     ]
                   }
                 ]
@@ -28009,7 +28556,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 864,
+              "views": 867,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -28080,7 +28627,7 @@
             {
               "id": "Qo3oJv4uyBI",
               "title": "High-Performance Go: Inside the 1.26 Release",
-              "views": 206,
+              "views": 207,
               "date": "2026-02-12T13:08:12Z",
               "category": "development",
               "tags": [
@@ -28431,9 +28978,168 @@
           "name": "Architecture",
           "videos": [
             {
+              "id": "SNgYSLZ2Ck4",
+              "title": "The Architecture of Serde",
+              "views": 1,
+              "date": "2026-06-03T23:00:12Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "internal",
+                "serde",
+                "serialization",
+                "lifetime"
+              ],
+              "detail": {
+                "summary": "Deconstructs Rust's serde framework as a zero-cost data interchange layer that collapses the M×N format-conversion problem into M+N by routing all types through a universal data model. The talk walks through the serde core (Serialize, Deserialize, Visitor traits) versus serde_derive (procedural macros producing hyper-optimized state machines), the visitor handshake pattern, in-place deserialization, and the `'de` lifetime anchor that enables true zero-copy borrowing from the input buffer.",
+                "takeaways": [
+                  "Serde collapses M data types × N formats into M+N converters by introducing a universal intermediate data model, so each Rust type only learns to talk to the data model and each format only learns to read/write it.",
+                  "Serialization delegates from container types into builder-style helpers (`serialize_seq`, `serialize_struct`, `serialize_map`) that call primitive methods (`serialize_bool`, `serialize_u8`, `serialize_str`) on a format-aware serializer, decoupling data from format.",
+                  "Deserialization is a two-way visitor handshake: the Deserializer parses the raw bytes and identifies the type, then calls a typed method like `visit_string` on a Visitor supplied by the target type, which materializes the value into Rust memory.",
+                  "The `'de` lifetime anchors borrowed slices like `&'de str` to the original input buffer, letting structs hold views into the source bytes for true zero-copy deserialization with no duplicate string allocations.",
+                  "`serde_derive` is a five-stage procedural-macro pipeline (syn parsing → attribute validation → bounds injection → code generation → sealed token output) that wires generic bounds and lifetimes into per-type state machines at compile time, eliminating runtime overhead."
+                ],
+                "topics": [
+                  "zero copy deserialization",
+                  "visitor handshake pattern",
+                  "serde data model",
+                  "'de lifetime anchor",
+                  "in place deserialization",
+                  "procedural macro pipeline",
+                  "enum tagging strategies",
+                  "serialize and deserialize traits",
+                  "m by n format complexity"
+                ],
+                "related": [
+                  {
+                    "id": "RDa6WtZmW8E",
+                    "sharedTopics": [
+                      "serde",
+                      "data",
+                      "model"
+                    ]
+                  },
+                  {
+                    "id": "n9Ebc-0E478",
+                    "sharedTopics": [
+                      "zero",
+                      "copy",
+                      "format"
+                    ]
+                  },
+                  {
+                    "id": "nRxqSGBuB4s",
+                    "sharedTopics": [
+                      "data",
+                      "complexity"
+                    ]
+                  },
+                  {
+                    "id": "5Vloo08zQ7o",
+                    "sharedTopics": [
+                      "pattern",
+                      "data"
+                    ]
+                  },
+                  {
+                    "id": "4_mBGmXA244",
+                    "sharedTopics": [
+                      "pattern",
+                      "data"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "JMk8y25qo2M",
+              "title": "Copilot-Backed Code Review Architecture",
+              "views": 7,
+              "date": "2026-06-02T23:00:17Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "github",
+                "copilot",
+                "sdk",
+                "ado"
+              ],
+              "detail": {
+                "summary": "A Rust service that orchestrates the GitHub Copilot SDK to perform isolated, token-aware code reviews against Azure DevOps pull requests, returning structured findings as inline PR comments. The architecture pairs a Tokio-based async runtime with dual transport (Axum HTTP for humans and webhooks, Tonic gRPC for service-to-service) atop a shared Tower middleware layer, while bounding model context windows and externalizing prompts to keep reviews predictable, auditable, and safe.",
+                "takeaways": [
+                  "A five-step pipeline (retrieve PR metadata → construct bounded review packets → analyze via Copilot SDK in an isolated session → parse structured JSON findings → publish inline ADO comments) replaces manual review bottlenecks with scalable automation.",
+                  "Rust + Tokio delivers predictable latency, memory safety without GC, single-binary deployment, and strong compile-time validation of review packets; the Copilot SDK handles auth, model routing (default Claude Sonnet 4.6), token lifecycle, retries, and session isolation.",
+                  "Strict context bounds (max 50 files, 24 KB per file, 160 KB total) plus a single retry budget for missing-file requests prevent truncation failures and runaway cost spirals while still handling ~95% of context-extension cases.",
+                  "Prompts are externalized into RON config (system messages and output contracts), `agents.md` (model persona and guardrails), and audit-rule files, so prompt changes ship via git history without recompiling the service.",
+                  "Security posture enforces zero data retention on source/diffs/prompts/responses, no hard-coded credentials (env vars or Azure CLI fallback), sanitized error responses, and `available_tools = []` to guarantee the model cannot execute code."
+                ],
+                "topics": [
+                  "rust async runtime",
+                  "github copilot sdk orchestration",
+                  "azure devops pull request automation",
+                  "axum and tonic dual transport",
+                  "tower middleware",
+                  "bounded context window",
+                  "externalized prompt config",
+                  "cloudevents and w3c tracing",
+                  "session isolation"
+                ],
+                "related": [
+                  {
+                    "id": "J4iGUAXcAOA",
+                    "sharedTopics": [
+                      "rust",
+                      "request",
+                      "axum",
+                      "tower middleware",
+                      "tower"
+                    ]
+                  },
+                  {
+                    "id": "7zFqW-ZcEbo",
+                    "sharedTopics": [
+                      "async",
+                      "runtime",
+                      "axum",
+                      "tonic",
+                      "tower"
+                    ]
+                  },
+                  {
+                    "id": "90hw9qwXbbw",
+                    "sharedTopics": [
+                      "rust",
+                      "async",
+                      "runtime",
+                      "tonic"
+                    ]
+                  },
+                  {
+                    "id": "Jf1VkCXsmwU",
+                    "sharedTopics": [
+                      "runtime",
+                      "github",
+                      "copilot",
+                      "sdk",
+                      "orchestration"
+                    ]
+                  },
+                  {
+                    "id": "js95nIDeA-c",
+                    "sharedTopics": [
+                      "rust",
+                      "async",
+                      "runtime",
+                      "axum"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "uiU9K1hIQBo",
               "title": "Persona Modeling Architecture",
-              "views": 9,
+              "views": 17,
               "date": "2026-06-01T23:00:32Z",
               "category": "development",
               "tags": [
@@ -28514,7 +29220,7 @@
             {
               "id": "aQpGQClZSvc",
               "title": "The Architecture of a Virtual Voice",
-              "views": 16,
+              "views": 17,
               "date": "2026-05-27T22:01:41Z",
               "category": "development",
               "tags": [
@@ -28584,7 +29290,7 @@
             {
               "id": "3ONqqMoLy0s",
               "title": "The Architecture of Space and Time",
-              "views": 28,
+              "views": 29,
               "date": "2026-05-26T23:06:34Z",
               "category": "development",
               "tags": [
@@ -29429,10 +30135,11 @@
                     ]
                   },
                   {
-                    "id": "9oSUtndLto4",
+                    "id": "JMk8y25qo2M",
                     "sharedTopics": [
+                      "request",
                       "context",
-                      "protocol"
+                      "transport"
                     ]
                   }
                 ]
@@ -30053,7 +30760,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4198,
+              "views": 4200,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -30448,7 +31155,7 @@
             {
               "id": "uiU9K1hIQBo",
               "title": "Persona Modeling Architecture",
-              "views": 9,
+              "views": 17,
               "date": "2026-06-01T23:00:32Z",
               "category": "development",
               "tags": [
@@ -30606,7 +31313,7 @@
             {
               "id": "EWwk29GzHgg",
               "title": "Architecting the Next Evolution of the Local Database",
-              "views": 130,
+              "views": 131,
               "date": "2026-04-27T08:39:23Z",
               "category": "development",
               "tags": [
@@ -31435,7 +32142,7 @@
             {
               "id": "wyIhJ3LMnRg",
               "title": "W3C Trace Context",
-              "views": 58,
+              "views": 60,
               "date": "2026-03-21T13:19:14Z",
               "category": "development",
               "tags": [
@@ -31672,7 +32379,7 @@
             {
               "id": "0ttrfTfP864",
               "title": "ra-token-authority",
-              "views": 22,
+              "views": 23,
               "date": "2026-01-16T16:34:51Z",
               "category": "development",
               "tags": [
@@ -31904,7 +32611,7 @@
             {
               "id": "0ttrfTfP864",
               "title": "ra-token-authority",
-              "views": 22,
+              "views": 23,
               "date": "2026-01-16T16:34:51Z",
               "category": "development",
               "tags": [
@@ -32061,9 +32768,168 @@
       ],
       "videos": [
         {
+          "id": "SNgYSLZ2Ck4",
+          "title": "The Architecture of Serde",
+          "views": 1,
+          "date": "2026-06-03T23:00:12Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "internal",
+            "serde",
+            "serialization",
+            "lifetime"
+          ],
+          "detail": {
+            "summary": "Deconstructs Rust's serde framework as a zero-cost data interchange layer that collapses the M×N format-conversion problem into M+N by routing all types through a universal data model. The talk walks through the serde core (Serialize, Deserialize, Visitor traits) versus serde_derive (procedural macros producing hyper-optimized state machines), the visitor handshake pattern, in-place deserialization, and the `'de` lifetime anchor that enables true zero-copy borrowing from the input buffer.",
+            "takeaways": [
+              "Serde collapses M data types × N formats into M+N converters by introducing a universal intermediate data model, so each Rust type only learns to talk to the data model and each format only learns to read/write it.",
+              "Serialization delegates from container types into builder-style helpers (`serialize_seq`, `serialize_struct`, `serialize_map`) that call primitive methods (`serialize_bool`, `serialize_u8`, `serialize_str`) on a format-aware serializer, decoupling data from format.",
+              "Deserialization is a two-way visitor handshake: the Deserializer parses the raw bytes and identifies the type, then calls a typed method like `visit_string` on a Visitor supplied by the target type, which materializes the value into Rust memory.",
+              "The `'de` lifetime anchors borrowed slices like `&'de str` to the original input buffer, letting structs hold views into the source bytes for true zero-copy deserialization with no duplicate string allocations.",
+              "`serde_derive` is a five-stage procedural-macro pipeline (syn parsing → attribute validation → bounds injection → code generation → sealed token output) that wires generic bounds and lifetimes into per-type state machines at compile time, eliminating runtime overhead."
+            ],
+            "topics": [
+              "zero copy deserialization",
+              "visitor handshake pattern",
+              "serde data model",
+              "'de lifetime anchor",
+              "in place deserialization",
+              "procedural macro pipeline",
+              "enum tagging strategies",
+              "serialize and deserialize traits",
+              "m by n format complexity"
+            ],
+            "related": [
+              {
+                "id": "RDa6WtZmW8E",
+                "sharedTopics": [
+                  "serde",
+                  "data",
+                  "model"
+                ]
+              },
+              {
+                "id": "n9Ebc-0E478",
+                "sharedTopics": [
+                  "zero",
+                  "copy",
+                  "format"
+                ]
+              },
+              {
+                "id": "nRxqSGBuB4s",
+                "sharedTopics": [
+                  "data",
+                  "complexity"
+                ]
+              },
+              {
+                "id": "5Vloo08zQ7o",
+                "sharedTopics": [
+                  "pattern",
+                  "data"
+                ]
+              },
+              {
+                "id": "4_mBGmXA244",
+                "sharedTopics": [
+                  "pattern",
+                  "data"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "JMk8y25qo2M",
+          "title": "Copilot-Backed Code Review Architecture",
+          "views": 7,
+          "date": "2026-06-02T23:00:17Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "github",
+            "copilot",
+            "sdk",
+            "ado"
+          ],
+          "detail": {
+            "summary": "A Rust service that orchestrates the GitHub Copilot SDK to perform isolated, token-aware code reviews against Azure DevOps pull requests, returning structured findings as inline PR comments. The architecture pairs a Tokio-based async runtime with dual transport (Axum HTTP for humans and webhooks, Tonic gRPC for service-to-service) atop a shared Tower middleware layer, while bounding model context windows and externalizing prompts to keep reviews predictable, auditable, and safe.",
+            "takeaways": [
+              "A five-step pipeline (retrieve PR metadata → construct bounded review packets → analyze via Copilot SDK in an isolated session → parse structured JSON findings → publish inline ADO comments) replaces manual review bottlenecks with scalable automation.",
+              "Rust + Tokio delivers predictable latency, memory safety without GC, single-binary deployment, and strong compile-time validation of review packets; the Copilot SDK handles auth, model routing (default Claude Sonnet 4.6), token lifecycle, retries, and session isolation.",
+              "Strict context bounds (max 50 files, 24 KB per file, 160 KB total) plus a single retry budget for missing-file requests prevent truncation failures and runaway cost spirals while still handling ~95% of context-extension cases.",
+              "Prompts are externalized into RON config (system messages and output contracts), `agents.md` (model persona and guardrails), and audit-rule files, so prompt changes ship via git history without recompiling the service.",
+              "Security posture enforces zero data retention on source/diffs/prompts/responses, no hard-coded credentials (env vars or Azure CLI fallback), sanitized error responses, and `available_tools = []` to guarantee the model cannot execute code."
+            ],
+            "topics": [
+              "rust async runtime",
+              "github copilot sdk orchestration",
+              "azure devops pull request automation",
+              "axum and tonic dual transport",
+              "tower middleware",
+              "bounded context window",
+              "externalized prompt config",
+              "cloudevents and w3c tracing",
+              "session isolation"
+            ],
+            "related": [
+              {
+                "id": "J4iGUAXcAOA",
+                "sharedTopics": [
+                  "rust",
+                  "request",
+                  "axum",
+                  "tower middleware",
+                  "tower"
+                ]
+              },
+              {
+                "id": "7zFqW-ZcEbo",
+                "sharedTopics": [
+                  "async",
+                  "runtime",
+                  "axum",
+                  "tonic",
+                  "tower"
+                ]
+              },
+              {
+                "id": "90hw9qwXbbw",
+                "sharedTopics": [
+                  "rust",
+                  "async",
+                  "runtime",
+                  "tonic"
+                ]
+              },
+              {
+                "id": "Jf1VkCXsmwU",
+                "sharedTopics": [
+                  "runtime",
+                  "github",
+                  "copilot",
+                  "sdk",
+                  "orchestration"
+                ]
+              },
+              {
+                "id": "js95nIDeA-c",
+                "sharedTopics": [
+                  "rust",
+                  "async",
+                  "runtime",
+                  "axum"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "i8wjbDfxZTY",
           "title": "Why uv, ruff, and ty are mandatory",
-          "views": 12,
+          "views": 78,
           "date": "2026-06-02T05:10:54Z",
           "category": "development",
           "tags": [
@@ -32133,7 +32999,7 @@
         {
           "id": "uiU9K1hIQBo",
           "title": "Persona Modeling Architecture",
-          "views": 9,
+          "views": 17,
           "date": "2026-06-01T23:00:32Z",
           "category": "development",
           "tags": [
@@ -32214,7 +33080,7 @@
         {
           "id": "JNHxVHyzWdE",
           "title": "Deconstructing the Bridge",
-          "views": 12,
+          "views": 17,
           "date": "2026-06-01T10:00:18Z",
           "category": "development",
           "tags": [
@@ -32281,7 +33147,7 @@
         {
           "id": "CqBZBJTAo3I",
           "title": "Building Dynamic Al Interfaces with GenUl",
-          "views": 42,
+          "views": 88,
           "date": "2026-05-31T22:00:11Z",
           "category": "development",
           "tags": [
@@ -32355,7 +33221,7 @@
         {
           "id": "L4YBdUVCFd4",
           "title": "Migrating to SolidJS 2.0",
-          "views": 23,
+          "views": 34,
           "date": "2026-05-30T22:00:08Z",
           "category": "development",
           "tags": [
@@ -32424,7 +33290,7 @@
         {
           "id": "cDNqrUa260k",
           "title": "Rust 1.96 Ecosystem Release",
-          "views": 27,
+          "views": 31,
           "date": "2026-05-30T10:00:22Z",
           "category": "development",
           "tags": [
@@ -32496,7 +33362,7 @@
         {
           "id": "d3JxtD__-L0",
           "title": "Architecting a Modern Robocode Engine",
-          "views": 51,
+          "views": 56,
           "date": "2026-05-29T21:33:13Z",
           "category": "development",
           "tags": [
@@ -32653,7 +33519,7 @@
         {
           "id": "Jf1VkCXsmwU",
           "title": "The GitHub Copilot SDK Blueprint",
-          "views": 50,
+          "views": 83,
           "date": "2026-05-28T11:46:10Z",
           "category": "development",
           "tags": [
@@ -32681,6 +33547,16 @@
               "tool invocation patterns"
             ],
             "related": [
+              {
+                "id": "JMk8y25qo2M",
+                "sharedTopics": [
+                  "github",
+                  "copilot",
+                  "sdk",
+                  "orchestration",
+                  "runtime"
+                ]
+              },
               {
                 "id": "vSjgNxi7W-4",
                 "sharedTopics": [
@@ -32712,14 +33588,6 @@
                   "runtime",
                   "cli"
                 ]
-              },
-              {
-                "id": "xiTVDbJscik",
-                "sharedTopics": [
-                  "orchestration",
-                  "agent",
-                  "runtime"
-                ]
               }
             ]
           }
@@ -32727,7 +33595,7 @@
         {
           "id": "aQpGQClZSvc",
           "title": "The Architecture of a Virtual Voice",
-          "views": 16,
+          "views": 17,
           "date": "2026-05-27T22:01:41Z",
           "category": "development",
           "tags": [
@@ -32867,7 +33735,7 @@
         {
           "id": "3ONqqMoLy0s",
           "title": "The Architecture of Space and Time",
-          "views": 28,
+          "views": 29,
           "date": "2026-05-26T23:06:34Z",
           "category": "development",
           "tags": [
@@ -34009,7 +34877,7 @@
         {
           "id": "jrD_LGNsJXM",
           "title": "Async 1/0 in Zig 0.16, Today",
-          "views": 103,
+          "views": 105,
           "date": "2026-05-17T19:24:16Z",
           "category": "development",
           "tags": [
@@ -34230,7 +35098,7 @@
         {
           "id": "Gy-ky1pAF0U",
           "title": "The Blueprint of Reactivity",
-          "views": 26,
+          "views": 27,
           "date": "2026-05-16T20:24:00Z",
           "category": "development",
           "tags": [
@@ -34540,7 +35408,7 @@
         {
           "id": "ZbZdm5Opbno",
           "title": "The Architectural Blueprint of Apache DataFusion",
-          "views": 36,
+          "views": 37,
           "date": "2026-05-14T22:04:01Z",
           "category": "development",
           "tags": [
@@ -34920,7 +35788,7 @@
         {
           "id": "B81dHVYOYJA",
           "title": "Inside the Typst Compiler Engine",
-          "views": 99,
+          "views": 104,
           "date": "2026-05-11T00:02:22Z",
           "category": "development",
           "tags": [
@@ -35075,7 +35943,7 @@
         {
           "id": "8PaVKQoDReY",
           "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-          "views": 74,
+          "views": 75,
           "date": "2026-05-09T22:08:03Z",
           "category": "development",
           "tags": [
@@ -35158,7 +36026,7 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 408,
+          "views": 410,
           "date": "2026-05-09T14:32:47Z",
           "category": "development",
           "tags": [
@@ -35234,7 +36102,7 @@
         {
           "id": "qAHyv6G3a7M",
           "title": "Building the Unified Rust Backend",
-          "views": 741,
+          "views": 744,
           "date": "2026-05-09T07:32:42Z",
           "category": "development",
           "tags": [
@@ -35308,12 +36176,13 @@
                 ]
               },
               {
-                "id": "L9ypC5863yA",
+                "id": "JMk8y25qo2M",
                 "sharedTopics": [
                   "rust",
+                  "tower",
+                  "axum",
                   "tonic",
-                  "multiplexing",
-                  "blocking"
+                  "middleware"
                 ]
               }
             ]
@@ -35322,7 +36191,7 @@
         {
           "id": "_bFOZ51Q55Y",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 2009,
+          "views": 2017,
           "date": "2026-05-09T02:40:33Z",
           "category": "development",
           "tags": [
@@ -36005,10 +36874,11 @@
                 ]
               },
               {
-                "id": "9oSUtndLto4",
+                "id": "JMk8y25qo2M",
                 "sharedTopics": [
+                  "request",
                   "context",
-                  "protocol"
+                  "transport"
                 ]
               }
             ]
@@ -36258,7 +37128,7 @@
         {
           "id": "DwAOCljoNoc",
           "title": "Hyper: The Foundation of Fast HTTP in Rust",
-          "views": 94,
+          "views": 95,
           "date": "2026-05-02T18:35:37Z",
           "category": "development",
           "tags": [
@@ -36461,6 +37331,16 @@
                 ]
               },
               {
+                "id": "JMk8y25qo2M",
+                "sharedTopics": [
+                  "axum",
+                  "rust",
+                  "tower middleware",
+                  "tower",
+                  "middleware"
+                ]
+              },
+              {
                 "id": "js95nIDeA-c",
                 "sharedTopics": [
                   "axum",
@@ -36486,14 +37366,6 @@
                   "web",
                   "framework",
                   "tower"
-                ]
-              },
-              {
-                "id": "JBh6rzeS-Qc",
-                "sharedTopics": [
-                  "type safety",
-                  "type",
-                  "safety"
                 ]
               }
             ]
@@ -36728,7 +37600,7 @@
         {
           "id": "4aAyFYemYD8",
           "title": "The Strangler Fig Pattern",
-          "views": 43,
+          "views": 44,
           "date": "2026-04-29T00:49:39Z",
           "category": "development",
           "tags": [
@@ -36963,7 +37835,7 @@
         {
           "id": "EWwk29GzHgg",
           "title": "Architecting the Next Evolution of the Local Database",
-          "views": 130,
+          "views": 131,
           "date": "2026-04-27T08:39:23Z",
           "category": "development",
           "tags": [
@@ -37040,7 +37912,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 35,
+          "views": 38,
           "date": "2026-04-26T15:40:42Z",
           "category": "development",
           "tags": [
@@ -38203,7 +39075,7 @@
         {
           "id": "VHuQi_1t5qQ",
           "title": "Mastering Go Pointers",
-          "views": 76,
+          "views": 77,
           "date": "2026-04-17T18:20:09Z",
           "category": "development",
           "tags": [
@@ -38839,9 +39711,58 @@
             "context"
           ],
           "detail": {
-            "summary": "*Transcript unavailable for this video.*",
-            "takeaways": [],
-            "topics": []
+            "summary": "The talk dissects a 17-digit sequence through two analytical lenses — plausible human intention versus statistical randomness — to expose how the brain's apophenia tendency manufactures structure from noise. It contrasts hand-tuned aesthetic devices like star/co-star hierarchy, rhythmic chunking, and angular-vs-curvy glyph ciphers against the multinomial distribution, the coupon collector problem, and the mechanical artifacts of sorting a random multiset.",
+            "takeaways": [
+              "A sorted random multiset is statistically indistinguishable from a lightweight, deliberately weighted human design, so the data alone cannot resolve intent.",
+              "True uniform randomness is inherently clumpy: streaks, voids, and uneven bucket counts are the expected signature, not evidence of a hidden pattern.",
+              "Human designers reach for three repeatable devices — dominant weighting, rhythmic chunking, and visual-shape bias — to make sequences feel intentional without complex mathematics.",
+              "Lateral-thinking ciphers can hide meaning in glyph geometry (angular digits like 1, 2, 4, 7, 8 versus curvy 3, 5, 6, 9) rather than numerical value, a hallmark of ARG and geocache puzzle design.",
+              "Context — the origin story behind a sequence — is the only reliable tiebreaker between intentional design and the clustering illusion."
+            ],
+            "topics": [
+              "clustering illusion",
+              "multinomial distribution",
+              "coupon collector problem",
+              "apophenia and pattern matching",
+              "sorted multiset artifacts",
+              "visual chunking and rhythm",
+              "glyph shape ciphers",
+              "star and co-star hierarchy"
+            ],
+            "related": [
+              {
+                "id": "JBh6rzeS-Qc",
+                "sharedTopics": [
+                  "pattern",
+                  "matching"
+                ]
+              },
+              {
+                "id": "DIMW-iHlDxE",
+                "sharedTopics": [
+                  "pattern",
+                  "matching"
+                ]
+              },
+              {
+                "id": "3ybGkjogcFQ",
+                "sharedTopics": [
+                  "pattern"
+                ]
+              },
+              {
+                "id": "LWc3AAHoxnU",
+                "sharedTopics": [
+                  "pattern"
+                ]
+              },
+              {
+                "id": "z_Ydy_-cI1U",
+                "sharedTopics": [
+                  "problem"
+                ]
+              }
+            ]
           }
         },
         {
@@ -39053,7 +39974,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 191,
+          "views": 193,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -39866,7 +40787,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4198,
+          "views": 4200,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -40584,7 +41505,7 @@
         {
           "id": "yCJDmGrk8sM",
           "title": "Advancing Go Garbage Collection with Green Tea",
-          "views": 159,
+          "views": 162,
           "date": "2026-03-24T22:59:50Z",
           "category": "development",
           "tags": [
@@ -40966,7 +41887,7 @@
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
-          "views": 58,
+          "views": 60,
           "date": "2026-03-21T13:19:14Z",
           "category": "development",
           "tags": [
@@ -41337,7 +42258,7 @@
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
-          "views": 148,
+          "views": 151,
           "date": "2026-03-19T00:18:34Z",
           "category": "development",
           "tags": [
@@ -41836,7 +42757,7 @@
         {
           "id": "2iIi1H9V-Hg",
           "title": "Announcing Genkit Dart",
-          "views": 52,
+          "views": 53,
           "date": "2026-03-13T13:28:36Z",
           "category": "development",
           "tags": [
@@ -42756,9 +43677,10 @@
                 ]
               },
               {
-                "id": "dDtVuJXVYJk",
+                "id": "SNgYSLZ2Ck4",
                 "sharedTopics": [
-                  "data"
+                  "data",
+                  "complexity"
                 ]
               }
             ]
@@ -42978,7 +43900,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 259,
+          "views": 260,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -43345,7 +44267,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 688,
+          "views": 690,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -43497,7 +44419,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 139,
+          "views": 140,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -44235,7 +45157,7 @@
         {
           "id": "QBUQvfZJpaM",
           "title": "Modern Cryptography Standards: A Guide to AEAD",
-          "views": 65,
+          "views": 67,
           "date": "2026-02-18T23:24:48Z",
           "category": "development",
           "tags": [
@@ -44504,7 +45426,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 864,
+          "views": 867,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -44658,7 +45580,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 492,
+          "views": 496,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -44738,7 +45660,7 @@
         {
           "id": "Qo3oJv4uyBI",
           "title": "High-Performance Go: Inside the 1.26 Release",
-          "views": 206,
+          "views": 207,
           "date": "2026-02-12T13:08:12Z",
           "category": "development",
           "tags": [
@@ -45321,7 +46243,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 204,
+          "views": 207,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -47468,7 +48390,7 @@
         {
           "id": "0ttrfTfP864",
           "title": "ra-token-authority",
-          "views": 22,
+          "views": 23,
           "date": "2026-01-16T16:34:51Z",
           "category": "development",
           "tags": [
@@ -47874,17 +48796,18 @@
                 ]
               },
               {
-                "id": "xVdW3yUCbuU",
+                "id": "JMk8y25qo2M",
                 "sharedTopics": [
+                  "context",
                   "github",
                   "copilot"
                 ]
               },
               {
-                "id": "Y0DQGVALb7I",
+                "id": "xVdW3yUCbuU",
                 "sharedTopics": [
-                  "context",
-                  "models"
+                  "github",
+                  "copilot"
                 ]
               }
             ]
@@ -48983,7 +49906,7 @@
         {
           "id": "TLqdeHlAo3A",
           "title": "From Bottlenecks to Breakthroughs:",
-          "views": 52,
+          "views": 53,
           "date": "2025-12-27T21:13:50Z",
           "category": "development",
           "tags": [
@@ -49061,7 +49984,7 @@
         "development"
       ],
       "videoCount": 14,
-      "totalViews": 491,
+      "totalViews": 493,
       "topTags": [
         {
           "tag": "agent",
@@ -49790,7 +50713,7 @@
         {
           "id": "MFiVlaMYmwM",
           "title": "Microsoft Agent Governance Toolkit",
-          "views": 59,
+          "views": 60,
           "date": "2026-05-23T04:44:12Z",
           "category": "security",
           "tags": [
@@ -50701,7 +51624,7 @@
         {
           "id": "JfGgWiiCTA0",
           "title": "Shannon: Autonomous Penetration Testing",
-          "views": 48,
+          "views": 49,
           "date": "2026-02-14T10:04:10Z",
           "category": "security",
           "tags": [
@@ -51372,7 +52295,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 688,
+          "views": 690,
           "date": "2026-02-28T05:29:43Z",
           "category": "development"
         },
@@ -51386,7 +52309,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 191,
+          "views": 193,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -51653,6 +52576,13 @@
           "category": "finance"
         },
         {
+          "id": "BQ4wab0UtLg",
+          "title": "From Louvain to Leiden",
+          "views": 38,
+          "date": "2026-04-26T15:40:42Z",
+          "category": "development"
+        },
+        {
           "id": "oHdhgeF4wlI",
           "title": "A Trillion Transactions",
           "views": 37,
@@ -51667,13 +52597,6 @@
           "category": "development"
         },
         {
-          "id": "BQ4wab0UtLg",
-          "title": "From Louvain to Leiden",
-          "views": 35,
-          "date": "2026-04-26T15:40:42Z",
-          "category": "development"
-        },
-        {
           "id": "lsjfczYFBeQ",
           "title": "The Evolution of RFCs in the Al Era",
           "views": 31,
@@ -51683,7 +52606,7 @@
         {
           "id": "3ONqqMoLy0s",
           "title": "The Architecture of Space and Time",
-          "views": 28,
+          "views": 29,
           "date": "2026-05-26T23:06:34Z",
           "category": "development"
         },
@@ -51702,18 +52625,25 @@
           "category": "finance"
         },
         {
+          "id": "JNHxVHyzWdE",
+          "title": "Deconstructing the Bridge",
+          "views": 17,
+          "date": "2026-06-01T10:00:18Z",
+          "category": "development"
+        },
+        {
+          "id": "aQpGQClZSvc",
+          "title": "The Architecture of a Virtual Voice",
+          "views": 17,
+          "date": "2026-05-27T22:01:41Z",
+          "category": "development"
+        },
+        {
           "id": "rjhabJ8Bx5U",
           "title": "Architecting the New Capital Regime",
           "views": 16,
           "date": "2026-05-21T07:04:45Z",
           "category": "finance"
-        },
-        {
-          "id": "aQpGQClZSvc",
-          "title": "The Architecture of a Virtual Voice",
-          "views": 16,
-          "date": "2026-05-27T22:01:41Z",
-          "category": "development"
         },
         {
           "id": "UorjmtDDRgQ",
@@ -51728,13 +52658,6 @@
           "views": 14,
           "date": "2026-05-13T07:23:27Z",
           "category": "finance"
-        },
-        {
-          "id": "JNHxVHyzWdE",
-          "title": "Deconstructing the Bridge",
-          "views": 12,
-          "date": "2026-06-01T10:00:18Z",
-          "category": "development"
         },
         {
           "id": "l9UUqD2Bz2E",
@@ -51755,6 +52678,13 @@
           "title": "Nesting in Global Finance",
           "views": 7,
           "date": "2026-04-12T20:20:01Z",
+          "category": "finance"
+        },
+        {
+          "id": "P-QVC5lOMbU",
+          "title": "The Architecture of Insurance Pricing",
+          "views": 3,
+          "date": "2026-06-03T11:00:02Z",
           "category": "finance"
         },
         {
@@ -51829,7 +52759,7 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 408,
+          "views": 410,
           "date": "2026-05-09T14:32:47Z",
           "category": "development"
         },
@@ -51843,8 +52773,15 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 191,
+          "views": 193,
           "date": "2026-04-10T13:02:35Z",
+          "category": "development"
+        },
+        {
+          "id": "Jf1VkCXsmwU",
+          "title": "The GitHub Copilot SDK Blueprint",
+          "views": 83,
+          "date": "2026-05-28T11:46:10Z",
           "category": "development"
         },
         {
@@ -51864,7 +52801,7 @@
         {
           "id": "MFiVlaMYmwM",
           "title": "Microsoft Agent Governance Toolkit",
-          "views": 59,
+          "views": 60,
           "date": "2026-05-23T04:44:12Z",
           "category": "security"
         },
@@ -51876,16 +52813,9 @@
           "category": "development"
         },
         {
-          "id": "Jf1VkCXsmwU",
-          "title": "The GitHub Copilot SDK Blueprint",
-          "views": 50,
-          "date": "2026-05-28T11:46:10Z",
-          "category": "development"
-        },
-        {
           "id": "JfGgWiiCTA0",
           "title": "Shannon: Autonomous Penetration Testing",
-          "views": 48,
+          "views": 49,
           "date": "2026-02-14T10:04:10Z",
           "category": "security"
         },
@@ -51989,7 +52919,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 139,
+          "views": 140,
           "date": "2026-02-27T12:49:18Z",
           "category": "development"
         },
@@ -52019,21 +52949,21 @@
         {
           "id": "_bFOZ51Q55Y",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 2009,
+          "views": 2017,
           "date": "2026-05-09T02:40:33Z",
           "category": "development"
         },
         {
           "id": "qAHyv6G3a7M",
           "title": "Building the Unified Rust Backend",
-          "views": 741,
+          "views": 744,
           "date": "2026-05-09T07:32:42Z",
           "category": "development"
         },
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 492,
+          "views": 496,
           "date": "2026-02-13T15:08:23Z",
           "category": "development"
         },
@@ -52061,14 +52991,14 @@
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
-          "views": 148,
+          "views": 151,
           "date": "2026-03-19T00:18:34Z",
           "category": "development"
         },
         {
           "id": "EWwk29GzHgg",
           "title": "Architecting the Next Evolution of the Local Database",
-          "views": 130,
+          "views": 131,
           "date": "2026-04-27T08:39:23Z",
           "category": "development"
         },
@@ -52101,6 +53031,13 @@
           "category": "development"
         },
         {
+          "id": "B81dHVYOYJA",
+          "title": "Inside the Typst Compiler Engine",
+          "views": 104,
+          "date": "2026-05-11T00:02:22Z",
+          "category": "development"
+        },
+        {
           "id": "d1MH4nza95g",
           "title": "Tracing Asynchronous Rust",
           "views": 102,
@@ -52108,16 +53045,9 @@
           "category": "development"
         },
         {
-          "id": "B81dHVYOYJA",
-          "title": "Inside the Typst Compiler Engine",
-          "views": 99,
-          "date": "2026-05-11T00:02:22Z",
-          "category": "development"
-        },
-        {
           "id": "DwAOCljoNoc",
           "title": "Hyper: The Foundation of Fast HTTP in Rust",
-          "views": 94,
+          "views": 95,
           "date": "2026-05-02T18:35:37Z",
           "category": "development"
         },
@@ -52145,7 +53075,7 @@
         {
           "id": "8PaVKQoDReY",
           "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-          "views": 74,
+          "views": 75,
           "date": "2026-05-09T22:08:03Z",
           "category": "development"
         },
@@ -52192,6 +53122,13 @@
           "category": "development"
         },
         {
+          "id": "d3JxtD__-L0",
+          "title": "Architecting a Modern Robocode Engine",
+          "views": 56,
+          "date": "2026-05-29T21:33:13Z",
+          "category": "development"
+        },
+        {
           "id": "xVmoqBYlQMU",
           "title": "Mastering Rust Feature Flags",
           "views": 56,
@@ -52217,13 +53154,6 @@
           "title": "Mastering Memory in Rust",
           "views": 53,
           "date": "2026-01-27T11:21:20Z",
-          "category": "development"
-        },
-        {
-          "id": "d3JxtD__-L0",
-          "title": "Architecting a Modern Robocode Engine",
-          "views": 51,
-          "date": "2026-05-29T21:33:13Z",
           "category": "development"
         },
         {
@@ -52325,6 +53255,13 @@
           "category": "development"
         },
         {
+          "id": "cDNqrUa260k",
+          "title": "Rust 1.96 Ecosystem Release",
+          "views": 31,
+          "date": "2026-05-30T10:00:22Z",
+          "category": "development"
+        },
+        {
           "id": "ytA6gw6Tgaw",
           "title": "SlideVoice Studio Desktop Shell Architecture",
           "views": 31,
@@ -52357,13 +53294,6 @@
           "title": "Architecture Review: tn-file-upload",
           "views": 28,
           "date": "2026-05-04T23:49:00Z",
-          "category": "development"
-        },
-        {
-          "id": "cDNqrUa260k",
-          "title": "Rust 1.96 Ecosystem Release",
-          "views": 27,
-          "date": "2026-05-30T10:00:22Z",
           "category": "development"
         },
         {
@@ -52402,17 +53332,17 @@
           "category": "development"
         },
         {
+          "id": "0ttrfTfP864",
+          "title": "ra-token-authority",
+          "views": 23,
+          "date": "2026-01-16T16:34:51Z",
+          "category": "development"
+        },
+        {
           "id": "FIelcuTti-I",
           "title": "Local Change Data Capture at Scale",
           "views": 22,
           "date": "2026-05-26T06:05:16Z",
-          "category": "development"
-        },
-        {
-          "id": "0ttrfTfP864",
-          "title": "ra-token-authority",
-          "views": 22,
-          "date": "2026-01-16T16:34:51Z",
           "category": "development"
         },
         {
@@ -52451,6 +53381,13 @@
           "category": "development"
         },
         {
+          "id": "uiU9K1hIQBo",
+          "title": "Persona Modeling Architecture",
+          "views": 17,
+          "date": "2026-06-01T23:00:32Z",
+          "category": "development"
+        },
+        {
           "id": "ZlEq2jFb8tI",
           "title": "Mastering Rust Error Handling",
           "views": 17,
@@ -52462,13 +53399,6 @@
           "title": "svs-cli: 10 Critical Things",
           "views": 15,
           "date": "2026-05-25T02:46:56Z",
-          "category": "development"
-        },
-        {
-          "id": "uiU9K1hIQBo",
-          "title": "Persona Modeling Architecture",
-          "views": 9,
-          "date": "2026-06-01T23:00:32Z",
           "category": "development"
         },
         {
@@ -52491,6 +53421,20 @@
           "views": 8,
           "date": "2026-01-08T10:19:31Z",
           "category": "development"
+        },
+        {
+          "id": "JMk8y25qo2M",
+          "title": "Copilot-Backed Code Review Architecture",
+          "views": 7,
+          "date": "2026-06-02T23:00:17Z",
+          "category": "development"
+        },
+        {
+          "id": "SNgYSLZ2Ck4",
+          "title": "The Architecture of Serde",
+          "views": 1,
+          "date": "2026-06-03T23:00:12Z",
+          "category": "development"
         }
       ]
     },
@@ -52504,14 +53448,14 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 864,
+          "views": 867,
           "date": "2026-02-14T09:23:06Z",
           "category": "development"
         },
         {
           "id": "Qo3oJv4uyBI",
           "title": "High-Performance Go: Inside the 1.26 Release",
-          "views": 206,
+          "views": 207,
           "date": "2026-02-12T13:08:12Z",
           "category": "development"
         },
@@ -52525,7 +53469,7 @@
         {
           "id": "yCJDmGrk8sM",
           "title": "Advancing Go Garbage Collection with Green Tea",
-          "views": 159,
+          "views": 162,
           "date": "2026-03-24T22:59:50Z",
           "category": "development"
         },
@@ -52572,18 +53516,18 @@
           "category": "development"
         },
         {
+          "id": "VHuQi_1t5qQ",
+          "title": "Mastering Go Pointers",
+          "views": 77,
+          "date": "2026-04-17T18:20:09Z",
+          "category": "development"
+        },
+        {
           "id": "nomIVRSBEG4",
           "title": "Consuming CDC with ScyllaDB",
           "views": 76,
           "date": "2026-04-18T04:36:03Z",
           "category": "kubernetes"
-        },
-        {
-          "id": "VHuQi_1t5qQ",
-          "title": "Mastering Go Pointers",
-          "views": 76,
-          "date": "2026-04-17T18:20:09Z",
-          "category": "development"
         },
         {
           "id": "Hfut9CfJhN0",
@@ -52688,21 +53632,21 @@
         {
           "id": "_bFOZ51Q55Y",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 2009,
+          "views": 2017,
           "date": "2026-05-09T02:40:33Z",
           "category": "development"
         },
         {
           "id": "B81dHVYOYJA",
           "title": "Inside the Typst Compiler Engine",
-          "views": 99,
+          "views": 104,
           "date": "2026-05-11T00:02:22Z",
           "category": "development"
         },
         {
           "id": "8PaVKQoDReY",
           "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-          "views": 74,
+          "views": 75,
           "date": "2026-05-09T22:08:03Z",
           "category": "development"
         },
@@ -52723,7 +53667,7 @@
         {
           "id": "ZbZdm5Opbno",
           "title": "The Architectural Blueprint of Apache DataFusion",
-          "views": 36,
+          "views": 37,
           "date": "2026-05-14T22:04:01Z",
           "category": "development"
         },
@@ -52737,7 +53681,7 @@
         {
           "id": "Gy-ky1pAF0U",
           "title": "The Blueprint of Reactivity",
-          "views": 26,
+          "views": 27,
           "date": "2026-05-16T20:24:00Z",
           "category": "development"
         },
@@ -52767,6 +53711,13 @@
           "title": "The Prisma Ecosystem Architecture",
           "views": 17,
           "date": "2026-05-08T13:24:16Z",
+          "category": "development"
+        },
+        {
+          "id": "SNgYSLZ2Ck4",
+          "title": "The Architecture of Serde",
+          "views": 1,
+          "date": "2026-06-03T23:00:12Z",
           "category": "development"
         }
       ]
@@ -52860,7 +53811,7 @@
         {
           "id": "MFiVlaMYmwM",
           "title": "Microsoft Agent Governance Toolkit",
-          "views": 59,
+          "views": 60,
           "date": "2026-05-23T04:44:12Z",
           "category": "security"
         },
@@ -52978,7 +53929,7 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 408,
+          "views": 410,
           "date": "2026-05-09T14:32:47Z",
           "category": "development"
         },
@@ -52992,7 +53943,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 191,
+          "views": 193,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },

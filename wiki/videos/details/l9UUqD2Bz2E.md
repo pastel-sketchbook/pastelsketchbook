@@ -34,7 +34,7 @@ This video examines the economic anomaly of Coca-Cola maintaining a fixed 5-cent
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 75 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `economics`)
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) — Finance · 7 views · May 20, 2026 · [Details](Dx8pFmojxL4.md) (shared: `economics`)
 - [Architecting the New Capital Regime](https://youtu.be/rjhabJ8Bx5U) — Finance · 16 views · May 21, 2026 · [Details](rjhabJ8Bx5U.md) (shared: `inflation`)
-- [마음 속의 계산기](https://youtu.be/gKYw0_jkNFI) — Programming · 9 views · Jan 11, 2026 · [Details](gKYw0_jkNFI.md) (shared: `history`)
+- [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) — Finance · 3 views · Jun 3, 2026 · [Details](P-QVC5lOMbU.md) (shared: `pricing`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

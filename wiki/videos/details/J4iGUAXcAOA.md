@@ -45,10 +45,10 @@ Welcome.  Today  we  are  diving  into  the Axum  web  framework,  a  powerful  
 ## Related Videos
 
 - [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 40 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `web` · `framework` · `middleware`)
+- [Copilot-Backed Code Review Architecture](https://youtu.be/JMk8y25qo2M) — Development · 7 views · Jun 2, 2026 · [Details](JMk8y25qo2M.md) (shared: `axum` · `rust` · `tower middleware`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `axum` · `rust` · `web`)
-- [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 741 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `axum` · `rust` · `framework`)
+- [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 744 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `axum` · `rust` · `framework`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 93 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `axum` · `web` · `framework`)
-- [Modern Dart](https://youtu.be/JBh6rzeS-Qc) — Development · 81 views · Jan 20, 2026 · [Details](JBh6rzeS-Qc.md) (shared: `type safety` · `type` · `safety`)
 
 ---
 *Auto-generated on May 2, 2026. Back to [development](../development.md) · [index](../index.md).*

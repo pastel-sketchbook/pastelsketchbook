@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T12:45:00Z",
+  "generatedAt": "2026-06-03T20:15:22Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -101,10 +101,10 @@
         },
         {
           "number": 2,
-          "title": "The Mathematics of Networks",
-          "summary": "The Poisson process models collision probability in ALOHA networks. Shannon's theorem sets the channel capacity ceiling. This chapter derives both from first principles, showing how the throughput equation predicts successful transmission in random access protocols underpinning Wi-Fi and cellular.",
-          "videoIds": ["s585HlqiyMQ", "FDYu2fllfuE"],
-          "tags": ["algorithms", "probability", "networks", "aloha"]
+          "title": "The Mathematics of Probability and Risk",
+          "summary": "The Poisson process and Tweedie distributions model random events from network collisions to insurance claims. Shannon's theorem sets the channel capacity ceiling. This chapter derives these probability mechanics from first principles, showing how the throughput equation predicts Wi-Fi transmission and GLMs calculate actuarial risk.",
+          "videoIds": ["s585HlqiyMQ", "FDYu2fllfuE", "P-QVC5lOMbU"],
+          "tags": ["algorithms", "probability", "networks", "aloha", "actuarial", "risk"]
         },
         {
           "number": 3,
@@ -131,14 +131,14 @@
           "number": 6,
           "title": "The Rust Architect's Toolkit",
           "summary": "Separate IO-bound (Tokio) from CPU-bound (Rayon). Use Tower as a universal service abstraction. Bifurcate errors between thiserror (library) and anyhow (application). Trace with structured spans. This chapter is the opinionated field guide for production Rust.",
-          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU", "uz8nmkTPEpg", "9HUPNhA3OrI", "TpyKC8_30xs", "S3Vc_R-HezY", "cDNqrUa260k", "d3JxtD__-L0", "uiU9K1hIQBo"],
+          "videoIds": ["7zFqW-ZcEbo", "0Sed1oggMKY", "F59lTcC6xJ0", "js95nIDeA-c", "xVmoqBYlQMU", "uz8nmkTPEpg", "9HUPNhA3OrI", "TpyKC8_30xs", "S3Vc_R-HezY", "cDNqrUa260k", "d3JxtD__-L0", "uiU9K1hIQBo", "JMk8y25qo2M"],
           "tags": ["rust", "tokio", "tower", "error-handling", "sqlx", "cargo", "clippy", "bevy", "duckdb", "llama-cpp"]
         },
         {
           "number": 7,
           "title": "Serialization and Type Safety",
           "summary": "Serde's derive macros, RON as a human-readable alternative to JSON, feature flags for conditional compilation, and Rust's error handling taxonomy (thiserror for libraries, anyhow for applications). This chapter covers the data boundary where types meet the outside world.",
-          "videoIds": ["RDa6WtZmW8E", "NhYb7QkBdMs", "ZlEq2jFb8tI", "WdK7PED1ug8", "bAoDvQgmGjM"],
+          "videoIds": ["RDa6WtZmW8E", "NhYb7QkBdMs", "ZlEq2jFb8tI", "WdK7PED1ug8", "bAoDvQgmGjM", "SNgYSLZ2Ck4"],
           "tags": ["serde", "serialization", "rust", "type-safety"]
         },
         {

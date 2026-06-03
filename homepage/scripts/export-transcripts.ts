@@ -113,9 +113,10 @@ async function getTranscript(videoId: string, maxChars: number): Promise<Transcr
 
   for (let attempt = 1; attempt <= TRANSCRIPT_RETRIES; attempt++) {
     try {
+      // Use `--` separator so IDs starting with `-` are not parsed as flags.
       const result = execFileSync(
         YT_TRANSCRIPT_BIN,
-        [videoId, '--max-chars', String(maxChars)],
+        ['--max-chars', String(maxChars), '--', videoId],
         { encoding: 'utf-8', timeout: 30_000, stdio: ['pipe', 'pipe', 'pipe'] },
       )
       return { transcript: result.trim(), error: null }

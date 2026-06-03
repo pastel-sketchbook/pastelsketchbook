@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-06-02
+updated: 2026-06-04
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 168
+Total topics: 170
 
 ## Topics
 
@@ -149,6 +149,7 @@ Total topics: 168
 - [revsets](revsets.md) (2)
 - [risk management](risk-management.md) (2)
 - [rolling updates](rolling-updates.md) (2)
+- [rust async runtime](rust-async-runtime.md) (2)
 - [rust machine learning](rust-machine-learning.md) (2)
 - [saga pattern](saga-pattern.md) (2)
 - [saml](saml.md) (2)
@@ -165,6 +166,7 @@ Total topics: 168
 - [time complexity](time-complexity.md) (2)
 - [tokio](tokio.md) (2)
 - [tokio runtime](tokio-runtime.md) (2)
+- [tower middleware](tower-middleware.md) (2)
 - [tower service trait](tower-service-trait.md) (2)
 - [travel diary](travel-diary.md) (2)
 - [tree-sitter](tree-sitter.md) (2)
@@ -181,4 +183,4 @@ Total topics: 168
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Jun 2, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Jun 3, 2026. Back to [videos index](../index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [ownership-and-borrowing]
 sources: 2
-updated: 2026-06-02
+updated: 2026-06-04
 ---
 
 # ownership and borrowing
@@ -15,4 +15,4 @@ Videos connected by the topic `ownership and borrowing`.
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 35 views · Jan 6, 2026 · [Details](../details/axvxGj3yOgA.md)
 
 ---
-*Auto-generated on Jun 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 3, 2026. Back to [topic index](index.md).*

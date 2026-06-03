@@ -276,3 +276,23 @@ Synced 373 videos across 6 categories (korea=20, finance=30, kubernetes=70, deve
 ## [2026-06-02] ingest | Video Transcripts
 
 Exported 6 transcript files (all videos) to `wiki/raw/transcripts`.
+
+## [2026-06-03] ingest | Video Metadata Sync
+
+Synced 376 videos across 6 categories (korea=20, finance=31, kubernetes=70, development=233, security=14, programming=8).
+
+## [2026-06-03] ingest | Video Transcripts
+
+Exported 1 transcript files (single: -tZGlR8Zztg) to `wiki/raw/transcripts`.
+
+## [2026-06-03] enrich | Released Hidden Videos & Book Sync
+
+Removed 3 videos from `HIDDEN_VIDEO_IDS` in `homepage/src/config/videos.ts`: `P-QVC5lOMbU` (The Architecture of Insurance Pricing), `JMk8y25qo2M` (Copilot-Backed Code Review Architecture), and `SNgYSLZ2Ck4` (The Architecture of Serde). Classified and placed them in `books.json`:
+- `P-QVC5lOMbU` → Internals Companion Ch2 (The Mathematics of Probability and Risk)
+- `JMk8y25qo2M` → Internals Companion Ch6 (The Rust Architect's Toolkit)
+- `SNgYSLZ2Ck4` → Internals Companion Ch7 (Serialization and Type Safety)
+Regenerated the wiki bundle and verified that the homepage build passes.
+
+## [2026-06-04] ingest | Video Metadata Sync
+
+Synced 376 videos across 6 categories (korea=20, finance=31, kubernetes=70, development=233, security=14, programming=8).

@@ -68,8 +68,13 @@ fn parseArgs() !Args {
 
     var result = Args{};
 
+    var positional_only = false;
     while (it.next()) |arg| {
-        if (std.mem.eql(u8, arg, "--help") or std.mem.eql(u8, arg, "-h")) {
+        if (positional_only) {
+            result.video_id = arg;
+        } else if (std.mem.eql(u8, arg, "--")) {
+            positional_only = true;
+        } else if (std.mem.eql(u8, arg, "--help") or std.mem.eql(u8, arg, "-h")) {
             return error.ShowHelp;
         } else if (std.mem.eql(u8, arg, "--lang")) {
             result.lang = it.next() orelse return error.MissingArgValue;
@@ -112,6 +117,7 @@ fn printUsage() void {
         \\  yt-transcript dQw4w9WgXcQ
         \\  yt-transcript dQw4w9WgXcQ --lang en --max-chars 30000
         \\  yt-transcript dQw4w9WgXcQ --format json
+        \\  yt-transcript -- -tZGlR8Zztg          # use -- for IDs starting with -
         \\
     ;
     std.fs.File.stdout().writeAll(msg) catch {};

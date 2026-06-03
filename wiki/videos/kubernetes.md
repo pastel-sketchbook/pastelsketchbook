@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, azure, rabbitmq, cue, k8s, rust, go, shift left]
 sources: 70
-updated: 2026-06-02
+updated: 2026-06-04
 ---
 
 # Kubernetes
@@ -155,7 +155,7 @@ updated: 2026-06-02
 
 ### CUE (5 videos)
 
-- [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) -- 14 views, Mar 16, 2026 · [Details](details/to1PClyd0YA.md)
+- [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) -- 15 views, Mar 16, 2026 · [Details](details/to1PClyd0YA.md)
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) -- 28 views, Mar 16, 2026 · [Details](details/LUOX5xkSyi0.md)
 - [Kubernetes Auto-Scaling Strategies](https://youtu.be/y3WwL48DLYw) -- 29 views, Feb 23, 2026 · [Details](details/y3WwL48DLYw.md)
 - [Bridging Helm and CUE for Deterministic Value Composition](https://youtu.be/7eoxSgjwYlM) -- 26 views, Feb 19, 2026 · [Details](details/7eoxSgjwYlM.md)
@@ -171,7 +171,7 @@ updated: 2026-06-02
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Architecting Kubernetes Operators | 12 | May 31, 2026 | [Watch](https://youtu.be/hvkvH7i8NLc) | [Wiki](details/hvkvH7i8NLc.md) |
+| 1 | Architecting Kubernetes Operators | 18 | May 31, 2026 | [Watch](https://youtu.be/hvkvH7i8NLc) | [Wiki](details/hvkvH7i8NLc.md) |
 | 2 | Introducing ExtendDB | 38 | May 24, 2026 | [Watch](https://youtu.be/LxI5YjCUswI) | [Wiki](details/LxI5YjCUswI.md) |
 | 3 | Seamless GitOps on Azure | 10 | May 22, 2026 | [Watch](https://youtu.be/9ga0NT3ZohQ) | [Wiki](details/9ga0NT3ZohQ.md) |
 | 4 | The Complete Local Azure Environment | 20 | May 16, 2026 | [Watch](https://youtu.be/u_ooo1WDAc8) | [Wiki](details/u_ooo1WDAc8.md) |
@@ -181,7 +181,7 @@ updated: 2026-06-02
 | 8 | DevSecOps on Azure Kubernetes Service | 23 | Apr 29, 2026 | [Watch](https://youtu.be/-e7kvcUXxtw) | [Wiki](details/-e7kvcUXxtw.md) |
 | 9 | Architecting Cost Efficiency for Al Workloads | 25 | Apr 25, 2026 | [Watch](https://youtu.be/eaPXjvB194w) | [Wiki](details/eaPXjvB194w.md) |
 | 10 | Enterprise Infrastructure as Code for Al Agents | 67 | Apr 25, 2026 | [Watch](https://youtu.be/quD4pyCwKB4) | [Wiki](details/quD4pyCwKB4.md) |
-| 11 | Kubernetes 1.36 (Haru) | 59 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
+| 11 | Kubernetes 1.36 (Haru) | 62 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
 | 12 | Architecting Modern Deployments | 16 | Apr 22, 2026 | [Watch](https://youtu.be/eZNBXDUc8OQ) | [Wiki](details/eZNBXDUc8OQ.md) |
 | 13 | Scaling Node.js from PM2 to Cloud-Native Orchestration | 21 | Apr 22, 2026 | [Watch](https://youtu.be/p9LNSeAt5Zw) | [Wiki](details/p9LNSeAt5Zw.md) |
 | 14 | The Cloud Rosetta Stone | 23 | Apr 18, 2026 | [Watch](https://youtu.be/PMgUhFxrjPc) | [Wiki](details/PMgUhFxrjPc.md) |
@@ -201,7 +201,7 @@ updated: 2026-06-02
 | 28 | Continuous Flow | 15 | Mar 22, 2026 | [Watch](https://youtu.be/tcrNdx1yH_E) | [Wiki](details/tcrNdx1yH_E.md) |
 | 29 | The Architecture of Modern Identity | 62 | Mar 18, 2026 | [Watch](https://youtu.be/n-Yt33ZdEHw) | [Wiki](details/n-Yt33ZdEHw.md) |
 | 30 | Modern Hybrid Identity  | 8 | Mar 17, 2026 | [Watch](https://youtu.be/nJ10P-fRqZQ) | [Wiki](details/nJ10P-fRqZQ.md) |
-| 31 | Architecting Kubernetes with CUE | 14 | Mar 16, 2026 | [Watch](https://youtu.be/to1PClyd0YA) | [Wiki](details/to1PClyd0YA.md) |
+| 31 | Architecting Kubernetes with CUE | 15 | Mar 16, 2026 | [Watch](https://youtu.be/to1PClyd0YA) | [Wiki](details/to1PClyd0YA.md) |
 | 32 | CUE: Navigating the Core Features | 28 | Mar 16, 2026 | [Watch](https://youtu.be/LUOX5xkSyi0) | [Wiki](details/LUOX5xkSyi0.md) |
 | 33 | The Data Singularity in Microsoft Fabric | 17 | Mar 13, 2026 | [Watch](https://youtu.be/u60g2nMtVi4) | [Wiki](details/u60g2nMtVi4.md) |
 | 34 | Architecting AKS Networking - Trade-offs | 14 | Mar 12, 2026 | [Watch](https://youtu.be/F09-7mNt3F4) | [Wiki](details/F09-7mNt3F4.md) |
@@ -254,4 +254,4 @@ updated: 2026-06-02
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on Jun 2, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 3, 2026. Back to [index](index.md).*

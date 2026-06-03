@@ -37,7 +37,7 @@ This session reimagines IBM's classic Java Robocode as a modern, data-driven eng
 
 - [Beat - Anatomy of a Real-Time Visualizer](https://youtu.be/lin_ycbQGtE) — Development · 27 views · Mar 20, 2026 · [Details](lin_ycbQGtE.md) (shared: `bevy` · `engine` · `rust`)
 - [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 73 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `rust` · `architecture` · `trait`)
-- [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) — Development · 148 views · Mar 18, 2026 · [Details](_zJ3_d1CODg.md) (shared: `bevy` · `engine` · `rust`)
+- [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) — Development · 151 views · Mar 18, 2026 · [Details](_zJ3_d1CODg.md) (shared: `bevy` · `engine` · `rust`)
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `engine` · `rust` · `architecture`)
 - [Architectural Evolution of a Vision Tool](https://youtu.be/Qv9X3ZY474U) — Development · 53 views · Mar 28, 2026 · [Details](Qv9X3ZY474U.md) (shared: `rust` · `ffi` · `memory`)
 

@@ -32,10 +32,10 @@ This video presents an architectural deep dive into Hatcha, an open-source Flutt
 ## Related Videos
 
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `flutter` · `architecture` · `state`)
-- [The Blueprint of Reactivity](https://youtu.be/Gy-ky1pAF0U) — Development · 26 views · May 16, 2026 · [Details](Gy-ky1pAF0U.md) (shared: `flutter` · `architecture` · `state`)
+- [The Blueprint of Reactivity](https://youtu.be/Gy-ky1pAF0U) — Development · 27 views · May 16, 2026 · [Details](Gy-ky1pAF0U.md) (shared: `flutter` · `architecture` · `state`)
 - [A Desktop-First Export Strategy for SlideVoice Studio](https://youtu.be/78hLFt3_Gh4) — Development · 31 views · May 29, 2026 · [Details](78hLFt3_Gh4.md) (shared: `flutter` · `architecture` · `state`)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 96 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `server` · `agent` · `architecture`)
-- [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 52 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `generative` · `flutter`)
+- [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 53 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `generative` · `flutter`)
 
 ---
 *Auto-generated on Jun 2, 2026. Back to [development](../development.md) · [index](../index.md).*
