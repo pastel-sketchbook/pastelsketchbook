@@ -20,28 +20,30 @@ const Args = struct {
 
 // ── Entry ──
 
-pub fn main() !void {
-    var gpa = std.heap.GeneralPurposeAllocator(.{}){};
+pub fn main(init: std.process.Init) !void {
+    const io = init.io;
+
+    var gpa = std.heap.DebugAllocator(.{}){};
     defer _ = gpa.deinit();
     const allocator = gpa.allocator();
 
-    const args = parseArgs() catch |err| {
+    const args = parseArgs(init.minimal.args) catch |err| {
         switch (err) {
             error.ShowHelp => {
-                printUsage();
+                printUsage(io);
                 return;
             },
             else => {
-                printUsage();
+                printUsage(io);
                 std.process.exit(1);
             },
         }
     };
 
-    const segments = fetchTranscript(allocator, args.video_id, args.lang) catch |err| {
+    const segments = fetchTranscript(allocator, io, args.video_id, args.lang) catch |err| {
         var buf: [256]u8 = undefined;
         const msg = std.fmt.bufPrint(&buf, "error: failed to fetch transcript: {s}\n", .{@errorName(err)}) catch "error: failed to fetch transcript\n";
-        std.fs.File.stderr().writeAll(msg) catch {};
+        std.Io.File.stderr().writeStreamingAll(io, msg) catch {};
         std.process.exit(1);
     };
     defer {
@@ -50,20 +52,20 @@ pub fn main() !void {
     }
 
     if (segments.len == 0) {
-        try std.fs.File.stderr().writeAll("error: no transcript segments found\n");
+        try std.Io.File.stderr().writeStreamingAll(io, "error: no transcript segments found\n");
         std.process.exit(1);
     }
 
     switch (args.format) {
-        .text => writeText(segments, args.max_chars) catch std.process.exit(1),
-        .json => writeJson(segments) catch std.process.exit(1),
+        .text => writeText(io, segments, args.max_chars) catch std.process.exit(1),
+        .json => writeJson(io, segments) catch std.process.exit(1),
     }
 }
 
 // ── Arg parsing ──
 
-fn parseArgs() !Args {
-    var it = std.process.args();
+fn parseArgs(args: std.process.Args) !Args {
+    var it = std.process.Args.Iterator.init(args);
     _ = it.next(); // skip program name
 
     var result = Args{};
@@ -101,7 +103,7 @@ fn parseArgs() !Args {
     return result;
 }
 
-fn printUsage() void {
+fn printUsage(io: std.Io) void {
     const msg =
         \\Usage: yt-transcript <video-id> [options]
         \\
@@ -120,7 +122,7 @@ fn printUsage() void {
         \\  yt-transcript -- -tZGlR8Zztg          # use -- for IDs starting with -
         \\
     ;
-    std.fs.File.stdout().writeAll(msg) catch {};
+    std.Io.File.stdout().writeStreamingAll(io, msg) catch {};
 }
 
 // ── HTTP helpers ──
@@ -133,8 +135,8 @@ fn readResponseBody(allocator: std.mem.Allocator, response: *http.Client.Respons
     return try reader.allocRemaining(allocator, std.Io.Limit.limited(4 * 1024 * 1024));
 }
 
-fn httpGet(allocator: std.mem.Allocator, url: []const u8) ![]const u8 {
-    var client = http.Client{ .allocator = allocator };
+fn httpGet(allocator: std.mem.Allocator, io: std.Io, url: []const u8) ![]const u8 {
+    var client = http.Client{ .allocator = allocator, .io = io };
     defer client.deinit();
 
     const uri = try std.Uri.parse(url);
@@ -155,8 +157,8 @@ fn httpGet(allocator: std.mem.Allocator, url: []const u8) ![]const u8 {
     return readResponseBody(allocator, &response);
 }
 
-fn httpPost(allocator: std.mem.Allocator, url: []const u8, payload: []const u8) ![]const u8 {
-    var client = http.Client{ .allocator = allocator };
+fn httpPost(allocator: std.mem.Allocator, io: std.Io, url: []const u8, payload: []const u8) ![]const u8 {
+    var client = http.Client{ .allocator = allocator, .io = io };
     defer client.deinit();
 
     const uri = try std.Uri.parse(url);
@@ -183,34 +185,34 @@ fn httpPost(allocator: std.mem.Allocator, url: []const u8, payload: []const u8) 
 
 // ── Transcript fetching ──
 
-fn fetchTranscript(allocator: std.mem.Allocator, video_id: []const u8, lang: []const u8) ![]Segment {
-    const caption_url = getCaptionUrlInnertube(allocator, video_id, lang) catch
-        try getCaptionUrlWatchPage(allocator, video_id, lang);
+fn fetchTranscript(allocator: std.mem.Allocator, io: std.Io, video_id: []const u8, lang: []const u8) ![]Segment {
+    const caption_url = getCaptionUrlInnertube(allocator, io, video_id, lang) catch
+        try getCaptionUrlWatchPage(allocator, io, video_id, lang);
     defer allocator.free(caption_url);
 
-    const xml = try httpGet(allocator, caption_url);
+    const xml = try httpGet(allocator, io, caption_url);
     defer allocator.free(xml);
 
     return parseTranscriptXml(allocator, xml);
 }
 
-fn getCaptionUrlInnertube(allocator: std.mem.Allocator, video_id: []const u8, lang: []const u8) ![]const u8 {
+fn getCaptionUrlInnertube(allocator: std.mem.Allocator, io: std.Io, video_id: []const u8, lang: []const u8) ![]const u8 {
     const payload = try std.fmt.allocPrint(allocator,
         \\{{"context":{{"client":{{"clientName":"ANDROID","clientVersion":"20.10.38"}}}},"videoId":"{s}"}}
     , .{video_id});
     defer allocator.free(payload);
 
-    const body = try httpPost(allocator, "https://www.youtube.com/youtubei/v1/player?prettyPrint=false", payload);
+    const body = try httpPost(allocator, io, "https://www.youtube.com/youtubei/v1/player?prettyPrint=false", payload);
     defer allocator.free(body);
 
     return extractCaptionUrl(allocator, body, lang);
 }
 
-fn getCaptionUrlWatchPage(allocator: std.mem.Allocator, video_id: []const u8, lang: []const u8) ![]const u8 {
+fn getCaptionUrlWatchPage(allocator: std.mem.Allocator, io: std.Io, video_id: []const u8, lang: []const u8) ![]const u8 {
     const url = try std.fmt.allocPrint(allocator, "https://www.youtube.com/watch?v={s}", .{video_id});
     defer allocator.free(url);
 
-    const html = try httpGet(allocator, url);
+    const html = try httpGet(allocator, io, url);
     defer allocator.free(html);
 
     if (std.mem.indexOf(u8, html, "class=\"g-recaptcha\"") != null) {
@@ -296,7 +298,7 @@ fn findFirstBaseUrl(allocator: std.mem.Allocator, region: []const u8) ?[]const u
 }
 
 fn unescapeJsonUrl(allocator: std.mem.Allocator, escaped: []const u8) ![]const u8 {
-    var result = std.ArrayListUnmanaged(u8){};
+    var result = std.ArrayListUnmanaged(u8).empty;
     errdefer result.deinit(allocator);
 
     var i: usize = 0;
@@ -319,7 +321,7 @@ fn unescapeJsonUrl(allocator: std.mem.Allocator, escaped: []const u8) ![]const u
 // ── XML parsing ──
 
 fn parseTranscriptXml(allocator: std.mem.Allocator, xml: []const u8) ![]Segment {
-    var segments = std.ArrayListUnmanaged(Segment){};
+    var segments = std.ArrayListUnmanaged(Segment).empty;
     errdefer {
         for (segments.items) |seg| allocator.free(seg.text);
         segments.deinit(allocator);
@@ -364,7 +366,7 @@ fn parseSrv3(allocator: std.mem.Allocator, xml: []const u8, segments: *std.Array
         };
 
         // Extract text from <s> tags
-        var text_buf = std.ArrayListUnmanaged(u8){};
+        var text_buf = std.ArrayListUnmanaged(u8).empty;
         defer text_buf.deinit(allocator);
 
         var s_pos: usize = 0;
@@ -452,7 +454,7 @@ fn extractAttr(tag: []const u8, name: []const u8) ?[]const u8 {
 // ── HTML entity decoding ──
 
 fn decodeEntities(allocator: std.mem.Allocator, input: []const u8) ![]const u8 {
-    var result = std.ArrayListUnmanaged(u8){};
+    var result = std.ArrayListUnmanaged(u8).empty;
     errdefer result.deinit(allocator);
 
     var i: usize = 0;
@@ -499,34 +501,37 @@ fn matchEntity(s: []const u8) ?EntityMatch {
 
 // ── Output formatting ──
 
-fn writeText(segments: []const Segment, max_chars: usize) !void {
-    const stdout = std.fs.File.stdout();
+fn writeText(io: std.Io, segments: []const Segment, max_chars: usize) !void {
+    var buf: [4096]u8 = undefined;
+    var fw = std.Io.File.stdout().writer(io, &buf);
+    const writer = &fw.interface;
+
     var written: usize = 0;
     for (segments, 0..) |seg, i| {
         if (max_chars > 0 and written >= max_chars) break;
 
         if (i > 0) {
-            try stdout.writeAll(" ");
+            try writer.writeAll(" ");
             written += 1;
         }
 
         if (max_chars > 0 and written + seg.text.len > max_chars) {
             const remaining = max_chars - written;
-            try stdout.writeAll(seg.text[0..remaining]);
+            try writer.writeAll(seg.text[0..remaining]);
             break;
         }
 
-        try stdout.writeAll(seg.text);
+        try writer.writeAll(seg.text);
         written += seg.text.len;
     }
-    try stdout.writeAll("\n");
+    try writer.writeAll("\n");
+    try writer.flush();
 }
 
-fn writeJson(segments: []const Segment) !void {
-    const stdout = std.fs.File.stdout();
+fn writeJson(io: std.Io, segments: []const Segment) !void {
     var buf: [512]u8 = undefined;
-    var w = stdout.writer(&buf);
-    const writer = &w.interface;
+    var fw = std.Io.File.stdout().writer(io, &buf);
+    const writer = &fw.interface;
 
     try writer.writeAll("[");
     for (segments, 0..) |seg, i| {
@@ -577,7 +582,7 @@ test "extract attribute from tag" {
 
 test "parse classic XML format" {
     const alloc = std.testing.allocator;
-    var segments = std.ArrayListUnmanaged(Segment){};
+    var segments = std.ArrayListUnmanaged(Segment).empty;
     defer {
         for (segments.items) |seg| alloc.free(seg.text);
         segments.deinit(alloc);
@@ -605,7 +610,7 @@ test "unescape JSON URL" {
 
 test "parse srv3 XML format" {
     const alloc = std.testing.allocator;
-    var segments = std.ArrayListUnmanaged(Segment){};
+    var segments = std.ArrayListUnmanaged(Segment).empty;
     defer {
         for (segments.items) |seg| alloc.free(seg.text);
         segments.deinit(alloc);
