@@ -31,10 +31,10 @@ This video examines the economic anomaly of Coca-Cola maintaining a fixed 5-cent
 ## Related Videos
 
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `price`)
-- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 75 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `economics`)
+- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 76 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `economics`)
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) — Finance · 7 views · May 20, 2026 · [Details](Dx8pFmojxL4.md) (shared: `economics`)
 - [Architecting the New Capital Regime](https://youtu.be/rjhabJ8Bx5U) — Finance · 16 views · May 21, 2026 · [Details](rjhabJ8Bx5U.md) (shared: `inflation`)
-- [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) — Finance · 3 views · Jun 3, 2026 · [Details](P-QVC5lOMbU.md) (shared: `pricing`)
+- [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) — Finance · 4 views · Jun 3, 2026 · [Details](P-QVC5lOMbU.md) (shared: `pricing`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

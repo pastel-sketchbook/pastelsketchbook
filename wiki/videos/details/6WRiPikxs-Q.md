@@ -35,7 +35,7 @@ This analysis explores the 'architect's baton' concept, detailing the transition
 
 ## Related Videos
 
-- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 94 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `architecture` · `opentelemetry` · `distributed`)
+- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 95 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `architecture` · `opentelemetry` · `distributed`)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 39 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `architecture` · `opentelemetry` · `distributed`)
 - [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 110 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `opentelemetry` · `distributed` · `context`)
 - [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 18 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `architecture` · `distributed` · `management`)

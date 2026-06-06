@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, azure, rabbitmq, cue, k8s, rust, go, shift left]
 sources: 70
-updated: 2026-06-04
+updated: 2026-06-06
 ---
 
 # Kubernetes
@@ -107,7 +107,7 @@ updated: 2026-06-04
 
 ### Messaging (8 videos)
 
-- [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) -- 45 views, May 7, 2026 · [Details](details/V9tvg6Yg3m4.md)
+- [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) -- 46 views, May 7, 2026 · [Details](details/V9tvg6Yg3m4.md)
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) -- 21 views, Apr 7, 2026 · [Details](details/KdLQEv3Tiiw.md)
 - [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) -- 75 views, Apr 5, 2026 · [Details](details/WRpjJV4SUKc.md)
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) -- 26 views, Apr 4, 2026 · [Details](details/7iWL5-0C66s.md)
@@ -132,7 +132,7 @@ updated: 2026-06-04
 - [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) -- 23 views, Apr 29, 2026 · [Details](details/-e7kvcUXxtw.md)
 - [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) -- 56 views, Feb 5, 2026 · [Details](details/rgY4KTMFOMs.md)
 - [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) -- 31 views, Jan 27, 2026 · [Details](details/KpSjLQpswW4.md)
-- [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 44 views, Jan 17, 2026 · [Details](details/4b-H6ZaoNUE.md)
+- [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 46 views, Jan 17, 2026 · [Details](details/4b-H6ZaoNUE.md)
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) -- 47 views, Jan 16, 2026 · [Details](details/0U-SUJCmKAU.md)
 - [A Blueprint for Secure Azure Authentication in Go](https://youtu.be/R2zktRqz81U) -- 18 views, Jan 12, 2026 · [Details](details/R2zktRqz81U.md)
 - [Securely Exposing AKS Applications](https://youtu.be/A7eoKD5m6Ek) -- 9 views, Jan 8, 2026 · [Details](details/A7eoKD5m6Ek.md)
@@ -142,7 +142,7 @@ updated: 2026-06-04
 - [Introducing ExtendDB](https://youtu.be/LxI5YjCUswI) -- 38 views, May 24, 2026 · [Details](details/LxI5YjCUswI.md)
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 76 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) -- 18 views, Apr 11, 2026 · [Details](details/a8heWpae5p0.md)
-- [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 44 views, Jan 17, 2026 · [Details](details/4b-H6ZaoNUE.md)
+- [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 46 views, Jan 17, 2026 · [Details](details/4b-H6ZaoNUE.md)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) -- 23 views, Jan 14, 2026 · [Details](details/A4-foXsdQiA.md)
 
 ### Identity & Auth (5 videos)
@@ -150,7 +150,7 @@ updated: 2026-06-04
 - [The Architecture of Modern Identity](https://youtu.be/n-Yt33ZdEHw) -- 62 views, Mar 18, 2026 · [Details](details/n-Yt33ZdEHw.md)
 - [Modern Hybrid Identity ](https://youtu.be/nJ10P-fRqZQ) -- 8 views, Mar 17, 2026 · [Details](details/nJ10P-fRqZQ.md)
 - [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) -- 56 views, Feb 5, 2026 · [Details](details/rgY4KTMFOMs.md)
-- [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 44 views, Jan 17, 2026 · [Details](details/4b-H6ZaoNUE.md)
+- [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 46 views, Jan 17, 2026 · [Details](details/4b-H6ZaoNUE.md)
 - [A Blueprint for Secure Azure Authentication in Go](https://youtu.be/R2zktRqz81U) -- 18 views, Jan 12, 2026 · [Details](details/R2zktRqz81U.md)
 
 ### CUE (5 videos)
@@ -176,12 +176,12 @@ updated: 2026-06-04
 | 3 | Seamless GitOps on Azure | 10 | May 22, 2026 | [Watch](https://youtu.be/9ga0NT3ZohQ) | [Wiki](details/9ga0NT3ZohQ.md) |
 | 4 | The Complete Local Azure Environment | 20 | May 16, 2026 | [Watch](https://youtu.be/u_ooo1WDAc8) | [Wiki](details/u_ooo1WDAc8.md) |
 | 5 | The Anatomy of Kubernetes | 27 | May 12, 2026 | [Watch](https://youtu.be/WrZN5AgpaW4) | [Wiki](details/WrZN5AgpaW4.md) |
-| 6 | From Consensus Physics to Messaging Engineering | 45 | May 7, 2026 | [Watch](https://youtu.be/V9tvg6Yg3m4) | [Wiki](details/V9tvg6Yg3m4.md) |
+| 6 | From Consensus Physics to Messaging Engineering | 46 | May 7, 2026 | [Watch](https://youtu.be/V9tvg6Yg3m4) | [Wiki](details/V9tvg6Yg3m4.md) |
 | 7 | Istio-Based Weighted Traffic Management on AKS | 12 | May 6, 2026 | [Watch](https://youtu.be/4YsX6tYi5x4) | [Wiki](details/4YsX6tYi5x4.md) |
 | 8 | DevSecOps on Azure Kubernetes Service | 23 | Apr 29, 2026 | [Watch](https://youtu.be/-e7kvcUXxtw) | [Wiki](details/-e7kvcUXxtw.md) |
 | 9 | Architecting Cost Efficiency for Al Workloads | 25 | Apr 25, 2026 | [Watch](https://youtu.be/eaPXjvB194w) | [Wiki](details/eaPXjvB194w.md) |
 | 10 | Enterprise Infrastructure as Code for Al Agents | 67 | Apr 25, 2026 | [Watch](https://youtu.be/quD4pyCwKB4) | [Wiki](details/quD4pyCwKB4.md) |
-| 11 | Kubernetes 1.36 (Haru) | 62 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
+| 11 | Kubernetes 1.36 (Haru) | 63 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
 | 12 | Architecting Modern Deployments | 16 | Apr 22, 2026 | [Watch](https://youtu.be/eZNBXDUc8OQ) | [Wiki](details/eZNBXDUc8OQ.md) |
 | 13 | Scaling Node.js from PM2 to Cloud-Native Orchestration | 21 | Apr 22, 2026 | [Watch](https://youtu.be/p9LNSeAt5Zw) | [Wiki](details/p9LNSeAt5Zw.md) |
 | 14 | The Cloud Rosetta Stone | 23 | Apr 18, 2026 | [Watch](https://youtu.be/PMgUhFxrjPc) | [Wiki](details/PMgUhFxrjPc.md) |
@@ -225,7 +225,7 @@ updated: 2026-06-04
 | 52 | Dragonfly on AKS | 21 | Jan 31, 2026 | [Watch](https://youtu.be/Q4qm1hvVR2A) | [Wiki](details/Q4qm1hvVR2A.md) |
 | 53 | The 2026 Architectural Standard | 54 | Jan 31, 2026 | [Watch](https://youtu.be/WHonjixQgBY) | [Wiki](details/WHonjixQgBY.md) |
 | 54 | Secure Service-to-Service Authorization with SpiceDB | 31 | Jan 27, 2026 | [Watch](https://youtu.be/KpSjLQpswW4) | [Wiki](details/KpSjLQpswW4.md) |
-| 55 | Zero Trust in Kubernetes | 44 | Jan 17, 2026 | [Watch](https://youtu.be/4b-H6ZaoNUE) | [Wiki](details/4b-H6ZaoNUE.md) |
+| 55 | Zero Trust in Kubernetes | 46 | Jan 17, 2026 | [Watch](https://youtu.be/4b-H6ZaoNUE) | [Wiki](details/4b-H6ZaoNUE.md) |
 | 56 | The 100+ Service Problem | 27 | Jan 16, 2026 | [Watch](https://youtu.be/_sxPf3tHq3s) | [Wiki](details/_sxPf3tHq3s.md) |
 | 57 | From Stateful to Secure | 47 | Jan 16, 2026 | [Watch](https://youtu.be/0U-SUJCmKAU) | [Wiki](details/0U-SUJCmKAU.md) |
 | 58 | The Two-System Pattern | 14 | Jan 15, 2026 | [Watch](https://youtu.be/VxWyvAO3qb8) | [Wiki](details/VxWyvAO3qb8.md) |
@@ -249,9 +249,9 @@ updated: 2026-06-04
 ## See Also
 
 - [Security](security.md) -- shared tags: `ai`, `shift left`, `agent`, `governance`, `security`, `azure`, `orchestration`
-- [Development](development.md) -- shared tags: `ai`, `curiosity`, `shift left`, `agent`, `rust`, `go`, `internal`, `rabbitmq`, `skill`, `cloud`, `scylladb`, `cdc`, `java`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `copilot`, `engineering`, `migration`, `identity`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `nats`, `sdk`, `messaging`
+- [Development](development.md) -- shared tags: `ai`, `curiosity`, `shift left`, `agent`, `cloud native`, `rust`, `go`, `internal`, `rabbitmq`, `skill`, `cloud`, `scylladb`, `cdc`, `java`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `copilot`, `engineering`, `migration`, `identity`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `nats`, `sdk`, `messaging`
 - [Finance](finance.md) -- shared tags: `ai`, `curiosity`
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on Jun 3, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 6, 2026. Back to [index](index.md).*

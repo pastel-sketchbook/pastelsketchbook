@@ -31,8 +31,8 @@ A scalable property tax ingestion strategy targets all 3,143 US counties by expl
 ## Related Videos
 
 - [2050: The Post-Labor Paradigm](https://youtu.be/ybR0RxXj2_M) — Finance · 10 views · Feb 7, 2026 · [Details](ybR0RxXj2_M.md) (shared: `automation`)
-- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) — Finance · 23 views · May 21, 2026 · [Details](9xDzB24tO4I.md) (shared: `data`)
-- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 75 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data`)
+- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) — Finance · 24 views · May 21, 2026 · [Details](9xDzB24tO4I.md) (shared: `data`)
+- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 76 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 89 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data`)
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) — Finance · 7 views · May 20, 2026 · [Details](Dx8pFmojxL4.md) (shared: `data`)
 

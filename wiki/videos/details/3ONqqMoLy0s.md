@@ -39,7 +39,7 @@ This talk traces the journey from 2D images to a continuous 4D reconstruction of
 - [The Geometry of Light](https://youtu.be/_mwtz_8lBWc) — Development · 29 views · Mar 21, 2026 · [Details](_mwtz_8lBWc.md) (shared: `lighting` · `pipeline`)
 - [Neural TTS in Pastel-HN](https://youtu.be/d_0swhS1LyQ) — Development · 46 views · Feb 1, 2026 · [Details](d_0swhS1LyQ.md) (shared: `neural` · `synthesis`)
 - [The NestJS Architecture Blueprint](https://youtu.be/173Y2uPljgo) — Development · 49 views · May 4, 2026 · [Details](173Y2uPljgo.md) (shared: `hybrid` · `pipeline`)
-- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 156 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline`)
+- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 157 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline`)
 
 ---
 *Auto-generated on May 28, 2026. Back to [development](../development.md) · [index](../index.md).*

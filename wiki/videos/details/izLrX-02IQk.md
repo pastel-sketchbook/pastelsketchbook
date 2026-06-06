@@ -32,8 +32,8 @@ This video provides a technical briefing on the Rust 1.95.0 release, covering th
 
 - [From 0 to N-Dimensions](https://youtu.be/6M76N3jhh1Q) — Development · 35 views · May 19, 2026 · [Details](6M76N3jhh1Q.md) (shared: `rust` · `macro` · `crate`)
 - [Pastel Market: Engineering a Unified Terminal Workspace](https://youtu.be/feWjiYzQQ-k) — Development · 41 views · Apr 19, 2026 · [Details](feWjiYzQQ-k.md) (shared: `rust` · `crate`)
-- [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 28 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `rust` · `crate`)
-- [Rust 1.96 Ecosystem Release](https://youtu.be/cDNqrUa260k) — Development · 31 views · May 30, 2026 · [Details](cDNqrUa260k.md) (shared: `rust` · `macro`)
+- [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 29 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `rust` · `crate`)
+- [Rust 1.96 Ecosystem Release](https://youtu.be/cDNqrUa260k) — Development · 35 views · May 30, 2026 · [Details](cDNqrUa260k.md) (shared: `rust` · `macro`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust`)
 
 ---

@@ -38,7 +38,7 @@ Burn is a Rust deep learning framework built on a hardware-agnostic tensor abstr
 
 ## Related Videos
 
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 496 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `tensor` · `zero` · `learning`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 509 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `tensor` · `zero` · `learning`)
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 29 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `hardware` · `tensor` · `training`)
 - [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 75 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `tensor` · `zero` · `copy`)
 - [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 63 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `hardware` · `serialization` · `adapters`)

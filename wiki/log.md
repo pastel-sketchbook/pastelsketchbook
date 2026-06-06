@@ -296,3 +296,15 @@ Regenerated the wiki bundle and verified that the homepage build passes.
 ## [2026-06-04] ingest | Video Metadata Sync
 
 Synced 376 videos across 6 categories (korea=20, finance=31, kubernetes=70, development=233, security=14, programming=8).
+
+## [2026-06-06] ingest | Video Metadata Sync
+
+Synced 380 videos across 6 categories (korea=20, finance=32, kubernetes=70, development=236, security=14, programming=8).
+
+## [2026-06-06] ingest | Video Transcripts
+
+Exported 4 transcript files (all videos) to `wiki/raw/transcripts`.
+
+## [2026-06-06] ingest | Video Details
+
+Generated 4 video detail pages (all videos).

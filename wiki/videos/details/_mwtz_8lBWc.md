@@ -31,7 +31,7 @@ This video provides a comprehensive walkthrough of the modern 3D computer graphi
 ## Related Videos
 
 - [The Architecture of Space and Time](https://youtu.be/3ONqqMoLy0s) — Development · 29 views · May 26, 2026 · [Details](3ONqqMoLy0s.md) (shared: `pipeline` · `lighting`)
-- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 156 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline`)
+- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 157 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline`)
 - [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 17 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `tracing`)
 - [Tracing Asynchronous Rust](https://youtu.be/d1MH4nza95g) — Development · 102 views · May 3, 2026 · [Details](d1MH4nza95g.md) (shared: `pipeline` · `tracing`)
 - [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 31 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `algorithm`)

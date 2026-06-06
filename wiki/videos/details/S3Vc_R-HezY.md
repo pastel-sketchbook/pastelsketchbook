@@ -35,11 +35,11 @@ This codebase passover deck walks through ten invariants of svs-cli, a headless 
 
 ## Related Videos
 
-- [A Desktop-First Export Strategy for SlideVoice Studio](https://youtu.be/78hLFt3_Gh4) — Development · 31 views · May 29, 2026 · [Details](78hLFt3_Gh4.md) (shared: `pipeline` · `api` · `gemini`)
+- [A Desktop-First Export Strategy for SlideVoice Studio](https://youtu.be/78hLFt3_Gh4) — Development · 32 views · May 29, 2026 · [Details](78hLFt3_Gh4.md) (shared: `pipeline` · `api` · `gemini`)
+- [SlideVoice Studio Swift](https://youtu.be/r1rhrISQXeA) — Development · 11 views · Jun 4, 2026 · [Details](r1rhrISQXeA.md) (shared: `api` · `gemini` · `ffmpeg`)
 - [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 31 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `api` · `slide` · `gemini`)
-- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 156 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline` · `layout`)
+- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 157 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline` · `layout`)
 - [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 61 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `cache` · `layout`)
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 72 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `cache` · `layout`)
 
 ---
 *Auto-generated on May 25, 2026. Back to [development](../development.md) · [index](../index.md).*

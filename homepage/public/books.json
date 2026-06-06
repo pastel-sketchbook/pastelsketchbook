@@ -53,14 +53,14 @@
           "number": 7,
           "title": "The Architecture of Wealth",
           "summary": "Before strategy comes psychology. The hedonic treadmill ensures rising income produces no lasting happiness gain — so wealth building starts with mindset, not spreadsheets. This chapter covers the three pillars (401k, Social Security, IRA), the retirement red zone, and compound interest as life's most underrated force.",
-          "videoIds": ["nfD3KzIriM8", "K1O4kHjFJaQ", "KBfVy5-M-5k", "MBnVggs6k5g", "HFmkEvxyJE4", "SRwWBbsaQH4", "UGQ-ItKwJNw", "3bcmjx5F5Xs"],
+          "videoIds": ["nfD3KzIriM8", "K1O4kHjFJaQ", "KBfVy5-M-5k", "MBnVggs6k5g", "HFmkEvxyJE4", "SRwWBbsaQH4", "UGQ-ItKwJNw", "3bcmjx5F5Xs", "GmUKi-ZPOYU"],
           "tags": ["finance", "wealth", "retirement", "compound-interest"]
         },
         {
           "number": 8,
           "title": "The 2026 Architectural Standard",
           "summary": "The era of distributed cluster complexity is ending. ClickHouse replaces the fragmented warehouse landscape, purpose-built databases replace component chaining, and AI agents reshape the SDLC. This chapter is the manifesto for what comes next.",
-          "videoIds": ["WHonjixQgBY", "Z98SHl4nSFI", "z_W9dX6fliM", "YoIXlqspLWE", "Dx8pFmojxL4", "9xDzB24tO4I", "yXZnBtdDTFk", "nwAdb-PyRlo", "Jf1VkCXsmwU"],
+          "videoIds": ["WHonjixQgBY", "Z98SHl4nSFI", "z_W9dX6fliM", "YoIXlqspLWE", "Dx8pFmojxL4", "9xDzB24tO4I", "yXZnBtdDTFk", "nwAdb-PyRlo", "Jf1VkCXsmwU", "XHQGmyffO-s"],
           "tags": ["architecture", "ai-agents", "databases", "future"]
         },
         {
@@ -152,7 +152,7 @@
           "number": 9,
           "title": "TigerStyle and the Philosophy of Zero Debt",
           "summary": "Safety > Performance > Developer Experience. An hour of upfront design saves months of production cost. NASA's Power of Ten rules, explicit control flow, no hidden allocations. This chapter presents TigerBeetle's engineering philosophy as a systematic alternative to move-fast-break-things.",
-          "videoIds": ["-tZGlR8Zztg", "eJlXFaZNP6g", "pgTCcVO4gfg"],
+          "videoIds": ["-tZGlR8Zztg", "eJlXFaZNP6g", "pgTCcVO4gfg", "3jMQWDNqsro"],
           "tags": ["tigerstyle", "engineering-philosophy", "safety"]
         },
         {
@@ -194,7 +194,7 @@
           "number": 15,
           "title": "The Flutter/Dart Internals",
           "summary": "Dio structures the HTTP client as concentric layers — global core, interceptor ring, and pluggable adapters. Riverpod organizes state into four cooperating layers around a ProviderContainer. Genkit Dart brings type-safe AI flows to the full Dart stack. Agent skills automate testing, diagnostics, and scaffolding. This chapter deep-dives the libraries and tooling that define Flutter's ecosystem.",
-          "videoIds": ["BhzeYd4aqOQ", "Gy-ky1pAF0U", "FOkG5ScxU88", "2iIi1H9V-Hg", "TEGFwsAcxK8", "i1HT5UIccTs", "78hLFt3_Gh4"],
+          "videoIds": ["BhzeYd4aqOQ", "Gy-ky1pAF0U", "FOkG5ScxU88", "2iIi1H9V-Hg", "TEGFwsAcxK8", "i1HT5UIccTs", "78hLFt3_Gh4", "r1rhrISQXeA"],
           "tags": ["flutter", "dart", "dio", "riverpod", "genkit", "agent-skills", "ffmpeg", "desktop"]
         }
       ]

@@ -31,7 +31,7 @@ This video examines the NIST Cybersecurity Framework 2.0, highlighting its shift
 ## Related Videos
 
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 18 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `nist` · `enterprise` · `management`)
-- [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 23 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `security` · `assessment`)
+- [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 24 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `security` · `assessment`)
 - [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) — Security · 77 views · Mar 31, 2026 · [Details](Zeg8zSOvoyE.md) (shared: `framework` · `security`)
 - [From Blueprint to Battlefield](https://youtu.be/2kvYb2pVe5o) — Development · 32 views · Dec 27, 2025 · [Details](2kvYb2pVe5o.md) (shared: `nist` · `2.0` · `security`)
 - [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 49 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security`)

@@ -30,11 +30,11 @@ This video introduces Shannon, an autonomous AI agent for white-box penetration 
 
 ## Related Videos
 
-- [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 23 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `penetration` · `testing` · `security`)
+- [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 24 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `penetration` · `testing` · `security`)
 - [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) — Security · 77 views · Mar 31, 2026 · [Details](Zeg8zSOvoyE.md) (shared: `autonomous` · `security` · `exploitation`)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) — Security · 34 views · Mar 25, 2026 · [Details](CA1nlknmR3g.md) (shared: `security` · `agent`)
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 36 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `security` · `vulnerability`)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 60 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `security` · `agent`)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 69 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `security` · `agent`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [tauri-2-desktop-shell]
 sources: 2
-updated: 2026-06-04
+updated: 2026-06-06
 ---
 
 # tauri 2 desktop shell
@@ -15,4 +15,4 @@ Videos connected by the topic `tauri 2 desktop shell`.
 - [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 19 views · May 23, 2026 · [Details](../details/TpyKC8_30xs.md)
 
 ---
-*Auto-generated on Jun 3, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 6, 2026. Back to [topic index](index.md).*

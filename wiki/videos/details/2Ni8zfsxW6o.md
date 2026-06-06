@@ -30,11 +30,11 @@ This video provides a comparative analysis of two modernization strategies for m
 
 ## Related Videos
 
+- [Architecting the Next-Generation Enterprise](https://youtu.be/XHQGmyffO-s) — Development · 7 views · Jun 4, 2026 · [Details](XHQGmyffO-s.md) (shared: `modernization` · `cloud-native` · `architecture`)
 - [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 44 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `modernization` · `migration` · `cloud-native`)
 - [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 97 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `migration` · `architecture` · `system`)
 - [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) — Development · 109 views · Feb 9, 2026 · [Details](qxOOl1hx1zU.md) (shared: `architecture` · `legacy`)
 - [The Architect's Baton](https://youtu.be/6WRiPikxs-Q) — Development · 125 views · Mar 7, 2026 · [Details](6WRiPikxs-Q.md) (shared: `cloud-native` · `architecture`)
-- [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 38 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `migration` · `architecture`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

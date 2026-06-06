@@ -2,7 +2,7 @@
 type: tag
 tags: [model-context-protocol-mcp]
 sources: 2
-updated: 2026-06-04
+updated: 2026-06-06
 ---
 
 # model context protocol (mcp)
@@ -15,4 +15,4 @@ Videos connected by the topic `model context protocol (mcp)`.
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 96 views · Apr 5, 2026 · [Details](../details/T-NdEF6btbg.md)
 
 ---
-*Auto-generated on Jun 3, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 6, 2026. Back to [topic index](index.md).*

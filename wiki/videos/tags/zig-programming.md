@@ -2,7 +2,7 @@
 type: tag
 tags: [zig-programming]
 sources: 3
-updated: 2026-06-04
+updated: 2026-06-06
 ---
 
 # zig programming
@@ -16,4 +16,4 @@ Videos connected by the topic `zig programming`.
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](../details/tyR8SdHpOeY.md)
 
 ---
-*Auto-generated on Jun 3, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 6, 2026. Back to [topic index](index.md).*

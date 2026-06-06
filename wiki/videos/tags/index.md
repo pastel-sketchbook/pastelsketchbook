@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-06-04
+updated: 2026-06-06
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 170
+Total topics: 171
 
 ## Topics
 
@@ -104,6 +104,7 @@ Total topics: 170
 - [financial freedom](financial-freedom.md) (2)
 - [flutter ai](flutter-ai.md) (2)
 - [fts5](fts5.md) (2)
+- [gemini api narration](gemini-api-narration.md) (2)
 - [genkit dart](genkit-dart.md) (2)
 - [git compatibility](git-compatibility.md) (2)
 - [github copilot](github-copilot.md) (2)
@@ -183,4 +184,4 @@ Total topics: 170
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Jun 3, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Jun 6, 2026. Back to [videos index](../index.md).*

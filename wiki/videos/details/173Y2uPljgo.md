@@ -31,11 +31,11 @@ This blueprint dissects the internal architecture of NestJS, showing how a metad
 
 ## Related Videos
 
-- [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 20 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `request` · `pipeline` · `http`)
+- [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 21 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `request` · `pipeline` · `http`)
 - [The Pragmatic Go Developer](https://youtu.be/oxNF_GNuWpE) — Development · 45 views · Mar 10, 2026 · [Details](oxNF_GNuWpE.md) (shared: `dependency` · `http` · `context`)
 - [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 117 views · Feb 24, 2026 · [Details](DazzkNtnzec.md) (shared: `decorators` · `dependency` · `injection`)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 96 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `execution` · `context` · `protocol`)
-- [Copilot-Backed Code Review Architecture](https://youtu.be/JMk8y25qo2M) — Development · 7 views · Jun 2, 2026 · [Details](JMk8y25qo2M.md) (shared: `request` · `context` · `transport`)
+- [Copilot-Backed Code Review Architecture](https://youtu.be/JMk8y25qo2M) — Development · 15 views · Jun 2, 2026 · [Details](JMk8y25qo2M.md) (shared: `request` · `context` · `transport`)
 
 ---
 *Auto-generated on May 6, 2026. Back to [development](../development.md) · [index](../index.md).*
