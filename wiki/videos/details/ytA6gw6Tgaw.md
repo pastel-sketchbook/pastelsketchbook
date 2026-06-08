@@ -37,7 +37,7 @@ SlideVoice Studio wraps an existing Vite + React single-page application in a th
 
 - [A Desktop-First Export Strategy for SlideVoice Studio](https://youtu.be/78hLFt3_Gh4) — Development · 32 views · May 29, 2026 · [Details](78hLFt3_Gh4.md) (shared: `desktop` · `architecture` · `gemini`)
 - [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 19 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `tauri 2 desktop shell` · `tauri` · `desktop`)
-- [SlideVoice Studio Swift](https://youtu.be/r1rhrISQXeA) — Development · 11 views · Jun 4, 2026 · [Details](r1rhrISQXeA.md) (shared: `gemini api narration` · `gemini` · `api`)
+- [SlideVoice Studio Swift](https://youtu.be/r1rhrISQXeA) — Development · 39 views · Jun 4, 2026 · [Details](r1rhrISQXeA.md) (shared: `gemini api narration` · `gemini` · `api`)
 - [pastel-hn](https://youtu.be/cJl2cchaHL8) — Development · 58 views · Jan 24, 2026 · [Details](cJl2cchaHL8.md) (shared: `tauri` · `desktop` · `architecture`)
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 47 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `tauri` · `desktop` · `architecture`)
 

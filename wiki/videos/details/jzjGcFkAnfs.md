@@ -34,7 +34,7 @@ This video provides a CTO-level architectural comparison of React Native versus 
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 47 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `native` · `cross-platform` · `bridge`)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `flutter` · `mobile` · `architecture`)
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `flutter` · `dart` · `architecture`)
-- [Architecting the Next-Generation Enterprise](https://youtu.be/XHQGmyffO-s) — Development · 7 views · Jun 4, 2026 · [Details](XHQGmyffO-s.md) (shared: `architecture` · `enterprise` · `strategy`)
+- [Architecting the Next-Generation Enterprise](https://youtu.be/XHQGmyffO-s) — Development · 10 views · Jun 4, 2026 · [Details](XHQGmyffO-s.md) (shared: `architecture` · `enterprise` · `strategy`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

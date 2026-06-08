@@ -31,9 +31,9 @@ This video presents zig-lottie, a zero-dependency Lottie animation renderer writ
 ## Related Videos
 
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `zig programming` · `zig` · `programming`)
-- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 35 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `programming` · `design`)
+- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `programming` · `design`)
 - [Smooth Motion](https://youtu.be/qbBA7GWZbu4) — Development · 48 views · Jan 24, 2026 · [Details](qbBA7GWZbu4.md) (shared: `zig programming` · `zig` · `programming`)
-- [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 112 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `zig` · `programming` · `webassembly`)
+- [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 113 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `zig` · `programming` · `webassembly`)
 - [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 13 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `zig` · `webassembly` · `design`)
 
 ---

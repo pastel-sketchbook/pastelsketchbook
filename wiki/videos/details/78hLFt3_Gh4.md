@@ -35,7 +35,7 @@ SlideVoice Studio is pivoting its export pipeline from browser media APIs (canva
 
 ## Related Videos
 
-- [SlideVoice Studio Swift](https://youtu.be/r1rhrISQXeA) — Development · 11 views · Jun 4, 2026 · [Details](r1rhrISQXeA.md) (shared: `export` · `ffmpeg` · `api`)
+- [SlideVoice Studio Swift](https://youtu.be/r1rhrISQXeA) — Development · 39 views · Jun 4, 2026 · [Details](r1rhrISQXeA.md) (shared: `export` · `ffmpeg` · `api`)
 - [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 31 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `desktop` · `export` · `media`)
 - [The Blueprint of Reactivity](https://youtu.be/Gy-ky1pAF0U) — Development · 28 views · May 16, 2026 · [Details](Gy-ky1pAF0U.md) (shared: `flutter` · `riverpod` · `state`)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `flutter` · `state` · `architecture`)

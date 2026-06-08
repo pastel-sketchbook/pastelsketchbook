@@ -39,7 +39,7 @@ The video introduces the Semantic Operating System and Micro Module Architecture
 - [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 38 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `architecture` · `code` · `migration`)
 - [The pkg.go.dev API](https://youtu.be/zWuFvi-0Go4) — Development · 16 views · May 23, 2026 · [Details](zWuFvi-0Go4.md) (shared: `module` · `architecture` · `graph`)
 - [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 59 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `module` · `architecture` · `graph`)
-- [Architecting the Next-Generation Enterprise](https://youtu.be/XHQGmyffO-s) — Development · 7 views · Jun 4, 2026 · [Details](XHQGmyffO-s.md) (shared: `system` · `architecture`)
+- [Architecting the Next-Generation Enterprise](https://youtu.be/XHQGmyffO-s) — Development · 10 views · Jun 4, 2026 · [Details](XHQGmyffO-s.md) (shared: `system` · `architecture`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [webassembly]
 sources: 4
-updated: 2026-06-06
+updated: 2026-06-08
 ---
 
 # webassembly
@@ -17,4 +17,4 @@ Videos connected by the topic `webassembly`.
 - [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 14 views · Jan 25, 2026 · [Details](../details/3Fpey_L_XRU.md)
 
 ---
-*Auto-generated on Jun 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 8, 2026. Back to [topic index](index.md).*

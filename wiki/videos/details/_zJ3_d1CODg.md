@@ -37,7 +37,7 @@ This technical analysis explores the architectural synergy between the Bevy game
 
 - [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 14 views · Jan 25, 2026 · [Details](3Fpey_L_XRU.md) (shared: `integration` · `verlet integration` · `verlet`)
 - [Beat - Anatomy of a Real-Time Visualizer](https://youtu.be/lin_ycbQGtE) — Development · 27 views · Mar 20, 2026 · [Details](lin_ycbQGtE.md) (shared: `bevy` · `engine` · `rust`)
-- [Architecting a Modern Robocode Engine](https://youtu.be/d3JxtD__-L0) — Development · 59 views · May 29, 2026 · [Details](d3JxtD__-L0.md) (shared: `bevy` · `engine` · `rust`)
+- [Architecting a Modern Robocode Engine](https://youtu.be/d3JxtD__-L0) — Development · 60 views · May 29, 2026 · [Details](d3JxtD__-L0.md) (shared: `bevy` · `engine` · `rust`)
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 72 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `system` · `rust`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `rust` · `integration`)
 

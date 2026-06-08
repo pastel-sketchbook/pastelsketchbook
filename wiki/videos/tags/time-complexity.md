@@ -2,7 +2,7 @@
 type: tag
 tags: [time-complexity]
 sources: 2
-updated: 2026-06-06
+updated: 2026-06-08
 ---
 
 # time complexity
@@ -15,4 +15,4 @@ Videos connected by the topic `time complexity`.
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](../details/guwVjGsg3h4.md)
 
 ---
-*Auto-generated on Jun 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 8, 2026. Back to [topic index](index.md).*

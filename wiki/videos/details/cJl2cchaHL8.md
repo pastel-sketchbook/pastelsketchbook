@@ -30,7 +30,7 @@ This video is an architectural case study of Pastel HN, a native desktop Hacker 
 
 ## Related Videos
 
-- [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 112 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `zig` · `webassembly` · `architecture`)
+- [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 113 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `zig` · `webassembly` · `architecture`)
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 47 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `tauri` · `architecture` · `desktop`)
 - [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 14 views · Jan 25, 2026 · [Details](3Fpey_L_XRU.md) (shared: `zig` · `webassembly` · `development`)
 - [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 19 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `tauri` · `zig` · `architecture`)

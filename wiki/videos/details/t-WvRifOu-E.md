@@ -30,7 +30,7 @@ This relocation dossier dismantles the idealized image of Costa Rica as an acces
 
 ## Related Videos
 
-- [El Plan Maestro para Mudarse a Ecuador en 2026](https://youtu.be/7-mEDyQsJlI) — Korea · 8 views · May 19, 2026 · [Details](7-mEDyQsJlI.md) (shared: `relocation` · `residency` · `tax`)
+- [El Plan Maestro para Mudarse a Ecuador en 2026](https://youtu.be/7-mEDyQsJlI) — Korea · 10 views · May 19, 2026 · [Details](7-mEDyQsJlI.md) (shared: `relocation` · `residency` · `tax`)
 - [Dossier de Reubicación e Inversión: Panamá 2026](https://youtu.be/ApeNMU7KDH0) — Korea · 4 views · May 18, 2026 · [Details](ApeNMU7KDH0.md) (shared: `relocation` · `pensionado` · `expatriate`)
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `migration` · `system`)
 - [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 97 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `migration` · `system`)

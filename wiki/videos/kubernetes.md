@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, azure, rabbitmq, cue, k8s, rust, go, shift left]
 sources: 70
-updated: 2026-06-06
+updated: 2026-06-08
 ---
 
 # Kubernetes
@@ -49,7 +49,7 @@ updated: 2026-06-06
 ### AI & ML (9 videos)
 
 - [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) -- 10 views, May 22, 2026 · [Details](details/9ga0NT3ZohQ.md)
-- [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) -- 67 views, Apr 25, 2026 · [Details](details/quD4pyCwKB4.md)
+- [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) -- 68 views, Apr 25, 2026 · [Details](details/quD4pyCwKB4.md)
 - [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 16 views, Apr 22, 2026 · [Details](details/eZNBXDUc8OQ.md)
 - [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) -- 21 views, Apr 22, 2026 · [Details](details/p9LNSeAt5Zw.md)
 - [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) -- 33 views, Apr 14, 2026 · [Details](details/mGMaqTvWrCc.md)
@@ -139,7 +139,7 @@ updated: 2026-06-06
 
 ### Rust (5 videos)
 
-- [Introducing ExtendDB](https://youtu.be/LxI5YjCUswI) -- 38 views, May 24, 2026 · [Details](details/LxI5YjCUswI.md)
+- [Introducing ExtendDB](https://youtu.be/LxI5YjCUswI) -- 39 views, May 24, 2026 · [Details](details/LxI5YjCUswI.md)
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 76 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) -- 18 views, Apr 11, 2026 · [Details](details/a8heWpae5p0.md)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 46 views, Jan 17, 2026 · [Details](details/4b-H6ZaoNUE.md)
@@ -172,7 +172,7 @@ updated: 2026-06-06
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
 | 1 | Architecting Kubernetes Operators | 18 | May 31, 2026 | [Watch](https://youtu.be/hvkvH7i8NLc) | [Wiki](details/hvkvH7i8NLc.md) |
-| 2 | Introducing ExtendDB | 38 | May 24, 2026 | [Watch](https://youtu.be/LxI5YjCUswI) | [Wiki](details/LxI5YjCUswI.md) |
+| 2 | Introducing ExtendDB | 39 | May 24, 2026 | [Watch](https://youtu.be/LxI5YjCUswI) | [Wiki](details/LxI5YjCUswI.md) |
 | 3 | Seamless GitOps on Azure | 10 | May 22, 2026 | [Watch](https://youtu.be/9ga0NT3ZohQ) | [Wiki](details/9ga0NT3ZohQ.md) |
 | 4 | The Complete Local Azure Environment | 20 | May 16, 2026 | [Watch](https://youtu.be/u_ooo1WDAc8) | [Wiki](details/u_ooo1WDAc8.md) |
 | 5 | The Anatomy of Kubernetes | 27 | May 12, 2026 | [Watch](https://youtu.be/WrZN5AgpaW4) | [Wiki](details/WrZN5AgpaW4.md) |
@@ -180,8 +180,8 @@ updated: 2026-06-06
 | 7 | Istio-Based Weighted Traffic Management on AKS | 12 | May 6, 2026 | [Watch](https://youtu.be/4YsX6tYi5x4) | [Wiki](details/4YsX6tYi5x4.md) |
 | 8 | DevSecOps on Azure Kubernetes Service | 23 | Apr 29, 2026 | [Watch](https://youtu.be/-e7kvcUXxtw) | [Wiki](details/-e7kvcUXxtw.md) |
 | 9 | Architecting Cost Efficiency for Al Workloads | 25 | Apr 25, 2026 | [Watch](https://youtu.be/eaPXjvB194w) | [Wiki](details/eaPXjvB194w.md) |
-| 10 | Enterprise Infrastructure as Code for Al Agents | 67 | Apr 25, 2026 | [Watch](https://youtu.be/quD4pyCwKB4) | [Wiki](details/quD4pyCwKB4.md) |
-| 11 | Kubernetes 1.36 (Haru) | 63 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
+| 10 | Enterprise Infrastructure as Code for Al Agents | 68 | Apr 25, 2026 | [Watch](https://youtu.be/quD4pyCwKB4) | [Wiki](details/quD4pyCwKB4.md) |
+| 11 | Kubernetes 1.36 (Haru) | 64 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
 | 12 | Architecting Modern Deployments | 16 | Apr 22, 2026 | [Watch](https://youtu.be/eZNBXDUc8OQ) | [Wiki](details/eZNBXDUc8OQ.md) |
 | 13 | Scaling Node.js from PM2 to Cloud-Native Orchestration | 21 | Apr 22, 2026 | [Watch](https://youtu.be/p9LNSeAt5Zw) | [Wiki](details/p9LNSeAt5Zw.md) |
 | 14 | The Cloud Rosetta Stone | 23 | Apr 18, 2026 | [Watch](https://youtu.be/PMgUhFxrjPc) | [Wiki](details/PMgUhFxrjPc.md) |
@@ -254,4 +254,4 @@ updated: 2026-06-06
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on Jun 6, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 8, 2026. Back to [index](index.md).*

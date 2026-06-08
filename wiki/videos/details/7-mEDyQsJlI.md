@@ -30,7 +30,7 @@ A strategic, data-driven guide for expatriates planning a 2026 relocation to Ecu
 
 ## Related Videos
 
-- [Dossier de Reubicación en Costa Rica](https://youtu.be/t-WvRifOu-E) — Korea · 7 views · May 20, 2026 · [Details](t-WvRifOu-E.md) (shared: `relocation` · `cost` · `living`)
+- [Dossier de Reubicación en Costa Rica](https://youtu.be/t-WvRifOu-E) — Korea · 8 views · May 20, 2026 · [Details](t-WvRifOu-E.md) (shared: `relocation` · `cost` · `living`)
 - [Dossier de Reubicación e Inversión: Panamá 2026](https://youtu.be/ApeNMU7KDH0) — Korea · 4 views · May 18, 2026 · [Details](ApeNMU7KDH0.md) (shared: `relocation` · `living` · `visa`)
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `planning` · `retirement` · `strategy`)
 - [The Final 5 Years](https://youtu.be/G-vvSNwm-jE) — Finance · 19 views · Mar 20, 2026 · [Details](G-vvSNwm-jE.md) (shared: `planning` · `retirement` · `strategy`)

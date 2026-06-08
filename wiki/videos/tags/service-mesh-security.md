@@ -2,7 +2,7 @@
 type: tag
 tags: [service-mesh-security]
 sources: 2
-updated: 2026-06-06
+updated: 2026-06-08
 ---
 
 # service mesh security
@@ -15,4 +15,4 @@ Videos connected by the topic `service mesh security`.
 - [Modern Microservice Trust](https://youtu.be/SeYrpzDTn6A) — Development · 19 views · Jan 13, 2026 · [Details](../details/SeYrpzDTn6A.md)
 
 ---
-*Auto-generated on Jun 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 8, 2026. Back to [topic index](index.md).*

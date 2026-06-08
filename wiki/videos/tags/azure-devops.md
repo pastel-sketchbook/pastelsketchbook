@@ -2,7 +2,7 @@
 type: tag
 tags: [azure-devops]
 sources: 3
-updated: 2026-06-06
+updated: 2026-06-08
 ---
 
 # azure devops
@@ -16,4 +16,4 @@ Videos connected by the topic `azure devops`.
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](../details/C6wLm6NRZW4.md)
 
 ---
-*Auto-generated on Jun 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 8, 2026. Back to [topic index](index.md).*

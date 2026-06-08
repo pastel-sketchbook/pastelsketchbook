@@ -2,7 +2,7 @@
 type: tag
 tags: [azure-kubernetes-service]
 sources: 7
-updated: 2026-06-06
+updated: 2026-06-08
 ---
 
 # azure kubernetes service
@@ -20,4 +20,4 @@ Videos connected by the topic `azure kubernetes service`.
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](../details/N4nRAfBZ3BE.md)
 
 ---
-*Auto-generated on Jun 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 8, 2026. Back to [topic index](index.md).*

@@ -30,7 +30,7 @@ This video deep dives into Rust's memory management model covering ownership, bo
 
 ## Related Videos
 
-- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 35 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `rust` · `ownership` · `borrowing`)
+- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `rust` · `ownership` · `borrowing`)
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 351 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `safety` · `memory management` · `memory`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `memory management` · `memory`)
 - [A Guide to Rust Smart Pointers](https://youtu.be/WdK7PED1ug8) — Development · 47 views · Feb 26, 2026 · [Details](WdK7PED1ug8.md) (shared: `rust` · `smart` · `pointers`)
