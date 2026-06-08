@@ -249,7 +249,7 @@ updated: 2026-06-08
 ## See Also
 
 - [Security](security.md) -- shared tags: `ai`, `shift left`, `agent`, `governance`, `security`, `azure`, `orchestration`
-- [Development](development.md) -- shared tags: `ai`, `curiosity`, `shift left`, `agent`, `cloud native`, `rust`, `go`, `internal`, `rabbitmq`, `skill`, `cloud`, `scylladb`, `cdc`, `java`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `copilot`, `engineering`, `migration`, `identity`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `nats`, `sdk`, `messaging`
+- [Development](development.md) -- shared tags: `ai`, `curiosity`, `shift left`, `agent`, `cloud native`, `rust`, `go`, `internal`, `rabbitmq`, `skill`, `cloud`, `scylladb`, `cdc`, `java`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `copilot`, `engineering`, `migration`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `nats`, `sdk`, `messaging`
 - [Finance](finance.md) -- shared tags: `ai`, `curiosity`
 - [Programming](programming.md) -- shared tags: `vercel`
 

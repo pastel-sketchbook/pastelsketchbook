@@ -124,7 +124,7 @@ updated: 2026-06-08
 - [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) -- 157 views, Apr 17, 2026 · [Details](details/E8f87EV4k3A.md)
 - [The Evolution of RFCs in the Al Era](https://youtu.be/lsjfczYFBeQ) -- 31 views, Apr 16, 2026 · [Details](details/lsjfczYFBeQ.md)
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) -- 60 views, Apr 13, 2026 · [Details](details/j8lMpSezavQ.md)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) -- 198 views, Apr 10, 2026 · [Details](details/TEGFwsAcxK8.md)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) -- 199 views, Apr 10, 2026 · [Details](details/TEGFwsAcxK8.md)
 - [The LLM Wiki Paradigm](https://youtu.be/BzvpasWYESU) -- 2.7K views, Apr 9, 2026 · [Details](details/BzvpasWYESU.md)
 - [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) -- 279 views, Apr 5, 2026 · [Details](details/fv61JXUCbeo.md)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) -- 96 views, Apr 5, 2026 · [Details](details/T-NdEF6btbg.md)
@@ -240,17 +240,16 @@ updated: 2026-06-08
 - [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) -- 66 views, Mar 21, 2026 · [Details](details/wyIhJ3LMnRg.md)
 - [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) -- 94 views, Mar 19, 2026 · [Details](details/CXtHwJQphLI.md)
 
-### Identity & Auth (3 videos)
-
-- [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) -- 12 views, Jan 16, 2026 · [Details](details/0NLj8g2hQNk.md)
-- [ra-token-authority](https://youtu.be/0ttrfTfP864) -- 23 views, Jan 16, 2026 · [Details](details/0ttrfTfP864.md)
-- [From Blueprint to Battlefield](https://youtu.be/2kvYb2pVe5o) -- 32 views, Dec 27, 2025 · [Details](details/2kvYb2pVe5o.md)
-
 ### Security (3 videos)
 
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) -- 12 views, Jan 16, 2026 · [Details](details/0NLj8g2hQNk.md)
 - [ra-token-authority](https://youtu.be/0ttrfTfP864) -- 23 views, Jan 16, 2026 · [Details](details/0ttrfTfP864.md)
 - [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) -- 31 views, Dec 29, 2025 · [Details](details/pzVOjl6mOD4.md)
+
+### Identity & Auth (2 videos)
+
+- [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) -- 12 views, Jan 16, 2026 · [Details](details/0NLj8g2hQNk.md)
+- [ra-token-authority](https://youtu.be/0ttrfTfP864) -- 23 views, Jan 16, 2026 · [Details](details/0ttrfTfP864.md)
 
 ## All Videos
 
@@ -348,7 +347,7 @@ updated: 2026-06-08
 | 90 | A Compiler, Not a Renderer | 157 | Apr 17, 2026 | [Watch](https://youtu.be/E8f87EV4k3A) | [Wiki](details/E8f87EV4k3A.md) |
 | 91 | The Evolution of RFCs in the Al Era | 31 | Apr 16, 2026 | [Watch](https://youtu.be/lsjfczYFBeQ) | [Wiki](details/lsjfczYFBeQ.md) |
 | 92 | OpenFeature: The Standard for Feature Flagging | 51 | Apr 16, 2026 | [Watch](https://youtu.be/X65YHZUnFq0) | [Wiki](details/X65YHZUnFq0.md) |
-| 93 | Zig 0.16.0: Architectural Decoupling | 728 | Apr 15, 2026 | [Watch](https://youtu.be/hTEG3TsuUPQ) | [Wiki](details/hTEG3TsuUPQ.md) |
+| 93 | Zig 0.16.0: Architectural Decoupling | 727 | Apr 15, 2026 | [Watch](https://youtu.be/hTEG3TsuUPQ) | [Wiki](details/hTEG3TsuUPQ.md) |
 | 94 | Beyond the Ratio | 12 | Apr 14, 2026 | [Watch](https://youtu.be/Qg6vQrmCilg) | [Wiki](details/Qg6vQrmCilg.md) |
 | 95 | The Local SOTA Engine for Your Digital Brain | 60 | Apr 13, 2026 | [Watch](https://youtu.be/j8lMpSezavQ) | [Wiki](details/j8lMpSezavQ.md) |
 | 96 | The Center Has a Bias | 38 | Apr 13, 2026 | [Watch](https://youtu.be/a1hIA6KQUFE) | [Wiki](details/a1hIA6KQUFE.md) |
@@ -357,7 +356,7 @@ updated: 2026-06-08
 | 99 | zig-lottie: Compiling Motion | 81 | Apr 11, 2026 | [Watch](https://youtu.be/QC-vaMcjq3M) | [Wiki](details/QC-vaMcjq3M.md) |
 | 100 | The Calculus of ALOHA Networks | 77 | Apr 10, 2026 | [Watch](https://youtu.be/s585HlqiyMQ) | [Wiki](details/s585HlqiyMQ.md) |
 | 101 | The Programmer's Guide to Essential RFCs | 108 | Apr 10, 2026 | [Watch](https://youtu.be/LackTxguXFg) | [Wiki](details/LackTxguXFg.md) |
-| 102 | Agent Skills for Flutter | 198 | Apr 10, 2026 | [Watch](https://youtu.be/TEGFwsAcxK8) | [Wiki](details/TEGFwsAcxK8.md) |
+| 102 | Agent Skills for Flutter | 199 | Apr 10, 2026 | [Watch](https://youtu.be/TEGFwsAcxK8) | [Wiki](details/TEGFwsAcxK8.md) |
 | 103 | The LLM Wiki Paradigm | 2.7K | Apr 9, 2026 | [Watch](https://youtu.be/BzvpasWYESU) | [Wiki](details/BzvpasWYESU.md) |
 | 104 | Leetgo | 59 | Apr 9, 2026 | [Watch](https://youtu.be/MuDJGnGTn3k) | [Wiki](details/MuDJGnGTn3k.md) |
 | 105 | The 2026 Change Data Capture Blueprint | 31 | Apr 8, 2026 | [Watch](https://youtu.be/am9FvNiJ24M) | [Wiki](details/am9FvNiJ24M.md) |
@@ -501,9 +500,9 @@ updated: 2026-06-08
 
 ## See Also
 
-- [Kubernetes](kubernetes.md) -- shared tags: `ai`, `curiosity`, `shift left`, `agent`, `cloud native`, `rust`, `go`, `internal`, `rabbitmq`, `skill`, `cloud`, `scylladb`, `cdc`, `java`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `copilot`, `engineering`, `migration`, `identity`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `nats`, `sdk`, `messaging`
+- [Kubernetes](kubernetes.md) -- shared tags: `ai`, `curiosity`, `shift left`, `agent`, `cloud native`, `rust`, `go`, `internal`, `rabbitmq`, `skill`, `cloud`, `scylladb`, `cdc`, `java`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `copilot`, `engineering`, `migration`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `nats`, `sdk`, `messaging`
 - [Programming](programming.md)
-- [Security](security.md) -- shared tags: `ai`, `shift left`, `agent`, `data`, `llm`, `context`, `algorithms`, `toolkit`, `resilience`, `ssrf`
+- [Security](security.md) -- shared tags: `ai`, `shift left`, `agent`, `data`, `llm`, `context`, `algorithms`, `toolkit`, `resilience`
 - [Finance](finance.md) -- shared tags: `ai`, `curiosity`, `2026`, `levy`, `notebooklm`
 
 ---

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T22:55:41.663Z",
+  "generatedAt": "2026-06-08T23:00:40.432Z",
   "totalVideos": 384,
   "categories": [
     {
@@ -20958,7 +20958,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4205,
+              "views": 4204,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -25277,7 +25277,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 198,
+              "views": 199,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -25353,7 +25353,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2701,
+              "views": 2702,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -29200,7 +29200,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4205,
+              "views": 4204,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -32937,238 +32937,6 @@
           ]
         },
         {
-          "name": "Identity & Auth",
-          "videos": [
-            {
-              "id": "0NLj8g2hQNk",
-              "title": "The Client's Guide to 'ra-token-authority'",
-              "views": 12,
-              "date": "2026-01-16T18:34:39Z",
-              "category": "development",
-              "tags": [
-                "zero trust",
-                "ra-token-authority",
-                "paseto",
-                "mtls",
-                "msa",
-                "kubernetes"
-              ],
-              "detail": {
-                "summary": "This video provides a client-side blueprint for integrating with the ra-token-authority service to establish service-to-service trust in distributed microservice architectures. It covers the three pillars of zero trust (identity, authorization, and integrity) and details how clients authenticate, verify permissions, and ensure data integrity when communicating with other services.",
-                "takeaways": [
-                  "Zero trust architecture rests on three pillars: identity (proving who a service is), authorization (verifying what it can do), and integrity (ensuring requests haven't been tampered with).",
-                  "In a zero trust environment, network location cannot be relied upon for security; every service must cryptographically prove its identity.",
-                  "The ra-token-authority provides a centralized mechanism for service-to-service authentication using cryptographically signed tokens.",
-                  "Even after authentication, each request must be checked for authorization and data integrity to defend against in-transit tampering."
-                ],
-                "topics": [
-                  "zero trust",
-                  "service-to-service auth",
-                  "token-based authentication",
-                  "microservice security",
-                  "distributed systems"
-                ],
-                "related": [
-                  {
-                    "id": "A4-foXsdQiA",
-                    "sharedTopics": [
-                      "zero trust",
-                      "zero",
-                      "trust",
-                      "service-to-service auth",
-                      "service-to-service"
-                    ]
-                  },
-                  {
-                    "id": "0ttrfTfP864",
-                    "sharedTopics": [
-                      "zero",
-                      "trust",
-                      "authentication",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "SeYrpzDTn6A",
-                    "sharedTopics": [
-                      "authentication",
-                      "microservice",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "zero",
-                      "trust",
-                      "authentication",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "z_Ydy_-cI1U",
-                    "sharedTopics": [
-                      "distributed",
-                      "systems"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "0ttrfTfP864",
-              "title": "ra-token-authority",
-              "views": 23,
-              "date": "2026-01-16T16:34:51Z",
-              "category": "development",
-              "tags": [
-                "rust",
-                "paseto",
-                "token",
-                "zero trust",
-                "axum",
-                "tokio"
-              ],
-              "detail": {
-                "summary": "This video is a technical deep dive into the ra-token-authority service, a centralized token authority for zero trust service-to-service authentication in Kubernetes and Istio environments. Built with Axum, Tokio, and the rusty-paseto library, it issues PASETO v4.public tokens with automated ED25519 key rotation and exposes a JWKS-like /keys endpoint for public key discovery.",
-                "takeaways": [
-                  "ra-token-authority issues cryptographically signed PASETO v4.public tokens for service-to-service trust in Kubernetes/Istio zero trust environments.",
-                  "Automated key management handles ED25519 key rotation, retention, and garbage collection without manual intervention.",
-                  "The service exposes a JWKS-like endpoint at /keys for seamless public key discovery by client services.",
-                  "The technology stack (Axum, Tokio, rusty-paseto) is guided by test-driven development as the primary development cadence."
-                ],
-                "topics": [
-                  "paseto tokens",
-                  "zero trust authentication",
-                  "axum",
-                  "tokio",
-                  "ed25519 key rotation",
-                  "kubernetes security",
-                  "istio"
-                ],
-                "related": [
-                  {
-                    "id": "pzVOjl6mOD4",
-                    "sharedTopics": [
-                      "paseto tokens",
-                      "paseto",
-                      "tokens",
-                      "authentication",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "SeYrpzDTn6A",
-                    "sharedTopics": [
-                      "paseto tokens",
-                      "paseto",
-                      "tokens",
-                      "authentication",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "0NLj8g2hQNk",
-                    "sharedTopics": [
-                      "zero",
-                      "trust",
-                      "authentication",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "4b-H6ZaoNUE",
-                    "sharedTopics": [
-                      "zero",
-                      "trust",
-                      "kubernetes",
-                      "security",
-                      "istio"
-                    ]
-                  },
-                  {
-                    "id": "A4-foXsdQiA",
-                    "sharedTopics": [
-                      "zero",
-                      "trust",
-                      "kubernetes security",
-                      "kubernetes",
-                      "security"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "2kvYb2pVe5o",
-              "title": "From Blueprint to Battlefield",
-              "views": 32,
-              "date": "2025-12-27T21:55:52Z",
-              "category": "development",
-              "tags": [
-                "identity",
-                "oidc",
-                "ssrf"
-              ],
-              "detail": {
-                "summary": "This video explores the journey of deploying secure federated identity systems from design to production, using NIST SP 800-63C standards and formal analysis to stress-test OpenID Connect (OIDC) and OAuth 2.0 implementations. It highlights the complex multi-party attack surface inherent in OIDC's flexibility and optional features, which informal security evaluations frequently overlook.",
-                "takeaways": [
-                  "NIST SP 800-63C provides the authoritative model for identity federation, built around three core actors: the subscriber, the identity provider, and the relying party.",
-                  "OIDC's inherent flexibility and many optional features create a large attack surface vulnerable to subtle but devastating attacks often missed by informal evaluations.",
-                  "Federated identity delegates user authentication to trusted identity providers (Google, Microsoft, PayPal) using cryptographically signed tokens built on OAuth 2.0.",
-                  "Rigorous formal analysis is necessary beyond informal security review to ensure federated identity frameworks withstand real-world deployment complexities."
-                ],
-                "topics": [
-                  "openid connect",
-                  "oauth 2.0",
-                  "federated identity",
-                  "nist sp 800-63c",
-                  "formal security analysis",
-                  "single sign-on"
-                ],
-                "related": [
-                  {
-                    "id": "n-Yt33ZdEHw",
-                    "sharedTopics": [
-                      "oauth 2.0",
-                      "oauth",
-                      "2.0",
-                      "identity",
-                      "single sign-on"
-                    ]
-                  },
-                  {
-                    "id": "1VjSLqfPf9s",
-                    "sharedTopics": [
-                      "2.0",
-                      "nist",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "NztD5fYpXcg",
-                    "sharedTopics": [
-                      "analysis"
-                    ]
-                  },
-                  {
-                    "id": "0NLj8g2hQNk",
-                    "sharedTopics": [
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "pzVOjl6mOD4",
-                    "sharedTopics": [
-                      "security"
-                    ]
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
           "name": "Security",
           "videos": [
             {
@@ -33397,6 +33165,171 @@
                       "security",
                       "authentication",
                       "oauth2"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Identity & Auth",
+          "videos": [
+            {
+              "id": "0NLj8g2hQNk",
+              "title": "The Client's Guide to 'ra-token-authority'",
+              "views": 12,
+              "date": "2026-01-16T18:34:39Z",
+              "category": "development",
+              "tags": [
+                "zero trust",
+                "ra-token-authority",
+                "paseto",
+                "mtls",
+                "msa",
+                "kubernetes"
+              ],
+              "detail": {
+                "summary": "This video provides a client-side blueprint for integrating with the ra-token-authority service to establish service-to-service trust in distributed microservice architectures. It covers the three pillars of zero trust (identity, authorization, and integrity) and details how clients authenticate, verify permissions, and ensure data integrity when communicating with other services.",
+                "takeaways": [
+                  "Zero trust architecture rests on three pillars: identity (proving who a service is), authorization (verifying what it can do), and integrity (ensuring requests haven't been tampered with).",
+                  "In a zero trust environment, network location cannot be relied upon for security; every service must cryptographically prove its identity.",
+                  "The ra-token-authority provides a centralized mechanism for service-to-service authentication using cryptographically signed tokens.",
+                  "Even after authentication, each request must be checked for authorization and data integrity to defend against in-transit tampering."
+                ],
+                "topics": [
+                  "zero trust",
+                  "service-to-service auth",
+                  "token-based authentication",
+                  "microservice security",
+                  "distributed systems"
+                ],
+                "related": [
+                  {
+                    "id": "A4-foXsdQiA",
+                    "sharedTopics": [
+                      "zero trust",
+                      "zero",
+                      "trust",
+                      "service-to-service auth",
+                      "service-to-service"
+                    ]
+                  },
+                  {
+                    "id": "0ttrfTfP864",
+                    "sharedTopics": [
+                      "zero",
+                      "trust",
+                      "authentication",
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "SeYrpzDTn6A",
+                    "sharedTopics": [
+                      "authentication",
+                      "microservice",
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "zero",
+                      "trust",
+                      "authentication",
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "z_Ydy_-cI1U",
+                    "sharedTopics": [
+                      "distributed",
+                      "systems"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "0ttrfTfP864",
+              "title": "ra-token-authority",
+              "views": 23,
+              "date": "2026-01-16T16:34:51Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "paseto",
+                "token",
+                "zero trust",
+                "axum",
+                "tokio"
+              ],
+              "detail": {
+                "summary": "This video is a technical deep dive into the ra-token-authority service, a centralized token authority for zero trust service-to-service authentication in Kubernetes and Istio environments. Built with Axum, Tokio, and the rusty-paseto library, it issues PASETO v4.public tokens with automated ED25519 key rotation and exposes a JWKS-like /keys endpoint for public key discovery.",
+                "takeaways": [
+                  "ra-token-authority issues cryptographically signed PASETO v4.public tokens for service-to-service trust in Kubernetes/Istio zero trust environments.",
+                  "Automated key management handles ED25519 key rotation, retention, and garbage collection without manual intervention.",
+                  "The service exposes a JWKS-like endpoint at /keys for seamless public key discovery by client services.",
+                  "The technology stack (Axum, Tokio, rusty-paseto) is guided by test-driven development as the primary development cadence."
+                ],
+                "topics": [
+                  "paseto tokens",
+                  "zero trust authentication",
+                  "axum",
+                  "tokio",
+                  "ed25519 key rotation",
+                  "kubernetes security",
+                  "istio"
+                ],
+                "related": [
+                  {
+                    "id": "pzVOjl6mOD4",
+                    "sharedTopics": [
+                      "paseto tokens",
+                      "paseto",
+                      "tokens",
+                      "authentication",
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "SeYrpzDTn6A",
+                    "sharedTopics": [
+                      "paseto tokens",
+                      "paseto",
+                      "tokens",
+                      "authentication",
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "0NLj8g2hQNk",
+                    "sharedTopics": [
+                      "zero",
+                      "trust",
+                      "authentication",
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "4b-H6ZaoNUE",
+                    "sharedTopics": [
+                      "zero",
+                      "trust",
+                      "kubernetes",
+                      "security",
+                      "istio"
+                    ]
+                  },
+                  {
+                    "id": "A4-foXsdQiA",
+                    "sharedTopics": [
+                      "zero",
+                      "trust",
+                      "kubernetes security",
+                      "kubernetes",
+                      "security"
                     ]
                   }
                 ]
@@ -40365,7 +40298,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 728,
+          "views": 727,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -40985,7 +40918,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 198,
+          "views": 199,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -41061,7 +40994,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2701,
+          "views": 2702,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -41798,7 +41731,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4205,
+          "views": 4204,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -50858,11 +50791,6 @@
           "views": 32,
           "date": "2025-12-27T21:55:52Z",
           "category": "development",
-          "tags": [
-            "identity",
-            "oidc",
-            "ssrf"
-          ],
           "detail": {
             "summary": "This video explores the journey of deploying secure federated identity systems from design to production, using NIST SP 800-63C standards and formal analysis to stress-test OpenID Connect (OIDC) and OAuth 2.0 implementations. It highlights the complex multi-party attack surface inherent in OIDC's flexibility and optional features, which informal security evaluations frequently overlook.",
             "takeaways": [
@@ -53588,7 +53516,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2701,
+          "views": 2702,
           "date": "2026-04-09T22:17:25Z",
           "category": "development"
         },
@@ -53609,7 +53537,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 198,
+          "views": 199,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -54094,7 +54022,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 198,
+          "views": 199,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },

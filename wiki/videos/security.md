@@ -69,7 +69,7 @@ updated: 2026-06-08
 ## See Also
 
 - [Kubernetes](kubernetes.md) -- shared tags: `ai`, `shift left`, `agent`, `governance`, `security`, `azure`, `orchestration`
-- [Development](development.md) -- shared tags: `ai`, `shift left`, `agent`, `data`, `llm`, `context`, `algorithms`, `toolkit`, `resilience`, `ssrf`
+- [Development](development.md) -- shared tags: `ai`, `shift left`, `agent`, `data`, `llm`, `context`, `algorithms`, `toolkit`, `resilience`
 - [Finance](finance.md) -- shared tags: `ai`
 
 ---
