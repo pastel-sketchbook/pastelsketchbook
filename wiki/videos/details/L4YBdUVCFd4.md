@@ -31,8 +31,8 @@ A technical blueprint for migrating a SolidJS 1.x application to the `2.0.0-beta
 
 ## Related Videos
 
-- [The Road to SolidJS 2.0](https://youtu.be/00kCzR10M1w) — Development · 269 views · Mar 3, 2026 · [Details](00kCzR10M1w.md) (shared: `signals` · `batching` · `reactivity`)
-- [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 40 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `migration` · `lifecycle`)
+- [The Road to SolidJS 2.0](https://youtu.be/00kCzR10M1w) — Development · 271 views · Mar 3, 2026 · [Details](00kCzR10M1w.md) (shared: `signals` · `batching` · `reactivity`)
+- [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 41 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `migration` · `lifecycle`)
 - [Architecting Modern JavaScript Modules](https://youtu.be/Fqokr0P2_ag) — Development · 19 views · May 25, 2026 · [Details](Fqokr0P2_ag.md) (shared: `migration` · `loading`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 36 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `signals`)
 - [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 17 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `lifecycle`)

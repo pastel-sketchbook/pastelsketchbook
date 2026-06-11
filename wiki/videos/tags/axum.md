@@ -2,7 +2,7 @@
 type: tag
 tags: [axum]
 sources: 2
-updated: 2026-06-08
+updated: 2026-06-11
 ---
 
 # axum
@@ -15,4 +15,4 @@ Videos connected by the topic `axum`.
 - [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 23 views · Jan 16, 2026 · [Details](../details/0ttrfTfP864.md)
 
 ---
-*Auto-generated on Jun 8, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 11, 2026. Back to [topic index](index.md).*

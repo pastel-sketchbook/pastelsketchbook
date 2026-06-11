@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-08T23:00:40.432Z",
-  "totalVideos": 384,
+  "generatedAt": "2026-06-11T21:59:57.204Z",
+  "totalVideos": 386,
   "categories": [
     {
       "name": "korea",
@@ -1453,7 +1453,7 @@
         "development"
       ],
       "videoCount": 33,
-      "totalViews": 710,
+      "totalViews": 727,
       "topTags": [
         {
           "tag": "curiosity",
@@ -1499,7 +1499,7 @@
             {
               "id": "8vJLWsfheRE",
               "title": "The Architecture of Opportunity",
-              "views": 17,
+              "views": 27,
               "date": "2026-06-07T23:00:16Z",
               "category": "finance",
               "tags": [
@@ -1966,7 +1966,7 @@
             {
               "id": "9xDzB24tO4I",
               "title": "The 2026 Enterprise AI Blueprint",
-              "views": 25,
+              "views": 26,
               "date": "2026-05-21T21:09:53Z",
               "category": "finance",
               "tags": [
@@ -2095,7 +2095,7 @@
         {
           "id": "8vJLWsfheRE",
           "title": "The Architecture of Opportunity",
-          "views": 17,
+          "views": 27,
           "date": "2026-06-07T23:00:16Z",
           "category": "finance",
           "tags": [
@@ -2160,7 +2160,7 @@
         {
           "id": "GmUKi-ZPOYU",
           "title": "Cognitive Lenses in Modern Design",
-          "views": 13,
+          "views": 18,
           "date": "2026-06-05T11:00:11Z",
           "category": "finance",
           "tags": [
@@ -2425,7 +2425,7 @@
         {
           "id": "9xDzB24tO4I",
           "title": "The 2026 Enterprise AI Blueprint",
-          "views": 25,
+          "views": 26,
           "date": "2026-05-21T21:09:53Z",
           "category": "finance",
           "tags": [
@@ -3005,7 +3005,7 @@
         {
           "id": "l9UUqD2Bz2E",
           "title": "The Mystery of the Nickel Coke",
-          "views": 10,
+          "views": 11,
           "date": "2026-04-10T15:32:57Z",
           "category": "finance",
           "tags": [
@@ -4229,7 +4229,7 @@
         "development"
       ],
       "videoCount": 70,
-      "totalViews": 2079,
+      "totalViews": 2086,
       "topTags": [
         {
           "tag": "aks",
@@ -4319,7 +4319,7 @@
             {
               "id": "9ga0NT3ZohQ",
               "title": "Seamless GitOps on Azure",
-              "views": 10,
+              "views": 11,
               "date": "2026-05-22T09:48:19Z",
               "category": "kubernetes",
               "tags": [
@@ -4946,7 +4946,7 @@
             {
               "id": "3hSdKvqPcSE",
               "title": "Architecting AKS Node Auto-Provisioning",
-              "views": 36,
+              "views": 37,
               "date": "2026-02-25T23:24:20Z",
               "category": "kubernetes",
               "tags": [
@@ -5093,7 +5093,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 56,
+              "views": 57,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -5944,7 +5944,7 @@
             {
               "id": "9ga0NT3ZohQ",
               "title": "Seamless GitOps on Azure",
-              "views": 10,
+              "views": 11,
               "date": "2026-05-22T09:48:19Z",
               "category": "kubernetes",
               "tags": [
@@ -6621,7 +6621,7 @@
             {
               "id": "9ga0NT3ZohQ",
               "title": "Seamless GitOps on Azure",
-              "views": 10,
+              "views": 11,
               "date": "2026-05-22T09:48:19Z",
               "category": "kubernetes",
               "tags": [
@@ -8719,7 +8719,7 @@
             {
               "id": "9ga0NT3ZohQ",
               "title": "Seamless GitOps on Azure",
-              "views": 10,
+              "views": 11,
               "date": "2026-05-22T09:48:19Z",
               "category": "kubernetes",
               "tags": [
@@ -10637,7 +10637,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 56,
+              "views": 57,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -11106,7 +11106,7 @@
             {
               "id": "LxI5YjCUswI",
               "title": "Introducing ExtendDB",
-              "views": 39,
+              "views": 41,
               "date": "2026-05-24T19:34:44Z",
               "category": "kubernetes",
               "tags": [
@@ -11666,7 +11666,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 56,
+              "views": 57,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -12568,7 +12568,7 @@
         {
           "id": "LxI5YjCUswI",
           "title": "Introducing ExtendDB",
-          "views": 39,
+          "views": 41,
           "date": "2026-05-24T19:34:44Z",
           "category": "kubernetes",
           "tags": [
@@ -12641,7 +12641,7 @@
         {
           "id": "9ga0NT3ZohQ",
           "title": "Seamless GitOps on Azure",
-          "views": 10,
+          "views": 11,
           "date": "2026-05-22T09:48:19Z",
           "category": "kubernetes",
           "tags": [
@@ -12791,7 +12791,7 @@
         {
           "id": "WrZN5AgpaW4",
           "title": "The Anatomy of Kubernetes",
-          "views": 27,
+          "views": 28,
           "date": "2026-05-12T18:05:42Z",
           "category": "kubernetes",
           "tags": [
@@ -13253,7 +13253,7 @@
         {
           "id": "2ksi8K7wg3I",
           "title": "Kubernetes 1.36 (Haru)",
-          "views": 64,
+          "views": 65,
           "date": "2026-04-23T22:03:32Z",
           "category": "kubernetes",
           "tags": [
@@ -15299,7 +15299,7 @@
         {
           "id": "3hSdKvqPcSE",
           "title": "Architecting AKS Node Auto-Provisioning",
-          "views": 36,
+          "views": 37,
           "date": "2026-02-25T23:24:20Z",
           "category": "kubernetes",
           "tags": [
@@ -16090,7 +16090,7 @@
         {
           "id": "rgY4KTMFOMs",
           "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-          "views": 56,
+          "views": 57,
           "date": "2026-02-05T14:29:16Z",
           "category": "kubernetes",
           "tags": [
@@ -17681,20 +17681,20 @@
         "programming",
         "security"
       ],
-      "videoCount": 238,
-      "totalViews": 28348,
+      "videoCount": 240,
+      "totalViews": 28489,
       "topTags": [
         {
           "tag": "rust",
-          "count": 69
+          "count": 70
+        },
+        {
+          "tag": "ai",
+          "count": 30
         },
         {
           "tag": "zig",
           "count": 30
-        },
-        {
-          "tag": "ai",
-          "count": 29
         },
         {
           "tag": "go",
@@ -17702,7 +17702,7 @@
         },
         {
           "tag": "internal",
-          "count": 12
+          "count": 13
         },
         {
           "tag": "flutter",
@@ -17770,9 +17770,85 @@
           "name": "Rust",
           "videos": [
             {
+              "id": "fWuJSwkdH6I",
+              "title": "Quinn: A Pure-Rust QUIC Protocol Implementation",
+              "views": 11,
+              "date": "2026-06-09T23:00:25Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "quic",
+                "internal",
+                "async",
+                "ietf"
+              ],
+              "detail": {
+                "summary": "This video provides a detailed architectural walkthrough of Quinn, a pure-Rust implementation of the QUIC transport protocol built on three pillars: memory safety and speed, async-first design, and IETF compliance. It explains the three-tiered protocol stack separating the high-level async API, the deterministic QUIC state machine (Quinn-proto), and the OS-adaptive UDP layer, highlighting how each layer maintains determinism by decoupling protocol logic from real-world time. The presentation covers congestion control algorithms (BBR, CUBIC, New Reno), MTU path discovery with DPLPMTUD, TLS 1.3 integration via Rustls, and the granular configuration hierarchy that governs everything from flow control windows to custom congestion control factories.",
+                "takeaways": [
+                  "Quinn's architecture is structured as three independent layers: the async API layer (endpoint/connection management), the Quinn-proto deterministic state machine (pure protocol logic with abstract time), and the OS-adaptive UDP layer (platform-specific socket I/O with kernel offload support).",
+                  "The deterministic protocol engine processes only two inputs (incoming UDP datagrams and timer ticks) and operates on abstract time, making it highly testable and embeddable via C FFI without dependency on wall clock time.",
+                  "Quinn achieves runtime agnosticism through a runtime trait that decouples the library from specific async executors, with first-class implementations for both Tokio and smol ecosystems.",
+                  "Congestion control supports BBR, CUBIC, and New Reno interchangeably, with BBR proactively probing bottleneck bandwidth while CUBIC uses a cubic growth function for high network utilization.",
+                  "TLS 1.3 integration uses Rustls with feature flags allowing cryptographic backend selection between AWS-LC-RS and Ring, and AEAD protects both packet payloads and headers independently."
+                ],
+                "topics": [
+                  "quic protocol",
+                  "rust async networking",
+                  "deterministic state machine",
+                  "congestion control algorithms",
+                  "mtu path discovery",
+                  "tls 1.3 integration",
+                  "runtime agnostic design",
+                  "kernel offloading"
+                ],
+                "related": [
+                  {
+                    "id": "0Sed1oggMKY",
+                    "sharedTopics": [
+                      "rust",
+                      "async",
+                      "runtime"
+                    ]
+                  },
+                  {
+                    "id": "90hw9qwXbbw",
+                    "sharedTopics": [
+                      "rust",
+                      "async",
+                      "runtime"
+                    ]
+                  },
+                  {
+                    "id": "lY5TU8qHduM",
+                    "sharedTopics": [
+                      "rust",
+                      "async",
+                      "runtime"
+                    ]
+                  },
+                  {
+                    "id": "js95nIDeA-c",
+                    "sharedTopics": [
+                      "rust",
+                      "async",
+                      "runtime"
+                    ]
+                  },
+                  {
+                    "id": "F59lTcC6xJ0",
+                    "sharedTopics": [
+                      "rust",
+                      "async",
+                      "runtime"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "s6wmtsAWvCw",
               "title": "rt-ado-ci-cd Operations and Architecture",
-              "views": 2,
+              "views": 3,
               "date": "2026-06-08T11:00:22Z",
               "category": "development",
               "tags": [
@@ -17847,7 +17923,7 @@
             {
               "id": "cuA7G01T7_U",
               "title": "temporal-chain: Architecture & Design",
-              "views": 14,
+              "views": 18,
               "date": "2026-06-06T11:00:07Z",
               "category": "development",
               "tags": [
@@ -17916,7 +17992,7 @@
             {
               "id": "3jMQWDNqsro",
               "title": "Architecting Ledger Systems in Rust",
-              "views": 27,
+              "views": 29,
               "date": "2026-06-05T23:00:10Z",
               "category": "development",
               "tags": [
@@ -17987,7 +18063,7 @@
             {
               "id": "SNgYSLZ2Ck4",
               "title": "The Architecture of Serde",
-              "views": 51,
+              "views": 48,
               "date": "2026-06-03T23:00:12Z",
               "category": "development",
               "tags": [
@@ -18061,7 +18137,7 @@
             {
               "id": "JMk8y25qo2M",
               "title": "Copilot-Backed Code Review Architecture",
-              "views": 15,
+              "views": 16,
               "date": "2026-06-02T23:00:17Z",
               "category": "development",
               "tags": [
@@ -18146,7 +18222,7 @@
             {
               "id": "uiU9K1hIQBo",
               "title": "Persona Modeling Architecture",
-              "views": 22,
+              "views": 23,
               "date": "2026-06-01T23:00:32Z",
               "category": "development",
               "tags": [
@@ -18227,7 +18303,7 @@
             {
               "id": "cDNqrUa260k",
               "title": "Rust 1.96 Ecosystem Release",
-              "views": 36,
+              "views": 38,
               "date": "2026-05-30T10:00:22Z",
               "category": "development",
               "tags": [
@@ -18299,7 +18375,7 @@
             {
               "id": "d3JxtD__-L0",
               "title": "Architecting a Modern Robocode Engine",
-              "views": 60,
+              "views": 64,
               "date": "2026-05-29T21:33:13Z",
               "category": "development",
               "tags": [
@@ -18377,7 +18453,7 @@
             {
               "id": "7LynLmseNRk",
               "title": "Bumble: A Universal Userspace Bluetooth Stack",
-              "views": 29,
+              "views": 30,
               "date": "2026-05-27T12:37:31Z",
               "category": "development",
               "tags": [
@@ -18528,7 +18604,7 @@
             {
               "id": "S3Vc_R-HezY",
               "title": "svs-cli: 10 Critical Things",
-              "views": 15,
+              "views": 16,
               "date": "2026-05-25T02:46:56Z",
               "category": "development",
               "tags": [
@@ -19073,7 +19149,7 @@
             {
               "id": "htpvlYnX77w",
               "title": "Mastering Machine Learning in Rust",
-              "views": 41,
+              "views": 42,
               "date": "2026-05-19T06:00:38Z",
               "category": "development",
               "tags": [
@@ -19389,7 +19465,7 @@
             {
               "id": "n9Ebc-0E478",
               "title": "Building the Multimodal Al Lakehouse",
-              "views": 23,
+              "views": 24,
               "date": "2026-05-14T12:06:25Z",
               "category": "development",
               "tags": [
@@ -19467,7 +19543,7 @@
             {
               "id": "uz8nmkTPEpg",
               "title": "SQLx",
-              "views": 33,
+              "views": 35,
               "date": "2026-05-13T22:37:02Z",
               "category": "development",
               "tags": [
@@ -19541,7 +19617,7 @@
             {
               "id": "B81dHVYOYJA",
               "title": "Inside the Typst Compiler Engine",
-              "views": 111,
+              "views": 116,
               "date": "2026-05-11T00:02:22Z",
               "category": "development",
               "tags": [
@@ -19695,7 +19771,7 @@
             {
               "id": "qAHyv6G3a7M",
               "title": "Building the Unified Rust Backend",
-              "views": 747,
+              "views": 749,
               "date": "2026-05-09T07:32:42Z",
               "category": "development",
               "tags": [
@@ -19784,7 +19860,7 @@
             {
               "id": "_bFOZ51Q55Y",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 2017,
+              "views": 2020,
               "date": "2026-05-09T02:40:33Z",
               "category": "development",
               "tags": [
@@ -20190,7 +20266,7 @@
             {
               "id": "DwAOCljoNoc",
               "title": "Hyper: The Foundation of Fast HTTP in Rust",
-              "views": 96,
+              "views": 98,
               "date": "2026-05-02T18:35:37Z",
               "category": "development",
               "tags": [
@@ -20958,7 +21034,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4204,
+              "views": 4211,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -21191,7 +21267,7 @@
             {
               "id": "vep9hSKc9I0",
               "title": "Dial9 Demo - Deep Observability in Async Rust",
-              "views": 119,
+              "views": 122,
               "date": "2026-03-22T10:40:21Z",
               "category": "development",
               "tags": [
@@ -21942,7 +22018,7 @@
             {
               "id": "SpNfrWmI8iE",
               "title": "Architecting Scalable Rust Backends",
-              "views": 73,
+              "views": 74,
               "date": "2026-02-22T10:43:18Z",
               "category": "development",
               "tags": [
@@ -22022,7 +22098,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 122,
+              "views": 128,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -22086,7 +22162,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 513,
+              "views": 519,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -23315,9 +23391,80 @@
           "name": "AI & ML",
           "videos": [
             {
+              "id": "xwEN7oZFvdw",
+              "title": "The AI Copilot Era Equation",
+              "views": 2,
+              "date": "2026-06-10T23:00:17Z",
+              "category": "development",
+              "tags": [
+                "ai",
+                "cost",
+                "language",
+                "llm",
+                "cloud"
+              ],
+              "detail": {
+                "summary": "This video presents the AI Copilot Era Equation as a framework for balancing AI token burn, cloud compute costs, and language architecture when building AI-assisted systems. It introduces a three-phase scale model (small, medium, enterprise) mapping programming language choices against AI token costs and cloud infrastructure bills, comparing GPT-5.5 versus Claude Opus 4.6 for different workload archetypes. The core thesis is that total cost in the AI era must account for both development-side token expenditure and runtime cloud infrastructure, with Rust and Go emerging as cost-efficient at scale despite higher upfront AI integration costs.",
+                "takeaways": [
+                  "The AI Copilot Era Equation has three variables: AI token burn rate, cloud compute cost, and language architecture efficiency, all of which must be optimized together rather than in isolation.",
+                  "Language choice creates a cost paradox: Rust with Opus 4.6 has high upfront AI token costs but produces near-zero cloud bills at scale, while Python/Java with cheap GPT-5.5 tokens can lead to exploding downstream infrastructure costs.",
+                  "Go with GPT-5.5 hits the \"financial sweet spot\" for medium systems, offering instant compilation, tiny container footprints, and permanently grounded AI token budgets.",
+                  "At enterprise scale (>20K LOC), Rust and Go outperform Python and Java in cloud compute cost by 3-10x due to zero-heavy GC pauses and extreme memory efficiency."
+                ],
+                "topics": [
+                  "ai token economics",
+                  "cloud compute cost analysis",
+                  "programming language cost comparison",
+                  "copilot model selection",
+                  "total cost paradox",
+                  "enterprise architecture decisions"
+                ],
+                "related": [
+                  {
+                    "id": "T-NdEF6btbg",
+                    "sharedTopics": [
+                      "token",
+                      "language",
+                      "model",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "P58Zt8A_1Mc",
+                    "sharedTopics": [
+                      "programming",
+                      "language",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "84M1mVL0cjo",
+                    "sharedTopics": [
+                      "enterprise",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "YoIXlqspLWE",
+                    "sharedTopics": [
+                      "enterprise",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "7yqkfHo8Mwk",
+                    "sharedTopics": [
+                      "model",
+                      "architecture"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "cuA7G01T7_U",
               "title": "temporal-chain: Architecture & Design",
-              "views": 14,
+              "views": 18,
               "date": "2026-06-06T11:00:07Z",
               "category": "development",
               "tags": [
@@ -23386,7 +23533,7 @@
             {
               "id": "JMk8y25qo2M",
               "title": "Copilot-Backed Code Review Architecture",
-              "views": 15,
+              "views": 16,
               "date": "2026-06-02T23:00:17Z",
               "category": "development",
               "tags": [
@@ -23471,7 +23618,7 @@
             {
               "id": "Jf1VkCXsmwU",
               "title": "The GitHub Copilot SDK Blueprint",
-              "views": 88,
+              "views": 89,
               "date": "2026-05-28T11:46:10Z",
               "category": "development",
               "tags": [
@@ -23547,7 +23694,7 @@
             {
               "id": "yXZnBtdDTFk",
               "title": "Architecting Al in Software Engineering",
-              "views": 73,
+              "views": 74,
               "date": "2026-05-25T11:34:21Z",
               "category": "development",
               "tags": [
@@ -24167,7 +24314,7 @@
             {
               "id": "htpvlYnX77w",
               "title": "Mastering Machine Learning in Rust",
-              "views": 41,
+              "views": 42,
               "date": "2026-05-19T06:00:38Z",
               "category": "development",
               "tags": [
@@ -24556,7 +24703,7 @@
             {
               "id": "BQ4wab0UtLg",
               "title": "From Louvain to Leiden",
-              "views": 40,
+              "views": 45,
               "date": "2026-04-26T15:40:42Z",
               "category": "development",
               "tags": [
@@ -25171,6 +25318,14 @@
                     ]
                   },
                   {
+                    "id": "fWuJSwkdH6I",
+                    "sharedTopics": [
+                      "protocol",
+                      "machine",
+                      "tls"
+                    ]
+                  },
+                  {
                     "id": "ea5lpF3RyzE",
                     "sharedTopics": [
                       "protocol",
@@ -25189,12 +25344,6 @@
                     "sharedTopics": [
                       "tcp",
                       "tls"
-                    ]
-                  },
-                  {
-                    "id": "FM6zp63maS8",
-                    "sharedTopics": [
-                      "protocol"
                     ]
                   }
                 ]
@@ -25277,7 +25426,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 199,
+              "views": 205,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -25353,7 +25502,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2702,
+              "views": 2709,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -25427,7 +25576,7 @@
             {
               "id": "fv61JXUCbeo",
               "title": "Stitch Agent Skills",
-              "views": 279,
+              "views": 280,
               "date": "2026-04-05T21:24:52Z",
               "category": "development",
               "tags": [
@@ -25565,19 +25714,20 @@
                     ]
                   },
                   {
+                    "id": "xwEN7oZFvdw",
+                    "sharedTopics": [
+                      "model",
+                      "architecture",
+                      "language",
+                      "token"
+                    ]
+                  },
+                  {
                     "id": "7yqkfHo8Mwk",
                     "sharedTopics": [
                       "model",
                       "autonomous",
                       "architecture"
-                    ]
-                  },
-                  {
-                    "id": "j8lMpSezavQ",
-                    "sharedTopics": [
-                      "mcp",
-                      "agent",
-                      "server"
                     ]
                   }
                 ]
@@ -26424,7 +26574,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 690,
+              "views": 693,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -27274,7 +27424,7 @@
             {
               "id": "s6wmtsAWvCw",
               "title": "rt-ado-ci-cd Operations and Architecture",
-              "views": 2,
+              "views": 3,
               "date": "2026-06-08T11:00:22Z",
               "category": "development",
               "tags": [
@@ -27349,7 +27499,7 @@
             {
               "id": "cuA7G01T7_U",
               "title": "temporal-chain: Architecture & Design",
-              "views": 14,
+              "views": 18,
               "date": "2026-06-06T11:00:07Z",
               "category": "development",
               "tags": [
@@ -27418,7 +27568,7 @@
             {
               "id": "SNgYSLZ2Ck4",
               "title": "The Architecture of Serde",
-              "views": 51,
+              "views": 48,
               "date": "2026-06-03T23:00:12Z",
               "category": "development",
               "tags": [
@@ -27492,7 +27642,7 @@
             {
               "id": "JMk8y25qo2M",
               "title": "Copilot-Backed Code Review Architecture",
-              "views": 15,
+              "views": 16,
               "date": "2026-06-02T23:00:17Z",
               "category": "development",
               "tags": [
@@ -27577,7 +27727,7 @@
             {
               "id": "uiU9K1hIQBo",
               "title": "Persona Modeling Architecture",
-              "views": 22,
+              "views": 23,
               "date": "2026-06-01T23:00:32Z",
               "category": "development",
               "tags": [
@@ -27728,7 +27878,7 @@
             {
               "id": "3ONqqMoLy0s",
               "title": "The Architecture of Space and Time",
-              "views": 30,
+              "views": 31,
               "date": "2026-05-26T23:06:34Z",
               "category": "development",
               "tags": [
@@ -29200,7 +29350,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4204,
+              "views": 4211,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -29670,7 +29820,7 @@
             {
               "id": "QOYXBkMcnYk",
               "title": "The Echo Web Framework",
-              "views": 40,
+              "views": 41,
               "date": "2026-05-04T02:03:06Z",
               "category": "development",
               "tags": [
@@ -31054,7 +31204,7 @@
             {
               "id": "uqZ-mwxGf2c",
               "title": "Modern Observability in Go",
-              "views": 110,
+              "views": 111,
               "date": "2026-03-01T14:36:52Z",
               "category": "development",
               "tags": [
@@ -31286,7 +31436,7 @@
             {
               "id": "SpNfrWmI8iE",
               "title": "Architecting Scalable Rust Backends",
-              "views": 73,
+              "views": 74,
               "date": "2026-02-22T10:43:18Z",
               "category": "development",
               "tags": [
@@ -31366,7 +31516,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 877,
+              "views": 880,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -31794,7 +31944,7 @@
             {
               "id": "uiU9K1hIQBo",
               "title": "Persona Modeling Architecture",
-              "views": 22,
+              "views": 23,
               "date": "2026-06-01T23:00:32Z",
               "category": "development",
               "tags": [
@@ -32328,7 +32478,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 122,
+              "views": 128,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -32781,7 +32931,7 @@
             {
               "id": "wyIhJ3LMnRg",
               "title": "W3C Trace Context",
-              "views": 66,
+              "views": 67,
               "date": "2026-03-21T13:19:14Z",
               "category": "development",
               "tags": [
@@ -32929,6 +33079,238 @@
                       "distributed tracing",
                       "distributed",
                       "tracing"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Identity & Auth",
+          "videos": [
+            {
+              "id": "0NLj8g2hQNk",
+              "title": "The Client's Guide to 'ra-token-authority'",
+              "views": 12,
+              "date": "2026-01-16T18:34:39Z",
+              "category": "development",
+              "tags": [
+                "zero trust",
+                "ra-token-authority",
+                "paseto",
+                "mtls",
+                "msa",
+                "kubernetes"
+              ],
+              "detail": {
+                "summary": "This video provides a client-side blueprint for integrating with the ra-token-authority service to establish service-to-service trust in distributed microservice architectures. It covers the three pillars of zero trust (identity, authorization, and integrity) and details how clients authenticate, verify permissions, and ensure data integrity when communicating with other services.",
+                "takeaways": [
+                  "Zero trust architecture rests on three pillars: identity (proving who a service is), authorization (verifying what it can do), and integrity (ensuring requests haven't been tampered with).",
+                  "In a zero trust environment, network location cannot be relied upon for security; every service must cryptographically prove its identity.",
+                  "The ra-token-authority provides a centralized mechanism for service-to-service authentication using cryptographically signed tokens.",
+                  "Even after authentication, each request must be checked for authorization and data integrity to defend against in-transit tampering."
+                ],
+                "topics": [
+                  "zero trust",
+                  "service-to-service auth",
+                  "token-based authentication",
+                  "microservice security",
+                  "distributed systems"
+                ],
+                "related": [
+                  {
+                    "id": "A4-foXsdQiA",
+                    "sharedTopics": [
+                      "zero trust",
+                      "zero",
+                      "trust",
+                      "service-to-service auth",
+                      "service-to-service"
+                    ]
+                  },
+                  {
+                    "id": "0ttrfTfP864",
+                    "sharedTopics": [
+                      "zero",
+                      "trust",
+                      "authentication",
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "SeYrpzDTn6A",
+                    "sharedTopics": [
+                      "authentication",
+                      "microservice",
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "zero",
+                      "trust",
+                      "authentication",
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "z_Ydy_-cI1U",
+                    "sharedTopics": [
+                      "distributed",
+                      "systems"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "0ttrfTfP864",
+              "title": "ra-token-authority",
+              "views": 23,
+              "date": "2026-01-16T16:34:51Z",
+              "category": "development",
+              "tags": [
+                "rust",
+                "paseto",
+                "token",
+                "zero trust",
+                "axum",
+                "tokio"
+              ],
+              "detail": {
+                "summary": "This video is a technical deep dive into the ra-token-authority service, a centralized token authority for zero trust service-to-service authentication in Kubernetes and Istio environments. Built with Axum, Tokio, and the rusty-paseto library, it issues PASETO v4.public tokens with automated ED25519 key rotation and exposes a JWKS-like /keys endpoint for public key discovery.",
+                "takeaways": [
+                  "ra-token-authority issues cryptographically signed PASETO v4.public tokens for service-to-service trust in Kubernetes/Istio zero trust environments.",
+                  "Automated key management handles ED25519 key rotation, retention, and garbage collection without manual intervention.",
+                  "The service exposes a JWKS-like endpoint at /keys for seamless public key discovery by client services.",
+                  "The technology stack (Axum, Tokio, rusty-paseto) is guided by test-driven development as the primary development cadence."
+                ],
+                "topics": [
+                  "paseto tokens",
+                  "zero trust authentication",
+                  "axum",
+                  "tokio",
+                  "ed25519 key rotation",
+                  "kubernetes security",
+                  "istio"
+                ],
+                "related": [
+                  {
+                    "id": "pzVOjl6mOD4",
+                    "sharedTopics": [
+                      "paseto tokens",
+                      "paseto",
+                      "tokens",
+                      "authentication",
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "SeYrpzDTn6A",
+                    "sharedTopics": [
+                      "paseto tokens",
+                      "paseto",
+                      "tokens",
+                      "authentication",
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "0NLj8g2hQNk",
+                    "sharedTopics": [
+                      "zero",
+                      "trust",
+                      "authentication",
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "4b-H6ZaoNUE",
+                    "sharedTopics": [
+                      "zero",
+                      "trust",
+                      "kubernetes",
+                      "security",
+                      "istio"
+                    ]
+                  },
+                  {
+                    "id": "A4-foXsdQiA",
+                    "sharedTopics": [
+                      "zero",
+                      "trust",
+                      "kubernetes security",
+                      "kubernetes",
+                      "security"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "2kvYb2pVe5o",
+              "title": "From Blueprint to Battlefield",
+              "views": 32,
+              "date": "2025-12-27T21:55:52Z",
+              "category": "development",
+              "tags": [
+                "identity",
+                "oidc",
+                "ssrf"
+              ],
+              "detail": {
+                "summary": "This video explores the journey of deploying secure federated identity systems from design to production, using NIST SP 800-63C standards and formal analysis to stress-test OpenID Connect (OIDC) and OAuth 2.0 implementations. It highlights the complex multi-party attack surface inherent in OIDC's flexibility and optional features, which informal security evaluations frequently overlook.",
+                "takeaways": [
+                  "NIST SP 800-63C provides the authoritative model for identity federation, built around three core actors: the subscriber, the identity provider, and the relying party.",
+                  "OIDC's inherent flexibility and many optional features create a large attack surface vulnerable to subtle but devastating attacks often missed by informal evaluations.",
+                  "Federated identity delegates user authentication to trusted identity providers (Google, Microsoft, PayPal) using cryptographically signed tokens built on OAuth 2.0.",
+                  "Rigorous formal analysis is necessary beyond informal security review to ensure federated identity frameworks withstand real-world deployment complexities."
+                ],
+                "topics": [
+                  "openid connect",
+                  "oauth 2.0",
+                  "federated identity",
+                  "nist sp 800-63c",
+                  "formal security analysis",
+                  "single sign-on"
+                ],
+                "related": [
+                  {
+                    "id": "n-Yt33ZdEHw",
+                    "sharedTopics": [
+                      "oauth 2.0",
+                      "oauth",
+                      "2.0",
+                      "identity",
+                      "single sign-on"
+                    ]
+                  },
+                  {
+                    "id": "1VjSLqfPf9s",
+                    "sharedTopics": [
+                      "2.0",
+                      "nist",
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "NztD5fYpXcg",
+                    "sharedTopics": [
+                      "analysis"
+                    ]
+                  },
+                  {
+                    "id": "0NLj8g2hQNk",
+                    "sharedTopics": [
+                      "security"
+                    ]
+                  },
+                  {
+                    "id": "pzVOjl6mOD4",
+                    "sharedTopics": [
+                      "security"
                     ]
                   }
                 ]
@@ -33102,7 +33484,7 @@
             {
               "id": "pzVOjl6mOD4",
               "title": "The Architect's Guide to Modern Token Security",
-              "views": 31,
+              "views": 33,
               "date": "2025-12-30T03:57:17Z",
               "category": "development",
               "tags": [
@@ -33171,178 +33553,160 @@
               }
             }
           ]
-        },
-        {
-          "name": "Identity & Auth",
-          "videos": [
-            {
-              "id": "0NLj8g2hQNk",
-              "title": "The Client's Guide to 'ra-token-authority'",
-              "views": 12,
-              "date": "2026-01-16T18:34:39Z",
-              "category": "development",
-              "tags": [
-                "zero trust",
-                "ra-token-authority",
-                "paseto",
-                "mtls",
-                "msa",
-                "kubernetes"
-              ],
-              "detail": {
-                "summary": "This video provides a client-side blueprint for integrating with the ra-token-authority service to establish service-to-service trust in distributed microservice architectures. It covers the three pillars of zero trust (identity, authorization, and integrity) and details how clients authenticate, verify permissions, and ensure data integrity when communicating with other services.",
-                "takeaways": [
-                  "Zero trust architecture rests on three pillars: identity (proving who a service is), authorization (verifying what it can do), and integrity (ensuring requests haven't been tampered with).",
-                  "In a zero trust environment, network location cannot be relied upon for security; every service must cryptographically prove its identity.",
-                  "The ra-token-authority provides a centralized mechanism for service-to-service authentication using cryptographically signed tokens.",
-                  "Even after authentication, each request must be checked for authorization and data integrity to defend against in-transit tampering."
-                ],
-                "topics": [
-                  "zero trust",
-                  "service-to-service auth",
-                  "token-based authentication",
-                  "microservice security",
-                  "distributed systems"
-                ],
-                "related": [
-                  {
-                    "id": "A4-foXsdQiA",
-                    "sharedTopics": [
-                      "zero trust",
-                      "zero",
-                      "trust",
-                      "service-to-service auth",
-                      "service-to-service"
-                    ]
-                  },
-                  {
-                    "id": "0ttrfTfP864",
-                    "sharedTopics": [
-                      "zero",
-                      "trust",
-                      "authentication",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "SeYrpzDTn6A",
-                    "sharedTopics": [
-                      "authentication",
-                      "microservice",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "zero",
-                      "trust",
-                      "authentication",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "z_Ydy_-cI1U",
-                    "sharedTopics": [
-                      "distributed",
-                      "systems"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "0ttrfTfP864",
-              "title": "ra-token-authority",
-              "views": 23,
-              "date": "2026-01-16T16:34:51Z",
-              "category": "development",
-              "tags": [
-                "rust",
-                "paseto",
-                "token",
-                "zero trust",
-                "axum",
-                "tokio"
-              ],
-              "detail": {
-                "summary": "This video is a technical deep dive into the ra-token-authority service, a centralized token authority for zero trust service-to-service authentication in Kubernetes and Istio environments. Built with Axum, Tokio, and the rusty-paseto library, it issues PASETO v4.public tokens with automated ED25519 key rotation and exposes a JWKS-like /keys endpoint for public key discovery.",
-                "takeaways": [
-                  "ra-token-authority issues cryptographically signed PASETO v4.public tokens for service-to-service trust in Kubernetes/Istio zero trust environments.",
-                  "Automated key management handles ED25519 key rotation, retention, and garbage collection without manual intervention.",
-                  "The service exposes a JWKS-like endpoint at /keys for seamless public key discovery by client services.",
-                  "The technology stack (Axum, Tokio, rusty-paseto) is guided by test-driven development as the primary development cadence."
-                ],
-                "topics": [
-                  "paseto tokens",
-                  "zero trust authentication",
-                  "axum",
-                  "tokio",
-                  "ed25519 key rotation",
-                  "kubernetes security",
-                  "istio"
-                ],
-                "related": [
-                  {
-                    "id": "pzVOjl6mOD4",
-                    "sharedTopics": [
-                      "paseto tokens",
-                      "paseto",
-                      "tokens",
-                      "authentication",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "SeYrpzDTn6A",
-                    "sharedTopics": [
-                      "paseto tokens",
-                      "paseto",
-                      "tokens",
-                      "authentication",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "0NLj8g2hQNk",
-                    "sharedTopics": [
-                      "zero",
-                      "trust",
-                      "authentication",
-                      "security"
-                    ]
-                  },
-                  {
-                    "id": "4b-H6ZaoNUE",
-                    "sharedTopics": [
-                      "zero",
-                      "trust",
-                      "kubernetes",
-                      "security",
-                      "istio"
-                    ]
-                  },
-                  {
-                    "id": "A4-foXsdQiA",
-                    "sharedTopics": [
-                      "zero",
-                      "trust",
-                      "kubernetes security",
-                      "kubernetes",
-                      "security"
-                    ]
-                  }
-                ]
-              }
-            }
-          ]
         }
       ],
       "videos": [
         {
+          "id": "xwEN7oZFvdw",
+          "title": "The AI Copilot Era Equation",
+          "views": 2,
+          "date": "2026-06-10T23:00:17Z",
+          "category": "development",
+          "tags": [
+            "ai",
+            "cost",
+            "language",
+            "llm",
+            "cloud"
+          ],
+          "detail": {
+            "summary": "This video presents the AI Copilot Era Equation as a framework for balancing AI token burn, cloud compute costs, and language architecture when building AI-assisted systems. It introduces a three-phase scale model (small, medium, enterprise) mapping programming language choices against AI token costs and cloud infrastructure bills, comparing GPT-5.5 versus Claude Opus 4.6 for different workload archetypes. The core thesis is that total cost in the AI era must account for both development-side token expenditure and runtime cloud infrastructure, with Rust and Go emerging as cost-efficient at scale despite higher upfront AI integration costs.",
+            "takeaways": [
+              "The AI Copilot Era Equation has three variables: AI token burn rate, cloud compute cost, and language architecture efficiency, all of which must be optimized together rather than in isolation.",
+              "Language choice creates a cost paradox: Rust with Opus 4.6 has high upfront AI token costs but produces near-zero cloud bills at scale, while Python/Java with cheap GPT-5.5 tokens can lead to exploding downstream infrastructure costs.",
+              "Go with GPT-5.5 hits the \"financial sweet spot\" for medium systems, offering instant compilation, tiny container footprints, and permanently grounded AI token budgets.",
+              "At enterprise scale (>20K LOC), Rust and Go outperform Python and Java in cloud compute cost by 3-10x due to zero-heavy GC pauses and extreme memory efficiency."
+            ],
+            "topics": [
+              "ai token economics",
+              "cloud compute cost analysis",
+              "programming language cost comparison",
+              "copilot model selection",
+              "total cost paradox",
+              "enterprise architecture decisions"
+            ],
+            "related": [
+              {
+                "id": "T-NdEF6btbg",
+                "sharedTopics": [
+                  "token",
+                  "language",
+                  "model",
+                  "architecture"
+                ]
+              },
+              {
+                "id": "P58Zt8A_1Mc",
+                "sharedTopics": [
+                  "programming",
+                  "language",
+                  "architecture"
+                ]
+              },
+              {
+                "id": "84M1mVL0cjo",
+                "sharedTopics": [
+                  "enterprise",
+                  "architecture"
+                ]
+              },
+              {
+                "id": "YoIXlqspLWE",
+                "sharedTopics": [
+                  "enterprise",
+                  "architecture"
+                ]
+              },
+              {
+                "id": "7yqkfHo8Mwk",
+                "sharedTopics": [
+                  "model",
+                  "architecture"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "fWuJSwkdH6I",
+          "title": "Quinn: A Pure-Rust QUIC Protocol Implementation",
+          "views": 11,
+          "date": "2026-06-09T23:00:25Z",
+          "category": "development",
+          "tags": [
+            "rust",
+            "quic",
+            "internal",
+            "async",
+            "ietf"
+          ],
+          "detail": {
+            "summary": "This video provides a detailed architectural walkthrough of Quinn, a pure-Rust implementation of the QUIC transport protocol built on three pillars: memory safety and speed, async-first design, and IETF compliance. It explains the three-tiered protocol stack separating the high-level async API, the deterministic QUIC state machine (Quinn-proto), and the OS-adaptive UDP layer, highlighting how each layer maintains determinism by decoupling protocol logic from real-world time. The presentation covers congestion control algorithms (BBR, CUBIC, New Reno), MTU path discovery with DPLPMTUD, TLS 1.3 integration via Rustls, and the granular configuration hierarchy that governs everything from flow control windows to custom congestion control factories.",
+            "takeaways": [
+              "Quinn's architecture is structured as three independent layers: the async API layer (endpoint/connection management), the Quinn-proto deterministic state machine (pure protocol logic with abstract time), and the OS-adaptive UDP layer (platform-specific socket I/O with kernel offload support).",
+              "The deterministic protocol engine processes only two inputs (incoming UDP datagrams and timer ticks) and operates on abstract time, making it highly testable and embeddable via C FFI without dependency on wall clock time.",
+              "Quinn achieves runtime agnosticism through a runtime trait that decouples the library from specific async executors, with first-class implementations for both Tokio and smol ecosystems.",
+              "Congestion control supports BBR, CUBIC, and New Reno interchangeably, with BBR proactively probing bottleneck bandwidth while CUBIC uses a cubic growth function for high network utilization.",
+              "TLS 1.3 integration uses Rustls with feature flags allowing cryptographic backend selection between AWS-LC-RS and Ring, and AEAD protects both packet payloads and headers independently."
+            ],
+            "topics": [
+              "quic protocol",
+              "rust async networking",
+              "deterministic state machine",
+              "congestion control algorithms",
+              "mtu path discovery",
+              "tls 1.3 integration",
+              "runtime agnostic design",
+              "kernel offloading"
+            ],
+            "related": [
+              {
+                "id": "0Sed1oggMKY",
+                "sharedTopics": [
+                  "rust",
+                  "async",
+                  "runtime"
+                ]
+              },
+              {
+                "id": "90hw9qwXbbw",
+                "sharedTopics": [
+                  "rust",
+                  "async",
+                  "runtime"
+                ]
+              },
+              {
+                "id": "lY5TU8qHduM",
+                "sharedTopics": [
+                  "rust",
+                  "async",
+                  "runtime"
+                ]
+              },
+              {
+                "id": "js95nIDeA-c",
+                "sharedTopics": [
+                  "rust",
+                  "async",
+                  "runtime"
+                ]
+              },
+              {
+                "id": "F59lTcC6xJ0",
+                "sharedTopics": [
+                  "rust",
+                  "async",
+                  "runtime"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "s6wmtsAWvCw",
           "title": "rt-ado-ci-cd Operations and Architecture",
-          "views": 2,
+          "views": 3,
           "date": "2026-06-08T11:00:22Z",
           "category": "development",
           "tags": [
@@ -33417,7 +33781,7 @@
         {
           "id": "cuA7G01T7_U",
           "title": "temporal-chain: Architecture & Design",
-          "views": 14,
+          "views": 18,
           "date": "2026-06-06T11:00:07Z",
           "category": "development",
           "tags": [
@@ -33486,7 +33850,7 @@
         {
           "id": "3jMQWDNqsro",
           "title": "Architecting Ledger Systems in Rust",
-          "views": 27,
+          "views": 29,
           "date": "2026-06-05T23:00:10Z",
           "category": "development",
           "tags": [
@@ -33557,7 +33921,7 @@
         {
           "id": "r1rhrISQXeA",
           "title": "SlideVoice Studio Swift",
-          "views": 39,
+          "views": 38,
           "date": "2026-06-04T23:00:24Z",
           "category": "development",
           "tags": [
@@ -33632,7 +33996,7 @@
         {
           "id": "XHQGmyffO-s",
           "title": "Architecting the Next-Generation Enterprise",
-          "views": 10,
+          "views": 12,
           "date": "2026-06-04T10:06:51Z",
           "category": "development",
           "tags": [
@@ -33707,7 +34071,7 @@
         {
           "id": "SNgYSLZ2Ck4",
           "title": "The Architecture of Serde",
-          "views": 51,
+          "views": 48,
           "date": "2026-06-03T23:00:12Z",
           "category": "development",
           "tags": [
@@ -33781,7 +34145,7 @@
         {
           "id": "JMk8y25qo2M",
           "title": "Copilot-Backed Code Review Architecture",
-          "views": 15,
+          "views": 16,
           "date": "2026-06-02T23:00:17Z",
           "category": "development",
           "tags": [
@@ -33866,7 +34230,7 @@
         {
           "id": "i8wjbDfxZTY",
           "title": "Why uv, ruff, and ty are mandatory",
-          "views": 129,
+          "views": 126,
           "date": "2026-06-02T05:10:54Z",
           "category": "development",
           "tags": [
@@ -33936,7 +34300,7 @@
         {
           "id": "uiU9K1hIQBo",
           "title": "Persona Modeling Architecture",
-          "views": 22,
+          "views": 23,
           "date": "2026-06-01T23:00:32Z",
           "category": "development",
           "tags": [
@@ -34017,7 +34381,7 @@
         {
           "id": "JNHxVHyzWdE",
           "title": "Deconstructing the Bridge",
-          "views": 24,
+          "views": 25,
           "date": "2026-06-01T10:00:18Z",
           "category": "development",
           "tags": [
@@ -34084,7 +34448,7 @@
         {
           "id": "CqBZBJTAo3I",
           "title": "Building Dynamic Al Interfaces with GenUl",
-          "views": 111,
+          "views": 113,
           "date": "2026-05-31T22:00:11Z",
           "category": "development",
           "tags": [
@@ -34158,7 +34522,7 @@
         {
           "id": "L4YBdUVCFd4",
           "title": "Migrating to SolidJS 2.0",
-          "views": 42,
+          "views": 46,
           "date": "2026-05-30T22:00:08Z",
           "category": "development",
           "tags": [
@@ -34227,7 +34591,7 @@
         {
           "id": "cDNqrUa260k",
           "title": "Rust 1.96 Ecosystem Release",
-          "views": 36,
+          "views": 38,
           "date": "2026-05-30T10:00:22Z",
           "category": "development",
           "tags": [
@@ -34299,7 +34663,7 @@
         {
           "id": "d3JxtD__-L0",
           "title": "Architecting a Modern Robocode Engine",
-          "views": 60,
+          "views": 64,
           "date": "2026-05-29T21:33:13Z",
           "category": "development",
           "tags": [
@@ -34458,7 +34822,7 @@
         {
           "id": "Jf1VkCXsmwU",
           "title": "The GitHub Copilot SDK Blueprint",
-          "views": 88,
+          "views": 89,
           "date": "2026-05-28T11:46:10Z",
           "category": "development",
           "tags": [
@@ -34604,7 +34968,7 @@
         {
           "id": "7LynLmseNRk",
           "title": "Bumble: A Universal Userspace Bluetooth Stack",
-          "views": 29,
+          "views": 30,
           "date": "2026-05-27T12:37:31Z",
           "category": "development",
           "tags": [
@@ -34674,7 +35038,7 @@
         {
           "id": "3ONqqMoLy0s",
           "title": "The Architecture of Space and Time",
-          "views": 30,
+          "views": 31,
           "date": "2026-05-26T23:06:34Z",
           "category": "development",
           "tags": [
@@ -34894,7 +35258,7 @@
         {
           "id": "yXZnBtdDTFk",
           "title": "Architecting Al in Software Engineering",
-          "views": 73,
+          "views": 74,
           "date": "2026-05-25T11:34:21Z",
           "category": "development",
           "tags": [
@@ -34968,7 +35332,7 @@
         {
           "id": "S3Vc_R-HezY",
           "title": "svs-cli: 10 Critical Things",
-          "views": 15,
+          "views": 16,
           "date": "2026-05-25T02:46:56Z",
           "category": "development",
           "tags": [
@@ -35274,7 +35638,7 @@
         {
           "id": "xiTVDbJscik",
           "title": "AX: The Distributed Agent Runtime",
-          "views": 52,
+          "views": 57,
           "date": "2026-05-23T14:24:46Z",
           "category": "development",
           "tags": [
@@ -35739,7 +36103,7 @@
         {
           "id": "htpvlYnX77w",
           "title": "Mastering Machine Learning in Rust",
-          "views": 41,
+          "views": 42,
           "date": "2026-05-19T06:00:38Z",
           "category": "development",
           "tags": [
@@ -35817,7 +36181,7 @@
         {
           "id": "jrD_LGNsJXM",
           "title": "Async 1/0 in Zig 0.16, Today",
-          "views": 121,
+          "views": 127,
           "date": "2026-05-17T19:24:16Z",
           "category": "development",
           "tags": [
@@ -36427,7 +36791,7 @@
         {
           "id": "n9Ebc-0E478",
           "title": "Building the Multimodal Al Lakehouse",
-          "views": 23,
+          "views": 24,
           "date": "2026-05-14T12:06:25Z",
           "category": "development",
           "tags": [
@@ -36505,7 +36869,7 @@
         {
           "id": "uz8nmkTPEpg",
           "title": "SQLx",
-          "views": 33,
+          "views": 35,
           "date": "2026-05-13T22:37:02Z",
           "category": "development",
           "tags": [
@@ -36730,7 +37094,7 @@
         {
           "id": "B81dHVYOYJA",
           "title": "Inside the Typst Compiler Engine",
-          "views": 111,
+          "views": 116,
           "date": "2026-05-11T00:02:22Z",
           "category": "development",
           "tags": [
@@ -36968,7 +37332,7 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 412,
+          "views": 414,
           "date": "2026-05-09T14:32:47Z",
           "category": "development",
           "tags": [
@@ -37010,6 +37374,14 @@
                 ]
               },
               {
+                "id": "xwEN7oZFvdw",
+                "sharedTopics": [
+                  "model",
+                  "comparison",
+                  "token"
+                ]
+              },
+              {
                 "id": "T-NdEF6btbg",
                 "sharedTopics": [
                   "agent",
@@ -37030,13 +37402,6 @@
                   "model",
                   "web"
                 ]
-              },
-              {
-                "id": "i1HT5UIccTs",
-                "sharedTopics": [
-                  "agent",
-                  "scaffolding"
-                ]
               }
             ]
           }
@@ -37044,7 +37409,7 @@
         {
           "id": "qAHyv6G3a7M",
           "title": "Building the Unified Rust Backend",
-          "views": 747,
+          "views": 749,
           "date": "2026-05-09T07:32:42Z",
           "category": "development",
           "tags": [
@@ -37133,7 +37498,7 @@
         {
           "id": "_bFOZ51Q55Y",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 2017,
+          "views": 2020,
           "date": "2026-05-09T02:40:33Z",
           "category": "development",
           "tags": [
@@ -37829,7 +38194,7 @@
         {
           "id": "QOYXBkMcnYk",
           "title": "The Echo Web Framework",
-          "views": 40,
+          "views": 41,
           "date": "2026-05-04T02:03:06Z",
           "category": "development",
           "tags": [
@@ -38070,7 +38435,7 @@
         {
           "id": "DwAOCljoNoc",
           "title": "Hyper: The Foundation of Fast HTTP in Rust",
-          "views": 96,
+          "views": 98,
           "date": "2026-05-02T18:35:37Z",
           "category": "development",
           "tags": [
@@ -38855,7 +39220,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 40,
+          "views": 45,
           "date": "2026-04-26T15:40:42Z",
           "category": "development",
           "tags": [
@@ -40196,6 +40561,14 @@
                 ]
               },
               {
+                "id": "fWuJSwkdH6I",
+                "sharedTopics": [
+                  "protocol",
+                  "machine",
+                  "tls"
+                ]
+              },
+              {
                 "id": "ea5lpF3RyzE",
                 "sharedTopics": [
                   "protocol",
@@ -40214,12 +40587,6 @@
                 "sharedTopics": [
                   "tcp",
                   "tls"
-                ]
-              },
-              {
-                "id": "FM6zp63maS8",
-                "sharedTopics": [
-                  "protocol"
                 ]
               }
             ]
@@ -40298,7 +40665,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 727,
+          "views": 730,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -40827,6 +41194,13 @@
                 ]
               },
               {
+                "id": "fWuJSwkdH6I",
+                "sharedTopics": [
+                  "protocol",
+                  "networking"
+                ]
+              },
+              {
                 "id": "FM6zp63maS8",
                 "sharedTopics": [
                   "protocol"
@@ -40837,12 +41211,6 @@
                 "sharedTopics": [
                   "analysis"
                 ]
-              },
-              {
-                "id": "9oSUtndLto4",
-                "sharedTopics": [
-                  "protocol"
-                ]
               }
             ]
           }
@@ -40850,7 +41218,7 @@
         {
           "id": "LackTxguXFg",
           "title": "The Programmer's Guide to Essential RFCs",
-          "views": 108,
+          "views": 109,
           "date": "2026-04-10T16:29:16Z",
           "category": "development",
           "tags": [
@@ -40918,7 +41286,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 199,
+          "views": 205,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -40994,7 +41362,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2702,
+          "views": 2709,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -41431,7 +41799,7 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 279,
+          "views": 280,
           "date": "2026-04-05T21:24:52Z",
           "category": "development",
           "tags": [
@@ -41569,19 +41937,20 @@
                 ]
               },
               {
+                "id": "xwEN7oZFvdw",
+                "sharedTopics": [
+                  "model",
+                  "architecture",
+                  "language",
+                  "token"
+                ]
+              },
+              {
                 "id": "7yqkfHo8Mwk",
                 "sharedTopics": [
                   "model",
                   "autonomous",
                   "architecture"
-                ]
-              },
-              {
-                "id": "j8lMpSezavQ",
-                "sharedTopics": [
-                  "mcp",
-                  "agent",
-                  "server"
                 ]
               }
             ]
@@ -41731,7 +42100,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4204,
+          "views": 4211,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -41926,17 +42295,18 @@
                 ]
               },
               {
+                "id": "fWuJSwkdH6I",
+                "sharedTopics": [
+                  "quic",
+                  "tls",
+                  "1.3"
+                ]
+              },
+              {
                 "id": "ea5lpF3RyzE",
                 "sharedTopics": [
                   "udp",
                   "tcp"
-                ]
-              },
-              {
-                "id": "lsjfczYFBeQ",
-                "sharedTopics": [
-                  "tcp",
-                  "tls"
                 ]
               }
             ]
@@ -42681,7 +43051,7 @@
         {
           "id": "zrP3muXzQX4",
           "title": "Reins: The Framework for Al-Assisted Development",
-          "views": 70,
+          "views": 71,
           "date": "2026-03-23T11:19:38Z",
           "category": "development",
           "tags": [
@@ -42754,7 +43124,7 @@
         {
           "id": "vep9hSKc9I0",
           "title": "Dial9 Demo - Deep Observability in Async Rust",
-          "views": 119,
+          "views": 122,
           "date": "2026-03-22T10:40:21Z",
           "category": "development",
           "tags": [
@@ -42832,7 +43202,7 @@
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
-          "views": 66,
+          "views": 67,
           "date": "2026-03-21T13:19:14Z",
           "category": "development",
           "tags": [
@@ -44845,7 +45215,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 269,
+          "views": 271,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -45060,7 +45430,7 @@
         {
           "id": "uqZ-mwxGf2c",
           "title": "Modern Observability in Go",
-          "views": 110,
+          "views": 111,
           "date": "2026-03-01T14:36:52Z",
           "category": "development",
           "tags": [
@@ -45212,7 +45582,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 690,
+          "views": 693,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -45874,7 +46244,7 @@
         {
           "id": "SpNfrWmI8iE",
           "title": "Architecting Scalable Rust Backends",
-          "views": 73,
+          "views": 74,
           "date": "2026-02-22T10:43:18Z",
           "category": "development",
           "tags": [
@@ -46271,6 +46641,13 @@
             ],
             "related": [
               {
+                "id": "xwEN7oZFvdw",
+                "sharedTopics": [
+                  "cost",
+                  "analysis"
+                ]
+              },
+              {
                 "id": "eJlXFaZNP6g",
                 "sharedTopics": [
                   "cost",
@@ -46294,12 +46671,6 @@
                 "sharedTopics": [
                   "observability"
                 ]
-              },
-              {
-                "id": "HOetEEw0ogM",
-                "sharedTopics": [
-                  "devops"
-                ]
               }
             ]
           }
@@ -46307,7 +46678,7 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 122,
+          "views": 128,
           "date": "2026-02-14T22:47:13Z",
           "category": "development",
           "tags": [
@@ -46371,7 +46742,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 877,
+          "views": 880,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -46525,7 +46896,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 513,
+          "views": 519,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -46682,7 +47053,7 @@
         {
           "id": "cEwAbu6FFRo",
           "title": "Compound Engineering",
-          "views": 175,
+          "views": 180,
           "date": "2026-02-11T13:08:01Z",
           "category": "development",
           "tags": [
@@ -47189,7 +47560,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 212,
+          "views": 221,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -47266,7 +47637,7 @@
         {
           "id": "5st-kLcNrE8",
           "title": "Jujutsu (jj):  An Introduction of its Paradigm Shift",
-          "views": 117,
+          "views": 118,
           "date": "2026-02-06T00:13:53Z",
           "category": "development",
           "tags": [
@@ -47336,7 +47707,7 @@
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 451,
+          "views": 452,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -50571,7 +50942,7 @@
         {
           "id": "pzVOjl6mOD4",
           "title": "The Architect's Guide to Modern Token Security",
-          "views": 31,
+          "views": 33,
           "date": "2025-12-30T03:57:17Z",
           "category": "development",
           "tags": [
@@ -50791,6 +51162,11 @@
           "views": 32,
           "date": "2025-12-27T21:55:52Z",
           "category": "development",
+          "tags": [
+            "identity",
+            "oidc",
+            "ssrf"
+          ],
           "detail": {
             "summary": "This video explores the journey of deploying secure federated identity systems from design to production, using NIST SP 800-63C standards and formal analysis to stress-test OpenID Connect (OIDC) and OAuth 2.0 implementations. It highlights the complex multi-party attack surface inherent in OIDC's flexibility and optional features, which informal security evaluations frequently overlook.",
             "takeaways": [
@@ -50850,7 +51226,7 @@
         {
           "id": "TLqdeHlAo3A",
           "title": "From Bottlenecks to Breakthroughs:",
-          "views": 55,
+          "views": 56,
           "date": "2025-12-27T21:13:50Z",
           "category": "development",
           "tags": [
@@ -50928,7 +51304,7 @@
         "development"
       ],
       "videoCount": 15,
-      "totalViews": 523,
+      "totalViews": 544,
       "topTags": [
         {
           "tag": "agent",
@@ -51018,7 +51394,7 @@
             {
               "id": "Kp_4y_HEaZ0",
               "title": "Winning the Arms Race in Credential Security",
-              "views": 11,
+              "views": 17,
               "date": "2026-06-06T23:00:12Z",
               "category": "security",
               "tags": [
@@ -51726,7 +52102,7 @@
             {
               "id": "Kp_4y_HEaZ0",
               "title": "Winning the Arms Race in Credential Security",
-              "views": 11,
+              "views": 17,
               "date": "2026-06-06T23:00:12Z",
               "category": "security",
               "tags": [
@@ -51794,7 +52170,7 @@
             {
               "id": "MFiVlaMYmwM",
               "title": "Microsoft Agent Governance Toolkit",
-              "views": 73,
+              "views": 86,
               "date": "2026-05-23T04:44:12Z",
               "category": "security",
               "tags": [
@@ -51873,7 +52249,7 @@
         {
           "id": "Kp_4y_HEaZ0",
           "title": "Winning the Arms Race in Credential Security",
-          "views": 11,
+          "views": 17,
           "date": "2026-06-06T23:00:12Z",
           "category": "security",
           "tags": [
@@ -51941,7 +52317,7 @@
         {
           "id": "MFiVlaMYmwM",
           "title": "Microsoft Agent Governance Toolkit",
-          "views": 73,
+          "views": 86,
           "date": "2026-05-23T04:44:12Z",
           "category": "security",
           "tags": [
@@ -52165,7 +52541,7 @@
         {
           "id": "_5DCBqOCr8c",
           "title": "Designing for Privacy",
-          "views": 43,
+          "views": 44,
           "date": "2026-04-19T04:59:35Z",
           "category": "security",
           "tags": [
@@ -52852,7 +53228,7 @@
         {
           "id": "JfGgWiiCTA0",
           "title": "Shannon: Autonomous Penetration Testing",
-          "views": 49,
+          "views": 50,
           "date": "2026-02-14T10:04:10Z",
           "category": "security",
           "tags": [
@@ -53516,28 +53892,28 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2702,
+          "views": 2709,
           "date": "2026-04-09T22:17:25Z",
           "category": "development"
         },
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 690,
+          "views": 693,
           "date": "2026-02-28T05:29:43Z",
           "category": "development"
         },
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 279,
+          "views": 280,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 199,
+          "views": 205,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -53586,7 +53962,7 @@
         {
           "id": "yXZnBtdDTFk",
           "title": "Architecting Al in Software Engineering",
-          "views": 73,
+          "views": 74,
           "date": "2026-05-25T11:34:21Z",
           "category": "development"
         },
@@ -53677,7 +54053,7 @@
         {
           "id": "9xDzB24tO4I",
           "title": "The 2026 Enterprise AI Blueprint",
-          "views": 25,
+          "views": 26,
           "date": "2026-05-21T21:09:53Z",
           "category": "finance"
         },
@@ -53745,6 +54121,13 @@
           "category": "development"
         },
         {
+          "id": "xwEN7oZFvdw",
+          "title": "The AI Copilot Era Equation",
+          "views": 2,
+          "date": "2026-06-10T23:00:17Z",
+          "category": "development"
+        },
+        {
           "id": "z_Ydy_-cI1U",
           "title": "Micro-Processing the Hippo's Waste",
           "views": 2,
@@ -53764,7 +54147,7 @@
         {
           "id": "LackTxguXFg",
           "title": "The Programmer's Guide to Essential RFCs",
-          "views": 108,
+          "views": 109,
           "date": "2026-04-10T16:29:16Z",
           "category": "development"
         },
@@ -53797,18 +54180,18 @@
           "category": "finance"
         },
         {
+          "id": "BQ4wab0UtLg",
+          "title": "From Louvain to Leiden",
+          "views": 45,
+          "date": "2026-04-26T15:40:42Z",
+          "category": "development"
+        },
+        {
           "id": "3bcmjx5F5Xs",
           "title": "The 10-Year Al Investing Architecture",
           "views": 42,
           "date": "2026-05-25T15:23:15Z",
           "category": "finance"
-        },
-        {
-          "id": "BQ4wab0UtLg",
-          "title": "From Louvain to Leiden",
-          "views": 40,
-          "date": "2026-04-26T15:40:42Z",
-          "category": "development"
         },
         {
           "id": "oHdhgeF4wlI",
@@ -53825,6 +54208,13 @@
           "category": "development"
         },
         {
+          "id": "3ONqqMoLy0s",
+          "title": "The Architecture of Space and Time",
+          "views": 31,
+          "date": "2026-05-26T23:06:34Z",
+          "category": "development"
+        },
+        {
           "id": "lsjfczYFBeQ",
           "title": "The Evolution of RFCs in the Al Era",
           "views": 31,
@@ -53832,30 +54222,30 @@
           "category": "development"
         },
         {
-          "id": "3ONqqMoLy0s",
-          "title": "The Architecture of Space and Time",
-          "views": 30,
-          "date": "2026-05-26T23:06:34Z",
-          "category": "development"
-        },
-        {
           "id": "3jMQWDNqsro",
           "title": "Architecting Ledger Systems in Rust",
-          "views": 27,
+          "views": 29,
           "date": "2026-06-05T23:00:10Z",
           "category": "development"
         },
         {
+          "id": "8vJLWsfheRE",
+          "title": "The Architecture of Opportunity",
+          "views": 27,
+          "date": "2026-06-07T23:00:16Z",
+          "category": "finance"
+        },
+        {
           "id": "9xDzB24tO4I",
           "title": "The 2026 Enterprise AI Blueprint",
-          "views": 25,
+          "views": 26,
           "date": "2026-05-21T21:09:53Z",
           "category": "finance"
         },
         {
           "id": "JNHxVHyzWdE",
           "title": "Deconstructing the Bridge",
-          "views": 24,
+          "views": 25,
           "date": "2026-06-01T10:00:18Z",
           "category": "development"
         },
@@ -53867,10 +54257,10 @@
           "category": "finance"
         },
         {
-          "id": "8vJLWsfheRE",
-          "title": "The Architecture of Opportunity",
-          "views": 17,
-          "date": "2026-06-07T23:00:16Z",
+          "id": "GmUKi-ZPOYU",
+          "title": "Cognitive Lenses in Modern Design",
+          "views": 18,
+          "date": "2026-06-05T11:00:11Z",
           "category": "finance"
         },
         {
@@ -53902,16 +54292,9 @@
           "category": "finance"
         },
         {
-          "id": "GmUKi-ZPOYU",
-          "title": "Cognitive Lenses in Modern Design",
-          "views": 13,
-          "date": "2026-06-05T11:00:11Z",
-          "category": "finance"
-        },
-        {
           "id": "l9UUqD2Bz2E",
           "title": "The Mystery of the Nickel Coke",
-          "views": 10,
+          "views": 11,
           "date": "2026-04-10T15:32:57Z",
           "category": "finance"
         },
@@ -54008,35 +54391,35 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 412,
+          "views": 414,
           "date": "2026-05-09T14:32:47Z",
           "category": "development"
         },
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 279,
+          "views": 280,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 199,
+          "views": 205,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
           "id": "Jf1VkCXsmwU",
           "title": "The GitHub Copilot SDK Blueprint",
-          "views": 88,
+          "views": 89,
           "date": "2026-05-28T11:46:10Z",
           "category": "development"
         },
         {
           "id": "MFiVlaMYmwM",
           "title": "Microsoft Agent Governance Toolkit",
-          "views": 73,
+          "views": 86,
           "date": "2026-05-23T04:44:12Z",
           "category": "security"
         },
@@ -54055,6 +54438,13 @@
           "category": "development"
         },
         {
+          "id": "xiTVDbJscik",
+          "title": "AX: The Distributed Agent Runtime",
+          "views": 57,
+          "date": "2026-05-23T14:24:46Z",
+          "category": "development"
+        },
+        {
           "id": "i1HT5UIccTs",
           "title": "Agent Skills for Dart",
           "views": 53,
@@ -54062,16 +54452,9 @@
           "category": "development"
         },
         {
-          "id": "xiTVDbJscik",
-          "title": "AX: The Distributed Agent Runtime",
-          "views": 52,
-          "date": "2026-05-23T14:24:46Z",
-          "category": "development"
-        },
-        {
           "id": "JfGgWiiCTA0",
           "title": "Shannon: Autonomous Penetration Testing",
-          "views": 49,
+          "views": 50,
           "date": "2026-02-14T10:04:10Z",
           "category": "security"
         },
@@ -54115,7 +54498,7 @@
         {
           "id": "9xDzB24tO4I",
           "title": "The 2026 Enterprise AI Blueprint",
-          "views": 25,
+          "views": 26,
           "date": "2026-05-21T21:09:53Z",
           "category": "finance"
         },
@@ -54138,7 +54521,7 @@
         {
           "id": "n9Ebc-0E478",
           "title": "Building the Multimodal Al Lakehouse",
-          "views": 23,
+          "views": 24,
           "date": "2026-05-14T12:06:25Z",
           "category": "development"
         },
@@ -54198,14 +54581,14 @@
         {
           "id": "LxI5YjCUswI",
           "title": "Introducing ExtendDB",
-          "views": 39,
+          "views": 41,
           "date": "2026-05-24T19:34:44Z",
           "category": "kubernetes"
         },
         {
           "id": "XHQGmyffO-s",
           "title": "Architecting the Next-Generation Enterprise",
-          "views": 10,
+          "views": 12,
           "date": "2026-06-04T10:06:51Z",
           "category": "development"
         }
@@ -54221,21 +54604,21 @@
         {
           "id": "_bFOZ51Q55Y",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 2017,
+          "views": 2020,
           "date": "2026-05-09T02:40:33Z",
           "category": "development"
         },
         {
           "id": "qAHyv6G3a7M",
           "title": "Building the Unified Rust Backend",
-          "views": 747,
+          "views": 749,
           "date": "2026-05-09T07:32:42Z",
           "category": "development"
         },
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 513,
+          "views": 519,
           "date": "2026-02-13T15:08:23Z",
           "category": "development"
         },
@@ -54275,6 +54658,13 @@
           "category": "development"
         },
         {
+          "id": "kQc99Io3pCo",
+          "title": "HelixDB: The Unified Graph-Vector Database",
+          "views": 128,
+          "date": "2026-02-14T22:47:13Z",
+          "category": "development"
+        },
+        {
           "id": "L9ypC5863yA",
           "title": "The Microservices Communication Playbook",
           "views": 124,
@@ -54282,23 +54672,16 @@
           "category": "development"
         },
         {
-          "id": "kQc99Io3pCo",
-          "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 122,
-          "date": "2026-02-14T22:47:13Z",
-          "category": "development"
-        },
-        {
           "id": "vep9hSKc9I0",
           "title": "Dial9 Demo - Deep Observability in Async Rust",
-          "views": 119,
+          "views": 122,
           "date": "2026-03-22T10:40:21Z",
           "category": "development"
         },
         {
           "id": "B81dHVYOYJA",
           "title": "Inside the Typst Compiler Engine",
-          "views": 111,
+          "views": 116,
           "date": "2026-05-11T00:02:22Z",
           "category": "development"
         },
@@ -54319,7 +54702,7 @@
         {
           "id": "DwAOCljoNoc",
           "title": "Hyper: The Foundation of Fast HTTP in Rust",
-          "views": 96,
+          "views": 98,
           "date": "2026-05-02T18:35:37Z",
           "category": "development"
         },
@@ -54359,6 +54742,13 @@
           "category": "development"
         },
         {
+          "id": "d3JxtD__-L0",
+          "title": "Architecting a Modern Robocode Engine",
+          "views": 64,
+          "date": "2026-05-29T21:33:13Z",
+          "category": "development"
+        },
+        {
           "id": "BT08SXPvV6U",
           "title": "Building vibe-rust",
           "views": 63,
@@ -54377,13 +54767,6 @@
           "title": "hexcap: Elevating Terminal Packet Capture",
           "views": 62,
           "date": "2026-04-20T22:17:31Z",
-          "category": "development"
-        },
-        {
-          "id": "d3JxtD__-L0",
-          "title": "Architecting a Modern Robocode Engine",
-          "views": 60,
-          "date": "2026-05-29T21:33:13Z",
           "category": "development"
         },
         {
@@ -54429,13 +54812,6 @@
           "category": "development"
         },
         {
-          "id": "SNgYSLZ2Ck4",
-          "title": "The Architecture of Serde",
-          "views": 51,
-          "date": "2026-06-03T23:00:12Z",
-          "category": "development"
-        },
-        {
           "id": "F59lTcC6xJ0",
           "title": "Architectural Principles of Fearless Concurrency",
           "views": 51,
@@ -54447,6 +54823,13 @@
           "title": "Mastering Serde in Rust ",
           "views": 50,
           "date": "2026-01-29T05:20:28Z",
+          "category": "development"
+        },
+        {
+          "id": "SNgYSLZ2Ck4",
+          "title": "The Architecture of Serde",
+          "views": 48,
+          "date": "2026-06-03T23:00:12Z",
           "category": "development"
         },
         {
@@ -54473,9 +54856,16 @@
         {
           "id": "htpvlYnX77w",
           "title": "Mastering Machine Learning in Rust",
-          "views": 41,
+          "views": 42,
           "date": "2026-05-19T06:00:38Z",
           "category": "development"
+        },
+        {
+          "id": "LxI5YjCUswI",
+          "title": "Introducing ExtendDB",
+          "views": 41,
+          "date": "2026-05-24T19:34:44Z",
+          "category": "kubernetes"
         },
         {
           "id": "feWjiYzQQ-k",
@@ -54485,11 +54875,11 @@
           "category": "development"
         },
         {
-          "id": "LxI5YjCUswI",
-          "title": "Introducing ExtendDB",
-          "views": 39,
-          "date": "2026-05-24T19:34:44Z",
-          "category": "kubernetes"
+          "id": "cDNqrUa260k",
+          "title": "Rust 1.96 Ecosystem Release",
+          "views": 38,
+          "date": "2026-05-30T10:00:22Z",
+          "category": "development"
         },
         {
           "id": "V6Ru7YYLneE",
@@ -54506,13 +54896,6 @@
           "category": "development"
         },
         {
-          "id": "cDNqrUa260k",
-          "title": "Rust 1.96 Ecosystem Release",
-          "views": 36,
-          "date": "2026-05-30T10:00:22Z",
-          "category": "development"
-        },
-        {
           "id": "6M76N3jhh1Q",
           "title": "From 0 to N-Dimensions",
           "views": 35,
@@ -54522,7 +54905,7 @@
         {
           "id": "uz8nmkTPEpg",
           "title": "SQLx",
-          "views": 33,
+          "views": 35,
           "date": "2026-05-13T22:37:02Z",
           "category": "development"
         },
@@ -54557,8 +54940,15 @@
         {
           "id": "7LynLmseNRk",
           "title": "Bumble: A Universal Userspace Bluetooth Stack",
-          "views": 29,
+          "views": 30,
           "date": "2026-05-27T12:37:31Z",
+          "category": "development"
+        },
+        {
+          "id": "3jMQWDNqsro",
+          "title": "Architecting Ledger Systems in Rust",
+          "views": 29,
+          "date": "2026-06-05T23:00:10Z",
           "category": "development"
         },
         {
@@ -54573,13 +54963,6 @@
           "title": "Architecture Review: tn-file-upload",
           "views": 28,
           "date": "2026-05-04T23:49:00Z",
-          "category": "development"
-        },
-        {
-          "id": "3jMQWDNqsro",
-          "title": "Architecting Ledger Systems in Rust",
-          "views": 27,
-          "date": "2026-06-05T23:00:10Z",
           "category": "development"
         },
         {
@@ -54604,6 +54987,13 @@
           "category": "development"
         },
         {
+          "id": "n9Ebc-0E478",
+          "title": "Building the Multimodal Al Lakehouse",
+          "views": 24,
+          "date": "2026-05-14T12:06:25Z",
+          "category": "development"
+        },
+        {
           "id": "A4-foXsdQiA",
           "title": "Securing Service-to-Service Communication in Kubernetes",
           "views": 23,
@@ -54611,10 +55001,10 @@
           "category": "kubernetes"
         },
         {
-          "id": "n9Ebc-0E478",
-          "title": "Building the Multimodal Al Lakehouse",
+          "id": "uiU9K1hIQBo",
+          "title": "Persona Modeling Architecture",
           "views": 23,
-          "date": "2026-05-14T12:06:25Z",
+          "date": "2026-06-01T23:00:32Z",
           "category": "development"
         },
         {
@@ -54622,13 +55012,6 @@
           "title": "ra-token-authority",
           "views": 23,
           "date": "2026-01-16T16:34:51Z",
-          "category": "development"
-        },
-        {
-          "id": "uiU9K1hIQBo",
-          "title": "Persona Modeling Architecture",
-          "views": 22,
-          "date": "2026-06-01T23:00:32Z",
           "category": "development"
         },
         {
@@ -54660,6 +55043,13 @@
           "category": "kubernetes"
         },
         {
+          "id": "cuA7G01T7_U",
+          "title": "temporal-chain: Architecture & Design",
+          "views": 18,
+          "date": "2026-06-06T11:00:07Z",
+          "category": "development"
+        },
+        {
           "id": "kSQtbPEtDkY",
           "title": "The Architecture of tracel-ai/models",
           "views": 18,
@@ -54683,22 +55073,22 @@
         {
           "id": "JMk8y25qo2M",
           "title": "Copilot-Backed Code Review Architecture",
-          "views": 15,
+          "views": 16,
           "date": "2026-06-02T23:00:17Z",
           "category": "development"
         },
         {
           "id": "S3Vc_R-HezY",
           "title": "svs-cli: 10 Critical Things",
-          "views": 15,
+          "views": 16,
           "date": "2026-05-25T02:46:56Z",
           "category": "development"
         },
         {
-          "id": "cuA7G01T7_U",
-          "title": "temporal-chain: Architecture & Design",
-          "views": 14,
-          "date": "2026-06-06T11:00:07Z",
+          "id": "fWuJSwkdH6I",
+          "title": "Quinn: A Pure-Rust QUIC Protocol Implementation",
+          "views": 11,
+          "date": "2026-06-09T23:00:25Z",
           "category": "development"
         },
         {
@@ -54725,7 +55115,7 @@
         {
           "id": "s6wmtsAWvCw",
           "title": "rt-ado-ci-cd Operations and Architecture",
-          "views": 2,
+          "views": 3,
           "date": "2026-06-08T11:00:22Z",
           "category": "development"
         }
@@ -54741,7 +55131,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 877,
+          "views": 880,
           "date": "2026-02-14T09:23:06Z",
           "category": "development"
         },
@@ -54783,7 +55173,7 @@
         {
           "id": "uqZ-mwxGf2c",
           "title": "Modern Observability in Go",
-          "views": 110,
+          "views": 111,
           "date": "2026-03-01T14:36:52Z",
           "category": "development"
         },
@@ -54860,7 +55250,7 @@
         {
           "id": "QOYXBkMcnYk",
           "title": "The Echo Web Framework",
-          "views": 40,
+          "views": 41,
           "date": "2026-05-04T02:03:06Z",
           "category": "development"
         },
@@ -54925,14 +55315,14 @@
         {
           "id": "_bFOZ51Q55Y",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 2017,
+          "views": 2020,
           "date": "2026-05-09T02:40:33Z",
           "category": "development"
         },
         {
           "id": "B81dHVYOYJA",
           "title": "Inside the Typst Compiler Engine",
-          "views": 111,
+          "views": 116,
           "date": "2026-05-11T00:02:22Z",
           "category": "development"
         },
@@ -54960,7 +55350,7 @@
         {
           "id": "SNgYSLZ2Ck4",
           "title": "The Architecture of Serde",
-          "views": 51,
+          "views": 48,
           "date": "2026-06-03T23:00:12Z",
           "category": "development"
         },
@@ -54972,6 +55362,13 @@
           "category": "development"
         },
         {
+          "id": "WrZN5AgpaW4",
+          "title": "The Anatomy of Kubernetes",
+          "views": 28,
+          "date": "2026-05-12T18:05:42Z",
+          "category": "kubernetes"
+        },
+        {
           "id": "Gy-ky1pAF0U",
           "title": "The Blueprint of Reactivity",
           "views": 28,
@@ -54979,24 +55376,17 @@
           "category": "development"
         },
         {
-          "id": "WrZN5AgpaW4",
-          "title": "The Anatomy of Kubernetes",
-          "views": 27,
-          "date": "2026-05-12T18:05:42Z",
-          "category": "kubernetes"
+          "id": "n9Ebc-0E478",
+          "title": "Building the Multimodal Al Lakehouse",
+          "views": 24,
+          "date": "2026-05-14T12:06:25Z",
+          "category": "development"
         },
         {
           "id": "ZUINk3dp9eA",
           "title": "The Architecture of Sequelize",
           "views": 24,
           "date": "2026-05-08T05:09:13Z",
-          "category": "development"
-        },
-        {
-          "id": "n9Ebc-0E478",
-          "title": "Building the Multimodal Al Lakehouse",
-          "views": 23,
-          "date": "2026-05-14T12:06:25Z",
           "category": "development"
         },
         {
@@ -55011,6 +55401,13 @@
           "title": "The Prisma Ecosystem Architecture",
           "views": 17,
           "date": "2026-05-08T13:24:16Z",
+          "category": "development"
+        },
+        {
+          "id": "fWuJSwkdH6I",
+          "title": "Quinn: A Pure-Rust QUIC Protocol Implementation",
+          "views": 11,
+          "date": "2026-06-09T23:00:25Z",
           "category": "development"
         }
       ]
@@ -55104,7 +55501,7 @@
         {
           "id": "MFiVlaMYmwM",
           "title": "Microsoft Agent Governance Toolkit",
-          "views": 73,
+          "views": 86,
           "date": "2026-05-23T04:44:12Z",
           "category": "security"
         },

@@ -2,7 +2,7 @@
 type: tag
 tags: [type-safety]
 sources: 2
-updated: 2026-06-08
+updated: 2026-06-11
 ---
 
 # type safety
@@ -15,4 +15,4 @@ Videos connected by the topic `type safety`.
 - [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 58 views · May 1, 2026 · [Details](../details/J4iGUAXcAOA.md)
 
 ---
-*Auto-generated on Jun 8, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 11, 2026. Back to [topic index](index.md).*

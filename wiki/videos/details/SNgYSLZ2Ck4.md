@@ -36,7 +36,7 @@ Deconstructs Rust's serde framework as a zero-cost data interchange layer that c
 ## Related Videos
 
 - [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 50 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `serde` · `data` · `model`)
-- [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 23 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `zero` · `copy` · `format`)
+- [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 24 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `zero` · `copy` · `format`)
 - [The Essential Algorithmic Toolkit](https://youtu.be/nRxqSGBuB4s) — Development · 56 views · Mar 6, 2026 · [Details](nRxqSGBuB4s.md) (shared: `data` · `complexity`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 31 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `pattern` · `data`)
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `pattern` · `data`)

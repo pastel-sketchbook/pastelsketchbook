@@ -34,7 +34,7 @@ This video frames memory management as a trilemma between control (C), safety (R
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 351 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `memory management` · `memory` · `management`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 53 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `memory management` · `memory` · `management`)
 - [Architectural Evolution of a Vision Tool](https://youtu.be/Qv9X3ZY474U) — Development · 53 views · Mar 28, 2026 · [Details](Qv9X3ZY474U.md) (shared: `memory` · `management` · `rust`)
-- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 451 views · Feb 2, 2026 · [Details](xV2EAL3NAVM.md) (shared: `zig` · `systems programming` · `systems`)
+- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 452 views · Feb 2, 2026 · [Details](xV2EAL3NAVM.md) (shared: `zig` · `systems programming` · `systems`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

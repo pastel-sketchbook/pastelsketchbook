@@ -39,7 +39,7 @@ This video introduces a technical framework for building 'Skills' for Claude, wh
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 96 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `model context protocol` · `model` · `context`)
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 142 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `workflow` · `automation` · `architectural`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 75 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `model` · `optimization` · `automation`)
-- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 279 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `model context protocol` · `model` · `context`)
+- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 280 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `model context protocol` · `model` · `context`)
 
 ---
 *Auto-generated on Apr 6, 2026. Back to [development](../development.md) · [index](../index.md).*

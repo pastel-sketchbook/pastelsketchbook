@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, ai, 2026, mandu, levy, property tax, orbital, stocks, notebooklm]
 sources: 33
-updated: 2026-06-08
+updated: 2026-06-11
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-06-08
 | Metric | Value |
 |--------|-------|
 | Videos | 33 |
-| Total Views | 710 |
+| Total Views | 727 |
 | Most Recent | Jun 7, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -23,7 +23,7 @@ updated: 2026-06-08
 
 ### Architecture (6 videos)
 
-- [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) -- 17 views, Jun 7, 2026 · [Details](details/8vJLWsfheRE.md)
+- [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) -- 27 views, Jun 7, 2026 · [Details](details/8vJLWsfheRE.md)
 - [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) -- 7 views, Jun 3, 2026 · [Details](details/P-QVC5lOMbU.md)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 42 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) -- 7 views, May 20, 2026 · [Details](details/Dx8pFmojxL4.md)
@@ -33,19 +33,19 @@ updated: 2026-06-08
 ### AI & ML (3 videos)
 
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 42 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
-- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) -- 25 views, May 21, 2026 · [Details](details/9xDzB24tO4I.md)
+- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) -- 26 views, May 21, 2026 · [Details](details/9xDzB24tO4I.md)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 47 views, Mar 26, 2026 · [Details](details/hnMR8rdGCnU.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | The Architecture of Opportunity | 17 | Jun 7, 2026 | [Watch](https://youtu.be/8vJLWsfheRE) | [Wiki](details/8vJLWsfheRE.md) |
-| 2 | Cognitive Lenses in Modern Design | 13 | Jun 5, 2026 | [Watch](https://youtu.be/GmUKi-ZPOYU) | [Wiki](details/GmUKi-ZPOYU.md) |
+| 1 | The Architecture of Opportunity | 27 | Jun 7, 2026 | [Watch](https://youtu.be/8vJLWsfheRE) | [Wiki](details/8vJLWsfheRE.md) |
+| 2 | Cognitive Lenses in Modern Design | 18 | Jun 5, 2026 | [Watch](https://youtu.be/GmUKi-ZPOYU) | [Wiki](details/GmUKi-ZPOYU.md) |
 | 3 | The Architecture of Insurance Pricing | 7 | Jun 3, 2026 | [Watch](https://youtu.be/P-QVC5lOMbU) | [Wiki](details/P-QVC5lOMbU.md) |
 | 4 | The Strategic Guide to Annuities | 35 | May 28, 2026 | [Watch](https://youtu.be/UGQ-ItKwJNw) | [Wiki](details/UGQ-ItKwJNw.md) |
 | 5 | The 10-Year Al Investing Architecture | 42 | May 25, 2026 | [Watch](https://youtu.be/3bcmjx5F5Xs) | [Wiki](details/3bcmjx5F5Xs.md) |
-| 6 | The 2026 Enterprise AI Blueprint | 25 | May 21, 2026 | [Watch](https://youtu.be/9xDzB24tO4I) | [Wiki](details/9xDzB24tO4I.md) |
+| 6 | The 2026 Enterprise AI Blueprint | 26 | May 21, 2026 | [Watch](https://youtu.be/9xDzB24tO4I) | [Wiki](details/9xDzB24tO4I.md) |
 | 7 | Architecting the New Capital Regime | 17 | May 21, 2026 | [Watch](https://youtu.be/rjhabJ8Bx5U) | [Wiki](details/rjhabJ8Bx5U.md) |
 | 8 | The Architecture of Al Subscriptions | 7 | May 20, 2026 | [Watch](https://youtu.be/Dx8pFmojxL4) | [Wiki](details/Dx8pFmojxL4.md) |
 | 9 | A global geography of folded dough | 15 | May 18, 2026 | [Watch](https://youtu.be/UorjmtDDRgQ) | [Wiki](details/UorjmtDDRgQ.md) |
@@ -54,7 +54,7 @@ updated: 2026-06-08
 | 12 | Decoding the Black Box of Global Finance | 46 | Apr 17, 2026 | [Watch](https://youtu.be/1smShC18TWA) | [Wiki](details/1smShC18TWA.md) |
 | 13 | The End of the American Penny | 3 | Apr 15, 2026 | [Watch](https://youtu.be/vzwjAlEz_bI) | [Wiki](details/vzwjAlEz_bI.md) |
 | 14 | Nesting in Global Finance | 7 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) | [Wiki](details/YYVxMSqBqe8.md) |
-| 15 | The Mystery of the Nickel Coke | 10 | Apr 10, 2026 | [Watch](https://youtu.be/l9UUqD2Bz2E) | [Wiki](details/l9UUqD2Bz2E.md) |
+| 15 | The Mystery of the Nickel Coke | 11 | Apr 10, 2026 | [Watch](https://youtu.be/l9UUqD2Bz2E) | [Wiki](details/l9UUqD2Bz2E.md) |
 | 16 | The Final Five Years | 16 | Apr 7, 2026 | [Watch](https://youtu.be/HFmkEvxyJE4) | [Wiki](details/HFmkEvxyJE4.md) |
 | 17 | The Architecture of Fulfillment | 47 | Mar 26, 2026 | [Watch](https://youtu.be/hnMR8rdGCnU) | [Wiki](details/hnMR8rdGCnU.md) |
 | 18 | The Final 5 Years | 19 | Mar 20, 2026 | [Watch](https://youtu.be/G-vvSNwm-jE) | [Wiki](details/G-vvSNwm-jE.md) |
@@ -86,4 +86,4 @@ updated: 2026-06-08
 - [Security](security.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on Jun 8, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 11, 2026. Back to [index](index.md).*

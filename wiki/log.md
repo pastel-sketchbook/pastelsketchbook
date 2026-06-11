@@ -316,3 +316,7 @@ Synced 384 videos across 6 categories (korea=20, finance=33, kubernetes=70, deve
 ## [2026-06-08] ingest | Video Transcripts
 
 Exported 1 transcript files (single: Kp_4y_HEaZ0) to `wiki/raw/transcripts`.
+
+## [2026-06-11] ingest | Video Metadata Sync
+
+Synced 386 videos across 6 categories (korea=20, finance=33, kubernetes=70, development=240, security=15, programming=8).

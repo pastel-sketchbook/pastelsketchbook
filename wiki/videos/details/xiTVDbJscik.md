@@ -34,7 +34,7 @@ AX is Google's open-source distributed agent runtime built on an actor-based arc
 - [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 28 views · May 4, 2026 · [Details](UOOkDh4RUbE.md) (shared: `runtime` · `streaming` · `grpc`)
 - [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 18 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `distributed` · `architecture` · `orchestration`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 93 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `runtime` · `grpc` · `service`)
-- [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 88 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `agent` · `runtime` · `orchestration`)
+- [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 89 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `agent` · `runtime` · `orchestration`)
 
 ---
 *Auto-generated on May 24, 2026. Back to [development](../development.md) · [index](../index.md).*

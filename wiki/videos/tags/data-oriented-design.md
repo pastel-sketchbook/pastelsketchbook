@@ -2,7 +2,7 @@
 type: tag
 tags: [data-oriented-design]
 sources: 4
-updated: 2026-06-08
+updated: 2026-06-11
 ---
 
 # data-oriented design
@@ -17,4 +17,4 @@ Videos connected by the topic `data-oriented design`.
 - [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 13 views · Jan 25, 2026 · [Details](../details/US7oyxbcJCc.md)
 
 ---
-*Auto-generated on Jun 8, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 11, 2026. Back to [topic index](index.md).*

@@ -34,7 +34,7 @@ This presentation explores ZMD, a local-first zero-dependency search engine rewr
 - [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 27 views · Apr 29, 2026 · [Details](GERT8PoS9Qk.md) (shared: `cosine similarity` · `cosine` · `similarity`)
 - [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 132 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `sqlite` · `search`)
 - [Architectural Evolution of a Vision Tool](https://youtu.be/Qv9X3ZY474U) — Development · 53 views · Mar 28, 2026 · [Details](Qv9X3ZY474U.md) (shared: `zig` · `llama.cpp`)
-- [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 23 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `similarity` · `search`)
+- [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 24 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `similarity` · `search`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*

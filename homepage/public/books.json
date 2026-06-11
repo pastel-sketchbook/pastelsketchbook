@@ -47,6 +47,7 @@
           "title": "The Enterprise AI Pipeline",
           "summary": "Azure DevOps CI/CD, ACR, AKS, Azure AI Foundry, and Azure Storage form a unified pipeline from code to production AI. This chapter maps the four-layer architecture — platform, mesh, GitOps, application — that turns an AI experiment into an enterprise product.",
           "videoIds": [
+            "xwEN7oZFvdw",
             "8ycnldvJmuA",
             "BiYKKVsJROk",
             "HOetEEw0ogM",
@@ -242,6 +243,7 @@
           "title": "The RFC Foundation",
           "summary": "The internet is built on text documents. RFC 862 (Echo), RFC 2119 (requirement keywords), IP, TCP, UDP, DNS, HTTP, TLS — understanding these specifications transforms a developer from protocol consumer into protocol debugger. This chapter reads the originals.",
           "videoIds": [
+            "fWuJSwkdH6I",
             "LackTxguXFg",
             "ea5lpF3RyzE",
             "lsjfczYFBeQ",

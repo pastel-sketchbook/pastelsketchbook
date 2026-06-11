@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-06-08
+updated: 2026-06-11
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 171
+Total topics: 172
 
 ## Topics
 
@@ -144,6 +144,7 @@ Total topics: 171
 - [portfolio allocation](portfolio-allocation.md) (2)
 - [problem decomposition](problem-decomposition.md) (2)
 - [qmd](qmd.md) (2)
+- [quic protocol](quic-protocol.md) (2)
 - [ratatui terminal ui](ratatui-terminal-ui.md) (2)
 - [rayon data parallelism](rayon-data-parallelism.md) (2)
 - [request lifecycle](request-lifecycle.md) (2)
@@ -184,4 +185,4 @@ Total topics: 171
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Jun 8, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Jun 11, 2026. Back to [videos index](../index.md).*

@@ -30,7 +30,7 @@ This video dissects the architecture of a real-time audio visualizer built with 
 
 ## Related Videos
 
-- [Architecting a Modern Robocode Engine](https://youtu.be/d3JxtD__-L0) — Development · 60 views · May 29, 2026 · [Details](d3JxtD__-L0.md) (shared: `bevy` · `game` · `engine`)
+- [Architecting a Modern Robocode Engine](https://youtu.be/d3JxtD__-L0) — Development · 64 views · May 29, 2026 · [Details](d3JxtD__-L0.md) (shared: `bevy` · `game` · `engine`)
 - [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) — Development · 152 views · Mar 18, 2026 · [Details](_zJ3_d1CODg.md) (shared: `bevy` · `engine` · `rust`)
 - [Neural TTS in Pastel-HN](https://youtu.be/d_0swhS1LyQ) — Development · 46 views · Feb 1, 2026 · [Details](d_0swhS1LyQ.md) (shared: `rust` · `audio`)
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `engine` · `rust`)

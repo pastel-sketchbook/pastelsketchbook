@@ -2,7 +2,7 @@
 type: tag
 tags: [travel-diary]
 sources: 2
-updated: 2026-06-08
+updated: 2026-06-11
 ---
 
 # travel diary
@@ -15,4 +15,4 @@ Videos connected by the topic `travel diary`.
 - [Ganghwa: Un Viaje en Tonos Pastel](https://youtu.be/rwNfzJanPmk) — Korea · 6 views · Feb 6, 2026 · [Details](../details/rwNfzJanPmk.md)
 
 ---
-*Auto-generated on Jun 8, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 11, 2026. Back to [topic index](index.md).*

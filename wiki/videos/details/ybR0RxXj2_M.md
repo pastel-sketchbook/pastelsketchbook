@@ -30,7 +30,7 @@ This video explores the projected transition from a wage-based economy to a hype
 
 ## Related Videos
 
-- [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) — Finance · 17 views · Jun 7, 2026 · [Details](8vJLWsfheRE.md) (shared: `universal` · `economic`)
+- [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) — Finance · 27 views · Jun 7, 2026 · [Details](8vJLWsfheRE.md) (shared: `universal` · `economic`)
 - [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `economy`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 89 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `economy`)
 - [Nationwide Data Coverage & Auto-Filing Feasibility](https://youtu.be/SRwWBbsaQH4) — Finance · 14 views · May 13, 2026 · [Details](SRwWBbsaQH4.md) (shared: `automation`)

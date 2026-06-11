@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [agent, sentinel, siem, soar, xdr, llm, security, nist, algorithms, hashing]
 sources: 15
-updated: 2026-06-08
+updated: 2026-06-11
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-06-08
 | Metric | Value |
 |--------|-------|
 | Videos | 15 |
-| Total Views | 523 |
+| Total Views | 544 |
 | Most Recent | Jun 6, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -23,7 +23,7 @@ updated: 2026-06-08
 
 ### Security (6 videos)
 
-- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 11 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
+- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 17 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) -- 24 views, Apr 30, 2026 · [Details](details/infh5ZZwvLU.md)
 - [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 77 views, Mar 31, 2026 · [Details](details/Zeg8zSOvoyE.md)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 34 views, Mar 25, 2026 · [Details](details/CA1nlknmR3g.md)
@@ -39,18 +39,18 @@ updated: 2026-06-08
 
 ### Go (2 videos)
 
-- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 11 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 73 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
+- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 17 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 86 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Winning the Arms Race in Credential Security | 11 | Jun 6, 2026 | [Watch](https://youtu.be/Kp_4y_HEaZ0) | [Wiki](details/Kp_4y_HEaZ0.md) |
-| 2 | Microsoft Agent Governance Toolkit | 73 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
+| 1 | Winning the Arms Race in Credential Security | 17 | Jun 6, 2026 | [Watch](https://youtu.be/Kp_4y_HEaZ0) | [Wiki](details/Kp_4y_HEaZ0.md) |
+| 2 | Microsoft Agent Governance Toolkit | 86 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
 | 3 | ZAP: Getting Started with Software Security Testing | 24 | Apr 30, 2026 | [Watch](https://youtu.be/infh5ZZwvLU) | [Wiki](details/infh5ZZwvLU.md) |
 | 4 | Azure Sentinel & M365 Defender | 19 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
-| 5 | Designing for Privacy | 43 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
+| 5 | Designing for Privacy | 44 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
 | 6 | Custom Graphs in Microsoft Sentinel (Preview) | 61 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
 | 7 | Black-Hat LLMs: The End of the 20-Year Security Balance | 77 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) | [Wiki](details/Zeg8zSOvoyE.md) |
 | 8 | 2FA Orchestration in PingFederate | 10 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) | [Wiki](details/HxB-cJIbEgE.md) |
@@ -60,7 +60,7 @@ updated: 2026-06-08
 | 12 | The Strategic Roadmap for Data Classification | 18 | Mar 2, 2026 | [Watch](https://youtu.be/uhXcsWYhdkA) | [Wiki](details/uhXcsWYhdkA.md) |
 | 13 | The Orchestrator's Blueprint | 36 | Feb 28, 2026 | [Watch](https://youtu.be/Oa3jaLNSZvM) | [Wiki](details/Oa3jaLNSZvM.md) |
 | 14 | 2025 Global Threat Report | 14 | Feb 27, 2026 | [Watch](https://youtu.be/1MPD6MILLcQ) | [Wiki](details/1MPD6MILLcQ.md) |
-| 15 | Shannon: Autonomous Penetration Testing | 49 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) | [Wiki](details/JfGgWiiCTA0.md) |
+| 15 | Shannon: Autonomous Penetration Testing | 50 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) | [Wiki](details/JfGgWiiCTA0.md) |
 
 ## Top Tags
 
@@ -69,8 +69,8 @@ updated: 2026-06-08
 ## See Also
 
 - [Kubernetes](kubernetes.md) -- shared tags: `ai`, `shift left`, `agent`, `governance`, `security`, `azure`, `orchestration`
-- [Development](development.md) -- shared tags: `ai`, `shift left`, `agent`, `data`, `llm`, `context`, `algorithms`, `toolkit`, `resilience`
+- [Development](development.md) -- shared tags: `ai`, `shift left`, `agent`, `llm`, `data`, `context`, `algorithms`, `toolkit`, `resilience`, `ssrf`
 - [Finance](finance.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on Jun 8, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 11, 2026. Back to [index](index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [mcp-server]
 sources: 2
-updated: 2026-06-08
+updated: 2026-06-11
 ---
 
 # mcp server
@@ -15,4 +15,4 @@ Videos connected by the topic `mcp server`.
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 60 views · Apr 13, 2026 · [Details](../details/j8lMpSezavQ.md)
 
 ---
-*Auto-generated on Jun 8, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 11, 2026. Back to [topic index](index.md).*

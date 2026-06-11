@@ -30,8 +30,8 @@ This video presents a 5-year strategic forecast for AI programming languages, pr
 
 ## Related Videos
 
-- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 73 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `rust` · `orchestration` · `architecture`)
-- [Architecting the Next-Generation Enterprise](https://youtu.be/XHQGmyffO-s) — Development · 10 views · Jun 4, 2026 · [Details](XHQGmyffO-s.md) (shared: `stack` · `architecture` · `legacy`)
+- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 74 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `rust` · `orchestration` · `architecture`)
+- [Architecting the Next-Generation Enterprise](https://youtu.be/XHQGmyffO-s) — Development · 12 views · Jun 4, 2026 · [Details](XHQGmyffO-s.md) (shared: `stack` · `architecture` · `legacy`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `architecture`)
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 152 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `architecture`)
 - [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 23 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `stack` · `architecture`)
