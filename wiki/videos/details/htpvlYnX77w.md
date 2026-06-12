@@ -31,8 +31,8 @@ A self-guided roadmap for mastering machine learning in Rust, centered on the Bu
 ## Related Videos
 
 - [The Architecture of tracel-ai/models](https://youtu.be/kSQtbPEtDkY) — Development · 18 views · May 20, 2026 · [Details](kSQtbPEtDkY.md) (shared: `burn framework` · `burn` · `framework`)
-- [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 29 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `rust machine learning` · `rust` · `machine`)
-- [From 0 to N-Dimensions](https://youtu.be/6M76N3jhh1Q) — Development · 35 views · May 19, 2026 · [Details](6M76N3jhh1Q.md) (shared: `rust` · `ndarray` · `numerical`)
+- [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 30 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `rust machine learning` · `rust` · `machine`)
+- [From 0 to N-Dimensions](https://youtu.be/6M76N3jhh1Q) — Development · 38 views · May 19, 2026 · [Details](6M76N3jhh1Q.md) (shared: `rust` · `ndarray` · `numerical`)
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 31 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `burn` · `framework` · `rust`)
 - [Architecting Local Legal Embeddings](https://youtu.be/V6Ru7YYLneE) — Development · 38 views · May 22, 2026 · [Details](V6Ru7YYLneE.md) (shared: `burn` · `rust` · `learning`)
 

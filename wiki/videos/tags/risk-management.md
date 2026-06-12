@@ -2,7 +2,7 @@
 type: tag
 tags: [risk-management]
 sources: 2
-updated: 2026-06-11
+updated: 2026-06-13
 ---
 
 # risk management
@@ -15,4 +15,4 @@ Videos connected by the topic `risk management`.
 - [An Ambitious Ascent](https://youtu.be/MDNRiJN7aEg) — Finance · 11 views · Dec 29, 2025 · [Details](../details/MDNRiJN7aEg.md)
 
 ---
-*Auto-generated on Jun 11, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 13, 2026. Back to [topic index](index.md).*

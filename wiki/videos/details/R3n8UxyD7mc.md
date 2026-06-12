@@ -46,7 +46,7 @@ Welcome.  Today  we  are  going  to  explore the  architecture  of  systemic  de
 
 - [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 798 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `dependency` · `architecture` · `dependency injection`)
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 48 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `dependency` · `architecture` · `dependency injection`)
-- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 74 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `dependency` · `architecture` · `dependency injection`)
+- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 75 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `dependency` · `architecture` · `dependency injection`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 36 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `architecture` · `repository pattern` · `repository`)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `architecture` · `repository pattern` · `repository`)
 

@@ -31,8 +31,8 @@ This talk traces the evolution from “vector RAG” to “graph RAG” and then
 
 ## Related Videos
 
-- [From Louvain to Leiden](https://youtu.be/BQ4wab0UtLg) — Development · 45 views · Apr 26, 2026 · [Details](BQ4wab0UtLg.md) (shared: `graph` · `community` · `detection`)
-- [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 89 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `agentic orchestration` · `agentic` · `orchestration`)
+- [From Louvain to Leiden](https://youtu.be/BQ4wab0UtLg) — Development · 46 views · Apr 26, 2026 · [Details](BQ4wab0UtLg.md) (shared: `graph` · `community` · `detection`)
+- [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 90 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `agentic orchestration` · `agentic` · `orchestration`)
 - [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 36 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `enterprise` · `agentic`)
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 60 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `knowledge` · `hybrid`)
 - [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 97 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `graph` · `detection`)

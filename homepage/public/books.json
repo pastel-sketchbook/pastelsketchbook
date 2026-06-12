@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T23:00:31.086Z",
+  "generatedAt": "2026-06-13T23:00:00.000Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -52,7 +52,8 @@
             "BiYKKVsJROk",
             "HOetEEw0ogM",
             "quD4pyCwKB4",
-            "u_ooo1WDAc8"
+            "u_ooo1WDAc8",
+            "PofJfj6nRuw"
           ],
           "tags": [
             "azure",
@@ -148,6 +149,7 @@
           "title": "The 2026 Architectural Standard",
           "summary": "The era of distributed cluster complexity is ending. ClickHouse replaces the fragmented warehouse landscape, purpose-built databases replace component chaining, and AI agents reshape the SDLC. This chapter is the manifesto for what comes next.",
           "videoIds": [
+            "78Sm363xiIw",
             "WHonjixQgBY",
             "Z98SHl4nSFI",
             "z_W9dX6fliM",
@@ -459,6 +461,7 @@
           "title": "The ML Inference Stack",
           "summary": "ONNX provides the universal intermediate representation — a graph/node/value IR with SSA validation, operator schemas, and version conversion adapters that decouple model creation from hardware execution. Candle compiles Rust-native inference to WASM for serverless cold starts. Burn layers a tensor abstraction over pluggable backends. This chapter traces a model from training framework through ONNX IR to optimized hardware execution.",
           "videoIds": [
+            "KXx_6BhzOFE",
             "Qi_vpz_5j7g",
             "8PaVKQoDReY",
             "joYJ6rPN3UI",

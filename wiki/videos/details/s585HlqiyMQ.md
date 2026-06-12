@@ -30,9 +30,9 @@ This video explores the mathematical foundations of ALOHA random access network 
 
 ## Related Videos
 
-- [Deconstructing the Bridge](https://youtu.be/JNHxVHyzWdE) — Development · 25 views · Jun 1, 2026 · [Details](JNHxVHyzWdE.md) (shared: `protocol` · `access` · `analysis`)
+- [Deconstructing the Bridge](https://youtu.be/JNHxVHyzWdE) — Development · 24 views · Jun 1, 2026 · [Details](JNHxVHyzWdE.md) (shared: `protocol` · `access` · `analysis`)
 - [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 21 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `networking` · `communication`)
-- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 11 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `protocol` · `networking`)
+- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 15 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `protocol` · `networking`)
 - [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 62 views · Apr 20, 2026 · [Details](FM6zp63maS8.md) (shared: `protocol`)
 - [The 10-Lens Research Analysis Framework](https://youtu.be/NztD5fYpXcg) — Development · 32 views · Mar 7, 2026 · [Details](NztD5fYpXcg.md) (shared: `analysis`)
 

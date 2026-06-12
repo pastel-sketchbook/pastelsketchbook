@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [agent, sentinel, siem, soar, xdr, llm, security, nist, algorithms, hashing]
 sources: 15
-updated: 2026-06-11
+updated: 2026-06-13
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-06-11
 | Metric | Value |
 |--------|-------|
 | Videos | 15 |
-| Total Views | 544 |
+| Total Views | 556 |
 | Most Recent | Jun 6, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -23,11 +23,11 @@ updated: 2026-06-11
 
 ### Security (6 videos)
 
-- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 17 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
+- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 18 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) -- 24 views, Apr 30, 2026 · [Details](details/infh5ZZwvLU.md)
 - [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 77 views, Mar 31, 2026 · [Details](details/Zeg8zSOvoyE.md)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 34 views, Mar 25, 2026 · [Details](details/CA1nlknmR3g.md)
-- [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) -- 18 views, Mar 8, 2026 · [Details](details/1VjSLqfPf9s.md)
+- [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) -- 21 views, Mar 8, 2026 · [Details](details/1VjSLqfPf9s.md)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) -- 18 views, Mar 2, 2026 · [Details](details/uhXcsWYhdkA.md)
 
 ### AI & ML (4 videos)
@@ -39,15 +39,15 @@ updated: 2026-06-11
 
 ### Go (2 videos)
 
-- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 17 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 86 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
+- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 18 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 94 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Winning the Arms Race in Credential Security | 17 | Jun 6, 2026 | [Watch](https://youtu.be/Kp_4y_HEaZ0) | [Wiki](details/Kp_4y_HEaZ0.md) |
-| 2 | Microsoft Agent Governance Toolkit | 86 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
+| 1 | Winning the Arms Race in Credential Security | 18 | Jun 6, 2026 | [Watch](https://youtu.be/Kp_4y_HEaZ0) | [Wiki](details/Kp_4y_HEaZ0.md) |
+| 2 | Microsoft Agent Governance Toolkit | 94 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
 | 3 | ZAP: Getting Started with Software Security Testing | 24 | Apr 30, 2026 | [Watch](https://youtu.be/infh5ZZwvLU) | [Wiki](details/infh5ZZwvLU.md) |
 | 4 | Azure Sentinel & M365 Defender | 19 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
 | 5 | Designing for Privacy | 44 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
@@ -56,7 +56,7 @@ updated: 2026-06-11
 | 8 | 2FA Orchestration in PingFederate | 10 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) | [Wiki](details/HxB-cJIbEgE.md) |
 | 9 | Anatomy of a Supply Chain Attack | 36 | Mar 26, 2026 | [Watch](https://youtu.be/taBP0Fr3uSQ) | [Wiki](details/taBP0Fr3uSQ.md) |
 | 10 | Containing the Untrusted Agent | 34 | Mar 25, 2026 | [Watch](https://youtu.be/CA1nlknmR3g) | [Wiki](details/CA1nlknmR3g.md) |
-| 11 | The NIST Cybersecurity Framework 2.0 | 18 | Mar 8, 2026 | [Watch](https://youtu.be/1VjSLqfPf9s) | [Wiki](details/1VjSLqfPf9s.md) |
+| 11 | The NIST Cybersecurity Framework 2.0 | 21 | Mar 8, 2026 | [Watch](https://youtu.be/1VjSLqfPf9s) | [Wiki](details/1VjSLqfPf9s.md) |
 | 12 | The Strategic Roadmap for Data Classification | 18 | Mar 2, 2026 | [Watch](https://youtu.be/uhXcsWYhdkA) | [Wiki](details/uhXcsWYhdkA.md) |
 | 13 | The Orchestrator's Blueprint | 36 | Feb 28, 2026 | [Watch](https://youtu.be/Oa3jaLNSZvM) | [Wiki](details/Oa3jaLNSZvM.md) |
 | 14 | 2025 Global Threat Report | 14 | Feb 27, 2026 | [Watch](https://youtu.be/1MPD6MILLcQ) | [Wiki](details/1MPD6MILLcQ.md) |
@@ -68,9 +68,9 @@ updated: 2026-06-11
 
 ## See Also
 
-- [Kubernetes](kubernetes.md) -- shared tags: `ai`, `shift left`, `agent`, `governance`, `security`, `azure`, `orchestration`
+- [Kubernetes](kubernetes.md) -- shared tags: `ai`, `shift left`, `agent`, `orchestration`, `governance`, `security`, `azure`
 - [Development](development.md) -- shared tags: `ai`, `shift left`, `agent`, `llm`, `data`, `context`, `algorithms`, `toolkit`, `resilience`, `ssrf`
 - [Finance](finance.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on Jun 11, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 13, 2026. Back to [index](index.md).*

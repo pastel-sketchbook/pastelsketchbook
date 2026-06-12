@@ -2,7 +2,7 @@
 type: tag
 tags: [model-context-protocol]
 sources: 4
-updated: 2026-06-11
+updated: 2026-06-13
 ---
 
 # model context protocol
@@ -17,4 +17,4 @@ Videos connected by the topic `model context protocol`.
 - [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](../details/9oSUtndLto4.md)
 
 ---
-*Auto-generated on Jun 11, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 13, 2026. Back to [topic index](index.md).*

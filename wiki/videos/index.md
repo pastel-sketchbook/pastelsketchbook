@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 386
-updated: 2026-06-11
+sources: 389
+updated: 2026-06-13
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 386 |
-| Total Views | 32.3K |
+| Total Videos | 389 |
+| Total Views | 32.4K |
 | Categories | 6 |
-| Last Updated | Jun 11, 2026 |
+| Last Updated | Jun 13, 2026 |
 
 ## Categories
 
@@ -28,19 +28,19 @@ Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 33 videos, 727 total views.
+Videos covering personal finance, investing, and economics. 33 videos, 729 total views.
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 70 videos, 2.1K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 72 videos, 2.1K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 240 videos, 28.5K total views.
+Videos about software development, tools, workflows, and engineering practices. 241 videos, 28.6K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 15 videos, 544 total views.
+Videos on cybersecurity, application security, and security engineering. 15 videos, 556 total views.
 
 ### [Programming](programming.md)
 
@@ -59,14 +59,14 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `2026` | [Finance](finance.md), [Development](development.md) |
 | `levy` | [Finance](finance.md), [Development](development.md) |
 | `notebooklm` | [Finance](finance.md), [Development](development.md) |
+| `db` | [Kubernetes](kubernetes.md), [Development](development.md) |
+| `polyglot` | [Kubernetes](kubernetes.md), [Development](development.md) |
+| `copilot` | [Kubernetes](kubernetes.md), [Development](development.md) |
+| `orchestration` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `cloud native` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `rust` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `go` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `internal` | [Kubernetes](kubernetes.md), [Development](development.md) |
-| `rabbitmq` | [Kubernetes](kubernetes.md), [Development](development.md) |
-| `governance` | [Kubernetes](kubernetes.md), [Security](security.md) |
-| `security` | [Kubernetes](kubernetes.md), [Security](security.md) |
-| `azure` | [Kubernetes](kubernetes.md), [Security](security.md) |
 
 ---
-*Auto-generated on Jun 11, 2026. See [wiki index](../index.md).*
+*Auto-generated on Jun 13, 2026. See [wiki index](../index.md).*

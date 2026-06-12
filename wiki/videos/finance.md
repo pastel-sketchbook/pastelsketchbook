@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, ai, 2026, mandu, levy, property tax, orbital, stocks, notebooklm]
 sources: 33
-updated: 2026-06-11
+updated: 2026-06-13
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-06-11
 | Metric | Value |
 |--------|-------|
 | Videos | 33 |
-| Total Views | 727 |
+| Total Views | 729 |
 | Most Recent | Jun 7, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -23,8 +23,8 @@ updated: 2026-06-11
 
 ### Architecture (6 videos)
 
-- [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) -- 27 views, Jun 7, 2026 · [Details](details/8vJLWsfheRE.md)
-- [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) -- 7 views, Jun 3, 2026 · [Details](details/P-QVC5lOMbU.md)
+- [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) -- 28 views, Jun 7, 2026 · [Details](details/8vJLWsfheRE.md)
+- [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) -- 8 views, Jun 3, 2026 · [Details](details/P-QVC5lOMbU.md)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 42 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) -- 7 views, May 20, 2026 · [Details](details/Dx8pFmojxL4.md)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 47 views, Mar 26, 2026 · [Details](details/hnMR8rdGCnU.md)
@@ -40,9 +40,9 @@ updated: 2026-06-11
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | The Architecture of Opportunity | 27 | Jun 7, 2026 | [Watch](https://youtu.be/8vJLWsfheRE) | [Wiki](details/8vJLWsfheRE.md) |
+| 1 | The Architecture of Opportunity | 28 | Jun 7, 2026 | [Watch](https://youtu.be/8vJLWsfheRE) | [Wiki](details/8vJLWsfheRE.md) |
 | 2 | Cognitive Lenses in Modern Design | 18 | Jun 5, 2026 | [Watch](https://youtu.be/GmUKi-ZPOYU) | [Wiki](details/GmUKi-ZPOYU.md) |
-| 3 | The Architecture of Insurance Pricing | 7 | Jun 3, 2026 | [Watch](https://youtu.be/P-QVC5lOMbU) | [Wiki](details/P-QVC5lOMbU.md) |
+| 3 | The Architecture of Insurance Pricing | 8 | Jun 3, 2026 | [Watch](https://youtu.be/P-QVC5lOMbU) | [Wiki](details/P-QVC5lOMbU.md) |
 | 4 | The Strategic Guide to Annuities | 35 | May 28, 2026 | [Watch](https://youtu.be/UGQ-ItKwJNw) | [Wiki](details/UGQ-ItKwJNw.md) |
 | 5 | The 10-Year Al Investing Architecture | 42 | May 25, 2026 | [Watch](https://youtu.be/3bcmjx5F5Xs) | [Wiki](details/3bcmjx5F5Xs.md) |
 | 6 | The 2026 Enterprise AI Blueprint | 26 | May 21, 2026 | [Watch](https://youtu.be/9xDzB24tO4I) | [Wiki](details/9xDzB24tO4I.md) |
@@ -86,4 +86,4 @@ updated: 2026-06-11
 - [Security](security.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on Jun 11, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 13, 2026. Back to [index](index.md).*

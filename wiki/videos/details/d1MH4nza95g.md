@@ -37,7 +37,7 @@ This presentation explains why traditional logging breaks down in async Rust —
 
 ## Related Videos
 
-- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 67 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `tracing` · `context` · `propagation`)
+- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 68 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `tracing` · `context` · `propagation`)
 - [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) — Development · 122 views · Mar 22, 2026 · [Details](vep9hSKc9I0.md) (shared: `tokio` · `tracing` · `async`)
 - [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 111 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `tracing` · `context` · `propagation`)
 - [The Blueprint of Reactivity](https://youtu.be/Gy-ky1pAF0U) — Development · 28 views · May 16, 2026 · [Details](Gy-ky1pAF0U.md) (shared: `async` · `time` · `graph`)

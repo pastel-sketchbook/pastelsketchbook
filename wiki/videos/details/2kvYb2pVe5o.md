@@ -31,7 +31,7 @@ This video explores the journey of deploying secure federated identity systems f
 ## Related Videos
 
 - [The Architecture of Modern Identity](https://youtu.be/n-Yt33ZdEHw) — Kubernetes · 62 views · Mar 18, 2026 · [Details](n-Yt33ZdEHw.md) (shared: `oauth 2.0` · `oauth` · `2.0`)
-- [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 18 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `2.0` · `nist` · `security`)
+- [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 21 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `2.0` · `nist` · `security`)
 - [The 10-Lens Research Analysis Framework](https://youtu.be/NztD5fYpXcg) — Development · 32 views · Mar 7, 2026 · [Details](NztD5fYpXcg.md) (shared: `analysis`)
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `security`)
 - [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 33 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `security`)

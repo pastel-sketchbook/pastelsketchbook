@@ -2,7 +2,7 @@
 type: tag
 tags: [agentic-orchestration]
 sources: 2
-updated: 2026-06-11
+updated: 2026-06-13
 ---
 
 # agentic orchestration
@@ -11,8 +11,8 @@ Videos connected by the topic `agentic orchestration`.
 
 ## Videos
 
-- [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 89 views · May 28, 2026 · [Details](../details/Jf1VkCXsmwU.md)
+- [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 90 views · May 28, 2026 · [Details](../details/Jf1VkCXsmwU.md)
 - [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 67 views · Apr 24, 2026 · [Details](../details/z_W9dX6fliM.md)
 
 ---
-*Auto-generated on Jun 11, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 13, 2026. Back to [topic index](index.md).*
