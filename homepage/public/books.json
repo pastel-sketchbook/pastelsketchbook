@@ -53,7 +53,8 @@
             "HOetEEw0ogM",
             "quD4pyCwKB4",
             "u_ooo1WDAc8",
-            "PofJfj6nRuw"
+            "PofJfj6nRuw",
+            "ZQyL7MT7k60"
           ],
           "tags": [
             "azure",
@@ -577,6 +578,23 @@
             "argon2",
             "credentials",
             "nist"
+          ]
+        },
+        {
+          "number": 17,
+          "title": "The Performance-Ergonomics Convergence",
+          "summary": "The old trade-off between high-level expressiveness and bare-metal speed is dissolving. Compile-time memory ownership models eliminate garbage collection without sacrificing safety, letting languages deliver imperative-grade performance from pure or Pythonic source. This chapter examines Mojo's LLVM-compiled superset of Python and the end of the functional programming tax, where ownership analysis and LLM tooling finally make purity and performance coexist.",
+          "videoIds": [
+            "Z_TABCzmoQ0",
+            "240fOdSvnpk"
+          ],
+          "tags": [
+            "language-design",
+            "memory-ownership",
+            "performance",
+            "mojo",
+            "llvm",
+            "functional-programming"
           ]
         }
       ]

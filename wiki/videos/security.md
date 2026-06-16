@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [agent, sentinel, siem, soar, xdr, llm, security, nist, algorithms, hashing]
 sources: 15
-updated: 2026-06-13
+updated: 2026-06-16
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-06-13
 | Metric | Value |
 |--------|-------|
 | Videos | 15 |
-| Total Views | 556 |
+| Total Views | 569 |
 | Most Recent | Jun 6, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -23,7 +23,7 @@ updated: 2026-06-13
 
 ### Security (6 videos)
 
-- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 18 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
+- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 20 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) -- 24 views, Apr 30, 2026 · [Details](details/infh5ZZwvLU.md)
 - [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 77 views, Mar 31, 2026 · [Details](details/Zeg8zSOvoyE.md)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 34 views, Mar 25, 2026 · [Details](details/CA1nlknmR3g.md)
@@ -39,17 +39,17 @@ updated: 2026-06-13
 
 ### Go (2 videos)
 
-- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 18 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 94 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
+- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 20 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 104 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Winning the Arms Race in Credential Security | 18 | Jun 6, 2026 | [Watch](https://youtu.be/Kp_4y_HEaZ0) | [Wiki](details/Kp_4y_HEaZ0.md) |
-| 2 | Microsoft Agent Governance Toolkit | 94 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
+| 1 | Winning the Arms Race in Credential Security | 20 | Jun 6, 2026 | [Watch](https://youtu.be/Kp_4y_HEaZ0) | [Wiki](details/Kp_4y_HEaZ0.md) |
+| 2 | Microsoft Agent Governance Toolkit | 104 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
 | 3 | ZAP: Getting Started with Software Security Testing | 24 | Apr 30, 2026 | [Watch](https://youtu.be/infh5ZZwvLU) | [Wiki](details/infh5ZZwvLU.md) |
-| 4 | Azure Sentinel & M365 Defender | 19 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
+| 4 | Azure Sentinel & M365 Defender | 20 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
 | 5 | Designing for Privacy | 44 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
 | 6 | Custom Graphs in Microsoft Sentinel (Preview) | 61 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
 | 7 | Black-Hat LLMs: The End of the 20-Year Security Balance | 77 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) | [Wiki](details/Zeg8zSOvoyE.md) |
@@ -73,4 +73,4 @@ updated: 2026-06-13
 - [Finance](finance.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on Jun 13, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 16, 2026. Back to [index](index.md).*

@@ -32,7 +32,7 @@ This video explores the architectural evolution from monolithic systems to distr
 
 - [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) — Kubernetes · 71 views · Mar 22, 2026 · [Details](QE51ybyrQDM.md) (shared: `architecture` · `distributed systems` · `distributed`)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](N4nRAfBZ3BE.md) (shared: `architecture` · `service` · `event-driven design`)
-- [A Trillion Transactions](https://youtu.be/oHdhgeF4wlI) — Kubernetes · 37 views · Apr 12, 2026 · [Details](oHdhgeF4wlI.md) (shared: `architecture` · `distributed systems` · `distributed`)
+- [A Trillion Transactions](https://youtu.be/oHdhgeF4wlI) — Kubernetes · 38 views · Apr 12, 2026 · [Details](oHdhgeF4wlI.md) (shared: `architecture` · `distributed systems` · `distributed`)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) — Kubernetes · 25 views · Feb 21, 2026 · [Details](ORjARjbukhY.md) (shared: `architecture` · `service mesh` · `service`)
 - [Drasi: The Future of Change-Driven Architecture](https://youtu.be/5Ztm7JNVa8E) — Kubernetes · 51 views · Feb 17, 2026 · [Details](5Ztm7JNVa8E.md) (shared: `architecture` · `data` · `event-driven`)
 

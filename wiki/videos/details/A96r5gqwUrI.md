@@ -30,11 +30,11 @@ This presentation showcases how Zig achieves zero-cost abstractions through comp
 
 ## Related Videos
 
-- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 452 views · Feb 2, 2026 · [Details](xV2EAL3NAVM.md) (shared: `zig` · `comptime` · `explicit allocators`)
+- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 456 views · Feb 2, 2026 · [Details](xV2EAL3NAVM.md) (shared: `zig` · `comptime` · `explicit allocators`)
 - [zig-duckdb-ext](https://youtu.be/ymYtSum-2qc) — Development · 65 views · Mar 24, 2026 · [Details](ymYtSum-2qc.md) (shared: `zig` · `comptime` · `zero-cost`)
-- [A DeepDive into SIMD & Zig](https://youtu.be/TDWC1fFhn9g) — Development · 83 views · Jan 31, 2026 · [Details](TDWC1fFhn9g.md) (shared: `zig` · `simd` · `optimization`)
+- [A DeepDive into SIMD & Zig](https://youtu.be/TDWC1fFhn9g) — Development · 84 views · Jan 31, 2026 · [Details](TDWC1fFhn9g.md) (shared: `zig` · `simd` · `optimization`)
+- [High-Performance Compute Meets Developer Ergonomics](https://youtu.be/Z_TABCzmoQ0) — Development · 35 views · Jun 15, 2026 · [Details](Z_TABCzmoQ0.md) (shared: `comptime` · `zero-cost` · `simd`)
 - [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 59 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `abstraction` · `simd` · `optimization`)
-- [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 75 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `zig` · `optimization`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

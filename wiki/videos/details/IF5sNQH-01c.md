@@ -34,7 +34,7 @@ This video analyzes Google's NotebookLM through the lens of "intelligence flow a
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 35 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `architecture` · `design`)
 - [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 33 views · Feb 23, 2026 · [Details](ARWkoc3E8uE.md) (shared: `architecture` · `design`)
 - [The Architect's Baton](https://youtu.be/6WRiPikxs-Q) — Development · 125 views · Mar 7, 2026 · [Details](6WRiPikxs-Q.md) (shared: `architecture` · `design`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 798 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `design`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 799 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `design`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

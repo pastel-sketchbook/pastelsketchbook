@@ -31,7 +31,7 @@ This video provides a conceptual blueprint for event-driven architecture, distin
 ## Related Videos
 
 - [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 29 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `event-driven` · `architecture` · `distributed systems`)
-- [A Trillion Transactions](https://youtu.be/oHdhgeF4wlI) — Kubernetes · 37 views · Apr 12, 2026 · [Details](oHdhgeF4wlI.md) (shared: `architecture` · `distributed systems` · `distributed`)
+- [A Trillion Transactions](https://youtu.be/oHdhgeF4wlI) — Kubernetes · 38 views · Apr 12, 2026 · [Details](oHdhgeF4wlI.md) (shared: `architecture` · `distributed systems` · `distributed`)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 39 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `event-driven architecture` · `event-driven` · `architecture`)
 - [Drasi: The Future of Change-Driven Architecture](https://youtu.be/5Ztm7JNVa8E) — Kubernetes · 51 views · Feb 17, 2026 · [Details](5Ztm7JNVa8E.md) (shared: `event-driven architecture` · `event-driven` · `architecture`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `architecture` · `patterns` · `distributed`)

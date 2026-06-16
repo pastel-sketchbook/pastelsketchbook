@@ -3,7 +3,7 @@ type: category
 category: korea
 tags: [viaje, corea, seul, jeju, ganghwa, sokcho, daejeon, danyang, jinju, yeosu]
 sources: 20
-updated: 2026-06-13
+updated: 2026-06-16
 ---
 
 # Korea
@@ -15,7 +15,7 @@ updated: 2026-06-13
 | Metric | Value |
 |--------|-------|
 | Videos | 20 |
-| Total Views | 238 |
+| Total Views | 240 |
 | Most Recent | May 20, 2026 |
 | Oldest | Dec 26, 2025 |
 ## All Videos
@@ -24,7 +24,7 @@ updated: 2026-06-13
 |---|-------|-------|-----------|------|--------|
 | 1 | Dossier de Reubicación en Costa Rica | 8 | May 20, 2026 | [Watch](https://youtu.be/t-WvRifOu-E) | [Wiki](details/t-WvRifOu-E.md) |
 | 2 | El Plan Maestro para Mudarse a Ecuador en 2026 | 10 | May 19, 2026 | [Watch](https://youtu.be/7-mEDyQsJlI) | [Wiki](details/7-mEDyQsJlI.md) |
-| 3 | Dossier de Reubicación e Inversión: Panamá 2026 | 4 | May 18, 2026 | [Watch](https://youtu.be/ApeNMU7KDH0) | [Wiki](details/ApeNMU7KDH0.md) |
+| 3 | Dossier de Reubicación e Inversión: Panamá 2026 | 5 | May 18, 2026 | [Watch](https://youtu.be/ApeNMU7KDH0) | [Wiki](details/ApeNMU7KDH0.md) |
 | 4 | El Arte de Pedir Comida en Español | 14 | Apr 2, 2026 | [Watch](https://youtu.be/z76NXRg1YWs) | [Wiki](details/z76NXRg1YWs.md) |
 | 5 | Guía de Supervivencia en Latinoamérica | 10 | Mar 27, 2026 | [Watch](https://youtu.be/vH8kEIlJXf0) | [Wiki](details/vH8kEIlJXf0.md) |
 | 6 | Guía de Supervivencia: Español para tu Llegada a Latinoamérica | 7 | Mar 15, 2026 | [Watch](https://youtu.be/oSqbvvcADmI) | [Wiki](details/oSqbvvcADmI.md) |
@@ -37,7 +37,7 @@ updated: 2026-06-13
 | 13 | Jinju y Jirisan: el Valor a la Sabiduría | 18 | Jan 4, 2026 | [Watch](https://youtu.be/drVBXipEOAs) | [Wiki](details/drVBXipEOAs.md) |
 | 14 | Mi Cuaderno de Viaje: Yeosu | 10 | Jan 4, 2026 | [Watch](https://youtu.be/JlPl9MskqJM) | [Wiki](details/JlPl9MskqJM.md) |
 | 15 | Jeonju y Gochang: Apuntes de Corea | 16 | Jan 4, 2026 | [Watch](https://youtu.be/EvcUSPWkOA8) | [Wiki](details/EvcUSPWkOA8.md) |
-| 16 | Mi Cuaderno de Viaje: Andong | 16 | Jan 3, 2026 | [Watch](https://youtu.be/CASZX56r-tk) | [Wiki](details/CASZX56r-tk.md) |
+| 16 | Mi Cuaderno de Viaje: Andong | 17 | Jan 3, 2026 | [Watch](https://youtu.be/CASZX56r-tk) | [Wiki](details/CASZX56r-tk.md) |
 | 17 | Gyeongju: El Museo Sin Muros | 10 | Jan 2, 2026 | [Watch](https://youtu.be/4h84JgKkt94) | [Wiki](details/4h84JgKkt94.md) |
 | 18 | Mi Cuaderno de Busan | 8 | Jan 1, 2026 | [Watch](https://youtu.be/vNHblhm9oQo) | [Wiki](details/vNHblhm9oQo.md) |
 | 19 | Tu Viaje al Corazón de Corea | 5 | Jan 1, 2026 | [Watch](https://youtu.be/L9sxbq8ugoU) | [Wiki](details/L9sxbq8ugoU.md) |
@@ -52,4 +52,4 @@ updated: 2026-06-13
 - [Finance](finance.md)
 
 ---
-*Auto-generated on Jun 13, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 16, 2026. Back to [index](index.md).*

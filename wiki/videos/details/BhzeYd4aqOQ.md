@@ -37,7 +37,7 @@ Dio structures the Dart/Flutter HTTP client as concentric layers — a global co
 
 - [The NestJS Architecture Blueprint](https://youtu.be/173Y2uPljgo) — Development · 49 views · May 4, 2026 · [Details](173Y2uPljgo.md) (shared: `http` · `adapters` · `request`)
 - [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 58 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `request lifecycle` · `request` · `lifecycle`)
-- [The Blueprint of Reactivity](https://youtu.be/Gy-ky1pAF0U) — Development · 28 views · May 16, 2026 · [Details](Gy-ky1pAF0U.md) (shared: `architecture` · `taxonomy` · `flutter`)
+- [The Blueprint of Reactivity](https://youtu.be/Gy-ky1pAF0U) — Development · 31 views · May 16, 2026 · [Details](Gy-ky1pAF0U.md) (shared: `architecture` · `taxonomy` · `flutter`)
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `client` · `architecture` · `pipeline`)
 - [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 24 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `layer` · `architecture` · `pipeline`)
 

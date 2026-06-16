@@ -39,7 +39,7 @@ This video details the architectural evolution of a vision-based screen descript
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `zig` · `memory`)
 - [The Hybrid TUI Architecture](https://youtu.be/IZX3_9rZeMU) — Development · 547 views · Feb 10, 2026 · [Details](IZX3_9rZeMU.md) (shared: `ffi` · `interface` · `memory`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 53 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust` · `memory` · `management`)
-- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 351 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `memory` · `management`)
+- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 352 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `memory` · `management`)
 
 ---
 *Auto-generated on Apr 6, 2026. Back to [development](../development.md) · [index](../index.md).*

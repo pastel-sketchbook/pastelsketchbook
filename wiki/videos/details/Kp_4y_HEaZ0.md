@@ -13,7 +13,7 @@ summarized: 2026-06-08T23:05:00.000Z
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 18 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `nist`)
 - [Hardening a Prototype](https://youtu.be/DCGTYftRGWE) — Development · 24 views · Jan 25, 2026 · [Details](DCGTYftRGWE.md) (shared: `memory` · `gpu`)
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 21 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `hybrid` · `storage`)
-- [Deconstructing the Bridge](https://youtu.be/JNHxVHyzWdE) — Development · 24 views · Jun 1, 2026 · [Details](JNHxVHyzWdE.md) (shared: `memory` · `asic`)
+- [Deconstructing the Bridge](https://youtu.be/JNHxVHyzWdE) — Development · 25 views · Jun 1, 2026 · [Details](JNHxVHyzWdE.md) (shared: `memory` · `asic`)
 
 ---
 

@@ -2,7 +2,7 @@
 type: tag
 tags: [clusterip]
 sources: 2
-updated: 2026-06-13
+updated: 2026-06-16
 ---
 
 # clusterip
@@ -15,4 +15,4 @@ Videos connected by the topic `clusterip`.
 - [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 15 views · Jan 10, 2026 · [Details](../details/C5HqbzLRYZ0.md)
 
 ---
-*Auto-generated on Jun 13, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 16, 2026. Back to [topic index](index.md).*

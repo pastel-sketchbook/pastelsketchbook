@@ -2,7 +2,7 @@
 type: tag
 tags: [uv-package-manager]
 sources: 2
-updated: 2026-06-13
+updated: 2026-06-16
 ---
 
 # uv package manager
@@ -11,8 +11,8 @@ Videos connected by the topic `uv package manager`.
 
 ## Videos
 
-- [Why uv, ruff, and ty are mandatory](https://youtu.be/i8wjbDfxZTY) — Development · 125 views · Jun 2, 2026 · [Details](../details/i8wjbDfxZTY.md)
+- [Why uv, ruff, and ty are mandatory](https://youtu.be/i8wjbDfxZTY) — Development · 127 views · Jun 2, 2026 · [Details](../details/i8wjbDfxZTY.md)
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 20 views · Mar 14, 2026 · [Details](../details/gu-5cim8mpA.md)
 
 ---
-*Auto-generated on Jun 13, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 16, 2026. Back to [topic index](index.md).*

@@ -33,8 +33,8 @@ This video covers backend design patterns in Rust, transitioning from the implic
 - [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 75 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `rust` · `backend` · `architecture`)
 - [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 55 views · Apr 27, 2026 · [Details](R3n8UxyD7mc.md) (shared: `architecture` · `pattern` · `dependency injection`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `architecture` · `event-driven architecture`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 798 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `pattern` · `dependency injection`)
-- [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 18 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `architecture` · `saga pattern` · `saga`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 799 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `pattern` · `dependency injection`)
+- [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 19 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `architecture` · `saga pattern` · `saga`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

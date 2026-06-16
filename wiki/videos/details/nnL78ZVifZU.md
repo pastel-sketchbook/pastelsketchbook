@@ -34,7 +34,7 @@ This video teaches candlestick chart analysis as a strategic framework for readi
 - [The architecture of wealth](https://youtu.be/nfD3KzIriM8) — Finance · 8 views · Jan 16, 2026 · [Details](nfD3KzIriM8.md) (shared: `psychology`)
 - [The Mathematics of Human Capital Compounding](https://youtu.be/_4BC0zHGYTw) — Finance · 14 views · Mar 5, 2026 · [Details](_4BC0zHGYTw.md) (shared: `analysis`)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) — Finance · 47 views · Mar 26, 2026 · [Details](hnMR8rdGCnU.md) (shared: `psychology`)
-- [Cognitive Lenses in Modern Design](https://youtu.be/GmUKi-ZPOYU) — Finance · 18 views · Jun 5, 2026 · [Details](GmUKi-ZPOYU.md) (shared: `psychology`)
+- [Cognitive Lenses in Modern Design](https://youtu.be/GmUKi-ZPOYU) — Finance · 21 views · Jun 5, 2026 · [Details](GmUKi-ZPOYU.md) (shared: `psychology`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [deployment-frequency]
 sources: 2
-updated: 2026-06-13
+updated: 2026-06-16
 ---
 
 # deployment frequency
@@ -15,4 +15,4 @@ Videos connected by the topic `deployment frequency`.
 - [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](../details/B2x09utLjtM.md)
 
 ---
-*Auto-generated on Jun 13, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 16, 2026. Back to [topic index](index.md).*

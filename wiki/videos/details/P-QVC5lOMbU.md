@@ -35,7 +35,7 @@ A walkthrough of modern actuarial ratemaking that decomposes insurance pricing i
 
 ## Related Videos
 
-- [The Strategic Guide to Annuities](https://youtu.be/UGQ-ItKwJNw) — Finance · 35 views · May 28, 2026 · [Details](UGQ-ItKwJNw.md) (shared: `premium` · `risk`)
+- [The Strategic Guide to Annuities](https://youtu.be/UGQ-ItKwJNw) — Finance · 37 views · May 28, 2026 · [Details](UGQ-ItKwJNw.md) (shared: `premium` · `risk`)
 - [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 12 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `risk`)
 - [An Ambitious Ascent](https://youtu.be/MDNRiJN7aEg) — Finance · 11 views · Dec 29, 2025 · [Details](MDNRiJN7aEg.md) (shared: `risk`)
 - [The Mystery of the Nickel Coke](https://youtu.be/l9UUqD2Bz2E) — Finance · 11 views · Apr 10, 2026 · [Details](l9UUqD2Bz2E.md) (shared: `pricing`)

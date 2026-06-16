@@ -31,10 +31,10 @@ This video explores how Go's greatest strength — lightweight, easy-to-spawn go
 ## Related Videos
 
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 51 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `concurrency` · `data`)
+- [The End of the Functional Programming Tax](https://youtu.be/240fOdSvnpk) — Development · 22 views · Jun 14, 2026 · [Details](240fOdSvnpk.md) (shared: `concurrency` · `data`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `systems`)
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `systems`)
 - [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 35 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `data`)
-- [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 31 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `data`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

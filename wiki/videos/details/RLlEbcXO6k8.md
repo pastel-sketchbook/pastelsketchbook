@@ -34,7 +34,7 @@ This video presents a structured migration framework for moving workloads from A
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) — Kubernetes · 26 views · Apr 4, 2026 · [Details](7iWL5-0C66s.md) (shared: `migration` · `cloud`)
 - [Modern Hybrid Identity ](https://youtu.be/nJ10P-fRqZQ) — Kubernetes · 8 views · Mar 17, 2026 · [Details](nJ10P-fRqZQ.md) (shared: `migration` · `cloud`)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 13 views · Mar 10, 2026 · [Details](Hd767VA7Z-0.md) (shared: `azure` · `strategy`)
-- [AWS Database Selection Blueprint](https://youtu.be/78Sm363xiIw) — Kubernetes · 4 views · Jun 12, 2026 · [Details](78Sm363xiIw.md) (shared: `aws` · `migration`)
+- [AWS Database Selection Blueprint](https://youtu.be/78Sm363xiIw) — Kubernetes · 9 views · Jun 12, 2026 · [Details](78Sm363xiIw.md) (shared: `aws` · `migration`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*
