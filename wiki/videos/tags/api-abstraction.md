@@ -11,7 +11,7 @@ Videos connected by the topic `api abstraction`.
 
 ## Videos
 
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 799 views · Feb 13, 2026 · [Details](../details/cWozmWrqnxs.md)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 801 views · Feb 13, 2026 · [Details](../details/cWozmWrqnxs.md)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 31 views · Feb 16, 2026 · [Details](../details/5Vloo08zQ7o.md)
 
 ---

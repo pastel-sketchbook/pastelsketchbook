@@ -15,7 +15,7 @@ updated: 2026-06-18
 | Metric | Value |
 |--------|-------|
 | Videos | 15 |
-| Total Views | 569 |
+| Total Views | 574 |
 | Most Recent | Jun 6, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -23,7 +23,7 @@ updated: 2026-06-18
 
 ### Security (6 videos)
 
-- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 20 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
+- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 21 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) -- 24 views, Apr 30, 2026 · [Details](details/infh5ZZwvLU.md)
 - [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 77 views, Mar 31, 2026 · [Details](details/Zeg8zSOvoyE.md)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 34 views, Mar 25, 2026 · [Details](details/CA1nlknmR3g.md)
@@ -39,15 +39,15 @@ updated: 2026-06-18
 
 ### Go (2 videos)
 
-- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 20 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 104 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
+- [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 21 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 108 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Winning the Arms Race in Credential Security | 20 | Jun 6, 2026 | [Watch](https://youtu.be/Kp_4y_HEaZ0) | [Wiki](details/Kp_4y_HEaZ0.md) |
-| 2 | Microsoft Agent Governance Toolkit | 104 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
+| 1 | Winning the Arms Race in Credential Security | 21 | Jun 6, 2026 | [Watch](https://youtu.be/Kp_4y_HEaZ0) | [Wiki](details/Kp_4y_HEaZ0.md) |
+| 2 | Microsoft Agent Governance Toolkit | 108 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
 | 3 | ZAP: Getting Started with Software Security Testing | 24 | Apr 30, 2026 | [Watch](https://youtu.be/infh5ZZwvLU) | [Wiki](details/infh5ZZwvLU.md) |
 | 4 | Azure Sentinel & M365 Defender | 20 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
 | 5 | Designing for Privacy | 44 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |

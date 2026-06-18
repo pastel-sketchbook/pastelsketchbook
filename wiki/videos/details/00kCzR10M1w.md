@@ -35,7 +35,7 @@ SolidJS 2.0 is an evolutionary advancement of the framework's fine-grained react
 
 ## Related Videos
 
-- [Migrating to SolidJS 2.0](https://youtu.be/L4YBdUVCFd4) — Development · 52 views · May 30, 2026 · [Details](L4YBdUVCFd4.md) (shared: `reactivity` · `signals` · `stores`)
+- [Migrating to SolidJS 2.0](https://youtu.be/L4YBdUVCFd4) — Development · 56 views · May 30, 2026 · [Details](L4YBdUVCFd4.md) (shared: `reactivity` · `signals` · `stores`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 36 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `signals` · `pattern`)
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `pattern` · `immutable`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `async` · `serialization`)

@@ -11,7 +11,7 @@ Videos connected by the topic `rust machine learning`.
 
 ## Videos
 
-- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 42 views · May 19, 2026 · [Details](../details/htpvlYnX77w.md)
+- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 43 views · May 19, 2026 · [Details](../details/htpvlYnX77w.md)
 - [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 30 views · May 20, 2026 · [Details](../details/KR188eZ9gRE.md)
 
 ---

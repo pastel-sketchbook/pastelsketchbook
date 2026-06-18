@@ -11,7 +11,7 @@ Videos connected by the topic `terraform`.
 
 ## Videos
 
-- [Architecting AKS Node Auto-Provisioning](https://youtu.be/3hSdKvqPcSE) — Kubernetes · 38 views · Feb 25, 2026 · [Details](../details/3hSdKvqPcSE.md)
+- [Architecting AKS Node Auto-Provisioning](https://youtu.be/3hSdKvqPcSE) — Kubernetes · 39 views · Feb 25, 2026 · [Details](../details/3hSdKvqPcSE.md)
 - [Modern Hybrid Identity ](https://youtu.be/nJ10P-fRqZQ) — Kubernetes · 8 views · Mar 17, 2026 · [Details](../details/nJ10P-fRqZQ.md)
 
 ---

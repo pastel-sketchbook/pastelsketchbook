@@ -11,7 +11,7 @@ Videos connected by the topic `repository pattern`.
 
 ## Videos
 
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 799 views · Feb 13, 2026 · [Details](../details/cWozmWrqnxs.md)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 801 views · Feb 13, 2026 · [Details](../details/cWozmWrqnxs.md)
 - [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 55 views · Apr 27, 2026 · [Details](../details/R3n8UxyD7mc.md)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](../details/LWc3AAHoxnU.md)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 36 views · Feb 20, 2026 · [Details](../details/3ybGkjogcFQ.md)

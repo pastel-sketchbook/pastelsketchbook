@@ -37,7 +37,7 @@ The video introduces the Semantic Operating System and Micro Module Architecture
 
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `system` · `architecture` · `migration`)
 - [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 38 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `architecture` · `code` · `migration`)
-- [The pkg.go.dev API](https://youtu.be/zWuFvi-0Go4) — Development · 16 views · May 23, 2026 · [Details](zWuFvi-0Go4.md) (shared: `module` · `architecture` · `graph`)
+- [The pkg.go.dev API](https://youtu.be/zWuFvi-0Go4) — Development · 17 views · May 23, 2026 · [Details](zWuFvi-0Go4.md) (shared: `module` · `architecture` · `graph`)
 - [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 59 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `module` · `architecture` · `graph`)
 - [Architecting the Next-Generation Enterprise](https://youtu.be/XHQGmyffO-s) — Development · 15 views · Jun 4, 2026 · [Details](XHQGmyffO-s.md) (shared: `system` · `architecture`)
 

@@ -36,10 +36,10 @@ The GitHub Copilot SDK exposes the production-tested agent runtime behind the Co
 ## Related Videos
 
 - [Copilot-Backed Code Review Architecture](https://youtu.be/JMk8y25qo2M) — Development · 17 views · Jun 2, 2026 · [Details](JMk8y25qo2M.md) (shared: `github` · `copilot` · `sdk`)
+- [The Agent-First Paradigm](https://youtu.be/ElxPa5vX9Kc) — Development · 3 views · Jun 17, 2026 · [Details](ElxPa5vX9Kc.md) (shared: `copilot` · `agentic` · `agent`)
 - [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `bindings` · `cli` · `patterns`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `github` · `copilot` · `cli`)
 - [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 67 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `agentic orchestration` · `agentic` · `orchestration`)
-- [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 53 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `agent` · `runtime` · `cli`)
 
 ---
 *Auto-generated on May 28, 2026. Back to [development](../development.md) · [index](../index.md).*

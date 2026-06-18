@@ -30,8 +30,8 @@ This session deconstructs the architecture of Rust's `ndarray` crate, explaining
 
 ## Related Videos
 
-- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 42 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `ndarray` · `rust` · `numerical`)
-- [Rust 1.95.0](https://youtu.be/izLrX-02IQk) — Development · 222 views · Apr 18, 2026 · [Details](izLrX-02IQk.md) (shared: `crate` · `macro` · `rust`)
+- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 43 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `ndarray` · `rust` · `numerical`)
+- [Rust 1.95.0](https://youtu.be/izLrX-02IQk) — Development · 223 views · Apr 18, 2026 · [Details](izLrX-02IQk.md) (shared: `crate` · `macro` · `rust`)
 - [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 61 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `arrays` · `array`)
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 72 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `type` · `rust`)
 - [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 58 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `type` · `rust`)

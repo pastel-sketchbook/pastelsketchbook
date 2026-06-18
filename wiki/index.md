@@ -10,7 +10,7 @@ Built following the [LLM Wiki pattern](llm-wiki.md).
 
 ## Sections
 
-- [Videos](videos/index.md) -- 392 videos across 6 categories.
+- [Videos](videos/index.md) -- 393 videos across 6 categories.
 
 ## How to Use
 

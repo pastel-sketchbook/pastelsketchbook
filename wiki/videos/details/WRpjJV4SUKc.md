@@ -39,7 +39,7 @@ This video outlines a technical blueprint for architecting real-time state synch
 - [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 31 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `change data capture` · `change` · `data`)
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) — Kubernetes · 76 views · Apr 17, 2026 · [Details](nomIVRSBEG4.md) (shared: `change data capture` · `cdc` · `change`)
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 18 views · Apr 11, 2026 · [Details](a8heWpae5p0.md) (shared: `kubernetes` · `write-ahead log` · `write-ahead`)
-- [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) — Kubernetes · 46 views · May 7, 2026 · [Details](V9tvg6Yg3m4.md) (shared: `rabbitmq` · `kubernetes` · `replication`)
+- [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) — Kubernetes · 47 views · May 7, 2026 · [Details](V9tvg6Yg3m4.md) (shared: `rabbitmq` · `kubernetes` · `replication`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

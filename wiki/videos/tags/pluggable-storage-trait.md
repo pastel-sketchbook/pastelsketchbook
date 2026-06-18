@@ -11,7 +11,7 @@ Videos connected by the topic `pluggable storage trait`.
 
 ## Videos
 
-- [Introducing ExtendDB](https://youtu.be/LxI5YjCUswI) — Kubernetes · 46 views · May 24, 2026 · [Details](../details/LxI5YjCUswI.md)
+- [Introducing ExtendDB](https://youtu.be/LxI5YjCUswI) — Kubernetes · 47 views · May 24, 2026 · [Details](../details/LxI5YjCUswI.md)
 - [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 28 views · May 4, 2026 · [Details](../details/UOOkDh4RUbE.md)
 
 ---

@@ -16,7 +16,7 @@ Videos connected by the topic `zero trust`.
 - [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) — Kubernetes · 31 views · Jan 27, 2026 · [Details](../details/KpSjLQpswW4.md)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](../details/MIZ0ATwu7C0.md)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 23 views · Jan 14, 2026 · [Details](../details/A4-foXsdQiA.md)
-- [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 21 views · Apr 1, 2026 · [Details](../details/BiYKKVsJROk.md)
+- [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 22 views · Apr 1, 2026 · [Details](../details/BiYKKVsJROk.md)
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](../details/0NLj8g2hQNk.md)
 
 ---

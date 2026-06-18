@@ -31,7 +31,7 @@ This presentation details a four-layer microservices architecture on AKS integra
 ## Related Videos
 
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 23 views · Jan 14, 2026 · [Details](A4-foXsdQiA.md) (shared: `service` · `mesh` · `identity`)
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 60 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `aks` · `istio service mesh` · `istio`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 61 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `aks` · `istio service mesh` · `istio`)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `istio service mesh` · `istio` · `service`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 46 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `istio` · `service` · `mesh`)
 - [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 15 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `aks` · `istio service mesh` · `istio`)
