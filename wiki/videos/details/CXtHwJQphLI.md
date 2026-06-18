@@ -43,3 +43,5 @@ This video outlines the architectural requirements for building production-ready
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 9** (confidence: 67%)_

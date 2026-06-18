@@ -43,3 +43,5 @@ This analysis explores the 'architect's baton' concept, detailing the transition
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 10** (confidence: 10%)_

@@ -38,3 +38,5 @@ This video performs an analytical teardown of how Elixir 1.20 achieved a 400x ac
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 7** (confidence: 4%)_

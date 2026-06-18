@@ -2,7 +2,7 @@
 type: tag
 tags: [rust-machine-learning]
 sources: 2
-updated: 2026-06-16
+updated: 2026-06-18
 ---
 
 # rust machine learning
@@ -15,4 +15,4 @@ Videos connected by the topic `rust machine learning`.
 - [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 30 views · May 20, 2026 · [Details](../details/KR188eZ9gRE.md)
 
 ---
-*Auto-generated on Jun 16, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 17, 2026. Back to [topic index](index.md).*

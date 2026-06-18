@@ -44,3 +44,5 @@ This video argues that the true mark of a mature software system is how cleanly 
 
 ---
 *Auto-generated on Apr 25, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 17** (confidence: 60%)_

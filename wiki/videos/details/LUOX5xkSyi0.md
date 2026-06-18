@@ -38,3 +38,5 @@ This video provides a walkthrough of CUE (version 0.16), a configuration languag
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 4** (confidence: 5%)_

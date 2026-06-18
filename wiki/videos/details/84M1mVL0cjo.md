@@ -38,3 +38,5 @@ This presentation argues that enterprise AI value comes from integrating individ
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 16** (confidence: 29%)_

@@ -4,7 +4,9 @@ import { useQuery } from '@tanstack/react-query'
 import { ChunkErrorBoundary } from '../src/components/ui/ChunkErrorBoundary'
 import { motion } from 'framer-motion'
 import { fetchWikiBundle, fmtViews, fmtDate, catLabel } from '../src/utils/wiki'
+import { fetchBooks, buildBookVideoLookup } from '../src/utils/books'
 import type { WikiVideo } from '../src/types/wiki'
+import type { BookRef } from '../src/utils/books'
 
 export const Route = createFileRoute('/wiki/video/$id')({
   component: VideoDetailWithErrorBoundary,
@@ -61,6 +63,18 @@ function VideoDetail() {
     queryFn: fetchWikiBundle,
     staleTime: 3600000,
   })
+
+  const { data: books } = useQuery({
+    queryKey: ['books'],
+    queryFn: fetchBooks,
+    staleTime: 3600000,
+  })
+
+  const bookRefs: BookRef[] = (() => {
+    if (!books) return []
+    const lookup = buildBookVideoLookup(books)
+    return lookup.get(id) ?? []
+  })()
 
   if (isLoading || !wiki) {
     return (
@@ -440,6 +454,48 @@ function VideoDetail() {
                   className="px-3 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-wider bg-white/50 border border-[#5F7D61]/20 text-[#5F7D61] hover:bg-[#5F7D61] hover:text-white transition-colors cursor-pointer"
                 >
                   {tag}
+                </Link>
+              ))}
+            </div>
+          </motion.section>
+        )}
+
+        {/* Appears in Books */}
+        {bookRefs.length > 0 && (
+          <motion.section
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.33 }}
+            className="mt-8"
+          >
+            <h2 className="text-sm font-bold uppercase tracking-widest text-[#1B3022]/40 mb-3">
+              Appears in Books
+            </h2>
+            <div className="space-y-2">
+              {bookRefs.map((ref) => (
+                <Link
+                  key={`${ref.bookId}-${ref.chapterNumber}`}
+                  to="/books"
+                  className="block bg-white rounded-xl sketch-border border-[#1B3022]/5 p-4 hover:shadow-md transition-all group"
+                >
+                  <div className="flex items-center gap-3">
+                    <div className="w-10 h-10 rounded-lg bg-[#D4A373]/10 flex items-center justify-center flex-shrink-0">
+                      <svg className="w-5 h-5 text-[#D4A373]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 7.5h.008v.008h-.008v-.008zm0 3h.008v.008h-.008v-.008z" />
+                      </svg>
+                    </div>
+                    <div>
+                      <p className="text-sm font-semibold text-[#1B3022] group-hover:text-[#5F7D61] transition-colors">
+                        {ref.bookTitle}
+                      </p>
+                      <p className="text-xs text-[#1B3022]/50">
+                        Chapter {ref.chapterNumber}: {ref.chapterTitle}
+                      </p>
+                    </div>
+                    <svg className="w-4 h-4 text-[#1B3022]/20 ml-auto flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
+                    </svg>
+                  </div>
                 </Link>
               ))}
             </div>

@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-06-16
+updated: 2026-06-18
 ---
 
 # Pastel Sketchbook Wiki
@@ -26,4 +26,4 @@ or orphan pages.
 See [AGENTS.md](AGENTS.md) for the full schema and operating instructions.
 
 ---
-*Last updated: Jun 16, 2026.*
+*Last updated: Jun 17, 2026.*

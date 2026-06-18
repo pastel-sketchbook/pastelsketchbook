@@ -38,3 +38,5 @@ This Korean-language tutorial walks through building a persistent CLI todo list 
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [programming](../programming.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 10** (confidence: 20%)_

@@ -38,3 +38,5 @@ This video demonstrates implementing cubic Bezier curves in Zig for creating org
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 10** (confidence: 8%)_

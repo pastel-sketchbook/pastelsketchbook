@@ -43,3 +43,5 @@ This video addresses the tendency of AI coding agents to generate outdated Go co
 
 ---
 *Auto-generated on Apr 6, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 16** (confidence: 29%)_

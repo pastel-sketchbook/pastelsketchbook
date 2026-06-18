@@ -38,3 +38,5 @@ This Korean-language tutorial presents a systematic four-step method for transla
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [programming](../programming.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 10** (confidence: 5%)_

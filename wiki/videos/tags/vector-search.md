@@ -2,7 +2,7 @@
 type: tag
 tags: [vector-search]
 sources: 5
-updated: 2026-06-16
+updated: 2026-06-18
 ---
 
 # vector search
@@ -18,4 +18,4 @@ Videos connected by the topic `vector search`.
 - [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 10 views · May 15, 2026 · [Details](../details/i2YEYgVx0AA.md)
 
 ---
-*Auto-generated on Jun 16, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 17, 2026. Back to [topic index](index.md).*

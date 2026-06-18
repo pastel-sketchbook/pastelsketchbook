@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T23:00:00.000Z",
+  "generatedAt": "2026-06-18T03:52:30.706Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -14,7 +14,14 @@
           "videoIds": [
             "rJTUB-u8U2Y",
             "2ksi8K7wg3I",
-            "hvkvH7i8NLc"
+            "hvkvH7i8NLc",
+            "WrZN5AgpaW4",
+            "VxWyvAO3qb8",
+            "oHdhgeF4wlI",
+            "y3WwL48DLYw",
+            "aiYBPCkvhes",
+            "A7eoKD5m6Ek",
+            "t-WvRifOu-E"
           ],
           "tags": [
             "kubernetes",
@@ -33,7 +40,19 @@
             "SeYrpzDTn6A",
             "A4-foXsdQiA",
             "KpSjLQpswW4",
-            "MFiVlaMYmwM"
+            "MFiVlaMYmwM",
+            "Oa3jaLNSZvM",
+            "n-Yt33ZdEHw",
+            "rk_3xU9OF-k",
+            "ORjARjbukhY",
+            "R2zktRqz81U",
+            "_5DCBqOCr8c",
+            "1VjSLqfPf9s",
+            "RLlEbcXO6k8",
+            "uhXcsWYhdkA",
+            "Zeg8zSOvoyE",
+            "CA1nlknmR3g",
+            "1MPD6MILLcQ"
           ],
           "tags": [
             "zero-trust",
@@ -54,7 +73,34 @@
             "quD4pyCwKB4",
             "u_ooo1WDAc8",
             "PofJfj6nRuw",
-            "ZQyL7MT7k60"
+            "ZQyL7MT7k60",
+            "jOw6d5zH658",
+            "j8lMpSezavQ",
+            "V9tvg6Yg3m4",
+            "MIZ0ATwu7C0",
+            "PMgUhFxrjPc",
+            "p9LNSeAt5Zw",
+            "C6wLm6NRZW4",
+            "DazzkNtnzec",
+            "IYfTi_HNDl4",
+            "vSjgNxi7W-4",
+            "AcpVuvtSXwI",
+            "0U-SUJCmKAU",
+            "d_0swhS1LyQ",
+            "IF5sNQH-01c",
+            "QOYXBkMcnYk",
+            "mGMaqTvWrCc",
+            "xVdW3yUCbuU",
+            "ARWkoc3E8uE",
+            "2Ni8zfsxW6o",
+            "_sxPf3tHq3s",
+            "lin_ycbQGtE",
+            "Q4qm1hvVR2A",
+            "ctKLD4d146g",
+            "KDnTY0Svmr0",
+            "fMjflPvjaJ8",
+            "9oSUtndLto4",
+            "uU46ltIELqk"
           ],
           "tags": [
             "azure",
@@ -72,7 +118,12 @@
             "N4nRAfBZ3BE",
             "am9FvNiJ24M",
             "4YsX6tYi5x4",
-            "Hd767VA7Z-0"
+            "Hd767VA7Z-0",
+            "7iWL5-0C66s",
+            "7eoxSgjwYlM",
+            "0ttrfTfP864",
+            "LUOX5xkSyi0",
+            "to1PClyd0YA"
           ],
           "tags": [
             "microservices",
@@ -90,7 +141,14 @@
             "F09-7mNt3F4",
             "3hSdKvqPcSE",
             "7Dchx829X_M",
-            "C5HqbzLRYZ0"
+            "C5HqbzLRYZ0",
+            "rgY4KTMFOMs",
+            "SuuZW_fuEFc",
+            "OnwiaDRj1-k",
+            "ftODZr2_V5Q",
+            "QLcNRIHYmj0",
+            "nJ10P-fRqZQ",
+            "snRi_JET1bg"
           ],
           "tags": [
             "aks",
@@ -111,7 +169,8 @@
             "PNFlYx8HiOM",
             "eZNBXDUc8OQ",
             "9ga0NT3ZohQ",
-            "i8wjbDfxZTY"
+            "i8wjbDfxZTY",
+            "X65YHZUnFq0"
           ],
           "tags": [
             "devops",
@@ -135,7 +194,11 @@
             "UGQ-ItKwJNw",
             "3bcmjx5F5Xs",
             "GmUKi-ZPOYU",
-            "8vJLWsfheRE"
+            "8vJLWsfheRE",
+            "G-vvSNwm-jE",
+            "_4BC0zHGYTw",
+            "hnMR8rdGCnU",
+            "EMXUbohWsWs"
           ],
           "tags": [
             "finance",
@@ -160,7 +223,23 @@
             "yXZnBtdDTFk",
             "nwAdb-PyRlo",
             "Jf1VkCXsmwU",
-            "XHQGmyffO-s"
+            "XHQGmyffO-s",
+            "WRpjJV4SUKc",
+            "dDtVuJXVYJk",
+            "u60g2nMtVi4",
+            "TmlqoKqMD2Y",
+            "EWwk29GzHgg",
+            "vep9hSKc9I0",
+            "SpNfrWmI8iE",
+            "5Ztm7JNVa8E",
+            "E30riOZ-YVo",
+            "P_xUJi_qt-Q",
+            "eaPXjvB194w",
+            "ZUINk3dp9eA",
+            "a8heWpae5p0",
+            "LnJbrb0EUaE",
+            "0NLj8g2hQNk",
+            "z_Ydy_-cI1U"
           ],
           "tags": [
             "architecture",
@@ -178,7 +257,10 @@
             "uqZ-mwxGf2c",
             "xfOATs8ncLM",
             "d1MH4nza95g",
-            "lY5TU8qHduM"
+            "lY5TU8qHduM",
+            "CXtHwJQphLI",
+            "INNKxTAagE4",
+            "fv61JXUCbeo"
           ],
           "tags": [
             "observability",
@@ -197,7 +279,15 @@
             "4aAyFYemYD8",
             "KdLQEv3Tiiw",
             "nomIVRSBEG4",
-            "FIelcuTti-I"
+            "FIelcuTti-I",
+            "173Y2uPljgo",
+            "vtzEOYX_8k8",
+            "D1Hth_78ftg",
+            "WahgsFhj3W0",
+            "6WRiPikxs-Q",
+            "FM6zp63maS8",
+            "cuA7G01T7_U",
+            "9z6mOWQgU84"
           ],
           "tags": [
             "event-driven",
@@ -220,7 +310,8 @@
             "ytA6gw6Tgaw",
             "Ul0ixBpd5iM",
             "Fqokr0P2_ag",
-            "L4YBdUVCFd4"
+            "L4YBdUVCFd4",
+            "cEwAbu6FFRo"
           ],
           "tags": [
             "frontend",
@@ -271,7 +362,8 @@
           "videoIds": [
             "s585HlqiyMQ",
             "FDYu2fllfuE",
-            "P-QVC5lOMbU"
+            "P-QVC5lOMbU",
+            "JfGgWiiCTA0"
           ],
           "tags": [
             "algorithms",
@@ -306,7 +398,10 @@
           "videoIds": [
             "TDWC1fFhn9g",
             "o9yaniXkM-0",
-            "A96r5gqwUrI"
+            "A96r5gqwUrI",
+            "xkHQhOgapfY",
+            "DCGTYftRGWE",
+            "3Fpey_L_XRU"
           ],
           "tags": [
             "simd",
@@ -323,7 +418,9 @@
             "DwAOCljoNoc",
             "J4iGUAXcAOA",
             "90hw9qwXbbw",
-            "07aDX5YB-ao"
+            "07aDX5YB-ao",
+            "qAHyv6G3a7M",
+            "UOOkDh4RUbE"
           ],
           "tags": [
             "rust",
@@ -378,7 +475,14 @@
             "ZlEq2jFb8tI",
             "WdK7PED1ug8",
             "bAoDvQgmGjM",
-            "SNgYSLZ2Ck4"
+            "SNgYSLZ2Ck4",
+            "US7oyxbcJCc",
+            "JeqaHMmSh1s",
+            "M_NbzCCHFp0",
+            "gu-5cim8mpA",
+            "z76NXRg1YWs",
+            "ApeNMU7KDH0",
+            "gVZwfZVAuVE"
           ],
           "tags": [
             "serde",
@@ -394,7 +498,9 @@
           "videoIds": [
             "BQ4wab0UtLg",
             "GERT8PoS9Qk",
-            "nRxqSGBuB4s"
+            "nRxqSGBuB4s",
+            "guwVjGsg3h4",
+            "_mwtz_8lBWc"
           ],
           "tags": [
             "algorithms",
@@ -411,7 +517,9 @@
             "-tZGlR8Zztg",
             "eJlXFaZNP6g",
             "pgTCcVO4gfg",
-            "3jMQWDNqsro"
+            "3jMQWDNqsro",
+            "Xhq99-YHXCY",
+            "rjhabJ8Bx5U"
           ],
           "tags": [
             "tigerstyle",
@@ -428,7 +536,16 @@
             "xV2EAL3NAVM",
             "hTEG3TsuUPQ",
             "olsB3bJxA2A",
-            "jrD_LGNsJXM"
+            "jrD_LGNsJXM",
+            "7yqkfHo8Mwk",
+            "ZfAc2pqcS-4",
+            "ymYtSum-2qc",
+            "Qv9X3ZY474U",
+            "qbBA7GWZbu4",
+            "F6aMGDfVAFg",
+            "iEn_PMcBlDk",
+            "T5FjMjTQCBI",
+            "dsxuWtfzBGI"
           ],
           "tags": [
             "zig",
@@ -476,7 +593,18 @@
             "B7MMdnv3y1M",
             "V6Ru7YYLneE",
             "aQpGQClZSvc",
-            "3ONqqMoLy0s"
+            "3ONqqMoLy0s",
+            "cJl2cchaHL8",
+            "HiaotGxHTfo",
+            "BT08SXPvV6U",
+            "B81dHVYOYJA",
+            "Z06RjO-zFxI",
+            "9yov-ZVv-Bo",
+            "MaP2i4dTiQk",
+            "izLrX-02IQk",
+            "4wX4mGuiTjw",
+            "z2SA6P7WNoc",
+            "T-NdEF6btbg"
           ],
           "tags": [
             "onnx",
@@ -500,7 +628,14 @@
             "ZbZdm5Opbno",
             "n9Ebc-0E478",
             "i2YEYgVx0AA",
-            "LxI5YjCUswI"
+            "LxI5YjCUswI",
+            "qxOOl1hx1zU",
+            "Hfut9CfJhN0",
+            "EvcUSPWkOA8",
+            "0HEqwk9UMOc",
+            "pzVOjl6mOD4",
+            "BzvpasWYESU",
+            "sGQrnPJSsPc"
           ],
           "tags": [
             "databases",
@@ -523,7 +658,17 @@
             "jzjGcFkAnfs",
             "LWc3AAHoxnU",
             "4_mBGmXA244",
-            "CqBZBJTAo3I"
+            "CqBZBJTAo3I",
+            "E8f87EV4k3A",
+            "P58Zt8A_1Mc",
+            "QC-vaMcjq3M",
+            "tyR8SdHpOeY",
+            "DIMW-iHlDxE",
+            "Pp36ysjfWd8",
+            "oUTf9j6fWJo",
+            "kvdBJSRUchA",
+            "wKzz0jKiScM",
+            "CASZX56r-tk"
           ],
           "tags": [
             "flutter",
@@ -548,7 +693,9 @@
             "TEGFwsAcxK8",
             "i1HT5UIccTs",
             "78hLFt3_Gh4",
-            "r1rhrISQXeA"
+            "r1rhrISQXeA",
+            "NztD5fYpXcg",
+            "zrP3muXzQX4"
           ],
           "tags": [
             "flutter",
@@ -568,7 +715,15 @@
           "videoIds": [
             "QBUQvfZJpaM",
             "H-gkXATx8r0",
-            "Kp_4y_HEaZ0"
+            "Kp_4y_HEaZ0",
+            "5st-kLcNrE8",
+            "Z90u9EVf4M4",
+            "_zJ3_d1CODg",
+            "u8XCBK6lGw0",
+            "MuDJGnGTn3k",
+            "TLqdeHlAo3A",
+            "Y0DQGVALb7I",
+            "84M1mVL0cjo"
           ],
           "tags": [
             "cryptography",
@@ -586,7 +741,17 @@
           "summary": "The old trade-off between high-level expressiveness and bare-metal speed is dissolving. Compile-time memory ownership models eliminate garbage collection without sacrificing safety, letting languages deliver imperative-grade performance from pure or Pythonic source. This chapter examines Mojo's LLVM-compiled superset of Python and the end of the functional programming tax, where ownership analysis and LLM tooling finally make purity and performance coexist.",
           "videoIds": [
             "Z_TABCzmoQ0",
-            "240fOdSvnpk"
+            "240fOdSvnpk",
+            "yAeM2vpPWeM",
+            "R3n8UxyD7mc",
+            "Th5MMOFQbh8",
+            "a2kADxV0kBM",
+            "drVBXipEOAs",
+            "wZC8NL32yfg",
+            "rxQvDuohbt8",
+            "7-mEDyQsJlI",
+            "vH8kEIlJXf0",
+            "V2cZl5s4EKU"
           ],
           "tags": [
             "language-design",

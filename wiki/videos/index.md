@@ -1,7 +1,7 @@
 ---
 type: index
 sources: 392
-updated: 2026-06-16
+updated: 2026-06-18
 ---
 
 # Video Wiki Index
@@ -16,7 +16,7 @@ The LLM reads this index first to locate relevant pages when answering queries.
 | Total Videos | 392 |
 | Total Views | 32.8K |
 | Categories | 6 |
-| Last Updated | Jun 16, 2026 |
+| Last Updated | Jun 17, 2026 |
 
 ## Categories
 
@@ -69,4 +69,4 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `internal` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Jun 16, 2026. See [wiki index](../index.md).*
+*Auto-generated on Jun 17, 2026. See [wiki index](../index.md).*

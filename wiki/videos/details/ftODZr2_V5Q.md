@@ -38,3 +38,5 @@ This video presents a strategic playbook for AKS lifecycle management, recommend
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 5** (confidence: 29%)_

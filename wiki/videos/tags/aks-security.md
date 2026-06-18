@@ -2,7 +2,7 @@
 type: tag
 tags: [aks-security]
 sources: 2
-updated: 2026-06-16
+updated: 2026-06-18
 ---
 
 # aks security
@@ -15,4 +15,4 @@ Videos connected by the topic `aks security`.
 - [Securely Exposing AKS Applications](https://youtu.be/A7eoKD5m6Ek) — Kubernetes · 9 views · Jan 8, 2026 · [Details](../details/A7eoKD5m6Ek.md)
 
 ---
-*Auto-generated on Jun 16, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 17, 2026. Back to [topic index](index.md).*

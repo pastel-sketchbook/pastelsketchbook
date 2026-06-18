@@ -38,3 +38,5 @@ This video presents an age-based ETF investment strategy for 2026, organized aro
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 7** (confidence: 4%)_

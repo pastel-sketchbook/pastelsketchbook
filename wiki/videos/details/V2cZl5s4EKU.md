@@ -38,3 +38,5 @@ This video launches a 12-week Spanish learning plan targeting A2 proficiency, sp
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [korea](../korea.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 17** (confidence: 4%)_

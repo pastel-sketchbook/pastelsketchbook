@@ -38,3 +38,5 @@ This video examines sorting algorithms at the intersection of mathematical theor
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 8** (confidence: 10%)_

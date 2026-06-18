@@ -38,3 +38,5 @@ A walk through the Typst compiler engine, tracing a `.typ` source file through p
 
 ---
 *Auto-generated on May 15, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 12** (confidence: 6%)_

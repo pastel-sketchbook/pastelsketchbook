@@ -38,3 +38,5 @@ This video introduces Reed, a modern terminal file viewer that integrates IDE-le
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 14** (confidence: 6%)_

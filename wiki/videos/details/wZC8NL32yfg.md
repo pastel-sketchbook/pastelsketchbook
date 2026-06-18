@@ -38,3 +38,5 @@ This presentation is an architectural guide to long polling and its role in achi
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 17** (confidence: 40%)_

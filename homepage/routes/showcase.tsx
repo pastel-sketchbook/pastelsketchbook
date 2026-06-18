@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router"
-import { useState, useEffect } from "react"
+import { useState, useEffect, useMemo } from "react"
 import { useQuery } from "@tanstack/react-query"
 import { VideoGallery } from "../src/components/VideoGallery"
 import { VideoModal } from "../src/components/VideoModal"
@@ -9,6 +9,8 @@ import { ChunkErrorBoundary } from "../src/components/ui/ChunkErrorBoundary"
 import { motion, AnimatePresence } from "framer-motion"
 import { allVideoIds, videoCategories, HIDDEN_VIDEO_IDS } from "../src/config/videos"
 import { fetchWikiBundle } from "../src/utils/wiki"
+import { fetchBooks, buildBookVideoLookup } from "../src/utils/books"
+import type { BookRef } from "../src/utils/books"
 import { logger, MetricsLogger } from "../src/lib/logger"
 
 const metricsLogger = MetricsLogger.getInstance()
@@ -119,6 +121,7 @@ function Showcase() {
         category?: string
         tags?: string[]
         hasWiki?: boolean
+        bookChapters?: BookRef[]
     }
 
     const { data: result, isLoading } = useQuery({
@@ -132,6 +135,16 @@ function Showcase() {
         queryFn: fetchWikiBundle,
         staleTime: 3600000
     })
+
+    const { data: booksData } = useQuery({
+        queryKey: ['books'],
+        queryFn: fetchBooks,
+        staleTime: 3600000
+    })
+
+    const bookLookup = useMemo(() => {
+        return booksData ? buildBookVideoLookup(booksData) : new Map<string, BookRef[]>()
+    }, [booksData])
 
     const wikiDetailIds = new Set(
         wikiBundle?.categories.flatMap(c => c.videos.filter(v => v.detail).map(v => v.id)) ?? []
@@ -156,7 +169,8 @@ function Showcase() {
         date: formatYouTubeDate(item.date),
         category: videoCategories[item.id],
         tags: (item.tags || []).map((tag: string) => tag.toLowerCase()),
-        hasWiki: wikiDetailIds.has(item.id)
+        hasWiki: wikiDetailIds.has(item.id),
+        bookChapters: bookLookup.get(item.id)
     }));
 
     // Extract all unique tags from videos

@@ -38,3 +38,5 @@ This video deconstructs the Gang of Four design patterns powering melos-rs, a hi
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 10** (confidence: 11%)_

@@ -38,3 +38,5 @@ This Spanish-language travel documentary explores Jeonju and Gochang in South Ko
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [korea](../korea.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 13** (confidence: 17%)_

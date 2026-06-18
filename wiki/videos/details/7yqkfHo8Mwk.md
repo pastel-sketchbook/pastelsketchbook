@@ -38,3 +38,5 @@ This video details the architecture of an autonomous AI research swarm built in 
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 10** (confidence: 43%)_

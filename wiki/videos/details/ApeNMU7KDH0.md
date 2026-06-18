@@ -38,3 +38,5 @@ A strategic relocation and investment briefing on Panama for 2026, framing the c
 
 ---
 *Auto-generated on May 20, 2026. Back to [korea](../korea.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 7** (confidence: 29%)_

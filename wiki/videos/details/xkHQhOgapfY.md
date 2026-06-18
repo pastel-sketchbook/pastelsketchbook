@@ -38,3 +38,5 @@ This presentation explores ZMD, a local-first zero-dependency search engine rewr
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 4** (confidence: 100%)_

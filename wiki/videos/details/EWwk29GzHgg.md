@@ -52,3 +52,5 @@ Welcome  everyone.  Today  we  are  exploring the  architectural  shift  represe
 
 ---
 *Auto-generated on Apr 28, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 8** (confidence: 33%)_

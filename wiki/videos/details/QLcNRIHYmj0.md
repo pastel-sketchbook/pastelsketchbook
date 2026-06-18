@@ -38,3 +38,5 @@ This Spanish-language video is a visual travel diary documenting a journey to So
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [korea](../korea.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 5** (confidence: 29%)_

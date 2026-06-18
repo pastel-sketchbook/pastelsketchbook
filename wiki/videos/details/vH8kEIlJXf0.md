@@ -38,3 +38,5 @@ This Spanish-language video provides a professional survival guide for navigatin
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [korea](../korea.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 17** (confidence: 40%)_

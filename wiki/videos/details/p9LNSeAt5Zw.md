@@ -38,3 +38,5 @@ This video serves as a strategic playbook for transitioning Node.js applications
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 3** (confidence: 33%)_

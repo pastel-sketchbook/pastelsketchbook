@@ -38,3 +38,5 @@ This video introduces the custom graphs preview feature in Microsoft Sentinel, w
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 16** (confidence: 29%)_

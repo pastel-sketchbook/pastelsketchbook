@@ -38,3 +38,5 @@ A strategic, data-driven guide for expatriates planning a 2026 relocation to Ecu
 
 ---
 *Auto-generated on May 20, 2026. Back to [korea](../korea.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 17** (confidence: 40%)_

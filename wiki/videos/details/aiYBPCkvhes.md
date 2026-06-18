@@ -38,3 +38,5 @@ This video introduces kube-log-viewer, a 100% Rust terminal UI for streaming and
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 1** (confidence: 20%)_

@@ -6,7 +6,9 @@ pastel-sketchbook.zip
 tools/*/zig-out/
 tools/*/.zig-cache/
 /PS_wiki_analysis.pdf
-/.qmd/data.db
+/.qmd/data.db*
+/.qmd/*.db-wal
+/.qmd/*.db-shm
 
 # Waza eval artifacts (dev-only tooling)
 **/eval.yaml

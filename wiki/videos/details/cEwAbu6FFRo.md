@@ -43,3 +43,5 @@ Compound Engineering is an AI-native software development philosophy that aims t
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 11** (confidence: 6%)_

@@ -39,3 +39,5 @@ This strategic analysis examines the long-term AI capital cycle, forecasting a t
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [finance](../finance.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 10** (confidence: 7%)_

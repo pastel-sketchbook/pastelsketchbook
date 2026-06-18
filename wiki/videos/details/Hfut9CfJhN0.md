@@ -38,3 +38,5 @@ This video presents Bubble Tea v2 from Charm, the next evolution of terminal use
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 13** (confidence: 17%)_

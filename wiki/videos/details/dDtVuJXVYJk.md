@@ -38,3 +38,5 @@ This video traces the evolution of database design from strict relational normal
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 8** (confidence: 50%)_

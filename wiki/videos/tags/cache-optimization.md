@@ -2,7 +2,7 @@
 type: tag
 tags: [cache-optimization]
 sources: 2
-updated: 2026-06-16
+updated: 2026-06-18
 ---
 
 # cache optimization
@@ -15,4 +15,4 @@ Videos connected by the topic `cache optimization`.
 - [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 61 views · Jan 29, 2026 · [Details](../details/h31-NtagNoU.md)
 
 ---
-*Auto-generated on Jun 16, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 17, 2026. Back to [topic index](index.md).*

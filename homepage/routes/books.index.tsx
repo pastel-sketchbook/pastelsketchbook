@@ -4,39 +4,10 @@ import { useMemo, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { ChunkErrorBoundary } from '../src/components/ui/ChunkErrorBoundary'
 import { VideoModal } from '../src/components/VideoModal'
-import { fetchWikiBundle } from '../src/utils/wiki'
+import { fetchWikiBundle, fmtViews, catLabel } from '../src/utils/wiki'
+import { fetchBooks, buildBookVideoLookup } from '../src/utils/books'
 import type { WikiVideo } from '../src/types/wiki'
-
-// -- Types --
-
-interface BookChapter {
-  number: number
-  title: string
-  summary: string
-  videoIds: string[]
-  tags: string[]
-}
-
-interface Book {
-  id: string
-  title: string
-  subtitle: string
-  description: string
-  chapters: BookChapter[]
-}
-
-interface BooksData {
-  generatedAt: string
-  books: Book[]
-}
-
-// -- Data --
-
-async function fetchBooks(): Promise<BooksData> {
-  const res = await fetch('/books.json')
-  if (!res.ok) throw new Error(`Failed to load books: ${res.status}`)
-  return res.json()
-}
+import type { BookChapter, Book, BooksData, BookRef } from '../src/utils/books'
 
 // -- Route --
 
@@ -132,6 +103,25 @@ function Books() {
     0,
   )
 
+  const bookStats = useMemo(() => {
+    return data.books.map((book) => {
+      const chapterViews = book.chapters.map((ch) => {
+        let views = 0
+        const categories = new Set<string>()
+        for (const vid of ch.videoIds) {
+          const info = videoLookup.get(vid)
+          if (info) {
+            views += info.views
+            if (info.category) categories.add(info.category)
+          }
+        }
+        return { chapterNumber: ch.number, views, categories: [...categories].sort() }
+      })
+      const totalViews = chapterViews.reduce((s, cv) => s + cv.views, 0)
+      return { bookId: book.id, totalViews, chapterViews }
+    })
+  }, [data, videoLookup])
+
   return (
     <div className="min-h-screen pt-32 pb-24 px-6">
       <div className="max-w-6xl mx-auto">
@@ -168,7 +158,7 @@ function Books() {
           initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.3 }}
-          className="grid grid-cols-3 gap-4 mb-12"
+          className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12"
         >
           <div className="bg-white p-6 rounded-xl sketch-border border-[#1B3022]/5 text-center">
             <div className="text-3xl font-bold text-[#1B3022]">{data.books.length}</div>
@@ -181,6 +171,12 @@ function Books() {
           <div className="bg-white p-6 rounded-xl sketch-border border-[#1B3022]/5 text-center">
             <div className="text-3xl font-bold text-[#1B3022]">{totalVideos}</div>
             <div className="text-xs font-bold uppercase tracking-widest text-[#1B3022]/40 mt-1">Source Videos</div>
+          </div>
+          <div className="bg-white p-6 rounded-xl sketch-border border-[#1B3022]/5 text-center">
+            <div className="text-3xl font-bold text-[#1B3022]">
+              {fmtViews(bookStats.reduce((s, bs) => s + bs.totalViews, 0))}
+            </div>
+            <div className="text-xs font-bold uppercase tracking-widest text-[#1B3022]/40 mt-1">Total Views</div>
           </div>
         </motion.div>
 
@@ -223,12 +219,15 @@ function Books() {
               <p className={`text-sm leading-relaxed mb-4 ${activeBook === book.id ? 'text-white/70' : 'text-[#1B3022]/60'}`}>
                 {book.description}
               </p>
-              <div className="flex gap-4 text-xs font-bold uppercase tracking-widest">
+              <div className="flex gap-4 text-xs font-bold uppercase tracking-widest flex-wrap">
                 <span className={activeBook === book.id ? 'text-white/60' : 'text-[#5F7D61]'}>
                   {book.chapters.length} chapters
                 </span>
                 <span className={activeBook === book.id ? 'text-white/60' : 'text-[#D4A373]'}>
                   {book.chapters.reduce((s, c) => s + c.videoIds.length, 0)} videos
+                </span>
+                <span className={activeBook === book.id ? 'text-white/50' : 'text-[#1B3022]/40'}>
+                  {fmtViews(bookStats.find((s) => s.bookId === book.id)?.totalViews ?? 0)} views
                 </span>
               </div>
             </motion.button>
@@ -261,19 +260,43 @@ function Books() {
                         onClick={() => setExpandedChapter(isExpanded ? null : chKey)}
                         className="w-full flex items-center justify-between p-5 text-left hover:bg-[#FAF9F6] transition-colors"
                       >
-                        <div className="flex items-center gap-4">
+                        <div className="flex items-center gap-4 min-w-0">
                           <span className="text-xs font-bold text-[#D4A373] w-8 flex-shrink-0">
                             {String(ch.number).padStart(2, '0')}
                           </span>
-                          <h3 className="font-serif italic text-[#1B3022]">{ch.title}</h3>
-                          <span className="px-2 py-0.5 rounded-full bg-[#5F7D61]/10 text-[10px] font-bold uppercase tracking-widest text-[#5F7D61]">
-                            {ch.videoIds.length} videos
-                          </span>
+                          <div className="min-w-0">
+                            <h3 className="font-serif italic text-[#1B3022] truncate">{ch.title}</h3>
+                            <div className="flex items-center gap-2 mt-0.5">
+                              <span className="px-2 py-0.5 rounded-full bg-[#5F7D61]/10 text-[10px] font-bold uppercase tracking-widest text-[#5F7D61]">
+                                {ch.videoIds.length} videos
+                              </span>
+                              {(() => {
+                                const bs = bookStats.find((s) => s.bookId === selected.id)
+                                const cv = bs?.chapterViews.find((c) => c.chapterNumber === ch.number)
+                                if (!cv) return null
+                                return (
+                                  <>
+                                    <span className="text-[10px] text-[#1B3022]/40 font-semibold">
+                                      {fmtViews(cv.views)} views
+                                    </span>
+                                    {cv.categories.map((cat) => (
+                                      <span
+                                        key={cat}
+                                        className="px-2 py-0.5 rounded-full bg-[#D4A373]/10 text-[10px] font-bold uppercase tracking-widest text-[#D4A373]"
+                                      >
+                                        {catLabel(cat)}
+                                      </span>
+                                    ))}
+                                  </>
+                                )
+                              })()}
+                            </div>
+                          </div>
                         </div>
                         <motion.svg
                           animate={{ rotate: isExpanded ? 180 : 0 }}
                           transition={{ duration: 0.2 }}
-                          className="w-4 h-4 text-[#1B3022]/30 flex-shrink-0"
+                          className="w-4 h-4 text-[#1B3022]/30 flex-shrink-0 ml-4"
                           fill="none"
                           stroke="currentColor"
                           viewBox="0 0 24 24"

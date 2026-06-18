@@ -1,0 +1,1906 @@
+{
+  "generatedAt": "2026-06-18T03:44:17.123Z",
+  "classified": [
+    {
+      "videoId": "xkHQhOgapfY",
+      "title": "ZMD Architecture & Evolution",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 4,
+      "score": 1,
+      "matchReason": "keywords: vector, zig"
+    },
+    {
+      "videoId": "qAHyv6G3a7M",
+      "title": "Building the Unified Rust Backend",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 5,
+      "score": 0.714,
+      "matchReason": "rust, tower, axum, tonic, middleware, http; keywords: http, hyper, axum, tonic, tower"
+    },
+    {
+      "videoId": "CXtHwJQphLI",
+      "title": "Production-Ready RabbitMQ in Go",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 9,
+      "score": 0.667,
+      "matchReason": "go, pattern, tracing, opentelemetry, patterns, observability; keywords: opentelemetry, go"
+    },
+    {
+      "videoId": "INNKxTAagE4",
+      "title": "Resilient Asynchronous Systems in Go",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 9,
+      "score": 0.667,
+      "matchReason": "go, opentelemetry, observability, systems, tracing, ai; keywords: opentelemetry, go"
+    },
+    {
+      "videoId": "yAeM2vpPWeM",
+      "title": "Design for Deletion",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 17,
+      "score": 0.6,
+      "matchReason": "keywords: acr, ip, ownership"
+    },
+    {
+      "videoId": "WrZN5AgpaW4",
+      "title": "The Anatomy of Kubernetes",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 1,
+      "score": 0.6,
+      "matchReason": "kubernetes, control, plane, reconciliation, kubelet, ai; keywords: kubernetes, etcd, scheduler, kubelet, reconciliation"
+    },
+    {
+      "videoId": "UOOkDh4RUbE",
+      "title": "Architecture Review: tn-file-upload",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 5,
+      "score": 0.571,
+      "matchReason": "rust, axum, tonic, grpc, http; keywords: http, axum, tonic, protobuf"
+    },
+    {
+      "videoId": "WRpjJV4SUKc",
+      "title": "Architecting Real-Time State",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.5,
+      "matchReason": "data, distributed, database; keywords: distributed, data, database"
+    },
+    {
+      "videoId": "dDtVuJXVYJk",
+      "title": "The Rules and The Rebellion",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.5,
+      "matchReason": "database, distributed, databases, data, architecture; keywords: distributed, data, database"
+    },
+    {
+      "videoId": "u60g2nMtVi4",
+      "title": "The Data Singularity in Microsoft Fabric",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.5,
+      "matchReason": "data, cluster; keywords: cluster, distributed, data"
+    },
+    {
+      "videoId": "5st-kLcNrE8",
+      "title": "Jujutsu (jj):  An Introduction of its Paradigm Shift",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 16,
+      "score": 0.429,
+      "matchReason": "keywords: ron, go, data"
+    },
+    {
+      "videoId": "7yqkfHo8Mwk",
+      "title": "Engineering the Overnight Researcher in Zig",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 10,
+      "score": 0.429,
+      "matchReason": "keywords: simd, zig, simd"
+    },
+    {
+      "videoId": "rgY4KTMFOMs",
+      "title": "Secure Web App with Azure AD/OAuth2 Proxy",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 5,
+      "score": 0.429,
+      "matchReason": "aks, azure, service; keywords: aks, ingress, ip"
+    },
+    {
+      "videoId": "ZfAc2pqcS-4",
+      "title": "OpenCV Library Architecture and Capabilities",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 10,
+      "score": 0.429,
+      "matchReason": "keywords: simd, vector, simd"
+    },
+    {
+      "videoId": "SuuZW_fuEFc",
+      "title": "rr-mailtrap: The Developer's SMTP Sandbox",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 5,
+      "score": 0.429,
+      "matchReason": "keywords: aks, ip, http"
+    },
+    {
+      "videoId": "US7oyxbcJCc",
+      "title": "Cloth Simulation: A Performance Study",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 7,
+      "score": 0.429,
+      "matchReason": "keywords: acr, ron, data"
+    },
+    {
+      "videoId": "cJl2cchaHL8",
+      "title": "pastel-hn",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 12,
+      "score": 0.4,
+      "matchReason": "rust, native; keywords: ssa, wasm"
+    },
+    {
+      "videoId": "R3n8UxyD7mc",
+      "title": "The Architecture of Systemic Decoupling",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 17,
+      "score": 0.4,
+      "matchReason": "keywords: acr, ip"
+    },
+    {
+      "videoId": "JfGgWiiCTA0",
+      "title": "Shannon: Autonomous Penetration Testing",
+      "category": "security",
+      "bookId": "internals-companion",
+      "chapterNumber": 2,
+      "score": 0.4,
+      "matchReason": "keywords: ip, shannon"
+    },
+    {
+      "videoId": "Th5MMOFQbh8",
+      "title": "Backend Patterns in Rust",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 17,
+      "score": 0.4,
+      "matchReason": "keywords: ip, ownership"
+    },
+    {
+      "videoId": "a2kADxV0kBM",
+      "title": "zig-twitter: Anatomy of a Hybrid Terminal Client",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 17,
+      "score": 0.4,
+      "matchReason": "design, performance; keywords: acr, ip"
+    },
+    {
+      "videoId": "drVBXipEOAs",
+      "title": "Jinju y Jirisan: el Valor a la Sabiduría",
+      "category": "korea",
+      "bookId": "internals-companion",
+      "chapterNumber": 17,
+      "score": 0.4,
+      "matchReason": "keywords: acr, ip"
+    },
+    {
+      "videoId": "wZC8NL32yfg",
+      "title": "Emulating the Server Push",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 17,
+      "score": 0.4,
+      "matchReason": "keywords: acr, ip"
+    },
+    {
+      "videoId": "rxQvDuohbt8",
+      "title": "Jeju: Un Recuerdo en Tonos Pastel",
+      "category": "korea",
+      "bookId": "internals-companion",
+      "chapterNumber": 17,
+      "score": 0.4,
+      "matchReason": "keywords: acr, ip"
+    },
+    {
+      "videoId": "7-mEDyQsJlI",
+      "title": "El Plan Maestro para Mudarse a Ecuador en 2026",
+      "category": "korea",
+      "bookId": "internals-companion",
+      "chapterNumber": 17,
+      "score": 0.4,
+      "matchReason": "keywords: acr, ip"
+    },
+    {
+      "videoId": "vH8kEIlJXf0",
+      "title": "Guía de Supervivencia en Latinoamérica",
+      "category": "korea",
+      "bookId": "internals-companion",
+      "chapterNumber": 17,
+      "score": 0.4,
+      "matchReason": "keywords: acr, ip"
+    },
+    {
+      "videoId": "jOw6d5zH658",
+      "title": "Engineering Al Agent Mastery with Waza",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.333,
+      "matchReason": "keywords: ci/cd, ip, storage"
+    },
+    {
+      "videoId": "TmlqoKqMD2Y",
+      "title": "Jujutsu (jj) for Git-compatible Workflow",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.333,
+      "matchReason": "data, distributed; keywords: distributed, data"
+    },
+    {
+      "videoId": "E8f87EV4k3A",
+      "title": "A Compiler, Not a Renderer",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 14,
+      "score": 0.333,
+      "matchReason": "wasm, architecture, language; keywords: wasm, architecture"
+    },
+    {
+      "videoId": "EWwk29GzHgg",
+      "title": "Architecting the Next Evolution of the Local Database",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.333,
+      "matchReason": "keywords: data, database"
+    },
+    {
+      "videoId": "vep9hSKc9I0",
+      "title": "Dial9 Demo - Deep Observability in Async Rust",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.333,
+      "matchReason": "keywords: data, database"
+    },
+    {
+      "videoId": "P58Zt8A_1Mc",
+      "title": "Swift Firefly",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 14,
+      "score": 0.333,
+      "matchReason": "wasm, language, platform, architecture; keywords: wasm, architecture"
+    },
+    {
+      "videoId": "QC-vaMcjq3M",
+      "title": "zig-lottie: Compiling Motion",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 14,
+      "score": 0.333,
+      "matchReason": "wasm, compilation, architecture; keywords: wasm, architecture"
+    },
+    {
+      "videoId": "SpNfrWmI8iE",
+      "title": "Architecting Scalable Rust Backends",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.333,
+      "matchReason": "architecture, database, ai; keywords: data, database"
+    },
+    {
+      "videoId": "j8lMpSezavQ",
+      "title": "The Local SOTA Engine for Your Digital Brain",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.333,
+      "matchReason": "ai, pipeline, architecture; keywords: ip, architecture, storage"
+    },
+    {
+      "videoId": "5Ztm7JNVa8E",
+      "title": "Drasi: The Future of Change-Driven Architecture",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.333,
+      "matchReason": "architecture, data, cluster; keywords: cluster, data"
+    },
+    {
+      "videoId": "V9tvg6Yg3m4",
+      "title": "From Consensus Physics to Messaging Engineering",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.333,
+      "matchReason": "keywords: acr, ip, architecture"
+    },
+    {
+      "videoId": "E30riOZ-YVo",
+      "title": "The Architect's ORM Blueprint",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.333,
+      "matchReason": "database, architecture; keywords: data, database"
+    },
+    {
+      "videoId": "tyR8SdHpOeY",
+      "title": "Book-Finder Architecture",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 14,
+      "score": 0.333,
+      "matchReason": "wasm, architecture; keywords: wasm, architecture"
+    },
+    {
+      "videoId": "P_xUJi_qt-Q",
+      "title": "Advanced Architectural Synthesis",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.333,
+      "matchReason": "distributed, architecture, data; keywords: distributed, data"
+    },
+    {
+      "videoId": "MIZ0ATwu7C0",
+      "title": "Architecting Meilisearch on AKS & Istio",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.333,
+      "matchReason": "aks, azure, storage, architecture; keywords: aks, architecture, storage"
+    },
+    {
+      "videoId": "eaPXjvB194w",
+      "title": "Architecting Cost Efficiency for Al Workloads",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.333,
+      "matchReason": "ai, database, architecture; keywords: data, database"
+    },
+    {
+      "videoId": "ZUINk3dp9eA",
+      "title": "The Architecture of Sequelize",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.333,
+      "matchReason": "architecture, database; keywords: data, database"
+    },
+    {
+      "videoId": "PMgUhFxrjPc",
+      "title": "The Cloud Rosetta Stone",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.333,
+      "matchReason": "azure, storage, ai, architecture, platform; keywords: acr, architecture, storage"
+    },
+    {
+      "videoId": "p9LNSeAt5Zw",
+      "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.333,
+      "matchReason": "gitops, ai, pipeline; keywords: ci/cd, gitops, ip"
+    },
+    {
+      "videoId": "a8heWpae5p0",
+      "title": "minikv: Distributed Systems Meets Data Science",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.333,
+      "matchReason": "keywords: distributed, data"
+    },
+    {
+      "videoId": "LnJbrb0EUaE",
+      "title": "The Prisma Ecosystem Architecture",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.333,
+      "matchReason": "architecture, database, ai; keywords: data, database"
+    },
+    {
+      "videoId": "0NLj8g2hQNk",
+      "title": "The Client's Guide to 'ra-token-authority'",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.333,
+      "matchReason": "distributed, ai, architecture; keywords: distributed, data"
+    },
+    {
+      "videoId": "C6wLm6NRZW4",
+      "title": "The Complete Codebase Lifecycle",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.333,
+      "matchReason": "aks, acr, application, azure, devops, ai; keywords: azure devops, acr, aks"
+    },
+    {
+      "videoId": "z_Ydy_-cI1U",
+      "title": "Micro-Processing the Hippo's Waste",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 8,
+      "score": 0.333,
+      "matchReason": "ai, agents, distributed; keywords: distributed, data"
+    },
+    {
+      "videoId": "173Y2uPljgo",
+      "title": "The NestJS Architecture Blueprint",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 10,
+      "score": 0.3,
+      "matchReason": "ai, architecture, event; keywords: event-driven, architecture, data"
+    },
+    {
+      "videoId": "VxWyvAO3qb8",
+      "title": "The Two-System Pattern",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 1,
+      "score": 0.3,
+      "matchReason": "architecture, kubernetes, cluster, pattern; keywords: kubernetes, cluster, architecture"
+    },
+    {
+      "videoId": "JeqaHMmSh1s",
+      "title": "The Complete Guide to Building Skills for Claude",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 7,
+      "score": 0.286,
+      "matchReason": "keywords: acr, ron"
+    },
+    {
+      "videoId": "Z90u9EVf4M4",
+      "title": "Writing Modern Go in the Age of Al",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 16,
+      "score": 0.286,
+      "matchReason": "keywords: go, data"
+    },
+    {
+      "videoId": "_zJ3_d1CODg",
+      "title": "Bevy-Demo",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 16,
+      "score": 0.286,
+      "matchReason": "keywords: go, data"
+    },
+    {
+      "videoId": "M_NbzCCHFp0",
+      "title": "The Orbital Compute Blueprint",
+      "category": "finance",
+      "bookId": "internals-companion",
+      "chapterNumber": 7,
+      "score": 0.286,
+      "matchReason": "data, rust; keywords: ron, data"
+    },
+    {
+      "videoId": "ymYtSum-2qc",
+      "title": "zig-duckdb-ext",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 10,
+      "score": 0.286,
+      "matchReason": "zig, comptime, generics; keywords: zig, comptime"
+    },
+    {
+      "videoId": "u8XCBK6lGw0",
+      "title": "Custom Graphs in Microsoft Sentinel (Preview)",
+      "category": "security",
+      "bookId": "internals-companion",
+      "chapterNumber": 16,
+      "score": 0.286,
+      "matchReason": "keywords: ron, data"
+    },
+    {
+      "videoId": "MuDJGnGTn3k",
+      "title": "Leetgo",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 16,
+      "score": 0.286,
+      "matchReason": "keywords: ron, go"
+    },
+    {
+      "videoId": "TLqdeHlAo3A",
+      "title": "From Bottlenecks to Breakthroughs:",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 16,
+      "score": 0.286,
+      "matchReason": "keywords: go, data"
+    },
+    {
+      "videoId": "Y0DQGVALb7I",
+      "title": "Building with Gemini: The Unified Ecosystem",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 16,
+      "score": 0.286,
+      "matchReason": "keywords: go, data"
+    },
+    {
+      "videoId": "Qv9X3ZY474U",
+      "title": "Architectural Evolution of a Vision Tool",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 10,
+      "score": 0.286,
+      "matchReason": "keywords: zig, allocator"
+    },
+    {
+      "videoId": "Oa3jaLNSZvM",
+      "title": "The Orchestrator's Blueprint",
+      "category": "security",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 2,
+      "score": 0.286,
+      "matchReason": "shift, security, identity; keywords: firewall, ip, security, identity"
+    },
+    {
+      "videoId": "OnwiaDRj1-k",
+      "title": "Kubernetes Services & Istio",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 5,
+      "score": 0.286,
+      "matchReason": "service, aks, networking, azure; keywords: aks, ip"
+    },
+    {
+      "videoId": "ftODZr2_V5Q",
+      "title": "Kubernetes Version Upgrade Strategy",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 5,
+      "score": 0.286,
+      "matchReason": "keywords: aks, ip"
+    },
+    {
+      "videoId": "gu-5cim8mpA",
+      "title": "The Modern Al/BI Developer's Toolkit",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 7,
+      "score": 0.286,
+      "matchReason": "data, rust, error; keywords: ron, data"
+    },
+    {
+      "videoId": "84M1mVL0cjo",
+      "title": "Pathways Over Tools",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 16,
+      "score": 0.286,
+      "matchReason": "keywords: go, data"
+    },
+    {
+      "videoId": "QLcNRIHYmj0",
+      "title": "Un Viaje a Sokcho",
+      "category": "korea",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 5,
+      "score": 0.286,
+      "matchReason": "keywords: aks, ip"
+    },
+    {
+      "videoId": "z76NXRg1YWs",
+      "title": "El Arte de Pedir Comida en Español",
+      "category": "korea",
+      "bookId": "internals-companion",
+      "chapterNumber": 7,
+      "score": 0.286,
+      "matchReason": "keywords: acr, ron"
+    },
+    {
+      "videoId": "nJ10P-fRqZQ",
+      "title": "Modern Hybrid Identity ",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 5,
+      "score": 0.286,
+      "matchReason": "keywords: aks, http"
+    },
+    {
+      "videoId": "snRi_JET1bg",
+      "title": "Deploying CSR Applications on Vercel Versus AKS",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 5,
+      "score": 0.286,
+      "matchReason": "aks, azure, service; keywords: aks, ip"
+    },
+    {
+      "videoId": "ApeNMU7KDH0",
+      "title": "Dossier de Reubicación e Inversión: Panamá 2026",
+      "category": "korea",
+      "bookId": "internals-companion",
+      "chapterNumber": 7,
+      "score": 0.286,
+      "matchReason": "keywords: ron, data"
+    },
+    {
+      "videoId": "7iWL5-0C66s",
+      "title": "Bridging the Mainframe to the Cloud",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 4,
+      "score": 0.273,
+      "matchReason": "rabbitmq, data; keywords: ron, ssa, data"
+    },
+    {
+      "videoId": "DazzkNtnzec",
+      "title": "Design Patterns in Go",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "keywords: ip, architecture"
+    },
+    {
+      "videoId": "IYfTi_HNDl4",
+      "title": "Building Production-Grade RabbitMQ in Go",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "production, architecture, ai; keywords: ip, architecture"
+    },
+    {
+      "videoId": "vSjgNxi7W-4",
+      "title": "yp: The Terminal User Interface Renaissance",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "keywords: ip, architecture"
+    },
+    {
+      "videoId": "AcpVuvtSXwI",
+      "title": "microgpt-zig: Atomic Al Training",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "keywords: ip, architecture"
+    },
+    {
+      "videoId": "0U-SUJCmKAU",
+      "title": "From Stateful to Secure",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "aks, storage, azure, ai; keywords: aks, storage"
+    },
+    {
+      "videoId": "d_0swhS1LyQ",
+      "title": "Neural TTS in Pastel-HN",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "ai, architecture, platform; keywords: ip, architecture"
+    },
+    {
+      "videoId": "IF5sNQH-01c",
+      "title": "NotebookLM's Intelligence Flow",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "ai, architecture, product; keywords: ip, architecture"
+    },
+    {
+      "videoId": "QOYXBkMcnYk",
+      "title": "The Echo Web Framework",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "pipeline, architecture; keywords: ip, architecture"
+    },
+    {
+      "videoId": "mGMaqTvWrCc",
+      "title": "Building an End-to-End MLOps Pipeline",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "azure, pipeline, storage, ai; keywords: ip, storage"
+    },
+    {
+      "videoId": "xVdW3yUCbuU",
+      "title": "codeprobe",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "ai, pipeline, architecture; keywords: ip, architecture"
+    },
+    {
+      "videoId": "ARWkoc3E8uE",
+      "title": "Composition by Design",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "keywords: ip, architecture"
+    },
+    {
+      "videoId": "2Ni8zfsxW6o",
+      "title": "Modernizing Legacy COBOL",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "architecture, enterprise; keywords: acr, architecture"
+    },
+    {
+      "videoId": "_sxPf3tHq3s",
+      "title": "The 100+ Service Problem",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "keywords: ci/cd, architecture"
+    },
+    {
+      "videoId": "lin_ycbQGtE",
+      "title": "Beat - Anatomy of a Real-Time Visualizer",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "pipeline, architecture; keywords: ip, architecture"
+    },
+    {
+      "videoId": "Q4qm1hvVR2A",
+      "title": "Dragonfly on AKS",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "aks, architecture, azure, ai; keywords: aks, architecture"
+    },
+    {
+      "videoId": "G-vvSNwm-jE",
+      "title": "The Final 5 Years",
+      "category": "finance",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 7,
+      "score": 0.222,
+      "matchReason": "retirement, social, security, income, strategy; keywords: social security, security"
+    },
+    {
+      "videoId": "ctKLD4d146g",
+      "title": "The Codebase Lifecycle",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "pipeline, devops, ai; keywords: ci/cd, ip"
+    },
+    {
+      "videoId": "_4BC0zHGYTw",
+      "title": "The Mathematics of Human Capital Compounding",
+      "category": "finance",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 7,
+      "score": 0.222,
+      "matchReason": "keywords: wealth, 401k"
+    },
+    {
+      "videoId": "KDnTY0Svmr0",
+      "title": "AEM + Meilisearch: A High-Performance Integration",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "enterprise, ai, pipeline, architecture; keywords: ip, architecture"
+    },
+    {
+      "videoId": "fMjflPvjaJ8",
+      "title": "Azure Enterprise Edge Lab",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.222,
+      "matchReason": "azure, ai, architecture, enterprise; keywords: acr, architecture"
+    },
+    {
+      "videoId": "n-Yt33ZdEHw",
+      "title": "The Architecture of Modern Identity",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 2,
+      "score": 0.214,
+      "matchReason": "identity, zero, trust, go, security; keywords: go, security, identity"
+    },
+    {
+      "videoId": "rk_3xU9OF-k",
+      "title": "The Modern Platform Framework",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 2,
+      "score": 0.214,
+      "matchReason": "workload, kubernetes, istio, go; keywords: kubernetes, istio, go"
+    },
+    {
+      "videoId": "ORjARjbukhY",
+      "title": "The Golden Path",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 2,
+      "score": 0.214,
+      "matchReason": "kubernetes, security, workload, go; keywords: kubernetes, go, security"
+    },
+    {
+      "videoId": "R2zktRqz81U",
+      "title": "A Blueprint for Secure Azure Authentication in Go",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 2,
+      "score": 0.214,
+      "matchReason": "workload, identity, go; keywords: ip, go, identity"
+    },
+    {
+      "videoId": "vtzEOYX_8k8",
+      "title": "Packet Capture Fundamentals",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 10,
+      "score": 0.2,
+      "matchReason": "capture, ai, architecture; keywords: architecture, data"
+    },
+    {
+      "videoId": "oHdhgeF4wlI",
+      "title": "A Trillion Transactions",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 1,
+      "score": 0.2,
+      "matchReason": "distributed, system, architecture, ai; keywords: distributed, architecture"
+    },
+    {
+      "videoId": "y3WwL48DLYw",
+      "title": "Kubernetes Auto-Scaling Strategies",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 1,
+      "score": 0.2,
+      "matchReason": "keywords: kubernetes, pod"
+    },
+    {
+      "videoId": "aiYBPCkvhes",
+      "title": "kube-log-viewer",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 1,
+      "score": 0.2,
+      "matchReason": "keywords: kubernetes, pod"
+    },
+    {
+      "videoId": "A7eoKD5m6Ek",
+      "title": "Securely Exposing AKS Applications",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 1,
+      "score": 0.2,
+      "matchReason": "cluster, kubernetes; keywords: kubernetes, cluster"
+    },
+    {
+      "videoId": "D1Hth_78ftg",
+      "title": "타입스크립트와 번으로 만드는 TODO 리스트",
+      "category": "programming",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 10,
+      "score": 0.2,
+      "matchReason": "data, architecture; keywords: architecture, data"
+    },
+    {
+      "videoId": "7eoxSgjwYlM",
+      "title": "Bridging Helm and CUE for Deterministic Value Composition",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 4,
+      "score": 0.182,
+      "matchReason": "data, management; keywords: ron, data"
+    },
+    {
+      "videoId": "0ttrfTfP864",
+      "title": "ra-token-authority",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 4,
+      "score": 0.182,
+      "matchReason": "keywords: istio, ron"
+    },
+    {
+      "videoId": "qxOOl1hx1zU",
+      "title": "The Future of Al Programming:  2031 Strategic Outlook",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 13,
+      "score": 0.167,
+      "matchReason": "keywords: go, architecture"
+    },
+    {
+      "videoId": "Hfut9CfJhN0",
+      "title": "Bubble Tea v2",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 13,
+      "score": 0.167,
+      "matchReason": "keywords: go, architecture"
+    },
+    {
+      "videoId": "EvcUSPWkOA8",
+      "title": "Jeonju y Gochang: Apuntes de Corea",
+      "category": "korea",
+      "bookId": "internals-companion",
+      "chapterNumber": 13,
+      "score": 0.167,
+      "matchReason": "keywords: go, architecture"
+    },
+    {
+      "videoId": "DCGTYftRGWE",
+      "title": "Hardening a Prototype",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 4,
+      "score": 0.163,
+      "matchReason": "zig, data, oriented, struct, arrays, performance"
+    },
+    {
+      "videoId": "_5DCBqOCr8c",
+      "title": "Designing for Privacy",
+      "category": "security",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 2,
+      "score": 0.143,
+      "matchReason": "keywords: ip, security"
+    },
+    {
+      "videoId": "1VjSLqfPf9s",
+      "title": "The NIST Cybersecurity Framework 2.0",
+      "category": "security",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 2,
+      "score": 0.143,
+      "matchReason": "keywords: ip, security"
+    },
+    {
+      "videoId": "RLlEbcXO6k8",
+      "title": "Migrating Workloads from AWS to Azure",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 2,
+      "score": 0.143,
+      "matchReason": "workload, security; keywords: firewall, security"
+    },
+    {
+      "videoId": "WahgsFhj3W0",
+      "title": "melos-rs: Architectural Anatomy",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 10,
+      "score": 0.108,
+      "matchReason": "design, patterns, pattern, ai"
+    },
+    {
+      "videoId": "uhXcsWYhdkA",
+      "title": "The Strategic Roadmap for Data Classification",
+      "category": "security",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 2,
+      "score": 0.105,
+      "matchReason": "security, zero, trust, rust"
+    },
+    {
+      "videoId": "3Fpey_L_XRU",
+      "title": "Cloth Simulation ",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 4,
+      "score": 0.104,
+      "matchReason": "zig, struct, arrays, ai, cache"
+    },
+    {
+      "videoId": "guwVjGsg3h4",
+      "title": "The Pragmatics of Order",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 8,
+      "score": 0.1,
+      "matchReason": "algorithms, standard, optimization, ai"
+    },
+    {
+      "videoId": "6WRiPikxs-Q",
+      "title": "The Architect's Baton",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 10,
+      "score": 0.098,
+      "matchReason": "architecture, design, patterns, ai"
+    },
+    {
+      "videoId": "9oSUtndLto4",
+      "title": "Unifying AI, Copilot & Power BI",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.094,
+      "matchReason": "azure, ai, foundry"
+    },
+    {
+      "videoId": "DIMW-iHlDxE",
+      "title": "Mastering Comprehensive Rust",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 14,
+      "score": 0.091,
+      "matchReason": "safety, pattern, matching, language"
+    },
+    {
+      "videoId": "uU46ltIELqk",
+      "title": "Generative Al at Scale",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 3,
+      "score": 0.091,
+      "matchReason": "ai, pipeline, enterprise"
+    },
+    {
+      "videoId": "fv61JXUCbeo",
+      "title": "Stitch Agent Skills",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 9,
+      "score": 0.089,
+      "matchReason": "ai, context, component, systems"
+    },
+    {
+      "videoId": "FM6zp63maS8",
+      "title": "hexcap: Elevating Terminal Packet Capture",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 10,
+      "score": 0.083,
+      "matchReason": "capture, ai, architecture"
+    },
+    {
+      "videoId": "qbBA7GWZbu4",
+      "title": "Smooth Motion",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 10,
+      "score": 0.083,
+      "matchReason": "zig, programming, systems"
+    },
+    {
+      "videoId": "_mwtz_8lBWc",
+      "title": "The Geometry of Light",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 8,
+      "score": 0.077,
+      "matchReason": "algorithms, ai, graph"
+    },
+    {
+      "videoId": "Zeg8zSOvoyE",
+      "title": "Black-Hat LLMs: The End of the 20-Year Security Balance",
+      "category": "security",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 2,
+      "score": 0.075,
+      "matchReason": "zero, security, shift"
+    },
+    {
+      "videoId": "CA1nlknmR3g",
+      "title": "Containing the Untrusted Agent",
+      "category": "security",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 2,
+      "score": 0.073,
+      "matchReason": "security, network, rust"
+    },
+    {
+      "videoId": "F6aMGDfVAFg",
+      "title": "비동기 처리 - async/await",
+      "category": "programming",
+      "bookId": "internals-companion",
+      "chapterNumber": 10,
+      "score": 0.073,
+      "matchReason": "error, programming, language"
+    },
+    {
+      "videoId": "HiaotGxHTfo",
+      "title": "PictureViewer",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 12,
+      "score": 0.073,
+      "matchReason": "native, hardware, ai, graph"
+    },
+    {
+      "videoId": "BT08SXPvV6U",
+      "title": "Building vibe-rust",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 12,
+      "score": 0.071,
+      "matchReason": "rust, onnx, ai, model"
+    },
+    {
+      "videoId": "cuA7G01T7_U",
+      "title": "temporal-chain: Architecture & Design",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 10,
+      "score": 0.071,
+      "matchReason": "ai, architecture, design"
+    },
+    {
+      "videoId": "0HEqwk9UMOc",
+      "title": "How to Kill the Code Review",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 13,
+      "score": 0.068,
+      "matchReason": "architectural, go, model"
+    },
+    {
+      "videoId": "9z6mOWQgU84",
+      "title": "Navigating the Al Capital Cycle: 2026 & Beyond",
+      "category": "finance",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 10,
+      "score": 0.068,
+      "matchReason": "ai, data, event"
+    },
+    {
+      "videoId": "pzVOjl6mOD4",
+      "title": "The Architect's Guide to Modern Token Security",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 13,
+      "score": 0.064,
+      "matchReason": "go, native, graph"
+    },
+    {
+      "videoId": "cEwAbu6FFRo",
+      "title": "Compound Engineering",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 11,
+      "score": 0.063,
+      "matchReason": "native, development, architectural"
+    },
+    {
+      "videoId": "Pp36ysjfWd8",
+      "title": "Hangul Typing",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 14,
+      "score": 0.063,
+      "matchReason": "wasm, language, platform"
+    },
+    {
+      "videoId": "B81dHVYOYJA",
+      "title": "Inside the Typst Compiler Engine",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 12,
+      "score": 0.06,
+      "matchReason": "rust, intermediate, representation, ai"
+    },
+    {
+      "videoId": "oUTf9j6fWJo",
+      "title": "Reed: The Modern Terminal File Viewer",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 14,
+      "score": 0.059,
+      "matchReason": "rendering, architecture, language"
+    },
+    {
+      "videoId": "t-WvRifOu-E",
+      "title": "Dossier de Reubicación en Costa Rica",
+      "category": "korea",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 1,
+      "score": 0.059,
+      "matchReason": "system, ai, model"
+    },
+    {
+      "videoId": "NztD5fYpXcg",
+      "title": "The 10-Lens Research Analysis Framework",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 15,
+      "score": 0.058,
+      "matchReason": "ai, skills, testing"
+    },
+    {
+      "videoId": "zrP3muXzQX4",
+      "title": "Reins: The Framework for Al-Assisted Development",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 15,
+      "score": 0.057,
+      "matchReason": "scaffolding, ai, agent"
+    },
+    {
+      "videoId": "Z06RjO-zFxI",
+      "title": "The Modern Git Playbook",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 12,
+      "score": 0.056,
+      "matchReason": "model, version, ai"
+    },
+    {
+      "videoId": "9yov-ZVv-Bo",
+      "title": "Hangul + WASM",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 12,
+      "score": 0.055,
+      "matchReason": "wasm, ai, native"
+    },
+    {
+      "videoId": "BzvpasWYESU",
+      "title": "The LLM Wiki Paradigm",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 13,
+      "score": 0.054,
+      "matchReason": "architecture, model, graph"
+    },
+    {
+      "videoId": "X65YHZUnFq0",
+      "title": "OpenFeature: The Standard for Feature Flagging",
+      "category": "development",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 6,
+      "score": 0.054,
+      "matchReason": "testing, canary"
+    },
+    {
+      "videoId": "iEn_PMcBlDk",
+      "title": "알고리즘 완전 정복",
+      "category": "programming",
+      "bookId": "internals-companion",
+      "chapterNumber": 10,
+      "score": 0.054,
+      "matchReason": "fundamentals, language"
+    },
+    {
+      "videoId": "sGQrnPJSsPc",
+      "title": "A Semantic Operating System",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 13,
+      "score": 0.053,
+      "matchReason": "architecture, graph, model"
+    },
+    {
+      "videoId": "MaP2i4dTiQk",
+      "title": "Taming the Genie",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 12,
+      "score": 0.052,
+      "matchReason": "ai, native, graph"
+    },
+    {
+      "videoId": "T5FjMjTQCBI",
+      "title": "타입스크립트와 번으로 배우는 프로그래밍 1",
+      "category": "programming",
+      "bookId": "internals-companion",
+      "chapterNumber": 10,
+      "score": 0.051,
+      "matchReason": "programming, language"
+    },
+    {
+      "videoId": "LUOX5xkSyi0",
+      "title": "CUE: Navigating the Core Features",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 4,
+      "score": 0.051,
+      "matchReason": "management, data"
+    },
+    {
+      "videoId": "1MPD6MILLcQ",
+      "title": "2025 Global Threat Report",
+      "category": "security",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 2,
+      "score": 0.051,
+      "matchReason": "identity, based"
+    },
+    {
+      "videoId": "Xhq99-YHXCY",
+      "title": "Professional Al Agent Usage via the CLI",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 9,
+      "score": 0.05,
+      "matchReason": "developer, performance"
+    },
+    {
+      "videoId": "izLrX-02IQk",
+      "title": "Rust 1.95.0",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 12,
+      "score": 0.049,
+      "matchReason": "rust, ai, native"
+    },
+    {
+      "videoId": "to1PClyd0YA",
+      "title": "Architecting Kubernetes with CUE",
+      "category": "kubernetes",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 4,
+      "score": 0.049,
+      "matchReason": "management, microservices"
+    },
+    {
+      "videoId": "dsxuWtfzBGI",
+      "title": "알고리즘에서 코드로  TypeScript 가이드",
+      "category": "programming",
+      "bookId": "internals-companion",
+      "chapterNumber": 10,
+      "score": 0.049,
+      "matchReason": "programming, language"
+    },
+    {
+      "videoId": "4wX4mGuiTjw",
+      "title": "Teaching an Ancient Calendar to a Microscopic AI",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 12,
+      "score": 0.048,
+      "matchReason": "framework, ai, model"
+    },
+    {
+      "videoId": "z2SA6P7WNoc",
+      "title": "Reasoning Under Uncertainty",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 12,
+      "score": 0.047,
+      "matchReason": "inference, ai, model"
+    },
+    {
+      "videoId": "T-NdEF6btbg",
+      "title": "The Open Market of Al Coding",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 12,
+      "score": 0.045,
+      "matchReason": "ai, model, execution"
+    },
+    {
+      "videoId": "hnMR8rdGCnU",
+      "title": "The Architecture of Fulfillment",
+      "category": "finance",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 7,
+      "score": 0.045,
+      "matchReason": "retirement, psychology"
+    },
+    {
+      "videoId": "gVZwfZVAuVE",
+      "title": "Deconstructing Elixir's 400x Type System Acceleration",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 7,
+      "score": 0.044,
+      "matchReason": "type, types"
+    },
+    {
+      "videoId": "EMXUbohWsWs",
+      "title": "The 2026 Lifecycle ETF Playbook",
+      "category": "finance",
+      "bookId": "architects-sketchbook",
+      "chapterNumber": 7,
+      "score": 0.044,
+      "matchReason": "strategy, retirement"
+    },
+    {
+      "videoId": "kvdBJSRUchA",
+      "title": "Seúl 2026: Tu Diario de Viaje",
+      "category": "korea",
+      "bookId": "internals-companion",
+      "chapterNumber": 14,
+      "score": 0.043,
+      "matchReason": "safety, language"
+    },
+    {
+      "videoId": "wKzz0jKiScM",
+      "title": "Emacs Architecture, Neovim Philosophy",
+      "category": "development",
+      "bookId": "internals-companion",
+      "chapterNumber": 14,
+      "score": 0.042,
+      "matchReason": "language, architecture"
+    },
+    {
+      "videoId": "CASZX56r-tk",
+      "title": "Mi Cuaderno de Viaje: Andong",
+      "category": "korea",
+      "bookId": "internals-companion",
+      "chapterNumber": 14,
+      "score": 0.042,
+      "matchReason": "architecture, language"
+    },
+    {
+      "videoId": "rjhabJ8Bx5U",
+      "title": "Architecting the New Capital Regime",
+      "category": "finance",
+      "bookId": "internals-companion",
+      "chapterNumber": 9,
+      "score": 0.039,
+      "matchReason": "alternative, design"
+    },
+    {
+      "videoId": "V2cZl5s4EKU",
+      "title": "스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작",
+      "category": "korea",
+      "bookId": "internals-companion",
+      "chapterNumber": 17,
+      "score": 0.036,
+      "matchReason": "language, languages"
+    }
+  ],
+  "unclassified": [
+    {
+      "videoId": "oSqbvvcADmI",
+      "title": "Guía de Supervivencia: Español para tu Llegada a Latinoamérica",
+      "category": "korea",
+      "tags": []
+    },
+    {
+      "videoId": "rwNfzJanPmk",
+      "title": "Ganghwa: Un Viaje en Tonos Pastel",
+      "category": "korea",
+      "tags": [
+        "viaje",
+        "corea",
+        "ganghwa"
+      ]
+    },
+    {
+      "videoId": "nxuaOP3C1Ns",
+      "title": "Bocetos de Daejeon",
+      "category": "korea",
+      "tags": [
+        "viaje",
+        "corea",
+        "daejeon"
+      ]
+    },
+    {
+      "videoId": "awa_UWXFOao",
+      "title": "Hasta pronto, Danyang",
+      "category": "korea",
+      "tags": [
+        "viaje",
+        "corea",
+        "danyang"
+      ]
+    },
+    {
+      "videoId": "JlPl9MskqJM",
+      "title": "Mi Cuaderno de Viaje: Yeosu",
+      "category": "korea",
+      "tags": [
+        "viaje",
+        "corea",
+        "yeosu"
+      ]
+    },
+    {
+      "videoId": "4h84JgKkt94",
+      "title": "Gyeongju: El Museo Sin Muros",
+      "category": "korea",
+      "tags": [
+        "viaje",
+        "corea",
+        "gyeongju"
+      ]
+    },
+    {
+      "videoId": "vNHblhm9oQo",
+      "title": "Mi Cuaderno de Busan",
+      "category": "korea",
+      "tags": [
+        "viaje",
+        "corea",
+        "busan"
+      ]
+    },
+    {
+      "videoId": "L9sxbq8ugoU",
+      "title": "Tu Viaje al Corazón de Corea",
+      "category": "korea",
+      "tags": [
+        "viaje",
+        "corea"
+      ]
+    },
+    {
+      "videoId": "UorjmtDDRgQ",
+      "title": "A global geography of folded dough",
+      "category": "finance",
+      "tags": [
+        "curiosity",
+        "mandu"
+      ]
+    },
+    {
+      "videoId": "1smShC18TWA",
+      "title": "Decoding the Black Box of Global Finance",
+      "category": "finance",
+      "tags": [
+        "curiosity"
+      ]
+    },
+    {
+      "videoId": "vzwjAlEz_bI",
+      "title": "The End of the American Penny",
+      "category": "finance",
+      "tags": [
+        "curiosity"
+      ]
+    },
+    {
+      "videoId": "YYVxMSqBqe8",
+      "title": "Nesting in Global Finance",
+      "category": "finance",
+      "tags": [
+        "curiosity"
+      ]
+    },
+    {
+      "videoId": "l9UUqD2Bz2E",
+      "title": "The Mystery of the Nickel Coke",
+      "category": "finance",
+      "tags": [
+        "curiosity"
+      ]
+    },
+    {
+      "videoId": "_LrmdP64y6A",
+      "title": "The Pomology Field Guide",
+      "category": "finance",
+      "tags": [
+        "curiosity"
+      ]
+    },
+    {
+      "videoId": "2NoJVXPpcco",
+      "title": "The 2026 Market Barbell",
+      "category": "finance",
+      "tags": []
+    },
+    {
+      "videoId": "bn-Nvmxgur8",
+      "title": "The 2026 Barbell Strategy",
+      "category": "finance",
+      "tags": []
+    },
+    {
+      "videoId": "ybR0RxXj2_M",
+      "title": "2050: The Post-Labor Paradigm",
+      "category": "finance",
+      "tags": []
+    },
+    {
+      "videoId": "s1BoGn9r7oE",
+      "title": "The 2026  Playbook for High-Yield & Covered Call ETFs",
+      "category": "finance",
+      "tags": []
+    },
+    {
+      "videoId": "MDNRiJN7aEg",
+      "title": "An Ambitious Ascent",
+      "category": "finance",
+      "tags": []
+    },
+    {
+      "videoId": "nnL78ZVifZU",
+      "title": "Reading the Market's Story",
+      "category": "finance",
+      "tags": []
+    },
+    {
+      "videoId": "tPDFgVAp4c4",
+      "title": "Breakout Stars and Dominant Titans",
+      "category": "finance",
+      "tags": [
+        "stocks",
+        "notebooklm"
+      ]
+    },
+    {
+      "videoId": "lexZnOlyml0",
+      "title": "Agentic Platform Engineering with GitHub Copilot",
+      "category": "kubernetes",
+      "tags": [
+        "ai",
+        "copilot",
+        "agentic",
+        "platform",
+        "engineering"
+      ]
+    },
+    {
+      "videoId": "Pxh2PcNx9W8",
+      "title": "Modern Docker Networking & Traefik",
+      "category": "kubernetes",
+      "tags": [
+        "docker",
+        "traefik",
+        "networking"
+      ]
+    },
+    {
+      "videoId": "okVlu1qseI4",
+      "title": "Beyond Static Configuration",
+      "category": "kubernetes",
+      "tags": [
+        "shift left",
+        "hermetic",
+        "cue"
+      ]
+    },
+    {
+      "videoId": "85pyYZFJ6_s",
+      "title": "The Evolution of File Detection",
+      "category": "development",
+      "tags": [
+        "ai",
+        "file",
+        "magika"
+      ]
+    },
+    {
+      "videoId": "feWjiYzQQ-k",
+      "title": "Pastel Market: Engineering a Unified Terminal Workspace",
+      "category": "development",
+      "tags": [
+        "rust",
+        "yahoo",
+        "finviz",
+        "ureq",
+        "qc",
+        "whispers"
+      ]
+    },
+    {
+      "videoId": "Qg6vQrmCilg",
+      "title": "Beyond the Ratio",
+      "category": "development",
+      "tags": [
+        "design",
+        "wcag",
+        "apca"
+      ]
+    },
+    {
+      "videoId": "a1hIA6KQUFE",
+      "title": "The Center Has a Bias",
+      "category": "development",
+      "tags": [
+        "criticism",
+        "engagement",
+        "adoption",
+        "experimentation",
+        "insight"
+      ]
+    },
+    {
+      "videoId": "4i-ruNPOtB4",
+      "title": "Dismantling the Agile Epic",
+      "category": "development",
+      "tags": [
+        "agile",
+        "capacity",
+        "half-day",
+        "slicing",
+        "predictability"
+      ]
+    },
+    {
+      "videoId": "IkVazryUiko",
+      "title": "Fuzzy Find Everything",
+      "category": "development",
+      "tags": [
+        "fzf",
+        "bat",
+        "eza",
+        "cli",
+        "ripgrep"
+      ]
+    },
+    {
+      "videoId": "Wa0EHhhKV8Q",
+      "title": "Architecting Action: 10 NotebookLM Prompts",
+      "category": "development",
+      "tags": [
+        "notebooklm",
+        "prompts",
+        "synthesizers",
+        "auditors",
+        "architects"
+      ]
+    },
+    {
+      "videoId": "V2LbQqD1lMM",
+      "title": "Ralph: The Autonomous Vibe Coding Workflow",
+      "category": "development",
+      "tags": [
+        "ai",
+        "cli",
+        "workflow",
+        "automatic task"
+      ]
+    },
+    {
+      "videoId": "gBb1zn-QtY4",
+      "title": "The Blue Screen Era",
+      "category": "development",
+      "tags": [
+        "turbo pascal",
+        "turbo c",
+        "borland"
+      ]
+    },
+    {
+      "videoId": "tmerUd7eiy4",
+      "title": "Beyond the Default ",
+      "category": "development",
+      "tags": [
+        "cli",
+        "zsh",
+        "antidote",
+        "starship"
+      ]
+    },
+    {
+      "videoId": "tqDisu2tmG0",
+      "title": "AI Agents  Idea to Tool",
+      "category": "development",
+      "tags": [
+        "ai",
+        "agents"
+      ]
+    },
+    {
+      "videoId": "BAxPZdgmgRQ",
+      "title": "The 2026 State of Al Agents",
+      "category": "development",
+      "tags": [
+        "ai",
+        "2026",
+        "agents"
+      ]
+    },
+    {
+      "videoId": "2kvYb2pVe5o",
+      "title": "From Blueprint to Battlefield",
+      "category": "development",
+      "tags": [
+        "identity",
+        "oidc",
+        "ssrf"
+      ]
+    },
+    {
+      "videoId": "infh5ZZwvLU",
+      "title": "ZAP: Getting Started with Software Security Testing",
+      "category": "security",
+      "tags": [
+        "proxy",
+        "pentesting",
+        "spider",
+        "mitm"
+      ]
+    },
+    {
+      "videoId": "_NXyqfM6TXg",
+      "title": "Azure Sentinel & M365 Defender",
+      "category": "security",
+      "tags": [
+        "azure",
+        "sentinel",
+        "defender",
+        "siem",
+        "soar",
+        "xdr"
+      ]
+    },
+    {
+      "videoId": "HxB-cJIbEgE",
+      "title": "2FA Orchestration in PingFederate",
+      "category": "security",
+      "tags": [
+        "2fa",
+        "orchestration",
+        "pingfederate"
+      ]
+    },
+    {
+      "videoId": "taBP0Fr3uSQ",
+      "title": "Anatomy of a Supply Chain Attack",
+      "category": "security",
+      "tags": [
+        "litellm",
+        "trivy",
+        "c2",
+        "pypi"
+      ]
+    },
+    {
+      "videoId": "GVq5DvGFLpI",
+      "title": "Vercel 대시보드 보안 안내서",
+      "category": "programming",
+      "tags": [
+        "vercel",
+        "보안",
+        "대시보드"
+      ]
+    },
+    {
+      "videoId": "qyqLjeu8Hng",
+      "title": "영어 리스닝  3000시간의 법칙",
+      "category": "programming",
+      "tags": [
+        "영어 공부"
+      ]
+    },
+    {
+      "videoId": "gKYw0_jkNFI",
+      "title": "마음 속의 계산기",
+      "category": "programming",
+      "tags": [
+        "주판"
+      ]
+    }
+  ]
+}

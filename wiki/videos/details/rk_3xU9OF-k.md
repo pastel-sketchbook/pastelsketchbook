@@ -38,3 +38,5 @@ This video presents the Modern Platform Framework v2.0, a blueprint for architec
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 2** (confidence: 21%)_

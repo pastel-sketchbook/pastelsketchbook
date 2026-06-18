@@ -53,3 +53,5 @@ Welcome.  Today  we  are  exploring  the orbital  compute  blueprint,  a compreh
 
 ---
 *Auto-generated on May 2, 2026. Back to [finance](../finance.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 7** (confidence: 29%)_

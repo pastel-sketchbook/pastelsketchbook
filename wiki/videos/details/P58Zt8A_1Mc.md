@@ -42,3 +42,5 @@ Swift Firefly is an experimental macOS desktop application that leverages Zig fo
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 14** (confidence: 33%)_

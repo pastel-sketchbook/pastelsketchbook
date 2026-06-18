@@ -38,3 +38,5 @@ This video covers the engineering of vibe-rust, a zero-Python Rust port of Micro
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 12** (confidence: 7%)_

@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, azure, rabbitmq, cue, k8s, rust, aws, go]
 sources: 72
-updated: 2026-06-16
+updated: 2026-06-18
 ---
 
 # Kubernetes
@@ -259,4 +259,4 @@ updated: 2026-06-16
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on Jun 16, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 17, 2026. Back to [index](index.md).*

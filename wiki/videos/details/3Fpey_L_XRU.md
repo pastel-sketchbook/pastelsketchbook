@@ -38,3 +38,5 @@ This video presents a cloth simulation project exploring the interoperability of
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 4** (confidence: 10%)_

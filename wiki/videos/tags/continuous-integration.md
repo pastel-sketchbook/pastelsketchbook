@@ -2,7 +2,7 @@
 type: tag
 tags: [continuous-integration]
 sources: 2
-updated: 2026-06-16
+updated: 2026-06-18
 ---
 
 # continuous integration
@@ -15,4 +15,4 @@ Videos connected by the topic `continuous integration`.
 - [The Codebase Lifecycle](https://youtu.be/ctKLD4d146g) — Kubernetes · 16 views · Jan 13, 2026 · [Details](../details/ctKLD4d146g.md)
 
 ---
-*Auto-generated on Jun 16, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 17, 2026. Back to [topic index](index.md).*

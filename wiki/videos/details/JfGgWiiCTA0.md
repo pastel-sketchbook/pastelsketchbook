@@ -38,3 +38,5 @@ This video introduces Shannon, an autonomous AI agent for white-box penetration 
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 2** (confidence: 40%)_

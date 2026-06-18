@@ -38,3 +38,5 @@ This presentation explores building a high-performance Korean text processing en
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 12** (confidence: 6%)_

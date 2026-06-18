@@ -38,3 +38,5 @@ A walkthrough of the Kubernetes monorepo dissects how the control plane (API ser
 
 ---
 *Auto-generated on May 15, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 1** (confidence: 60%)_

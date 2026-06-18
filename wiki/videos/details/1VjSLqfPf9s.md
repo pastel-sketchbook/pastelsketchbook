@@ -38,3 +38,5 @@ This video examines the NIST Cybersecurity Framework 2.0, highlighting its shift
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 2** (confidence: 14%)_

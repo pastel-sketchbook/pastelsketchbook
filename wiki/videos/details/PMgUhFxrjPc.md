@@ -42,3 +42,5 @@ This video provides a systematic cross-cloud service mapping across Azure, AWS, 
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 3** (confidence: 33%)_

@@ -38,3 +38,5 @@ tn-file-upload is a production-grade streaming-first gRPC file service written i
 
 ---
 *Auto-generated on May 6, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 5** (confidence: 57%)_

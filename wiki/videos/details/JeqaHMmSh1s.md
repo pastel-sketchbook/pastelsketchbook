@@ -43,3 +43,5 @@ This video introduces a technical framework for building 'Skills' for Claude, wh
 
 ---
 *Auto-generated on Apr 6, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 7** (confidence: 29%)_

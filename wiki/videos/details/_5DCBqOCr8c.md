@@ -42,3 +42,5 @@ This video presents a GDPR engineering blueprint, translating privacy-by-design 
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [security](../security.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 2** (confidence: 14%)_

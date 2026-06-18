@@ -38,3 +38,5 @@ This presentation architects a polyglot modern IDE within Emacs 29+ using evil-m
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 14** (confidence: 4%)_

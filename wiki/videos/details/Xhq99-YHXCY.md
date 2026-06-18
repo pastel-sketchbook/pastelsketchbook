@@ -38,3 +38,5 @@ This video presents a framework for integrating AI agents into professional soft
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 9** (confidence: 5%)_

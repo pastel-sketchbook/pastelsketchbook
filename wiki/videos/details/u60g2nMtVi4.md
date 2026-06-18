@@ -38,3 +38,5 @@ This video argues that the "big data" era's default reliance on distributed comp
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 8** (confidence: 50%)_

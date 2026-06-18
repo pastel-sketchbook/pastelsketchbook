@@ -43,3 +43,5 @@ Jujutsu (JJ) is a Rust-based version control system that functions as a Git-comp
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 16** (confidence: 43%)_

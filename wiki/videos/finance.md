@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, ai, sovereign, 2026, mandu, levy, property tax, orbital, stocks, notebooklm]
 sources: 34
-updated: 2026-06-16
+updated: 2026-06-18
 ---
 
 # Finance
@@ -88,4 +88,4 @@ updated: 2026-06-16
 - [Security](security.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on Jun 16, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 17, 2026. Back to [index](index.md).*

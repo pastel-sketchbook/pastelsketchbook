@@ -5,7 +5,9 @@ import { ChunkErrorBoundary } from '../src/components/ui/ChunkErrorBoundary'
 import { VideoModal } from '../src/components/VideoModal'
 import { motion, AnimatePresence } from 'framer-motion'
 import { fetchWikiBundle, fmtViews, fmtDate, catLabel } from '../src/utils/wiki'
+import { fetchBooks, buildCategoryBookLookup } from '../src/utils/books'
 import type { WikiBundle } from '../src/types/wiki'
+import type { BookRef } from '../src/utils/books'
 
 export const Route = createFileRoute('/wiki/')({
   component: WikiWithErrorBoundary,
@@ -41,6 +43,17 @@ function Wiki() {
     queryFn: fetchWikiBundle,
     staleTime: 3600000,
   })
+
+  const { data: booksData } = useQuery({
+    queryKey: ['books'],
+    queryFn: fetchBooks,
+    staleTime: 3600000,
+  })
+
+  const categoryBookLookup = (() => {
+    if (!booksData || !wiki) return new Map<string, BookRef[]>()
+    return buildCategoryBookLookup(booksData, wiki)
+  })()
 
   // Resolve ?tag= search param to a category
   useEffect(() => {
@@ -362,32 +375,39 @@ function Wiki() {
                                 {cluster.videos.map((v) => (
                                   <div
                                     key={v.id}
-                                    className="flex items-center justify-between py-2 px-3 rounded-lg hover:bg-[#FAF9F6] transition-colors group"
+                                    className="py-2 px-3 rounded-lg hover:bg-[#FAF9F6] transition-colors group"
                                   >
-                                    <button
-                                      onClick={() => setPlayingVideoId(v.id)}
-                                      className="flex-shrink-0 w-7 h-7 rounded-full bg-[#E76F51]/10 text-[#E76F51] flex items-center justify-center hover:bg-[#E76F51]/20 transition-colors mr-3"
-                                      aria-label={`Play ${v.title}`}
-                                    >
-                                      <svg className="w-3 h-3 ml-0.5" fill="currentColor" viewBox="0 0 24 24">
-                                        <path d="M8 5v14l11-7z" />
-                                      </svg>
-                                    </button>
-                                    <Link
-                                      to="/wiki/video/$id"
-                                      params={{ id: v.id }}
-                                      className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors truncate mr-4 flex items-center gap-1.5 flex-1"
-                                    >
-                                      {v.title}
-                                      {v.detail && (
-                                        <svg className="w-4 h-4 text-[#E76F51] flex-shrink-0" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" aria-label="Has wiki summary">
-                                          <path strokeLinecap="round" strokeLinejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                                    <div className="flex items-center justify-between">
+                                      <button
+                                        onClick={() => setPlayingVideoId(v.id)}
+                                        className="flex-shrink-0 w-7 h-7 rounded-full bg-[#E76F51]/10 text-[#E76F51] flex items-center justify-center hover:bg-[#E76F51]/20 transition-colors mr-3"
+                                        aria-label={`Play ${v.title}`}
+                                      >
+                                        <svg className="w-3 h-3 ml-0.5" fill="currentColor" viewBox="0 0 24 24">
+                                          <path d="M8 5v14l11-7z" />
                                         </svg>
-                                      )}
-                                    </Link>
-                                    <span className="text-xs text-[#5F7D61] font-semibold flex-shrink-0">
-                                      {fmtViews(v.views)} views
-                                    </span>
+                                      </button>
+                                      <Link
+                                        to="/wiki/video/$id"
+                                        params={{ id: v.id }}
+                                        className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors truncate mr-4 flex items-center gap-1.5 flex-1"
+                                      >
+                                        {v.title}
+                                        {v.detail && (
+                                          <svg className="w-4 h-4 text-[#E76F51] flex-shrink-0" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" aria-label="Has wiki summary">
+                                            <path strokeLinecap="round" strokeLinejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                                          </svg>
+                                        )}
+                                      </Link>
+                                      <span className="text-xs text-[#5F7D61] font-semibold flex-shrink-0">
+                                        {fmtViews(v.views)} views
+                                      </span>
+                                    </div>
+                                    {v.detail && (
+                                      <p className="text-xs text-[#1B3022]/50 mt-1.5 ml-10 line-clamp-2 leading-relaxed">
+                                        {v.detail.summary}
+                                      </p>
+                                    )}
                                   </div>
                                 ))}
                               </div>
@@ -420,6 +440,49 @@ function Wiki() {
                 </div>
               )}
 
+              {/* Referenced in Books */}
+              {(() => {
+                const bookRefs = categoryBookLookup.get(selected.name)
+                if (!bookRefs || bookRefs.length === 0) return null
+                const uniqueBooks = Array.from(new Set(bookRefs.map((r) => r.bookId)))
+                  .map((bid) => bookRefs.find((r) => r.bookId === bid)!)
+                return (
+                  <div className="mb-8">
+                    <h2 className="text-sm font-bold uppercase tracking-widest text-[#1B3022]/40 mb-4">
+                      Referenced in Books
+                    </h2>
+                    <div className="space-y-2">
+                      {uniqueBooks.map((ref) => (
+                        <Link
+                          key={ref.bookId}
+                          to="/books"
+                          className="block bg-white rounded-xl sketch-border border-[#1B3022]/5 p-4 hover:shadow-md transition-all group"
+                        >
+                          <div className="flex items-center gap-3">
+                            <div className="w-9 h-9 rounded-lg bg-[#D4A373]/10 flex items-center justify-center flex-shrink-0">
+                              <svg className="w-4 h-4 text-[#D4A373]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5">
+                                <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 7.5h.008v.008h-.008v-.008zm0 3h.008v.008h-.008v-.008z" />
+                              </svg>
+                            </div>
+                            <div>
+                              <p className="text-sm font-semibold text-[#1B3022] group-hover:text-[#5F7D61] transition-colors">
+                                {ref.bookTitle}
+                              </p>
+                              <p className="text-xs text-[#1B3022]/50">
+                                {bookRefs.filter((r) => r.bookId === ref.bookId).length} chapters referenced
+                              </p>
+                            </div>
+                            <svg className="w-4 h-4 text-[#1B3022]/20 ml-auto flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
+                            </svg>
+                          </div>
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                )
+              })()}
+
               {/* All Videos */}
               <div>
                 <h2 className="text-sm font-bold uppercase tracking-widest text-[#1B3022]/40 mb-4">
@@ -430,38 +493,45 @@ function Wiki() {
                     {selected.videos.map((v, i) => (
                       <div
                         key={v.id}
-                        className="flex items-center gap-4 p-4 hover:bg-[#FAF9F6] transition-colors group"
+                        className="p-4 hover:bg-[#FAF9F6] transition-colors group"
                       >
-                        <span className="text-xs text-[#1B3022]/20 font-bold w-8 text-right flex-shrink-0">
-                          {i + 1}
-                        </span>
-                        <button
-                          onClick={() => setPlayingVideoId(v.id)}
-                          className="flex-shrink-0 w-7 h-7 rounded-full bg-[#E76F51]/10 text-[#E76F51] flex items-center justify-center hover:bg-[#E76F51]/20 transition-colors"
-                          aria-label={`Play ${v.title}`}
-                        >
-                          <svg className="w-3 h-3 ml-0.5" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M8 5v14l11-7z" />
-                          </svg>
-                        </button>
-                        <Link
-                          to="/wiki/video/$id"
-                          params={{ id: v.id }}
-                          className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors flex-1 truncate flex items-center gap-1.5"
-                        >
-                          {v.title}
-                          {v.detail && (
-                            <svg className="w-4 h-4 text-[#E76F51] flex-shrink-0" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" aria-label="Has wiki summary">
-                              <path strokeLinecap="round" strokeLinejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                        <div className="flex items-center gap-4">
+                          <span className="text-xs text-[#1B3022]/20 font-bold w-8 text-right flex-shrink-0">
+                            {i + 1}
+                          </span>
+                          <button
+                            onClick={() => setPlayingVideoId(v.id)}
+                            className="flex-shrink-0 w-7 h-7 rounded-full bg-[#E76F51]/10 text-[#E76F51] flex items-center justify-center hover:bg-[#E76F51]/20 transition-colors"
+                            aria-label={`Play ${v.title}`}
+                          >
+                            <svg className="w-3 h-3 ml-0.5" fill="currentColor" viewBox="0 0 24 24">
+                              <path d="M8 5v14l11-7z" />
                             </svg>
-                          )}
-                        </Link>
-                        <span className="text-xs text-[#5F7D61] font-semibold flex-shrink-0">
-                          {fmtViews(v.views)}
-                        </span>
-                        <span className="text-xs text-[#1B3022]/60 flex-shrink-0 hidden sm:block">
-                          {fmtDate(v.date)}
-                        </span>
+                          </button>
+                          <Link
+                            to="/wiki/video/$id"
+                            params={{ id: v.id }}
+                            className="text-sm text-[#1B3022] group-hover:text-[#5F7D61] transition-colors flex-1 truncate flex items-center gap-1.5"
+                          >
+                            {v.title}
+                            {v.detail && (
+                              <svg className="w-4 h-4 text-[#E76F51] flex-shrink-0" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24" aria-label="Has wiki summary">
+                                <path strokeLinecap="round" strokeLinejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                              </svg>
+                            )}
+                          </Link>
+                          <span className="text-xs text-[#5F7D61] font-semibold flex-shrink-0">
+                            {fmtViews(v.views)}
+                          </span>
+                          <span className="text-xs text-[#1B3022]/60 flex-shrink-0 hidden sm:block">
+                            {fmtDate(v.date)}
+                          </span>
+                        </div>
+                        {v.detail && (
+                          <p className="text-xs text-[#1B3022]/50 mt-1.5 ml-[4.5rem] line-clamp-2 leading-relaxed">
+                            {v.detail.summary}
+                          </p>
+                        )}
                       </div>
                     ))}
                   </div>

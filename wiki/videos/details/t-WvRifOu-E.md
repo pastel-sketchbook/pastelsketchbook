@@ -38,3 +38,5 @@ This relocation dossier dismantles the idealized image of Costa Rica as an acces
 
 ---
 *Auto-generated on May 20, 2026. Back to [korea](../korea.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 1** (confidence: 6%)_

@@ -38,3 +38,5 @@ This video provides a retirement blueprint for the critical 5-year window before
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 7** (confidence: 22%)_

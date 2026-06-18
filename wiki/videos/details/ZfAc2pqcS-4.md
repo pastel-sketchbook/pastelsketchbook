@@ -38,3 +38,5 @@ A four-layer blueprint of the OpenCV library, from build-system foundations on A
 
 ---
 *Auto-generated on May 15, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 10** (confidence: 43%)_

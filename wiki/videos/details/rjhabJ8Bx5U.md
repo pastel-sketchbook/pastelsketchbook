@@ -43,3 +43,5 @@ This deck documents the structural divergence of alternative asset management an
 
 ---
 *Auto-generated on May 22, 2026. Back to [finance](../finance.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 9** (confidence: 4%)_

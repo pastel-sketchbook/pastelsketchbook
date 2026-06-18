@@ -38,3 +38,5 @@ This video is a comprehensive visual guide to ordering food in Spanish, covering
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [korea](../korea.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 7** (confidence: 29%)_

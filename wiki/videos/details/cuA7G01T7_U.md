@@ -41,3 +41,5 @@ Temporal Chain is a modular distributed ledger technology suite built in Rust, l
 ## Tags
 
 [rust](../tags/rust.md) · [dlt](../tags/dlt.md) · [dag](../tags/dag.md) · [temporal-chain](../tags/temporal-chain.md) · [crypto](../tags/crypto.md)
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 10** (confidence: 7%)_

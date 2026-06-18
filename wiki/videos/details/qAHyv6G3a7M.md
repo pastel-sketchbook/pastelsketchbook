@@ -45,3 +45,5 @@ This video presents an architectural blueprint for a unified Rust backend that m
 
 ---
 *Auto-generated on May 9, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 5** (confidence: 71%)_

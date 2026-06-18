@@ -46,3 +46,5 @@ rr-mailtrap is a single-binary Rust SMTP sandbox that traps outbound test mail o
 
 ---
 *Auto-generated on May 9, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 5** (confidence: 43%)_

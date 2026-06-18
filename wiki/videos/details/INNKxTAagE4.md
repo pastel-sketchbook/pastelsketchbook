@@ -38,3 +38,5 @@ This video covers the architecture of resilient asynchronous systems in Go using
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Architect's Sketchbook](zmd://wiki/books/architects-sketchbook.md) — Chapter 9** (confidence: 67%)_

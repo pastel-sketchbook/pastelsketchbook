@@ -2,7 +2,7 @@
 type: tag
 tags: [comptime]
 sources: 2
-updated: 2026-06-16
+updated: 2026-06-18
 ---
 
 # comptime
@@ -15,4 +15,4 @@ Videos connected by the topic `comptime`.
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 352 views · Dec 28, 2025 · [Details](../details/olsB3bJxA2A.md)
 
 ---
-*Auto-generated on Jun 16, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 17, 2026. Back to [topic index](index.md).*

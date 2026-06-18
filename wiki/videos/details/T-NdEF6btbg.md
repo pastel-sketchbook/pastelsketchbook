@@ -43,3 +43,5 @@ Oh My Open Agent (OMO) is a multi-model orchestrator designed to replace single-
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 12** (confidence: 5%)_

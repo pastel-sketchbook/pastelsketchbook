@@ -38,3 +38,5 @@ This video presents zig-lottie, a zero-dependency Lottie animation renderer writ
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 14** (confidence: 33%)_

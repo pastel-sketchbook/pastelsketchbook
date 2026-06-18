@@ -38,3 +38,5 @@ This video covers modern Git practices for versions 2.23+ focused on maintaining
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
+<!-- book-classification -->
+_Belongs to: **[The Internals Companion](zmd://wiki/books/internals-companion.md) — Chapter 12** (confidence: 6%)_

@@ -2,7 +2,7 @@
 type: tag
 tags: [systems-programming]
 sources: 4
-updated: 2026-06-16
+updated: 2026-06-18
 ---
 
 # systems programming
@@ -17,4 +17,4 @@ Videos connected by the topic `systems programming`.
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](../details/yOOQNnaOLeM.md)
 
 ---
-*Auto-generated on Jun 16, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 17, 2026. Back to [topic index](index.md).*
