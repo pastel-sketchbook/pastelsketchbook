@@ -34,7 +34,7 @@ This session is a visual syllabus for integrating machine learning and data scie
 - [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 17 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `rust` · `error` · `handling`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `learning` · `memory`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `rust` · `ownership` · `memory`)
-- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 43 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `rust machine learning` · `rust` · `machine`)
+- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 45 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `rust machine learning` · `rust` · `machine`)
 
 ---
 *Auto-generated on May 20, 2026. Back to [development](../development.md) · [index](../index.md).*

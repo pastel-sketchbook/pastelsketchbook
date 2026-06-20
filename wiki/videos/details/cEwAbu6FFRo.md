@@ -39,7 +39,7 @@ Compound Engineering is an AI-native software development philosophy that aims t
 - [The Art of Git Gardening](https://youtu.be/PNFlYx8HiOM) — Development · 16 views · Dec 31, 2025 · [Details](PNFlYx8HiOM.md) (shared: `development` · `git`)
 - [pastel-hn](https://youtu.be/cJl2cchaHL8) — Development · 58 views · Jan 24, 2026 · [Details](cJl2cchaHL8.md) (shared: `development` · `architectural`)
 - [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 697 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `development` · `architectural`)
-- [The Agent-First Paradigm](https://youtu.be/ElxPa5vX9Kc) — Development · 3 views · Jun 17, 2026 · [Details](ElxPa5vX9Kc.md) (shared: `development` · `agentic`)
+- [The Agent-First Paradigm](https://youtu.be/ElxPa5vX9Kc) — Development · 14 views · Jun 17, 2026 · [Details](ElxPa5vX9Kc.md) (shared: `development` · `agentic`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

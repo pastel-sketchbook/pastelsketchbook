@@ -2,7 +2,7 @@
 type: tag
 tags: [serde-serialization]
 sources: 3
-updated: 2026-06-18
+updated: 2026-06-20
 ---
 
 # serde serialization
@@ -16,4 +16,4 @@ Videos connected by the topic `serde serialization`.
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](../details/js95nIDeA-c.md)
 
 ---
-*Auto-generated on Jun 17, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 19, 2026. Back to [topic index](index.md).*

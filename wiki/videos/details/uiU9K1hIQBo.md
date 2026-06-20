@@ -33,9 +33,9 @@ This deep dive presents the system design for a Rust-based synthetic persona mod
 
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 152 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `tonic` · `service`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 93 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `axum` · `tonic` · `service`)
+- [SlideVoice Studio CLI Architecture](https://youtu.be/ISLXOiFqC50) — Development · 2 views · Jun 19, 2026 · [Details](ISLXOiFqC50.md) (shared: `rust` · `tokio` · `bounded`)
 - [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 28 views · May 4, 2026 · [Details](UOOkDh4RUbE.md) (shared: `axum` · `tonic` · `tokio`)
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `tokio` · `concurrency`)
-- [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `axum` · `tokio`)
 
 ---
 *Auto-generated on Jun 2, 2026. Back to [development](../development.md) · [index](../index.md).*

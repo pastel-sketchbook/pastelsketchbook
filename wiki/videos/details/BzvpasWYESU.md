@@ -37,9 +37,9 @@ The LLM Wiki paradigm replaces traditional stateless Retrieval-Augmented Generat
 
 - [Taming the Genie](https://youtu.be/MaP2i4dTiQk) — Development · 16 views · Jan 23, 2026 · [Details](MaP2i4dTiQk.md) (shared: `llm` · `augmented` · `generation`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `generation` · `code` · `automated`)
-- [The End of the Functional Programming Tax](https://youtu.be/240fOdSvnpk) — Development · 53 views · Jun 14, 2026 · [Details](240fOdSvnpk.md) (shared: `llm` · `generation` · `code`)
+- [The End of the Functional Programming Tax](https://youtu.be/240fOdSvnpk) — Development · 65 views · Jun 14, 2026 · [Details](240fOdSvnpk.md) (shared: `llm` · `generation` · `code`)
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 143 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `generation` · `code`)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 216 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `generation` · `code`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 219 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `generation` · `code`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

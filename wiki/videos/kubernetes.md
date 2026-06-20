@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, azure, rabbitmq, cue, k8s, rust, aws, go]
 sources: 72
-updated: 2026-06-18
+updated: 2026-06-20
 ---
 
 # Kubernetes
@@ -32,7 +32,7 @@ updated: 2026-06-18
 - [Architecting AKS Networking](https://youtu.be/1PH7UB24xps) -- 18 views, Mar 11, 2026 · [Details](details/1PH7UB24xps.md)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) -- 13 views, Mar 10, 2026 · [Details](details/Hd767VA7Z-0.md)
 - [Modern Docker Networking & Traefik](https://youtu.be/Pxh2PcNx9W8) -- 40 views, Mar 3, 2026 · [Details](details/Pxh2PcNx9W8.md)
-- [Architecting AKS Node Auto-Provisioning](https://youtu.be/3hSdKvqPcSE) -- 39 views, Feb 25, 2026 · [Details](details/3hSdKvqPcSE.md)
+- [Architecting AKS Node Auto-Provisioning](https://youtu.be/3hSdKvqPcSE) -- 41 views, Feb 25, 2026 · [Details](details/3hSdKvqPcSE.md)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) -- 27 views, Feb 10, 2026 · [Details](details/MIZ0ATwu7C0.md)
 - [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) -- 61 views, Feb 5, 2026 · [Details](details/rgY4KTMFOMs.md)
 - [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) -- 21 views, Jan 31, 2026 · [Details](details/Q4qm1hvVR2A.md)
@@ -48,7 +48,7 @@ updated: 2026-06-18
 
 ### AI & ML (10 videos)
 
-- [Architecting Al at Global Scale](https://youtu.be/PofJfj6nRuw) -- 4 views, Jun 11, 2026 · [Details](details/PofJfj6nRuw.md)
+- [Architecting Al at Global Scale](https://youtu.be/PofJfj6nRuw) -- 5 views, Jun 11, 2026 · [Details](details/PofJfj6nRuw.md)
 - [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) -- 11 views, May 22, 2026 · [Details](details/9ga0NT3ZohQ.md)
 - [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) -- 68 views, Apr 25, 2026 · [Details](details/quD4pyCwKB4.md)
 - [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) -- 16 views, Apr 22, 2026 · [Details](details/eZNBXDUc8OQ.md)
@@ -61,7 +61,7 @@ updated: 2026-06-18
 
 ### Architecture (10 videos)
 
-- [Architecting Al at Global Scale](https://youtu.be/PofJfj6nRuw) -- 4 views, Jun 11, 2026 · [Details](details/PofJfj6nRuw.md)
+- [Architecting Al at Global Scale](https://youtu.be/PofJfj6nRuw) -- 5 views, Jun 11, 2026 · [Details](details/PofJfj6nRuw.md)
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) -- 21 views, Apr 7, 2026 · [Details](details/KdLQEv3Tiiw.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 22 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) -- 69 views, Mar 26, 2026 · [Details](details/lexZnOlyml0.md)
@@ -142,7 +142,7 @@ updated: 2026-06-18
 
 ### Rust (5 videos)
 
-- [Introducing ExtendDB](https://youtu.be/LxI5YjCUswI) -- 47 views, May 24, 2026 · [Details](details/LxI5YjCUswI.md)
+- [Introducing ExtendDB](https://youtu.be/LxI5YjCUswI) -- 48 views, May 24, 2026 · [Details](details/LxI5YjCUswI.md)
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 76 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) -- 18 views, Apr 11, 2026 · [Details](details/a8heWpae5p0.md)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) -- 46 views, Jan 17, 2026 · [Details](details/4b-H6ZaoNUE.md)
@@ -175,9 +175,9 @@ updated: 2026-06-18
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
 | 1 | AWS Database Selection Blueprint | 9 | Jun 12, 2026 | [Watch](https://youtu.be/78Sm363xiIw) | [Wiki](details/78Sm363xiIw.md) |
-| 2 | Architecting Al at Global Scale | 4 | Jun 11, 2026 | [Watch](https://youtu.be/PofJfj6nRuw) | [Wiki](details/PofJfj6nRuw.md) |
+| 2 | Architecting Al at Global Scale | 5 | Jun 11, 2026 | [Watch](https://youtu.be/PofJfj6nRuw) | [Wiki](details/PofJfj6nRuw.md) |
 | 3 | Architecting Kubernetes Operators | 18 | May 31, 2026 | [Watch](https://youtu.be/hvkvH7i8NLc) | [Wiki](details/hvkvH7i8NLc.md) |
-| 4 | Introducing ExtendDB | 47 | May 24, 2026 | [Watch](https://youtu.be/LxI5YjCUswI) | [Wiki](details/LxI5YjCUswI.md) |
+| 4 | Introducing ExtendDB | 48 | May 24, 2026 | [Watch](https://youtu.be/LxI5YjCUswI) | [Wiki](details/LxI5YjCUswI.md) |
 | 5 | Seamless GitOps on Azure | 11 | May 22, 2026 | [Watch](https://youtu.be/9ga0NT3ZohQ) | [Wiki](details/9ga0NT3ZohQ.md) |
 | 6 | The Complete Local Azure Environment | 20 | May 16, 2026 | [Watch](https://youtu.be/u_ooo1WDAc8) | [Wiki](details/u_ooo1WDAc8.md) |
 | 7 | The Anatomy of Kubernetes | 28 | May 12, 2026 | [Watch](https://youtu.be/WrZN5AgpaW4) | [Wiki](details/WrZN5AgpaW4.md) |
@@ -214,7 +214,7 @@ updated: 2026-06-18
 | 38 | Strategic Implementation of Blue-Green Deployment | 13 | Mar 10, 2026 | [Watch](https://youtu.be/Hd767VA7Z-0) | [Wiki](details/Hd767VA7Z-0.md) |
 | 39 | kube-log-viewer | 24 | Mar 5, 2026 | [Watch](https://youtu.be/aiYBPCkvhes) | [Wiki](details/aiYBPCkvhes.md) |
 | 40 | Modern Docker Networking & Traefik | 40 | Mar 3, 2026 | [Watch](https://youtu.be/Pxh2PcNx9W8) | [Wiki](details/Pxh2PcNx9W8.md) |
-| 41 | Architecting AKS Node Auto-Provisioning | 39 | Feb 25, 2026 | [Watch](https://youtu.be/3hSdKvqPcSE) | [Wiki](details/3hSdKvqPcSE.md) |
+| 41 | Architecting AKS Node Auto-Provisioning | 41 | Feb 25, 2026 | [Watch](https://youtu.be/3hSdKvqPcSE) | [Wiki](details/3hSdKvqPcSE.md) |
 | 42 | Kubernetes Auto-Scaling Strategies | 29 | Feb 23, 2026 | [Watch](https://youtu.be/y3WwL48DLYw) | [Wiki](details/y3WwL48DLYw.md) |
 | 43 | The Golden Path | 25 | Feb 21, 2026 | [Watch](https://youtu.be/ORjARjbukhY) | [Wiki](details/ORjARjbukhY.md) |
 | 44 | The Modern Platform Framework | 27 | Feb 19, 2026 | [Watch](https://youtu.be/rk_3xU9OF-k) | [Wiki](details/rk_3xU9OF-k.md) |
@@ -259,4 +259,4 @@ updated: 2026-06-18
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on Jun 17, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 19, 2026. Back to [index](index.md).*

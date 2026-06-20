@@ -39,7 +39,7 @@ This presentation explains how the Tower crate enables a protocol-agnostic, modu
 - [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 98 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `tower` · `service` · `trait`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 93 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `tower` · `service` · `axum`)
 - [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 58 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `tower` · `middleware` · `axum`)
-- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 128 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `tonic` · `patterns` · `http`)
+- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 129 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `tonic` · `patterns` · `http`)
 
 ---
 *Auto-generated on May 3, 2026. Back to [development](../development.md) · [index](../index.md).*

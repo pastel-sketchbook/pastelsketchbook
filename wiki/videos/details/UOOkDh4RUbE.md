@@ -32,8 +32,8 @@ tn-file-upload is a production-grade streaming-first gRPC file service written i
 
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 152 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `grpc` · `tonic` · `tokio`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 93 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `grpc` · `tonic` · `tokio`)
-- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 128 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `grpc` · `streaming` · `tonic`)
-- [AX: The Distributed Agent Runtime](https://youtu.be/xiTVDbJscik) — Development · 61 views · May 23, 2026 · [Details](xiTVDbJscik.md) (shared: `grpc` · `streaming` · `runtime`)
+- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 129 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `grpc` · `streaming` · `tonic`)
+- [AX: The Distributed Agent Runtime](https://youtu.be/xiTVDbJscik) — Development · 63 views · May 23, 2026 · [Details](xiTVDbJscik.md) (shared: `grpc` · `streaming` · `runtime`)
 - [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 23 views · Jan 16, 2026 · [Details](0ttrfTfP864.md) (shared: `tokio` · `axum` · `kubernetes`)
 
 ---

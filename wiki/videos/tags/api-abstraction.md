@@ -2,7 +2,7 @@
 type: tag
 tags: [api-abstraction]
 sources: 2
-updated: 2026-06-18
+updated: 2026-06-20
 ---
 
 # api abstraction
@@ -15,4 +15,4 @@ Videos connected by the topic `api abstraction`.
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 31 views · Feb 16, 2026 · [Details](../details/5Vloo08zQ7o.md)
 
 ---
-*Auto-generated on Jun 17, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 19, 2026. Back to [topic index](index.md).*
