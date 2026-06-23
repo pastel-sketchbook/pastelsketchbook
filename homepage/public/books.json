@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T03:52:30.706Z",
+  "generatedAt": "2026-06-23T01:00:00.000Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -223,6 +223,8 @@
             "9xDzB24tO4I",
             "yXZnBtdDTFk",
             "nwAdb-PyRlo",
+            "4q9gLzti6Lk",
+            "9tiUYnQL_y0",
             "ElxPa5vX9Kc",
             "Jf1VkCXsmwU",
             "XHQGmyffO-s",
@@ -582,6 +584,7 @@
           "title": "The ML Inference Stack",
           "summary": "ONNX provides the universal intermediate representation — a graph/node/value IR with SSA validation, operator schemas, and version conversion adapters that decouple model creation from hardware execution. Candle compiles Rust-native inference to WASM for serverless cold starts. Burn layers a tensor abstraction over pluggable backends. This chapter traces a model from training framework through ONNX IR to optimized hardware execution.",
           "videoIds": [
+            "OKXt-PJUuzE",
             "KXx_6BhzOFE",
             "Qi_vpz_5j7g",
             "8PaVKQoDReY",

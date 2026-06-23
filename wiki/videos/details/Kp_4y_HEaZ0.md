@@ -11,7 +11,7 @@ summarized: 2026-06-08T23:05:00.000Z
 
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 21 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `nist`)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 18 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `nist`)
-- [Escaping the env Ceiling](https://youtu.be/kc1gwl89iyw) — Security · 11 views · Jun 18, 2026 · [Details](kc1gwl89iyw.md) (shared: `entropy`)
+- [Escaping the env Ceiling](https://youtu.be/kc1gwl89iyw) — Security · 22 views · Jun 18, 2026 · [Details](kc1gwl89iyw.md) (shared: `entropy`)
 - [Hardening a Prototype](https://youtu.be/DCGTYftRGWE) — Development · 24 views · Jan 25, 2026 · [Details](DCGTYftRGWE.md) (shared: `memory` · `gpu`)
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 21 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `hybrid` · `storage`)
 

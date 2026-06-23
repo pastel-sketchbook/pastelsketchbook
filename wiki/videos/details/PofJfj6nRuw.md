@@ -39,7 +39,7 @@ This talk presents the Microsoft Copilot blueprint for running hundreds of milli
 - [Bridging Helm and CUE for Deterministic Value Composition](https://youtu.be/7eoxSgjwYlM) — Kubernetes · 26 views · Feb 19, 2026 · [Details](7eoxSgjwYlM.md) (shared: `management` · `engineering`)
 - [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 15 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `management` · `aks`)
 - [Securely Exposing AKS Applications](https://youtu.be/A7eoKD5m6Ek) — Kubernetes · 9 views · Jan 8, 2026 · [Details](A7eoKD5m6Ek.md) (shared: `azure` · `aks`)
-- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 69 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `agentic` · `engineering`)
+- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 70 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `agentic` · `engineering`)
 
 ---
 *Auto-generated on Jun 13, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

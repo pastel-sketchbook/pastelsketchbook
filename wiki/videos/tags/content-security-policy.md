@@ -2,7 +2,7 @@
 type: tag
 tags: [content-security-policy]
 sources: 2
-updated: 2026-06-20
+updated: 2026-06-23
 ---
 
 # content security policy
@@ -15,4 +15,4 @@ Videos connected by the topic `content security policy`.
 - [Vercel 대시보드 보안 안내서](https://youtu.be/GVq5DvGFLpI) — Programming · 22 views · Feb 1, 2026 · [Details](../details/GVq5DvGFLpI.md)
 
 ---
-*Auto-generated on Jun 19, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 22, 2026. Back to [topic index](index.md).*

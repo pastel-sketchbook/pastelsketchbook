@@ -35,11 +35,11 @@ Microsoft's Build 2026 strategic blueprint for establishing Windows as the trust
 
 ## Related Videos
 
+- [Building Autonomous Agents with the Antigravity SDK](https://youtu.be/4q9gLzti6Lk) — Development · 4 views · Jun 22, 2026 · [Details](4q9gLzti6Lk.md) (shared: `agent` · `runtime` · `local`)
 - [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 91 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `copilot` · `agent` · `runtime`)
 - [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 53 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `agent` · `runtime` · `development`)
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `agent` · `development`)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 219 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `agent` · `development`)
-- [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 14 views · Jan 25, 2026 · [Details](3Fpey_L_XRU.md) (shared: `development` · `integration`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 222 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `agent` · `development`)
 
 ---
 

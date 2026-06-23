@@ -2,7 +2,7 @@
 type: tag
 tags: [korean-travel]
 sources: 2
-updated: 2026-06-20
+updated: 2026-06-23
 ---
 
 # korean travel
@@ -15,4 +15,4 @@ Videos connected by the topic `korean travel`.
 - [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 10 views · Jan 2, 2026 · [Details](../details/4h84JgKkt94.md)
 
 ---
-*Auto-generated on Jun 19, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 22, 2026. Back to [topic index](index.md).*

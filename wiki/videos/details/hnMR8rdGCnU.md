@@ -34,7 +34,7 @@ This video explores the psychological transition high achievers face when career
 - [The architecture of wealth](https://youtu.be/nfD3KzIriM8) — Finance · 8 views · Jan 16, 2026 · [Details](nfD3KzIriM8.md) (shared: `psychology`)
 - [The Three Pillars of Financial Freedom](https://youtu.be/K1O4kHjFJaQ) — Finance · 15 views · Jan 23, 2026 · [Details](K1O4kHjFJaQ.md) (shared: `retirement`)
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `psychology`)
-- [Cognitive Lenses in Modern Design](https://youtu.be/GmUKi-ZPOYU) — Finance · 21 views · Jun 5, 2026 · [Details](GmUKi-ZPOYU.md) (shared: `psychology`)
+- [Cognitive Lenses in Modern Design](https://youtu.be/GmUKi-ZPOYU) — Finance · 24 views · Jun 5, 2026 · [Details](GmUKi-ZPOYU.md) (shared: `psychology`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

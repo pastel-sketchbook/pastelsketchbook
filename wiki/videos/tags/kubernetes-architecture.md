@@ -2,7 +2,7 @@
 type: tag
 tags: [kubernetes-architecture]
 sources: 2
-updated: 2026-06-20
+updated: 2026-06-23
 ---
 
 # kubernetes architecture
@@ -15,4 +15,4 @@ Videos connected by the topic `kubernetes architecture`.
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 12 views · Jan 9, 2026 · [Details](../details/rJTUB-u8U2Y.md)
 
 ---
-*Auto-generated on Jun 19, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 22, 2026. Back to [topic index](index.md).*

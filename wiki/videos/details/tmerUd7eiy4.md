@@ -34,7 +34,7 @@ This video explores how to craft a personalized terminal environment by moving b
 - [Hangul + WASM](https://youtu.be/9yov-ZVv-Bo) — Development · 43 views · Jan 19, 2026 · [Details](9yov-ZVv-Bo.md) (shared: `performance`)
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 35 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `terminal`)
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `performance`)
-- [Bubble Tea v2](https://youtu.be/Hfut9CfJhN0) — Development · 63 views · Mar 2, 2026 · [Details](Hfut9CfJhN0.md) (shared: `terminal`)
+- [Bubble Tea v2](https://youtu.be/Hfut9CfJhN0) — Development · 64 views · Mar 2, 2026 · [Details](Hfut9CfJhN0.md) (shared: `terminal`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

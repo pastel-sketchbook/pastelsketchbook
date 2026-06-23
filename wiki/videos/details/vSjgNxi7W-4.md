@@ -32,7 +32,7 @@ This video presents YP, a terminal-based YouTube player built entirely in Rust t
 
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 35 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `tui` · `terminal` · `cli`)
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `rust` · `cli` · `patterns`)
-- [Reed: The Modern Terminal File Viewer](https://youtu.be/oUTf9j6fWJo) — Development · 145 views · Mar 30, 2026 · [Details](oUTf9j6fWJo.md) (shared: `rust` · `terminal` · `cli`)
+- [Reed: The Modern Terminal File Viewer](https://youtu.be/oUTf9j6fWJo) — Development · 146 views · Mar 30, 2026 · [Details](oUTf9j6fWJo.md) (shared: `rust` · `terminal` · `cli`)
 - [Pastel Market: Engineering a Unified Terminal Workspace](https://youtu.be/feWjiYzQQ-k) — Development · 41 views · Apr 19, 2026 · [Details](feWjiYzQQ-k.md) (shared: `rust tui` · `rust` · `tui`)
 - [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 91 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `bindings` · `cli` · `patterns`)
 
