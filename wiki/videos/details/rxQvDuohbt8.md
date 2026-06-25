@@ -31,7 +31,7 @@ This Spanish-language travel guide to Jeju Island is designed for Latin American
 ## Related Videos
 
 - [Seúl 2026: Tu Diario de Viaje](https://youtu.be/kvdBJSRUchA) — Korea · 13 views · Feb 11, 2026 · [Details](kvdBJSRUchA.md) (shared: `korean` · `travel` · `guide`)
-- [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 10 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `island` · `korean` · `travel`)
+- [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 12 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `island` · `korean` · `travel`)
 - [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 10 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `korean` · `travel` · `unesco`)
 - [Ganghwa: Un Viaje en Tonos Pastel](https://youtu.be/rwNfzJanPmk) — Korea · 6 views · Feb 6, 2026 · [Details](rwNfzJanPmk.md) (shared: `island` · `korean` · `travel`)
 - [Hasta pronto, Danyang](https://youtu.be/awa_UWXFOao) — Korea · 11 views · Feb 2, 2026 · [Details](awa_UWXFOao.md) (shared: `korean` · `travel`)

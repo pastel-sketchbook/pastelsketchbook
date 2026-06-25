@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, ai, sovereign, 2026, mandu, levy, property tax, orbital, stocks, notebooklm]
 sources: 34
-updated: 2026-06-23
+updated: 2026-06-25
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-06-23
 | Metric | Value |
 |--------|-------|
 | Videos | 34 |
-| Total Views | 765 |
+| Total Views | 767 |
 | Most Recent | Jun 16, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -32,7 +32,7 @@ updated: 2026-06-23
 
 ### AI & ML (4 videos)
 
-- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) -- 19 views, Jun 16, 2026 · [Details](details/ZQyL7MT7k60.md)
+- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) -- 20 views, Jun 16, 2026 · [Details](details/ZQyL7MT7k60.md)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 42 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
 - [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) -- 28 views, May 21, 2026 · [Details](details/9xDzB24tO4I.md)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 47 views, Mar 26, 2026 · [Details](details/hnMR8rdGCnU.md)
@@ -41,7 +41,7 @@ updated: 2026-06-23
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Japan's Sovereign Cloud Blueprint | 19 | Jun 16, 2026 | [Watch](https://youtu.be/ZQyL7MT7k60) | [Wiki](details/ZQyL7MT7k60.md) |
+| 1 | Japan's Sovereign Cloud Blueprint | 20 | Jun 16, 2026 | [Watch](https://youtu.be/ZQyL7MT7k60) | [Wiki](details/ZQyL7MT7k60.md) |
 | 2 | The Architecture of Opportunity | 28 | Jun 7, 2026 | [Watch](https://youtu.be/8vJLWsfheRE) | [Wiki](details/8vJLWsfheRE.md) |
 | 3 | Cognitive Lenses in Modern Design | 24 | Jun 5, 2026 | [Watch](https://youtu.be/GmUKi-ZPOYU) | [Wiki](details/GmUKi-ZPOYU.md) |
 | 4 | The Architecture of Insurance Pricing | 14 | Jun 3, 2026 | [Watch](https://youtu.be/P-QVC5lOMbU) | [Wiki](details/P-QVC5lOMbU.md) |
@@ -65,7 +65,7 @@ updated: 2026-06-23
 | 22 | The Mathematics of Human Capital Compounding | 14 | Mar 5, 2026 | [Watch](https://youtu.be/_4BC0zHGYTw) | [Wiki](details/_4BC0zHGYTw.md) |
 | 23 | Navigating the Al Capital Cycle: 2026 & Beyond | 89 | Feb 17, 2026 | [Watch](https://youtu.be/9z6mOWQgU84) | [Wiki](details/9z6mOWQgU84.md) |
 | 24 | The 2026 Barbell Strategy | 12 | Feb 17, 2026 | [Watch](https://youtu.be/bn-Nvmxgur8) | [Wiki](details/bn-Nvmxgur8.md) |
-| 25 | 2050: The Post-Labor Paradigm | 10 | Feb 7, 2026 | [Watch](https://youtu.be/ybR0RxXj2_M) | [Wiki](details/ybR0RxXj2_M.md) |
+| 25 | 2050: The Post-Labor Paradigm | 11 | Feb 7, 2026 | [Watch](https://youtu.be/ybR0RxXj2_M) | [Wiki](details/ybR0RxXj2_M.md) |
 | 26 | The Three Pillars of Financial Freedom | 15 | Jan 23, 2026 | [Watch](https://youtu.be/K1O4kHjFJaQ) | [Wiki](details/K1O4kHjFJaQ.md) |
 | 27 | The Exchange Rate of Your Life | 17 | Jan 22, 2026 | [Watch](https://youtu.be/MBnVggs6k5g) | [Wiki](details/MBnVggs6k5g.md) |
 | 28 | The architecture of wealth | 8 | Jan 16, 2026 | [Watch](https://youtu.be/nfD3KzIriM8) | [Wiki](details/nfD3KzIriM8.md) |
@@ -88,4 +88,4 @@ updated: 2026-06-23
 - [Security](security.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on Jun 22, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 25, 2026. Back to [index](index.md).*

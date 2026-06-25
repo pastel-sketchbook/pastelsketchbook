@@ -2,7 +2,7 @@
 type: tag
 tags: [strangler-fig-pattern]
 sources: 2
-updated: 2026-06-23
+updated: 2026-06-25
 ---
 
 # strangler fig pattern
@@ -15,4 +15,4 @@ Videos connected by the topic `strangler fig pattern`.
 - [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 46 views · Apr 28, 2026 · [Details](../details/4aAyFYemYD8.md)
 
 ---
-*Auto-generated on Jun 22, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 25, 2026. Back to [topic index](index.md).*

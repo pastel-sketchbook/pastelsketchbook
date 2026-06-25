@@ -34,7 +34,7 @@ This video provides a comprehensive walkthrough of the modern 3D computer graphi
 - [SlideVoice Studio CLI Architecture](https://youtu.be/ISLXOiFqC50) — Development · 11 views · Jun 19, 2026 · [Details](ISLXOiFqC50.md) (shared: `pipeline` · `rasterization`)
 - [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 158 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline`)
 - [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 17 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `tracing`)
-- [Tracing Asynchronous Rust](https://youtu.be/d1MH4nza95g) — Development · 103 views · May 3, 2026 · [Details](d1MH4nza95g.md) (shared: `pipeline` · `tracing`)
+- [Tracing Asynchronous Rust](https://youtu.be/d1MH4nza95g) — Development · 104 views · May 3, 2026 · [Details](d1MH4nza95g.md) (shared: `pipeline` · `tracing`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

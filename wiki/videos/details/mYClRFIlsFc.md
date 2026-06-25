@@ -30,10 +30,10 @@ This technical deep dive covers ScyllaDB, a high-performance NoSQL database buil
 
 ## Related Videos
 
-- [AWS Database Selection Blueprint](https://youtu.be/78Sm363xiIw) — Kubernetes · 11 views · Jun 12, 2026 · [Details](78Sm363xiIw.md) (shared: `dynamodb` · `database`)
+- [AWS Database Selection Blueprint](https://youtu.be/78Sm363xiIw) — Kubernetes · 12 views · Jun 12, 2026 · [Details](78Sm363xiIw.md) (shared: `dynamodb` · `database`)
 - [Drasi: The Future of Change-Driven Architecture](https://youtu.be/5Ztm7JNVa8E) — Kubernetes · 51 views · Feb 17, 2026 · [Details](5Ztm7JNVa8E.md) (shared: `real-time`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `database`)
-- [Kubernetes Version Upgrade Strategy](https://youtu.be/ftODZr2_V5Q) — Kubernetes · 29 views · Dec 26, 2025 · [Details](ftODZr2_V5Q.md) (shared: `compatibility`)
+- [Kubernetes Version Upgrade Strategy](https://youtu.be/ftODZr2_V5Q) — Kubernetes · 30 views · Dec 26, 2025 · [Details](ftODZr2_V5Q.md) (shared: `compatibility`)
 - [The Cloud Rosetta Stone](https://youtu.be/PMgUhFxrjPc) — Kubernetes · 23 views · Apr 18, 2026 · [Details](PMgUhFxrjPc.md) (shared: `database`)
 
 ---

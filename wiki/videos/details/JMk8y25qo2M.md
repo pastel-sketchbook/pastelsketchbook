@@ -38,8 +38,8 @@ A Rust service that orchestrates the GitHub Copilot SDK to perform isolated, tok
 - [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 58 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `rust` · `request` · `axum`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 93 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `async` · `runtime` · `axum`)
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 152 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `async` · `runtime`)
-- [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 91 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `runtime` · `github` · `copilot`)
-- [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `async` · `runtime`)
+- [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 92 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `runtime` · `github` · `copilot`)
+- [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 8 views · Jun 23, 2026 · [Details](o3ba6XdMQA0.md) (shared: `async` · `runtime` · `axum`)
 
 ---
 *Auto-generated on Jun 3, 2026. Back to [development](../development.md) · [index](../index.md).*

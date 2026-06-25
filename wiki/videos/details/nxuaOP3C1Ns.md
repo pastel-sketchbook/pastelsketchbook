@@ -34,7 +34,7 @@ This Spanish-language episode is the second installment of the "Viaje a Corea" s
 - [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 10 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `korean travel` · `korean` · `travel`)
 - [Seúl 2026: Tu Diario de Viaje](https://youtu.be/kvdBJSRUchA) — Korea · 13 views · Feb 11, 2026 · [Details](kvdBJSRUchA.md) (shared: `korean` · `travel` · `seoul`)
 - [Hasta pronto, Danyang](https://youtu.be/awa_UWXFOao) — Korea · 11 views · Feb 2, 2026 · [Details](awa_UWXFOao.md) (shared: `korean` · `travel`)
-- [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 10 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `korean` · `travel`)
+- [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 12 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `korean` · `travel`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [korea](../korea.md) · [index](../index.md).*

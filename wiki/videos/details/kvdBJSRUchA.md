@@ -33,7 +33,7 @@ This Spanish-language travel guide provides a comprehensive overview of planning
 - [Jeju: Un Recuerdo en Tonos Pastel](https://youtu.be/rxQvDuohbt8) — Korea · 13 views · Feb 8, 2026 · [Details](rxQvDuohbt8.md) (shared: `travel` · `guide` · `k-eta visa`)
 - [Ganghwa: Un Viaje en Tonos Pastel](https://youtu.be/rwNfzJanPmk) — Korea · 6 views · Feb 6, 2026 · [Details](rwNfzJanPmk.md) (shared: `travel` · `joseon dynasty` · `joseon`)
 - [Jeonju y Gochang: Apuntes de Corea](https://youtu.be/EvcUSPWkOA8) — Korea · 16 views · Jan 4, 2026 · [Details](EvcUSPWkOA8.md) (shared: `joseon dynasty` · `joseon` · `dynasty`)
-- [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 10 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `travel` · `guide` · `korean`)
+- [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 12 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `travel` · `guide` · `korean`)
 - [Bocetos de Daejeon](https://youtu.be/nxuaOP3C1Ns) — Korea · 15 views · Feb 3, 2026 · [Details](nxuaOP3C1Ns.md) (shared: `seoul` · `travel` · `korean`)
 
 ---

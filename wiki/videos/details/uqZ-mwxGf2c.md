@@ -36,9 +36,9 @@ This video outlines a practical architectural guide for implementing the LGTM ob
 ## Related Videos
 
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 39 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `opentelemetry` · `distributed tracing` · `distributed`)
-- [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 41 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `slog` · `echo web framework` · `echo`)
-- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 83 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `distributed tracing` · `distributed` · `tracing`)
-- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 94 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `opentelemetry` · `distributed tracing` · `distributed`)
+- [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 43 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `slog` · `echo web framework` · `echo`)
+- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 89 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `distributed tracing` · `distributed` · `tracing`)
+- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 95 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `opentelemetry` · `distributed tracing` · `distributed`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 93 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `tracing` · `web` · `framework`)
 
 ---

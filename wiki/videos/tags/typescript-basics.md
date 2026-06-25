@@ -2,7 +2,7 @@
 type: tag
 tags: [typescript-basics]
 sources: 2
-updated: 2026-06-23
+updated: 2026-06-25
 ---
 
 # typescript basics
@@ -15,4 +15,4 @@ Videos connected by the topic `typescript basics`.
 - [알고리즘 완전 정복](https://youtu.be/iEn_PMcBlDk) — Programming · 5 views · Jan 14, 2026 · [Details](../details/iEn_PMcBlDk.md)
 
 ---
-*Auto-generated on Jun 22, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 25, 2026. Back to [topic index](index.md).*

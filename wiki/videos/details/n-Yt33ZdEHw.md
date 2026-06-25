@@ -31,7 +31,7 @@ This video examines the multi-layered architecture of modern enterprise identity
 ## Related Videos
 
 - [From Blueprint to Battlefield](https://youtu.be/2kvYb2pVe5o) — Development · 32 views · Dec 27, 2025 · [Details](2kvYb2pVe5o.md) (shared: `oauth 2.0` · `oauth` · `2.0`)
-- [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 22 views · Apr 1, 2026 · [Details](BiYKKVsJROk.md) (shared: `identity` · `zero trust` · `zero`)
+- [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 23 views · Apr 1, 2026 · [Details](BiYKKVsJROk.md) (shared: `identity` · `zero trust` · `zero`)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 23 views · Jan 14, 2026 · [Details](A4-foXsdQiA.md) (shared: `identity` · `zero trust` · `zero`)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `zero trust` · `zero` · `trust`)
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 47 views · Jan 16, 2026 · [Details](0U-SUJCmKAU.md) (shared: `zero trust` · `zero` · `trust`)

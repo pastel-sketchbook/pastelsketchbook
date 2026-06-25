@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-06-23
+updated: 2026-06-25
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 172
+Total topics: 174
 
 ## Topics
 
@@ -33,6 +33,7 @@ Total topics: 172
 - [opentelemetry](opentelemetry.md) (4)
 - [state management](state-management.md) (4)
 - [systems programming](systems-programming.md) (4)
+- [tokio async runtime](tokio-async-runtime.md) (4)
 - [webassembly](webassembly.md) (4)
 - [ai infrastructure investing](ai-infrastructure-investing.md) (3)
 - [ai-assisted development](ai-assisted-development.md) (3)
@@ -59,7 +60,6 @@ Total topics: 172
 - [serde serialization](serde-serialization.md) (3)
 - [service mesh](service-mesh.md) (3)
 - [struct of arrays](struct-of-arrays.md) (3)
-- [tokio async runtime](tokio-async-runtime.md) (3)
 - [traffic management](traffic-management.md) (3)
 - [trunk-based development](trunk-based-development.md) (3)
 - [zero-cost abstractions](zero-cost-abstractions.md) (3)
@@ -93,6 +93,7 @@ Total topics: 172
 - [cosine similarity](cosine-similarity.md) (2)
 - [dart agent skills](dart-agent-skills.md) (2)
 - [debezium](debezium.md) (2)
+- [dependency inversion principle](dependency-inversion-principle.md) (2)
 - [deployment frequency](deployment-frequency.md) (2)
 - [developer productivity](developer-productivity.md) (2)
 - [echo web framework](echo-web-framework.md) (2)
@@ -109,6 +110,7 @@ Total topics: 172
 - [git compatibility](git-compatibility.md) (2)
 - [github copilot](github-copilot.md) (2)
 - [gitops](gitops.md) (2)
+- [grpc streaming patterns](grpc-streaming-patterns.md) (2)
 - [hardware acceleration](hardware-acceleration.md) (2)
 - [immutable infrastructure](immutable-infrastructure.md) (2)
 - [json parsing](json-parsing.md) (2)
@@ -185,4 +187,4 @@ Total topics: 172
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Jun 22, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Jun 25, 2026. Back to [videos index](../index.md).*

@@ -30,7 +30,7 @@ This Spanish-language travel video explores Danyang, a hidden gem in South Korea
 
 ## Related Videos
 
-- [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 10 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `korea` · `korean` · `travel`)
+- [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 12 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `korea` · `korean` · `travel`)
 - [Bocetos de Daejeon](https://youtu.be/nxuaOP3C1Ns) — Korea · 15 views · Feb 3, 2026 · [Details](nxuaOP3C1Ns.md) (shared: `korean` · `travel`)
 - [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 10 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `korean` · `travel`)
 - [Mi Cuaderno de Busan](https://youtu.be/vNHblhm9oQo) — Korea · 8 views · Jan 1, 2026 · [Details](vNHblhm9oQo.md) (shared: `korean` · `travel`)

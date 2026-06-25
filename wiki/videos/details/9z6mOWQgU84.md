@@ -33,8 +33,8 @@ This strategic analysis examines the long-term AI capital cycle, forecasting a t
 
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 76 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `infrastructure`)
 - [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `infrastructure` · `economy`)
-- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 19 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `data` · `infrastructure`)
-- [2050: The Post-Labor Paradigm](https://youtu.be/ybR0RxXj2_M) — Finance · 10 views · Feb 7, 2026 · [Details](ybR0RxXj2_M.md) (shared: `economy`)
+- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 20 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `data` · `infrastructure`)
+- [2050: The Post-Labor Paradigm](https://youtu.be/ybR0RxXj2_M) — Finance · 11 views · Feb 7, 2026 · [Details](ybR0RxXj2_M.md) (shared: `economy`)
 - [The Mathematics of Human Capital Compounding](https://youtu.be/_4BC0zHGYTw) — Finance · 14 views · Mar 5, 2026 · [Details](_4BC0zHGYTw.md) (shared: `capital`)
 
 ---

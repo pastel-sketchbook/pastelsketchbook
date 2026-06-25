@@ -2,7 +2,7 @@
 type: tag
 tags: [monolith-decomposition]
 sources: 2
-updated: 2026-06-23
+updated: 2026-06-25
 ---
 
 # monolith decomposition
@@ -15,4 +15,4 @@ Videos connected by the topic `monolith decomposition`.
 - [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 2 views · Jan 6, 2026 · [Details](../details/z_Ydy_-cI1U.md)
 
 ---
-*Auto-generated on Jun 22, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 25, 2026. Back to [topic index](index.md).*

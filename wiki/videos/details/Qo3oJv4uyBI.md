@@ -35,7 +35,7 @@ Go 1.26 introduces architectural innovations focused on high performance, specif
 
 ## Related Videos
 
-- [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) — Development · 167 views · Mar 24, 2026 · [Details](yCJDmGrk8sM.md) (shared: `1.26` · `simd` · `garbage`)
+- [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) — Development · 168 views · Mar 24, 2026 · [Details](yCJDmGrk8sM.md) (shared: `1.26` · `simd` · `garbage`)
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 352 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `garbage` · `memory management` · `memory`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 53 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `memory management` · `memory` · `management`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `memory management` · `memory` · `management`)

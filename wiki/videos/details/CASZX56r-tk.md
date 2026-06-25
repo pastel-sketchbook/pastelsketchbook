@@ -32,7 +32,7 @@ This Spanish-language travel documentary explores Andong in Gyeongsang Province,
 
 - [Jeonju y Gochang: Apuntes de Corea](https://youtu.be/EvcUSPWkOA8) — Korea · 16 views · Jan 4, 2026 · [Details](EvcUSPWkOA8.md) (shared: `village` · `heritage` · `korean`)
 - [Hasta pronto, Danyang](https://youtu.be/awa_UWXFOao) — Korea · 11 views · Feb 2, 2026 · [Details](awa_UWXFOao.md) (shared: `korea` · `korean`)
-- [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 10 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `korea` · `korean`)
+- [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 12 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `korea` · `korean`)
 - [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 10 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `heritage` · `korean`)
 - [Ganghwa: Un Viaje en Tonos Pastel](https://youtu.be/rwNfzJanPmk) — Korea · 6 views · Feb 6, 2026 · [Details](rwNfzJanPmk.md) (shared: `korean` · `tourism`)
 

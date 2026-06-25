@@ -32,7 +32,7 @@ SQLx is a Rust database toolkit built around three pillars — asynchronous conc
 
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `async` · `concurrency` · `tokio`)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 51 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `async` · `concurrency` · `tokio`)
-- [Async 1/0 in Zig 0.16, Today](https://youtu.be/jrD_LGNsJXM) — Development · 151 views · May 17, 2026 · [Details](jrD_LGNsJXM.md) (shared: `async` · `concurrency` · `runtimes`)
+- [Async 1/0 in Zig 0.16, Today](https://youtu.be/jrD_LGNsJXM) — Development · 154 views · May 17, 2026 · [Details](jrD_LGNsJXM.md) (shared: `async` · `concurrency` · `runtimes`)
 - [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 28 views · May 4, 2026 · [Details](UOOkDh4RUbE.md) (shared: `validation` · `trait` · `tokio`)
 - [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) — Development · 62 views · May 3, 2026 · [Details](07aDX5YB-ao.md) (shared: `trait` · `layer` · `agnostic`)
 

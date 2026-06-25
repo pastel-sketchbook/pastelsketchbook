@@ -39,7 +39,7 @@ This presentation formally decomposes the Hatsune Miku vocal synthesis pipeline 
 - [Neural TTS in Pastel-HN](https://youtu.be/d_0swhS1LyQ) — Development · 46 views · Feb 1, 2026 · [Details](d_0swhS1LyQ.md) (shared: `synthesis` · `neural`)
 - [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 24 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `pipeline` · `expression`)
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 31 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `pipeline` · `performance`)
-- [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 158 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline`)
+- [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 8 views · Jun 23, 2026 · [Details](o3ba6XdMQA0.md) (shared: `pipeline` · `rendering`)
 
 ---
 *Auto-generated on May 28, 2026. Back to [development](../development.md) · [index](../index.md).*

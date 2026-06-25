@@ -34,7 +34,7 @@ This video launches a 12-week Spanish learning plan targeting A2 proficiency, sp
 - [Guía de Supervivencia: Español para tu Llegada a Latinoamérica](https://youtu.be/oSqbvvcADmI) — Korea · 7 views · Mar 15, 2026 · [Details](oSqbvvcADmI.md) (shared: `spanish` · `language`)
 - [Jinju y Jirisan: el Valor a la Sabiduría](https://youtu.be/drVBXipEOAs) — Korea · 18 views · Jan 4, 2026 · [Details](drVBXipEOAs.md) (shared: `spanish` · `korean`)
 - [Hasta pronto, Danyang](https://youtu.be/awa_UWXFOao) — Korea · 11 views · Feb 2, 2026 · [Details](awa_UWXFOao.md) (shared: `korean`)
-- [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 10 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `korean`)
+- [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 12 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `korean`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [korea](../korea.md) · [index](../index.md).*
