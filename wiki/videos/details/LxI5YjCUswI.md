@@ -36,10 +36,10 @@ ExtendDB is an open-source Rust translator that exposes the DynamoDB wire protoc
 ## Related Videos
 
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 21 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `storage` · `architecture` · `cloud`)
+- [Engineering High-Performance Distributed Systems with Rust and AWS](https://youtu.be/sZRIbxwHSCo) — Kubernetes · 2 views · Jun 10, 2026 · [Details](sZRIbxwHSCo.md) (shared: `wire` · `rust` · `write`)
 - [Architecting the edge for HTTP/3 and QUIC](https://youtu.be/7Dchx829X_M) — Kubernetes · 92 views · Apr 4, 2026 · [Details](7Dchx829X_M.md) (shared: `protocol` · `edge` · `architecture`)
 - [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `deployment` · `architecture`)
-- [Drasi: The Future of Change-Driven Architecture](https://youtu.be/5Ztm7JNVa8E) — Kubernetes · 51 views · Feb 17, 2026 · [Details](5Ztm7JNVa8E.md) (shared: `architecture` · `data`)
-- [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `architecture` · `data`)
+- [Drasi: The Future of Change-Driven Architecture](https://youtu.be/5Ztm7JNVa8E) — Kubernetes · 52 views · Feb 17, 2026 · [Details](5Ztm7JNVa8E.md) (shared: `architecture` · `data`)
 
 ---
 *Auto-generated on May 25, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

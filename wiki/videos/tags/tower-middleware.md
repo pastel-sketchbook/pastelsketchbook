@@ -2,7 +2,7 @@
 type: tag
 tags: [tower-middleware]
 sources: 2
-updated: 2026-06-25
+updated: 2026-06-29
 ---
 
 # tower middleware
@@ -15,4 +15,4 @@ Videos connected by the topic `tower middleware`.
 - [Copilot-Backed Code Review Architecture](https://youtu.be/JMk8y25qo2M) — Development · 17 views · Jun 2, 2026 · [Details](../details/JMk8y25qo2M.md)
 
 ---
-*Auto-generated on Jun 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 28, 2026. Back to [topic index](index.md).*

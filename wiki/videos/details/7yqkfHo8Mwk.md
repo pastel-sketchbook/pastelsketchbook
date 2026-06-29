@@ -32,8 +32,8 @@ This video details the architecture of an autonomous AI research swarm built in 
 
 - [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) — Development · 55 views · Feb 28, 2026 · [Details](AcpVuvtSXwI.md) (shared: `zig` · `gpt` · `architecture`)
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `autonomous` · `agents` · `automation`)
-- [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 23 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `autonomous` · `automation` · `architecture`)
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 703 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `automation` · `model` · `optimization`)
+- [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 24 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `autonomous` · `automation` · `architecture`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 704 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `automation` · `model` · `optimization`)
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 31 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `training` · `architecture` · `model`)
 
 ---

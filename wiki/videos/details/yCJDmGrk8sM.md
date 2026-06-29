@@ -36,10 +36,10 @@ This analysis explores 'Green Tea,' a fundamental redesign of the Go garbage col
 ## Related Videos
 
 - [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 208 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `garbage` · `memory` · `management`)
-- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 352 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `garbage` · `collection` · `memory`)
-- [The End of the Functional Programming Tax](https://youtu.be/240fOdSvnpk) — Development · 66 views · Jun 14, 2026 · [Details](240fOdSvnpk.md) (shared: `garbage` · `collection` · `memory`)
+- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 354 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `garbage` · `collection` · `memory`)
+- [The End of the Functional Programming Tax](https://youtu.be/240fOdSvnpk) — Development · 68 views · Jun 14, 2026 · [Details](240fOdSvnpk.md) (shared: `garbage` · `collection` · `memory`)
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `cache locality` · `cache` · `locality`)
-- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 51 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `management` · `hardware` · `cache`)
+- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 57 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `management` · `hardware` · `cache`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

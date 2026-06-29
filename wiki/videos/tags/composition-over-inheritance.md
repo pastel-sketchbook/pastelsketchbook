@@ -2,7 +2,7 @@
 type: tag
 tags: [composition-over-inheritance]
 sources: 2
-updated: 2026-06-25
+updated: 2026-06-29
 ---
 
 # composition over inheritance
@@ -15,4 +15,4 @@ Videos connected by the topic `composition over inheritance`.
 - [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 33 views · Feb 23, 2026 · [Details](../details/ARWkoc3E8uE.md)
 
 ---
-*Auto-generated on Jun 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 28, 2026. Back to [topic index](index.md).*

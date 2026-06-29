@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-06-25
+updated: 2026-06-29
 ---
 
 # Topic Index
@@ -23,6 +23,7 @@ Total topics: 174
 - [dependency injection](dependency-injection.md) (5)
 - [distributed tracing](distributed-tracing.md) (5)
 - [rust](rust.md) (5)
+- [tokio async runtime](tokio-async-runtime.md) (5)
 - [vector search](vector-search.md) (5)
 - [aks](aks.md) (4)
 - [configuration management](configuration-management.md) (4)
@@ -33,7 +34,6 @@ Total topics: 174
 - [opentelemetry](opentelemetry.md) (4)
 - [state management](state-management.md) (4)
 - [systems programming](systems-programming.md) (4)
-- [tokio async runtime](tokio-async-runtime.md) (4)
 - [webassembly](webassembly.md) (4)
 - [ai infrastructure investing](ai-infrastructure-investing.md) (3)
 - [ai-assisted development](ai-assisted-development.md) (3)
@@ -187,4 +187,4 @@ Total topics: 174
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Jun 25, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Jun 28, 2026. Back to [videos index](../index.md).*

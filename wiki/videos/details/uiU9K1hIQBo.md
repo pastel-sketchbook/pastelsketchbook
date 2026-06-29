@@ -35,7 +35,7 @@ This deep dive presents the system design for a Rust-based synthetic persona mod
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 93 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `axum` · `tonic` · `service`)
 - [SlideVoice Studio CLI Architecture](https://youtu.be/ISLXOiFqC50) — Development · 11 views · Jun 19, 2026 · [Details](ISLXOiFqC50.md) (shared: `rust` · `tokio` · `bounded`)
 - [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 28 views · May 4, 2026 · [Details](UOOkDh4RUbE.md) (shared: `axum` · `tonic` · `tokio`)
-- [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 8 views · Jun 23, 2026 · [Details](o3ba6XdMQA0.md) (shared: `axum` · `tokio` · `uuid`)
+- [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 10 views · Jun 23, 2026 · [Details](o3ba6XdMQA0.md) (shared: `axum` · `tokio` · `uuid`)
 
 ---
 *Auto-generated on Jun 2, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 401
-updated: 2026-06-25
+sources: 405
+updated: 2026-06-29
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 401 |
-| Total Views | 33.6K |
+| Total Videos | 405 |
+| Total Views | 33.8K |
 | Categories | 6 |
-| Last Updated | Jun 25, 2026 |
+| Last Updated | Jun 28, 2026 |
 
 ## Categories
 
@@ -28,23 +28,23 @@ Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 34 videos, 767 total views.
+Videos covering personal finance, investing, and economics. 34 videos, 769 total views.
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 72 videos, 2.1K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 74 videos, 2.2K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 251 videos, 29.6K total views.
+Videos about software development, tools, workflows, and engineering practices. 252 videos, 29.8K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 16 videos, 615 total views.
+Videos on cybersecurity, application security, and security engineering. 17 videos, 626 total views.
 
 ### [Programming](programming.md)
 
-Videos about programming languages, paradigms, and computer science concepts. 8 videos, 216 total views.
+Videos about programming languages, paradigms, and computer science concepts. 8 videos, 217 total views.
 
 ## Cross-Category Tags
 
@@ -59,14 +59,14 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `2026` | [Finance](finance.md), [Development](development.md) |
 | `levy` | [Finance](finance.md), [Development](development.md) |
 | `notebooklm` | [Finance](finance.md), [Development](development.md) |
+| `secret` | [Kubernetes](kubernetes.md), [Security](security.md) |
+| `zero trust` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `db` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `polyglot` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `copilot` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `orchestration` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `cloud native` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `rust` | [Kubernetes](kubernetes.md), [Development](development.md) |
-| `go` | [Kubernetes](kubernetes.md), [Development](development.md) |
-| `internal` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Jun 25, 2026. See [wiki index](../index.md).*
+*Auto-generated on Jun 28, 2026. See [wiki index](../index.md).*

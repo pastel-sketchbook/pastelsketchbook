@@ -36,10 +36,10 @@ This video dissects the software stack of a modern robot as a three-tier archite
 ## Related Videos
 
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `language` · `rust` · `systems`)
+- [The Rust Robotics Paradigm](https://youtu.be/gPnrk5TNKWg) — Development · 23 views · Jun 27, 2026 · [Details](gPnrk5TNKWg.md) (shared: `robotics` · `ros` · `zero-copy`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `systems` · `programming`)
 - [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) — Development · 113 views · Feb 9, 2026 · [Details](qxOOl1hx1zU.md) (shared: `architecture` · `rust` · `programming`)
 - [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 113 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `architecture` · `language` · `programming`)
-- [The AI Copilot Era Equation](https://youtu.be/xwEN7oZFvdw) — Development · 53 views · Jun 10, 2026 · [Details](xwEN7oZFvdw.md) (shared: `architecture` · `language` · `programming`)
 
 ---
 *Auto-generated on Jun 25, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, ai, sovereign, 2026, mandu, levy, property tax, orbital, stocks, notebooklm]
 sources: 34
-updated: 2026-06-25
+updated: 2026-06-29
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-06-25
 | Metric | Value |
 |--------|-------|
 | Videos | 34 |
-| Total Views | 767 |
+| Total Views | 769 |
 | Most Recent | Jun 16, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -24,7 +24,7 @@ updated: 2026-06-25
 ### Architecture (6 videos)
 
 - [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) -- 28 views, Jun 7, 2026 · [Details](details/8vJLWsfheRE.md)
-- [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) -- 14 views, Jun 3, 2026 · [Details](details/P-QVC5lOMbU.md)
+- [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) -- 15 views, Jun 3, 2026 · [Details](details/P-QVC5lOMbU.md)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 42 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) -- 7 views, May 20, 2026 · [Details](details/Dx8pFmojxL4.md)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 47 views, Mar 26, 2026 · [Details](details/hnMR8rdGCnU.md)
@@ -44,8 +44,8 @@ updated: 2026-06-25
 | 1 | Japan's Sovereign Cloud Blueprint | 20 | Jun 16, 2026 | [Watch](https://youtu.be/ZQyL7MT7k60) | [Wiki](details/ZQyL7MT7k60.md) |
 | 2 | The Architecture of Opportunity | 28 | Jun 7, 2026 | [Watch](https://youtu.be/8vJLWsfheRE) | [Wiki](details/8vJLWsfheRE.md) |
 | 3 | Cognitive Lenses in Modern Design | 24 | Jun 5, 2026 | [Watch](https://youtu.be/GmUKi-ZPOYU) | [Wiki](details/GmUKi-ZPOYU.md) |
-| 4 | The Architecture of Insurance Pricing | 14 | Jun 3, 2026 | [Watch](https://youtu.be/P-QVC5lOMbU) | [Wiki](details/P-QVC5lOMbU.md) |
-| 5 | The Strategic Guide to Annuities | 37 | May 28, 2026 | [Watch](https://youtu.be/UGQ-ItKwJNw) | [Wiki](details/UGQ-ItKwJNw.md) |
+| 4 | The Architecture of Insurance Pricing | 15 | Jun 3, 2026 | [Watch](https://youtu.be/P-QVC5lOMbU) | [Wiki](details/P-QVC5lOMbU.md) |
+| 5 | The Strategic Guide to Annuities | 38 | May 28, 2026 | [Watch](https://youtu.be/UGQ-ItKwJNw) | [Wiki](details/UGQ-ItKwJNw.md) |
 | 6 | The 10-Year Al Investing Architecture | 42 | May 25, 2026 | [Watch](https://youtu.be/3bcmjx5F5Xs) | [Wiki](details/3bcmjx5F5Xs.md) |
 | 7 | The 2026 Enterprise AI Blueprint | 28 | May 21, 2026 | [Watch](https://youtu.be/9xDzB24tO4I) | [Wiki](details/9xDzB24tO4I.md) |
 | 8 | Architecting the New Capital Regime | 17 | May 21, 2026 | [Watch](https://youtu.be/rjhabJ8Bx5U) | [Wiki](details/rjhabJ8Bx5U.md) |
@@ -88,4 +88,4 @@ updated: 2026-06-25
 - [Security](security.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on Jun 25, 2026. Back to [index](index.md).*
+*Auto-generated on Jun 28, 2026. Back to [index](index.md).*

@@ -31,7 +31,7 @@ This video provides a deep dive into Zig 0.15.2, exploring its core philosophy o
 
 ## Related Videos
 
-- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 352 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `comptime` · `systems programming`)
+- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 354 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `comptime` · `systems programming`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `zig` · `comptime` · `systems programming`)
 - [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 27 views · Feb 6, 2026 · [Details](A96r5gqwUrI.md) (shared: `zig` · `comptime` · `explicit allocators`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `systems programming` · `systems`)

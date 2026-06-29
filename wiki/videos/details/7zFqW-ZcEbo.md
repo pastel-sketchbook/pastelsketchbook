@@ -39,7 +39,7 @@ The Rust Architect Sketchbook provides a comprehensive blueprint for designing h
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 51 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `tokio async runtime` · `tokio` · `async`)
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 152 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `tokio` · `async` · `runtime`)
 - [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) — Development · 123 views · Mar 22, 2026 · [Details](vep9hSKc9I0.md) (shared: `tokio` · `async` · `axum`)
-- [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 8 views · Jun 23, 2026 · [Details](o3ba6XdMQA0.md) (shared: `tokio async runtime` · `tokio` · `async`)
+- [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 10 views · Jun 23, 2026 · [Details](o3ba6XdMQA0.md) (shared: `tokio async runtime` · `tokio` · `async`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*
