@@ -41,7 +41,7 @@ This video presents an architectural blueprint for a unified Rust backend that m
 - [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 98 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `rust` · `tower` · `service`)
 - [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 58 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `rust` · `tower` · `axum`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 93 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `tower` · `service` · `axum`)
-- [Copilot-Backed Code Review Architecture](https://youtu.be/JMk8y25qo2M) — Development · 17 views · Jun 2, 2026 · [Details](JMk8y25qo2M.md) (shared: `rust` · `tower` · `axum`)
+- [Copilot-Backed Code Review Architecture](https://youtu.be/JMk8y25qo2M) — Development · 18 views · Jun 2, 2026 · [Details](JMk8y25qo2M.md) (shared: `rust` · `tower` · `axum`)
 
 ---
 *Auto-generated on May 9, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [context-switching]
 sources: 2
-updated: 2026-06-29
+updated: 2026-06-30
 ---
 
 # context switching
@@ -15,4 +15,4 @@ Videos connected by the topic `context switching`.
 - [Leetgo](https://youtu.be/MuDJGnGTn3k) — Development · 59 views · Apr 9, 2026 · [Details](../details/MuDJGnGTn3k.md)
 
 ---
-*Auto-generated on Jun 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 30, 2026. Back to [topic index](index.md).*

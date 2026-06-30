@@ -35,7 +35,7 @@ This codebase passover deck walks through ten invariants of svs-cli, a headless 
 
 ## Related Videos
 
-- [The End of the Functional Programming Tax](https://youtu.be/240fOdSvnpk) — Development · 68 views · Jun 14, 2026 · [Details](240fOdSvnpk.md) (shared: `cache` · `layout` · `mutation`)
+- [The End of the Functional Programming Tax](https://youtu.be/240fOdSvnpk) — Development · 72 views · Jun 14, 2026 · [Details](240fOdSvnpk.md) (shared: `cache` · `layout` · `mutation`)
 - [SlideVoice Studio CLI Architecture](https://youtu.be/ISLXOiFqC50) — Development · 11 views · Jun 19, 2026 · [Details](ISLXOiFqC50.md) (shared: `pipeline` · `gemini` · `ffmpeg`)
 - [A Desktop-First Export Strategy for SlideVoice Studio](https://youtu.be/78hLFt3_Gh4) — Development · 32 views · May 29, 2026 · [Details](78hLFt3_Gh4.md) (shared: `pipeline` · `api` · `gemini`)
 - [SlideVoice Studio Swift](https://youtu.be/r1rhrISQXeA) — Development · 40 views · Jun 4, 2026 · [Details](r1rhrISQXeA.md) (shared: `api` · `gemini` · `ffmpeg`)

@@ -31,10 +31,10 @@ This video presents a strategic implementation guide for data classification bas
 ## Related Videos
 
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 21 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `nist` · `management` · `enterprise`)
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 62 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `zero trust architecture` · `zero` · `trust`)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 128 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `zero` · `trust` · `security`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 63 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `zero trust architecture` · `zero` · `trust`)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 130 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `zero` · `trust` · `security`)
 - [Designing for Privacy](https://youtu.be/_5DCBqOCr8c) — Security · 44 views · Apr 18, 2026 · [Details](_5DCBqOCr8c.md) (shared: `data` · `management`)
-- [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 61 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `data` · `security`)
+- [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 62 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `data` · `security`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

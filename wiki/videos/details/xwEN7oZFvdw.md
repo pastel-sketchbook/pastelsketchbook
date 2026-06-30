@@ -36,8 +36,8 @@ This video presents the AI Copilot Era Equation as a framework for balancing AI 
 
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 96 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `token` · `language` · `model`)
 - [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 113 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `programming` · `language` · `architecture`)
-- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 57 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `compute` · `model` · `architecture`)
-- [The Anatomy of a Modern Robot](https://youtu.be/7ygjuzLkdTE) — Development · 39 views · Jun 24, 2026 · [Details](7ygjuzLkdTE.md) (shared: `programming` · `language` · `architecture`)
+- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 64 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `compute` · `model` · `architecture`)
+- [The Anatomy of a Modern Robot](https://youtu.be/7ygjuzLkdTE) — Development · 41 views · Jun 24, 2026 · [Details](7ygjuzLkdTE.md) (shared: `programming` · `language` · `architecture`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `enterprise` · `architecture`)
 
 ---

@@ -39,7 +39,7 @@ This session evaluates AWS messaging services through native Rust SDK implementa
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `tokio async runtime` · `tokio`)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 51 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `rust` · `tokio async runtime` · `tokio`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `tokio` · `async`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 152 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `tokio` · `async`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 153 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `tokio` · `async`)
 
 ---
 *Auto-generated on Jun 29, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

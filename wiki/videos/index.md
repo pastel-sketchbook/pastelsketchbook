@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 405
-updated: 2026-06-29
+sources: 408
+updated: 2026-06-30
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 405 |
-| Total Views | 33.8K |
+| Total Videos | 408 |
+| Total Views | 34.0K |
 | Categories | 6 |
-| Last Updated | Jun 28, 2026 |
+| Last Updated | Jun 30, 2026 |
 
 ## Categories
 
@@ -28,7 +28,7 @@ Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 34 videos, 769 total views.
+Videos covering personal finance, investing, and economics. 35 videos, 782 total views.
 
 ### [Kubernetes](kubernetes.md)
 
@@ -36,11 +36,11 @@ Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 252 videos, 29.8K total views.
+Videos about software development, tools, workflows, and engineering practices. 253 videos, 29.9K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 17 videos, 626 total views.
+Videos on cybersecurity, application security, and security engineering. 18 videos, 636 total views.
 
 ### [Programming](programming.md)
 
@@ -59,6 +59,7 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `2026` | [Finance](finance.md), [Development](development.md) |
 | `levy` | [Finance](finance.md), [Development](development.md) |
 | `notebooklm` | [Finance](finance.md), [Development](development.md) |
+| `aws` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `secret` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `zero trust` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `db` | [Kubernetes](kubernetes.md), [Development](development.md) |
@@ -66,7 +67,6 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `copilot` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `orchestration` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `cloud native` | [Kubernetes](kubernetes.md), [Development](development.md) |
-| `rust` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Jun 28, 2026. See [wiki index](../index.md).*
+*Auto-generated on Jun 30, 2026. See [wiki index](../index.md).*

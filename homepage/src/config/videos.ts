@@ -47,6 +47,7 @@ export const VIDEO_CONFIG = {
     't-WvRifOu-E'
   ],
   finance: [
+    'K1wUGKw3scU',
     'ZQyL7MT7k60',
     '8vJLWsfheRE',
     'GmUKi-ZPOYU',
@@ -89,6 +90,7 @@ export const VIDEO_CONFIG = {
   ],
   kubernetes: ['JrCT7Xu-aGU', '78Sm363xiIw', 'PofJfj6nRuw', 'hvkvH7i8NLc', 'LxI5YjCUswI', '9ga0NT3ZohQ', 'u_ooo1WDAc8', 'WrZN5AgpaW4', 'V9tvg6Yg3m4', '4YsX6tYi5x4', '-e7kvcUXxtw', 'eaPXjvB194w', 'quD4pyCwKB4', '2ksi8K7wg3I', 'eZNBXDUc8OQ', 'p9LNSeAt5Zw', 'PMgUhFxrjPc', 'nomIVRSBEG4', 'mGMaqTvWrCc', 'oHdhgeF4wlI', 'a8heWpae5p0', 'KdLQEv3Tiiw', 'WRpjJV4SUKc', '7Dchx829X_M', '7iWL5-0C66s', 'BiYKKVsJROk', 'fMjflPvjaJ8', 'lexZnOlyml0', 'QE51ybyrQDM', 'RLlEbcXO6k8', 'tcrNdx1yH_E', 'n-Yt33ZdEHw', 'nJ10P-fRqZQ', 'to1PClyd0YA', 'LUOX5xkSyi0', 'u60g2nMtVi4', 'F09-7mNt3F4', '1PH7UB24xps', 'Hd767VA7Z-0', 'aiYBPCkvhes', 'Pxh2PcNx9W8', '3hSdKvqPcSE', 'y3WwL48DLYw', 'ORjARjbukhY', 'rk_3xU9OF-k', 'mYClRFIlsFc', '7eoxSgjwYlM', '5Ztm7JNVa8E', 'P_xUJi_qt-Q', 'okVlu1qseI4', 'eI2DXGISpbk', 'MIZ0ATwu7C0', 'rgY4KTMFOMs', 'BsiQrEaF3kU', 'Q4qm1hvVR2A', 'WHonjixQgBY', 'KpSjLQpswW4', '4b-H6ZaoNUE', '_sxPf3tHq3s', '0U-SUJCmKAU', 'VxWyvAO3qb8', 'A4-foXsdQiA', 'C6wLm6NRZW4', 'ctKLD4d146g', 'OnwiaDRj1-k', 'R2zktRqz81U', 'N4nRAfBZ3BE', 'C5HqbzLRYZ0', 'rJTUB-u8U2Y', 'A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q', 'sZRIbxwHSCo', 'hs7CiLpLgnY', '1RqgRdlIO8M', 'XKTtea0xGsA'],
   development: [
+    'AbCc2yfz2uw',
     'gPnrk5TNKWg',
     '7ygjuzLkdTE',
     'o3ba6XdMQA0',
@@ -347,11 +349,11 @@ export const VIDEO_CONFIG = {
     'J6dRkXZhnIQ',
     'ykqWNyj1fHM',
     '97zSu6wYF5w',
-    'AbCc2yfz2uw',
     'OeBgces_2_0',
     'zoT6ifQjXvQ'
   ],
   security: [
+    'Hwa2vM9c2Xc',
     'MzdV5hjPdsI',
     'kc1gwl89iyw',
     'Kp_4y_HEaZ0',
@@ -369,7 +371,6 @@ export const VIDEO_CONFIG = {
     'Oa3jaLNSZvM',
     '1MPD6MILLcQ',
     'JfGgWiiCTA0',
-    'Hwa2vM9c2Xc',
     'neqE9X2kSuY'
   ],
   programming: [
@@ -404,10 +405,8 @@ export const HIDDEN_VIDEO_IDS: ReadonlySet<string> = new Set([
   'J6dRkXZhnIQ',
   'ykqWNyj1fHM',
   '97zSu6wYF5w',
-  'AbCc2yfz2uw',
   'OeBgces_2_0',
   'zoT6ifQjXvQ',
-  'Hwa2vM9c2Xc',
   'neqE9X2kSuY',
   'FlGWkg8ih2Y',
   'mOVPWWSOZOU',

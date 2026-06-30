@@ -2,7 +2,7 @@
 type: tag
 tags: [rust]
 sources: 5
-updated: 2026-06-29
+updated: 2026-06-30
 ---
 
 # rust
@@ -11,11 +11,11 @@ Videos connected by the topic `rust`.
 
 ## Videos
 
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 152 views · May 2, 2026 · [Details](../details/90hw9qwXbbw.md)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 153 views · May 2, 2026 · [Details](../details/90hw9qwXbbw.md)
 - [Building vibe-rust](https://youtu.be/BT08SXPvV6U) — Development · 63 views · Apr 4, 2026 · [Details](../details/BT08SXPvV6U.md)
 - [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 62 views · Apr 20, 2026 · [Details](../details/FM6zp63maS8.md)
 - [Beat - Anatomy of a Real-Time Visualizer](https://youtu.be/lin_ycbQGtE) — Development · 27 views · Mar 20, 2026 · [Details](../details/lin_ycbQGtE.md)
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](../details/lY5TU8qHduM.md)
 
 ---
-*Auto-generated on Jun 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jun 30, 2026. Back to [topic index](index.md).*
