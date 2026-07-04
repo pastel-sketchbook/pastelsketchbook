@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-06-30
+updated: 2026-07-04
 ---
 
 # Topic Index
@@ -55,11 +55,13 @@ Total topics: 174
 - [paseto tokens](paseto-tokens.md) (3)
 - [platform engineering](platform-engineering.md) (3)
 - [retirement planning](retirement-planning.md) (3)
+- [risk management](risk-management.md) (3)
 - [rust tui](rust-tui.md) (3)
 - [sequence of returns risk](sequence-of-returns-risk.md) (3)
 - [serde serialization](serde-serialization.md) (3)
 - [service mesh](service-mesh.md) (3)
 - [struct of arrays](struct-of-arrays.md) (3)
+- [tower middleware](tower-middleware.md) (3)
 - [traffic management](traffic-management.md) (3)
 - [trunk-based development](trunk-based-development.md) (3)
 - [zero-cost abstractions](zero-cost-abstractions.md) (3)
@@ -151,7 +153,6 @@ Total topics: 174
 - [rayon data parallelism](rayon-data-parallelism.md) (2)
 - [request lifecycle](request-lifecycle.md) (2)
 - [revsets](revsets.md) (2)
-- [risk management](risk-management.md) (2)
 - [rolling updates](rolling-updates.md) (2)
 - [rust async runtime](rust-async-runtime.md) (2)
 - [rust machine learning](rust-machine-learning.md) (2)
@@ -170,7 +171,6 @@ Total topics: 174
 - [time complexity](time-complexity.md) (2)
 - [tokio](tokio.md) (2)
 - [tokio runtime](tokio-runtime.md) (2)
-- [tower middleware](tower-middleware.md) (2)
 - [tower service trait](tower-service-trait.md) (2)
 - [travel diary](travel-diary.md) (2)
 - [tree-sitter](tree-sitter.md) (2)
@@ -187,4 +187,4 @@ Total topics: 174
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Jun 30, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Jul 4, 2026. Back to [videos index](../index.md).*

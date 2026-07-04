@@ -384,3 +384,20 @@ Synced 408 videos across 6 categories (korea=20, finance=35, kubernetes=74, deve
 ## [2026-06-30] ingest | Video Transcripts
 
 Exported 1 transcript files (single: Hwa2vM9c2Xc) to `wiki/raw/transcripts`.
+
+## [2026-07-04] ingest | Video Metadata Sync
+
+Synced 411 videos across 6 categories (korea=20, finance=36, kubernetes=74, development=254, security=19, programming=8).
+
+## [2026-07-04] ingest | Video Transcripts
+
+Exported 3 transcript files (single: J4nERLAJIbs, 33odiiNMGzQ, neqE9X2kSuY) to `wiki/raw/transcripts`.
+
+## [2026-07-04] enrich | New Video Detail Pages & Book Sync
+
+Generated 3 detail pages from raw transcripts: J4nERLAJIbs, 33odiiNMGzQ, neqE9X2kSuY. Regenerated wiki bundle (411 videos, 411 with detail). Reindexed zmd. Synced 3 new videos to books.json:
+- J4nERLAJIbs → Internals Companion Ch2 (The Mathematics of Probability and Risk)
+- 33odiiNMGzQ → Internals Companion Ch5 (The Rust HTTP Stack: Hyper, Axum, Tonic)
+- neqE9X2kSuY → Architect's Sketchbook Ch2 (Zero Trust as First Principle)
+
+Public transcripts mirror in sync. Build verified.

@@ -30,7 +30,7 @@ This video demonstrates how the Model Context Protocol (MCP) bridges AI coding a
 
 ## Related Videos
 
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 704 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model context protocol` · `model` · `context`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 705 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model context protocol` · `model` · `context`)
 - [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 281 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `model context protocol` · `model` · `context`)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 96 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `model context protocol` · `model` · `context`)
 - [Copilot-Backed Code Review Architecture](https://youtu.be/JMk8y25qo2M) — Development · 18 views · Jun 2, 2026 · [Details](JMk8y25qo2M.md) (shared: `context` · `github` · `copilot`)

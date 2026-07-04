@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 408
-updated: 2026-06-30
+sources: 411
+updated: 2026-07-04
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 408 |
-| Total Views | 34.0K |
+| Total Videos | 411 |
+| Total Views | 34.2K |
 | Categories | 6 |
-| Last Updated | Jun 30, 2026 |
+| Last Updated | Jul 4, 2026 |
 
 ## Categories
 
@@ -28,7 +28,7 @@ Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 35 videos, 782 total views.
+Videos covering personal finance, investing, and economics. 36 videos, 794 total views.
 
 ### [Kubernetes](kubernetes.md)
 
@@ -36,11 +36,11 @@ Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 253 videos, 29.9K total views.
+Videos about software development, tools, workflows, and engineering practices. 254 videos, 30.1K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 18 videos, 636 total views.
+Videos on cybersecurity, application security, and security engineering. 19 videos, 651 total views.
 
 ### [Programming](programming.md)
 
@@ -54,6 +54,7 @@ Tags appearing in multiple categories (potential synthesis targets):
 |-----|------------|
 | `ai` | [Finance](finance.md), [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `curiosity` | [Finance](finance.md), [Kubernetes](kubernetes.md), [Development](development.md) |
+| `zero trust` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `shift left` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `agent` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `2026` | [Finance](finance.md), [Development](development.md) |
@@ -61,12 +62,11 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `notebooklm` | [Finance](finance.md), [Development](development.md) |
 | `aws` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `secret` | [Kubernetes](kubernetes.md), [Security](security.md) |
-| `zero trust` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `db` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `polyglot` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `copilot` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `orchestration` | [Kubernetes](kubernetes.md), [Security](security.md) |
-| `cloud native` | [Kubernetes](kubernetes.md), [Development](development.md) |
+| `messaging` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Jun 30, 2026. See [wiki index](../index.md).*
+*Auto-generated on Jul 4, 2026. See [wiki index](../index.md).*

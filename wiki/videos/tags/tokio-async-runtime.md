@@ -2,7 +2,7 @@
 type: tag
 tags: [tokio-async-runtime]
 sources: 5
-updated: 2026-06-30
+updated: 2026-07-04
 ---
 
 # tokio async runtime
@@ -18,4 +18,4 @@ Videos connected by the topic `tokio async runtime`.
 - [Engineering High-Performance Distributed Systems with Rust and AWS](https://youtu.be/sZRIbxwHSCo) — Kubernetes · 3 views · Jun 10, 2026 · [Details](../details/sZRIbxwHSCo.md)
 
 ---
-*Auto-generated on Jun 30, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 4, 2026. Back to [topic index](index.md).*

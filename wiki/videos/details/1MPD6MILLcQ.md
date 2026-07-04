@@ -30,10 +30,10 @@ This video analyzes the CrowdStrike 2025 Global Threat Report, defining the curr
 
 ## Related Videos
 
-- [Architecting Ephemeral Access](https://youtu.be/Hwa2vM9c2Xc) — Security · 2 views · Jun 29, 2026 · [Details](Hwa2vM9c2Xc.md) (shared: `credential` · `session`)
-- [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 62 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `threat`)
+- [Architecting Ephemeral Access](https://youtu.be/Hwa2vM9c2Xc) — Security · 3 views · Jun 29, 2026 · [Details](Hwa2vM9c2Xc.md) (shared: `credential` · `session`)
+- [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 61 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `threat`)
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 38 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `credential`)
-- [The 25519 Cryptographic Family](https://youtu.be/MzdV5hjPdsI) — Security · 6 views · Jun 28, 2026 · [Details](MzdV5hjPdsI.md) (shared: `time`)
+- [The 25519 Cryptographic Family](https://youtu.be/MzdV5hjPdsI) — Security · 8 views · Jun 28, 2026 · [Details](MzdV5hjPdsI.md) (shared: `time`)
 - [The Essential Algorithmic Toolkit](https://youtu.be/nRxqSGBuB4s) — Development · 56 views · Mar 6, 2026 · [Details](nRxqSGBuB4s.md) (shared: `time`)
 
 ---

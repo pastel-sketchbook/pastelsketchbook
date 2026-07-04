@@ -31,7 +31,7 @@ This talk frames “AI engineering” as a distinct discipline: not just trainin
 
 ## Related Videos
 
-- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 64 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `cache` · `quantization` · `hardware`)
+- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 71 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `cache` · `quantization` · `hardware`)
 - [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 82 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `engineering` · `cache` · `design`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `systems` · `design`)
 - [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 61 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `cache` · `design`)

@@ -39,7 +39,7 @@ This talk argues that the historical "functional programming tax" — the perfor
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 354 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `programming` · `memory` · `garbage`)
 - [svs-cli: 10 Critical Things](https://youtu.be/S3Vc_R-HezY) — Development · 15 views · May 24, 2026 · [Details](S3Vc_R-HezY.md) (shared: `compile-time` · `mutation` · `cache`)
 - [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 82 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `performance` · `memory` · `cache`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 588 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `compile-time` · `data` · `code`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 605 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `compile-time` · `data` · `code`)
 
 ---
 *Auto-generated on Jun 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, azure, rabbitmq, aws, cue, k8s, rust, go]
 sources: 74
-updated: 2026-06-30
+updated: 2026-07-04
 ---
 
 # Kubernetes
@@ -24,7 +24,7 @@ updated: 2026-06-30
 ### AKS & Networking (22 videos)
 
 - [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) -- 11 views, May 22, 2026 · [Details](details/9ga0NT3ZohQ.md)
-- [The Complete Local Azure Environment](https://youtu.be/u_ooo1WDAc8) -- 20 views, May 16, 2026 · [Details](details/u_ooo1WDAc8.md)
+- [The Complete Local Azure Environment](https://youtu.be/u_ooo1WDAc8) -- 21 views, May 16, 2026 · [Details](details/u_ooo1WDAc8.md)
 - [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) -- 12 views, May 6, 2026 · [Details](details/4YsX6tYi5x4.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 23 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [Modern Hybrid Identity ](https://youtu.be/nJ10P-fRqZQ) -- 8 views, Mar 17, 2026 · [Details](details/nJ10P-fRqZQ.md)
@@ -40,7 +40,7 @@ updated: 2026-06-30
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) -- 23 views, Jan 14, 2026 · [Details](details/A4-foXsdQiA.md)
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) -- 6 views, Jan 14, 2026 · [Details](details/C6wLm6NRZW4.md)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) -- 5 views, Jan 10, 2026 · [Details](details/N4nRAfBZ3BE.md)
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) -- 15 views, Jan 10, 2026 · [Details](details/C5HqbzLRYZ0.md)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) -- 16 views, Jan 10, 2026 · [Details](details/C5HqbzLRYZ0.md)
 - [Securely Exposing AKS Applications](https://youtu.be/A7eoKD5m6Ek) -- 9 views, Jan 8, 2026 · [Details](details/A7eoKD5m6Ek.md)
 - [Deploying CSR Applications on Vercel Versus AKS](https://youtu.be/snRi_JET1bg) -- 8 views, Jan 6, 2026 · [Details](details/snRi_JET1bg.md)
 - [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) -- 18 views, Jan 2, 2026 · [Details](details/8ycnldvJmuA.md)
@@ -74,13 +74,13 @@ updated: 2026-06-30
 
 ### Data & Databases (9 videos)
 
-- [AWS Database Selection Blueprint](https://youtu.be/78Sm363xiIw) -- 12 views, Jun 12, 2026 · [Details](details/78Sm363xiIw.md)
+- [AWS Database Selection Blueprint](https://youtu.be/78Sm363xiIw) -- 13 views, Jun 12, 2026 · [Details](details/78Sm363xiIw.md)
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 76 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) -- 17 views, Mar 13, 2026 · [Details](details/u60g2nMtVi4.md)
 - [ScyllaDB: The Next-Generation NoSQL Platform](https://youtu.be/mYClRFIlsFc) -- 13 views, Feb 19, 2026 · [Details](details/mYClRFIlsFc.md)
 - [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 67 views, Feb 12, 2026 · [Details](details/eI2DXGISpbk.md)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) -- 27 views, Feb 10, 2026 · [Details](details/MIZ0ATwu7C0.md)
-- [MotherDuck: Serverless DuckDB in the Cloud & Client](https://youtu.be/BsiQrEaF3kU) -- 27 views, Feb 4, 2026 · [Details](details/BsiQrEaF3kU.md)
+- [MotherDuck: Serverless DuckDB in the Cloud & Client](https://youtu.be/BsiQrEaF3kU) -- 28 views, Feb 4, 2026 · [Details](details/BsiQrEaF3kU.md)
 - [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) -- 21 views, Jan 31, 2026 · [Details](details/Q4qm1hvVR2A.md)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) -- 5 views, Jan 10, 2026 · [Details](details/N4nRAfBZ3BE.md)
 
@@ -99,7 +99,7 @@ updated: 2026-06-30
 ### Go (9 videos)
 
 - [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) -- 11 views, May 22, 2026 · [Details](details/9ga0NT3ZohQ.md)
-- [The Complete Local Azure Environment](https://youtu.be/u_ooo1WDAc8) -- 20 views, May 16, 2026 · [Details](details/u_ooo1WDAc8.md)
+- [The Complete Local Azure Environment](https://youtu.be/u_ooo1WDAc8) -- 21 views, May 16, 2026 · [Details](details/u_ooo1WDAc8.md)
 - [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) -- 23 views, Apr 29, 2026 · [Details](details/-e7kvcUXxtw.md)
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 76 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 23 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
@@ -118,7 +118,7 @@ updated: 2026-06-30
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) -- 47 views, Jan 16, 2026 · [Details](details/0U-SUJCmKAU.md)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) -- 23 views, Jan 14, 2026 · [Details](details/A4-foXsdQiA.md)
 - [Kubernetes Services & Istio](https://youtu.be/OnwiaDRj1-k) -- 30 views, Jan 12, 2026 · [Details](details/OnwiaDRj1-k.md)
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) -- 15 views, Jan 10, 2026 · [Details](details/C5HqbzLRYZ0.md)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) -- 16 views, Jan 10, 2026 · [Details](details/C5HqbzLRYZ0.md)
 
 ### Security (8 videos)
 
@@ -180,20 +180,20 @@ updated: 2026-06-30
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
 | 1 | Architecting Enterprise Secret Management in Rust | 11 | Jun 25, 2026 | [Watch](https://youtu.be/JrCT7Xu-aGU) | [Wiki](details/JrCT7Xu-aGU.md) |
-| 2 | AWS Database Selection Blueprint | 12 | Jun 12, 2026 | [Watch](https://youtu.be/78Sm363xiIw) | [Wiki](details/78Sm363xiIw.md) |
+| 2 | AWS Database Selection Blueprint | 13 | Jun 12, 2026 | [Watch](https://youtu.be/78Sm363xiIw) | [Wiki](details/78Sm363xiIw.md) |
 | 3 | Architecting Al at Global Scale | 5 | Jun 11, 2026 | [Watch](https://youtu.be/PofJfj6nRuw) | [Wiki](details/PofJfj6nRuw.md) |
 | 4 | Engineering High-Performance Distributed Systems with Rust and AWS | 3 | Jun 10, 2026 | [Watch](https://youtu.be/sZRIbxwHSCo) | [Wiki](details/sZRIbxwHSCo.md) |
 | 5 | Architecting Kubernetes Operators | 18 | May 31, 2026 | [Watch](https://youtu.be/hvkvH7i8NLc) | [Wiki](details/hvkvH7i8NLc.md) |
 | 6 | Introducing ExtendDB | 51 | May 24, 2026 | [Watch](https://youtu.be/LxI5YjCUswI) | [Wiki](details/LxI5YjCUswI.md) |
 | 7 | Seamless GitOps on Azure | 11 | May 22, 2026 | [Watch](https://youtu.be/9ga0NT3ZohQ) | [Wiki](details/9ga0NT3ZohQ.md) |
-| 8 | The Complete Local Azure Environment | 20 | May 16, 2026 | [Watch](https://youtu.be/u_ooo1WDAc8) | [Wiki](details/u_ooo1WDAc8.md) |
+| 8 | The Complete Local Azure Environment | 21 | May 16, 2026 | [Watch](https://youtu.be/u_ooo1WDAc8) | [Wiki](details/u_ooo1WDAc8.md) |
 | 9 | The Anatomy of Kubernetes | 28 | May 12, 2026 | [Watch](https://youtu.be/WrZN5AgpaW4) | [Wiki](details/WrZN5AgpaW4.md) |
 | 10 | From Consensus Physics to Messaging Engineering | 47 | May 7, 2026 | [Watch](https://youtu.be/V9tvg6Yg3m4) | [Wiki](details/V9tvg6Yg3m4.md) |
 | 11 | Istio-Based Weighted Traffic Management on AKS | 12 | May 6, 2026 | [Watch](https://youtu.be/4YsX6tYi5x4) | [Wiki](details/4YsX6tYi5x4.md) |
 | 12 | DevSecOps on Azure Kubernetes Service | 23 | Apr 29, 2026 | [Watch](https://youtu.be/-e7kvcUXxtw) | [Wiki](details/-e7kvcUXxtw.md) |
 | 13 | Architecting Cost Efficiency for Al Workloads | 25 | Apr 25, 2026 | [Watch](https://youtu.be/eaPXjvB194w) | [Wiki](details/eaPXjvB194w.md) |
 | 14 | Enterprise Infrastructure as Code for Al Agents | 68 | Apr 25, 2026 | [Watch](https://youtu.be/quD4pyCwKB4) | [Wiki](details/quD4pyCwKB4.md) |
-| 15 | Kubernetes 1.36 (Haru) | 76 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
+| 15 | Kubernetes 1.36 (Haru) | 77 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
 | 16 | Architecting Modern Deployments | 16 | Apr 22, 2026 | [Watch](https://youtu.be/eZNBXDUc8OQ) | [Wiki](details/eZNBXDUc8OQ.md) |
 | 17 | Scaling Node.js from PM2 to Cloud-Native Orchestration | 21 | Apr 22, 2026 | [Watch](https://youtu.be/p9LNSeAt5Zw) | [Wiki](details/p9LNSeAt5Zw.md) |
 | 18 | The Cloud Rosetta Stone | 23 | Apr 18, 2026 | [Watch](https://youtu.be/PMgUhFxrjPc) | [Wiki](details/PMgUhFxrjPc.md) |
@@ -233,7 +233,7 @@ updated: 2026-06-30
 | 52 | BadgerDB: The Go-Native Key-Value Store | 67 | Feb 12, 2026 | [Watch](https://youtu.be/eI2DXGISpbk) | [Wiki](details/eI2DXGISpbk.md) |
 | 53 | Architecting Meilisearch on AKS & Istio | 27 | Feb 10, 2026 | [Watch](https://youtu.be/MIZ0ATwu7C0) | [Wiki](details/MIZ0ATwu7C0.md) |
 | 54 | Secure Web App with Azure AD/OAuth2 Proxy | 63 | Feb 5, 2026 | [Watch](https://youtu.be/rgY4KTMFOMs) | [Wiki](details/rgY4KTMFOMs.md) |
-| 55 | MotherDuck: Serverless DuckDB in the Cloud & Client | 27 | Feb 4, 2026 | [Watch](https://youtu.be/BsiQrEaF3kU) | [Wiki](details/BsiQrEaF3kU.md) |
+| 55 | MotherDuck: Serverless DuckDB in the Cloud & Client | 28 | Feb 4, 2026 | [Watch](https://youtu.be/BsiQrEaF3kU) | [Wiki](details/BsiQrEaF3kU.md) |
 | 56 | Dragonfly on AKS | 21 | Jan 31, 2026 | [Watch](https://youtu.be/Q4qm1hvVR2A) | [Wiki](details/Q4qm1hvVR2A.md) |
 | 57 | The 2026 Architectural Standard | 54 | Jan 31, 2026 | [Watch](https://youtu.be/WHonjixQgBY) | [Wiki](details/WHonjixQgBY.md) |
 | 58 | Secure Service-to-Service Authorization with SpiceDB | 32 | Jan 27, 2026 | [Watch](https://youtu.be/KpSjLQpswW4) | [Wiki](details/KpSjLQpswW4.md) |
@@ -247,7 +247,7 @@ updated: 2026-06-30
 | 66 | Kubernetes Services & Istio | 30 | Jan 12, 2026 | [Watch](https://youtu.be/OnwiaDRj1-k) | [Wiki](details/OnwiaDRj1-k.md) |
 | 67 | A Blueprint for Secure Azure Authentication in Go | 18 | Jan 12, 2026 | [Watch](https://youtu.be/R2zktRqz81U) | [Wiki](details/R2zktRqz81U.md) |
 | 68 | Choosing Your Messaging Fabric on AKS | 5 | Jan 10, 2026 | [Watch](https://youtu.be/N4nRAfBZ3BE) | [Wiki](details/N4nRAfBZ3BE.md) |
-| 69 | K8s Services  AKS & Istio | 15 | Jan 10, 2026 | [Watch](https://youtu.be/C5HqbzLRYZ0) | [Wiki](details/C5HqbzLRYZ0.md) |
+| 69 | K8s Services  AKS & Istio | 16 | Jan 10, 2026 | [Watch](https://youtu.be/C5HqbzLRYZ0) | [Wiki](details/C5HqbzLRYZ0.md) |
 | 70 | Kubernetes Cluster Architecture | 12 | Jan 9, 2026 | [Watch](https://youtu.be/rJTUB-u8U2Y) | [Wiki](details/rJTUB-u8U2Y.md) |
 | 71 | Securely Exposing AKS Applications | 9 | Jan 8, 2026 | [Watch](https://youtu.be/A7eoKD5m6Ek) | [Wiki](details/A7eoKD5m6Ek.md) |
 | 72 | Deploying CSR Applications on Vercel Versus AKS | 8 | Jan 6, 2026 | [Watch](https://youtu.be/snRi_JET1bg) | [Wiki](details/snRi_JET1bg.md) |
@@ -260,10 +260,10 @@ updated: 2026-06-30
 
 ## See Also
 
-- [Security](security.md) -- shared tags: `ai`, `shift left`, `agent`, `aws`, `secret`, `orchestration`, `governance`, `security`, `azure`
-- [Development](development.md) -- shared tags: `ai`, `curiosity`, `shift left`, `agent`, `zero trust`, `db`, `polyglot`, `copilot`, `cloud native`, `rust`, `go`, `internal`, `rabbitmq`, `cost`, `skill`, `cloud`, `scylladb`, `cdc`, `java`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `quic`, `engineering`, `migration`, `identity`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `nats`, `sdk`, `messaging`
+- [Security](security.md) -- shared tags: `ai`, `zero trust`, `shift left`, `agent`, `aws`, `secret`, `orchestration`, `governance`, `security`, `azure`
+- [Development](development.md) -- shared tags: `ai`, `curiosity`, `zero trust`, `shift left`, `agent`, `db`, `polyglot`, `copilot`, `messaging`, `cloud native`, `rust`, `go`, `internal`, `rabbitmq`, `cost`, `skill`, `cloud`, `scylladb`, `cdc`, `java`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `quic`, `engineering`, `migration`, `identity`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `nats`, `sdk`
 - [Finance](finance.md) -- shared tags: `ai`, `curiosity`
 - [Programming](programming.md) -- shared tags: `vercel`
 
 ---
-*Auto-generated on Jun 30, 2026. Back to [index](index.md).*
+*Auto-generated on Jul 4, 2026. Back to [index](index.md).*

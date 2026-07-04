@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T01:00:00.000Z",
+  "generatedAt": "2026-07-04T17:23:00.000Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -54,7 +54,8 @@
             "CA1nlknmR3g",
             "1MPD6MILLcQ",
             "kc1gwl89iyw",
-            "JrCT7Xu-aGU"
+            "JrCT7Xu-aGU",
+            "neqE9X2kSuY"
           ],
           "tags": [
             "zero-trust",
@@ -370,7 +371,8 @@
             "s585HlqiyMQ",
             "FDYu2fllfuE",
             "P-QVC5lOMbU",
-            "JfGgWiiCTA0"
+            "JfGgWiiCTA0",
+            "J4nERLAJIbs"
           ],
           "tags": [
             "algorithms",
@@ -428,7 +430,8 @@
             "07aDX5YB-ao",
             "qAHyv6G3a7M",
             "UOOkDh4RUbE",
-            "o3ba6XdMQA0"
+            "o3ba6XdMQA0",
+            "33odiiNMGzQ"
           ],
           "tags": [
             "rust",
