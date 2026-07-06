@@ -33,7 +33,7 @@ This video details the architecture of a neural text-to-speech system built into
 - [Building vibe-rust](https://youtu.be/BT08SXPvV6U) — Development · 63 views · Apr 4, 2026 · [Details](BT08SXPvV6U.md) (shared: `tts` · `onnx runtime` · `onnx`)
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 48 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `rust` · `tauri` · `desktop`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `runtime` · `rust`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 154 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `runtime` · `rust`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 155 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `runtime` · `rust`)
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `runtime` · `rust`)
 
 ---

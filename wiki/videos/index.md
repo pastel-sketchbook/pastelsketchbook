@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 411
-updated: 2026-07-04
+sources: 414
+updated: 2026-07-07
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 411 |
-| Total Views | 34.2K |
+| Total Videos | 414 |
+| Total Views | 34.4K |
 | Categories | 6 |
-| Last Updated | Jul 4, 2026 |
+| Last Updated | Jul 7, 2026 |
 
 ## Categories
 
@@ -28,19 +28,19 @@ Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 36 videos, 794 total views.
+Videos covering personal finance, investing, and economics. 37 videos, 803 total views.
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 74 videos, 2.2K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 75 videos, 2.2K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 254 videos, 30.1K total views.
+Videos about software development, tools, workflows, and engineering practices. 255 videos, 30.3K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 19 videos, 651 total views.
+Videos on cybersecurity, application security, and security engineering. 19 videos, 670 total views.
 
 ### [Programming](programming.md)
 
@@ -60,13 +60,13 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `2026` | [Finance](finance.md), [Development](development.md) |
 | `levy` | [Finance](finance.md), [Development](development.md) |
 | `notebooklm` | [Finance](finance.md), [Development](development.md) |
+| `azure` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `aws` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `secret` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `db` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `polyglot` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `copilot` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `orchestration` | [Kubernetes](kubernetes.md), [Security](security.md) |
-| `messaging` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Jul 4, 2026. See [wiki index](../index.md).*
+*Auto-generated on Jul 7, 2026. See [wiki index](../index.md).*

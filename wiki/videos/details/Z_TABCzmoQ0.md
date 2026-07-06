@@ -37,7 +37,7 @@ This architectural breakdown of Mojo (v1.0.0b1) explains how Modular's language 
 
 - [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 113 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `language` · `architecture` · `interop`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `language` · `memory` · `ownership`)
-- [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 27 views · Feb 6, 2026 · [Details](A96r5gqwUrI.md) (shared: `comptime` · `simd` · `zero-cost`)
+- [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 29 views · Feb 6, 2026 · [Details](A96r5gqwUrI.md) (shared: `comptime` · `simd` · `zero-cost`)
 - [React Native vs. Flutter for Enterprise Apps](https://youtu.be/jzjGcFkAnfs) — Development · 32 views · Feb 26, 2026 · [Details](jzjGcFkAnfs.md) (shared: `architecture` · `native` · `compilation`)
 - [zig-duckdb-ext](https://youtu.be/ymYtSum-2qc) — Development · 65 views · Mar 24, 2026 · [Details](ymYtSum-2qc.md) (shared: `interop` · `comptime` · `zero-cost`)
 

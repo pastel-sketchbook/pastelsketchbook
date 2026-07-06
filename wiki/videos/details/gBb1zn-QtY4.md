@@ -31,7 +31,7 @@ This video is a retrospective on the late 1980s and early 1990s "blue screen era
 ## Related Videos
 
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `programming` · `development`)
-- [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 20 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `development` · `environment`)
+- [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 21 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `development` · `environment`)
 - [The Art of Git Gardening](https://youtu.be/PNFlYx8HiOM) — Development · 16 views · Dec 31, 2025 · [Details](PNFlYx8HiOM.md) (shared: `history` · `development`)
 - [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 113 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `programming` · `development`)
 - [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 55 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `development`)

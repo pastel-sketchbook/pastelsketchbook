@@ -39,7 +39,7 @@ This architecture blueprint walks through tn-svs, a Rust pipeline that converts 
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `axum` · `tokio async runtime` · `tokio`)
 - [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 28 views · May 4, 2026 · [Details](UOOkDh4RUbE.md) (shared: `grpc` · `streaming` · `axum`)
 - [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 129 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `grpc streaming patterns` · `grpc` · `streaming`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 154 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `grpc` · `tokio` · `async`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 155 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `grpc` · `tokio` · `async`)
 
 ---
 *Auto-generated on Jun 25, 2026. Back to [development](../development.md) · [index](../index.md).*

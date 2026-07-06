@@ -31,7 +31,7 @@ This video lays out a pragmatic 2026 decision framework for service-to-service c
 
 ## Related Videos
 
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 154 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `grpc` · `protobuf` · `rust`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 155 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `grpc` · `protobuf` · `rust`)
 - [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 10 views · Jun 23, 2026 · [Details](o3ba6XdMQA0.md) (shared: `rest` · `grpc` · `grpc streaming patterns`)
 - [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 210 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `http` · `head-of-line` · `blocking`)
 - [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 98 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `http` · `1.1` · `rust`)

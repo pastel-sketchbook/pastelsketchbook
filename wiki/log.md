@@ -401,3 +401,15 @@ Generated 3 detail pages from raw transcripts: J4nERLAJIbs, 33odiiNMGzQ, neqE9X2
 - neqE9X2kSuY → Architect's Sketchbook Ch2 (Zero Trust as First Principle)
 
 Public transcripts mirror in sync. Build verified.
+
+## [2026-07-06] ingest | Video Metadata Sync
+
+Synced 414 videos across 6 categories (korea=20, finance=37, kubernetes=75, development=255, security=19, programming=8).
+
+## [2026-07-06] ingest | Video Transcripts
+
+Exported 1 transcript files (single: u5hQQZsLBwU) to `wiki/raw/transcripts`.
+
+## [2026-07-07] ingest | Video Metadata Sync
+
+Synced 414 videos across 6 categories (korea=20, finance=37, kubernetes=75, development=255, security=19, programming=8).

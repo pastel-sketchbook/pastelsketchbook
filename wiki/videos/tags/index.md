@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-07-04
+updated: 2026-07-07
 ---
 
 # Topic Index
@@ -30,6 +30,7 @@ Total topics: 174
 - [data-oriented design](data-oriented-design.md) (4)
 - [distributed systems](distributed-systems.md) (4)
 - [feature flags](feature-flags.md) (4)
+- [infrastructure as code](infrastructure-as-code.md) (4)
 - [model context protocol](model-context-protocol.md) (4)
 - [opentelemetry](opentelemetry.md) (4)
 - [state management](state-management.md) (4)
@@ -47,7 +48,6 @@ Total topics: 174
 - [duckdb](duckdb.md) (3)
 - [frontend architecture](frontend-architecture.md) (3)
 - [go standard library](go-standard-library.md) (3)
-- [infrastructure as code](infrastructure-as-code.md) (3)
 - [istio](istio.md) (3)
 - [joseon dynasty](joseon-dynasty.md) (3)
 - [korean history](korean-history.md) (3)
@@ -187,4 +187,4 @@ Total topics: 174
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Jul 4, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Jul 7, 2026. Back to [videos index](../index.md).*

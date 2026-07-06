@@ -30,7 +30,7 @@ This video deconstructs the Gang of Four design patterns powering melos-rs, a hi
 
 ## Related Videos
 
-- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 75 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `rust` · `pattern` · `facade pattern`)
+- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 77 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `rust` · `pattern` · `facade pattern`)
 - [Fuzzy Find Everything](https://youtu.be/IkVazryUiko) — Development · 57 views · Mar 4, 2026 · [Details](IkVazryUiko.md) (shared: `cli` · `command` · `optimization`)
 - [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 33 views · Feb 23, 2026 · [Details](ARWkoc3E8uE.md) (shared: `rust` · `gang` · `four`)
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 48 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `rust` · `patterns` · `pattern`)

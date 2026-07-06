@@ -32,8 +32,8 @@ This video demonstrates building safe, zero-cost DuckDB extensions using Zig tar
 
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 72 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `generics` · `zero-cost abstractions` · `zero-cost`)
 - [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 50 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `zero-cost abstractions` · `zero-cost` · `abstractions`)
-- [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 27 views · Feb 6, 2026 · [Details](A96r5gqwUrI.md) (shared: `zig` · `comptime` · `zero-cost`)
-- [High-Performance Compute Meets Developer Ergonomics](https://youtu.be/Z_TABCzmoQ0) — Development · 85 views · Jun 15, 2026 · [Details](Z_TABCzmoQ0.md) (shared: `interop` · `comptime` · `zero-cost`)
+- [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 29 views · Feb 6, 2026 · [Details](A96r5gqwUrI.md) (shared: `zig` · `comptime` · `zero-cost`)
+- [High-Performance Compute Meets Developer Ergonomics](https://youtu.be/Z_TABCzmoQ0) — Development · 87 views · Jun 15, 2026 · [Details](Z_TABCzmoQ0.md) (shared: `interop` · `comptime` · `zero-cost`)
 - [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 24 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `interop` · `table` · `api`)
 
 ---

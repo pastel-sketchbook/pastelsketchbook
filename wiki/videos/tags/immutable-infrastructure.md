@@ -2,7 +2,7 @@
 type: tag
 tags: [immutable-infrastructure]
 sources: 2
-updated: 2026-07-04
+updated: 2026-07-07
 ---
 
 # immutable infrastructure
@@ -15,4 +15,4 @@ Videos connected by the topic `immutable infrastructure`.
 - [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) — Kubernetes · 16 views · Apr 22, 2026 · [Details](../details/eZNBXDUc8OQ.md)
 
 ---
-*Auto-generated on Jul 4, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 7, 2026. Back to [topic index](index.md).*

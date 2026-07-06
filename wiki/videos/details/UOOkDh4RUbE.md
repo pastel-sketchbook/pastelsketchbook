@@ -31,7 +31,7 @@ tn-file-upload is a production-grade streaming-first gRPC file service written i
 ## Related Videos
 
 - [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 10 views · Jun 23, 2026 · [Details](o3ba6XdMQA0.md) (shared: `grpc` · `streaming` · `tokio`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 154 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `grpc` · `tonic` · `tokio`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 155 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `grpc` · `tonic` · `tokio`)
 - [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 93 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `grpc` · `tonic` · `tokio`)
 - [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 129 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `grpc` · `streaming` · `tonic`)
 - [AX: The Distributed Agent Runtime](https://youtu.be/xiTVDbJscik) — Development · 70 views · May 23, 2026 · [Details](xiTVDbJscik.md) (shared: `grpc` · `streaming` · `runtime`)

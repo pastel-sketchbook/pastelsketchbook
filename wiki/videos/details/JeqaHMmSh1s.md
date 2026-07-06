@@ -38,7 +38,7 @@ This video introduces a technical framework for building 'Skills' for Claude, wh
 - [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](9oSUtndLto4.md) (shared: `model context protocol` · `model` · `context`)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 96 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `model context protocol` · `model` · `context`)
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 143 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `workflow` · `automation` · `architectural`)
-- [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 75 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `model` · `optimization` · `automation`)
+- [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `model` · `optimization` · `automation`)
 - [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 281 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `model context protocol` · `model` · `context`)
 
 ---

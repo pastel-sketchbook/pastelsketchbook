@@ -35,7 +35,7 @@ This briefing dissects Japan's deliberately multi-vendor national cloud strategy
 
 ## Related Videos
 
-- [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 3 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `strategy` · `data` · `infrastructure`)
+- [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 6 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `strategy` · `data` · `infrastructure`)
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `strategy` · `infrastructure`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 76 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `infrastructure`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 89 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data` · `infrastructure`)

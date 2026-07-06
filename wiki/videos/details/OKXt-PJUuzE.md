@@ -11,7 +11,7 @@ summarized: 2026-06-23T01:00:00.000Z
 
 - [Machine Learning Systems](https://youtu.be/fNN88ZXWYKU) — Development · 177 views · Apr 24, 2026 · [Details](fNN88ZXWYKU.md) (shared: `cache` · `constraints` · `hardware`)
 - [The AI Copilot Era Equation](https://youtu.be/xwEN7oZFvdw) — Development · 53 views · Jun 10, 2026 · [Details](xwEN7oZFvdw.md) (shared: `architecture` · `compute` · `model`)
-- [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) — Development · 170 views · Mar 24, 2026 · [Details](yCJDmGrk8sM.md) (shared: `cache` · `management` · `hardware`)
+- [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) — Development · 172 views · Mar 24, 2026 · [Details](yCJDmGrk8sM.md) (shared: `cache` · `management` · `hardware`)
 - [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 38 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `architecture` · `engine` · `strategies`)
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 31 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `architecture` · `model` · `hardware`)
 

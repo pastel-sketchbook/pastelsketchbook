@@ -12,7 +12,7 @@ summarized: 2026-06-08T23:05:00.000Z
 - [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 62 views · Apr 20, 2026 · [Details](FM6zp63maS8.md) (shared: `rust` · `ratatui` · `tui`)
 - [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `rust` · `cli` · `tui`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `rust` · `generation` · `cli`)
-- [temporal-chain: Architecture & Design](https://youtu.be/cuA7G01T7_U) — Development · 22 views · Jun 6, 2026 · [Details](cuA7G01T7_U.md) (shared: `rust` · `workspace` · `cli`)
+- [temporal-chain: Architecture & Design](https://youtu.be/cuA7G01T7_U) — Development · 23 views · Jun 6, 2026 · [Details](cuA7G01T7_U.md) (shared: `rust` · `workspace` · `cli`)
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `rust` · `engine` · `generation`)
 
 ---
