@@ -33,7 +33,7 @@ This video presents a comprehensive architecture v2.0 blueprint for massive Kube
 - [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 27 views · Feb 19, 2026 · [Details](rk_3xU9OF-k.md) (shared: `platform` · `kubernetes` · `workload archetypes`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 46 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `kubernetes` · `security` · `service`)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 23 views · Jan 14, 2026 · [Details](A4-foXsdQiA.md) (shared: `kubernetes` · `security` · `service mesh`)
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 63 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `architecture` · `security` · `service`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 65 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `architecture` · `security` · `service`)
 - [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 15 views · Mar 16, 2026 · [Details](to1PClyd0YA.md) (shared: `platform engineering` · `platform` · `engineering`)
 
 ---

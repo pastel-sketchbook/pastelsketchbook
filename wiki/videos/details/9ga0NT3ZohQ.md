@@ -36,7 +36,7 @@ Microsoft announces public preview of Argo CD natively integrated into the AKS A
 ## Related Videos
 
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 23 views · Apr 1, 2026 · [Details](BiYKKVsJROk.md) (shared: `argo` · `aks` · `gitops`)
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 63 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `aks` · `azure` · `workload`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 65 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `aks` · `azure` · `workload`)
 - [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) — Kubernetes · 21 views · Jan 31, 2026 · [Details](Q4qm1hvVR2A.md) (shared: `aks` · `integration` · `architecture`)
 - [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `architecture` · `kubernetes` · `deployment`)
 - [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) — Kubernetes · 18 views · Jan 2, 2026 · [Details](8ycnldvJmuA.md) (shared: `azure` · `architecture` · `kubernetes`)

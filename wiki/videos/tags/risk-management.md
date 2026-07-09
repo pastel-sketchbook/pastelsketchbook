@@ -2,7 +2,7 @@
 type: tag
 tags: [risk-management]
 sources: 3
-updated: 2026-07-07
+updated: 2026-07-10
 ---
 
 # risk management
@@ -16,4 +16,4 @@ Videos connected by the topic `risk management`.
 - [The Mathematics of Survival](https://youtu.be/J4nERLAJIbs) — Finance · 10 views · Jul 1, 2026 · [Details](../details/J4nERLAJIbs.md)
 
 ---
-*Auto-generated on Jul 7, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 10, 2026. Back to [topic index](index.md).*

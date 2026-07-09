@@ -37,7 +37,7 @@ This video dissects the software stack of a modern robot as a three-tier archite
 
 - [RB Simulation Architecture](https://youtu.be/AbCc2yfz2uw) — Development · 6 views · Jun 30, 2026 · [Details](AbCc2yfz2uw.md) (shared: `robotics` · `architecture` · `middleware`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `language` · `rust` · `systems`)
-- [The Rust Robotics Paradigm](https://youtu.be/gPnrk5TNKWg) — Development · 39 views · Jun 27, 2026 · [Details](gPnrk5TNKWg.md) (shared: `robotics` · `ros` · `zero-copy`)
+- [The Rust Robotics Paradigm](https://youtu.be/gPnrk5TNKWg) — Development · 49 views · Jun 27, 2026 · [Details](gPnrk5TNKWg.md) (shared: `robotics` · `ros` · `zero-copy`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `systems` · `programming`)
 - [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) — Development · 114 views · Feb 9, 2026 · [Details](qxOOl1hx1zU.md) (shared: `architecture` · `rust` · `programming`)
 

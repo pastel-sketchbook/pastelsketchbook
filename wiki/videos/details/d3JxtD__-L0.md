@@ -36,7 +36,7 @@ This session reimagines IBM's classic Java Robocode as a modern, data-driven eng
 ## Related Videos
 
 - [Beat - Anatomy of a Real-Time Visualizer](https://youtu.be/lin_ycbQGtE) — Development · 27 views · Mar 20, 2026 · [Details](lin_ycbQGtE.md) (shared: `bevy` · `engine` · `rust`)
-- [The Rust Robotics Paradigm](https://youtu.be/gPnrk5TNKWg) — Development · 39 views · Jun 27, 2026 · [Details](gPnrk5TNKWg.md) (shared: `bevy` · `ecs` · `rust`)
+- [The Rust Robotics Paradigm](https://youtu.be/gPnrk5TNKWg) — Development · 49 views · Jun 27, 2026 · [Details](gPnrk5TNKWg.md) (shared: `bevy` · `ecs` · `rust`)
 - [RB Simulation Architecture](https://youtu.be/AbCc2yfz2uw) — Development · 6 views · Jun 30, 2026 · [Details](AbCc2yfz2uw.md) (shared: `rust` · `deterministic` · `loop`)
 - [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 77 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `rust` · `architecture` · `trait`)
 - [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) — Development · 166 views · Mar 18, 2026 · [Details](_zJ3_d1CODg.md) (shared: `bevy` · `engine` · `rust`)

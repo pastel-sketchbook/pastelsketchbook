@@ -38,9 +38,9 @@ The Anatomy of a Giant is a botanical dossier on massive watermelons, tracing th
 
 - [The Pomology Field Guide](https://youtu.be/_LrmdP64y6A) — Finance · 21 views · Mar 19, 2026 · [Details](_LrmdP64y6A.md) (shared: `genetics`)
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `resistance`)
+- [Structural Pruning in State-Space Abstractions](https://youtu.be/BNznoJHQDW0) — Finance · 4 views · Jul 7, 2026 · [Details](BNznoJHQDW0.md) (shared: `weight`)
 - [A Trillion Transactions](https://youtu.be/oHdhgeF4wlI) — Kubernetes · 38 views · Apr 12, 2026 · [Details](oHdhgeF4wlI.md) (shared: `tolerance`)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 39 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `tolerance`)
-- [AEM + Meilisearch: A High-Performance Integration](https://youtu.be/KDnTY0Svmr0) — Development · 14 views · Feb 10, 2026 · [Details](KDnTY0Svmr0.md) (shared: `tolerance`)
 
 ---
 *Auto-generated on Jul 6, 2026. Back to [finance](../finance.md) · [index](../index.md).*

@@ -38,8 +38,8 @@ Compound Engineering is an AI-native software development philosophy that aims t
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 21 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `development` · `git`)
 - [The Art of Git Gardening](https://youtu.be/PNFlYx8HiOM) — Development · 16 views · Dec 31, 2025 · [Details](PNFlYx8HiOM.md) (shared: `development` · `git`)
 - [pastel-hn](https://youtu.be/cJl2cchaHL8) — Development · 58 views · Jan 24, 2026 · [Details](cJl2cchaHL8.md) (shared: `development` · `architectural`)
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 707 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `development` · `architectural`)
-- [The Agent-First Paradigm](https://youtu.be/ElxPa5vX9Kc) — Development · 20 views · Jun 17, 2026 · [Details](ElxPa5vX9Kc.md) (shared: `development` · `agentic`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 708 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `development` · `architectural`)
+- [The Agent-First Paradigm](https://youtu.be/ElxPa5vX9Kc) — Development · 21 views · Jun 17, 2026 · [Details](ElxPa5vX9Kc.md) (shared: `development` · `agentic`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -30,7 +30,7 @@ This video is a strategic guide to securing north-south and east-west traffic in
 
 ## Related Videos
 
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 63 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `zero` · `trust` · `istio`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 65 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `zero` · `trust` · `istio`)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 23 views · Apr 1, 2026 · [Details](BiYKKVsJROk.md) (shared: `zero` · `trust` · `istio`)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 23 views · Jan 14, 2026 · [Details](A4-foXsdQiA.md) (shared: `zero` · `trust` · `kubernetes`)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `zero` · `trust` · `kubernetes`)

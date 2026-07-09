@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T09:42:01.278Z",
-  "totalVideos": 414,
+  "generatedAt": "2026-07-10T08:52:19.825Z",
+  "totalVideos": 417,
   "categories": [
     {
       "name": "korea",
@@ -1453,12 +1453,12 @@
         "korea",
         "development"
       ],
-      "videoCount": 37,
-      "totalViews": 803,
+      "videoCount": 38,
+      "totalViews": 823,
       "topTags": [
         {
           "tag": "curiosity",
-          "count": 19
+          "count": 20
         },
         {
           "tag": "ai",
@@ -2169,9 +2169,72 @@
       ],
       "videos": [
         {
+          "id": "BNznoJHQDW0",
+          "title": "Structural Pruning in State-Space Abstractions",
+          "views": 4,
+          "date": "2026-07-07T23:00:33Z",
+          "category": "finance",
+          "tags": [
+            "curiosity"
+          ],
+          "detail": {
+            "summary": "This talk maps Baduk (Go) board heuristics onto algorithmic trading, modeling market structure as a dynamic weight graph whose nodes are historical price levels and whose edges are resting liquidity. It details a two-pass structural-pruning pipeline — a bitwise \"glance\" filter that discards roughly 95% of states, followed by A* or Jump Point Search on the refined subgraph — alongside a four-stage liquidity-trap playbook (macro filter, sweep, turn, profit path) and a regime-switching HMM gated by cointegration graphs to surface decoupled nodes and engineered liquidity pockets.",
+            "takeaways": [
+              "Baduk's ~250 legal moves per turn make brute-force search infeasible, so the system mimics a master's \"glance\" by pruning dead shapes via topological heuristics and macro abstractions rather than exhaustively walking the game-tree DAG.",
+              "Market structure is encoded as a dynamic weight graph (nodes = price levels, edges = resting liquidity) powering a \"glance filter\" that detects dense retail stop-loss clusters as engineered liquidity pockets or \"killing zones.\"",
+              "A four-stage long playbook — macro filter, sweep (stop run on high volume), turn (absorption with institutional buying-Delta displacement back above support), profit path (trapped shorts cover) — systematizes the liquidity-grab reversal.",
+              "The two-pass engine prunes ~95% of states with bitwise heuristic filters, then runs A*/Jump Point Search on the subgraph; portfolio construction layers a macro graph filter (whole-sector pruning) and correlation-graph neighbor down-weighting (>0.7 edges) for structural diversification.",
+              "Regime-switching HMMs paired with cointegration graphs gate reverse-trap execution to high-volatility liquidity-seeking regimes and expose decoupled nodes whose hidden structural strength survives sector-wide declines."
+            ],
+            "topics": [
+              "structural pruning state space",
+              "baduk go heuristics",
+              "dynamic weight graph liquidity",
+              "moyo formation bearish trap",
+              "regime switching hmm",
+              "cointegration graph anomalies",
+              "a star jump point search",
+              "portfolio graph diversification"
+            ],
+            "related": [
+              {
+                "id": "rjhabJ8Bx5U",
+                "sharedTopics": [
+                  "regime",
+                  "portfolio"
+                ]
+              },
+              {
+                "id": "bn-Nvmxgur8",
+                "sharedTopics": [
+                  "portfolio"
+                ]
+              },
+              {
+                "id": "MDNRiJN7aEg",
+                "sharedTopics": [
+                  "portfolio"
+                ]
+              },
+              {
+                "id": "hnMR8rdGCnU",
+                "sharedTopics": [
+                  "trap"
+                ]
+              },
+              {
+                "id": "HFmkEvxyJE4",
+                "sharedTopics": [
+                  "portfolio"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "u5hQQZsLBwU",
           "title": "The Anatomy of a Giant",
-          "views": 4,
+          "views": 20,
           "date": "2026-07-06T22:50:47Z",
           "category": "finance",
           "tags": [
@@ -2211,6 +2274,12 @@
                 ]
               },
               {
+                "id": "BNznoJHQDW0",
+                "sharedTopics": [
+                  "weight"
+                ]
+              },
+              {
                 "id": "oHdhgeF4wlI",
                 "sharedTopics": [
                   "tolerance"
@@ -2218,12 +2287,6 @@
               },
               {
                 "id": "INNKxTAagE4",
-                "sharedTopics": [
-                  "tolerance"
-                ]
-              },
-              {
-                "id": "KDnTY0Svmr0",
                 "sharedTopics": [
                   "tolerance"
                 ]
@@ -4592,8 +4655,8 @@
         "security",
         "development"
       ],
-      "videoCount": 75,
-      "totalViews": 2188,
+      "videoCount": 76,
+      "totalViews": 2217,
       "topTags": [
         {
           "tag": "aks",
@@ -4608,12 +4671,12 @@
           "count": 8
         },
         {
-          "tag": "istio",
+          "tag": "rabbitmq",
           "count": 7
         },
         {
-          "tag": "rabbitmq",
-          "count": 6
+          "tag": "istio",
+          "count": 7
         },
         {
           "tag": "aws",
@@ -5458,7 +5521,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 63,
+              "views": 65,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -6296,6 +6359,794 @@
                     "sharedTopics": [
                       "aks",
                       "lifecycle"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Messaging",
+          "videos": [
+            {
+              "id": "6XAbKoeK9JU",
+              "title": "RabbitMQ 4.2.8 Plugin Ecosystem",
+              "views": 13,
+              "date": "2026-07-08T23:00:34Z",
+              "category": "kubernetes",
+              "tags": [
+                "rabbitmq",
+                "plugins"
+              ],
+              "detail": {
+                "summary": "A Kubernetes- and AKS-targeted capability reference for the RabbitMQ 4.2.8 Alpine image, covering plugin lifecycle states (explicitly enabled, implicitly enabled as a dependency, or bundled-dormant) and an active core profile spanning management, Prometheus telemetry, OAuth2/peer-discovery, and Shovel-based message movement. It walks the auth backends (OAuth2 JWT, LDAP, HTTP, cache, SSL/TLS trust store, loopback), cross-broker routing (Shovel vs Federation), protocol bridges (AMQP 1.0, MQTT, STOMP, WebSockets), streams and custom routing, the three-step operator-driven enablement workflow, and a five-surface 360° verification strategy.",
+                "takeaways": [
+                  "Only top-level plugins need explicit enablement via `spec.rabbitMQ.additionalPlugins`; dependencies such as management_agent, web_dispatch, and peer_discovery_common are resolved and activated automatically by the operator.",
+                  "The active core profile pairs management (HTTP API + web UI on 15672) with Prometheus metrics on /metrics:15692, OAuth2 JWT auth against providers like Azure AD, Kubernetes headless-service peer discovery, and Shovel for dead-letter-queue replay.",
+                  "Auth backends span OAuth2, LDAP/Active Directory, HTTP delegation, a cache booster, SSL/TLS client-certificate auth with a dynamic runtime trust store (no broker restart), and a loopback backend that forces external auth for non-local clients.",
+                  "Cross-broker needs split between Shovel (point-to-point DLQ replay, static + dynamic) and Federation (geo-distribution, multi-DC HA/DR), while protocols extend beyond AMQP 0-9-1 to AMQP 1.0, MQTT 3.1.1/5.0, STOMP, and WebSockets.",
+                  "Enablement is declare (CR) → `kubectl apply` → operator updates the plugins ConfigMap, with block storage (AKS) applying changes automatically but NFS-backed clusters requiring a rolling restart; verify via CLI, management UI, ConfigMap, management API, and Prometheus metrics."
+                ],
+                "topics": [
+                  "rabbitmq plugin lifecycle",
+                  "kubernetes operator reconcile",
+                  "oauth2 jwt authentication",
+                  "prometheus metrics scraping",
+                  "shovel dead letter replay",
+                  "federation geo distribution",
+                  "amqp mqtt stomp protocols",
+                  "rabbitmq streams"
+                ],
+                "related": [
+                  {
+                    "id": "0U-SUJCmKAU",
+                    "sharedTopics": [
+                      "rabbitmq",
+                      "kubernetes"
+                    ]
+                  },
+                  {
+                    "id": "N4nRAfBZ3BE",
+                    "sharedTopics": [
+                      "rabbitmq",
+                      "kubernetes"
+                    ]
+                  },
+                  {
+                    "id": "7iWL5-0C66s",
+                    "sharedTopics": [
+                      "rabbitmq",
+                      "distribution"
+                    ]
+                  },
+                  {
+                    "id": "to1PClyd0YA",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "prometheus"
+                    ]
+                  },
+                  {
+                    "id": "a8heWpae5p0",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "operator"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "sZRIbxwHSCo",
+              "title": "Engineering High-Performance Distributed Systems with Rust and AWS",
+              "views": 6,
+              "date": "2026-06-10T23:45:04Z",
+              "category": "kubernetes",
+              "tags": [
+                "aws",
+                "messaging",
+                "sqs",
+                "kinesis"
+              ],
+              "detail": {
+                "summary": "This session evaluates AWS messaging services through native Rust SDK implementations, leveraging Tokio's async runtime, deterministic execution without GC pauses, and lean modular crates. It compares SQS, Kinesis, EventBridge, and Amazon MQ across synchronous and asynchronous communication patterns, then closes with cost optimization (long polling) and the transactional outbox pattern for reliable event publishing.",
+                "takeaways": [
+                  "The native Rust SDK paradigm delivers deterministic execution, microscopic memory footprints, and lean artifacts via per-service crates compiled only when needed.",
+                  "SQS long polling (`wait_time_seconds = 20`) maintains a single persistent TCP session, cutting daily API requests from 86,400 to 4,320 — a ~95% cost reduction.",
+                  "Kinesis HTTP/2 Enhanced Fan-Out pushes data to consumers with multiplexing, HPACK compression, and window-update flow control to prevent client memory overflow.",
+                  "Amazon MQ separates planes: the AWS SDK handles provisioning only, while wire-level crates (lapin for AMQP, rumqttc for MQTT, stomp-rs) carry data over raw TCP/TLS.",
+                  "The transactional outbox pattern atomically commits business data and an outbox event, then a Tokio background worker publishes and marks records sent for at-least-once delivery."
+                ],
+                "topics": [
+                  "native rust aws sdk",
+                  "tokio async runtime",
+                  "sqs long polling",
+                  "kinesis enhanced fan-out",
+                  "eventbridge choreography",
+                  "amazon mq wire protocols",
+                  "transactional outbox pattern",
+                  "dual write dilemma"
+                ],
+                "related": [
+                  {
+                    "id": "LxI5YjCUswI",
+                    "sharedTopics": [
+                      "native",
+                      "rust",
+                      "wire",
+                      "write"
+                    ]
+                  },
+                  {
+                    "id": "js95nIDeA-c",
+                    "sharedTopics": [
+                      "rust",
+                      "tokio async runtime",
+                      "tokio",
+                      "async",
+                      "runtime"
+                    ]
+                  },
+                  {
+                    "id": "F59lTcC6xJ0",
+                    "sharedTopics": [
+                      "rust",
+                      "tokio async runtime",
+                      "tokio",
+                      "async",
+                      "runtime"
+                    ]
+                  },
+                  {
+                    "id": "0Sed1oggMKY",
+                    "sharedTopics": [
+                      "rust",
+                      "tokio",
+                      "async",
+                      "runtime"
+                    ]
+                  },
+                  {
+                    "id": "90hw9qwXbbw",
+                    "sharedTopics": [
+                      "rust",
+                      "tokio",
+                      "async",
+                      "runtime"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "V9tvg6Yg3m4",
+              "title": "From Consensus Physics to Messaging Engineering",
+              "views": 47,
+              "date": "2026-05-07T22:45:08Z",
+              "category": "kubernetes",
+              "tags": [
+                "rabbitmq",
+                "raft",
+                "quorum"
+              ],
+              "detail": {
+                "summary": "A visual breakdown of the Raft consensus algorithm and its concrete implementation within RabbitMQ quorum queues. The video walks through how distributed systems maintain shared state across nodes through strict centralized leadership, log replication with majority quorum commits, and leader election via randomized timeouts — then maps these Raft primitives directly onto RabbitMQ's quorum queue architecture for reliable messaging in production Kubernetes environments.",
+                "takeaways": [
+                  "Raft achieves consensus through strict centralized leadership: a single elected leader manages all state changes and replicates them to follower nodes.",
+                  "Log entries are committed only after a majority quorum of nodes acknowledges the write, ensuring consistency even when individual nodes fail.",
+                  "Leader election uses randomized timeouts to avoid split-vote scenarios, with candidates requesting votes from peers and winning by majority.",
+                  "RabbitMQ quorum queues implement Raft directly, mapping the consensus log to a durable message queue with automatic leader failover across cluster nodes.",
+                  "Understanding the interaction between Raft's theoretical guarantees and RabbitMQ's engineering tradeoffs is essential for designing reliable messaging in distributed Kubernetes deployments."
+                ],
+                "topics": [
+                  "raft consensus algorithm",
+                  "distributed systems consensus",
+                  "rabbitmq quorum queues",
+                  "leader election protocol",
+                  "log replication quorum",
+                  "messaging system reliability",
+                  "kubernetes distributed messaging"
+                ],
+                "related": [
+                  {
+                    "id": "a8heWpae5p0",
+                    "sharedTopics": [
+                      "raft",
+                      "consensus",
+                      "distributed",
+                      "log",
+                      "kubernetes"
+                    ]
+                  },
+                  {
+                    "id": "WRpjJV4SUKc",
+                    "sharedTopics": [
+                      "distributed",
+                      "rabbitmq",
+                      "log",
+                      "replication",
+                      "kubernetes"
+                    ]
+                  },
+                  {
+                    "id": "QE51ybyrQDM",
+                    "sharedTopics": [
+                      "distributed",
+                      "systems",
+                      "messaging"
+                    ]
+                  },
+                  {
+                    "id": "N4nRAfBZ3BE",
+                    "sharedTopics": [
+                      "rabbitmq",
+                      "messaging",
+                      "kubernetes"
+                    ]
+                  },
+                  {
+                    "id": "oHdhgeF4wlI",
+                    "sharedTopics": [
+                      "distributed",
+                      "systems",
+                      "system"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "KdLQEv3Tiiw",
+              "title": "Mastering Hybrid CDC Architectures",
+              "views": 21,
+              "date": "2026-04-08T02:45:20Z",
+              "category": "kubernetes",
+              "tags": [
+                "debezium",
+                "rabbitmq",
+                "kubenetes",
+                "cdc",
+                "hybrid"
+              ],
+              "detail": {
+                "summary": "This video covers hybrid Change Data Capture (CDC) architectures using Debezium to stream events from on-premises SQL Server through RabbitMQ into a cloud-based Kubernetes cluster. The architecture spans three zones: on-premises SQL Server source, a hybrid low-latency network bridge, and a cloud Kubernetes cluster with persistent storage. The presentation provides deep dives into Kubernetes stateful storage (PersistentVolumeClaims, PersistentVolumes) and how they decouple compute from data to maintain state across pod restarts.",
+                "takeaways": [
+                  "Debezium captures every insert, update, and delete event from SQL Server database logs and streams them through RabbitMQ for downstream consumption in a Kubernetes cluster.",
+                  "The architecture spans three zones: on-premises SQL Server (zone 1), hybrid low-latency network bridge (zone 2), and cloud Kubernetes cluster with persistent storage (zone 3).",
+                  "Kubernetes PersistentVolumeClaims (PVCs) decouple compute from data, allowing pods to restart without losing CDC engine state.",
+                  "The hybrid bridge between on-premises and cloud must be designed for low latency and secure transmission to maintain real-time data streaming fidelity."
+                ],
+                "topics": [
+                  "change data capture",
+                  "debezium",
+                  "rabbitmq",
+                  "kubernetes persistent storage",
+                  "hybrid cloud architecture",
+                  "sql server cdc",
+                  "stateful workloads"
+                ],
+                "related": [
+                  {
+                    "id": "0U-SUJCmKAU",
+                    "sharedTopics": [
+                      "rabbitmq",
+                      "kubernetes",
+                      "persistent",
+                      "storage",
+                      "stateful workloads"
+                    ]
+                  },
+                  {
+                    "id": "WRpjJV4SUKc",
+                    "sharedTopics": [
+                      "change data capture",
+                      "change",
+                      "data",
+                      "capture",
+                      "debezium"
+                    ]
+                  },
+                  {
+                    "id": "tcrNdx1yH_E",
+                    "sharedTopics": [
+                      "change data capture",
+                      "change",
+                      "data",
+                      "capture",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "am9FvNiJ24M",
+                    "sharedTopics": [
+                      "change data capture",
+                      "change",
+                      "data",
+                      "capture",
+                      "debezium"
+                    ]
+                  },
+                  {
+                    "id": "nomIVRSBEG4",
+                    "sharedTopics": [
+                      "change data capture",
+                      "change",
+                      "data",
+                      "capture",
+                      "cdc"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "WRpjJV4SUKc",
+              "title": "Architecting Real-Time State",
+              "views": 75,
+              "date": "2026-04-05T12:14:36Z",
+              "category": "kubernetes",
+              "tags": [
+                "cdc",
+                "debezium",
+                "rabbitmq",
+                "outbox"
+              ],
+              "detail": {
+                "summary": "This video outlines a technical blueprint for architecting real-time state synchronization using Debezium for log-based Change Data Capture (CDC) and RabbitMQ as a message broker within Kubernetes. The session argues that log-based CDC is superior to query-based polling because it captures every state change, including hard deletes, with minimal impact on the source database.",
+                "takeaways": [
+                  "Log-based CDC via Debezium provides millisecond latency and high-fidelity data capture by reading transaction logs like the Postgres WAL or MySQL binlog, avoiding the performance penalties of traditional polling.",
+                  "The Debezium standalone topology enables streaming directly to RabbitMQ, bypassing the operational overhead of managing a Kafka cluster while utilizing RabbitMQ's topic exchanges for flexible wildcard-based routing.",
+                  "Stateful management in Kubernetes is critical; Debezium offsets must be stored in persistent volumes to ensure the connector can resume from the exact point in the transaction log after pod restarts.",
+                  "To prevent critical system failures, teams must monitor replication slot lag, as a stalled connector can cause transaction logs to accumulate and rapidly exhaust database disk space.",
+                  "Downstream consumers must be designed for idempotency to handle Debezium's 'at-least-once' delivery guarantee and prevent data inconsistency during retries."
+                ],
+                "topics": [
+                  "change data capture (cdc)",
+                  "debezium standalone",
+                  "rabbitmq topic exchange",
+                  "outbox pattern",
+                  "kubernetes persistent volumes",
+                  "replication slot lag",
+                  "write-ahead log",
+                  "distributed tracing"
+                ],
+                "related": [
+                  {
+                    "id": "KdLQEv3Tiiw",
+                    "sharedTopics": [
+                      "change data capture",
+                      "cdc",
+                      "change",
+                      "data",
+                      "capture"
+                    ]
+                  },
+                  {
+                    "id": "am9FvNiJ24M",
+                    "sharedTopics": [
+                      "change data capture",
+                      "change",
+                      "data",
+                      "capture",
+                      "debezium"
+                    ]
+                  },
+                  {
+                    "id": "nomIVRSBEG4",
+                    "sharedTopics": [
+                      "change data capture",
+                      "cdc",
+                      "change",
+                      "data",
+                      "capture"
+                    ]
+                  },
+                  {
+                    "id": "a8heWpae5p0",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "write-ahead log",
+                      "write-ahead",
+                      "log",
+                      "distributed"
+                    ]
+                  },
+                  {
+                    "id": "V9tvg6Yg3m4",
+                    "sharedTopics": [
+                      "rabbitmq",
+                      "kubernetes",
+                      "replication",
+                      "log",
+                      "distributed"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "7iWL5-0C66s",
+              "title": "Bridging the Mainframe to the Cloud",
+              "views": 26,
+              "date": "2026-04-04T10:58:19Z",
+              "category": "kubernetes",
+              "tags": [
+                "mainframe",
+                "ibm mq",
+                "shovel",
+                "rabbitmq"
+              ],
+              "detail": {
+                "summary": "This session presents a zero-impact architecture for distributing enterprise data from legacy mainframes to cloud-native environments using IBM MQ and RabbitMQ as a decoupling bridge. The approach avoids exposing expensive mainframe MIPS directly to volatile cloud workloads, instead implementing a four-part pipeline for safe extraction and real-time data distribution.",
+                "takeaways": [
+                  "Direct mainframe-to-cloud connections create unpredictable costs and performance bottlenecks due to the mainframe's MIPS-based pricing model.",
+                  "IBM MQ serves as the mainframe-side message broker while RabbitMQ handles cloud-side distribution, creating a strategic decoupling layer.",
+                  "The four-part pipeline safely extracts legacy data without impacting mission-critical mainframe operations.",
+                  "This architecture enables real-time data flow between on-premises and cloud while preserving mainframe stability and data integrity."
+                ],
+                "topics": [
+                  "mainframe modernization",
+                  "ibm mq",
+                  "rabbitmq",
+                  "enterprise data distribution",
+                  "message broker pipeline",
+                  "cloud migration"
+                ],
+                "related": [
+                  {
+                    "id": "KdLQEv3Tiiw",
+                    "sharedTopics": [
+                      "rabbitmq",
+                      "data",
+                      "cloud"
+                    ]
+                  },
+                  {
+                    "id": "nJ10P-fRqZQ",
+                    "sharedTopics": [
+                      "cloud",
+                      "migration"
+                    ]
+                  },
+                  {
+                    "id": "P_xUJi_qt-Q",
+                    "sharedTopics": [
+                      "data",
+                      "migration"
+                    ]
+                  },
+                  {
+                    "id": "RLlEbcXO6k8",
+                    "sharedTopics": [
+                      "cloud",
+                      "migration"
+                    ]
+                  },
+                  {
+                    "id": "uU46ltIELqk",
+                    "sharedTopics": [
+                      "enterprise",
+                      "pipeline",
+                      "cloud"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "tcrNdx1yH_E",
+              "title": "Continuous Flow",
+              "views": 15,
+              "date": "2026-03-22T14:47:34Z",
+              "category": "kubernetes",
+              "tags": [
+                "azure",
+                "event hubs",
+                "sql mi",
+                "ces"
+              ],
+              "detail": {
+                "summary": "This video presents an architecture for streaming change events from Azure SQL Managed Instance to Azure Event Hubs, replacing traditional polling-based ETL with real-time event-driven data propagation. It explains the event-driven decoupler pattern for breaking down monolithic applications, eliminating the latency, dual-write complexity, and high database overhead inherent in polling mechanisms. The architecture enables downstream consumers to react immediately to database changes through a scalable Event Hubs buffer.",
+                "takeaways": [
+                  "Traditional polling creates heavy ETL overhead, dual-write complexity, and inherent latency since data freshness is limited to the polling interval.",
+                  "Azure SQL Managed Instance's change event streaming pushes data changes in real time to Azure Event Hubs, eliminating the need for periodic database queries.",
+                  "The event-driven decoupler pattern breaks monolithic applications into loosely coupled components that communicate through change events rather than direct database access.",
+                  "Azure Event Hubs acts as a scalable buffer between the source database and downstream consumers, ensuring the entire ecosystem stays synchronized in near real-time."
+                ],
+                "topics": [
+                  "change data capture",
+                  "azure event hubs",
+                  "azure sql managed instance",
+                  "event-driven architecture",
+                  "real-time streaming",
+                  "etl replacement"
+                ],
+                "related": [
+                  {
+                    "id": "N4nRAfBZ3BE",
+                    "sharedTopics": [
+                      "azure event hubs",
+                      "azure",
+                      "event",
+                      "hubs",
+                      "event-driven"
+                    ]
+                  },
+                  {
+                    "id": "VxWyvAO3qb8",
+                    "sharedTopics": [
+                      "azure event hubs",
+                      "azure",
+                      "event",
+                      "hubs",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "KdLQEv3Tiiw",
+                    "sharedTopics": [
+                      "change data capture",
+                      "change",
+                      "data",
+                      "capture",
+                      "sql"
+                    ]
+                  },
+                  {
+                    "id": "5Ztm7JNVa8E",
+                    "sharedTopics": [
+                      "data",
+                      "event-driven architecture",
+                      "event-driven",
+                      "architecture",
+                      "real-time"
+                    ]
+                  },
+                  {
+                    "id": "am9FvNiJ24M",
+                    "sharedTopics": [
+                      "change data capture",
+                      "change",
+                      "data",
+                      "capture",
+                      "real-time"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "0U-SUJCmKAU",
+              "title": "From Stateful to Secure",
+              "views": 47,
+              "date": "2026-01-16T06:38:21Z",
+              "category": "kubernetes",
+              "tags": [
+                "stateful",
+                "kubernetes",
+                "rabbitmq",
+                "mtls"
+              ],
+              "detail": {
+                "summary": "This video presents a four-stage blueprint for deploying, exposing, and securing RabbitMQ on Azure Kubernetes Service (AKS), progressing from foundational data persistence through reliable high-availability deployment, secure service exposure, and finally zero trust fortification. It serves as a comprehensive production journey for managing stateful workloads on Kubernetes.",
+                "takeaways": [
+                  "Stage 1 (Foundation) focuses on data persistence and storage configuration to ensure message durability and recoverability.",
+                  "Stage 2 (Architecture) designs the RabbitMQ cluster for high availability and resilience to handle real-world production demands.",
+                  "Stage 3 (Accessibility) implements secure exposure strategies that balance external connectivity with strict access control.",
+                  "Stage 4 (Fortification) applies zero trust security principles to verify every interaction within the cluster."
+                ],
+                "topics": [
+                  "rabbitmq on kubernetes",
+                  "aks",
+                  "stateful workloads",
+                  "zero trust",
+                  "persistent storage",
+                  "high availability"
+                ],
+                "related": [
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "zero trust",
+                      "zero",
+                      "trust",
+                      "persistent storage"
+                    ]
+                  },
+                  {
+                    "id": "KdLQEv3Tiiw",
+                    "sharedTopics": [
+                      "rabbitmq",
+                      "kubernetes",
+                      "stateful workloads",
+                      "stateful",
+                      "workloads"
+                    ]
+                  },
+                  {
+                    "id": "BiYKKVsJROk",
+                    "sharedTopics": [
+                      "aks",
+                      "zero trust",
+                      "zero",
+                      "trust"
+                    ]
+                  },
+                  {
+                    "id": "A4-foXsdQiA",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "zero trust",
+                      "zero",
+                      "trust"
+                    ]
+                  },
+                  {
+                    "id": "KpSjLQpswW4",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "zero trust",
+                      "zero",
+                      "trust"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "VxWyvAO3qb8",
+              "title": "The Two-System Pattern",
+              "views": 14,
+              "date": "2026-01-15T12:59:07Z",
+              "category": "kubernetes",
+              "tags": [
+                "nats",
+                "azure event hubs",
+                "aks",
+                "bridge"
+              ],
+              "detail": {
+                "summary": "This video presents a reference architecture for integrating NATS as an internal cluster messaging system on Azure Kubernetes Service with Azure Event Hubs as an enterprise gateway. The \"two-system pattern\" separates east-west traffic (low-latency intra-cluster communication via NATS) from north-south traffic (durable, large-scale event streaming via Event Hubs). A bridge layer connects the two, achieving both local speed and global scalability.",
+                "takeaways": [
+                  "NATS handles east-west intra-cluster messaging with high performance and low latency within an AKS cluster.",
+                  "Azure Event Hubs serves as the enterprise gateway for north-south traffic, providing durable long-term event streaming.",
+                  "The bridge layer between NATS and Event Hubs enables seamless data flow between internal microservices and external enterprise systems.",
+                  "This pattern separates concerns by traffic direction, allowing each messaging system to optimize for its specific workload."
+                ],
+                "topics": [
+                  "nats messaging",
+                  "azure event hubs",
+                  "aks architecture",
+                  "east-west traffic",
+                  "north-south traffic",
+                  "event streaming"
+                ],
+                "related": [
+                  {
+                    "id": "N4nRAfBZ3BE",
+                    "sharedTopics": [
+                      "nats",
+                      "messaging",
+                      "azure event hubs",
+                      "azure",
+                      "event"
+                    ]
+                  },
+                  {
+                    "id": "tcrNdx1yH_E",
+                    "sharedTopics": [
+                      "azure event hubs",
+                      "azure",
+                      "event",
+                      "hubs",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "azure",
+                      "aks",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "C6wLm6NRZW4",
+                    "sharedTopics": [
+                      "azure",
+                      "aks"
+                    ]
+                  },
+                  {
+                    "id": "C5HqbzLRYZ0",
+                    "sharedTopics": [
+                      "aks",
+                      "traffic"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "N4nRAfBZ3BE",
+              "title": "Choosing Your Messaging Fabric on AKS",
+              "views": 5,
+              "date": "2026-01-10T21:55:01Z",
+              "category": "kubernetes",
+              "tags": [
+                "messaging",
+                "aks",
+                "nats",
+                "azure event hubs",
+                "rabbitmq"
+              ],
+              "detail": {
+                "summary": "This architectural decision guide compares self-managed message brokers (RabbitMQ, NATS) versus managed PaaS offerings (Azure Service Bus, Azure Event Hubs) for asynchronous communication on Azure Kubernetes Service. The core trade-off is operational control versus managed simplicity: self-managed brokers provide full configuration and topology control but require deep DevOps expertise for monitoring, patching, and disaster recovery, while managed services shift that operational burden to Azure at the cost of less granular control.",
+                "takeaways": [
+                  "Self-managed brokers like RabbitMQ and NATS on AKS provide full control over configuration, tuning, and topology but require specialized DevOps staffing for day-2 operations including patching and disaster recovery.",
+                  "Managed services like Azure Service Bus and Event Hubs eliminate operational overhead but reduce granular control over broker internals and introduce vendor lock-in.",
+                  "The decision is fundamentally about operational ownership: who is responsible for monitoring, scaling, and recovering the messaging layer when things fail.",
+                  "Loss of internal DevOps knowledge for self-managed brokers creates organizational risk that managed services inherently mitigate."
+                ],
+                "topics": [
+                  "azure kubernetes service",
+                  "rabbitmq",
+                  "nats",
+                  "azure service bus",
+                  "azure event hubs",
+                  "messaging architecture",
+                  "event-driven design"
+                ],
+                "related": [
+                  {
+                    "id": "VxWyvAO3qb8",
+                    "sharedTopics": [
+                      "azure",
+                      "nats",
+                      "azure event hubs",
+                      "event",
+                      "hubs"
+                    ]
+                  },
+                  {
+                    "id": "tcrNdx1yH_E",
+                    "sharedTopics": [
+                      "azure",
+                      "azure event hubs",
+                      "event",
+                      "hubs",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "8ycnldvJmuA",
+                    "sharedTopics": [
+                      "azure kubernetes service",
+                      "azure",
+                      "kubernetes",
+                      "service",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "P_xUJi_qt-Q",
+                    "sharedTopics": [
+                      "service",
+                      "architecture",
+                      "event-driven design",
+                      "event-driven",
+                      "design"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "azure kubernetes service",
+                      "azure",
+                      "kubernetes",
+                      "service"
                     ]
                   }
                 ]
@@ -8093,7 +8944,7 @@
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 67,
+              "views": 68,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -8370,726 +9221,6 @@
                     "sharedTopics": [
                       "aks",
                       "istio"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "N4nRAfBZ3BE",
-              "title": "Choosing Your Messaging Fabric on AKS",
-              "views": 5,
-              "date": "2026-01-10T21:55:01Z",
-              "category": "kubernetes",
-              "tags": [
-                "messaging",
-                "aks",
-                "nats",
-                "azure event hubs",
-                "rabbitmq"
-              ],
-              "detail": {
-                "summary": "This architectural decision guide compares self-managed message brokers (RabbitMQ, NATS) versus managed PaaS offerings (Azure Service Bus, Azure Event Hubs) for asynchronous communication on Azure Kubernetes Service. The core trade-off is operational control versus managed simplicity: self-managed brokers provide full configuration and topology control but require deep DevOps expertise for monitoring, patching, and disaster recovery, while managed services shift that operational burden to Azure at the cost of less granular control.",
-                "takeaways": [
-                  "Self-managed brokers like RabbitMQ and NATS on AKS provide full control over configuration, tuning, and topology but require specialized DevOps staffing for day-2 operations including patching and disaster recovery.",
-                  "Managed services like Azure Service Bus and Event Hubs eliminate operational overhead but reduce granular control over broker internals and introduce vendor lock-in.",
-                  "The decision is fundamentally about operational ownership: who is responsible for monitoring, scaling, and recovering the messaging layer when things fail.",
-                  "Loss of internal DevOps knowledge for self-managed brokers creates organizational risk that managed services inherently mitigate."
-                ],
-                "topics": [
-                  "azure kubernetes service",
-                  "rabbitmq",
-                  "nats",
-                  "azure service bus",
-                  "azure event hubs",
-                  "messaging architecture",
-                  "event-driven design"
-                ],
-                "related": [
-                  {
-                    "id": "VxWyvAO3qb8",
-                    "sharedTopics": [
-                      "azure",
-                      "nats",
-                      "azure event hubs",
-                      "event",
-                      "hubs"
-                    ]
-                  },
-                  {
-                    "id": "tcrNdx1yH_E",
-                    "sharedTopics": [
-                      "azure",
-                      "azure event hubs",
-                      "event",
-                      "hubs",
-                      "architecture"
-                    ]
-                  },
-                  {
-                    "id": "8ycnldvJmuA",
-                    "sharedTopics": [
-                      "azure kubernetes service",
-                      "azure",
-                      "kubernetes",
-                      "service",
-                      "architecture"
-                    ]
-                  },
-                  {
-                    "id": "P_xUJi_qt-Q",
-                    "sharedTopics": [
-                      "service",
-                      "architecture",
-                      "event-driven design",
-                      "event-driven",
-                      "design"
-                    ]
-                  },
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "azure kubernetes service",
-                      "azure",
-                      "kubernetes",
-                      "service"
-                    ]
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "name": "Messaging",
-          "videos": [
-            {
-              "id": "sZRIbxwHSCo",
-              "title": "Engineering High-Performance Distributed Systems with Rust and AWS",
-              "views": 4,
-              "date": "2026-06-10T23:45:04Z",
-              "category": "kubernetes",
-              "tags": [
-                "aws",
-                "messaging",
-                "sqs",
-                "kinesis"
-              ],
-              "detail": {
-                "summary": "This session evaluates AWS messaging services through native Rust SDK implementations, leveraging Tokio's async runtime, deterministic execution without GC pauses, and lean modular crates. It compares SQS, Kinesis, EventBridge, and Amazon MQ across synchronous and asynchronous communication patterns, then closes with cost optimization (long polling) and the transactional outbox pattern for reliable event publishing.",
-                "takeaways": [
-                  "The native Rust SDK paradigm delivers deterministic execution, microscopic memory footprints, and lean artifacts via per-service crates compiled only when needed.",
-                  "SQS long polling (`wait_time_seconds = 20`) maintains a single persistent TCP session, cutting daily API requests from 86,400 to 4,320 — a ~95% cost reduction.",
-                  "Kinesis HTTP/2 Enhanced Fan-Out pushes data to consumers with multiplexing, HPACK compression, and window-update flow control to prevent client memory overflow.",
-                  "Amazon MQ separates planes: the AWS SDK handles provisioning only, while wire-level crates (lapin for AMQP, rumqttc for MQTT, stomp-rs) carry data over raw TCP/TLS.",
-                  "The transactional outbox pattern atomically commits business data and an outbox event, then a Tokio background worker publishes and marks records sent for at-least-once delivery."
-                ],
-                "topics": [
-                  "native rust aws sdk",
-                  "tokio async runtime",
-                  "sqs long polling",
-                  "kinesis enhanced fan-out",
-                  "eventbridge choreography",
-                  "amazon mq wire protocols",
-                  "transactional outbox pattern",
-                  "dual write dilemma"
-                ],
-                "related": [
-                  {
-                    "id": "LxI5YjCUswI",
-                    "sharedTopics": [
-                      "native",
-                      "rust",
-                      "wire",
-                      "write"
-                    ]
-                  },
-                  {
-                    "id": "js95nIDeA-c",
-                    "sharedTopics": [
-                      "rust",
-                      "tokio async runtime",
-                      "tokio",
-                      "async",
-                      "runtime"
-                    ]
-                  },
-                  {
-                    "id": "F59lTcC6xJ0",
-                    "sharedTopics": [
-                      "rust",
-                      "tokio async runtime",
-                      "tokio",
-                      "async",
-                      "runtime"
-                    ]
-                  },
-                  {
-                    "id": "0Sed1oggMKY",
-                    "sharedTopics": [
-                      "rust",
-                      "tokio",
-                      "async",
-                      "runtime"
-                    ]
-                  },
-                  {
-                    "id": "90hw9qwXbbw",
-                    "sharedTopics": [
-                      "rust",
-                      "tokio",
-                      "async",
-                      "runtime"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "V9tvg6Yg3m4",
-              "title": "From Consensus Physics to Messaging Engineering",
-              "views": 47,
-              "date": "2026-05-07T22:45:08Z",
-              "category": "kubernetes",
-              "tags": [
-                "rabbitmq",
-                "raft",
-                "quorum"
-              ],
-              "detail": {
-                "summary": "A visual breakdown of the Raft consensus algorithm and its concrete implementation within RabbitMQ quorum queues. The video walks through how distributed systems maintain shared state across nodes through strict centralized leadership, log replication with majority quorum commits, and leader election via randomized timeouts — then maps these Raft primitives directly onto RabbitMQ's quorum queue architecture for reliable messaging in production Kubernetes environments.",
-                "takeaways": [
-                  "Raft achieves consensus through strict centralized leadership: a single elected leader manages all state changes and replicates them to follower nodes.",
-                  "Log entries are committed only after a majority quorum of nodes acknowledges the write, ensuring consistency even when individual nodes fail.",
-                  "Leader election uses randomized timeouts to avoid split-vote scenarios, with candidates requesting votes from peers and winning by majority.",
-                  "RabbitMQ quorum queues implement Raft directly, mapping the consensus log to a durable message queue with automatic leader failover across cluster nodes.",
-                  "Understanding the interaction between Raft's theoretical guarantees and RabbitMQ's engineering tradeoffs is essential for designing reliable messaging in distributed Kubernetes deployments."
-                ],
-                "topics": [
-                  "raft consensus algorithm",
-                  "distributed systems consensus",
-                  "rabbitmq quorum queues",
-                  "leader election protocol",
-                  "log replication quorum",
-                  "messaging system reliability",
-                  "kubernetes distributed messaging"
-                ],
-                "related": [
-                  {
-                    "id": "a8heWpae5p0",
-                    "sharedTopics": [
-                      "raft",
-                      "consensus",
-                      "distributed",
-                      "log",
-                      "kubernetes"
-                    ]
-                  },
-                  {
-                    "id": "WRpjJV4SUKc",
-                    "sharedTopics": [
-                      "distributed",
-                      "rabbitmq",
-                      "log",
-                      "replication",
-                      "kubernetes"
-                    ]
-                  },
-                  {
-                    "id": "QE51ybyrQDM",
-                    "sharedTopics": [
-                      "distributed",
-                      "systems",
-                      "messaging"
-                    ]
-                  },
-                  {
-                    "id": "N4nRAfBZ3BE",
-                    "sharedTopics": [
-                      "rabbitmq",
-                      "messaging",
-                      "kubernetes"
-                    ]
-                  },
-                  {
-                    "id": "oHdhgeF4wlI",
-                    "sharedTopics": [
-                      "distributed",
-                      "systems",
-                      "system"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "KdLQEv3Tiiw",
-              "title": "Mastering Hybrid CDC Architectures",
-              "views": 21,
-              "date": "2026-04-08T02:45:20Z",
-              "category": "kubernetes",
-              "tags": [
-                "debezium",
-                "rabbitmq",
-                "kubenetes",
-                "cdc",
-                "hybrid"
-              ],
-              "detail": {
-                "summary": "This video covers hybrid Change Data Capture (CDC) architectures using Debezium to stream events from on-premises SQL Server through RabbitMQ into a cloud-based Kubernetes cluster. The architecture spans three zones: on-premises SQL Server source, a hybrid low-latency network bridge, and a cloud Kubernetes cluster with persistent storage. The presentation provides deep dives into Kubernetes stateful storage (PersistentVolumeClaims, PersistentVolumes) and how they decouple compute from data to maintain state across pod restarts.",
-                "takeaways": [
-                  "Debezium captures every insert, update, and delete event from SQL Server database logs and streams them through RabbitMQ for downstream consumption in a Kubernetes cluster.",
-                  "The architecture spans three zones: on-premises SQL Server (zone 1), hybrid low-latency network bridge (zone 2), and cloud Kubernetes cluster with persistent storage (zone 3).",
-                  "Kubernetes PersistentVolumeClaims (PVCs) decouple compute from data, allowing pods to restart without losing CDC engine state.",
-                  "The hybrid bridge between on-premises and cloud must be designed for low latency and secure transmission to maintain real-time data streaming fidelity."
-                ],
-                "topics": [
-                  "change data capture",
-                  "debezium",
-                  "rabbitmq",
-                  "kubernetes persistent storage",
-                  "hybrid cloud architecture",
-                  "sql server cdc",
-                  "stateful workloads"
-                ],
-                "related": [
-                  {
-                    "id": "0U-SUJCmKAU",
-                    "sharedTopics": [
-                      "rabbitmq",
-                      "kubernetes",
-                      "persistent",
-                      "storage",
-                      "stateful workloads"
-                    ]
-                  },
-                  {
-                    "id": "WRpjJV4SUKc",
-                    "sharedTopics": [
-                      "change data capture",
-                      "change",
-                      "data",
-                      "capture",
-                      "debezium"
-                    ]
-                  },
-                  {
-                    "id": "tcrNdx1yH_E",
-                    "sharedTopics": [
-                      "change data capture",
-                      "change",
-                      "data",
-                      "capture",
-                      "architecture"
-                    ]
-                  },
-                  {
-                    "id": "am9FvNiJ24M",
-                    "sharedTopics": [
-                      "change data capture",
-                      "change",
-                      "data",
-                      "capture",
-                      "debezium"
-                    ]
-                  },
-                  {
-                    "id": "nomIVRSBEG4",
-                    "sharedTopics": [
-                      "change data capture",
-                      "change",
-                      "data",
-                      "capture",
-                      "cdc"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "WRpjJV4SUKc",
-              "title": "Architecting Real-Time State",
-              "views": 75,
-              "date": "2026-04-05T12:14:36Z",
-              "category": "kubernetes",
-              "tags": [
-                "cdc",
-                "debezium",
-                "rabbitmq",
-                "outbox"
-              ],
-              "detail": {
-                "summary": "This video outlines a technical blueprint for architecting real-time state synchronization using Debezium for log-based Change Data Capture (CDC) and RabbitMQ as a message broker within Kubernetes. The session argues that log-based CDC is superior to query-based polling because it captures every state change, including hard deletes, with minimal impact on the source database.",
-                "takeaways": [
-                  "Log-based CDC via Debezium provides millisecond latency and high-fidelity data capture by reading transaction logs like the Postgres WAL or MySQL binlog, avoiding the performance penalties of traditional polling.",
-                  "The Debezium standalone topology enables streaming directly to RabbitMQ, bypassing the operational overhead of managing a Kafka cluster while utilizing RabbitMQ's topic exchanges for flexible wildcard-based routing.",
-                  "Stateful management in Kubernetes is critical; Debezium offsets must be stored in persistent volumes to ensure the connector can resume from the exact point in the transaction log after pod restarts.",
-                  "To prevent critical system failures, teams must monitor replication slot lag, as a stalled connector can cause transaction logs to accumulate and rapidly exhaust database disk space.",
-                  "Downstream consumers must be designed for idempotency to handle Debezium's 'at-least-once' delivery guarantee and prevent data inconsistency during retries."
-                ],
-                "topics": [
-                  "change data capture (cdc)",
-                  "debezium standalone",
-                  "rabbitmq topic exchange",
-                  "outbox pattern",
-                  "kubernetes persistent volumes",
-                  "replication slot lag",
-                  "write-ahead log",
-                  "distributed tracing"
-                ],
-                "related": [
-                  {
-                    "id": "KdLQEv3Tiiw",
-                    "sharedTopics": [
-                      "change data capture",
-                      "cdc",
-                      "change",
-                      "data",
-                      "capture"
-                    ]
-                  },
-                  {
-                    "id": "am9FvNiJ24M",
-                    "sharedTopics": [
-                      "change data capture",
-                      "change",
-                      "data",
-                      "capture",
-                      "debezium"
-                    ]
-                  },
-                  {
-                    "id": "nomIVRSBEG4",
-                    "sharedTopics": [
-                      "change data capture",
-                      "cdc",
-                      "change",
-                      "data",
-                      "capture"
-                    ]
-                  },
-                  {
-                    "id": "a8heWpae5p0",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "write-ahead log",
-                      "write-ahead",
-                      "log",
-                      "distributed"
-                    ]
-                  },
-                  {
-                    "id": "V9tvg6Yg3m4",
-                    "sharedTopics": [
-                      "rabbitmq",
-                      "kubernetes",
-                      "replication",
-                      "log",
-                      "distributed"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "7iWL5-0C66s",
-              "title": "Bridging the Mainframe to the Cloud",
-              "views": 26,
-              "date": "2026-04-04T10:58:19Z",
-              "category": "kubernetes",
-              "tags": [
-                "mainframe",
-                "ibm mq",
-                "shovel",
-                "rabbitmq"
-              ],
-              "detail": {
-                "summary": "This session presents a zero-impact architecture for distributing enterprise data from legacy mainframes to cloud-native environments using IBM MQ and RabbitMQ as a decoupling bridge. The approach avoids exposing expensive mainframe MIPS directly to volatile cloud workloads, instead implementing a four-part pipeline for safe extraction and real-time data distribution.",
-                "takeaways": [
-                  "Direct mainframe-to-cloud connections create unpredictable costs and performance bottlenecks due to the mainframe's MIPS-based pricing model.",
-                  "IBM MQ serves as the mainframe-side message broker while RabbitMQ handles cloud-side distribution, creating a strategic decoupling layer.",
-                  "The four-part pipeline safely extracts legacy data without impacting mission-critical mainframe operations.",
-                  "This architecture enables real-time data flow between on-premises and cloud while preserving mainframe stability and data integrity."
-                ],
-                "topics": [
-                  "mainframe modernization",
-                  "ibm mq",
-                  "rabbitmq",
-                  "enterprise data distribution",
-                  "message broker pipeline",
-                  "cloud migration"
-                ],
-                "related": [
-                  {
-                    "id": "KdLQEv3Tiiw",
-                    "sharedTopics": [
-                      "rabbitmq",
-                      "data",
-                      "cloud"
-                    ]
-                  },
-                  {
-                    "id": "nJ10P-fRqZQ",
-                    "sharedTopics": [
-                      "cloud",
-                      "migration"
-                    ]
-                  },
-                  {
-                    "id": "P_xUJi_qt-Q",
-                    "sharedTopics": [
-                      "data",
-                      "migration"
-                    ]
-                  },
-                  {
-                    "id": "RLlEbcXO6k8",
-                    "sharedTopics": [
-                      "cloud",
-                      "migration"
-                    ]
-                  },
-                  {
-                    "id": "uU46ltIELqk",
-                    "sharedTopics": [
-                      "enterprise",
-                      "pipeline",
-                      "cloud"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "tcrNdx1yH_E",
-              "title": "Continuous Flow",
-              "views": 15,
-              "date": "2026-03-22T14:47:34Z",
-              "category": "kubernetes",
-              "tags": [
-                "azure",
-                "event hubs",
-                "sql mi",
-                "ces"
-              ],
-              "detail": {
-                "summary": "This video presents an architecture for streaming change events from Azure SQL Managed Instance to Azure Event Hubs, replacing traditional polling-based ETL with real-time event-driven data propagation. It explains the event-driven decoupler pattern for breaking down monolithic applications, eliminating the latency, dual-write complexity, and high database overhead inherent in polling mechanisms. The architecture enables downstream consumers to react immediately to database changes through a scalable Event Hubs buffer.",
-                "takeaways": [
-                  "Traditional polling creates heavy ETL overhead, dual-write complexity, and inherent latency since data freshness is limited to the polling interval.",
-                  "Azure SQL Managed Instance's change event streaming pushes data changes in real time to Azure Event Hubs, eliminating the need for periodic database queries.",
-                  "The event-driven decoupler pattern breaks monolithic applications into loosely coupled components that communicate through change events rather than direct database access.",
-                  "Azure Event Hubs acts as a scalable buffer between the source database and downstream consumers, ensuring the entire ecosystem stays synchronized in near real-time."
-                ],
-                "topics": [
-                  "change data capture",
-                  "azure event hubs",
-                  "azure sql managed instance",
-                  "event-driven architecture",
-                  "real-time streaming",
-                  "etl replacement"
-                ],
-                "related": [
-                  {
-                    "id": "N4nRAfBZ3BE",
-                    "sharedTopics": [
-                      "azure event hubs",
-                      "azure",
-                      "event",
-                      "hubs",
-                      "event-driven"
-                    ]
-                  },
-                  {
-                    "id": "VxWyvAO3qb8",
-                    "sharedTopics": [
-                      "azure event hubs",
-                      "azure",
-                      "event",
-                      "hubs",
-                      "architecture"
-                    ]
-                  },
-                  {
-                    "id": "KdLQEv3Tiiw",
-                    "sharedTopics": [
-                      "change data capture",
-                      "change",
-                      "data",
-                      "capture",
-                      "sql"
-                    ]
-                  },
-                  {
-                    "id": "5Ztm7JNVa8E",
-                    "sharedTopics": [
-                      "data",
-                      "event-driven architecture",
-                      "event-driven",
-                      "architecture",
-                      "real-time"
-                    ]
-                  },
-                  {
-                    "id": "am9FvNiJ24M",
-                    "sharedTopics": [
-                      "change data capture",
-                      "change",
-                      "data",
-                      "capture",
-                      "real-time"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "0U-SUJCmKAU",
-              "title": "From Stateful to Secure",
-              "views": 47,
-              "date": "2026-01-16T06:38:21Z",
-              "category": "kubernetes",
-              "tags": [
-                "stateful",
-                "kubernetes",
-                "rabbitmq",
-                "mtls"
-              ],
-              "detail": {
-                "summary": "This video presents a four-stage blueprint for deploying, exposing, and securing RabbitMQ on Azure Kubernetes Service (AKS), progressing from foundational data persistence through reliable high-availability deployment, secure service exposure, and finally zero trust fortification. It serves as a comprehensive production journey for managing stateful workloads on Kubernetes.",
-                "takeaways": [
-                  "Stage 1 (Foundation) focuses on data persistence and storage configuration to ensure message durability and recoverability.",
-                  "Stage 2 (Architecture) designs the RabbitMQ cluster for high availability and resilience to handle real-world production demands.",
-                  "Stage 3 (Accessibility) implements secure exposure strategies that balance external connectivity with strict access control.",
-                  "Stage 4 (Fortification) applies zero trust security principles to verify every interaction within the cluster."
-                ],
-                "topics": [
-                  "rabbitmq on kubernetes",
-                  "aks",
-                  "stateful workloads",
-                  "zero trust",
-                  "persistent storage",
-                  "high availability"
-                ],
-                "related": [
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "zero trust",
-                      "zero",
-                      "trust",
-                      "persistent storage"
-                    ]
-                  },
-                  {
-                    "id": "KdLQEv3Tiiw",
-                    "sharedTopics": [
-                      "rabbitmq",
-                      "kubernetes",
-                      "stateful workloads",
-                      "stateful",
-                      "workloads"
-                    ]
-                  },
-                  {
-                    "id": "BiYKKVsJROk",
-                    "sharedTopics": [
-                      "aks",
-                      "zero trust",
-                      "zero",
-                      "trust"
-                    ]
-                  },
-                  {
-                    "id": "A4-foXsdQiA",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "zero trust",
-                      "zero",
-                      "trust"
-                    ]
-                  },
-                  {
-                    "id": "KpSjLQpswW4",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "zero trust",
-                      "zero",
-                      "trust"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "VxWyvAO3qb8",
-              "title": "The Two-System Pattern",
-              "views": 14,
-              "date": "2026-01-15T12:59:07Z",
-              "category": "kubernetes",
-              "tags": [
-                "nats",
-                "azure event hubs",
-                "aks",
-                "bridge"
-              ],
-              "detail": {
-                "summary": "This video presents a reference architecture for integrating NATS as an internal cluster messaging system on Azure Kubernetes Service with Azure Event Hubs as an enterprise gateway. The \"two-system pattern\" separates east-west traffic (low-latency intra-cluster communication via NATS) from north-south traffic (durable, large-scale event streaming via Event Hubs). A bridge layer connects the two, achieving both local speed and global scalability.",
-                "takeaways": [
-                  "NATS handles east-west intra-cluster messaging with high performance and low latency within an AKS cluster.",
-                  "Azure Event Hubs serves as the enterprise gateway for north-south traffic, providing durable long-term event streaming.",
-                  "The bridge layer between NATS and Event Hubs enables seamless data flow between internal microservices and external enterprise systems.",
-                  "This pattern separates concerns by traffic direction, allowing each messaging system to optimize for its specific workload."
-                ],
-                "topics": [
-                  "nats messaging",
-                  "azure event hubs",
-                  "aks architecture",
-                  "east-west traffic",
-                  "north-south traffic",
-                  "event streaming"
-                ],
-                "related": [
-                  {
-                    "id": "N4nRAfBZ3BE",
-                    "sharedTopics": [
-                      "nats",
-                      "messaging",
-                      "azure event hubs",
-                      "azure",
-                      "event"
-                    ]
-                  },
-                  {
-                    "id": "tcrNdx1yH_E",
-                    "sharedTopics": [
-                      "azure event hubs",
-                      "azure",
-                      "event",
-                      "hubs",
-                      "architecture"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "azure",
-                      "aks",
-                      "architecture"
-                    ]
-                  },
-                  {
-                    "id": "C6wLm6NRZW4",
-                    "sharedTopics": [
-                      "azure",
-                      "aks"
-                    ]
-                  },
-                  {
-                    "id": "C5HqbzLRYZ0",
-                    "sharedTopics": [
-                      "aks",
-                      "traffic"
                     ]
                   }
                 ]
@@ -9660,7 +9791,7 @@
             {
               "id": "eI2DXGISpbk",
               "title": "BadgerDB: The Go-Native Key-Value Store",
-              "views": 67,
+              "views": 68,
               "date": "2026-02-13T00:09:38Z",
               "category": "kubernetes",
               "tags": [
@@ -10608,7 +10739,7 @@
             {
               "id": "JrCT7Xu-aGU",
               "title": "Architecting Enterprise Secret Management in Rust",
-              "views": 12,
+              "views": 13,
               "date": "2026-06-25T23:00:26Z",
               "category": "kubernetes",
               "tags": [
@@ -10754,7 +10885,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 63,
+              "views": 65,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -11837,7 +11968,7 @@
             {
               "id": "JrCT7Xu-aGU",
               "title": "Architecting Enterprise Secret Management in Rust",
-              "views": 12,
+              "views": 13,
               "date": "2026-06-25T23:00:26Z",
               "category": "kubernetes",
               "tags": [
@@ -11908,7 +12039,7 @@
             {
               "id": "sZRIbxwHSCo",
               "title": "Engineering High-Performance Distributed Systems with Rust and AWS",
-              "views": 4,
+              "views": 6,
               "date": "2026-06-10T23:45:04Z",
               "category": "kubernetes",
               "tags": [
@@ -12397,7 +12528,7 @@
             {
               "id": "JrCT7Xu-aGU",
               "title": "Architecting Enterprise Secret Management in Rust",
-              "views": 12,
+              "views": 13,
               "date": "2026-06-25T23:00:26Z",
               "category": "kubernetes",
               "tags": [
@@ -12623,7 +12754,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 63,
+              "views": 65,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -13454,9 +13585,77 @@
       ],
       "videos": [
         {
+          "id": "6XAbKoeK9JU",
+          "title": "RabbitMQ 4.2.8 Plugin Ecosystem",
+          "views": 13,
+          "date": "2026-07-08T23:00:34Z",
+          "category": "kubernetes",
+          "tags": [
+            "rabbitmq",
+            "plugins"
+          ],
+          "detail": {
+            "summary": "A Kubernetes- and AKS-targeted capability reference for the RabbitMQ 4.2.8 Alpine image, covering plugin lifecycle states (explicitly enabled, implicitly enabled as a dependency, or bundled-dormant) and an active core profile spanning management, Prometheus telemetry, OAuth2/peer-discovery, and Shovel-based message movement. It walks the auth backends (OAuth2 JWT, LDAP, HTTP, cache, SSL/TLS trust store, loopback), cross-broker routing (Shovel vs Federation), protocol bridges (AMQP 1.0, MQTT, STOMP, WebSockets), streams and custom routing, the three-step operator-driven enablement workflow, and a five-surface 360° verification strategy.",
+            "takeaways": [
+              "Only top-level plugins need explicit enablement via `spec.rabbitMQ.additionalPlugins`; dependencies such as management_agent, web_dispatch, and peer_discovery_common are resolved and activated automatically by the operator.",
+              "The active core profile pairs management (HTTP API + web UI on 15672) with Prometheus metrics on /metrics:15692, OAuth2 JWT auth against providers like Azure AD, Kubernetes headless-service peer discovery, and Shovel for dead-letter-queue replay.",
+              "Auth backends span OAuth2, LDAP/Active Directory, HTTP delegation, a cache booster, SSL/TLS client-certificate auth with a dynamic runtime trust store (no broker restart), and a loopback backend that forces external auth for non-local clients.",
+              "Cross-broker needs split between Shovel (point-to-point DLQ replay, static + dynamic) and Federation (geo-distribution, multi-DC HA/DR), while protocols extend beyond AMQP 0-9-1 to AMQP 1.0, MQTT 3.1.1/5.0, STOMP, and WebSockets.",
+              "Enablement is declare (CR) → `kubectl apply` → operator updates the plugins ConfigMap, with block storage (AKS) applying changes automatically but NFS-backed clusters requiring a rolling restart; verify via CLI, management UI, ConfigMap, management API, and Prometheus metrics."
+            ],
+            "topics": [
+              "rabbitmq plugin lifecycle",
+              "kubernetes operator reconcile",
+              "oauth2 jwt authentication",
+              "prometheus metrics scraping",
+              "shovel dead letter replay",
+              "federation geo distribution",
+              "amqp mqtt stomp protocols",
+              "rabbitmq streams"
+            ],
+            "related": [
+              {
+                "id": "0U-SUJCmKAU",
+                "sharedTopics": [
+                  "rabbitmq",
+                  "kubernetes"
+                ]
+              },
+              {
+                "id": "N4nRAfBZ3BE",
+                "sharedTopics": [
+                  "rabbitmq",
+                  "kubernetes"
+                ]
+              },
+              {
+                "id": "7iWL5-0C66s",
+                "sharedTopics": [
+                  "rabbitmq",
+                  "distribution"
+                ]
+              },
+              {
+                "id": "to1PClyd0YA",
+                "sharedTopics": [
+                  "kubernetes",
+                  "prometheus"
+                ]
+              },
+              {
+                "id": "a8heWpae5p0",
+                "sharedTopics": [
+                  "kubernetes",
+                  "operator"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "o9x4daXS4Rk",
           "title": "Azure Linux 4.0 and the Al-Native Cloud Era",
-          "views": 11,
+          "views": 19,
           "date": "2026-07-05T23:00:06Z",
           "category": "kubernetes",
           "tags": [
@@ -13535,7 +13734,7 @@
         {
           "id": "JrCT7Xu-aGU",
           "title": "Architecting Enterprise Secret Management in Rust",
-          "views": 12,
+          "views": 13,
           "date": "2026-06-25T23:00:26Z",
           "category": "kubernetes",
           "tags": [
@@ -13746,7 +13945,7 @@
         {
           "id": "sZRIbxwHSCo",
           "title": "Engineering High-Performance Distributed Systems with Rust and AWS",
-          "views": 4,
+          "views": 6,
           "date": "2026-06-10T23:45:04Z",
           "category": "kubernetes",
           "tags": [
@@ -14586,7 +14785,7 @@
         {
           "id": "2ksi8K7wg3I",
           "title": "Kubernetes 1.36 (Haru)",
-          "views": 77,
+          "views": 79,
           "date": "2026-04-23T22:03:32Z",
           "category": "kubernetes",
           "tags": [
@@ -17282,7 +17481,7 @@
         {
           "id": "eI2DXGISpbk",
           "title": "BadgerDB: The Go-Native Key-Value Store",
-          "views": 67,
+          "views": 68,
           "date": "2026-02-13T00:09:38Z",
           "category": "kubernetes",
           "tags": [
@@ -17428,7 +17627,7 @@
         {
           "id": "rgY4KTMFOMs",
           "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-          "views": 63,
+          "views": 65,
           "date": "2026-02-05T14:29:16Z",
           "category": "kubernetes",
           "tags": [
@@ -19019,8 +19218,8 @@
         "programming",
         "security"
       ],
-      "videoCount": 255,
-      "totalViews": 30321,
+      "videoCount": 256,
+      "totalViews": 30518,
       "topTags": [
         {
           "tag": "rust",
@@ -19028,7 +19227,7 @@
         },
         {
           "tag": "ai",
-          "count": 30
+          "count": 31
         },
         {
           "tag": "zig",
@@ -19043,12 +19242,12 @@
           "count": 16
         },
         {
-          "tag": "flutter",
+          "tag": "curiosity",
           "count": 12
         },
         {
-          "tag": "curiosity",
-          "count": 11
+          "tag": "flutter",
+          "count": 12
         },
         {
           "tag": "cli",
@@ -19110,7 +19309,7 @@
             {
               "id": "33odiiNMGzQ",
               "title": "The Rust SPNEGO Hub",
-              "views": 12,
+              "views": 14,
               "date": "2026-07-03T23:00:26Z",
               "category": "development",
               "tags": [
@@ -19261,7 +19460,7 @@
             {
               "id": "gPnrk5TNKWg",
               "title": "The Rust Robotics Paradigm",
-              "views": 39,
+              "views": 49,
               "date": "2026-06-27T23:00:21Z",
               "category": "development",
               "tags": [
@@ -19504,7 +19703,7 @@
             {
               "id": "fWuJSwkdH6I",
               "title": "Quinn: A Pure-Rust QUIC Protocol Implementation",
-              "views": 50,
+              "views": 51,
               "date": "2026-06-09T23:00:25Z",
               "category": "development",
               "tags": [
@@ -19580,7 +19779,7 @@
             {
               "id": "s6wmtsAWvCw",
               "title": "rt-ado-ci-cd Operations and Architecture",
-              "views": 6,
+              "views": 7,
               "date": "2026-06-08T11:00:22Z",
               "category": "development",
               "tags": [
@@ -19724,7 +19923,7 @@
             {
               "id": "3jMQWDNqsro",
               "title": "Architecting Ledger Systems in Rust",
-              "views": 40,
+              "views": 41,
               "date": "2026-06-05T23:00:10Z",
               "category": "development",
               "tags": [
@@ -20893,7 +21092,7 @@
             {
               "id": "htpvlYnX77w",
               "title": "Mastering Machine Learning in Rust",
-              "views": 48,
+              "views": 49,
               "date": "2026-05-19T06:00:38Z",
               "category": "development",
               "tags": [
@@ -21361,7 +21560,7 @@
             {
               "id": "B81dHVYOYJA",
               "title": "Inside the Typst Compiler Engine",
-              "views": 132,
+              "views": 137,
               "date": "2026-05-11T00:02:22Z",
               "category": "development",
               "tags": [
@@ -21432,7 +21631,7 @@
             {
               "id": "8PaVKQoDReY",
               "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-              "views": 84,
+              "views": 85,
               "date": "2026-05-09T22:08:03Z",
               "category": "development",
               "tags": [
@@ -21515,7 +21714,7 @@
             {
               "id": "qAHyv6G3a7M",
               "title": "Building the Unified Rust Backend",
-              "views": 754,
+              "views": 756,
               "date": "2026-05-09T07:32:42Z",
               "category": "development",
               "tags": [
@@ -21604,7 +21803,7 @@
             {
               "id": "_bFOZ51Q55Y",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 2037,
+              "views": 2038,
               "date": "2026-05-09T02:40:33Z",
               "category": "development",
               "tags": [
@@ -22177,7 +22376,7 @@
             {
               "id": "J4iGUAXcAOA",
               "title": "The Axum Web Framework",
-              "views": 58,
+              "views": 59,
               "date": "2026-05-01T22:55:53Z",
               "category": "development",
               "tags": [
@@ -22417,7 +22616,7 @@
             {
               "id": "NhYb7QkBdMs",
               "title": "Rusty Object Notation (RON)",
-              "views": 159,
+              "views": 160,
               "date": "2026-04-24T06:12:06Z",
               "category": "development",
               "tags": [
@@ -22637,7 +22836,7 @@
             {
               "id": "izLrX-02IQk",
               "title": "Rust 1.95.0",
-              "views": 234,
+              "views": 235,
               "date": "2026-04-18T20:42:55Z",
               "category": "development",
               "tags": [
@@ -22782,7 +22981,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4286,
+              "views": 4290,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -23015,7 +23214,7 @@
             {
               "id": "vep9hSKc9I0",
               "title": "Dial9 Demo - Deep Observability in Async Rust",
-              "views": 123,
+              "views": 124,
               "date": "2026-03-22T10:40:21Z",
               "category": "development",
               "tags": [
@@ -23847,7 +24046,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 222,
+              "views": 224,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -23911,7 +24110,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 612,
+              "views": 633,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -25142,9 +25341,88 @@
           "name": "AI & ML",
           "videos": [
             {
+              "id": "J6dRkXZhnIQ",
+              "title": "The Confluent Systems Master Plan",
+              "views": 34,
+              "date": "2026-07-09T23:00:36Z",
+              "category": "development",
+              "tags": [
+                "curiosity",
+                "ai",
+                "engineering",
+                "sandbox"
+              ],
+              "detail": {
+                "summary": "This talk lays out a twenty-year roadmap that bridges compiler theory, verifiable computation, and AI-native systems engineering, arguing that the abstraction layer is leaking downward into hardware and that the bottleneck for large models has shifted from prompts to silicon, scheduling, and memory bandwidth. It defines the transition from the \"wrapper era\" (black-box APIs, garbage collection, mutex locks) to the \"AI-native era\" (custom execution graphs, compile-time memory proofs, lock-free atomics, zero-copy WASM sandboxing) and traces three converging paths — systems (AST/SSA → LLVM/Cranelift optimization → WASM sandbox), verification (borrow-checked arenas → atomics/SPSC queues → zk-VM R1CS proofs via RISC Zero/SP1), and AI-native engineering (model graph quantization → Triton/CUDA/Metal kernel tiling → async token-pipeline agent frameworks).",
+                "takeaways": [
+                  "The LLM performance bottleneck has moved from prompt engineering to silicon, scheduling, and memory bandwidth, making AST-level control a prerequisite for optimizing the entire LLM execution graph.",
+                  "The \"wrapper era\" (black-box APIs, GC, mutexes, unsafe execution) is giving way to the \"AI-native era\" (glassbox custom execution graphs, compile-time memory proofs, lock-free acquire-release atomics, zero-copy WASM sandboxing).",
+                  "The systems path runs front-end parsing (AST, SSA, phi nodes via Chomsky/Nom parser combinators) through optimization passes (DCE, constant folding, CSE) to LLVM/Cranelift back-ends, then isolates execution in WASM runtimes with zero-copy IPC bridges that bypass JSON serialization.",
+                  "The verification path progresses from strict memory safety (borrow semantics, manual arenas, linear allocators) through concurrency (seq_cst/acquire/release orderings, lock-free SPSC queues) to verifiable computation via arithmetic circuits (R1CS) and zk-VMs (RISC Zero, SP1).",
+                  "The AI-native path optimizes model graphs via INT8/INT4 quantization and bit packing, writes custom GPU/accelerator kernels (Triton, CUDA, Metal) with explicit HBM and KV-cache tiling, and orchestrates heavy-load agent frameworks with async token pipelines and real-time telemetry for burn-rate tracking."
+                ],
+                "topics": [
+                  "compiler theory for llm optimization",
+                  "verifiable computation zk vm",
+                  "ai native systems engineering",
+                  "operator fusion deep learning",
+                  "zero-copy wasm sandboxing",
+                  "lock-free atomics memory ordering",
+                  "risc zero sp1 zk proofs",
+                  "gpu hbm kv cache tiling"
+                ],
+                "related": [
+                  {
+                    "id": "o9yaniXkM-0",
+                    "sharedTopics": [
+                      "optimization",
+                      "engineering",
+                      "memory",
+                      "cache"
+                    ]
+                  },
+                  {
+                    "id": "4wX4mGuiTjw",
+                    "sharedTopics": [
+                      "optimization",
+                      "systems",
+                      "learning",
+                      "cache"
+                    ]
+                  },
+                  {
+                    "id": "fNN88ZXWYKU",
+                    "sharedTopics": [
+                      "systems",
+                      "engineering",
+                      "gpu",
+                      "cache"
+                    ]
+                  },
+                  {
+                    "id": "7ygjuzLkdTE",
+                    "sharedTopics": [
+                      "llm",
+                      "systems",
+                      "zero-copy",
+                      "sandboxing"
+                    ]
+                  },
+                  {
+                    "id": "yOOQNnaOLeM",
+                    "sharedTopics": [
+                      "systems",
+                      "learning",
+                      "memory"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "OKXt-PJUuzE",
               "title": "The Universal Engine for LLM Inference",
-              "views": 72,
+              "views": 74,
               "date": "2026-06-21T23:00:26Z",
               "category": "development",
               "tags": [
@@ -25221,7 +25499,7 @@
             {
               "id": "ElxPa5vX9Kc",
               "title": "The Agent-First Paradigm",
-              "views": 20,
+              "views": 21,
               "date": "2026-06-17T23:00:08Z",
               "category": "development",
               "tags": [
@@ -26221,7 +26499,7 @@
             {
               "id": "htpvlYnX77w",
               "title": "Mastering Machine Learning in Rust",
-              "views": 48,
+              "views": 49,
               "date": "2026-05-19T06:00:38Z",
               "category": "development",
               "tags": [
@@ -26299,7 +26577,7 @@
             {
               "id": "8PaVKQoDReY",
               "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-              "views": 84,
+              "views": 85,
               "date": "2026-05-09T22:08:03Z",
               "category": "development",
               "tags": [
@@ -26610,7 +26888,7 @@
             {
               "id": "BQ4wab0UtLg",
               "title": "From Louvain to Leiden",
-              "views": 76,
+              "views": 78,
               "date": "2026-04-26T15:40:42Z",
               "category": "development",
               "tags": [
@@ -26884,6 +27162,15 @@
                     ]
                   },
                   {
+                    "id": "J6dRkXZhnIQ",
+                    "sharedTopics": [
+                      "engineering",
+                      "systems",
+                      "gpu",
+                      "cache"
+                    ]
+                  },
+                  {
                     "id": "84M1mVL0cjo",
                     "sharedTopics": [
                       "systems",
@@ -26894,13 +27181,6 @@
                     "id": "h31-NtagNoU",
                     "sharedTopics": [
                       "cache",
-                      "design"
-                    ]
-                  },
-                  {
-                    "id": "axvxGj3yOgA",
-                    "sharedTopics": [
-                      "systems",
                       "design"
                     ]
                   }
@@ -27335,7 +27615,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 253,
+              "views": 255,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -27411,7 +27691,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2791,
+              "views": 2798,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -28246,18 +28526,20 @@
                     ]
                   },
                   {
+                    "id": "J6dRkXZhnIQ",
+                    "sharedTopics": [
+                      "optimization",
+                      "cache",
+                      "learning",
+                      "systems"
+                    ]
+                  },
+                  {
                     "id": "TpyKC8_30xs",
                     "sharedTopics": [
                       "zig",
                       "learning",
                       "framework"
-                    ]
-                  },
-                  {
-                    "id": "7yqkfHo8Mwk",
-                    "sharedTopics": [
-                      "zig",
-                      "optimization"
                     ]
                   }
                 ]
@@ -28484,7 +28766,7 @@
             {
               "id": "JeqaHMmSh1s",
               "title": "The Complete Guide to Building Skills for Claude",
-              "views": 707,
+              "views": 708,
               "date": "2026-02-28T05:29:43Z",
               "category": "development",
               "tags": [
@@ -29499,7 +29781,7 @@
             {
               "id": "RJGNh8L-8rw",
               "title": "Clean Architecture in Angular",
-              "views": 42,
+              "views": 45,
               "date": "2026-06-23T11:00:37Z",
               "category": "development",
               "tags": [
@@ -29661,7 +29943,7 @@
             {
               "id": "KXx_6BhzOFE",
               "title": "The PyTorch Architecture Blueprint",
-              "views": 45,
+              "views": 46,
               "date": "2026-06-13T21:47:29Z",
               "category": "development",
               "tags": [
@@ -29735,7 +30017,7 @@
             {
               "id": "s6wmtsAWvCw",
               "title": "rt-ado-ci-cd Operations and Architecture",
-              "views": 6,
+              "views": 7,
               "date": "2026-06-08T11:00:22Z",
               "category": "development",
               "tags": [
@@ -31672,7 +31954,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4286,
+              "views": 4290,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -32068,7 +32350,7 @@
             {
               "id": "33odiiNMGzQ",
               "title": "The Rust SPNEGO Hub",
-              "views": 12,
+              "views": 14,
               "date": "2026-07-03T23:00:26Z",
               "category": "development",
               "tags": [
@@ -32141,7 +32423,7 @@
             {
               "id": "4q9gLzti6Lk",
               "title": "Building Autonomous Agents with the Antigravity SDK",
-              "views": 65,
+              "views": 72,
               "date": "2026-06-22T23:00:39Z",
               "category": "development",
               "tags": [
@@ -32215,7 +32497,7 @@
             {
               "id": "Z_TABCzmoQ0",
               "title": "High-Performance Compute Meets Developer Ergonomics",
-              "views": 87,
+              "views": 90,
               "date": "2026-06-15T23:00:33Z",
               "category": "development",
               "tags": [
@@ -33754,7 +34036,7 @@
             {
               "id": "uqZ-mwxGf2c",
               "title": "Modern Observability in Go",
-              "views": 116,
+              "views": 117,
               "date": "2026-03-01T14:36:52Z",
               "category": "development",
               "tags": [
@@ -34066,7 +34348,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 912,
+              "views": 917,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -35035,7 +35317,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 222,
+              "views": 224,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -35488,7 +35770,7 @@
             {
               "id": "wyIhJ3LMnRg",
               "title": "W3C Trace Context",
-              "views": 95,
+              "views": 103,
               "date": "2026-03-21T13:19:14Z",
               "category": "development",
               "tags": [
@@ -35649,7 +35931,7 @@
             {
               "id": "33odiiNMGzQ",
               "title": "The Rust SPNEGO Hub",
-              "views": 12,
+              "views": 14,
               "date": "2026-07-03T23:00:26Z",
               "category": "development",
               "tags": [
@@ -36186,9 +36468,88 @@
       ],
       "videos": [
         {
+          "id": "J6dRkXZhnIQ",
+          "title": "The Confluent Systems Master Plan",
+          "views": 34,
+          "date": "2026-07-09T23:00:36Z",
+          "category": "development",
+          "tags": [
+            "curiosity",
+            "ai",
+            "engineering",
+            "sandbox"
+          ],
+          "detail": {
+            "summary": "This talk lays out a twenty-year roadmap that bridges compiler theory, verifiable computation, and AI-native systems engineering, arguing that the abstraction layer is leaking downward into hardware and that the bottleneck for large models has shifted from prompts to silicon, scheduling, and memory bandwidth. It defines the transition from the \"wrapper era\" (black-box APIs, garbage collection, mutex locks) to the \"AI-native era\" (custom execution graphs, compile-time memory proofs, lock-free atomics, zero-copy WASM sandboxing) and traces three converging paths — systems (AST/SSA → LLVM/Cranelift optimization → WASM sandbox), verification (borrow-checked arenas → atomics/SPSC queues → zk-VM R1CS proofs via RISC Zero/SP1), and AI-native engineering (model graph quantization → Triton/CUDA/Metal kernel tiling → async token-pipeline agent frameworks).",
+            "takeaways": [
+              "The LLM performance bottleneck has moved from prompt engineering to silicon, scheduling, and memory bandwidth, making AST-level control a prerequisite for optimizing the entire LLM execution graph.",
+              "The \"wrapper era\" (black-box APIs, GC, mutexes, unsafe execution) is giving way to the \"AI-native era\" (glassbox custom execution graphs, compile-time memory proofs, lock-free acquire-release atomics, zero-copy WASM sandboxing).",
+              "The systems path runs front-end parsing (AST, SSA, phi nodes via Chomsky/Nom parser combinators) through optimization passes (DCE, constant folding, CSE) to LLVM/Cranelift back-ends, then isolates execution in WASM runtimes with zero-copy IPC bridges that bypass JSON serialization.",
+              "The verification path progresses from strict memory safety (borrow semantics, manual arenas, linear allocators) through concurrency (seq_cst/acquire/release orderings, lock-free SPSC queues) to verifiable computation via arithmetic circuits (R1CS) and zk-VMs (RISC Zero, SP1).",
+              "The AI-native path optimizes model graphs via INT8/INT4 quantization and bit packing, writes custom GPU/accelerator kernels (Triton, CUDA, Metal) with explicit HBM and KV-cache tiling, and orchestrates heavy-load agent frameworks with async token pipelines and real-time telemetry for burn-rate tracking."
+            ],
+            "topics": [
+              "compiler theory for llm optimization",
+              "verifiable computation zk vm",
+              "ai native systems engineering",
+              "operator fusion deep learning",
+              "zero-copy wasm sandboxing",
+              "lock-free atomics memory ordering",
+              "risc zero sp1 zk proofs",
+              "gpu hbm kv cache tiling"
+            ],
+            "related": [
+              {
+                "id": "o9yaniXkM-0",
+                "sharedTopics": [
+                  "optimization",
+                  "engineering",
+                  "memory",
+                  "cache"
+                ]
+              },
+              {
+                "id": "4wX4mGuiTjw",
+                "sharedTopics": [
+                  "optimization",
+                  "systems",
+                  "learning",
+                  "cache"
+                ]
+              },
+              {
+                "id": "fNN88ZXWYKU",
+                "sharedTopics": [
+                  "systems",
+                  "engineering",
+                  "gpu",
+                  "cache"
+                ]
+              },
+              {
+                "id": "7ygjuzLkdTE",
+                "sharedTopics": [
+                  "llm",
+                  "systems",
+                  "zero-copy",
+                  "sandboxing"
+                ]
+              },
+              {
+                "id": "yOOQNnaOLeM",
+                "sharedTopics": [
+                  "systems",
+                  "learning",
+                  "memory"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "ykqWNyj1fHM",
           "title": "The Digital Twin Blueprint",
-          "views": 24,
+          "views": 38,
           "date": "2026-07-04T23:00:03Z",
           "category": "development",
           "tags": [
@@ -36259,7 +36620,7 @@
         {
           "id": "33odiiNMGzQ",
           "title": "The Rust SPNEGO Hub",
-          "views": 12,
+          "views": 14,
           "date": "2026-07-03T23:00:26Z",
           "category": "development",
           "tags": [
@@ -36410,7 +36771,7 @@
         {
           "id": "gPnrk5TNKWg",
           "title": "The Rust Robotics Paradigm",
-          "views": 39,
+          "views": 49,
           "date": "2026-06-27T23:00:21Z",
           "category": "development",
           "tags": [
@@ -36653,7 +37014,7 @@
         {
           "id": "RJGNh8L-8rw",
           "title": "Clean Architecture in Angular",
-          "views": 42,
+          "views": 45,
           "date": "2026-06-23T11:00:37Z",
           "category": "development",
           "tags": [
@@ -36737,7 +37098,7 @@
         {
           "id": "4q9gLzti6Lk",
           "title": "Building Autonomous Agents with the Antigravity SDK",
-          "views": 65,
+          "views": 72,
           "date": "2026-06-22T23:00:39Z",
           "category": "development",
           "tags": [
@@ -36811,7 +37172,7 @@
         {
           "id": "OKXt-PJUuzE",
           "title": "The Universal Engine for LLM Inference",
-          "views": 72,
+          "views": 74,
           "date": "2026-06-21T23:00:26Z",
           "category": "development",
           "tags": [
@@ -36888,7 +37249,7 @@
         {
           "id": "9tiUYnQL_y0",
           "title": "Mapping the NVIDIA CUDA Library Ecosystem",
-          "views": 14,
+          "views": 17,
           "date": "2026-06-20T23:00:16Z",
           "category": "development",
           "tags": [
@@ -37034,7 +37395,7 @@
         {
           "id": "ElxPa5vX9Kc",
           "title": "The Agent-First Paradigm",
-          "views": 20,
+          "views": 21,
           "date": "2026-06-17T23:00:08Z",
           "category": "development",
           "tags": [
@@ -37108,7 +37469,7 @@
         {
           "id": "Z_TABCzmoQ0",
           "title": "High-Performance Compute Meets Developer Ergonomics",
-          "views": 87,
+          "views": 90,
           "date": "2026-06-15T23:00:33Z",
           "category": "development",
           "tags": [
@@ -37183,7 +37544,7 @@
         {
           "id": "240fOdSvnpk",
           "title": "The End of the Functional Programming Tax",
-          "views": 73,
+          "views": 74,
           "date": "2026-06-14T22:00:33Z",
           "category": "development",
           "tags": [
@@ -37262,7 +37623,7 @@
         {
           "id": "KXx_6BhzOFE",
           "title": "The PyTorch Architecture Blueprint",
-          "views": 45,
+          "views": 46,
           "date": "2026-06-13T21:47:29Z",
           "category": "development",
           "tags": [
@@ -37409,7 +37770,7 @@
         {
           "id": "fWuJSwkdH6I",
           "title": "Quinn: A Pure-Rust QUIC Protocol Implementation",
-          "views": 50,
+          "views": 51,
           "date": "2026-06-09T23:00:25Z",
           "category": "development",
           "tags": [
@@ -37485,7 +37846,7 @@
         {
           "id": "s6wmtsAWvCw",
           "title": "rt-ado-ci-cd Operations and Architecture",
-          "views": 6,
+          "views": 7,
           "date": "2026-06-08T11:00:22Z",
           "category": "development",
           "tags": [
@@ -37629,7 +37990,7 @@
         {
           "id": "3jMQWDNqsro",
           "title": "Architecting Ledger Systems in Rust",
-          "views": 40,
+          "views": 41,
           "date": "2026-06-05T23:00:10Z",
           "category": "development",
           "tags": [
@@ -38013,7 +38374,7 @@
         {
           "id": "i8wjbDfxZTY",
           "title": "Why uv, ruff, and ty are mandatory",
-          "views": 132,
+          "views": 133,
           "date": "2026-06-02T05:10:54Z",
           "category": "development",
           "tags": [
@@ -38233,7 +38594,7 @@
         {
           "id": "CqBZBJTAo3I",
           "title": "Building Dynamic Al Interfaces with GenUl",
-          "views": 122,
+          "views": 123,
           "date": "2026-05-31T22:00:11Z",
           "category": "development",
           "tags": [
@@ -38307,7 +38668,7 @@
         {
           "id": "L4YBdUVCFd4",
           "title": "Migrating to SolidJS 2.0",
-          "views": 77,
+          "views": 82,
           "date": "2026-05-30T22:00:08Z",
           "category": "development",
           "tags": [
@@ -39901,7 +40262,7 @@
         {
           "id": "htpvlYnX77w",
           "title": "Mastering Machine Learning in Rust",
-          "views": 48,
+          "views": 49,
           "date": "2026-05-19T06:00:38Z",
           "category": "development",
           "tags": [
@@ -39979,7 +40340,7 @@
         {
           "id": "jrD_LGNsJXM",
           "title": "Async 1/0 in Zig 0.16, Today",
-          "views": 173,
+          "views": 175,
           "date": "2026-05-17T19:24:16Z",
           "category": "development",
           "tags": [
@@ -40893,7 +41254,7 @@
         {
           "id": "B81dHVYOYJA",
           "title": "Inside the Typst Compiler Engine",
-          "views": 132,
+          "views": 137,
           "date": "2026-05-11T00:02:22Z",
           "category": "development",
           "tags": [
@@ -41048,7 +41409,7 @@
         {
           "id": "8PaVKQoDReY",
           "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-          "views": 84,
+          "views": 85,
           "date": "2026-05-09T22:08:03Z",
           "category": "development",
           "tags": [
@@ -41131,7 +41492,7 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 430,
+          "views": 431,
           "date": "2026-05-09T14:32:47Z",
           "category": "development",
           "tags": [
@@ -41208,7 +41569,7 @@
         {
           "id": "qAHyv6G3a7M",
           "title": "Building the Unified Rust Backend",
-          "views": 754,
+          "views": 756,
           "date": "2026-05-09T07:32:42Z",
           "category": "development",
           "tags": [
@@ -41297,7 +41658,7 @@
         {
           "id": "_bFOZ51Q55Y",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 2037,
+          "views": 2038,
           "date": "2026-05-09T02:40:33Z",
           "category": "development",
           "tags": [
@@ -42402,7 +42763,7 @@
         {
           "id": "J4iGUAXcAOA",
           "title": "The Axum Web Framework",
-          "views": 58,
+          "views": 59,
           "date": "2026-05-01T22:55:53Z",
           "category": "development",
           "tags": [
@@ -42710,7 +43071,7 @@
         {
           "id": "4aAyFYemYD8",
           "title": "The Strangler Fig Pattern",
-          "views": 49,
+          "views": 51,
           "date": "2026-04-29T00:49:39Z",
           "category": "development",
           "tags": [
@@ -43024,7 +43385,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 76,
+          "views": 78,
           "date": "2026-04-26T15:40:42Z",
           "category": "development",
           "tags": [
@@ -43298,6 +43659,15 @@
                 ]
               },
               {
+                "id": "J6dRkXZhnIQ",
+                "sharedTopics": [
+                  "engineering",
+                  "systems",
+                  "gpu",
+                  "cache"
+                ]
+              },
+              {
                 "id": "84M1mVL0cjo",
                 "sharedTopics": [
                   "systems",
@@ -43308,13 +43678,6 @@
                 "id": "h31-NtagNoU",
                 "sharedTopics": [
                   "cache",
-                  "design"
-                ]
-              },
-              {
-                "id": "axvxGj3yOgA",
-                "sharedTopics": [
-                  "systems",
                   "design"
                 ]
               }
@@ -43479,7 +43842,7 @@
         {
           "id": "NhYb7QkBdMs",
           "title": "Rusty Object Notation (RON)",
-          "views": 159,
+          "views": 160,
           "date": "2026-04-24T06:12:06Z",
           "category": "development",
           "tags": [
@@ -44053,7 +44416,7 @@
         {
           "id": "izLrX-02IQk",
           "title": "Rust 1.95.0",
-          "views": 234,
+          "views": 235,
           "date": "2026-04-18T20:42:55Z",
           "category": "development",
           "tags": [
@@ -44402,7 +44765,7 @@
         {
           "id": "X65YHZUnFq0",
           "title": "OpenFeature: The Standard for Feature Flagging",
-          "views": 51,
+          "views": 52,
           "date": "2026-04-16T17:02:54Z",
           "category": "development",
           "tags": [
@@ -44472,7 +44835,7 @@
         {
           "id": "hTEG3TsuUPQ",
           "title": "Zig 0.16.0: Architectural Decoupling",
-          "views": 806,
+          "views": 810,
           "date": "2026-04-15T14:24:06Z",
           "category": "development",
           "tags": [
@@ -45093,7 +45456,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 253,
+          "views": 255,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -45169,7 +45532,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2791,
+          "views": 2798,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -45908,7 +46271,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4286,
+          "views": 4290,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -46123,7 +46486,7 @@
         {
           "id": "oUTf9j6fWJo",
           "title": "Reed: The Modern Terminal File Viewer",
-          "views": 146,
+          "views": 147,
           "date": "2026-03-30T22:20:06Z",
           "category": "development",
           "tags": [
@@ -46863,7 +47226,7 @@
         {
           "id": "zrP3muXzQX4",
           "title": "Reins: The Framework for Al-Assisted Development",
-          "views": 77,
+          "views": 79,
           "date": "2026-03-23T11:19:38Z",
           "category": "development",
           "tags": [
@@ -46936,7 +47299,7 @@
         {
           "id": "vep9hSKc9I0",
           "title": "Dial9 Demo - Deep Observability in Async Rust",
-          "views": 123,
+          "views": 124,
           "date": "2026-03-22T10:40:21Z",
           "category": "development",
           "tags": [
@@ -47014,7 +47377,7 @@
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
-          "views": 95,
+          "views": 103,
           "date": "2026-03-21T13:19:14Z",
           "category": "development",
           "tags": [
@@ -48432,18 +48795,20 @@
                 ]
               },
               {
+                "id": "J6dRkXZhnIQ",
+                "sharedTopics": [
+                  "optimization",
+                  "cache",
+                  "learning",
+                  "systems"
+                ]
+              },
+              {
                 "id": "TpyKC8_30xs",
                 "sharedTopics": [
                   "zig",
                   "learning",
                   "framework"
-                ]
-              },
-              {
-                "id": "7yqkfHo8Mwk",
-                "sharedTopics": [
-                  "zig",
-                  "optimization"
                 ]
               }
             ]
@@ -49028,7 +49393,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 290,
+          "views": 300,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -49244,7 +49609,7 @@
         {
           "id": "uqZ-mwxGf2c",
           "title": "Modern Observability in Go",
-          "views": 116,
+          "views": 117,
           "date": "2026-03-01T14:36:52Z",
           "category": "development",
           "tags": [
@@ -49396,7 +49761,7 @@
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 707,
+          "views": 708,
           "date": "2026-02-28T05:29:43Z",
           "category": "development",
           "tags": [
@@ -50288,7 +50653,7 @@
         {
           "id": "QBUQvfZJpaM",
           "title": "Modern Cryptography Standards: A Guide to AEAD",
-          "views": 85,
+          "views": 88,
           "date": "2026-02-18T23:24:48Z",
           "category": "development",
           "tags": [
@@ -50494,7 +50859,7 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 222,
+          "views": 224,
           "date": "2026-02-14T22:47:13Z",
           "category": "development",
           "tags": [
@@ -50558,7 +50923,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 912,
+          "views": 917,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -50629,7 +50994,7 @@
         {
           "id": "cWozmWrqnxs",
           "title": "The Repository Pattern",
-          "views": 805,
+          "views": 806,
           "date": "2026-02-13T18:01:39Z",
           "category": "development",
           "tags": [
@@ -50712,7 +51077,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 612,
+          "views": 633,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -51378,7 +51743,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 286,
+          "views": 293,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -51894,7 +52259,7 @@
         {
           "id": "h31-NtagNoU",
           "title": "Memory Layout in Zig",
-          "views": 61,
+          "views": 62,
           "date": "2026-01-30T01:32:57Z",
           "category": "development",
           "tags": [
@@ -52345,7 +52710,7 @@
         {
           "id": "US7oyxbcJCc",
           "title": "Cloth Simulation: A Performance Study",
-          "views": 13,
+          "views": 14,
           "date": "2026-01-26T04:41:26Z",
           "category": "development",
           "tags": [
@@ -53168,7 +53533,7 @@
         {
           "id": "5KB2zLGjaps",
           "title": "Conventional Commits",
-          "views": 18,
+          "views": 19,
           "date": "2026-01-19T10:21:27Z",
           "category": "development",
           "tags": [
@@ -55045,7 +55410,7 @@
         {
           "id": "TLqdeHlAo3A",
           "title": "From Bottlenecks to Breakthroughs:",
-          "views": 58,
+          "views": 60,
           "date": "2025-12-27T21:13:50Z",
           "category": "development",
           "tags": [
@@ -55123,7 +55488,7 @@
         "development"
       ],
       "videoCount": 19,
-      "totalViews": 670,
+      "totalViews": 684,
       "topTags": [
         {
           "tag": "security",
@@ -56262,7 +56627,7 @@
             {
               "id": "MFiVlaMYmwM",
               "title": "Microsoft Agent Governance Toolkit",
-              "views": 144,
+              "views": 156,
               "date": "2026-05-23T04:44:12Z",
               "category": "security",
               "tags": [
@@ -56544,7 +56909,7 @@
         {
           "id": "kc1gwl89iyw",
           "title": "Escaping the env Ceiling",
-          "views": 27,
+          "views": 28,
           "date": "2026-06-18T23:00:06Z",
           "category": "security",
           "tags": [
@@ -56675,7 +57040,7 @@
         {
           "id": "MFiVlaMYmwM",
           "title": "Microsoft Agent Governance Toolkit",
-          "views": 144,
+          "views": 156,
           "date": "2026-05-23T04:44:12Z",
           "category": "security",
           "tags": [
@@ -57586,7 +57951,7 @@
         {
           "id": "JfGgWiiCTA0",
           "title": "Shannon: Autonomous Penetration Testing",
-          "views": 52,
+          "views": 53,
           "date": "2026-02-14T10:04:10Z",
           "category": "security",
           "tags": [
@@ -58250,14 +58615,14 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2791,
+          "views": 2798,
           "date": "2026-04-09T22:17:25Z",
           "category": "development"
         },
         {
           "id": "JeqaHMmSh1s",
           "title": "The Complete Guide to Building Skills for Claude",
-          "views": 707,
+          "views": 708,
           "date": "2026-02-28T05:29:43Z",
           "category": "development"
         },
@@ -58271,7 +58636,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 253,
+          "views": 255,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -58402,6 +58767,13 @@
           "category": "finance"
         },
         {
+          "id": "J6dRkXZhnIQ",
+          "title": "The Confluent Systems Master Plan",
+          "views": 34,
+          "date": "2026-07-09T23:00:36Z",
+          "category": "development"
+        },
+        {
           "id": "V2LbQqD1lMM",
           "title": "Ralph: The Autonomous Vibe Coding Workflow",
           "views": 34,
@@ -58517,6 +58889,13 @@
           "category": "development"
         },
         {
+          "id": "BQ4wab0UtLg",
+          "title": "From Louvain to Leiden",
+          "views": 78,
+          "date": "2026-04-26T15:40:42Z",
+          "category": "development"
+        },
+        {
           "id": "s585HlqiyMQ",
           "title": "The Calculus of ALOHA Networks",
           "views": 77,
@@ -58529,13 +58908,6 @@
           "views": 76,
           "date": "2026-05-02T20:46:53Z",
           "category": "finance"
-        },
-        {
-          "id": "BQ4wab0UtLg",
-          "title": "From Louvain to Leiden",
-          "views": 76,
-          "date": "2026-04-26T15:40:42Z",
-          "category": "development"
         },
         {
           "id": "bAoDvQgmGjM",
@@ -58568,7 +58940,7 @@
         {
           "id": "3jMQWDNqsro",
           "title": "Architecting Ledger Systems in Rust",
-          "views": 40,
+          "views": 41,
           "date": "2026-06-05T23:00:10Z",
           "category": "development"
         },
@@ -58584,6 +58956,13 @@
           "title": "The Illusion of Design",
           "views": 36,
           "date": "2026-04-11T07:48:34Z",
+          "category": "development"
+        },
+        {
+          "id": "J6dRkXZhnIQ",
+          "title": "The Confluent Systems Master Plan",
+          "views": 34,
+          "date": "2026-07-09T23:00:36Z",
           "category": "development"
         },
         {
@@ -58650,6 +59029,13 @@
           "category": "finance"
         },
         {
+          "id": "u5hQQZsLBwU",
+          "title": "The Anatomy of a Giant",
+          "views": 20,
+          "date": "2026-07-06T22:50:47Z",
+          "category": "finance"
+        },
+        {
           "id": "aQpGQClZSvc",
           "title": "The Architecture of a Virtual Voice",
           "views": 18,
@@ -58713,10 +59099,10 @@
           "category": "finance"
         },
         {
-          "id": "u5hQQZsLBwU",
-          "title": "The Anatomy of a Giant",
+          "id": "BNznoJHQDW0",
+          "title": "Structural Pruning in State-Space Abstractions",
           "views": 4,
-          "date": "2026-07-06T22:50:47Z",
+          "date": "2026-07-07T23:00:33Z",
           "category": "finance"
         },
         {
@@ -58746,7 +59132,7 @@
         {
           "id": "JrCT7Xu-aGU",
           "title": "Architecting Enterprise Secret Management in Rust",
-          "views": 12,
+          "views": 13,
           "date": "2026-06-25T23:00:26Z",
           "category": "kubernetes"
         },
@@ -58829,7 +59215,7 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 430,
+          "views": 431,
           "date": "2026-05-09T14:32:47Z",
           "category": "development"
         },
@@ -58843,14 +59229,14 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 253,
+          "views": 255,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
           "id": "MFiVlaMYmwM",
           "title": "Microsoft Agent Governance Toolkit",
-          "views": 144,
+          "views": 156,
           "date": "2026-05-23T04:44:12Z",
           "category": "security"
         },
@@ -58892,7 +59278,7 @@
         {
           "id": "JfGgWiiCTA0",
           "title": "Shannon: Autonomous Penetration Testing",
-          "views": 52,
+          "views": 53,
           "date": "2026-02-14T10:04:10Z",
           "category": "security"
         },
@@ -58913,7 +59299,7 @@
         {
           "id": "ElxPa5vX9Kc",
           "title": "The Agent-First Paradigm",
-          "views": 20,
+          "views": 21,
           "date": "2026-06-17T23:00:08Z",
           "category": "development"
         }
@@ -59017,6 +59403,92 @@
       ]
     },
     {
+      "tag": "rabbitmq",
+      "categories": [
+        "kubernetes",
+        "development"
+      ],
+      "videos": [
+        {
+          "id": "CXtHwJQphLI",
+          "title": "Production-Ready RabbitMQ in Go",
+          "views": 96,
+          "date": "2026-03-20T03:40:50Z",
+          "category": "development"
+        },
+        {
+          "id": "IYfTi_HNDl4",
+          "title": "Building Production-Grade RabbitMQ in Go",
+          "views": 81,
+          "date": "2026-04-06T22:28:09Z",
+          "category": "development"
+        },
+        {
+          "id": "WRpjJV4SUKc",
+          "title": "Architecting Real-Time State",
+          "views": 75,
+          "date": "2026-04-05T12:14:36Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "V9tvg6Yg3m4",
+          "title": "From Consensus Physics to Messaging Engineering",
+          "views": 47,
+          "date": "2026-05-07T22:45:08Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "0U-SUJCmKAU",
+          "title": "From Stateful to Secure",
+          "views": 47,
+          "date": "2026-01-16T06:38:21Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "INNKxTAagE4",
+          "title": "Resilient Asynchronous Systems in Go",
+          "views": 39,
+          "date": "2026-03-24T02:07:42Z",
+          "category": "development"
+        },
+        {
+          "id": "am9FvNiJ24M",
+          "title": "The 2026 Change Data Capture Blueprint",
+          "views": 31,
+          "date": "2026-04-08T22:14:35Z",
+          "category": "development"
+        },
+        {
+          "id": "7iWL5-0C66s",
+          "title": "Bridging the Mainframe to the Cloud",
+          "views": 26,
+          "date": "2026-04-04T10:58:19Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "KdLQEv3Tiiw",
+          "title": "Mastering Hybrid CDC Architectures",
+          "views": 21,
+          "date": "2026-04-08T02:45:20Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "6XAbKoeK9JU",
+          "title": "RabbitMQ 4.2.8 Plugin Ecosystem",
+          "views": 13,
+          "date": "2026-07-08T23:00:34Z",
+          "category": "kubernetes"
+        },
+        {
+          "id": "N4nRAfBZ3BE",
+          "title": "Choosing Your Messaging Fabric on AKS",
+          "views": 5,
+          "date": "2026-01-10T21:55:01Z",
+          "category": "kubernetes"
+        }
+      ]
+    },
+    {
       "tag": "azure",
       "categories": [
         "kubernetes",
@@ -59052,6 +59524,13 @@
           "category": "security"
         },
         {
+          "id": "o9x4daXS4Rk",
+          "title": "Azure Linux 4.0 and the Al-Native Cloud Era",
+          "views": 19,
+          "date": "2026-07-05T23:00:06Z",
+          "category": "kubernetes"
+        },
+        {
           "id": "R2zktRqz81U",
           "title": "A Blueprint for Secure Azure Authentication in Go",
           "views": 18,
@@ -59063,13 +59542,6 @@
           "title": "Continuous Flow",
           "views": 15,
           "date": "2026-03-22T14:47:34Z",
-          "category": "kubernetes"
-        },
-        {
-          "id": "o9x4daXS4Rk",
-          "title": "Azure Linux 4.0 and the Al-Native Cloud Era",
-          "views": 11,
-          "date": "2026-07-05T23:00:06Z",
           "category": "kubernetes"
         },
         {
@@ -59103,17 +59575,17 @@
           "category": "kubernetes"
         },
         {
+          "id": "JrCT7Xu-aGU",
+          "title": "Architecting Enterprise Secret Management in Rust",
+          "views": 13,
+          "date": "2026-06-25T23:00:26Z",
+          "category": "kubernetes"
+        },
+        {
           "id": "78Sm363xiIw",
           "title": "AWS Database Selection Blueprint",
           "views": 13,
           "date": "2026-06-12T23:00:29Z",
-          "category": "kubernetes"
-        },
-        {
-          "id": "JrCT7Xu-aGU",
-          "title": "Architecting Enterprise Secret Management in Rust",
-          "views": 12,
-          "date": "2026-06-25T23:00:26Z",
           "category": "kubernetes"
         },
         {
@@ -59126,7 +59598,7 @@
         {
           "id": "sZRIbxwHSCo",
           "title": "Engineering High-Performance Distributed Systems with Rust and AWS",
-          "views": 4,
+          "views": 6,
           "date": "2026-06-10T23:45:04Z",
           "category": "kubernetes"
         },
@@ -59149,14 +59621,14 @@
         {
           "id": "kc1gwl89iyw",
           "title": "Escaping the env Ceiling",
-          "views": 27,
+          "views": 28,
           "date": "2026-06-18T23:00:06Z",
           "category": "security"
         },
         {
           "id": "JrCT7Xu-aGU",
           "title": "Architecting Enterprise Secret Management in Rust",
-          "views": 12,
+          "views": 13,
           "date": "2026-06-25T23:00:26Z",
           "category": "kubernetes"
         }
@@ -59249,36 +59721,6 @@
           "views": 13,
           "date": "2026-01-10T16:58:52Z",
           "category": "development"
-        },
-        {
-          "id": "PofJfj6nRuw",
-          "title": "Architecting Al at Global Scale",
-          "views": 5,
-          "date": "2026-06-11T23:00:19Z",
-          "category": "kubernetes"
-        }
-      ]
-    },
-    {
-      "tag": "orchestration",
-      "categories": [
-        "kubernetes",
-        "security"
-      ],
-      "videos": [
-        {
-          "id": "p9LNSeAt5Zw",
-          "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-          "views": 21,
-          "date": "2026-04-22T10:25:18Z",
-          "category": "kubernetes"
-        },
-        {
-          "id": "HxB-cJIbEgE",
-          "title": "2FA Orchestration in PingFederate",
-          "views": 10,
-          "date": "2026-03-29T14:37:03Z",
-          "category": "security"
         },
         {
           "id": "PofJfj6nRuw",

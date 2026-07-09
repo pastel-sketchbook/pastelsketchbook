@@ -36,10 +36,10 @@ This study demonstrates the implementation of a 15.6k parameter, one-layer GPT m
 ## Related Videos
 
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 26 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `zig` · `learning` · `systems`)
-- [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 61 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `zig` · `optimization` · `cache`)
+- [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 62 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `zig` · `optimization` · `cache`)
 - [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 85 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `zig` · `optimization` · `cache`)
+- [The Confluent Systems Master Plan](https://youtu.be/J6dRkXZhnIQ) — Development · 34 views · Jul 9, 2026 · [Details](J6dRkXZhnIQ.md) (shared: `optimization` · `cache` · `learning`)
 - [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 19 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `zig` · `learning` · `framework`)
-- [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `zig` · `optimization`)
 
 ---
 *Auto-generated on Apr 6, 2026. Back to [development](../development.md) · [index](../index.md).*

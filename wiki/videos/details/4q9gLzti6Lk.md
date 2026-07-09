@@ -9,8 +9,8 @@ summarized: 2026-06-23T01:00:00.000Z
 
 ## Related Videos
 
-- [The Agent-First Paradigm](https://youtu.be/ElxPa5vX9Kc) — Development · 20 views · Jun 17, 2026 · [Details](ElxPa5vX9Kc.md) (shared: `agent` · `integration` · `local`)
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 58 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `framework` · `integration` · `safety`)
+- [The Agent-First Paradigm](https://youtu.be/ElxPa5vX9Kc) — Development · 21 views · Jun 17, 2026 · [Details](ElxPa5vX9Kc.md) (shared: `agent` · `integration` · `local`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 59 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `framework` · `integration` · `safety`)
 - [AX: The Distributed Agent Runtime](https://youtu.be/xiTVDbJscik) — Development · 70 views · May 23, 2026 · [Details](xiTVDbJscik.md) (shared: `agent` · `streaming` · `runtime`)
 - [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 92 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `agent` · `policies` · `runtime`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 53 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `safety` · `management`)
