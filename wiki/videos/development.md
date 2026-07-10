@@ -105,7 +105,7 @@ updated: 2026-07-10
 ### AI & ML (58 videos)
 
 - [The Confluent Systems Master Plan](https://youtu.be/J6dRkXZhnIQ) -- 34 views, Jul 9, 2026 · [Details](details/J6dRkXZhnIQ.md)
-- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) -- 74 views, Jun 21, 2026 · [Details](details/OKXt-PJUuzE.md)
+- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) -- 72 views, Jun 21, 2026 · [Details](details/OKXt-PJUuzE.md)
 - [The Agent-First Paradigm](https://youtu.be/ElxPa5vX9Kc) -- 21 views, Jun 17, 2026 · [Details](details/ElxPa5vX9Kc.md)
 - [The AI Copilot Era Equation](https://youtu.be/xwEN7oZFvdw) -- 53 views, Jun 10, 2026 · [Details](details/xwEN7oZFvdw.md)
 - [temporal-chain: Architecture & Design](https://youtu.be/cuA7G01T7_U) -- 23 views, Jun 6, 2026 · [Details](details/cuA7G01T7_U.md)
@@ -284,7 +284,7 @@ updated: 2026-07-10
 | 7 | Architecture Blueprint: tn-svs | 10 | Jun 23, 2026 | [Watch](https://youtu.be/o3ba6XdMQA0) | [Wiki](details/o3ba6XdMQA0.md) |
 | 8 | Clean Architecture in Angular | 45 | Jun 23, 2026 | [Watch](https://youtu.be/RJGNh8L-8rw) | [Wiki](details/RJGNh8L-8rw.md) |
 | 9 | Building Autonomous Agents with the Antigravity SDK | 72 | Jun 22, 2026 | [Watch](https://youtu.be/4q9gLzti6Lk) | [Wiki](details/4q9gLzti6Lk.md) |
-| 10 | The Universal Engine for LLM Inference | 74 | Jun 21, 2026 | [Watch](https://youtu.be/OKXt-PJUuzE) | [Wiki](details/OKXt-PJUuzE.md) |
+| 10 | The Universal Engine for LLM Inference | 72 | Jun 21, 2026 | [Watch](https://youtu.be/OKXt-PJUuzE) | [Wiki](details/OKXt-PJUuzE.md) |
 | 11 | Mapping the NVIDIA CUDA Library Ecosystem | 17 | Jun 20, 2026 | [Watch](https://youtu.be/9tiUYnQL_y0) | [Wiki](details/9tiUYnQL_y0.md) |
 | 12 | SlideVoice Studio CLI Architecture | 12 | Jun 19, 2026 | [Watch](https://youtu.be/ISLXOiFqC50) | [Wiki](details/ISLXOiFqC50.md) |
 | 13 | The Agent-First Paradigm | 21 | Jun 17, 2026 | [Watch](https://youtu.be/ElxPa5vX9Kc) | [Wiki](details/ElxPa5vX9Kc.md) |

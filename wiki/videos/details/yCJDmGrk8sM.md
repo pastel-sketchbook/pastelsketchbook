@@ -39,7 +39,7 @@ This analysis explores 'Green Tea,' a fundamental redesign of the Go garbage col
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 356 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `garbage` · `collection` · `memory`)
 - [The End of the Functional Programming Tax](https://youtu.be/240fOdSvnpk) — Development · 74 views · Jun 14, 2026 · [Details](240fOdSvnpk.md) (shared: `garbage` · `collection` · `memory`)
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `cache locality` · `cache` · `locality`)
-- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 74 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `management` · `hardware` · `cache`)
+- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 72 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `management` · `hardware` · `cache`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

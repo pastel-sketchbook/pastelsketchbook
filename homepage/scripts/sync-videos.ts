@@ -316,6 +316,21 @@ async function syncVideos() {
     0
   )
 
+  // Preserve videos from committed config that aren't in any playlist (manual additions)
+  const manualIds: Record<string, string[]> = {}
+  for (const pl of PLAYLISTS) {
+    const current = currentIds[pl.name] || new Set()
+    const playlistIds = playlistData[pl.name] || []
+    const notInPlaylist = [...current].filter((id) => !playlistIds.includes(id))
+    if (notInPlaylist.length > 0) {
+      manualIds[pl.name] = notInPlaylist
+      playlistData[pl.name] = [...playlistIds, ...notInPlaylist]
+      console.log(`    ⊕ Preserved ${notInPlaylist.length} manual videos not in playlist`)
+    }
+  }
+
+  const allManualIds = Object.values(manualIds).flat()
+
   // Fetch metadata for all videos (do this before config write to detect hidden IDs)
   console.log('\n🎥 Fetching video metadata...')
   const allPlaylistVideoIds = Object.values(playlistData).flat()

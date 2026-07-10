@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T08:52:19.825Z",
+  "generatedAt": "2026-07-10T09:10:11.248Z",
   "totalVideos": 417,
   "categories": [
     {
@@ -19219,7 +19219,7 @@
         "security"
       ],
       "videoCount": 256,
-      "totalViews": 30518,
+      "totalViews": 30516,
       "topTags": [
         {
           "tag": "rust",
@@ -25422,7 +25422,7 @@
             {
               "id": "OKXt-PJUuzE",
               "title": "The Universal Engine for LLM Inference",
-              "views": 74,
+              "views": 72,
               "date": "2026-06-21T23:00:26Z",
               "category": "development",
               "tags": [
@@ -37172,7 +37172,7 @@
         {
           "id": "OKXt-PJUuzE",
           "title": "The Universal Engine for LLM Inference",
-          "views": 74,
+          "views": 72,
           "date": "2026-06-21T23:00:26Z",
           "category": "development",
           "tags": [
