@@ -1,6 +1,3 @@
-2ksi8K7wg3I
-xvqZFPf5X60
-fNN88ZXWYKU
-L9ypC5863yA
-z_W9dX6fliM
-NhYb7QkBdMs
+# missing_details.txt — videos without detail pages (excludes Shorts)
+# Shorts are hidden via HIDDEN_VIDEO_IDS and not processed for transcripts/details.
+# Re-check: for f in wiki/raw/transcripts/*.md; do id=$(basename "$f" .md); [ ! -f "wiki/videos/details/${id}.md" ] && echo "$id"; done

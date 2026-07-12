@@ -2,7 +2,7 @@
 type: tag
 tags: [tower-middleware]
 sources: 3
-updated: 2026-07-10
+updated: 2026-07-12
 ---
 
 # tower middleware
@@ -16,4 +16,4 @@ Videos connected by the topic `tower middleware`.
 - [The Rust SPNEGO Hub](https://youtu.be/33odiiNMGzQ) — Development · 14 views · Jul 3, 2026 · [Details](../details/33odiiNMGzQ.md)
 
 ---
-*Auto-generated on Jul 10, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 12, 2026. Back to [topic index](index.md).*

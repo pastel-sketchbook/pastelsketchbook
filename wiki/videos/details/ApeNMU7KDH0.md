@@ -30,7 +30,7 @@ A strategic relocation and investment briefing on Panama for 2026, framing the c
 
 ## Related Videos
 
-- [El Plan Maestro para Mudarse a Ecuador en 2026](https://youtu.be/7-mEDyQsJlI) — Korea · 11 views · May 19, 2026 · [Details](7-mEDyQsJlI.md) (shared: `relocation` · `visa` · `living`)
+- [El Plan Maestro para Mudarse a Ecuador en 2026](https://youtu.be/7-mEDyQsJlI) — Korea · 12 views · May 19, 2026 · [Details](7-mEDyQsJlI.md) (shared: `relocation` · `visa` · `living`)
 - [Dossier de Reubicación en Costa Rica](https://youtu.be/t-WvRifOu-E) — Korea · 8 views · May 20, 2026 · [Details](t-WvRifOu-E.md) (shared: `relocation` · `expatriate` · `pensionado`)
 - [Bocetos de Daejeon](https://youtu.be/nxuaOP3C1Ns) — Korea · 15 views · Feb 3, 2026 · [Details](nxuaOP3C1Ns.md) (shared: `city`)
 - [Seúl 2026: Tu Diario de Viaje](https://youtu.be/kvdBJSRUchA) — Korea · 13 views · Feb 11, 2026 · [Details](kvdBJSRUchA.md) (shared: `visa`)

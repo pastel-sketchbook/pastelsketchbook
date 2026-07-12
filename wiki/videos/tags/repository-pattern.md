@@ -2,7 +2,7 @@
 type: tag
 tags: [repository-pattern]
 sources: 6
-updated: 2026-07-10
+updated: 2026-07-12
 ---
 
 # repository pattern
@@ -16,7 +16,7 @@ Videos connected by the topic `repository pattern`.
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 37 views · Feb 20, 2026 · [Details](../details/3ybGkjogcFQ.md)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](../details/LWc3AAHoxnU.md)
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](../details/4_mBGmXA244.md)
-- [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 31 views · Feb 16, 2026 · [Details](../details/5Vloo08zQ7o.md)
+- [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 32 views · Feb 16, 2026 · [Details](../details/5Vloo08zQ7o.md)
 
 ---
-*Auto-generated on Jul 10, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 12, 2026. Back to [topic index](index.md).*

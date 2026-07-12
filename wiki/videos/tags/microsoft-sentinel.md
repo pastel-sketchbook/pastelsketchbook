@@ -2,7 +2,7 @@
 type: tag
 tags: [microsoft-sentinel]
 sources: 2
-updated: 2026-07-10
+updated: 2026-07-12
 ---
 
 # microsoft sentinel
@@ -15,4 +15,4 @@ Videos connected by the topic `microsoft sentinel`.
 - [Azure Enterprise Edge Lab](https://youtu.be/fMjflPvjaJ8) — Kubernetes · 9 views · Mar 31, 2026 · [Details](../details/fMjflPvjaJ8.md)
 
 ---
-*Auto-generated on Jul 10, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 12, 2026. Back to [topic index](index.md).*

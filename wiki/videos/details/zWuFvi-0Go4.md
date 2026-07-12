@@ -30,11 +30,11 @@ The pkg.go.dev API is Go's official programmatic gateway for package metadata, r
 
 ## Related Videos
 
+- [Architecting Enterprise Al Agents](https://youtu.be/zoT6ifQjXvQ) — Development · 34 views · Jul 11, 2026 · [Details](zoT6ifQjXvQ.md) (shared: `discovery` · `api` · `architecture`)
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 35 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `api` · `architecture` · `cli`)
+- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 23 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `package` · `api` · `architecture`)
 - [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 59 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `api` · `architecture` · `module`)
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `api` · `architecture` · `dependency`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 806 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `api` · `architecture` · `dependency`)
-- [The Blueprint of Reactivity](https://youtu.be/Gy-ky1pAF0U) — Development · 32 views · May 16, 2026 · [Details](Gy-ky1pAF0U.md) (shared: `architecture` · `dependency` · `graph`)
 
 ---
 *Auto-generated on May 24, 2026. Back to [development](../development.md) · [index](../index.md).*

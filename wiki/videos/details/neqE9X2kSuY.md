@@ -40,7 +40,7 @@ This security blueprint outlines a defense-in-depth architecture that replaces v
 - [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 53 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security`)
 - [The Orchestrator's Blueprint](https://youtu.be/Oa3jaLNSZvM) — Security · 36 views · Feb 28, 2026 · [Details](Oa3jaLNSZvM.md) (shared: `security`)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 18 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `security`)
-- [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 24 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `security`)
+- [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 25 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `security`)
 
 ---
 *Auto-generated on Jul 4, 2026. Back to [security](../security.md) · [index](../index.md).*

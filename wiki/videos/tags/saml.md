@@ -2,7 +2,7 @@
 type: tag
 tags: [saml]
 sources: 2
-updated: 2026-07-10
+updated: 2026-07-12
 ---
 
 # saml
@@ -15,4 +15,4 @@ Videos connected by the topic `saml`.
 - [Modern Hybrid Identity ](https://youtu.be/nJ10P-fRqZQ) — Kubernetes · 8 views · Mar 17, 2026 · [Details](../details/nJ10P-fRqZQ.md)
 
 ---
-*Auto-generated on Jul 10, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 12, 2026. Back to [topic index](index.md).*

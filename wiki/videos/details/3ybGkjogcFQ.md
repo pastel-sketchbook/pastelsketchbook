@@ -31,9 +31,9 @@ This video presents a three-tier state architecture using the repository pattern
 ## Related Videos
 
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `repository pattern` · `repository` · `pattern`)
-- [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 31 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `repository pattern` · `repository` · `pattern`)
+- [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 32 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `repository pattern` · `repository` · `pattern`)
 - [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 806 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `repository pattern` · `repository` · `pattern`)
-- [Clean Architecture in Angular](https://youtu.be/RJGNh8L-8rw) — Development · 45 views · Jun 23, 2026 · [Details](RJGNh8L-8rw.md) (shared: `repository` · `pattern` · `signals`)
+- [Clean Architecture in Angular](https://youtu.be/RJGNh8L-8rw) — Development · 46 views · Jun 23, 2026 · [Details](RJGNh8L-8rw.md) (shared: `repository` · `pattern` · `signals`)
 - [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 19 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `pattern` · `state management` · `state`)
 
 ---

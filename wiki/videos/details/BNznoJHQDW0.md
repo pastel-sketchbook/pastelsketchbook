@@ -36,7 +36,7 @@ This talk maps Baduk (Go) board heuristics onto algorithmic trading, modeling ma
 ## Related Videos
 
 - [Architecting the New Capital Regime](https://youtu.be/rjhabJ8Bx5U) — Finance · 17 views · May 21, 2026 · [Details](rjhabJ8Bx5U.md) (shared: `regime` · `portfolio`)
-- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 12 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `portfolio`)
+- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 15 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `portfolio`)
 - [An Ambitious Ascent](https://youtu.be/MDNRiJN7aEg) — Finance · 11 views · Dec 29, 2025 · [Details](MDNRiJN7aEg.md) (shared: `portfolio`)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) — Finance · 47 views · Mar 26, 2026 · [Details](hnMR8rdGCnU.md) (shared: `trap`)
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `portfolio`)

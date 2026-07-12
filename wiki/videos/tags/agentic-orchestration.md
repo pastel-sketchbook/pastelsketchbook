@@ -2,7 +2,7 @@
 type: tag
 tags: [agentic-orchestration]
 sources: 2
-updated: 2026-07-10
+updated: 2026-07-12
 ---
 
 # agentic orchestration
@@ -15,4 +15,4 @@ Videos connected by the topic `agentic orchestration`.
 - [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 67 views · Apr 24, 2026 · [Details](../details/z_W9dX6fliM.md)
 
 ---
-*Auto-generated on Jul 10, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 12, 2026. Back to [topic index](index.md).*

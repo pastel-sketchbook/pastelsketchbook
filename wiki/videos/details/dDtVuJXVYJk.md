@@ -30,7 +30,7 @@ This video traces the evolution of database design from strict relational normal
 
 ## Related Videos
 
-- [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 31 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `normalization` · `data` · `architecture`)
+- [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 32 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `normalization` · `data` · `architecture`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `database` · `distributed` · `data`)
 - [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) — Development · 81 views · Apr 6, 2026 · [Details](IYfTi_HNDl4.md) (shared: `distributed` · `architecture`)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 39 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `distributed` · `architecture`)

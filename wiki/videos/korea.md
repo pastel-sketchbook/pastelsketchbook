@@ -3,7 +3,7 @@ type: category
 category: korea
 tags: [viaje, corea, seul, jeju, ganghwa, sokcho, daejeon, danyang, jinju, yeosu]
 sources: 20
-updated: 2026-07-10
+updated: 2026-07-12
 ---
 
 # Korea
@@ -15,7 +15,7 @@ updated: 2026-07-10
 | Metric | Value |
 |--------|-------|
 | Videos | 20 |
-| Total Views | 243 |
+| Total Views | 244 |
 | Most Recent | May 20, 2026 |
 | Oldest | Dec 26, 2025 |
 ## All Videos
@@ -23,7 +23,7 @@ updated: 2026-07-10
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
 | 1 | Dossier de Reubicación en Costa Rica | 8 | May 20, 2026 | [Watch](https://youtu.be/t-WvRifOu-E) | [Wiki](details/t-WvRifOu-E.md) |
-| 2 | El Plan Maestro para Mudarse a Ecuador en 2026 | 11 | May 19, 2026 | [Watch](https://youtu.be/7-mEDyQsJlI) | [Wiki](details/7-mEDyQsJlI.md) |
+| 2 | El Plan Maestro para Mudarse a Ecuador en 2026 | 12 | May 19, 2026 | [Watch](https://youtu.be/7-mEDyQsJlI) | [Wiki](details/7-mEDyQsJlI.md) |
 | 3 | Dossier de Reubicación e Inversión: Panamá 2026 | 5 | May 18, 2026 | [Watch](https://youtu.be/ApeNMU7KDH0) | [Wiki](details/ApeNMU7KDH0.md) |
 | 4 | El Arte de Pedir Comida en Español | 14 | Apr 2, 2026 | [Watch](https://youtu.be/z76NXRg1YWs) | [Wiki](details/z76NXRg1YWs.md) |
 | 5 | Guía de Supervivencia en Latinoamérica | 10 | Mar 27, 2026 | [Watch](https://youtu.be/vH8kEIlJXf0) | [Wiki](details/vH8kEIlJXf0.md) |
@@ -52,4 +52,4 @@ updated: 2026-07-10
 - [Finance](finance.md)
 
 ---
-*Auto-generated on Jul 10, 2026. Back to [index](index.md).*
+*Auto-generated on Jul 12, 2026. Back to [index](index.md).*

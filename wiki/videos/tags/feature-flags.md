@@ -2,7 +2,7 @@
 type: tag
 tags: [feature-flags]
 sources: 4
-updated: 2026-07-10
+updated: 2026-07-12
 ---
 
 # feature flags
@@ -17,4 +17,4 @@ Videos connected by the topic `feature flags`.
 - [OpenFeature: The Standard for Feature Flagging](https://youtu.be/X65YHZUnFq0) — Development · 52 views · Apr 16, 2026 · [Details](../details/X65YHZUnFq0.md)
 
 ---
-*Auto-generated on Jul 10, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 12, 2026. Back to [topic index](index.md).*

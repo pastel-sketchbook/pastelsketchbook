@@ -36,10 +36,10 @@ Rust 1.96 delivers coordinated upgrades across three core pillars — the langua
 ## Related Videos
 
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `rust` · `performance` · `optimization`)
+- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 23 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `rust` · `macro` · `build`)
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `complexity` · `optimization`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `performance`)
 - [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 85 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `performance` · `optimization`)
-- [Hardening a Prototype](https://youtu.be/DCGTYftRGWE) — Development · 24 views · Jan 25, 2026 · [Details](DCGTYftRGWE.md) (shared: `performance` · `optimization`)
 
 ---
 *Auto-generated on May 30, 2026. Back to [development](../development.md) · [index](../index.md).*

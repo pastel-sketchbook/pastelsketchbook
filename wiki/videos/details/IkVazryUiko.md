@@ -33,7 +33,7 @@ This video explores fzf (fuzzy finder) as a workflow revolution, distinguishing 
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `command` · `cli` · `optimization`)
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 143 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `productivity` · `workflow`)
 - [Leetgo](https://youtu.be/MuDJGnGTn3k) — Development · 59 views · Apr 9, 2026 · [Details](MuDJGnGTn3k.md) (shared: `productivity` · `cli`)
-- [Reed: The Modern Terminal File Viewer](https://youtu.be/oUTf9j6fWJo) — Development · 147 views · Mar 30, 2026 · [Details](oUTf9j6fWJo.md) (shared: `cli` · `tools`)
+- [Reed: The Modern Terminal File Viewer](https://youtu.be/oUTf9j6fWJo) — Development · 149 views · Mar 30, 2026 · [Details](oUTf9j6fWJo.md) (shared: `cli` · `tools`)
 - [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 708 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `workflow` · `optimization`)
 
 ---

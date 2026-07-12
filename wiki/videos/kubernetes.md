@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, azure, rabbitmq, istio, aws, cue, k8s, rust, go]
 sources: 76
-updated: 2026-07-10
+updated: 2026-07-12
 ---
 
 # Kubernetes
@@ -48,7 +48,7 @@ updated: 2026-07-10
 
 ### Messaging (10 videos)
 
-- [RabbitMQ 4.2.8 Plugin Ecosystem](https://youtu.be/6XAbKoeK9JU) -- 13 views, Jul 8, 2026 · [Details](details/6XAbKoeK9JU.md)
+- [RabbitMQ 4.2.8 Plugin Ecosystem](https://youtu.be/6XAbKoeK9JU) -- 14 views, Jul 8, 2026 · [Details](details/6XAbKoeK9JU.md)
 - [Engineering High-Performance Distributed Systems with Rust and AWS](https://youtu.be/sZRIbxwHSCo) -- 6 views, Jun 10, 2026 · [Details](details/sZRIbxwHSCo.md)
 - [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) -- 47 views, May 7, 2026 · [Details](details/V9tvg6Yg3m4.md)
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) -- 21 views, Apr 7, 2026 · [Details](details/KdLQEv3Tiiw.md)
@@ -123,7 +123,7 @@ updated: 2026-07-10
 
 ### Security (8 videos)
 
-- [Architecting Enterprise Secret Management in Rust](https://youtu.be/JrCT7Xu-aGU) -- 13 views, Jun 25, 2026 · [Details](details/JrCT7Xu-aGU.md)
+- [Architecting Enterprise Secret Management in Rust](https://youtu.be/JrCT7Xu-aGU) -- 15 views, Jun 25, 2026 · [Details](details/JrCT7Xu-aGU.md)
 - [DevSecOps on Azure Kubernetes Service](https://youtu.be/-e7kvcUXxtw) -- 23 views, Apr 29, 2026 · [Details](details/-e7kvcUXxtw.md)
 - [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) -- 65 views, Feb 5, 2026 · [Details](details/rgY4KTMFOMs.md)
 - [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) -- 32 views, Jan 27, 2026 · [Details](details/KpSjLQpswW4.md)
@@ -145,7 +145,7 @@ updated: 2026-07-10
 
 ### Rust (7 videos)
 
-- [Architecting Enterprise Secret Management in Rust](https://youtu.be/JrCT7Xu-aGU) -- 13 views, Jun 25, 2026 · [Details](details/JrCT7Xu-aGU.md)
+- [Architecting Enterprise Secret Management in Rust](https://youtu.be/JrCT7Xu-aGU) -- 15 views, Jun 25, 2026 · [Details](details/JrCT7Xu-aGU.md)
 - [Engineering High-Performance Distributed Systems with Rust and AWS](https://youtu.be/sZRIbxwHSCo) -- 6 views, Jun 10, 2026 · [Details](details/sZRIbxwHSCo.md)
 - [Introducing ExtendDB](https://youtu.be/LxI5YjCUswI) -- 51 views, May 24, 2026 · [Details](details/LxI5YjCUswI.md)
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 76 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
@@ -155,7 +155,7 @@ updated: 2026-07-10
 
 ### Identity & Auth (6 videos)
 
-- [Architecting Enterprise Secret Management in Rust](https://youtu.be/JrCT7Xu-aGU) -- 13 views, Jun 25, 2026 · [Details](details/JrCT7Xu-aGU.md)
+- [Architecting Enterprise Secret Management in Rust](https://youtu.be/JrCT7Xu-aGU) -- 15 views, Jun 25, 2026 · [Details](details/JrCT7Xu-aGU.md)
 - [The Architecture of Modern Identity](https://youtu.be/n-Yt33ZdEHw) -- 62 views, Mar 18, 2026 · [Details](details/n-Yt33ZdEHw.md)
 - [Modern Hybrid Identity ](https://youtu.be/nJ10P-fRqZQ) -- 8 views, Mar 17, 2026 · [Details](details/nJ10P-fRqZQ.md)
 - [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) -- 65 views, Feb 5, 2026 · [Details](details/rgY4KTMFOMs.md)
@@ -180,9 +180,9 @@ updated: 2026-07-10
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | RabbitMQ 4.2.8 Plugin Ecosystem | 13 | Jul 8, 2026 | [Watch](https://youtu.be/6XAbKoeK9JU) | [Wiki](details/6XAbKoeK9JU.md) |
-| 2 | Azure Linux 4.0 and the Al-Native Cloud Era | 19 | Jul 5, 2026 | [Watch](https://youtu.be/o9x4daXS4Rk) | [Wiki](details/o9x4daXS4Rk.md) |
-| 3 | Architecting Enterprise Secret Management in Rust | 13 | Jun 25, 2026 | [Watch](https://youtu.be/JrCT7Xu-aGU) | [Wiki](details/JrCT7Xu-aGU.md) |
+| 1 | RabbitMQ 4.2.8 Plugin Ecosystem | 14 | Jul 8, 2026 | [Watch](https://youtu.be/6XAbKoeK9JU) | [Wiki](details/6XAbKoeK9JU.md) |
+| 2 | Azure Linux 4.0 and the Al-Native Cloud Era | 23 | Jul 5, 2026 | [Watch](https://youtu.be/o9x4daXS4Rk) | [Wiki](details/o9x4daXS4Rk.md) |
+| 3 | Architecting Enterprise Secret Management in Rust | 15 | Jun 25, 2026 | [Watch](https://youtu.be/JrCT7Xu-aGU) | [Wiki](details/JrCT7Xu-aGU.md) |
 | 4 | AWS Database Selection Blueprint | 13 | Jun 12, 2026 | [Watch](https://youtu.be/78Sm363xiIw) | [Wiki](details/78Sm363xiIw.md) |
 | 5 | Architecting Al at Global Scale | 5 | Jun 11, 2026 | [Watch](https://youtu.be/PofJfj6nRuw) | [Wiki](details/PofJfj6nRuw.md) |
 | 6 | Engineering High-Performance Distributed Systems with Rust and AWS | 6 | Jun 10, 2026 | [Watch](https://youtu.be/sZRIbxwHSCo) | [Wiki](details/sZRIbxwHSCo.md) |
@@ -196,7 +196,7 @@ updated: 2026-07-10
 | 14 | DevSecOps on Azure Kubernetes Service | 23 | Apr 29, 2026 | [Watch](https://youtu.be/-e7kvcUXxtw) | [Wiki](details/-e7kvcUXxtw.md) |
 | 15 | Architecting Cost Efficiency for Al Workloads | 25 | Apr 25, 2026 | [Watch](https://youtu.be/eaPXjvB194w) | [Wiki](details/eaPXjvB194w.md) |
 | 16 | Enterprise Infrastructure as Code for Al Agents | 68 | Apr 25, 2026 | [Watch](https://youtu.be/quD4pyCwKB4) | [Wiki](details/quD4pyCwKB4.md) |
-| 17 | Kubernetes 1.36 (Haru) | 79 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
+| 17 | Kubernetes 1.36 (Haru) | 82 | Apr 23, 2026 | [Watch](https://youtu.be/2ksi8K7wg3I) | [Wiki](details/2ksi8K7wg3I.md) |
 | 18 | Architecting Modern Deployments | 16 | Apr 22, 2026 | [Watch](https://youtu.be/eZNBXDUc8OQ) | [Wiki](details/eZNBXDUc8OQ.md) |
 | 19 | Scaling Node.js from PM2 to Cloud-Native Orchestration | 21 | Apr 22, 2026 | [Watch](https://youtu.be/p9LNSeAt5Zw) | [Wiki](details/p9LNSeAt5Zw.md) |
 | 20 | The Cloud Rosetta Stone | 23 | Apr 18, 2026 | [Watch](https://youtu.be/PMgUhFxrjPc) | [Wiki](details/PMgUhFxrjPc.md) |
@@ -264,9 +264,9 @@ updated: 2026-07-10
 ## See Also
 
 - [Security](security.md) -- shared tags: `ai`, `zero trust`, `shift left`, `agent`, `azure`, `aws`, `secret`, `orchestration`, `governance`, `security`
-- [Development](development.md) -- shared tags: `ai`, `curiosity`, `zero trust`, `shift left`, `agent`, `rabbitmq`, `db`, `polyglot`, `copilot`, `messaging`, `cloud native`, `rust`, `go`, `internal`, `cost`, `skill`, `cloud`, `scylladb`, `cdc`, `java`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `quic`, `engineering`, `migration`, `identity`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `nats`, `sdk`
+- [Development](development.md) -- shared tags: `ai`, `curiosity`, `zero trust`, `rust`, `shift left`, `agent`, `identity`, `rabbitmq`, `db`, `polyglot`, `copilot`, `messaging`, `cloud native`, `go`, `internal`, `cost`, `skill`, `cloud`, `scylladb`, `cdc`, `java`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `quic`, `engineering`, `migration`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `nats`, `sdk`
 - [Finance](finance.md) -- shared tags: `ai`, `curiosity`
-- [Programming](programming.md) -- shared tags: `vercel`
+- [Programming](programming.md) -- shared tags: `rust`, `identity`, `vercel`
 
 ---
-*Auto-generated on Jul 10, 2026. Back to [index](index.md).*
+*Auto-generated on Jul 12, 2026. Back to [index](index.md).*

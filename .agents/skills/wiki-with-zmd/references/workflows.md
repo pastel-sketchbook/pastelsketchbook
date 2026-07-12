@@ -223,6 +223,7 @@ task wiki:details -- --id <VIDEO_ID> --force
 - **Do not commit empty or stub files** — transcripts must have `## Transcript`,
   details must have `## Summary`, `## Key Takeaways`, `## Topics Covered`.
 - **Evaluate book placement** for every new video with a detail page.
+- **Never count Shorts in totals** — transcript counts, detail counts, bundle totals, book videoIds, missing-detail tracking, and any aggregate numbers must exclude Shorts-format videos. Shorts belong only in `HIDDEN_VIDEO_IDS`.
 
 ## Syncing New Videos to Books
 
