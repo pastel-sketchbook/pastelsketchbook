@@ -32,7 +32,7 @@ A walk through the Typst compiler engine, tracing a `.typ` source file through p
 
 - [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 158 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline` · `layout` · `svg`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `pipeline` · `cli`)
-- [SlideVoice Studio CLI Architecture](https://youtu.be/ISLXOiFqC50) — Development · 12 views · Jun 19, 2026 · [Details](ISLXOiFqC50.md) (shared: `pipeline` · `cli`)
+- [SlideVoice Studio CLI Architecture](https://youtu.be/ISLXOiFqC50) — Development · 13 views · Jun 19, 2026 · [Details](ISLXOiFqC50.md) (shared: `pipeline` · `cli`)
 - [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 40 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `pipeline` · `rules`)
 - [svs-cli: 10 Critical Things](https://youtu.be/S3Vc_R-HezY) — Development · 15 views · May 24, 2026 · [Details](S3Vc_R-HezY.md) (shared: `pipeline` · `layout`)
 

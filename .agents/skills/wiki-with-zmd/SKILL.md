@@ -32,7 +32,11 @@ description: |
 - Use `zmd context` + `zmd get` as primary retrieval workflow
 - `## Related Videos` is auto-generated — do not write manually
 - New videos with details go into `homepage/public/books.json`
-- **Ignore YouTube Shorts** — do not fetch transcripts, generate detail pages, add to books, or count in any totals for Shorts-format videos (identified by `#science #softwarearchitect #smartphone` tags in title, very short transcript <2KB, or user confirmation). Add them to `HIDDEN_VIDEO_IDS` in `homepage/src/config/videos.ts` instead. Shorts must be excluded from all counts: transcript counts, detail counts, bundle totals, book videoIds, and missing-detail tracking.
+- **Ignore YouTube Shorts** — do not fetch transcripts, generate detail pages, add to books, or count in any totals for Shorts. Detection is **duration-based** (authoritative), not title tags:
+  1. **Primary:** YouTube `contentDetails.duration` **< 2 minutes (120s)** (`homepage/src/lib/youtube-shorts.ts`, applied in `sync-videos.ts`)
+  2. **Offline fallback:** transcript body/file < ~2.5KB
+  3. **Last resort only:** legacy `#science #softwarearchitect #smartphone` title tags (optional; many Shorts ship without them)
+  Auto-add Shorts to `HIDDEN_VIDEO_IDS`. Never count them in transcript/detail/bundle/book totals or missing-detail tracking.
 
 ## Examples
 

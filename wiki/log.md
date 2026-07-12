@@ -433,3 +433,20 @@ Exported 1 transcript files (single: J6dRkXZhnIQ) to `wiki/raw/transcripts`.
 ## [2026-07-12] ingest | Video Metadata Sync
 
 Synced 425 videos across 6 categories (korea=20, finance=38, kubernetes=76, development=259, security=19, programming=13).
+
+## [2026-07-14] ingest | Video Transcripts
+
+Exported 5 transcript files (all videos) to `wiki/raw/transcripts`.
+
+## [2026-07-14] ingest | Video Details
+
+Generated 5 video detail pages (all videos).
+
+## [2026-07-14] ingest | Video Metadata Sync
+
+Synced 430 videos across 6 categories (korea=20, finance=40, kubernetes=76, development=260, security=19, programming=15).
+
+## [2026-07-14] ingest | Release 3 full videos + hide Shorts
+
+Released full videos from HIDDEN: RvgI3oEThcA (Flattening the Hierarchy), Aw8arLm35M8 (The Cash Pump Blueprint), 3DH2V55G1ck (The Physical AI Ecosystem) — transcripts, details, books, public mirror.
+Hid Shorts (< 2 min) from showcase: aLDQbPWIcjg, N10JYRFINZ4 (plus existing Shorts). Removed Short stubs from raw/public/details.

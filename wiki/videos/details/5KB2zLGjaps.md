@@ -34,7 +34,7 @@ This video explains the Conventional Commits specification as a cornerstone for 
 - [The Modern Git Playbook](https://youtu.be/Z06RjO-zFxI) — Development · 33 views · Jan 18, 2026 · [Details](Z06RjO-zFxI.md) (shared: `git` · `workflow`)
 - [The Art of Git Gardening](https://youtu.be/PNFlYx8HiOM) — Development · 16 views · Dec 31, 2025 · [Details](PNFlYx8HiOM.md) (shared: `commit` · `git`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `automated` · `generation`)
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 708 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `standards` · `workflow`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 709 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `standards` · `workflow`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

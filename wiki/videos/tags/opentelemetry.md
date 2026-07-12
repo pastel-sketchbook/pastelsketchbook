@@ -2,7 +2,7 @@
 type: tag
 tags: [opentelemetry]
 sources: 4
-updated: 2026-07-12
+updated: 2026-07-14
 ---
 
 # opentelemetry
@@ -17,4 +17,4 @@ Videos connected by the topic `opentelemetry`.
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 39 views · Mar 23, 2026 · [Details](../details/INNKxTAagE4.md)
 
 ---
-*Auto-generated on Jul 12, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 14, 2026. Back to [topic index](index.md).*

@@ -31,7 +31,7 @@ This video pitches a “unified audio stack” built around TanStack AI, aiming 
 
 ## Related Videos
 
-- [Building vibe-rust](https://youtu.be/BT08SXPvV6U) — Development · 64 views · Apr 4, 2026 · [Details](BT08SXPvV6U.md) (shared: `text-to-speech` · `tts` · `stt`)
+- [Building vibe-rust](https://youtu.be/BT08SXPvV6U) — Development · 65 views · Apr 4, 2026 · [Details](BT08SXPvV6U.md) (shared: `text-to-speech` · `tts` · `stt`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 32 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `typed` · `adapter` · `architecture`)
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `generation` · `adapter` · `architecture`)
 - [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 24 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `generation` · `adapter` · `architecture`)

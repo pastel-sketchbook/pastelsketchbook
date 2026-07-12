@@ -35,7 +35,7 @@ This talk presents the Microsoft Copilot blueprint for running hundreds of milli
 
 ## Related Videos
 
-- [Azure Linux 4.0 and the Al-Native Cloud Era](https://youtu.be/o9x4daXS4Rk) — Kubernetes · 23 views · Jul 5, 2026 · [Details](o9x4daXS4Rk.md) (shared: `azure` · `management` · `agentic`)
+- [Azure Linux 4.0 and the Al-Native Cloud Era](https://youtu.be/o9x4daXS4Rk) — Kubernetes · 24 views · Jul 5, 2026 · [Details](o9x4daXS4Rk.md) (shared: `azure` · `management` · `agentic`)
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](C6wLm6NRZW4.md) (shared: `azure` · `aks`)
 - [Bridging Helm and CUE for Deterministic Value Composition](https://youtu.be/7eoxSgjwYlM) — Kubernetes · 26 views · Feb 19, 2026 · [Details](7eoxSgjwYlM.md) (shared: `management` · `engineering`)
 - [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 16 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `management` · `aks`)

@@ -34,7 +34,7 @@ This talk argues for a mandatory — not optional — Python tooling baseline bu
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 21 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `uv package manager` · `package` · `manager`)
 - [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 55 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `python` · `workflow`)
 - [Architecting Modern JavaScript Modules](https://youtu.be/Fqokr0P2_ag) — Development · 22 views · May 25, 2026 · [Details](Fqokr0P2_ag.md) (shared: `tooling` · `static`)
-- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 23 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `package` · `type`)
+- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 47 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `package` · `type`)
 - [Modern Dart](https://youtu.be/JBh6rzeS-Qc) — Development · 81 views · Jan 20, 2026 · [Details](JBh6rzeS-Qc.md) (shared: `type`)
 
 ---

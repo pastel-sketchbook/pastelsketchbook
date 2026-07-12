@@ -34,7 +34,7 @@ This Korean-language video introduces fundamental algorithm concepts using a coo
 - [타입스크립트와 번으로 배우는 프로그래밍 1](https://youtu.be/T5FjMjTQCBI) — Programming · 80 views · Jan 10, 2026 · [Details](T5FjMjTQCBI.md) (shared: `typescript basics` · `typescript` · `basics`)
 - [비동기 처리 - async/await](https://youtu.be/F6aMGDfVAFg) — Programming · 20 views · Jan 10, 2026 · [Details](F6aMGDfVAFg.md) (shared: `typescript`)
 - [타입스크립트와 번으로 만드는 TODO 리스트](https://youtu.be/D1Hth_78ftg) — Programming · 9 views · Jan 10, 2026 · [Details](D1Hth_78ftg.md) (shared: `typescript`)
-- [Reasoning Under Uncertainty](https://youtu.be/z2SA6P7WNoc) — Development · 159 views · Apr 3, 2026 · [Details](z2SA6P7WNoc.md) (shared: `algorithm` · `base`)
+- [Reasoning Under Uncertainty](https://youtu.be/z2SA6P7WNoc) — Development · 160 views · Apr 3, 2026 · [Details](z2SA6P7WNoc.md) (shared: `algorithm` · `base`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [programming](../programming.md) · [index](../index.md).*

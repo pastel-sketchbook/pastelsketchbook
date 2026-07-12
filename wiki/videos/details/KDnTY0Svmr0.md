@@ -33,8 +33,8 @@ This video presents a custom integration architecture between Adobe Experience M
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `integration` · `enterprise`)
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 21 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `manager` · `management`)
 - [React Native vs. Flutter for Enterprise Apps](https://youtu.be/jzjGcFkAnfs) — Development · 32 views · Feb 26, 2026 · [Details](jzjGcFkAnfs.md) (shared: `bridge` · `enterprise`)
-- [Building Autonomous Agents with the Antigravity SDK](https://youtu.be/4q9gLzti6Lk) — Development · 79 views · Jun 22, 2026 · [Details](4q9gLzti6Lk.md) (shared: `integration` · `management`)
-- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 10 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `search` · `integration`)
+- [Building Autonomous Agents with the Antigravity SDK](https://youtu.be/4q9gLzti6Lk) — Development · 86 views · Jun 22, 2026 · [Details](4q9gLzti6Lk.md) (shared: `integration` · `management`)
+- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 11 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `search` · `integration`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

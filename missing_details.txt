@@ -1,3 +1,4 @@
 # missing_details.txt — videos without detail pages (excludes Shorts)
-# Shorts are hidden via HIDDEN_VIDEO_IDS and not processed for transcripts/details.
+# Shorts: duration < 2 min (YouTube contentDetails) — NOT title tags. See homepage/src/lib/youtube-shorts.ts
+# Shorts are auto-hidden via HIDDEN_VIDEO_IDS and not processed for transcripts/details.
 # Re-check: for f in wiki/raw/transcripts/*.md; do id=$(basename "$f" .md); [ ! -f "wiki/videos/details/${id}.md" ] && echo "$id"; done

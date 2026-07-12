@@ -2,7 +2,7 @@
 type: tag
 tags: [configuration-management]
 sources: 4
-updated: 2026-07-12
+updated: 2026-07-14
 ---
 
 # configuration management
@@ -14,7 +14,7 @@ Videos connected by the topic `configuration management`.
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) — Kubernetes · 29 views · Mar 16, 2026 · [Details](../details/LUOX5xkSyi0.md)
 - [Bridging Helm and CUE for Deterministic Value Composition](https://youtu.be/7eoxSgjwYlM) — Kubernetes · 26 views · Feb 19, 2026 · [Details](../details/7eoxSgjwYlM.md)
 - [Beyond Static Configuration](https://youtu.be/okVlu1qseI4) — Kubernetes · 25 views · Feb 15, 2026 · [Details](../details/okVlu1qseI4.md)
-- [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 15 views · Mar 16, 2026 · [Details](../details/to1PClyd0YA.md)
+- [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 16 views · Mar 16, 2026 · [Details](../details/to1PClyd0YA.md)
 
 ---
-*Auto-generated on Jul 12, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 14, 2026. Back to [topic index](index.md).*

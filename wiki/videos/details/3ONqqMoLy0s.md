@@ -38,8 +38,8 @@ This talk traces the journey from 2D images to a continuous 4D reconstruction of
 - [The Architecture of a Virtual Voice](https://youtu.be/aQpGQClZSvc) — Development · 18 views · May 27, 2026 · [Details](aQpGQClZSvc.md) (shared: `neural` · `modeling` · `synthesis`)
 - [The Geometry of Light](https://youtu.be/_mwtz_8lBWc) — Development · 30 views · Mar 21, 2026 · [Details](_mwtz_8lBWc.md) (shared: `lighting` · `pipeline`)
 - [Neural TTS in Pastel-HN](https://youtu.be/d_0swhS1LyQ) — Development · 46 views · Feb 1, 2026 · [Details](d_0swhS1LyQ.md) (shared: `neural` · `synthesis`)
-- [The PyTorch Architecture Blueprint](https://youtu.be/KXx_6BhzOFE) — Development · 46 views · Jun 13, 2026 · [Details](KXx_6BhzOFE.md) (shared: `dynamic` · `pipeline`)
-- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 23 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `hybrid` · `pipeline`)
+- [The PyTorch Architecture Blueprint](https://youtu.be/KXx_6BhzOFE) — Development · 47 views · Jun 13, 2026 · [Details](KXx_6BhzOFE.md) (shared: `dynamic` · `pipeline`)
+- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 47 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `hybrid` · `pipeline`)
 
 ---
 *Auto-generated on May 28, 2026. Back to [development](../development.md) · [index](../index.md).*

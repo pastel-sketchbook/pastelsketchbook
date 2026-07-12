@@ -36,7 +36,7 @@ Oh My Open Agent (OMO) is a multi-model orchestrator designed to replace single-
 ## Related Videos
 
 - [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 281 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `orchestration` · `model context protocol (mcp)` · `model context protocol`)
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 708 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model context protocol` · `model` · `context`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 709 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model context protocol` · `model` · `context`)
 - [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](9oSUtndLto4.md) (shared: `model context protocol` · `model` · `context`)
 - [The AI Copilot Era Equation](https://youtu.be/xwEN7oZFvdw) — Development · 53 views · Jun 10, 2026 · [Details](xwEN7oZFvdw.md) (shared: `model` · `architecture` · `language`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `model` · `autonomous` · `architecture`)

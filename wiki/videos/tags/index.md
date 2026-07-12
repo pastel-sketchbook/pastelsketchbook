@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-07-12
+updated: 2026-07-14
 ---
 
 # Topic Index
@@ -43,6 +43,7 @@ Total topics: 174
 - [bun runtime](bun-runtime.md) (3)
 - [ci/cd pipeline](ci-cd-pipeline.md) (3)
 - [cloth simulation](cloth-simulation.md) (3)
+- [composition over inheritance](composition-over-inheritance.md) (3)
 - [cue language](cue-language.md) (3)
 - [defense in depth](defense-in-depth.md) (3)
 - [duckdb](duckdb.md) (3)
@@ -83,7 +84,6 @@ Total topics: 174
 - [clusterip](clusterip.md) (2)
 - [cognitive load](cognitive-load.md) (2)
 - [compliance](compliance.md) (2)
-- [composition over inheritance](composition-over-inheritance.md) (2)
 - [compound interest](compound-interest.md) (2)
 - [comptime](comptime.md) (2)
 - [connection migration](connection-migration.md) (2)
@@ -187,4 +187,4 @@ Total topics: 174
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Jul 12, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Jul 14, 2026. Back to [videos index](../index.md).*

@@ -15,6 +15,7 @@
 import { readFileSync, writeFileSync } from 'fs'
 import { resolve } from 'path'
 import { allVideoIds, videoCategories } from '../src/config/videos'
+import { isYouTubeShort, parseIso8601Duration } from '../src/lib/youtube-shorts'
 
 // Load env variables from .env.local
 function loadEnv() {
@@ -51,6 +52,10 @@ interface VideoMetadata {
   views: number
   date: string
   tags?: string[]
+  /** Duration in seconds from YouTube contentDetails (Shorts detection). */
+  durationSec?: number
+  /** True when classified as a YouTube Short. */
+  isShort?: boolean
 }
 
 const PLAYLISTS: PlaylistConfig[] = [
@@ -117,25 +122,30 @@ async function fetchPlaylistVideos(
 
 interface FetchResult {
   metadata: VideoMetadata[]
+  /** Private/deleted/missing IDs — always hidden. */
   hiddenIds: string[]
+  /** YouTube Shorts detected via duration < 2 min — always hidden from wiki pipeline. */
+  shortIds: string[]
 }
 
 async function fetchVideoMetadata(
   videoIds: string[],
   apiKey: string
 ): Promise<FetchResult> {
-  if (videoIds.length === 0) return { metadata: [], hiddenIds: [] }
+  if (videoIds.length === 0) return { metadata: [], hiddenIds: [], shortIds: [] }
 
   const allMetadata: VideoMetadata[] = []
   const returnedIds = new Set<string>()
   const nonPublicIds: string[] = []
+  const shortIds: string[] = []
   const BATCH_SIZE = 50 // YouTube API max is 50 per request
 
   try {
     for (let i = 0; i < videoIds.length; i += BATCH_SIZE) {
       const batch = videoIds.slice(i, i + BATCH_SIZE)
       const ids = batch.join(',')
-      const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics,status&id=${ids}&key=${apiKey}`
+      // contentDetails.duration is the authoritative Shorts signal (title tags are optional)
+      const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics,status,contentDetails&id=${ids}&key=${apiKey}`
 
       const response = await fetch(url)
 
@@ -161,12 +171,26 @@ async function fetchVideoMetadata(
           continue
         }
 
+        const durationIso = item.contentDetails?.duration as string | undefined
+        const durationSec = parseIso8601Duration(durationIso) ?? undefined
+        const title = item.snippet.title || ''
+        const short = isYouTubeShort({ durationSec, durationIso, title })
+
+        if (short) {
+          shortIds.push(item.id)
+          console.log(
+            `    🩳 Short detected ${item.id} (${durationSec ?? '?'}s) — ${title.slice(0, 50)}`
+          )
+        }
+
         allMetadata.push({
           id: item.id,
-          title: item.snippet.title || '',
+          title,
           views: Number(item.statistics.viewCount) || 0,
           date: item.snippet.publishedAt || new Date().toISOString(),
-          tags: (item.snippet.tags || []).map((tag: string) => tag.toLowerCase())
+          tags: (item.snippet.tags || []).map((tag: string) => tag.toLowerCase()),
+          ...(durationSec != null ? { durationSec } : {}),
+          isShort: short
         })
       }
     }
@@ -178,13 +202,13 @@ async function fetchVideoMetadata(
     }
 
     const hiddenIds = [...nonPublicIds, ...missingIds]
-    return { metadata: allMetadata, hiddenIds }
+    return { metadata: allMetadata, hiddenIds, shortIds }
   } catch (error) {
     console.error(
       'Failed to fetch video metadata:',
       error instanceof Error ? error.message : error
     )
-    return { metadata: [], hiddenIds: [] }
+    return { metadata: [], hiddenIds: [], shortIds: [] }
   }
 }
 
@@ -331,10 +355,13 @@ async function syncVideos() {
 
   const allManualIds = Object.values(manualIds).flat()
 
-  // Fetch metadata for all videos (do this before config write to detect hidden IDs)
-  console.log('\n🎥 Fetching video metadata...')
+  // Fetch metadata for all videos (do this before config write to detect hidden IDs + Shorts)
+  console.log('\n🎥 Fetching video metadata (incl. contentDetails.duration for Shorts)...')
   const allPlaylistVideoIds = Object.values(playlistData).flat()
-  const { metadata: videos, hiddenIds } = await fetchVideoMetadata(allPlaylistVideoIds, apiKey)
+  const { metadata: videos, hiddenIds, shortIds } = await fetchVideoMetadata(
+    allPlaylistVideoIds,
+    apiKey
+  )
 
   if (videos.length === 0) {
     console.warn('⚠️  No video metadata fetched')
@@ -342,25 +369,43 @@ async function syncVideos() {
   }
 
   if (hiddenIds.length > 0) {
-    console.log(`\n🔒 ${hiddenIds.length} hidden videos detected:`)
+    console.log(`\n🔒 ${hiddenIds.length} non-public/missing videos:`)
     hiddenIds.forEach((id) => console.log(`    - ${id}`))
   }
 
-  // Also preserve any manually added hidden IDs from current config
+  if (shortIds.length > 0) {
+    console.log(`\n🩳 ${shortIds.length} YouTube Shorts (duration < 2 min) — auto-hidden:`)
+    shortIds.forEach((id) => {
+      const v = videos.find((x) => x.id === id)
+      console.log(`    - ${id} (${v?.durationSec ?? '?'}s) ${v?.title?.slice(0, 50) ?? ''}`)
+    })
+  }
+
+  // Preserve manual HIDDEN entries (staged full videos not yet released), plus private + Shorts
   const manualHiddenRegex = /HIDDEN_VIDEO_IDS[^[]*\[([^\]]*)\]/s
   const manualMatch = currentConfig.match(manualHiddenRegex)
   const existingHiddenIds = manualMatch
     ? manualMatch[1].split(',').map((s) => s.trim().replace(/['"]/g, '')).filter(Boolean)
     : []
-  const allHiddenIds = [...new Set([...hiddenIds, ...existingHiddenIds])]
+  const allHiddenIds = [...new Set([...hiddenIds, ...shortIds, ...existingHiddenIds])]
+
+  // Public metadata excludes Shorts and non-public (they stay in HIDDEN_VIDEO_IDS only)
+  const publicVideos = videos.filter((v) => !shortIds.includes(v.id) && !hiddenIds.includes(v.id))
 
   // Update config if there are new videos or hidden IDs changed
-  const configNeedsUpdate = totalNewVideos > 0 || allHiddenIds.length > 0
+  const prevHiddenSorted = [...existingHiddenIds].sort().join(',')
+  const nextHiddenSorted = [...allHiddenIds].sort().join(',')
+  const configNeedsUpdate =
+    totalNewVideos > 0 || prevHiddenSorted !== nextHiddenSorted
   if (configNeedsUpdate) {
-    const reason = totalNewVideos > 0
-      ? `${totalNewVideos} new videos`
-      : `${allHiddenIds.length} hidden videos`
-    console.log(`\n📝 Updating video config (${reason})...`)
+    const reason = [
+      totalNewVideos > 0 ? `${totalNewVideos} new videos` : null,
+      shortIds.length > 0 ? `${shortIds.length} shorts` : null,
+      hiddenIds.length > 0 ? `${hiddenIds.length} non-public` : null,
+    ]
+      .filter(Boolean)
+      .join(', ')
+    console.log(`\n📝 Updating video config (${reason || 'hidden set changed'})...`)
 
     const newConfig = `/**
  * Centralized video configuration
@@ -375,7 +420,11 @@ export const VideoMetadataSchema = z.object({
   title: z.string(),
   views: z.number().nonnegative(),
   date: z.string().datetime(),
-  tags: z.array(z.string()).optional()
+  tags: z.array(z.string()).optional(),
+  /** Duration in seconds from YouTube contentDetails (authoritative Shorts signal). */
+  durationSec: z.number().nonnegative().optional(),
+  /** True when classified as a YouTube Short (duration < 2 min). */
+  isShort: z.boolean().optional()
 })
 
 export const VideoMetadataResponseSchema = z.object({
@@ -408,8 +457,10 @@ export const VIDEO_CONFIG = {
 
 /**
  * Videos to hide from the showcase regardless of YouTube privacy status.
- * Auto-synced by sync-videos.ts — private/deleted videos detected during sync.
- * You can also add IDs here manually to exclude them from display.
+ * Auto-synced by sync-videos.ts:
+ *   - private/deleted videos
+ *   - YouTube Shorts (duration < 2 min via contentDetails — title tags are NOT reliable)
+ * Manual IDs may also be added for staged full videos not yet released to the wiki.
  */
 export const HIDDEN_VIDEO_IDS: ReadonlySet<string> = new Set([
 ${allHiddenIds.map((id) => `  '${id}',`).join('\n')}
@@ -439,16 +490,16 @@ Object.entries(VIDEO_CONFIG).forEach(([category, ids]) => {
     console.log('\n✓ Config is up to date (no new videos, no hidden changes)')
   }
 
-  // Save metadata
+  // Save public metadata (exclude Shorts — they live only in HIDDEN_VIDEO_IDS)
   const outputPath = resolve('public/videos-metadata.json')
   const output = {
-    videos,
+    videos: publicVideos,
     generatedAt: new Date().toISOString(),
-    count: videos.length
+    count: publicVideos.length
   }
 
   writeFileSync(outputPath, JSON.stringify(output, null, 2))
-  console.log(`  ✓ Generated ${videos.length} video metadata`)
+  console.log(`  ✓ Generated ${publicVideos.length} public video metadata (excluded ${shortIds.length} Shorts)`)
   console.log(`  ✓ Saved to ${outputPath}`)
 
   // Print summary
@@ -459,6 +510,9 @@ Object.entries(VIDEO_CONFIG).forEach(([category, ids]) => {
       console.log(`  ${playlist}: ${ids.length} new`)
       ids.forEach((id) => console.log(`    - ${id}`))
     }
+  }
+  if (shortIds.length > 0) {
+    console.log(`\n🩳 Shorts auto-hidden via duration < 2 min (title tags not required): ${shortIds.length}`)
   }
 }
 

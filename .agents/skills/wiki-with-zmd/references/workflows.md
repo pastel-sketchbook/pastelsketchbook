@@ -223,7 +223,12 @@ task wiki:details -- --id <VIDEO_ID> --force
 - **Do not commit empty or stub files** — transcripts must have `## Transcript`,
   details must have `## Summary`, `## Key Takeaways`, `## Topics Covered`.
 - **Evaluate book placement** for every new video with a detail page.
-- **Never count Shorts in totals** — transcript counts, detail counts, bundle totals, book videoIds, missing-detail tracking, and any aggregate numbers must exclude Shorts-format videos. Shorts belong only in `HIDDEN_VIDEO_IDS`.
+- **Never count Shorts in totals** — transcript counts, detail counts, bundle totals, book videoIds, missing-detail tracking, and any aggregate numbers must exclude Shorts. Shorts belong only in `HIDDEN_VIDEO_IDS`.
+- **Detect Shorts by duration, not title tags.** Title hashtags are optional and unreliable. Use:
+  - **Authoritative:** `contentDetails.duration` **< 2 minutes (120s)** from YouTube Data API (synced into metadata as `durationSec` / `isShort` by `sync-videos.ts`; shared helper `homepage/src/lib/youtube-shorts.ts`)
+  - **Offline fallback:** raw transcript size < ~2.5KB
+  - **Last resort:** legacy `#science #softwarearchitect #smartphone` title pattern only when duration is unknown
+  - Channel evidence (2026-07): Shorts ≈ 70–85s with `/shorts/<id>` canonical; full talks ≥ ~9 min. Rule: under 2 minutes = Short.
 
 ## Syncing New Videos to Books
 

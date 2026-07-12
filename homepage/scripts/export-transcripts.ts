@@ -1,7 +1,8 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'fs'
 import { resolve } from 'path'
 import { execFileSync } from 'child_process'
-import { VIDEO_CONFIG } from '../src/config/videos'
+import { HIDDEN_VIDEO_IDS, VIDEO_CONFIG } from '../src/config/videos'
+import { isYouTubeShort } from '../src/lib/youtube-shorts'
 
 interface VideoMetadata {
   id: string
@@ -9,6 +10,8 @@ interface VideoMetadata {
   views: number
   date: string
   tags?: string[]
+  durationSec?: number
+  isShort?: boolean
 }
 
 interface MetadataFile {
@@ -214,22 +217,46 @@ async function main() {
   const metadata: MetadataFile = JSON.parse(readFileSync(METADATA_PATH, 'utf-8'))
   const args = parseArgs()
 
+  /** Shorts + HIDDEN — never export transcripts (title tags are not reliable; use duration/isShort). */
+  const isExcluded = (v: VideoMetadata): boolean => {
+    if (HIDDEN_VIDEO_IDS.has(v.id)) return true
+    if (v.isShort === true) return true
+    return isYouTubeShort({
+      durationSec: v.durationSec,
+      title: v.title,
+    })
+  }
+
   let selected: VideoMetadata[]
   let runLabel: string
+  let excludedShorts = 0
 
   if (args.id) {
     selected = metadata.videos.filter((v) => v.id === args.id)
+    // Allow --id override only if explicitly requested AND not a short (still skip shorts)
+    const before = selected.length
+    selected = selected.filter((v) => !isExcluded(v))
+    excludedShorts = before - selected.length
     runLabel = `single: ${args.id}`
   } else if (args.category) {
     const catIds = new Set<string>(VIDEO_CONFIG[args.category as keyof typeof VIDEO_CONFIG] || [])
-    selected = metadata.videos.filter((v) => catIds.has(v.id)).sort((a, b) => b.views - a.views)
+    const pool = metadata.videos.filter((v) => catIds.has(v.id))
+    selected = pool.filter((v) => !isExcluded(v)).sort((a, b) => b.views - a.views)
+    excludedShorts = pool.length - selected.length
     runLabel = `category: ${args.category}`
   } else if (args.all) {
-    selected = [...metadata.videos].sort((a, b) => b.views - a.views)
-    runLabel = 'all videos'
+    selected = metadata.videos.filter((v) => !isExcluded(v)).sort((a, b) => b.views - a.views)
+    excludedShorts = metadata.videos.length - selected.length
+    runLabel = 'all videos (excl. shorts/hidden)'
   } else {
-    selected = [...metadata.videos].sort((a, b) => b.views - a.views).slice(0, args.top)
-    runLabel = `top ${args.top} by views`
+    const pool = metadata.videos.filter((v) => !isExcluded(v)).sort((a, b) => b.views - a.views)
+    excludedShorts = metadata.videos.length - pool.length
+    selected = pool.slice(0, args.top)
+    runLabel = `top ${args.top} by views (excl. shorts/hidden)`
+  }
+
+  if (excludedShorts > 0) {
+    console.log(`Skipping ${excludedShorts} Shorts/hidden videos (duration < 2 min or HIDDEN_VIDEO_IDS)`)
   }
 
   if (selected.length === 0) {

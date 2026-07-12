@@ -33,7 +33,7 @@ This video covers the core algorithmic patterns essential for writing efficient 
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `algorithms` · `time complexity` · `time`)
 - [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 50 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `binary` · `data`)
 - [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 27 views · Apr 29, 2026 · [Details](GERT8PoS9Qk.md) (shared: `binary` · `search`)
-- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 10 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `search` · `data`)
+- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 11 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `search` · `data`)
 - [The Architecture of Serde](https://youtu.be/SNgYSLZ2Ck4) — Development · 54 views · Jun 3, 2026 · [Details](SNgYSLZ2Ck4.md) (shared: `data` · `complexity`)
 
 ---
