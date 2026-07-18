@@ -2,7 +2,7 @@
 type: tag
 tags: [korean-programming-tutorial]
 sources: 3
-updated: 2026-07-14
+updated: 2026-07-18
 ---
 
 # korean programming tutorial
@@ -16,4 +16,4 @@ Videos connected by the topic `korean programming tutorial`.
 - [타입스크립트와 번으로 만드는 TODO 리스트](https://youtu.be/D1Hth_78ftg) — Programming · 9 views · Jan 10, 2026 · [Details](../details/D1Hth_78ftg.md)
 
 ---
-*Auto-generated on Jul 14, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 18, 2026. Back to [topic index](index.md).*

@@ -31,7 +31,7 @@ A four-layer blueprint of the OpenCV library, from build-system foundations on A
 ## Related Videos
 
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `library` · `architecture` · `webassembly`)
-- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 47 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `architecture` · `module` · `build`)
+- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 52 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `architecture` · `module` · `build`)
 - [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 65 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `hardware` · `abstraction` · `inference`)
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `architecture` · `abstraction` · `build`)
 - [The pkg.go.dev API](https://youtu.be/zWuFvi-0Go4) — Development · 19 views · May 23, 2026 · [Details](zWuFvi-0Go4.md) (shared: `architecture` · `module` · `graph`)

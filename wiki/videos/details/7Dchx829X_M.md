@@ -30,7 +30,7 @@ This video explores the architectural shift from TCP to HTTP/3 and QUIC for clou
 
 ## Related Videos
 
-- [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 210 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `http` · `quic` · `tcp`)
+- [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 211 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `http` · `quic` · `tcp`)
 - [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) — Kubernetes · 18 views · Jan 2, 2026 · [Details](8ycnldvJmuA.md) (shared: `architecture` · `cloud-native`)
 - [Introducing ExtendDB](https://youtu.be/LxI5YjCUswI) — Kubernetes · 51 views · May 24, 2026 · [Details](LxI5YjCUswI.md) (shared: `protocol` · `edge` · `architecture`)
 - [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 29 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `architecture` · `migration`)

@@ -33,7 +33,7 @@ This Spanish-language travel documentary explores Jeonju and Gochang in South Ko
 - [Mi Cuaderno de Viaje: Andong](https://youtu.be/CASZX56r-tk) — Korea · 17 views · Jan 3, 2026 · [Details](CASZX56r-tk.md) (shared: `village` · `korean` · `traditional`)
 - [Ganghwa: Un Viaje en Tonos Pastel](https://youtu.be/rwNfzJanPmk) — Korea · 6 views · Feb 6, 2026 · [Details](rwNfzJanPmk.md) (shared: `joseon dynasty` · `joseon` · `dynasty`)
 - [Seúl 2026: Tu Diario de Viaje](https://youtu.be/kvdBJSRUchA) — Korea · 13 views · Feb 11, 2026 · [Details](kvdBJSRUchA.md) (shared: `joseon dynasty` · `joseon` · `dynasty`)
-- [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 10 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `dynasty` · `korean` · `heritage`)
+- [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 11 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `dynasty` · `korean` · `heritage`)
 - [Jeju: Un Recuerdo en Tonos Pastel](https://youtu.be/rxQvDuohbt8) — Korea · 13 views · Feb 8, 2026 · [Details](rxQvDuohbt8.md) (shared: `korean` · `heritage`)
 
 ---

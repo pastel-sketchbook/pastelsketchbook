@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, ai, robotics, sovereign, 2026, mandu, levy, property tax, orbital, stocks]
 sources: 40
-updated: 2026-07-14
+updated: 2026-07-18
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-07-14
 | Metric | Value |
 |--------|-------|
 | Videos | 40 |
-| Total Views | 849 |
+| Total Views | 881 |
 | Most Recent | Jul 14, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -24,16 +24,15 @@ updated: 2026-07-14
 ### Architecture (6 videos)
 
 - [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) -- 28 views, Jun 7, 2026 · [Details](details/8vJLWsfheRE.md)
-- [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) -- 25 views, Jun 3, 2026 · [Details](details/P-QVC5lOMbU.md)
+- [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) -- 26 views, Jun 3, 2026 · [Details](details/P-QVC5lOMbU.md)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 42 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) -- 7 views, May 20, 2026 · [Details](details/Dx8pFmojxL4.md)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 47 views, Mar 26, 2026 · [Details](details/hnMR8rdGCnU.md)
 - [The architecture of wealth](https://youtu.be/nfD3KzIriM8) -- 8 views, Jan 16, 2026 · [Details](details/nfD3KzIriM8.md)
 
-### AI & ML (5 videos)
+### AI & ML (4 videos)
 
-- [The Physical AI Ecosystem](https://youtu.be/3DH2V55G1ck) -- 1 views, Jul 14, 2026 · [Details](details/3DH2V55G1ck.md)
-- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) -- 23 views, Jun 16, 2026 · [Details](details/ZQyL7MT7k60.md)
+- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) -- 29 views, Jun 16, 2026 · [Details](details/ZQyL7MT7k60.md)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 42 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
 - [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) -- 30 views, May 21, 2026 · [Details](details/9xDzB24tO4I.md)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 47 views, Mar 26, 2026 · [Details](details/hnMR8rdGCnU.md)
@@ -42,16 +41,16 @@ updated: 2026-07-14
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | The Physical AI Ecosystem | 1 | Jul 14, 2026 | [Watch](https://youtu.be/3DH2V55G1ck) | [Wiki](details/3DH2V55G1ck.md) |
-| 2 | The Cash Pump Blueprint | 9 | Jul 12, 2026 | [Watch](https://youtu.be/Aw8arLm35M8) | [Wiki](details/Aw8arLm35M8.md) |
+| 1 | The Physical Al Ecosystem | 14 | Jul 14, 2026 | [Watch](https://youtu.be/3DH2V55G1ck) | [Wiki](details/3DH2V55G1ck.md) |
+| 2 | The Cash Pump Blueprint | 16 | Jul 12, 2026 | [Watch](https://youtu.be/Aw8arLm35M8) | [Wiki](details/Aw8arLm35M8.md) |
 | 3 | Structural Pruning in State-Space Abstractions | 5 | Jul 7, 2026 | [Watch](https://youtu.be/BNznoJHQDW0) | [Wiki](details/BNznoJHQDW0.md) |
-| 4 | The Anatomy of a Giant | 26 | Jul 6, 2026 | [Watch](https://youtu.be/u5hQQZsLBwU) | [Wiki](details/u5hQQZsLBwU.md) |
+| 4 | The Anatomy of a Giant | 29 | Jul 6, 2026 | [Watch](https://youtu.be/u5hQQZsLBwU) | [Wiki](details/u5hQQZsLBwU.md) |
 | 5 | The Mathematics of Survival | 11 | Jul 1, 2026 | [Watch](https://youtu.be/J4nERLAJIbs) | [Wiki](details/J4nERLAJIbs.md) |
 | 6 | South Korea's $1 Trillion Al & Semiconductor Blueprint | 8 | Jun 29, 2026 | [Watch](https://youtu.be/K1wUGKw3scU) | [Wiki](details/K1wUGKw3scU.md) |
-| 7 | Japan's Sovereign Cloud Blueprint | 23 | Jun 16, 2026 | [Watch](https://youtu.be/ZQyL7MT7k60) | [Wiki](details/ZQyL7MT7k60.md) |
+| 7 | Japan's Sovereign Cloud Blueprint | 29 | Jun 16, 2026 | [Watch](https://youtu.be/ZQyL7MT7k60) | [Wiki](details/ZQyL7MT7k60.md) |
 | 8 | The Architecture of Opportunity | 28 | Jun 7, 2026 | [Watch](https://youtu.be/8vJLWsfheRE) | [Wiki](details/8vJLWsfheRE.md) |
-| 9 | Cognitive Lenses in Modern Design | 24 | Jun 5, 2026 | [Watch](https://youtu.be/GmUKi-ZPOYU) | [Wiki](details/GmUKi-ZPOYU.md) |
-| 10 | The Architecture of Insurance Pricing | 25 | Jun 3, 2026 | [Watch](https://youtu.be/P-QVC5lOMbU) | [Wiki](details/P-QVC5lOMbU.md) |
+| 9 | Cognitive Lenses in Modern Design | 25 | Jun 5, 2026 | [Watch](https://youtu.be/GmUKi-ZPOYU) | [Wiki](details/GmUKi-ZPOYU.md) |
+| 10 | The Architecture of Insurance Pricing | 26 | Jun 3, 2026 | [Watch](https://youtu.be/P-QVC5lOMbU) | [Wiki](details/P-QVC5lOMbU.md) |
 | 11 | The Strategic Guide to Annuities | 38 | May 28, 2026 | [Watch](https://youtu.be/UGQ-ItKwJNw) | [Wiki](details/UGQ-ItKwJNw.md) |
 | 12 | The 10-Year Al Investing Architecture | 42 | May 25, 2026 | [Watch](https://youtu.be/3bcmjx5F5Xs) | [Wiki](details/3bcmjx5F5Xs.md) |
 | 13 | The 2026 Enterprise AI Blueprint | 30 | May 21, 2026 | [Watch](https://youtu.be/9xDzB24tO4I) | [Wiki](details/9xDzB24tO4I.md) |
@@ -67,7 +66,7 @@ updated: 2026-07-14
 | 23 | The Final Five Years | 16 | Apr 7, 2026 | [Watch](https://youtu.be/HFmkEvxyJE4) | [Wiki](details/HFmkEvxyJE4.md) |
 | 24 | The Architecture of Fulfillment | 47 | Mar 26, 2026 | [Watch](https://youtu.be/hnMR8rdGCnU) | [Wiki](details/hnMR8rdGCnU.md) |
 | 25 | The Final 5 Years | 19 | Mar 20, 2026 | [Watch](https://youtu.be/G-vvSNwm-jE) | [Wiki](details/G-vvSNwm-jE.md) |
-| 26 | The Pomology Field Guide | 21 | Mar 19, 2026 | [Watch](https://youtu.be/_LrmdP64y6A) | [Wiki](details/_LrmdP64y6A.md) |
+| 26 | The Pomology Field Guide | 22 | Mar 19, 2026 | [Watch](https://youtu.be/_LrmdP64y6A) | [Wiki](details/_LrmdP64y6A.md) |
 | 27 | The 2026 Market Barbell | 9 | Mar 16, 2026 | [Watch](https://youtu.be/2NoJVXPpcco) | [Wiki](details/2NoJVXPpcco.md) |
 | 28 | The Mathematics of Human Capital Compounding | 14 | Mar 5, 2026 | [Watch](https://youtu.be/_4BC0zHGYTw) | [Wiki](details/_4BC0zHGYTw.md) |
 | 29 | Navigating the Al Capital Cycle: 2026 & Beyond | 89 | Feb 17, 2026 | [Watch](https://youtu.be/9z6mOWQgU84) | [Wiki](details/9z6mOWQgU84.md) |
@@ -95,4 +94,4 @@ updated: 2026-07-14
 - [Security](security.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on Jul 14, 2026. Back to [index](index.md).*
+*Auto-generated on Jul 18, 2026. Back to [index](index.md).*

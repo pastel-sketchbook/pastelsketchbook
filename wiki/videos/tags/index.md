@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-07-14
+updated: 2026-07-18
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 174
+Total topics: 175
 
 ## Topics
 
@@ -81,6 +81,7 @@ Total topics: 174
 - [cache locality](cache-locality.md) (2)
 - [cache optimization](cache-optimization.md) (2)
 - [ci/cd pipelines](ci-cd-pipelines.md) (2)
+- [clickhouse](clickhouse.md) (2)
 - [clusterip](clusterip.md) (2)
 - [cognitive load](cognitive-load.md) (2)
 - [compliance](compliance.md) (2)
@@ -187,4 +188,4 @@ Total topics: 174
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Jul 14, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Jul 18, 2026. Back to [videos index](../index.md).*

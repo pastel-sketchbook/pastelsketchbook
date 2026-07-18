@@ -39,7 +39,7 @@ Riverpod organizes Flutter state management into four cooperating layers — cor
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 37 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `architecture` · `state` · `management`)
 - [Clean Architecture in Angular](https://youtu.be/RJGNh8L-8rw) — Development · 46 views · Jun 23, 2026 · [Details](RJGNh8L-8rw.md) (shared: `riverpod` · `architecture` · `state`)
 - [A Desktop-First Export Strategy for SlideVoice Studio](https://youtu.be/78hLFt3_Gh4) — Development · 32 views · May 29, 2026 · [Details](78hLFt3_Gh4.md) (shared: `riverpod` · `architecture` · `flutter`)
-- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 77 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `architecture` · `async` · `dependency`)
+- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 78 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `architecture` · `async` · `dependency`)
 
 ---
 *Auto-generated on May 17, 2026. Back to [development](../development.md) · [index](../index.md).*

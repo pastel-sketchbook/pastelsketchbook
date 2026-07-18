@@ -3,7 +3,7 @@ type: category
 category: korea
 tags: [viaje, corea, seul, jeju, ganghwa, sokcho, daejeon, danyang, jinju, yeosu]
 sources: 20
-updated: 2026-07-14
+updated: 2026-07-18
 ---
 
 # Korea
@@ -15,7 +15,7 @@ updated: 2026-07-14
 | Metric | Value |
 |--------|-------|
 | Videos | 20 |
-| Total Views | 244 |
+| Total Views | 245 |
 | Most Recent | May 20, 2026 |
 | Oldest | Dec 26, 2025 |
 ## All Videos
@@ -38,7 +38,7 @@ updated: 2026-07-14
 | 14 | Mi Cuaderno de Viaje: Yeosu | 12 | Jan 4, 2026 | [Watch](https://youtu.be/JlPl9MskqJM) | [Wiki](details/JlPl9MskqJM.md) |
 | 15 | Jeonju y Gochang: Apuntes de Corea | 16 | Jan 4, 2026 | [Watch](https://youtu.be/EvcUSPWkOA8) | [Wiki](details/EvcUSPWkOA8.md) |
 | 16 | Mi Cuaderno de Viaje: Andong | 17 | Jan 3, 2026 | [Watch](https://youtu.be/CASZX56r-tk) | [Wiki](details/CASZX56r-tk.md) |
-| 17 | Gyeongju: El Museo Sin Muros | 10 | Jan 2, 2026 | [Watch](https://youtu.be/4h84JgKkt94) | [Wiki](details/4h84JgKkt94.md) |
+| 17 | Gyeongju: El Museo Sin Muros | 11 | Jan 2, 2026 | [Watch](https://youtu.be/4h84JgKkt94) | [Wiki](details/4h84JgKkt94.md) |
 | 18 | Mi Cuaderno de Busan | 8 | Jan 1, 2026 | [Watch](https://youtu.be/vNHblhm9oQo) | [Wiki](details/vNHblhm9oQo.md) |
 | 19 | Tu Viaje al Corazón de Corea | 5 | Jan 1, 2026 | [Watch](https://youtu.be/L9sxbq8ugoU) | [Wiki](details/L9sxbq8ugoU.md) |
 | 20 | 스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작 | 27 | Dec 26, 2025 | [Watch](https://youtu.be/V2cZl5s4EKU) | [Wiki](details/V2cZl5s4EKU.md) |
@@ -52,4 +52,4 @@ updated: 2026-07-14
 - [Finance](finance.md)
 
 ---
-*Auto-generated on Jul 14, 2026. Back to [index](index.md).*
+*Auto-generated on Jul 18, 2026. Back to [index](index.md).*

@@ -35,7 +35,7 @@ This talk demonstrates how to build high-performance hybrid packages for Node.js
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `rust` · `architecture` · `build`)
 - [The pkg.go.dev API](https://youtu.be/zWuFvi-0Go4) — Development · 19 views · May 23, 2026 · [Details](zWuFvi-0Go4.md) (shared: `package` · `architecture` · `api`)
 - [From 0 to N-Dimensions](https://youtu.be/6M76N3jhh1Q) — Development · 40 views · May 19, 2026 · [Details](6M76N3jhh1Q.md) (shared: `rust` · `crate` · `type`)
-- [Architecting a Modern Robocode Engine](https://youtu.be/d3JxtD__-L0) — Development · 74 views · May 29, 2026 · [Details](d3JxtD__-L0.md) (shared: `rust` · `cdylib` · `architecture`)
+- [Architecting a Modern Robocode Engine](https://youtu.be/d3JxtD__-L0) — Development · 75 views · May 29, 2026 · [Details](d3JxtD__-L0.md) (shared: `rust` · `cdylib` · `architecture`)
 
 ---
 *Auto-generated on Jul 12, 2026. Back to [development](../development.md) · [index](../index.md).*

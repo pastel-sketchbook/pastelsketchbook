@@ -2,7 +2,7 @@
 type: tag
 tags: [configuration-management]
 sources: 4
-updated: 2026-07-14
+updated: 2026-07-18
 ---
 
 # configuration management
@@ -17,4 +17,4 @@ Videos connected by the topic `configuration management`.
 - [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 16 views · Mar 16, 2026 · [Details](../details/to1PClyd0YA.md)
 
 ---
-*Auto-generated on Jul 14, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 18, 2026. Back to [topic index](index.md).*

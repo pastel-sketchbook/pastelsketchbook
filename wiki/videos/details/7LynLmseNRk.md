@@ -39,7 +39,7 @@ Bumble is a Python-native userspace Bluetooth stack that abstracts away hardware
 - [React Native vs. Flutter for Enterprise Apps](https://youtu.be/jzjGcFkAnfs) — Development · 32 views · Feb 26, 2026 · [Details](jzjGcFkAnfs.md) (shared: `native` · `cross-platform`)
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 48 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `native` · `cross-platform`)
 - [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 14 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `simulation` · `native`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 806 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `abstraction` · `testing`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 807 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `abstraction` · `testing`)
 
 ---
 *Auto-generated on May 28, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [tower-service-trait]
 sources: 2
-updated: 2026-07-14
+updated: 2026-07-18
 ---
 
 # tower service trait
@@ -15,4 +15,4 @@ Videos connected by the topic `tower service trait`.
 - [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) — Development · 63 views · May 3, 2026 · [Details](../details/07aDX5YB-ao.md)
 
 ---
-*Auto-generated on Jul 14, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 18, 2026. Back to [topic index](index.md).*

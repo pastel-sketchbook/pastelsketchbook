@@ -2,7 +2,7 @@
 type: tag
 tags: [grpc-streaming-patterns]
 sources: 2
-updated: 2026-07-14
+updated: 2026-07-18
 ---
 
 # grpc streaming patterns
@@ -15,4 +15,4 @@ Videos connected by the topic `grpc streaming patterns`.
 - [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 10 views · Jun 23, 2026 · [Details](../details/o3ba6XdMQA0.md)
 
 ---
-*Auto-generated on Jul 14, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 18, 2026. Back to [topic index](index.md).*

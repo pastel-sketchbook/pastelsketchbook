@@ -30,11 +30,11 @@ This video positions Zig as a pragmatic successor to C that preserves C's raw pe
 
 ## Related Videos
 
-- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 356 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `c interoperability` · `interoperability`)
+- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 357 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `c interoperability` · `interoperability`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `memory management` · `memory`)
-- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 475 views · Feb 2, 2026 · [Details](xV2EAL3NAVM.md) (shared: `zig` · `comptime` · `systems programming`)
+- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 477 views · Feb 2, 2026 · [Details](xV2EAL3NAVM.md) (shared: `zig` · `comptime` · `systems programming`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 53 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `memory management` · `memory` · `management`)
-- [The Hybrid TUI Architecture](https://youtu.be/IZX3_9rZeMU) — Development · 551 views · Feb 10, 2026 · [Details](IZX3_9rZeMU.md) (shared: `memory management` · `memory` · `management`)
+- [The Hybrid TUI Architecture](https://youtu.be/IZX3_9rZeMU) — Development · 552 views · Feb 10, 2026 · [Details](IZX3_9rZeMU.md) (shared: `memory management` · `memory` · `management`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

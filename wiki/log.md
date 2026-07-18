@@ -450,3 +450,15 @@ Synced 430 videos across 6 categories (korea=20, finance=40, kubernetes=76, deve
 
 Released full videos from HIDDEN: RvgI3oEThcA (Flattening the Hierarchy), Aw8arLm35M8 (The Cash Pump Blueprint), 3DH2V55G1ck (The Physical AI Ecosystem) — transcripts, details, books, public mirror.
 Hid Shorts (< 2 min) from showcase: aLDQbPWIcjg, N10JYRFINZ4 (plus existing Shorts). Removed Short stubs from raw/public/details.
+
+## [2026-07-18] ingest | Video Transcripts
+
+Exported 1 transcript files (single: XKTtea0xGsA) to `wiki/raw/transcripts`.
+
+## [2026-07-18] ingest | Video Details
+
+Generated 1 video detail pages (single: XKTtea0xGsA).
+
+## [2026-07-18] ingest | Video Metadata Sync
+
+Synced 426 videos across 6 categories (korea=20, finance=40, kubernetes=78, development=261, security=19, programming=8).

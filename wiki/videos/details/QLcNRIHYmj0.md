@@ -31,7 +31,7 @@ This Spanish-language video is a visual travel diary documenting a journey to So
 ## Related Videos
 
 - [Ganghwa: Un Viaje en Tonos Pastel](https://youtu.be/rwNfzJanPmk) — Korea · 6 views · Feb 6, 2026 · [Details](rwNfzJanPmk.md) (shared: `travel` · `korean history` · `korean`)
-- [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 10 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `travel` · `korean history` · `korean`)
+- [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 11 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `travel` · `korean history` · `korean`)
 - [Hasta pronto, Danyang](https://youtu.be/awa_UWXFOao) — Korea · 11 views · Feb 2, 2026 · [Details](awa_UWXFOao.md) (shared: `travel` · `korean`)
 - [Mi Cuaderno de Viaje: Yeosu](https://youtu.be/JlPl9MskqJM) — Korea · 12 views · Jan 4, 2026 · [Details](JlPl9MskqJM.md) (shared: `travel` · `korean`)
 - [Bocetos de Daejeon](https://youtu.be/nxuaOP3C1Ns) — Korea · 15 views · Feb 3, 2026 · [Details](nxuaOP3C1Ns.md) (shared: `travel` · `korean`)

@@ -29,7 +29,7 @@ This video presents a connoisseur's master class on apple varieties, treating po
 
 ## Related Videos
 
-- [The Anatomy of a Giant](https://youtu.be/u5hQQZsLBwU) — Finance · 26 views · Jul 6, 2026 · [Details](u5hQQZsLBwU.md) (shared: `genetics`)
+- [The Anatomy of a Giant](https://youtu.be/u5hQQZsLBwU) — Finance · 29 views · Jul 6, 2026 · [Details](u5hQQZsLBwU.md) (shared: `genetics`)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 42 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `architecture`)
 - [A global geography of folded dough](https://youtu.be/UorjmtDDRgQ) — Finance · 15 views · May 18, 2026 · [Details](UorjmtDDRgQ.md) (shared: `culinary`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture`)

@@ -2,7 +2,7 @@
 type: tag
 tags: [performance-optimization]
 sources: 2
-updated: 2026-07-14
+updated: 2026-07-18
 ---
 
 # performance optimization
@@ -15,4 +15,4 @@ Videos connected by the topic `performance optimization`.
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](../details/WahgsFhj3W0.md)
 
 ---
-*Auto-generated on Jul 14, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 18, 2026. Back to [topic index](index.md).*

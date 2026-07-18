@@ -34,7 +34,7 @@ This video provides a staged roadmap through Rust's smart pointer hierarchy, fro
 - [The End of the Functional Programming Tax](https://youtu.be/240fOdSvnpk) — Development · 74 views · Jun 14, 2026 · [Details](240fOdSvnpk.md) (shared: `reference` · `counting` · `concurrency`)
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `concurrency`)
 - [Persona Modeling Architecture](https://youtu.be/uiU9K1hIQBo) — Development · 25 views · Jun 1, 2026 · [Details](uiU9K1hIQBo.md) (shared: `rust` · `safety` · `concurrency`)
-- [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 72 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `rust` · `safety`)
+- [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 73 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `rust` · `safety`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*
