@@ -34,7 +34,7 @@ This video analyzes the market transition from 2025's high-beta breakout growth 
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 42 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `ai infrastructure investing` · `infrastructure` · `investing`)
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `market` · `analysis`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 89 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `infrastructure` · `economy`)
-- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 15 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `investing`)
+- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 17 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `investing`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

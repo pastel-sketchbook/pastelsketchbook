@@ -30,7 +30,7 @@ This video explains how to build production-grade RabbitMQ systems in Go using a
 
 ## Related Videos
 
-- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 97 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `rabbitmq` · `message` · `exchange`)
+- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 98 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `rabbitmq` · `message` · `exchange`)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 39 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `rabbitmq` · `architecture` · `distributed`)
 - [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 19 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `pattern` · `architecture` · `distributed`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 37 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `pattern` · `architecture`)

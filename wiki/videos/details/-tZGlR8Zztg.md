@@ -37,7 +37,7 @@ The talk dissects a 17-digit sequence through two analytical lenses — plausibl
 
 - [Modern Dart](https://youtu.be/JBh6rzeS-Qc) — Development · 81 views · Jan 20, 2026 · [Details](JBh6rzeS-Qc.md) (shared: `pattern` · `matching`)
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 73 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `pattern` · `matching`)
-- [Flattening the Hierarchy](https://youtu.be/RvgI3oEThcA) — Development · 16 views · Jul 13, 2026 · [Details](RvgI3oEThcA.md) (shared: `problem` · `hierarchy`)
+- [Flattening the Hierarchy](https://youtu.be/RvgI3oEThcA) — Development · 17 views · Jul 13, 2026 · [Details](RvgI3oEThcA.md) (shared: `problem` · `hierarchy`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 37 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `pattern`)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `pattern`)
 

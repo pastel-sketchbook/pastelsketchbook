@@ -33,7 +33,7 @@ This video presents a connoisseur's master class on apple varieties, treating po
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 42 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `architecture`)
 - [A global geography of folded dough](https://youtu.be/UorjmtDDRgQ) — Finance · 15 views · May 18, 2026 · [Details](UorjmtDDRgQ.md) (shared: `culinary`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 155 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `architecture`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 157 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `architecture`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

@@ -31,7 +31,7 @@ This talk presents a technical blueprint for routing user mentions in enterprise
 
 ## Related Videos
 
-- [The pkg.go.dev API](https://youtu.be/zWuFvi-0Go4) — Development · 19 views · May 23, 2026 · [Details](zWuFvi-0Go4.md) (shared: `architecture` · `resolution` · `graph`)
+- [The pkg.go.dev API](https://youtu.be/zWuFvi-0Go4) — Development · 20 views · May 23, 2026 · [Details](zWuFvi-0Go4.md) (shared: `architecture` · `resolution` · `graph`)
 - [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 59 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `library` · `architecture` · `graph`)
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `library` · `architecture` · `api`)
 - [The AI Copilot Era Equation](https://youtu.be/xwEN7oZFvdw) — Development · 53 views · Jun 10, 2026 · [Details](xwEN7oZFvdw.md) (shared: `architecture` · `enterprise` · `paradox`)

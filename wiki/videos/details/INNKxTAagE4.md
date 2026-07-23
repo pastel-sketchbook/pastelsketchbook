@@ -30,7 +30,7 @@ This video covers the architecture of resilient asynchronous systems in Go using
 
 ## Related Videos
 
-- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 97 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `rabbitmq` · `opentelemetry` · `distributed tracing`)
+- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 98 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `rabbitmq` · `opentelemetry` · `distributed tracing`)
 - [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 117 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `opentelemetry` · `distributed tracing` · `distributed`)
 - [A Trillion Transactions](https://youtu.be/oHdhgeF4wlI) — Kubernetes · 38 views · Apr 12, 2026 · [Details](oHdhgeF4wlI.md) (shared: `systems` · `distributed` · `fault tolerance`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `async` · `event-driven architecture` · `event-driven`)

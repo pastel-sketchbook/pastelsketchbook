@@ -462,3 +462,19 @@ Generated 1 video detail pages (single: XKTtea0xGsA).
 ## [2026-07-18] ingest | Video Metadata Sync
 
 Synced 426 videos across 6 categories (korea=20, finance=40, kubernetes=78, development=261, security=19, programming=8).
+
+## [2026-07-23] ingest | Video Metadata Sync
+
+Synced 431 videos across 6 categories (korea=20, finance=41, kubernetes=80, development=263, security=19, programming=8).
+
+## [2026-07-23] ingest | Video Transcripts
+
+Exported 1 transcript files (single: md9nXDH1u7Q) to `wiki/raw/transcripts`.
+
+## [2026-07-23] ingest | Release 5 full videos + fix Aw8arLm35M8 hidden inconsistency
+
+Released 5 new full videos from HIDDEN: md9nXDH1u7Q (Systematic Momentum Execution), 1RqgRdlIO8M (Architecting the Modern Cloud Network), kFzdToXTfn8 (KAITO: The Kubernetes AI Toolchain Operator), OeBgces_2_0 (Networking Fundamentals: 0.0.0.0 vs. 127.0.0.1), 2cuMV05Fang (The Performance Paradigm) — transcripts, details, books, public mirror.
+Also released Aw8arLm35M8 (The Cash Pump Blueprint) from HIDDEN — transcript/detail/books already provisioned on 2026-07-14 but HIDDEN entry was not removed (fixed).
+Detail pages authored from raw transcripts (Summary, Key Takeaways, Topics Covered); `## Related Videos` auto-upserted by `generate-wiki.ts`.
+Book placement: md9nXDH1u7Q → Architect's Sketchbook Ch7 (Wealth), 1RqgRdlIO8M → Ch2 (Zero Trust), kFzdToXTfn8 → Ch3 (Enterprise AI Pipeline), OeBgces_2_0 → Internals Companion Ch1 (RFC Foundation), 2cuMV05Fang → Ch17 (Performance-Ergonomics).
+Bundle: 431 videos, 431 with detail (Missing: 0). zmd reindexed (1089 documents).

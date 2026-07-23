@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [security, agent, sentinel, siem, soar, xdr, llm, nist, zero trust, yubikey]
 sources: 19
-updated: 2026-07-18
+updated: 2026-07-23
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-07-18
 | Metric | Value |
 |--------|-------|
 | Videos | 19 |
-| Total Views | 713 |
+| Total Views | 726 |
 | Most Recent | Jul 2, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -23,7 +23,7 @@ updated: 2026-07-18
 
 ### Security (8 videos)
 
-- [The Hardware-Bound Security Blueprint](https://youtu.be/neqE9X2kSuY) -- 13 views, Jul 2, 2026 · [Details](details/neqE9X2kSuY.md)
+- [The Hardware-Bound Security Blueprint](https://youtu.be/neqE9X2kSuY) -- 17 views, Jul 2, 2026 · [Details](details/neqE9X2kSuY.md)
 - [Architecting Ephemeral Access](https://youtu.be/Hwa2vM9c2Xc) -- 4 views, Jun 29, 2026 · [Details](details/Hwa2vM9c2Xc.md)
 - [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 21 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) -- 25 views, Apr 30, 2026 · [Details](details/infh5ZZwvLU.md)
@@ -41,24 +41,24 @@ updated: 2026-07-18
 
 ### Rust (2 videos)
 
-- [The Hardware-Bound Security Blueprint](https://youtu.be/neqE9X2kSuY) -- 13 views, Jul 2, 2026 · [Details](details/neqE9X2kSuY.md)
+- [The Hardware-Bound Security Blueprint](https://youtu.be/neqE9X2kSuY) -- 17 views, Jul 2, 2026 · [Details](details/neqE9X2kSuY.md)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 34 views, Mar 25, 2026 · [Details](details/CA1nlknmR3g.md)
 
 ### Go (2 videos)
 
 - [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 21 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 176 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 181 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | The Hardware-Bound Security Blueprint | 13 | Jul 2, 2026 | [Watch](https://youtu.be/neqE9X2kSuY) | [Wiki](details/neqE9X2kSuY.md) |
+| 1 | The Hardware-Bound Security Blueprint | 17 | Jul 2, 2026 | [Watch](https://youtu.be/neqE9X2kSuY) | [Wiki](details/neqE9X2kSuY.md) |
 | 2 | Architecting Ephemeral Access | 4 | Jun 29, 2026 | [Watch](https://youtu.be/Hwa2vM9c2Xc) | [Wiki](details/Hwa2vM9c2Xc.md) |
-| 3 | The 25519 Cryptographic Family | 16 | Jun 28, 2026 | [Watch](https://youtu.be/MzdV5hjPdsI) | [Wiki](details/MzdV5hjPdsI.md) |
+| 3 | The 25519 Cryptographic Family | 17 | Jun 28, 2026 | [Watch](https://youtu.be/MzdV5hjPdsI) | [Wiki](details/MzdV5hjPdsI.md) |
 | 4 | Escaping the env Ceiling | 29 | Jun 18, 2026 | [Watch](https://youtu.be/kc1gwl89iyw) | [Wiki](details/kc1gwl89iyw.md) |
 | 5 | Winning the Arms Race in Credential Security | 21 | Jun 6, 2026 | [Watch](https://youtu.be/Kp_4y_HEaZ0) | [Wiki](details/Kp_4y_HEaZ0.md) |
-| 6 | Microsoft Agent Governance Toolkit | 176 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
+| 6 | Microsoft Agent Governance Toolkit | 181 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
 | 7 | ZAP: Getting Started with Software Security Testing | 25 | Apr 30, 2026 | [Watch](https://youtu.be/infh5ZZwvLU) | [Wiki](details/infh5ZZwvLU.md) |
 | 8 | Azure Sentinel & M365 Defender | 21 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
 | 9 | Designing for Privacy | 44 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
@@ -71,7 +71,7 @@ updated: 2026-07-18
 | 16 | The Strategic Roadmap for Data Classification | 19 | Mar 2, 2026 | [Watch](https://youtu.be/uhXcsWYhdkA) | [Wiki](details/uhXcsWYhdkA.md) |
 | 17 | The Orchestrator's Blueprint | 36 | Feb 28, 2026 | [Watch](https://youtu.be/Oa3jaLNSZvM) | [Wiki](details/Oa3jaLNSZvM.md) |
 | 18 | 2025 Global Threat Report | 14 | Feb 27, 2026 | [Watch](https://youtu.be/1MPD6MILLcQ) | [Wiki](details/1MPD6MILLcQ.md) |
-| 19 | Shannon: Autonomous Penetration Testing | 53 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) | [Wiki](details/JfGgWiiCTA0.md) |
+| 19 | Shannon: Autonomous Penetration Testing | 56 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) | [Wiki](details/JfGgWiiCTA0.md) |
 
 ## Top Tags
 
@@ -84,4 +84,4 @@ updated: 2026-07-18
 - [Finance](finance.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on Jul 18, 2026. Back to [index](index.md).*
+*Auto-generated on Jul 23, 2026. Back to [index](index.md).*

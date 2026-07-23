@@ -13,7 +13,7 @@ summarized: 2026-06-08T23:05:00.000Z
 - [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `rust` · `cli` · `tui`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `rust` · `generation` · `cli`)
 - [temporal-chain: Architecture & Design](https://youtu.be/cuA7G01T7_U) — Development · 24 views · Jun 6, 2026 · [Details](cuA7G01T7_U.md) (shared: `rust` · `workspace` · `cli`)
-- [Synthesizing Gleam Syntax with Rust Performance](https://youtu.be/DTb0syknVSQ) — Development · 12 views · Jul 15, 2026 · [Details](DTb0syknVSQ.md) (shared: `rust` · `procedural` · `generation`)
+- [Synthesizing Gleam Syntax with Rust Performance](https://youtu.be/DTb0syknVSQ) — Development · 18 views · Jul 15, 2026 · [Details](DTb0syknVSQ.md) (shared: `rust` · `procedural` · `generation`)
 
 ---
 

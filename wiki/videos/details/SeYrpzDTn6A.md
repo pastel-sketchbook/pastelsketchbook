@@ -34,7 +34,7 @@ This video presents a blueprint for building secure token-based trust in distrib
 - [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 23 views · Jan 16, 2026 · [Details](0ttrfTfP864.md) (shared: `paseto tokens` · `paseto` · `tokens`)
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `security` · `microservice` · `authentication`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 46 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `service mesh security` · `service` · `mesh`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 155 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `service` · `rust`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 157 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `service` · `rust`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

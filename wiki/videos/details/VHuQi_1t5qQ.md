@@ -35,9 +35,9 @@ This video provides a comprehensive guide to Go pointers, covering fundamentals 
 ## Related Videos
 
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 357 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `pointer` · `garbage`)
-- [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 212 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `garbage` · `collector`)
-- [A Guide to Rust Smart Pointers](https://youtu.be/WdK7PED1ug8) — Development · 52 views · Feb 26, 2026 · [Details](WdK7PED1ug8.md) (shared: `pointers` · `heap`)
-- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 920 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `analysis` · `slices`)
+- [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 213 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `garbage` · `collector`)
+- [A Guide to Rust Smart Pointers](https://youtu.be/WdK7PED1ug8) — Development · 53 views · Feb 26, 2026 · [Details](WdK7PED1ug8.md) (shared: `pointers` · `heap`)
+- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 923 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `analysis` · `slices`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 53 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `pointers`)
 
 ---

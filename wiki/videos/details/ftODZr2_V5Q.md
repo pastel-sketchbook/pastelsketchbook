@@ -30,7 +30,7 @@ This video presents a strategic playbook for AKS lifecycle management, recommend
 
 ## Related Videos
 
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 16 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `aks` · `kubernetes` · `management`)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 23 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `aks` · `kubernetes` · `management`)
 - [Kubernetes Services & Istio](https://youtu.be/OnwiaDRj1-k) — Kubernetes · 30 views · Jan 12, 2026 · [Details](OnwiaDRj1-k.md) (shared: `aks` · `kubernetes` · `management`)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 13 views · Mar 10, 2026 · [Details](Hd767VA7Z-0.md) (shared: `strategy` · `kubernetes` · `management`)
 - [Architecting AKS Networking - Trade-offs](https://youtu.be/F09-7mNt3F4) — Kubernetes · 14 views · Mar 12, 2026 · [Details](F09-7mNt3F4.md) (shared: `aks` · `kubernetes` · `planning`)
