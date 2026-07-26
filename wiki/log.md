@@ -478,3 +478,11 @@ Also released Aw8arLm35M8 (The Cash Pump Blueprint) from HIDDEN — transcript/d
 Detail pages authored from raw transcripts (Summary, Key Takeaways, Topics Covered); `## Related Videos` auto-upserted by `generate-wiki.ts`.
 Book placement: md9nXDH1u7Q → Architect's Sketchbook Ch7 (Wealth), 1RqgRdlIO8M → Ch2 (Zero Trust), kFzdToXTfn8 → Ch3 (Enterprise AI Pipeline), OeBgces_2_0 → Internals Companion Ch1 (RFC Foundation), 2cuMV05Fang → Ch17 (Performance-Ergonomics).
 Bundle: 431 videos, 431 with detail (Missing: 0). zmd reindexed (1089 documents).
+
+## [2026-07-26] ingest | Video Metadata Sync
+
+Synced 434 videos across 6 categories (korea=20, finance=41, kubernetes=82, development=264, security=19, programming=8).
+
+## [2026-07-26] ingest | Video Transcripts
+
+Exported 1 transcript files (single: BCBRMUO54p8) to `wiki/raw/transcripts`.

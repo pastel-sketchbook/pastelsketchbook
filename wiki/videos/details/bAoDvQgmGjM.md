@@ -39,7 +39,7 @@ Modern text processing rests on four distinct layers — grapheme cluster, code 
 - [Writing Modern Go in the Age of Al](https://youtu.be/Z90u9EVf4M4) — Development · 193 views · Mar 26, 2026 · [Details](Z90u9EVf4M4.md) (shared: `standard` · `code`)
 - [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 38 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `code` · `layers`)
 - [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 2 views · Jan 6, 2026 · [Details](z_Ydy_-cI1U.md) (shared: `processing`)
-- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 143 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `code`)
+- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 144 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `code`)
 
 ---
 *Auto-generated on May 17, 2026. Back to [development](../development.md) · [index](../index.md).*

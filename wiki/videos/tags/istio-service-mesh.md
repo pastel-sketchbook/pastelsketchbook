@@ -2,7 +2,7 @@
 type: tag
 tags: [istio-service-mesh]
 sources: 7
-updated: 2026-07-23
+updated: 2026-07-26
 ---
 
 # istio service mesh
@@ -20,4 +20,4 @@ Videos connected by the topic `istio service mesh`.
 - [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) — Kubernetes · 12 views · May 6, 2026 · [Details](../details/4YsX6tYi5x4.md)
 
 ---
-*Auto-generated on Jul 23, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 26, 2026. Back to [topic index](index.md).*

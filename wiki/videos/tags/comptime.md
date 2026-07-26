@@ -2,7 +2,7 @@
 type: tag
 tags: [comptime]
 sources: 2
-updated: 2026-07-23
+updated: 2026-07-26
 ---
 
 # comptime
@@ -11,8 +11,8 @@ Videos connected by the topic `comptime`.
 
 ## Videos
 
-- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 478 views · Feb 2, 2026 · [Details](../details/xV2EAL3NAVM.md)
-- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 357 views · Dec 28, 2025 · [Details](../details/olsB3bJxA2A.md)
+- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 479 views · Feb 2, 2026 · [Details](../details/xV2EAL3NAVM.md)
+- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 358 views · Dec 28, 2025 · [Details](../details/olsB3bJxA2A.md)
 
 ---
-*Auto-generated on Jul 23, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 26, 2026. Back to [topic index](index.md).*

@@ -30,7 +30,7 @@ This video analyzes the CrowdStrike 2025 Global Threat Report, defining the curr
 
 ## Related Videos
 
-- [Architecting Ephemeral Access](https://youtu.be/Hwa2vM9c2Xc) — Security · 4 views · Jun 29, 2026 · [Details](Hwa2vM9c2Xc.md) (shared: `credential` · `session`)
+- [Architecting Ephemeral Access](https://youtu.be/Hwa2vM9c2Xc) — Security · 5 views · Jun 29, 2026 · [Details](Hwa2vM9c2Xc.md) (shared: `credential` · `session`)
 - [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 61 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `threat`)
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 38 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `credential`)
 - [The 25519 Cryptographic Family](https://youtu.be/MzdV5hjPdsI) — Security · 17 views · Jun 28, 2026 · [Details](MzdV5hjPdsI.md) (shared: `time`)

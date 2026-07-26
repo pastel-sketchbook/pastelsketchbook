@@ -36,9 +36,9 @@ This video presents the AI Copilot Era Equation as a framework for balancing AI 
 
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 96 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `token` · `language` · `model`)
 - [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 113 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `programming` · `language` · `architecture`)
-- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 85 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `compute` · `model` · `architecture`)
+- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 86 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `compute` · `model` · `architecture`)
 - [Architecting Enterprise Al Agents](https://youtu.be/zoT6ifQjXvQ) — Development · 54 views · Jul 11, 2026 · [Details](zoT6ifQjXvQ.md) (shared: `paradox` · `enterprise` · `architecture`)
-- [The Anatomy of a Modern Robot](https://youtu.be/7ygjuzLkdTE) — Development · 47 views · Jun 24, 2026 · [Details](7ygjuzLkdTE.md) (shared: `programming` · `language` · `architecture`)
+- [The Anatomy of a Modern Robot](https://youtu.be/7ygjuzLkdTE) — Development · 49 views · Jun 24, 2026 · [Details](7ygjuzLkdTE.md) (shared: `programming` · `language` · `architecture`)
 
 ---
 *Auto-generated on Jun 11, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -35,7 +35,7 @@ This session evaluates AWS messaging services through native Rust SDK implementa
 
 ## Related Videos
 
-- [Introducing ExtendDB](https://youtu.be/LxI5YjCUswI) — Kubernetes · 51 views · May 24, 2026 · [Details](LxI5YjCUswI.md) (shared: `native` · `rust` · `wire`)
+- [Introducing ExtendDB](https://youtu.be/LxI5YjCUswI) — Kubernetes · 52 views · May 24, 2026 · [Details](LxI5YjCUswI.md) (shared: `native` · `rust` · `wire`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `tokio async runtime` · `tokio`)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 51 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `rust` · `tokio async runtime` · `tokio`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `tokio` · `async`)

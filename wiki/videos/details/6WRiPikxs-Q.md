@@ -35,9 +35,9 @@ This analysis explores the 'architect's baton' concept, detailing the transition
 
 ## Related Videos
 
-- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 98 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `architecture` · `opentelemetry` · `distributed`)
+- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 101 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `architecture` · `opentelemetry` · `distributed`)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 39 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `architecture` · `opentelemetry` · `distributed`)
-- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 117 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `opentelemetry` · `distributed` · `context`)
+- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 119 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `opentelemetry` · `distributed` · `context`)
 - [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 19 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `architecture` · `distributed` · `management`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `architecture` · `distributed` · `infrastructure`)
 

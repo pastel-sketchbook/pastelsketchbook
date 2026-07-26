@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, ai, robotics, sovereign, 2026, mandu, levy, property tax, orbital, stocks]
 sources: 41
-updated: 2026-07-23
+updated: 2026-07-26
 ---
 
 # Finance
@@ -15,7 +15,7 @@ updated: 2026-07-23
 | Metric | Value |
 |--------|-------|
 | Videos | 41 |
-| Total Views | 895 |
+| Total Views | 906 |
 | Most Recent | Jul 22, 2026 |
 | Oldest | Dec 26, 2025 |
 
@@ -24,7 +24,7 @@ updated: 2026-07-23
 ### Architecture (6 videos)
 
 - [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) -- 28 views, Jun 7, 2026 · [Details](details/8vJLWsfheRE.md)
-- [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) -- 26 views, Jun 3, 2026 · [Details](details/P-QVC5lOMbU.md)
+- [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) -- 31 views, Jun 3, 2026 · [Details](details/P-QVC5lOMbU.md)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 42 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) -- 7 views, May 20, 2026 · [Details](details/Dx8pFmojxL4.md)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 47 views, Mar 26, 2026 · [Details](details/hnMR8rdGCnU.md)
@@ -42,7 +42,7 @@ updated: 2026-07-23
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
 | 1 | Systematic Momentum Execution | 5 | Jul 22, 2026 | [Watch](https://youtu.be/md9nXDH1u7Q) | [Wiki](details/md9nXDH1u7Q.md) |
-| 2 | The Physical Al Ecosystem | 18 | Jul 14, 2026 | [Watch](https://youtu.be/3DH2V55G1ck) | [Wiki](details/3DH2V55G1ck.md) |
+| 2 | The Physical Al Ecosystem | 24 | Jul 14, 2026 | [Watch](https://youtu.be/3DH2V55G1ck) | [Wiki](details/3DH2V55G1ck.md) |
 | 3 | The Cash Pump Blueprint | 16 | Jul 12, 2026 | [Watch](https://youtu.be/Aw8arLm35M8) | [Wiki](details/Aw8arLm35M8.md) |
 | 4 | Structural Pruning in State-Space Abstractions | 6 | Jul 7, 2026 | [Watch](https://youtu.be/BNznoJHQDW0) | [Wiki](details/BNznoJHQDW0.md) |
 | 5 | The Anatomy of a Giant | 29 | Jul 6, 2026 | [Watch](https://youtu.be/u5hQQZsLBwU) | [Wiki](details/u5hQQZsLBwU.md) |
@@ -51,7 +51,7 @@ updated: 2026-07-23
 | 8 | Japan's Sovereign Cloud Blueprint | 29 | Jun 16, 2026 | [Watch](https://youtu.be/ZQyL7MT7k60) | [Wiki](details/ZQyL7MT7k60.md) |
 | 9 | The Architecture of Opportunity | 28 | Jun 7, 2026 | [Watch](https://youtu.be/8vJLWsfheRE) | [Wiki](details/8vJLWsfheRE.md) |
 | 10 | Cognitive Lenses in Modern Design | 25 | Jun 5, 2026 | [Watch](https://youtu.be/GmUKi-ZPOYU) | [Wiki](details/GmUKi-ZPOYU.md) |
-| 11 | The Architecture of Insurance Pricing | 26 | Jun 3, 2026 | [Watch](https://youtu.be/P-QVC5lOMbU) | [Wiki](details/P-QVC5lOMbU.md) |
+| 11 | The Architecture of Insurance Pricing | 31 | Jun 3, 2026 | [Watch](https://youtu.be/P-QVC5lOMbU) | [Wiki](details/P-QVC5lOMbU.md) |
 | 12 | The Strategic Guide to Annuities | 38 | May 28, 2026 | [Watch](https://youtu.be/UGQ-ItKwJNw) | [Wiki](details/UGQ-ItKwJNw.md) |
 | 13 | The 10-Year Al Investing Architecture | 42 | May 25, 2026 | [Watch](https://youtu.be/3bcmjx5F5Xs) | [Wiki](details/3bcmjx5F5Xs.md) |
 | 14 | The 2026 Enterprise AI Blueprint | 30 | May 21, 2026 | [Watch](https://youtu.be/9xDzB24tO4I) | [Wiki](details/9xDzB24tO4I.md) |
@@ -95,4 +95,4 @@ updated: 2026-07-23
 - [Security](security.md) -- shared tags: `ai`
 
 ---
-*Auto-generated on Jul 23, 2026. Back to [index](index.md).*
+*Auto-generated on Jul 26, 2026. Back to [index](index.md).*
