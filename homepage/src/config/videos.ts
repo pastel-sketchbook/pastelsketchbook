@@ -470,7 +470,8 @@ export const HIDDEN_VIDEO_IDS: ReadonlySet<string> = new Set([
   'Zop9xMGWjNk',
   'YeCnfTFPbtc',
   'brRRpsAaN9E',
-  // Released full videos (not hidden): RvgI3oEThcA, Aw8arLm35M8, 3DH2V55G1ck, hs7CiLpLgnY, BCBRMUO54p8, 4T0kEQGA0gU
+  '4T0kEQGA0gU',
+  // Released full videos (not hidden): RvgI3oEThcA, Aw8arLm35M8, 3DH2V55G1ck, hs7CiLpLgnY, BCBRMUO54p8
 ])
 
 export const allVideoIds = [
