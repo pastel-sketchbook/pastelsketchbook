@@ -31,7 +31,7 @@ Systematic momentum execution is an event-driven trading framework that translat
 ## Related Videos
 
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `execution` · `market` · `price`)
-- [Structural Pruning in State-Space Abstractions](https://youtu.be/BNznoJHQDW0) — Finance · 6 views · Jul 7, 2026 · [Details](BNznoJHQDW0.md) (shared: `liquidity` · `trap`)
+- [Structural Pruning in State-Space Abstractions](https://youtu.be/BNznoJHQDW0) — Finance · 7 views · Jul 7, 2026 · [Details](BNznoJHQDW0.md) (shared: `liquidity` · `trap`)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) — Finance · 47 views · Mar 26, 2026 · [Details](hnMR8rdGCnU.md) (shared: `trap`)
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `momentum`)
 - [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `market`)

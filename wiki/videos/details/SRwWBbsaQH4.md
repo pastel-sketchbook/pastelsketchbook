@@ -30,11 +30,11 @@ A scalable property tax ingestion strategy targets all 3,143 US counties by expl
 
 ## Related Videos
 
+- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 2 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `data` · `integration`)
 - [2050: The Post-Labor Paradigm](https://youtu.be/ybR0RxXj2_M) — Finance · 11 views · Feb 7, 2026 · [Details](ybR0RxXj2_M.md) (shared: `automation`)
 - [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) — Finance · 30 views · May 21, 2026 · [Details](9xDzB24tO4I.md) (shared: `data`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 77 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data`)
-- [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 89 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data`)
-- [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) — Finance · 7 views · May 20, 2026 · [Details](Dx8pFmojxL4.md) (shared: `data`)
+- [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 91 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data`)
 
 ---
 *Auto-generated on May 15, 2026. Back to [finance](../finance.md) · [index](../index.md).*

@@ -36,7 +36,7 @@ Deconstructs Rust's serde framework as a zero-cost data interchange layer that c
 ## Related Videos
 
 - [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 53 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `serde` · `data` · `model`)
-- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 86 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `model` · `strategies` · `format`)
+- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 87 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `model` · `strategies` · `format`)
 - [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 24 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `zero` · `copy` · `format`)
 - [The Essential Algorithmic Toolkit](https://youtu.be/nRxqSGBuB4s) — Development · 56 views · Mar 6, 2026 · [Details](nRxqSGBuB4s.md) (shared: `data` · `complexity`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 32 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `pattern` · `data`)

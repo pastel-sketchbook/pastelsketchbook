@@ -486,3 +486,39 @@ Synced 434 videos across 6 categories (korea=20, finance=41, kubernetes=82, deve
 ## [2026-07-26] ingest | Video Transcripts
 
 Exported 1 transcript files (single: BCBRMUO54p8) to `wiki/raw/transcripts`.
+
+## [2026-07-28] ingest | Video Metadata Sync
+
+Synced 434 videos across 6 categories (korea=20, finance=41, kubernetes=82, development=264, security=19, programming=8).
+
+## [2026-07-28] ingest | Release 3 new full videos — transcripts, details, books verified
+
+Verified public availability of the 3 newest full videos (newer than the 2026-07-23 release batch):
+- hs7CiLpLgnY (Deploying Istio Service Mesh on AWS, kubernetes, 2026-07-23)
+- BCBRMUO54p8 (Architecting Intelligence, development, 2026-07-24)
+- iJnsRUJonzw (The Internal Developer Platform Blueprint, kubernetes, 2026-07-25)
+
+For each: raw transcript present, public mirror byte-identical, detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted), and placed in `books.json`.
+Book placement: hs7CiLpLgnY → Architect's Sketchbook Ch2 (Zero Trust as First Principle), BCBRMUO54p8 → Ch8 (The 2026 Architectural Standard), iJnsRUJonzw → Ch8 (The 2026 Architectural Standard).
+Bundle: 434 videos, 434 with detail (Missing: 0). zmd reindexed (1095 documents). Public transcript mirror in sync. `bun --cwd homepage run build` passes; all 3 transcripts + wiki-bundle.json + books.json emitted to `dist/`.
+
+## [2026-07-28] ingest | Showcase release verified for 3 new full videos
+
+Confirmed all 3 new full videos are released for the showcase (not in `HIDDEN_VIDEO_IDS`, present in category arrays and `videos-metadata.json`): hs7CiLpLgnY, BCBRMUO54p8, iJnsRUJonzw. The showcase gates (`allVideoIds` membership, `videoCategories` assignment, `!HIDDEN_VIDEO_IDS.has(id)`, metadata presence) all pass → each `WILL APPEAR`. Updated the "Released full videos" tracking comment in `homepage/src/config/videos.ts` to include `iJnsRUJonzw` (prior comment listed only hs7CiLpLgnY and BCBRMUO54p8). `bun --cwd homepage run build` passes.
+
+## [2026-07-28] ingest | Video Transcripts
+
+Exported 1 transcript files (single: izH8Nzr3DLA) to `wiki/raw/transcripts`.
+
+## [2026-07-28] ingest | Release 3 staged full videos + fix sync-videos HIDDEN parser regression
+
+Released the 3 actual staged full videos from `HIDDEN_VIDEO_IDS` so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- izH8Nzr3DLA (The Sovereign AI Utility, finance)
+- lXwe6xeFmAE (Transcontinental Data Migration, development)
+- 7dsz_yUpvqM (The Joy of Cryptography, security)
+
+For each: raw transcript present (`wiki/raw/transcripts/{id}.md`), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json` (izH8Nzr3DLA + lXwe6xeFmAE → Architect's Sketchbook Ch8, 7dsz_yUpvqM → Internals Companion Ch16). All 3 present in `dist/wiki-bundle.json` with full `detail` (summary + 5 takeaways + 8-9 topics + 5 related) and in `dist/transcripts/{id}.md`; `dist/books.json` placements emitted.
+
+Root-cause fix in `homepage/scripts/sync-videos.ts`: the manual-`HIDDEN_VIDEO_IDS` preservation logic used `manualMatch[1].split(',')` to recover existing hidden IDs. The block contains comma-bearing comment lines (e.g. the "Released full videos" tracking comment with unquoted IDs), so the split treated comment fragments and released IDs as hidden — re-hiding released videos and emitting malformed TypeScript (unterminated string starting with `// Shorts (< 2 min)...`) that broke `prebuild` at `videos.ts`. Replaced with `(manualMatch[1].match(/'[^']+'/g) ?? []).map((s) => s.slice(1, -1))` so only quoted string literals are treated as hidden IDs; comment lines are ignored.
+
+Sync also discovered 1 new non-public kubernetes video `qXg3PQ2kUpI` (auto-hidden as staged). Bundle: 436 videos, 436 with detail (Missing: 0). zmd reindexed (1091 documents); all 3 detail pages + raw transcripts retrievable via `zmd context`. `bun --cwd homepage run build` passes (prebuild reruns sync — the prior corruption no longer reproduces). Showcase gates pass for all 3 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle present) → each `WILL APPEAR`. Updated "Released full videos" tracking comment to include all 9 released IDs.

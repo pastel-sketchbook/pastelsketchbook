@@ -32,7 +32,7 @@ This video presents a strategic blueprint for adopting trunk-based development (
 
 - [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](B2x09utLjtM.md) (shared: `trunk-based development` · `trunk-based` · `development`)
 - [The Art of Git Gardening](https://youtu.be/PNFlYx8HiOM) — Development · 16 views · Dec 31, 2025 · [Details](PNFlYx8HiOM.md) (shared: `trunk-based development` · `trunk-based` · `development`)
-- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 36 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `deployment` · `enterprise`)
+- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 37 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `deployment` · `enterprise`)
 - [Generative Al at Scale](https://youtu.be/uU46ltIELqk) — Development · 14 views · Mar 27, 2026 · [Details](uU46ltIELqk.md) (shared: `deployment` · `enterprise`)
 - [Rebalancing the SDLC in the Al Era](https://youtu.be/Z98SHl4nSFI) — Development · 21 views · Mar 17, 2026 · [Details](Z98SHl4nSFI.md) (shared: `dora` · `delivery`)
 

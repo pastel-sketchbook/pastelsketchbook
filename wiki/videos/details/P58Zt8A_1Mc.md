@@ -34,7 +34,7 @@ Swift Firefly is an experimental macOS desktop application that leverages Zig fo
 
 ## Related Videos
 
-- [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 14 views · Jan 25, 2026 · [Details](3Fpey_L_XRU.md) (shared: `zig` · `webassembly` · `interop`)
+- [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 15 views · Jan 25, 2026 · [Details](3Fpey_L_XRU.md) (shared: `zig` · `webassembly` · `interop`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `programming` · `language`)
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `zig` · `programming` · `webassembly`)
 - [pastel-hn](https://youtu.be/cJl2cchaHL8) — Development · 59 views · Jan 24, 2026 · [Details](cJl2cchaHL8.md) (shared: `zig` · `webassembly` · `development`)

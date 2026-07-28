@@ -2,7 +2,7 @@
 type: tag
 tags: [kubernetes-orchestration]
 sources: 2
-updated: 2026-07-26
+updated: 2026-07-28
 ---
 
 # kubernetes orchestration
@@ -15,4 +15,4 @@ Videos connected by the topic `kubernetes orchestration`.
 - [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 21 views · Apr 22, 2026 · [Details](../details/p9LNSeAt5Zw.md)
 
 ---
-*Auto-generated on Jul 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Jul 28, 2026. Back to [topic index](index.md).*

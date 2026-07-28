@@ -33,9 +33,9 @@ This strategic analysis examines the long-term AI capital cycle, forecasting a t
 
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 77 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `infrastructure`)
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 8 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `data` · `center` · `infrastructure`)
+- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 2 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `capital` · `data` · `infrastructure`)
 - [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `infrastructure` · `economy`)
 - [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 29 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `data` · `infrastructure`)
-- [2050: The Post-Labor Paradigm](https://youtu.be/ybR0RxXj2_M) — Finance · 11 views · Feb 7, 2026 · [Details](ybR0RxXj2_M.md) (shared: `economy`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [finance](../finance.md) · [index](../index.md).*

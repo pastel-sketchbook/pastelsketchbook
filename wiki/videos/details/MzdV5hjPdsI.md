@@ -35,11 +35,11 @@ This deep-dive traces the 25519 cryptographic family from Bernstein's 2005 Curve
 
 ## Related Videos
 
+- [The Joy of Cryptography](https://youtu.be/7dsz_yUpvqM) — Security · 5 views · Jul 27, 2026 · [Details](7dsz_yUpvqM.md) (shared: `key` · `exchange` · `signatures`)
 - [2025 Global Threat Report](https://youtu.be/1MPD6MILLcQ) — Security · 14 views · Feb 27, 2026 · [Details](1MPD6MILLcQ.md) (shared: `time`)
 - [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) — Security · 21 views · Jun 6, 2026 · [Details](Kp_4y_HEaZ0.md) (shared: `key`)
 - [Architecting Ephemeral Access](https://youtu.be/Hwa2vM9c2Xc) — Security · 5 views · Jun 29, 2026 · [Details](Hwa2vM9c2Xc.md) (shared: `exchange`)
-- [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 23 views · Jan 16, 2026 · [Details](0ttrfTfP864.md) (shared: `key` · `ed25519`)
-- [Architecting Enterprise Secret Management in Rust](https://youtu.be/JrCT7Xu-aGU) — Kubernetes · 18 views · Jun 25, 2026 · [Details](JrCT7Xu-aGU.md) (shared: `key` · `exchange`)
+- [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 24 views · Jan 16, 2026 · [Details](0ttrfTfP864.md) (shared: `key` · `ed25519`)
 
 ---
 *Auto-generated on Jun 29, 2026. Back to [security](../security.md) · [index](../index.md).*

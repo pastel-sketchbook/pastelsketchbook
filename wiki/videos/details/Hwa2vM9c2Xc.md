@@ -35,7 +35,7 @@ This session covers building temporary access patterns by integrating AWS Securi
 
 ## Related Videos
 
-- [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 19 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `trust` · `architecture`)
+- [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 21 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `trust` · `architecture`)
 - [2025 Global Threat Report](https://youtu.be/1MPD6MILLcQ) — Security · 14 views · Feb 27, 2026 · [Details](1MPD6MILLcQ.md) (shared: `credential` · `session`)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) — Security · 34 views · Mar 25, 2026 · [Details](CA1nlknmR3g.md) (shared: `architecture`)
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 38 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `credential`)

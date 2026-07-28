@@ -31,10 +31,10 @@ This video compares JWT and PASETO (Platform-Agnostic Security Tokens) as enterp
 ## Related Videos
 
 - [Modern Microservice Trust](https://youtu.be/SeYrpzDTn6A) — Development · 19 views · Jan 13, 2026 · [Details](SeYrpzDTn6A.md) (shared: `jwt` · `security` · `paseto tokens`)
-- [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 23 views · Jan 16, 2026 · [Details](0ttrfTfP864.md) (shared: `security` · `paseto tokens` · `paseto`)
+- [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 24 views · Jan 16, 2026 · [Details](0ttrfTfP864.md) (shared: `security` · `paseto tokens` · `paseto`)
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `security` · `authentication`)
-- [Cryptographic Usability & The Tink Library](https://youtu.be/H-gkXATx8r0) — Development · 22 views · Feb 21, 2026 · [Details](H-gkXATx8r0.md) (shared: `security` · `cryptographic`)
-- [The Rust SPNEGO Hub](https://youtu.be/33odiiNMGzQ) — Development · 21 views · Jul 3, 2026 · [Details](33odiiNMGzQ.md) (shared: `jwt` · `authentication`)
+- [Cryptographic Usability & The Tink Library](https://youtu.be/H-gkXATx8r0) — Development · 23 views · Feb 21, 2026 · [Details](H-gkXATx8r0.md) (shared: `security` · `cryptographic`)
+- [The Rust SPNEGO Hub](https://youtu.be/33odiiNMGzQ) — Development · 23 views · Jul 3, 2026 · [Details](33odiiNMGzQ.md) (shared: `jwt` · `authentication`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -34,7 +34,7 @@ This video examines the architectural design of a fully AI-stocked autonomous en
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `autonomous` · `automation` · `architecture`)
 - [Architecting the Next-Generation Enterprise](https://youtu.be/XHQGmyffO-s) — Development · 20 views · Jun 4, 2026 · [Details](XHQGmyffO-s.md) (shared: `enterprise` · `stack` · `architecture`)
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `autonomous` · `automation`)
-- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 36 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `autonomous` · `enterprise`)
+- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 37 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `autonomous` · `enterprise`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -30,7 +30,7 @@ This video explores Kubernetes autoscaling strategies across two dimensions: Hor
 
 ## Related Videos
 
-- [Mastering Batch Workload Orchestration on Kubernetes](https://youtu.be/XKTtea0xGsA) — Kubernetes · 17 views · Jul 17, 2026 · [Details](XKTtea0xGsA.md) (shared: `pod` · `kubernetes` · `resource`)
+- [Mastering Batch Workload Orchestration on Kubernetes](https://youtu.be/XKTtea0xGsA) — Kubernetes · 19 views · Jul 17, 2026 · [Details](XKTtea0xGsA.md) (shared: `pod` · `kubernetes` · `resource`)
 - [Architecting Kubernetes Operators](https://youtu.be/hvkvH7i8NLc) — Kubernetes · 18 views · May 31, 2026 · [Details](hvkvH7i8NLc.md) (shared: `kubernetes` · `resource` · `stateful`)
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `pod` · `kubernetes`)
 - [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 23 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `kubernetes` · `management`)

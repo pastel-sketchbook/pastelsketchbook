@@ -40,7 +40,7 @@ Welcome.  Today  we  will  be  exploring  the architecture  of  similarity,  a  
 ## Related Videos
 
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 46 views · Apr 21, 2026 · [Details](xkHQhOgapfY.md) (shared: `cosine similarity` · `cosine` · `similarity`)
-- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 11 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `vector search` · `vector` · `search`)
+- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 12 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `vector search` · `vector` · `search`)
 - [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 134 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `vector search` · `vector` · `search`)
 - [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 24 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `similarity` · `vector` · `search`)
 - [The Essential Algorithmic Toolkit](https://youtu.be/nRxqSGBuB4s) — Development · 56 views · Mar 6, 2026 · [Details](nRxqSGBuB4s.md) (shared: `binary` · `search`)

@@ -3,7 +3,7 @@ type: category
 category: korea
 tags: [viaje, corea, seul, jeju, ganghwa, sokcho, daejeon, danyang, jinju, yeosu]
 sources: 20
-updated: 2026-07-26
+updated: 2026-07-28
 ---
 
 # Korea
@@ -52,4 +52,4 @@ updated: 2026-07-26
 - [Finance](finance.md)
 
 ---
-*Auto-generated on Jul 26, 2026. Back to [index](index.md).*
+*Auto-generated on Jul 28, 2026. Back to [index](index.md).*

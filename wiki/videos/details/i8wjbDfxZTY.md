@@ -35,7 +35,7 @@ This talk argues for a mandatory — not optional — Python tooling baseline bu
 - [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 55 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `python` · `workflow`)
 - [The Performance Paradigm](https://youtu.be/2cuMV05Fang) — Development · 30 views · Jul 20, 2026 · [Details](2cuMV05Fang.md) (shared: `manager` · `static`)
 - [Architecting Modern JavaScript Modules](https://youtu.be/Fqokr0P2_ag) — Development · 22 views · May 25, 2026 · [Details](Fqokr0P2_ag.md) (shared: `tooling` · `static`)
-- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 56 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `package` · `type`)
+- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 58 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `package` · `type`)
 
 ---
 *Auto-generated on Jun 2, 2026. Back to [development](../development.md) · [index](../index.md).*

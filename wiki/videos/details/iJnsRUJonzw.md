@@ -34,7 +34,7 @@ This talk presents a strategic blueprint for building an internal developer plat
 - [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `abstraction` · `kubernetes` · `scale`)
 - [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 70 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `platform` · `engineering` · `cognitive`)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) — Kubernetes · 25 views · Feb 21, 2026 · [Details](ORjARjbukhY.md) (shared: `platform` · `engineering` · `kubernetes`)
-- [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 17 views · Mar 16, 2026 · [Details](to1PClyd0YA.md) (shared: `platform` · `engineering` · `kubernetes`)
+- [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 18 views · Mar 16, 2026 · [Details](to1PClyd0YA.md) (shared: `platform` · `engineering` · `kubernetes`)
 
 ---
 *Auto-generated on Jul 26, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

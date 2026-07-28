@@ -46,7 +46,7 @@ Welcome  everyone.  Today  we  are  exploring the  architectural  shift  represe
 
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 60 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `search` · `mcp server` · `mcp`)
 - [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 29 views · Apr 29, 2026 · [Details](GERT8PoS9Qk.md) (shared: `vector search` · `vector` · `search`)
-- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 11 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `vector search` · `vector` · `search`)
+- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 12 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `vector search` · `vector` · `search`)
 - [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 24 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `rust` · `vector` · `search`)
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `concurrency`)
 

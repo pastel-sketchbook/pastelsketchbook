@@ -34,7 +34,7 @@ This video presents a GDPR engineering blueprint, translating privacy-by-design 
 
 ## Related Videos
 
-- [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 19 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `data` · `management`)
+- [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 21 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `data` · `management`)
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 21 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `management`)
 - [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 61 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `data`)
 - [Escaping the env Ceiling](https://youtu.be/kc1gwl89iyw) — Security · 29 views · Jun 18, 2026 · [Details](kc1gwl89iyw.md) (shared: `management`)

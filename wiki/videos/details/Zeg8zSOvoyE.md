@@ -30,7 +30,7 @@ This video argues that the 20-year equilibrium between cyber attackers and defen
 
 ## Related Videos
 
-- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 57 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `autonomous` · `exploitation` · `vulnerability`)
+- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 58 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `autonomous` · `exploitation` · `vulnerability`)
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 21 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `framework` · `security`)
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 25 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `vulnerability` · `security`)
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 38 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `vulnerability` · `security`)

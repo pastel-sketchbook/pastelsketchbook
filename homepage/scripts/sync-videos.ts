@@ -384,8 +384,13 @@ async function syncVideos() {
   // Preserve manual HIDDEN entries (staged full videos not yet released), plus private + Shorts
   const manualHiddenRegex = /HIDDEN_VIDEO_IDS[^[]*\[([^\]]*)\]/s
   const manualMatch = currentConfig.match(manualHiddenRegex)
+  // Extract only quoted string literals (real video IDs) from the HIDDEN block.
+  // Splitting on commas is unsafe because comment lines (e.g. the "Released full
+  // videos" tracking comment) contain commas and unquoted IDs — those would be
+  // treated as hidden IDs, re-hiding released videos and corrupting the rewritten
+  // file with comment-text "IDs" that break syntax.
   const existingHiddenIds = manualMatch
-    ? manualMatch[1].split(',').map((s) => s.trim().replace(/['"]/g, '')).filter(Boolean)
+    ? (manualMatch[1].match(/'[^']+'/g) ?? []).map((s) => s.slice(1, -1))
     : []
   const allHiddenIds = [...new Set([...hiddenIds, ...shortIds, ...existingHiddenIds])]
 

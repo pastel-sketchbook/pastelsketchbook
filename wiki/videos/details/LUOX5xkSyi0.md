@@ -31,10 +31,10 @@ This video provides a walkthrough of CUE (version 0.16), a configuration languag
 ## Related Videos
 
 - [Beyond Static Configuration](https://youtu.be/okVlu1qseI4) — Kubernetes · 25 views · Feb 15, 2026 · [Details](okVlu1qseI4.md) (shared: `cue language` · `cue` · `language`)
-- [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 17 views · Mar 16, 2026 · [Details](to1PClyd0YA.md) (shared: `cue language` · `cue` · `language`)
+- [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 18 views · Mar 16, 2026 · [Details](to1PClyd0YA.md) (shared: `cue language` · `cue` · `language`)
 - [Bridging Helm and CUE for Deterministic Value Composition](https://youtu.be/7eoxSgjwYlM) — Kubernetes · 26 views · Feb 19, 2026 · [Details](7eoxSgjwYlM.md) (shared: `cue` · `configuration management` · `configuration`)
 - [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 68 views · Apr 25, 2026 · [Details](quD4pyCwKB4.md) (shared: `management` · `infrastructure as code` · `infrastructure`)
-- [Azure Linux 4.0 and the Al-Native Cloud Era](https://youtu.be/o9x4daXS4Rk) — Kubernetes · 24 views · Jul 5, 2026 · [Details](o9x4daXS4Rk.md) (shared: `management` · `infrastructure as code` · `infrastructure`)
+- [Azure Linux 4.0 and the Al-Native Cloud Era](https://youtu.be/o9x4daXS4Rk) — Kubernetes · 25 views · Jul 5, 2026 · [Details](o9x4daXS4Rk.md) (shared: `management` · `infrastructure as code` · `infrastructure`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

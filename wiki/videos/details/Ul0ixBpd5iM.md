@@ -33,7 +33,7 @@ This video introduces Velox, a Swift-first port of the Tauri architecture that e
 - [pastel-hn](https://youtu.be/cJl2cchaHL8) — Development · 59 views · Jan 24, 2026 · [Details](cJl2cchaHL8.md) (shared: `tauri` · `architecture` · `desktop`)
 - [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 19 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `tauri` · `architecture` · `desktop`)
 - [React Native vs. Flutter for Enterprise Apps](https://youtu.be/jzjGcFkAnfs) — Development · 33 views · Feb 26, 2026 · [Details](jzjGcFkAnfs.md) (shared: `architecture` · `native` · `bridge`)
-- [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 14 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `swift` · `native` · `bridge`)
+- [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 15 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `swift` · `native` · `bridge`)
 - [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 113 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `architecture` · `cross-platform` · `development`)
 
 ---

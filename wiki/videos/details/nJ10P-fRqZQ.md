@@ -30,7 +30,7 @@ This video presents an architectural blueprint for migrating from on-premises Ac
 
 ## Related Videos
 
-- [2FA Orchestration in PingFederate](https://youtu.be/HxB-cJIbEgE) — Security · 10 views · Mar 29, 2026 · [Details](HxB-cJIbEgE.md) (shared: `active` · `directory` · `identity`)
+- [2FA Orchestration in PingFederate](https://youtu.be/HxB-cJIbEgE) — Security · 11 views · Mar 29, 2026 · [Details](HxB-cJIbEgE.md) (shared: `active` · `directory` · `identity`)
 - [The Architecture of Modern Identity](https://youtu.be/n-Yt33ZdEHw) — Kubernetes · 62 views · Mar 18, 2026 · [Details](n-Yt33ZdEHw.md) (shared: `identity` · `saml` · `oidc`)
 - [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) — Kubernetes · 12 views · May 22, 2026 · [Details](9ga0NT3ZohQ.md) (shared: `microsoft` · `entra` · `identity`)
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) — Kubernetes · 26 views · Apr 4, 2026 · [Details](7iWL5-0C66s.md) (shared: `migration` · `cloud`)

@@ -30,7 +30,7 @@ This video presents seven critical engineering takeaways from Google Cloud's exp
 
 ## Related Videos
 
-- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 36 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `enterprise ai deployment` · `enterprise` · `deployment`)
+- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 37 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `enterprise ai deployment` · `enterprise` · `deployment`)
 - [The 2026 State of Al Agents](https://youtu.be/BAxPZdgmgRQ) — Development · 4 views · Jan 8, 2026 · [Details](BAxPZdgmgRQ.md) (shared: `generative` · `enterprise`)
 - [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](B2x09utLjtM.md) (shared: `pipeline` · `deployment`)
 - [From Bottlenecks to Breakthroughs:](https://youtu.be/TLqdeHlAo3A) — Development · 61 views · Dec 27, 2025 · [Details](TLqdeHlAo3A.md) (shared: `enterprise` · `deployment`)

@@ -37,9 +37,9 @@ South Korea's KRW 1,100 trillion (~$880B) national initiative reframes AI hardwa
 
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 77 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `capacity` · `data` · `center`)
 - [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 29 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `strategy` · `data` · `infrastructure`)
-- [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 89 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data` · `center` · `infrastructure`)
+- [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 91 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data` · `center` · `infrastructure`)
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `strategy` · `infrastructure`)
-- [The Physical Al Ecosystem](https://youtu.be/3DH2V55G1ck) — Finance · 24 views · Jul 14, 2026 · [Details](3DH2V55G1ck.md) (shared: `semiconductor` · `stack`)
+- [The Physical Al Ecosystem](https://youtu.be/3DH2V55G1ck) — Finance · 19 views · Jul 14, 2026 · [Details](3DH2V55G1ck.md) (shared: `semiconductor` · `stack`)
 
 ---
 *Auto-generated on Jun 30, 2026. Back to [finance](../finance.md) · [index](../index.md).*
