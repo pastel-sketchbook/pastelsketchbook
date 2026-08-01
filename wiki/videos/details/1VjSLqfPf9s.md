@@ -34,7 +34,7 @@ This video examines the NIST Cybersecurity Framework 2.0, highlighting its shift
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 25 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `security` · `assessment`)
 - [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) — Security · 80 views · Mar 31, 2026 · [Details](Zeg8zSOvoyE.md) (shared: `framework` · `security`)
 - [From Blueprint to Battlefield](https://youtu.be/2kvYb2pVe5o) — Development · 32 views · Dec 27, 2025 · [Details](2kvYb2pVe5o.md) (shared: `nist` · `2.0` · `security`)
-- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 58 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security`)
+- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 59 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

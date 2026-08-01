@@ -31,7 +31,7 @@ This talk is an engineering playbook for moving 100 TB of data from Europe to As
 ## Related Videos
 
 - [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 212 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `migration` · `tcp` · `udp`)
-- [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 31 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `data` · `replication`)
+- [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 32 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `data` · `replication`)
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `migration` · `efficiency`)
 - [RFC 862 and the Echo Protocol](https://youtu.be/ea5lpF3RyzE) — Development · 40 views · Apr 7, 2026 · [Details](ea5lpF3RyzE.md) (shared: `tcp` · `udp`)
 - [The AI Copilot Era Equation](https://youtu.be/xwEN7oZFvdw) — Development · 53 views · Jun 10, 2026 · [Details](xwEN7oZFvdw.md) (shared: `cloud` · `economics`)

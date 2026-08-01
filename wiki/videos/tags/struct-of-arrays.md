@@ -2,7 +2,7 @@
 type: tag
 tags: [struct-of-arrays]
 sources: 3
-updated: 2026-07-28
+updated: 2026-08-01
 ---
 
 # struct of arrays
@@ -16,4 +16,4 @@ Videos connected by the topic `struct of arrays`.
 - [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 15 views · Jan 25, 2026 · [Details](../details/3Fpey_L_XRU.md)
 
 ---
-*Auto-generated on Jul 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 1, 2026. Back to [topic index](index.md).*

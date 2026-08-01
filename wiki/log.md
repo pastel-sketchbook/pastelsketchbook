@@ -522,3 +522,11 @@ For each: raw transcript present (`wiki/raw/transcripts/{id}.md`), public mirror
 Root-cause fix in `homepage/scripts/sync-videos.ts`: the manual-`HIDDEN_VIDEO_IDS` preservation logic used `manualMatch[1].split(',')` to recover existing hidden IDs. The block contains comma-bearing comment lines (e.g. the "Released full videos" tracking comment with unquoted IDs), so the split treated comment fragments and released IDs as hidden — re-hiding released videos and emitting malformed TypeScript (unterminated string starting with `// Shorts (< 2 min)...`) that broke `prebuild` at `videos.ts`. Replaced with `(manualMatch[1].match(/'[^']+'/g) ?? []).map((s) => s.slice(1, -1))` so only quoted string literals are treated as hidden IDs; comment lines are ignored.
 
 Sync also discovered 1 new non-public kubernetes video `qXg3PQ2kUpI` (auto-hidden as staged). Bundle: 436 videos, 436 with detail (Missing: 0). zmd reindexed (1091 documents); all 3 detail pages + raw transcripts retrievable via `zmd context`. `bun --cwd homepage run build` passes (prebuild reruns sync — the prior corruption no longer reproduces). Showcase gates pass for all 3 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle present) → each `WILL APPEAR`. Updated "Released full videos" tracking comment to include all 9 released IDs.
+
+## [2026-08-01] ingest | Video Metadata Sync
+
+Synced 439 videos across 6 categories (korea=20, finance=43, kubernetes=84, development=264, security=20, programming=8).
+
+## [2026-08-01] ingest | Video Transcripts
+
+Exported 1 transcript files (single: BZm2J9sLEp8) to `wiki/raw/transcripts`.

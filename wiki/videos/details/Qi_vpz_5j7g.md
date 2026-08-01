@@ -39,7 +39,7 @@ ONNX (Open Neural Network Exchange) serves as the universal intermediate represe
 ## Related Videos
 
 - [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 59 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `graph` · `inference` · `api`)
-- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 93 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `onnx` · `graph` · `inference`)
+- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 94 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `onnx` · `graph` · `inference`)
 - [Burn: The Rust Deep Learning Framework](https://youtu.be/_bFOZ51Q55Y) — Development · 2.0K views · May 8, 2026 · [Details](_bFOZ51Q55Y.md) (shared: `adapters` · `backend` · `hardware`)
 - [Deconstructing Elixir's 400x Type System Acceleration](https://youtu.be/gVZwfZVAuVE) — Development · 43 views · Mar 4, 2026 · [Details](gVZwfZVAuVE.md) (shared: `form` · `type` · `inference`)
 - [Architecting Enterprise Al Agents](https://youtu.be/zoT6ifQjXvQ) — Development · 54 views · Jul 11, 2026 · [Details](zoT6ifQjXvQ.md) (shared: `graph` · `api` · `governance`)

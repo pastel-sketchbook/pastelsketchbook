@@ -34,8 +34,8 @@ This video tours Kubernetes 1.36 (“Haru”) as a platform-engineering release 
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes` · `control` · `plane`)
 - [The Anatomy of Kubernetes](https://youtu.be/WrZN5AgpaW4) — Kubernetes · 28 views · May 12, 2026 · [Details](WrZN5AgpaW4.md) (shared: `kubernetes` · `api` · `control`)
 - [Architecting Kubernetes Operators](https://youtu.be/hvkvH7i8NLc) — Kubernetes · 18 views · May 31, 2026 · [Details](hvkvH7i8NLc.md) (shared: `kubernetes` · `resource` · `api`)
+- [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 8 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `kubernetes` · `gateway` · `api`)
 - [Kubernetes Auto-Scaling Strategies](https://youtu.be/y3WwL48DLYw) — Kubernetes · 29 views · Feb 23, 2026 · [Details](y3WwL48DLYw.md) (shared: `kubernetes` · `resource`)
-- [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) — Kubernetes · 32 views · Jan 27, 2026 · [Details](KpSjLQpswW4.md) (shared: `kubernetes` · `control`)
 
 ---
 *Auto-generated on Apr 25, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

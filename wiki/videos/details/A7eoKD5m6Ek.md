@@ -30,7 +30,7 @@ This session provides a defense-in-depth blueprint for securely exposing private
 
 ## Related Videos
 
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 73 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `aks security` · `aks` · `security`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 74 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `aks security` · `aks` · `security`)
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](C6wLm6NRZW4.md) (shared: `aks` · `azure` · `application`)
 - [Azure Enterprise Edge Lab](https://youtu.be/fMjflPvjaJ8) — Kubernetes · 9 views · Mar 31, 2026 · [Details](fMjflPvjaJ8.md) (shared: `security` · `azure` · `waf`)
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 25 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `security` · `defense in depth` · `defense`)

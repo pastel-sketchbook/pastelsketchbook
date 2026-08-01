@@ -32,9 +32,9 @@ A walkthrough of the Kubernetes monorepo dissects how the control plane (API ser
 
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes` · `control` · `plane`)
 - [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 82 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `control` · `plane`)
+- [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 8 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `kubernetes` · `api` · `kubelet`)
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) — Kubernetes · 30 views · Mar 16, 2026 · [Details](LUOX5xkSyi0.md) (shared: `language` · `validation`)
 - [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 18 views · Mar 16, 2026 · [Details](to1PClyd0YA.md) (shared: `kubernetes` · `language`)
-- [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) — Kubernetes · 32 views · Jan 27, 2026 · [Details](KpSjLQpswW4.md) (shared: `kubernetes` · `control`)
 
 ---
 *Auto-generated on May 15, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

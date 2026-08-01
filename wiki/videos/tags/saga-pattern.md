@@ -2,7 +2,7 @@
 type: tag
 tags: [saga-pattern]
 sources: 2
-updated: 2026-07-28
+updated: 2026-08-01
 ---
 
 # saga pattern
@@ -15,4 +15,4 @@ Videos connected by the topic `saga pattern`.
 - [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 19 views · Apr 30, 2026 · [Details](../details/xlwu0YwE3_Q.md)
 
 ---
-*Auto-generated on Jul 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 1, 2026. Back to [topic index](index.md).*

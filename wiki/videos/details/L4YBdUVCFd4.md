@@ -31,9 +31,9 @@ A technical blueprint for migrating a SolidJS 1.x application to the `2.0.0-beta
 
 ## Related Videos
 
-- [The Road to SolidJS 2.0](https://youtu.be/00kCzR10M1w) — Development · 312 views · Mar 3, 2026 · [Details](00kCzR10M1w.md) (shared: `signals` · `batching` · `reactivity`)
+- [The Road to SolidJS 2.0](https://youtu.be/00kCzR10M1w) — Development · 315 views · Mar 3, 2026 · [Details](00kCzR10M1w.md) (shared: `signals` · `batching` · `reactivity`)
 - [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 43 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `migration` · `lifecycle`)
-- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 87 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `batching` · `compute`)
+- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 90 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `batching` · `compute`)
 - [Architecting Modern JavaScript Modules](https://youtu.be/Fqokr0P2_ag) — Development · 22 views · May 25, 2026 · [Details](Fqokr0P2_ag.md) (shared: `migration` · `loading`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 37 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `signals`)
 

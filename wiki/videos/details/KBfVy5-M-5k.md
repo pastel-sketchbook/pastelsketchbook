@@ -32,7 +32,7 @@ This video examines the "retirement red zone" — the critical decade spanning 5
 
 - [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](EMXUbohWsWs.md) (shared: `retirement` · `strategy` · `sequence of returns risk`)
 - [The Final 5 Years](https://youtu.be/G-vvSNwm-jE) — Finance · 19 views · Mar 20, 2026 · [Details](G-vvSNwm-jE.md) (shared: `retirement` · `strategy` · `sequence of returns risk`)
-- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 22 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `strategy` · `portfolio` · `risk`)
+- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 25 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `strategy` · `portfolio` · `risk`)
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `retirement` · `strategy` · `portfolio`)
 - [An Ambitious Ascent](https://youtu.be/MDNRiJN7aEg) — Finance · 11 views · Dec 29, 2025 · [Details](MDNRiJN7aEg.md) (shared: `portfolio` · `risk`)
 

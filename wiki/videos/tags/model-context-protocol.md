@@ -2,7 +2,7 @@
 type: tag
 tags: [model-context-protocol]
 sources: 4
-updated: 2026-07-28
+updated: 2026-08-01
 ---
 
 # model context protocol
@@ -12,9 +12,9 @@ Videos connected by the topic `model context protocol`.
 ## Videos
 
 - [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 714 views · Feb 27, 2026 · [Details](../details/JeqaHMmSh1s.md)
-- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 281 views · Apr 5, 2026 · [Details](../details/fv61JXUCbeo.md)
+- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 283 views · Apr 5, 2026 · [Details](../details/fv61JXUCbeo.md)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 96 views · Apr 5, 2026 · [Details](../details/T-NdEF6btbg.md)
 - [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](../details/9oSUtndLto4.md)
 
 ---
-*Auto-generated on Jul 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 1, 2026. Back to [topic index](index.md).*

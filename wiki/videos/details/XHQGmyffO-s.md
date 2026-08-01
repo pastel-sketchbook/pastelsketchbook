@@ -40,7 +40,7 @@ A strategic blueprint for future-proofing enterprise architecture through three 
 - [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 24 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `stack` · `enterprise` · `architecture`)
 - [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) — Development · 114 views · Feb 9, 2026 · [Details](qxOOl1hx1zU.md) (shared: `stack` · `legacy` · `architecture`)
 - [React Native vs. Flutter for Enterprise Apps](https://youtu.be/jzjGcFkAnfs) — Development · 33 views · Feb 26, 2026 · [Details](jzjGcFkAnfs.md) (shared: `strategy` · `enterprise` · `architecture`)
-- [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 59 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `cloud-native` · `legacy` · `modernization`)
+- [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 60 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `cloud-native` · `legacy` · `modernization`)
 
 ---
 *Auto-generated on Jun 6, 2026. Back to [development](../development.md) · [index](../index.md).*

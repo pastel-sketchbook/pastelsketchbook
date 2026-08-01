@@ -38,7 +38,7 @@ This guide explores the transition from traditional object-oriented inheritance 
 - [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 33 views · Feb 23, 2026 · [Details](ARWkoc3E8uE.md) (shared: `composition over inheritance` · `composition` · `inheritance`)
 - [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 55 views · Apr 27, 2026 · [Details](R3n8UxyD7mc.md) (shared: `principle` · `dependency injection` · `dependency`)
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 48 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `dependency injection` · `dependency` · `injection`)
-- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 78 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `dependency injection` · `dependency` · `injection`)
+- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 80 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `dependency injection` · `dependency` · `injection`)
 - [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 812 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `dependency injection` · `dependency` · `injection`)
 
 ---

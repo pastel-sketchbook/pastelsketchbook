@@ -36,7 +36,7 @@ Drawing on Richard Nisbett's research on the geographic origins of cognitive sty
 
 ## Related Videos
 
-- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 22 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `strategy`)
+- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 25 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `strategy`)
 - [The architecture of wealth](https://youtu.be/nfD3KzIriM8) — Finance · 8 views · Jan 16, 2026 · [Details](nfD3KzIriM8.md) (shared: `psychology`)
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `psychology`)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) — Finance · 47 views · Mar 26, 2026 · [Details](hnMR8rdGCnU.md) (shared: `psychology`)

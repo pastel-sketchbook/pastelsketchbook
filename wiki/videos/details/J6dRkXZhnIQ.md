@@ -38,8 +38,8 @@ This talk lays out a twenty-year roadmap that bridges compiler theory, verifiabl
 - [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 93 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `optimization` · `engineering` · `memory`)
 - [Teaching an Ancient Calendar to a Microscopic AI](https://youtu.be/4wX4mGuiTjw) — Development · 9 views · Mar 8, 2026 · [Details](4wX4mGuiTjw.md) (shared: `optimization` · `systems` · `learning`)
 - [Machine Learning Systems](https://youtu.be/fNN88ZXWYKU) — Development · 177 views · Apr 24, 2026 · [Details](fNN88ZXWYKU.md) (shared: `systems` · `engineering` · `gpu`)
-- [The Anatomy of a Modern Robot](https://youtu.be/7ygjuzLkdTE) — Development · 49 views · Jun 24, 2026 · [Details](7ygjuzLkdTE.md) (shared: `llm` · `systems` · `zero-copy`)
-- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 27 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `systems` · `learning` · `memory`)
+- [The Anatomy of a Modern Robot](https://youtu.be/7ygjuzLkdTE) — Development · 50 views · Jun 24, 2026 · [Details](7ygjuzLkdTE.md) (shared: `llm` · `systems` · `zero-copy`)
+- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 28 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `systems` · `learning` · `memory`)
 
 ---
 *Auto-generated on Jul 9, 2026. Back to [development](../development.md) · [index](../index.md).*

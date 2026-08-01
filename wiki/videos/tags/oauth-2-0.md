@@ -2,7 +2,7 @@
 type: tag
 tags: [oauth-2-0]
 sources: 2
-updated: 2026-07-28
+updated: 2026-08-01
 ---
 
 # oauth 2.0
@@ -15,4 +15,4 @@ Videos connected by the topic `oauth 2.0`.
 - [From Blueprint to Battlefield](https://youtu.be/2kvYb2pVe5o) — Development · 32 views · Dec 27, 2025 · [Details](../details/2kvYb2pVe5o.md)
 
 ---
-*Auto-generated on Jul 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 1, 2026. Back to [topic index](index.md).*

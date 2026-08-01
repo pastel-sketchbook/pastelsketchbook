@@ -1,16 +1,9 @@
 {
-  "generatedAt": "2026-07-28T23:18:01.760Z",
-  "runLabel": "single: 1PH7UB24xps",
+  "generatedAt": "2026-08-01T17:49:21.570Z",
+  "runLabel": "single: WI8yUaPon0w",
   "attempted": 1,
-  "written": 0,
+  "written": 1,
   "skipped": 0,
-  "failedCount": 1,
-  "failed": [
-    {
-      "id": "1PH7UB24xps",
-      "title": "Architecting AKS Networking",
-      "category": "kubernetes",
-      "error": "Command failed: /Users/AD9C65/projects/pastel-projects/pastel-sketchbook/tools/yt-transcript/zig-out/bin/yt-transcript --max-chars 120000 -- 1PH7UB24xps\nerror: failed to fetch transcript: NoCaptionTracks\n"
-    }
-  ]
+  "failedCount": 0,
+  "failed": []
 }

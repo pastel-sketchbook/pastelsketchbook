@@ -38,7 +38,7 @@ This video provides a systematic cross-cloud service mapping across Azure, AWS, 
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `azure` · `storage`)
 - [Kubernetes Services & Istio](https://youtu.be/OnwiaDRj1-k) — Kubernetes · 30 views · Jan 12, 2026 · [Details](OnwiaDRj1-k.md) (shared: `networking` · `services`)
 - [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) — Kubernetes · 34 views · Apr 14, 2026 · [Details](mGMaqTvWrCc.md) (shared: `azure` · `storage`)
-- [Architecting AKS Networking - Trade-offs](https://youtu.be/F09-7mNt3F4) — Kubernetes · 14 views · Mar 12, 2026 · [Details](F09-7mNt3F4.md) (shared: `azure` · `networking`)
+- [Architecting AKS Networking - Trade-offs](https://youtu.be/F09-7mNt3F4) — Kubernetes · 16 views · Mar 12, 2026 · [Details](F09-7mNt3F4.md) (shared: `azure` · `networking`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

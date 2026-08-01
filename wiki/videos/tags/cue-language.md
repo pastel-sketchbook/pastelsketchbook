@@ -2,7 +2,7 @@
 type: tag
 tags: [cue-language]
 sources: 3
-updated: 2026-07-28
+updated: 2026-08-01
 ---
 
 # cue language
@@ -16,4 +16,4 @@ Videos connected by the topic `cue language`.
 - [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 18 views · Mar 16, 2026 · [Details](../details/to1PClyd0YA.md)
 
 ---
-*Auto-generated on Jul 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 1, 2026. Back to [topic index](index.md).*

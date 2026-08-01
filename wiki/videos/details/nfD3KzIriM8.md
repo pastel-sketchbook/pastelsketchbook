@@ -32,7 +32,7 @@ This presentation frames wealth building around three foundational pillars: mind
 
 - [The Three Pillars of Financial Freedom](https://youtu.be/K1O4kHjFJaQ) — Finance · 15 views · Jan 23, 2026 · [Details](K1O4kHjFJaQ.md) (shared: `wealth` · `compound interest` · `compound`)
 - [The Exchange Rate of Your Life](https://youtu.be/MBnVggs6k5g) — Finance · 17 views · Jan 22, 2026 · [Details](MBnVggs6k5g.md) (shared: `wealth` · `financial`)
-- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 22 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `investing`)
+- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 25 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `investing`)
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `psychology`)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) — Finance · 47 views · Mar 26, 2026 · [Details](hnMR8rdGCnU.md) (shared: `psychology`)
 

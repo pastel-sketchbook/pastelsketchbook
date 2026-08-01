@@ -39,7 +39,7 @@ The 2026 Enterprise AI Blueprint maps the shift from generative AI experimentati
 - [Generative Al at Scale](https://youtu.be/uU46ltIELqk) — Development · 14 views · Mar 27, 2026 · [Details](uU46ltIELqk.md) (shared: `enterprise` · `generative` · `hallucination`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 77 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 91 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data`)
-- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 29 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `data`)
+- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 30 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `data`)
 
 ---
 *Auto-generated on May 22, 2026. Back to [finance](../finance.md) · [index](../index.md).*

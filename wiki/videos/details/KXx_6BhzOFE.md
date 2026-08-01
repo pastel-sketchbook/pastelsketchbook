@@ -39,7 +39,7 @@ This deep dive is a visual guide to PyTorch's internal systems, from the Python 
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `pipeline` · `generation` · `code`)
 - [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 24 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `internals` · `pipeline` · `generation`)
 - [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 59 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `dispatch` · `pipeline` · `graph`)
-- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 144 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `generation` · `code`)
+- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 145 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `generation` · `code`)
 
 ---
 *Auto-generated on Jun 13, 2026. Back to [development](../development.md) · [index](../index.md).*

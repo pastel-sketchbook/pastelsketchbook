@@ -30,7 +30,7 @@ This video explains the Conventional Commits specification as a cornerstone for 
 
 ## Related Videos
 
-- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 144 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `generation` · `workflow`)
+- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 145 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `generation` · `workflow`)
 - [The Modern Git Playbook](https://youtu.be/Z06RjO-zFxI) — Development · 34 views · Jan 18, 2026 · [Details](Z06RjO-zFxI.md) (shared: `git` · `workflow`)
 - [The Art of Git Gardening](https://youtu.be/PNFlYx8HiOM) — Development · 16 views · Dec 31, 2025 · [Details](PNFlYx8HiOM.md) (shared: `commit` · `git`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `automated` · `generation`)

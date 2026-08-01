@@ -36,8 +36,8 @@ This technical deep dive explores the implementation of Single Instruction Multi
 ## Related Videos
 
 - [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 29 views · Feb 6, 2026 · [Details](A96r5gqwUrI.md) (shared: `simd` · `zig` · `optimization`)
-- [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 214 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `simd` · `avx-512` · `optimization`)
-- [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 82 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `zig` · `programming`)
+- [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 215 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `simd` · `avx-512` · `optimization`)
+- [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 83 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `zig` · `programming`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `zig` · `optimization`)
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 358 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `programming`)
 

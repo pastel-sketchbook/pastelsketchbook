@@ -39,7 +39,7 @@ A blueprint for embedding continuous security across the AKS application lifecyc
 - [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) — Kubernetes · 12 views · May 22, 2026 · [Details](9ga0NT3ZohQ.md) (shared: `image` · `gitops` · `deployment`)
 - [The Codebase Lifecycle](https://youtu.be/ctKLD4d146g) — Kubernetes · 16 views · Jan 13, 2026 · [Details](ctKLD4d146g.md) (shared: `lifecycle` · `deployment`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 46 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `cilium` · `policy`)
-- [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 13 views · Mar 10, 2026 · [Details](Hd767VA7Z-0.md) (shared: `deployment` · `azure`)
+- [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 14 views · Mar 10, 2026 · [Details](Hd767VA7Z-0.md) (shared: `deployment` · `azure`)
 
 ---
 *Auto-generated on Jun 3, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

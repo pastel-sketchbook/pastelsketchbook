@@ -2,7 +2,7 @@
 type: tag
 tags: [tokio-runtime]
 sources: 2
-updated: 2026-07-28
+updated: 2026-08-01
 ---
 
 # tokio runtime
@@ -15,4 +15,4 @@ Videos connected by the topic `tokio runtime`.
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](../details/lY5TU8qHduM.md)
 
 ---
-*Auto-generated on Jul 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 1, 2026. Back to [topic index](index.md).*

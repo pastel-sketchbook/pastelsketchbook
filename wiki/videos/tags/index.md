@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-07-28
+updated: 2026-08-01
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 175
+Total topics: 176
 
 ## Topics
 
@@ -125,6 +125,7 @@ Total topics: 175
 - [kubernetes orchestration](kubernetes-orchestration.md) (2)
 - [kubernetes security](kubernetes-security.md) (2)
 - [kubernetes services](kubernetes-services.md) (2)
+- [kv cache management](kv-cache-management.md) (2)
 - [local-first search](local-first-search.md) (2)
 - [lsp](lsp.md) (2)
 - [macos development](macos-development.md) (2)
@@ -188,4 +189,4 @@ Total topics: 175
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Jul 28, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Aug 1, 2026. Back to [videos index](../index.md).*

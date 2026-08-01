@@ -30,7 +30,7 @@ This video argues that the traditional manual code review process is unsustainab
 
 ## Related Videos
 
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 276 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `code` · `generation` · `automation`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 282 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `code` · `generation` · `automation`)
 - [Leetgo](https://youtu.be/MuDJGnGTn3k) — Development · 59 views · Apr 9, 2026 · [Details](MuDJGnGTn3k.md) (shared: `developer productivity` · `developer` · `productivity`)
 - [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 714 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `automation` · `architectural` · `workflow`)
 - [Fuzzy Find Everything](https://youtu.be/IkVazryUiko) — Development · 57 views · Mar 4, 2026 · [Details](IkVazryUiko.md) (shared: `productivity` · `workflow`)

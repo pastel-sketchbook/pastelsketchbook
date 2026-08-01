@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T23:18:12.238Z",
-  "totalVideos": 436,
+  "generatedAt": "2026-08-01T17:58:25.137Z",
+  "totalVideos": 439,
   "categories": [
     {
       "name": "korea",
@@ -1453,16 +1453,20 @@
         "korea",
         "development"
       ],
-      "videoCount": 42,
-      "totalViews": 915,
+      "videoCount": 43,
+      "totalViews": 966,
       "topTags": [
         {
           "tag": "curiosity",
-          "count": 24
+          "count": 25
         },
         {
           "tag": "ai",
           "count": 3
+        },
+        {
+          "tag": "aidc",
+          "count": 1
         },
         {
           "tag": "robotics",
@@ -1505,6 +1509,87 @@
         {
           "name": "Architecture",
           "videos": [
+            {
+              "id": "BZm2J9sLEp8",
+              "title": "Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers",
+              "views": 34,
+              "date": "2026-07-29T23:00:04Z",
+              "category": "finance",
+              "tags": [
+                "curiosity",
+                "aidc"
+              ],
+              "detail": {
+                "summary": "This talk surveys the engineering and architecture of mega-scale AI data centers, where multi-gigawatt \"titans\" (3,000–11,000 MW facilities like Fermi's Project Matador and SB Energy's Ports campus) and the 1,200–2,800 MW \"hyperscale vanguard\" are replacing traditional ~50 MW enterprise data centers. It maps the four dominant power strategies — private hypergrids, federal/brownfield redevelopment under FAST-41, behind-the-meter nuclear, and off-grid fuel cell microgrids — against hard physical constraints: 3–4 year turbine and transformer lead times, PJM interconnection queues pushing grid-reliant projects past 2029, and a forced shift to closed-loop liquid and air-hybrid cooling. Four US regional hubs (ERCOT Texas, the Rust Belt PJM corridor, the Mountain West, and Louisiana) each offer distinct power, latency, land, and water economics.",
+                "takeaways": [
+                  "Scale leap: traditional enterprise data centers run at roughly 50 MW, while \"titan\" AI campuses demand 3,000 MW or more — Matador (Amarillo, ~11,000 MW), SB Energy Ports (Piketon, ~10,000 MW), and Meta Hyperion (Rayville, ~5,000 MW) — making traditional grid hookups impossible.",
+                  "Above ~1.5 GW developers must become their own utility: dedicated power plants, FAST-41 federal interventions, or massive private microgrid architectures; below it, a maximized heavy transmission substation caps out around 1,200–1,500 MW.",
+                  "Supply chain is the binding constraint for 2026–2027 launches: step-up transformers and heavy industrial gas turbines carry 3–4 year lead times, and PJM interconnection queues push grid-reliant projects to 2029 and beyond.",
+                  "Power strategy varies by player: Fermi/Meta run private hypergrids pairing on-site gas with massive solar and battery (sprint to base); AWS Salem draws zero-carbon baseline power directly from an existing nuclear station, bypassing the PJM queue entirely.",
+                  "Cooling transitions from evaporative to closed-loop liquid and dry/air-hybrid solutions for post-2028 campuses, because evaporative cooling strains local water supplies at mega-campus scale."
+                ],
+                "topics": [
+                  "ai data center architecture",
+                  "multi gigawatt power infrastructure",
+                  "behind the meter power",
+                  "microgrid architecture",
+                  "energy grid interconnection",
+                  "liquid cooling infrastructure",
+                  "ercot power market",
+                  "federal fast tracking fast-41",
+                  "hyperscale compute campuses",
+                  "renewable energy integration"
+                ],
+                "related": [
+                  {
+                    "id": "izH8Nzr3DLA",
+                    "sharedTopics": [
+                      "data",
+                      "infrastructure",
+                      "behind",
+                      "meter",
+                      "energy"
+                    ]
+                  },
+                  {
+                    "id": "M_NbzCCHFp0",
+                    "sharedTopics": [
+                      "data",
+                      "center",
+                      "infrastructure",
+                      "cooling",
+                      "compute"
+                    ]
+                  },
+                  {
+                    "id": "3bcmjx5F5Xs",
+                    "sharedTopics": [
+                      "architecture",
+                      "infrastructure",
+                      "hyperscale",
+                      "compute"
+                    ]
+                  },
+                  {
+                    "id": "K1wUGKw3scU",
+                    "sharedTopics": [
+                      "data",
+                      "center",
+                      "power",
+                      "infrastructure"
+                    ]
+                  },
+                  {
+                    "id": "tPDFgVAp4c4",
+                    "sharedTopics": [
+                      "infrastructure",
+                      "energy",
+                      "market"
+                    ]
+                  }
+                ]
+              }
+            },
             {
               "id": "8vJLWsfheRE",
               "title": "The Architecture of Opportunity",
@@ -1692,16 +1777,18 @@
                     ]
                   },
                   {
-                    "id": "HFmkEvxyJE4",
+                    "id": "BZm2J9sLEp8",
                     "sharedTopics": [
-                      "portfolio",
-                      "allocation"
+                      "architecture",
+                      "infrastructure",
+                      "compute",
+                      "hyperscale"
                     ]
                   },
                   {
-                    "id": "EMXUbohWsWs",
+                    "id": "HFmkEvxyJE4",
                     "sharedTopics": [
-                      "investing",
+                      "portfolio",
                       "allocation"
                     ]
                   }
@@ -1899,9 +1986,90 @@
           "name": "AI & ML",
           "videos": [
             {
+              "id": "BZm2J9sLEp8",
+              "title": "Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers",
+              "views": 34,
+              "date": "2026-07-29T23:00:04Z",
+              "category": "finance",
+              "tags": [
+                "curiosity",
+                "aidc"
+              ],
+              "detail": {
+                "summary": "This talk surveys the engineering and architecture of mega-scale AI data centers, where multi-gigawatt \"titans\" (3,000–11,000 MW facilities like Fermi's Project Matador and SB Energy's Ports campus) and the 1,200–2,800 MW \"hyperscale vanguard\" are replacing traditional ~50 MW enterprise data centers. It maps the four dominant power strategies — private hypergrids, federal/brownfield redevelopment under FAST-41, behind-the-meter nuclear, and off-grid fuel cell microgrids — against hard physical constraints: 3–4 year turbine and transformer lead times, PJM interconnection queues pushing grid-reliant projects past 2029, and a forced shift to closed-loop liquid and air-hybrid cooling. Four US regional hubs (ERCOT Texas, the Rust Belt PJM corridor, the Mountain West, and Louisiana) each offer distinct power, latency, land, and water economics.",
+                "takeaways": [
+                  "Scale leap: traditional enterprise data centers run at roughly 50 MW, while \"titan\" AI campuses demand 3,000 MW or more — Matador (Amarillo, ~11,000 MW), SB Energy Ports (Piketon, ~10,000 MW), and Meta Hyperion (Rayville, ~5,000 MW) — making traditional grid hookups impossible.",
+                  "Above ~1.5 GW developers must become their own utility: dedicated power plants, FAST-41 federal interventions, or massive private microgrid architectures; below it, a maximized heavy transmission substation caps out around 1,200–1,500 MW.",
+                  "Supply chain is the binding constraint for 2026–2027 launches: step-up transformers and heavy industrial gas turbines carry 3–4 year lead times, and PJM interconnection queues push grid-reliant projects to 2029 and beyond.",
+                  "Power strategy varies by player: Fermi/Meta run private hypergrids pairing on-site gas with massive solar and battery (sprint to base); AWS Salem draws zero-carbon baseline power directly from an existing nuclear station, bypassing the PJM queue entirely.",
+                  "Cooling transitions from evaporative to closed-loop liquid and dry/air-hybrid solutions for post-2028 campuses, because evaporative cooling strains local water supplies at mega-campus scale."
+                ],
+                "topics": [
+                  "ai data center architecture",
+                  "multi gigawatt power infrastructure",
+                  "behind the meter power",
+                  "microgrid architecture",
+                  "energy grid interconnection",
+                  "liquid cooling infrastructure",
+                  "ercot power market",
+                  "federal fast tracking fast-41",
+                  "hyperscale compute campuses",
+                  "renewable energy integration"
+                ],
+                "related": [
+                  {
+                    "id": "izH8Nzr3DLA",
+                    "sharedTopics": [
+                      "data",
+                      "infrastructure",
+                      "behind",
+                      "meter",
+                      "energy"
+                    ]
+                  },
+                  {
+                    "id": "M_NbzCCHFp0",
+                    "sharedTopics": [
+                      "data",
+                      "center",
+                      "infrastructure",
+                      "cooling",
+                      "compute"
+                    ]
+                  },
+                  {
+                    "id": "3bcmjx5F5Xs",
+                    "sharedTopics": [
+                      "architecture",
+                      "infrastructure",
+                      "hyperscale",
+                      "compute"
+                    ]
+                  },
+                  {
+                    "id": "K1wUGKw3scU",
+                    "sharedTopics": [
+                      "data",
+                      "center",
+                      "power",
+                      "infrastructure"
+                    ]
+                  },
+                  {
+                    "id": "tPDFgVAp4c4",
+                    "sharedTopics": [
+                      "infrastructure",
+                      "energy",
+                      "market"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
               "id": "izH8Nzr3DLA",
               "title": "The Sovereign AI Utility",
-              "views": 2,
+              "views": 13,
               "date": "2026-07-28T22:39:35Z",
               "category": "finance",
               "tags": [
@@ -1927,6 +2095,16 @@
                   "vertical integration ai supply chain"
                 ],
                 "related": [
+                  {
+                    "id": "BZm2J9sLEp8",
+                    "sharedTopics": [
+                      "behind",
+                      "meter",
+                      "energy",
+                      "infrastructure",
+                      "data"
+                    ]
+                  },
                   {
                     "id": "9z6mOWQgU84",
                     "sharedTopics": [
@@ -1956,13 +2134,6 @@
                       "energy",
                       "infrastructure"
                     ]
-                  },
-                  {
-                    "id": "M_NbzCCHFp0",
-                    "sharedTopics": [
-                      "infrastructure",
-                      "data"
-                    ]
                   }
                 ]
               }
@@ -1970,7 +2141,7 @@
             {
               "id": "ZQyL7MT7k60",
               "title": "Japan's Sovereign Cloud Blueprint",
-              "views": 29,
+              "views": 30,
               "date": "2026-06-16T22:13:29Z",
               "category": "finance",
               "tags": [
@@ -2097,16 +2268,18 @@
                     ]
                   },
                   {
-                    "id": "HFmkEvxyJE4",
+                    "id": "BZm2J9sLEp8",
                     "sharedTopics": [
-                      "portfolio",
-                      "allocation"
+                      "architecture",
+                      "infrastructure",
+                      "compute",
+                      "hyperscale"
                     ]
                   },
                   {
-                    "id": "EMXUbohWsWs",
+                    "id": "HFmkEvxyJE4",
                     "sharedTopics": [
-                      "investing",
+                      "portfolio",
                       "allocation"
                     ]
                   }
@@ -2116,7 +2289,7 @@
             {
               "id": "9xDzB24tO4I",
               "title": "The 2026 Enterprise AI Blueprint",
-              "views": 30,
+              "views": 31,
               "date": "2026-05-21T21:09:53Z",
               "category": "finance",
               "tags": [
@@ -2243,9 +2416,90 @@
       ],
       "videos": [
         {
+          "id": "BZm2J9sLEp8",
+          "title": "Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers",
+          "views": 34,
+          "date": "2026-07-29T23:00:04Z",
+          "category": "finance",
+          "tags": [
+            "curiosity",
+            "aidc"
+          ],
+          "detail": {
+            "summary": "This talk surveys the engineering and architecture of mega-scale AI data centers, where multi-gigawatt \"titans\" (3,000–11,000 MW facilities like Fermi's Project Matador and SB Energy's Ports campus) and the 1,200–2,800 MW \"hyperscale vanguard\" are replacing traditional ~50 MW enterprise data centers. It maps the four dominant power strategies — private hypergrids, federal/brownfield redevelopment under FAST-41, behind-the-meter nuclear, and off-grid fuel cell microgrids — against hard physical constraints: 3–4 year turbine and transformer lead times, PJM interconnection queues pushing grid-reliant projects past 2029, and a forced shift to closed-loop liquid and air-hybrid cooling. Four US regional hubs (ERCOT Texas, the Rust Belt PJM corridor, the Mountain West, and Louisiana) each offer distinct power, latency, land, and water economics.",
+            "takeaways": [
+              "Scale leap: traditional enterprise data centers run at roughly 50 MW, while \"titan\" AI campuses demand 3,000 MW or more — Matador (Amarillo, ~11,000 MW), SB Energy Ports (Piketon, ~10,000 MW), and Meta Hyperion (Rayville, ~5,000 MW) — making traditional grid hookups impossible.",
+              "Above ~1.5 GW developers must become their own utility: dedicated power plants, FAST-41 federal interventions, or massive private microgrid architectures; below it, a maximized heavy transmission substation caps out around 1,200–1,500 MW.",
+              "Supply chain is the binding constraint for 2026–2027 launches: step-up transformers and heavy industrial gas turbines carry 3–4 year lead times, and PJM interconnection queues push grid-reliant projects to 2029 and beyond.",
+              "Power strategy varies by player: Fermi/Meta run private hypergrids pairing on-site gas with massive solar and battery (sprint to base); AWS Salem draws zero-carbon baseline power directly from an existing nuclear station, bypassing the PJM queue entirely.",
+              "Cooling transitions from evaporative to closed-loop liquid and dry/air-hybrid solutions for post-2028 campuses, because evaporative cooling strains local water supplies at mega-campus scale."
+            ],
+            "topics": [
+              "ai data center architecture",
+              "multi gigawatt power infrastructure",
+              "behind the meter power",
+              "microgrid architecture",
+              "energy grid interconnection",
+              "liquid cooling infrastructure",
+              "ercot power market",
+              "federal fast tracking fast-41",
+              "hyperscale compute campuses",
+              "renewable energy integration"
+            ],
+            "related": [
+              {
+                "id": "izH8Nzr3DLA",
+                "sharedTopics": [
+                  "data",
+                  "infrastructure",
+                  "behind",
+                  "meter",
+                  "energy"
+                ]
+              },
+              {
+                "id": "M_NbzCCHFp0",
+                "sharedTopics": [
+                  "data",
+                  "center",
+                  "infrastructure",
+                  "cooling",
+                  "compute"
+                ]
+              },
+              {
+                "id": "3bcmjx5F5Xs",
+                "sharedTopics": [
+                  "architecture",
+                  "infrastructure",
+                  "hyperscale",
+                  "compute"
+                ]
+              },
+              {
+                "id": "K1wUGKw3scU",
+                "sharedTopics": [
+                  "data",
+                  "center",
+                  "power",
+                  "infrastructure"
+                ]
+              },
+              {
+                "id": "tPDFgVAp4c4",
+                "sharedTopics": [
+                  "infrastructure",
+                  "energy",
+                  "market"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "izH8Nzr3DLA",
           "title": "The Sovereign AI Utility",
-          "views": 2,
+          "views": 13,
           "date": "2026-07-28T22:39:35Z",
           "category": "finance",
           "tags": [
@@ -2271,6 +2525,16 @@
               "vertical integration ai supply chain"
             ],
             "related": [
+              {
+                "id": "BZm2J9sLEp8",
+                "sharedTopics": [
+                  "behind",
+                  "meter",
+                  "energy",
+                  "infrastructure",
+                  "data"
+                ]
+              },
               {
                 "id": "9z6mOWQgU84",
                 "sharedTopics": [
@@ -2299,13 +2563,6 @@
                 "sharedTopics": [
                   "energy",
                   "infrastructure"
-                ]
-              },
-              {
-                "id": "M_NbzCCHFp0",
-                "sharedTopics": [
-                  "infrastructure",
-                  "data"
                 ]
               }
             ]
@@ -2431,10 +2688,9 @@
                 ]
               },
               {
-                "id": "84M1mVL0cjo",
+                "id": "BZm2J9sLEp8",
                 "sharedTopics": [
-                  "intelligence",
-                  "tool"
+                  "compute"
                 ]
               }
             ]
@@ -2765,6 +3021,15 @@
                 ]
               },
               {
+                "id": "BZm2J9sLEp8",
+                "sharedTopics": [
+                  "data",
+                  "center",
+                  "infrastructure",
+                  "power"
+                ]
+              },
+              {
                 "id": "9z6mOWQgU84",
                 "sharedTopics": [
                   "data",
@@ -2778,13 +3043,6 @@
                   "strategy",
                   "infrastructure"
                 ]
-              },
-              {
-                "id": "3DH2V55G1ck",
-                "sharedTopics": [
-                  "semiconductor",
-                  "stack"
-                ]
               }
             ]
           }
@@ -2792,7 +3050,7 @@
         {
           "id": "ZQyL7MT7k60",
           "title": "Japan's Sovereign Cloud Blueprint",
-          "views": 29,
+          "views": 30,
           "date": "2026-06-16T22:13:29Z",
           "category": "finance",
           "tags": [
@@ -3175,16 +3433,18 @@
                 ]
               },
               {
-                "id": "HFmkEvxyJE4",
+                "id": "BZm2J9sLEp8",
                 "sharedTopics": [
-                  "portfolio",
-                  "allocation"
+                  "architecture",
+                  "infrastructure",
+                  "compute",
+                  "hyperscale"
                 ]
               },
               {
-                "id": "EMXUbohWsWs",
+                "id": "HFmkEvxyJE4",
                 "sharedTopics": [
-                  "investing",
+                  "portfolio",
                   "allocation"
                 ]
               }
@@ -3194,7 +3454,7 @@
         {
           "id": "9xDzB24tO4I",
           "title": "The 2026 Enterprise AI Blueprint",
-          "views": 30,
+          "views": 31,
           "date": "2026-05-21T21:09:53Z",
           "category": "finance",
           "tags": [
@@ -3488,6 +3748,13 @@
             ],
             "related": [
               {
+                "id": "BZm2J9sLEp8",
+                "sharedTopics": [
+                  "data",
+                  "integration"
+                ]
+              },
+              {
                 "id": "izH8Nzr3DLA",
                 "sharedTopics": [
                   "data",
@@ -3508,12 +3775,6 @@
               },
               {
                 "id": "M_NbzCCHFp0",
-                "sharedTopics": [
-                  "data"
-                ]
-              },
-              {
-                "id": "9z6mOWQgU84",
                 "sharedTopics": [
                   "data"
                 ]
@@ -3553,6 +3814,16 @@
             ],
             "related": [
               {
+                "id": "BZm2J9sLEp8",
+                "sharedTopics": [
+                  "data",
+                  "center",
+                  "compute",
+                  "infrastructure",
+                  "cooling"
+                ]
+              },
+              {
                 "id": "K1wUGKw3scU",
                 "sharedTopics": [
                   "data",
@@ -3580,13 +3851,6 @@
                 "id": "ZQyL7MT7k60",
                 "sharedTopics": [
                   "data",
-                  "infrastructure"
-                ]
-              },
-              {
-                "id": "3bcmjx5F5Xs",
-                "sharedTopics": [
-                  "compute",
                   "infrastructure"
                 ]
               }
@@ -3781,7 +4045,7 @@
         {
           "id": "l9UUqD2Bz2E",
           "title": "The Mystery of the Nickel Coke",
-          "views": 12,
+          "views": 13,
           "date": "2026-04-10T15:32:57Z",
           "category": "finance",
           "tags": [
@@ -4082,13 +4346,13 @@
                 ]
               },
               {
-                "id": "0Sed1oggMKY",
+                "id": "BZm2J9sLEp8",
                 "sharedTopics": [
                   "architecture"
                 ]
               },
               {
-                "id": "90hw9qwXbbw",
+                "id": "0Sed1oggMKY",
                 "sharedTopics": [
                   "architecture"
                 ]
@@ -4268,6 +4532,14 @@
                 ]
               },
               {
+                "id": "BZm2J9sLEp8",
+                "sharedTopics": [
+                  "data",
+                  "center",
+                  "infrastructure"
+                ]
+              },
+              {
                 "id": "izH8Nzr3DLA",
                 "sharedTopics": [
                   "capital",
@@ -4281,13 +4553,6 @@
                   "infrastructure",
                   "economy"
                 ]
-              },
-              {
-                "id": "ZQyL7MT7k60",
-                "sharedTopics": [
-                  "data",
-                  "infrastructure"
-                ]
               }
             ]
           }
@@ -4295,7 +4560,7 @@
         {
           "id": "bn-Nvmxgur8",
           "title": "The 2026 Barbell Strategy",
-          "views": 22,
+          "views": 25,
           "date": "2026-02-17T14:24:35Z",
           "category": "finance",
           "detail": {
@@ -4994,17 +5259,18 @@
                 ]
               },
               {
+                "id": "BZm2J9sLEp8",
+                "sharedTopics": [
+                  "market",
+                  "infrastructure",
+                  "energy"
+                ]
+              },
+              {
                 "id": "9z6mOWQgU84",
                 "sharedTopics": [
                   "infrastructure",
                   "economy"
-                ]
-              },
-              {
-                "id": "izH8Nzr3DLA",
-                "sharedTopics": [
-                  "infrastructure",
-                  "energy"
                 ]
               }
             ]
@@ -5019,8 +5285,8 @@
         "security",
         "development"
       ],
-      "videoCount": 82,
-      "totalViews": 2360,
+      "videoCount": 84,
+      "totalViews": 2429,
       "topTags": [
         {
           "tag": "aks",
@@ -5035,12 +5301,12 @@
           "count": 9
         },
         {
-          "tag": "azure",
+          "tag": "k8s",
           "count": 8
         },
         {
-          "tag": "k8s",
-          "count": 7
+          "tag": "azure",
+          "count": 8
         },
         {
           "tag": "rabbitmq",
@@ -5055,12 +5321,16 @@
           "count": 5
         },
         {
-          "tag": "rust",
+          "tag": "operator",
           "count": 4
         },
         {
-          "tag": "operator",
-          "count": 3
+          "tag": "workload",
+          "count": 4
+        },
+        {
+          "tag": "rust",
+          "count": 4
         },
         {
           "tag": "ai",
@@ -5068,10 +5338,6 @@
         },
         {
           "tag": "cni",
-          "count": 3
-        },
-        {
-          "tag": "workload",
           "count": 3
         },
         {
@@ -5586,7 +5852,7 @@
             {
               "id": "F09-7mNt3F4",
               "title": "Architecting AKS Networking - Trade-offs",
-              "views": 14,
+              "views": 16,
               "date": "2026-03-12T10:45:55Z",
               "category": "kubernetes",
               "tags": [
@@ -5656,7 +5922,7 @@
             {
               "id": "1PH7UB24xps",
               "title": "Architecting AKS Networking",
-              "views": 18,
+              "views": 20,
               "date": "2026-03-11T22:24:43Z",
               "category": "kubernetes",
               "tags": [
@@ -5673,7 +5939,7 @@
             {
               "id": "Hd767VA7Z-0",
               "title": "Strategic Implementation of Blue-Green Deployment",
-              "views": 13,
+              "views": 14,
               "date": "2026-03-10T11:40:52Z",
               "category": "kubernetes",
               "tags": [
@@ -5969,7 +6235,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 73,
+              "views": 74,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -6815,12 +7081,915 @@
           ]
         },
         {
+          "name": "AI & ML",
+          "videos": [
+            {
+              "id": "WI8yUaPon0w",
+              "title": "Architecting LLM Inference at Scale",
+              "views": 8,
+              "date": "2026-07-31T23:00:03Z",
+              "category": "kubernetes",
+              "tags": [
+                "vllm"
+              ],
+              "detail": {
+                "summary": "This talk is an architectural deep-dive into vLLM, the unified open-source serving engine that abstracts 200+ model architectures across Nvidia, AMD, TPU, XPU, and CPU hardware behind an OpenAI-compatible API. It explains the three-layer stack — serving front end, dynamic execution engine (torch.compile, CUDA graph dispatch), and hardware/memory layer — and the core techniques that deliver throughput and memory efficiency: PagedAttention for KV cache fragmentation, multi-tier GPU/CPU KV offloading with Triton swap kernels and zero-copy shared memory, dynamic attention kernel routing, and Ray-based distributed execution with expert parallelism load balancing. It closes with multi-tenant LoRA serving (Punica), a multimodal registry, disaggregated prefill/decode serving, and a hardened production container stack (C/CUDA core, Rust ZMQ frontend, vLLM OpenAI nonroot) deployed natively on Kubernetes via Helm with horizontal pod autoscaling.",
+                "takeaways": [
+                  "Model × hardware fragmentation is the core problem: deploying 200+ model architectures across diverse accelerators requires per-model, per-platform optimization; vLLM collapses that into one engine with a standard OpenAI-compatible serving layer.",
+                  "PagedAttention maps non-contiguous physical memory to contiguous logical sequences, eliminating up to ~60% memory waste from fragmentation and overallocation in traditional KV cache serving.",
+                  "Multi-tier KV cache offloading uses asynchronous Triton swap kernels over PCIe plus zero-copy MAP shared memory views (torch.tensor views without duplication), with LRU and ARC eviction policies managing CPU memory.",
+                  "Disaggregated serving physically isolates compute-heavy prefill from memory-heavy decode, enabling independent scaling and direct high-speed KV cache transfer between the two worker types.",
+                  "Production deployment is a layered container: a C/CUDA compute core, a Rust frontend using ZMQ and MessagePack for IPC, and a vLLM OpenAI nonroot application layer, orchestrated via Helm with Deployments, Services, and HPAs."
+                ],
+                "topics": [
+                  "llm inference engine",
+                  "kv cache management",
+                  "pagedattention",
+                  "disaggregated prefill decode serving",
+                  "cuda graph dispatch",
+                  "mixture of experts load balancing",
+                  "zero copy memory",
+                  "loRA adapter serving",
+                  "multimodal inference pipeline",
+                  "kubernetes model serving"
+                ],
+                "related": [
+                  {
+                    "id": "kFzdToXTfn8",
+                    "sharedTopics": [
+                      "llm",
+                      "inference",
+                      "engine",
+                      "cache",
+                      "lora"
+                    ]
+                  },
+                  {
+                    "id": "OnwiaDRj1-k",
+                    "sharedTopics": [
+                      "management",
+                      "load",
+                      "balancing",
+                      "kubernetes"
+                    ]
+                  },
+                  {
+                    "id": "W_rZivDmMRY",
+                    "sharedTopics": [
+                      "serving",
+                      "zero",
+                      "kubernetes",
+                      "model"
+                    ]
+                  },
+                  {
+                    "id": "8PaVKQoDReY",
+                    "sharedTopics": [
+                      "inference",
+                      "engine",
+                      "cuda",
+                      "graph",
+                      "zero"
+                    ]
+                  },
+                  {
+                    "id": "C5HqbzLRYZ0",
+                    "sharedTopics": [
+                      "management",
+                      "kubernetes"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "kFzdToXTfn8",
+              "title": "KAITO: The Kubernetes Al Toolchain Operator",
+              "views": 10,
+              "date": "2026-07-21T23:00:18Z",
+              "category": "kubernetes",
+              "tags": [
+                "k8s",
+                "operator",
+                "ai"
+              ],
+              "detail": {
+                "summary": "KAITO is a Kubernetes operator that automates LLM inference, fine-tuning, and retrieval-augmented generation (RAG) deployment, eliminating the resource guesswork, storage bottlenecks, and stateful routing complexity of traditional Kubernetes AI workloads. It pairs a simplified custom resource definition with preset configurations, automated node auto-provisioning driven by memory estimation, and zero-overhead local NVMe model storage, running inference on a vLLM engine with native LoRA fine-tuning and an integrated RAG engine.",
+                "takeaways": [
+                  "Traditional Kubernetes LLM deployment suffers from manual GPU and tensor-parallelism sizing, slow network-attached model fetches, and load balancing that breaks KV-cache continuity.",
+                  "KAITO replaces hand-tuned YAML with a simplified CRD and optimized preset configurations for common model deployments.",
+                  "Automated node auto-provisioning sizes GPU nodes from precise memory estimation, removing out-of-memory guesswork.",
+                  "Models are served from local NVMe storage directly on the GPU node, avoiding the network-attached persistent-volume bandwidth bottleneck.",
+                  "The toolchain covers the full AI lifecycle: vLLM-backed inference for any Hugging Face model, native LoRA fine-tuning, and a stitched-free RAG engine."
+                ],
+                "topics": [
+                  "kaito kubernetes operator",
+                  "llm inference deployment",
+                  "vllm engine",
+                  "lora fine-tuning",
+                  "rag deployment",
+                  "gpu auto provisioning",
+                  "kv cache routing",
+                  "hugging face model storage"
+                ],
+                "related": [
+                  {
+                    "id": "WI8yUaPon0w",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "llm",
+                      "inference",
+                      "engine",
+                      "lora"
+                    ]
+                  },
+                  {
+                    "id": "mGMaqTvWrCc",
+                    "sharedTopics": [
+                      "deployment",
+                      "model",
+                      "storage"
+                    ]
+                  },
+                  {
+                    "id": "W_rZivDmMRY",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "operator",
+                      "deployment",
+                      "model"
+                    ]
+                  },
+                  {
+                    "id": "_sxPf3tHq3s",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "deployment"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "storage"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "PofJfj6nRuw",
+              "title": "Architecting Al at Global Scale",
+              "views": 5,
+              "date": "2026-06-11T23:00:19Z",
+              "category": "kubernetes",
+              "tags": [
+                "copilot",
+                "dts",
+                "orchestration",
+                "platform"
+              ],
+              "detail": {
+                "summary": "This talk presents the Microsoft Copilot blueprint for running hundreds of millions of multi-step AI workflows per week using the Durable Task Scheduler (DTS) on Azure Functions and AKS. It argues for moving durability, state management, and replay-based recovery out of individual feature code and into a centralized orchestration layer, replacing fragmented per-feature retry logic. The result is one reliability engine serving 25+ orchestrations and 10+ microservices, delivering uniform resilience while accelerating engineering velocity.",
+                "takeaways": [
+                  "Custom per-feature recovery logic becomes operationally untenable at scale; standardizing on the Durable Task Scheduler centralizes state persistence, failure recovery, and automatic workflow replay.",
+                  "Agentic tasks can be categorized along two dimensions — user-initiated vs. autonomous, and one-time vs. perpetual — but all four quadrants require robust background execution that survives infrastructure shifts.",
+                  "Durable orchestration guarantees replay resumes from the exact point of interruption without duplicating already-completed steps, so long-running scheduled tasks complete even through regional failures.",
+                  "One DTS reliability engine on AKS orchestrates heterogeneous workloads (scheduled AI, personalized discovery, memory indexing, deep research, account lifecycle) at ~300M weekly memory-indexing and tens of millions of other activities.",
+                  "Three platform principles: shift the locus of durability into the orchestration layer, standardize the resilience pattern with durable timers and sub-orchestrations, and scale without fragmenting reliability across teams."
+                ],
+                "topics": [
+                  "durable task scheduler",
+                  "ai workflow orchestration",
+                  "azure functions durability",
+                  "automatic workflow replay",
+                  "state management and checkpointing",
+                  "agentic task taxonomy",
+                  "aks reliability engine",
+                  "engineering velocity at scale"
+                ],
+                "related": [
+                  {
+                    "id": "o9x4daXS4Rk",
+                    "sharedTopics": [
+                      "azure",
+                      "management",
+                      "agentic"
+                    ]
+                  },
+                  {
+                    "id": "C6wLm6NRZW4",
+                    "sharedTopics": [
+                      "azure",
+                      "aks"
+                    ]
+                  },
+                  {
+                    "id": "7eoxSgjwYlM",
+                    "sharedTopics": [
+                      "management",
+                      "engineering"
+                    ]
+                  },
+                  {
+                    "id": "C5HqbzLRYZ0",
+                    "sharedTopics": [
+                      "management",
+                      "aks"
+                    ]
+                  },
+                  {
+                    "id": "A7eoKD5m6Ek",
+                    "sharedTopics": [
+                      "azure",
+                      "aks"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "9ga0NT3ZohQ",
+              "title": "Seamless GitOps on Azure",
+              "views": 12,
+              "date": "2026-05-22T09:48:19Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "argocd",
+                "gitops"
+              ],
+              "detail": {
+                "summary": "Microsoft announces public preview of Argo CD natively integrated into the AKS Azure portal experience, eliminating the integration tax of manually wiring identity, networking, ingress, and registries before the first GitOps deployment. The native experience replaces hard-coded credentials with Microsoft Entra ID and workload identity federation, runs on a hardened Azure Linux base image, and ships with optional automatic patch updates while preserving 100% upstream Argo CD parity and hub-and-spoke fleet support.",
+                "takeaways": [
+                  "Argo CD is now natively enabled inside the AKS portal with a single click, removing manual CLI installation and the integration tax of wiring identity, ingress, networking, and container registries.",
+                  "Security shifts from hard-coded credentials and long-lived secrets to Microsoft Entra ID single sign-on and workload identity federation for secure, identity-based cluster access.",
+                  "The deployment foundation moves from variable community base images to a hardened Azure Linux image with significantly reduced CVEs and optional automatic patch updates.",
+                  "The integration preserves 100% upstream Argo CD parity and supports hub-and-spoke fleet architectures, so large-scale multi-cluster GitOps workflows remain portable.",
+                  "The lifecycle is framed across day zero (guided onboarding), day one (enterprise-ready identity), and day two (scalable fleet operations) — turning a previously weeks-long bring-up into a portal-driven workflow."
+                ],
+                "topics": [
+                  "argo cd aks integration",
+                  "gitops workflows",
+                  "azure portal experience",
+                  "workload identity federation",
+                  "microsoft entra id sso",
+                  "hub spoke fleet architecture",
+                  "azure linux hardened image",
+                  "kubernetes deployment automation"
+                ],
+                "related": [
+                  {
+                    "id": "BiYKKVsJROk",
+                    "sharedTopics": [
+                      "argo",
+                      "aks",
+                      "gitops",
+                      "workload identity federation",
+                      "workload"
+                    ]
+                  },
+                  {
+                    "id": "rgY4KTMFOMs",
+                    "sharedTopics": [
+                      "aks",
+                      "azure",
+                      "workload",
+                      "identity",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "Q4qm1hvVR2A",
+                    "sharedTopics": [
+                      "aks",
+                      "integration",
+                      "architecture",
+                      "deployment"
+                    ]
+                  },
+                  {
+                    "id": "_sxPf3tHq3s",
+                    "sharedTopics": [
+                      "architecture",
+                      "kubernetes",
+                      "deployment"
+                    ]
+                  },
+                  {
+                    "id": "8ycnldvJmuA",
+                    "sharedTopics": [
+                      "azure",
+                      "architecture",
+                      "kubernetes"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "quD4pyCwKB4",
+              "title": "Enterprise Infrastructure as Code for Al Agents",
+              "views": 68,
+              "date": "2026-04-25T17:46:48Z",
+              "category": "kubernetes",
+              "tags": [
+                "iac",
+                "terraform",
+                "skill",
+                "ai",
+                "agent"
+              ],
+              "detail": {
+                "summary": "This video introduces the Terraform skill blueprint, a context-engineering layer that bridges raw AI prompts (Claude, Cursor, Copilot, Gemini) and production-ready Terraform/OpenTofu code. It addresses the AI context gap — where models generate functional but non-enterprise-grade infrastructure — by enforcing five readiness pillars: testing frameworks, modular design, multi-team state management, CI/CD integration, and policy as code, ensuring that AI-generated infrastructure aligns with HashiCorp standards rather than producing isolated, hard-coded snippets.",
+                "takeaways": [
+                  "AI excels at functional code generation but lacks structural enterprise context, leading to isolated states, hard-coded variables, and non-standard naming conventions that break at scale and accumulate technical debt.",
+                  "The Terraform skill enforces compliant module architecture with `terraform-provider-name` naming and strict file separation (main.tf for resources, variables.tf for inputs, outputs.tf for exports, versions.tf for providers), targeting Terraform 1.0+ and OpenTofu 1.6+.",
+                  "Native Terraform tests (built into the CLI from 1.6, HCL-based, low setup) suit standard module validation, while Terratest (Go-based) handles complex multi-environment end-to-end orchestration at the cost of steeper setup and language overhead.",
+                  "Multi-team state management requires explicit isolation boundaries, state locking via DynamoDB or native cloud locking, encrypted backends on S3/Azure Blob/GCS, and formal recovery procedures to protect the source of truth.",
+                  "The skill auto-discovers across agent ecosystems (`.claude/skills`, `.cursor/skills`, `.agents/skills`, `.opencode/skills`) with `git pull` updates, while Gemini uses a dedicated CLI command (`gemini extensions update terraform-skill`); deployment supports universal installer, Claude marketplace JSON, and symlink clone methods."
+                ],
+                "topics": [
+                  "terraform skill",
+                  "infrastructure as code",
+                  "ai agent integration",
+                  "opentofu",
+                  "state management",
+                  "policy as code",
+                  "terraform testing",
+                  "module architecture",
+                  "ci/cd pipelines"
+                ],
+                "related": [
+                  {
+                    "id": "LUOX5xkSyi0",
+                    "sharedTopics": [
+                      "infrastructure as code",
+                      "infrastructure",
+                      "code",
+                      "management"
+                    ]
+                  },
+                  {
+                    "id": "fMjflPvjaJ8",
+                    "sharedTopics": [
+                      "infrastructure as code",
+                      "infrastructure",
+                      "code",
+                      "integration"
+                    ]
+                  },
+                  {
+                    "id": "o9x4daXS4Rk",
+                    "sharedTopics": [
+                      "infrastructure as code",
+                      "infrastructure",
+                      "code",
+                      "management"
+                    ]
+                  },
+                  {
+                    "id": "p9LNSeAt5Zw",
+                    "sharedTopics": [
+                      "infrastructure",
+                      "ci/cd pipelines",
+                      "pipelines"
+                    ]
+                  },
+                  {
+                    "id": "3ybGkjogcFQ",
+                    "sharedTopics": [
+                      "state management",
+                      "state",
+                      "management",
+                      "architecture"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "eZNBXDUc8OQ",
+              "title": "Architecting Modern Deployments",
+              "views": 16,
+              "date": "2026-04-23T00:06:07Z",
+              "category": "kubernetes",
+              "tags": [
+                "dockerization",
+                "containerization",
+                "ci/cd",
+                "automation"
+              ],
+              "detail": {
+                "summary": "This video presents a comprehensive guide to the modern container lifecycle across three pillars: Docker for building lean and secure artifacts, Helm for declarative and modular Kubernetes packaging, and ADO pipelines for continuous delivery automation. It covers multi-stage Docker builds to shrink attack surfaces, layer cache optimization strategies for faster rebuilds, Helm chart architecture including values.yaml overrides and template helpers, and end-to-end CI/CD pipeline design for immutable, rolling deployments.",
+                "takeaways": [
+                  "Multi-stage Docker builds drastically reduce attack surface by compiling in a heavy stage and copying only the final binary to a minimal Alpine or Slim base image under 5 MB.",
+                  "Docker layer cache efficiency depends on ordering instructions by change frequency — stable OS packages at the top, source code at the bottom — since cache invalidation cascades downward.",
+                  "Helm chart architecture separates environment-specific configuration via values.yaml overrides while templates and helpers provide declarative, modular Kubernetes resource definitions.",
+                  "ADO pipeline automation enables immutable infrastructure with deterministic builds, cached layers, and rolling updates that ensure staging-tested artifacts are exactly what runs in production."
+                ],
+                "topics": [
+                  "multi-stage docker builds",
+                  "attack surface reduction",
+                  "docker layer cache",
+                  "helm chart architecture",
+                  "values.yaml",
+                  "ado pipeline ci/cd",
+                  "immutable infrastructure",
+                  "rolling updates"
+                ],
+                "related": [
+                  {
+                    "id": "p9LNSeAt5Zw",
+                    "sharedTopics": [
+                      "docker",
+                      "immutable infrastructure",
+                      "immutable",
+                      "infrastructure",
+                      "rolling updates"
+                    ]
+                  },
+                  {
+                    "id": "_sxPf3tHq3s",
+                    "sharedTopics": [
+                      "helm",
+                      "chart",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "Pxh2PcNx9W8",
+                    "sharedTopics": [
+                      "multi-stage",
+                      "docker",
+                      "builds"
+                    ]
+                  },
+                  {
+                    "id": "7eoxSgjwYlM",
+                    "sharedTopics": [
+                      "helm",
+                      "values.yaml"
+                    ]
+                  },
+                  {
+                    "id": "8ycnldvJmuA",
+                    "sharedTopics": [
+                      "architecture",
+                      "pipeline"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "p9LNSeAt5Zw",
+              "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
+              "views": 21,
+              "date": "2026-04-22T10:25:18Z",
+              "category": "kubernetes",
+              "tags": [
+                "pm2",
+                "cloud",
+                "orchestration",
+                "containerization"
+              ],
+              "detail": {
+                "summary": "This video serves as a strategic playbook for transitioning Node.js applications from traditional PM2 process management on bare-metal servers to modern cloud-native container orchestration with Docker and Kubernetes. It identifies the key transition signals — environment inconsistency, multi-host scaling needs, and operational automation requirements — and walks through the evolution from SSH-based mutable deployments to immutable artifact-based CI/CD pipelines with rolling updates and self-healing.",
+                "takeaways": [
+                  "PM2 excels at single-host vertical scaling with process supervision, multi-core clustering, and automatic crash restarts, but hits its ceiling when workloads need to span multiple machines.",
+                  "Three core drivers signal the move to containerization: reproducible environments (eliminating dev/staging/prod drift), multi-host horizontal scaling beyond single-server limits, and native orchestration for rolling updates and self-healing.",
+                  "Immutable infrastructure replaces mutable long-lived servers with deterministic container builds and cached layers, ensuring that staging-tested artifacts are exactly what runs in production.",
+                  "CI/CD modernization shifts from SSH-based manual script deployments to artifact-based pipelines, enabling GitOps-driven workflows with automated rolling updates and self-healing orchestration in Kubernetes."
+                ],
+                "topics": [
+                  "pm2",
+                  "node.js scaling",
+                  "containerization",
+                  "docker",
+                  "kubernetes orchestration",
+                  "immutable infrastructure",
+                  "ci/cd pipelines",
+                  "rolling updates",
+                  "gitops"
+                ],
+                "related": [
+                  {
+                    "id": "eZNBXDUc8OQ",
+                    "sharedTopics": [
+                      "docker",
+                      "immutable infrastructure",
+                      "immutable",
+                      "infrastructure",
+                      "rolling updates"
+                    ]
+                  },
+                  {
+                    "id": "quD4pyCwKB4",
+                    "sharedTopics": [
+                      "infrastructure",
+                      "ci/cd pipelines",
+                      "pipelines"
+                    ]
+                  },
+                  {
+                    "id": "rk_3xU9OF-k",
+                    "sharedTopics": [
+                      "kubernetes",
+                      "infrastructure"
+                    ]
+                  },
+                  {
+                    "id": "y3WwL48DLYw",
+                    "sharedTopics": [
+                      "scaling",
+                      "kubernetes"
+                    ]
+                  },
+                  {
+                    "id": "F09-7mNt3F4",
+                    "sharedTopics": [
+                      "scaling",
+                      "kubernetes"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "mGMaqTvWrCc",
+              "title": "Building an End-to-End MLOps Pipeline",
+              "views": 34,
+              "date": "2026-04-14T23:21:34Z",
+              "category": "kubernetes",
+              "tags": [
+                "azure",
+                "mlops",
+                "pipeline",
+                "wif"
+              ],
+              "detail": {
+                "summary": "This video walks through building a complete MLOps pipeline on Microsoft Azure, tracing the lifecycle from model training to deployment on managed endpoints. It contrasts the \"notebook trap\" of ad-hoc Jupyter-based training (no versioning, no reproducibility, hidden dependencies) with a fully automated pipeline where a merge to main triggers repeatable training, artifact versioning, and automated deployment using Azure Blob Storage, scikit-learn, and Azure managed endpoints.",
+                "takeaways": [
+                  "Relying on Jupyter notebooks for production ML creates a high-risk \"notebook trap\" with no versioning, hidden dependencies, and no automated path to production.",
+                  "The pipeline pattern ensures training is repeatable, all artifacts are versioned, and deployment is fully automated via a single merge to main.",
+                  "The architecture is designed for scikit-learn models with training data in Azure Blob Storage (parquet/CSV format) deploying to Azure managed endpoints.",
+                  "The end-to-end pipeline eliminates the single-point-of-failure risk where the pipeline stops if the notebook author is unavailable."
+                ],
+                "topics": [
+                  "mlops",
+                  "azure managed endpoints",
+                  "jupyter notebook trap",
+                  "scikit-learn",
+                  "azure blob storage",
+                  "model versioning",
+                  "automated ml deployment"
+                ],
+                "related": [
+                  {
+                    "id": "kFzdToXTfn8",
+                    "sharedTopics": [
+                      "storage",
+                      "model",
+                      "deployment"
+                    ]
+                  },
+                  {
+                    "id": "ctKLD4d146g",
+                    "sharedTopics": [
+                      "automated",
+                      "deployment"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "azure",
+                      "storage"
+                    ]
+                  },
+                  {
+                    "id": "R2zktRqz81U",
+                    "sharedTopics": [
+                      "azure",
+                      "managed"
+                    ]
+                  },
+                  {
+                    "id": "Hd767VA7Z-0",
+                    "sharedTopics": [
+                      "azure",
+                      "deployment"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "7iWL5-0C66s",
+              "title": "Bridging the Mainframe to the Cloud",
+              "views": 26,
+              "date": "2026-04-04T10:58:19Z",
+              "category": "kubernetes",
+              "tags": [
+                "mainframe",
+                "ibm mq",
+                "shovel",
+                "rabbitmq"
+              ],
+              "detail": {
+                "summary": "This session presents a zero-impact architecture for distributing enterprise data from legacy mainframes to cloud-native environments using IBM MQ and RabbitMQ as a decoupling bridge. The approach avoids exposing expensive mainframe MIPS directly to volatile cloud workloads, instead implementing a four-part pipeline for safe extraction and real-time data distribution.",
+                "takeaways": [
+                  "Direct mainframe-to-cloud connections create unpredictable costs and performance bottlenecks due to the mainframe's MIPS-based pricing model.",
+                  "IBM MQ serves as the mainframe-side message broker while RabbitMQ handles cloud-side distribution, creating a strategic decoupling layer.",
+                  "The four-part pipeline safely extracts legacy data without impacting mission-critical mainframe operations.",
+                  "This architecture enables real-time data flow between on-premises and cloud while preserving mainframe stability and data integrity."
+                ],
+                "topics": [
+                  "mainframe modernization",
+                  "ibm mq",
+                  "rabbitmq",
+                  "enterprise data distribution",
+                  "message broker pipeline",
+                  "cloud migration"
+                ],
+                "related": [
+                  {
+                    "id": "KdLQEv3Tiiw",
+                    "sharedTopics": [
+                      "rabbitmq",
+                      "data",
+                      "cloud"
+                    ]
+                  },
+                  {
+                    "id": "nJ10P-fRqZQ",
+                    "sharedTopics": [
+                      "cloud",
+                      "migration"
+                    ]
+                  },
+                  {
+                    "id": "P_xUJi_qt-Q",
+                    "sharedTopics": [
+                      "data",
+                      "migration"
+                    ]
+                  },
+                  {
+                    "id": "RLlEbcXO6k8",
+                    "sharedTopics": [
+                      "cloud",
+                      "migration"
+                    ]
+                  },
+                  {
+                    "id": "uU46ltIELqk",
+                    "sharedTopics": [
+                      "enterprise",
+                      "pipeline",
+                      "cloud"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "lexZnOlyml0",
+              "title": "Agentic Platform Engineering with GitHub Copilot",
+              "views": 70,
+              "date": "2026-03-27T03:34:28Z",
+              "category": "kubernetes",
+              "tags": [
+                "ai",
+                "copilot",
+                "agentic",
+                "platform",
+                "engineering"
+              ],
+              "detail": {
+                "summary": "This presentation by Diego Casati and Ray Cao introduces agentic platform engineering as a paradigm shift from reactive firefighting to autonomous, reasoning-capable infrastructure platforms powered by GitHub Copilot. The core thesis is that infrastructure complexity has outpaced human cognitive capacity, creating a \"paradox of choice\" that demands AI-augmented operations. The approach embeds an observe-reason-act loop into platform engineering workflows, enabling platforms to self-diagnose and respond to issues.",
+                "takeaways": [
+                  "Modern infrastructure complexity has created a cognitive bottleneck where platform engineers cannot manually manage thousands of disparate components across cloud services and codebases.",
+                  "Agentic platform engineering embeds an AI layer with three capabilities: observation (monitoring), reasoning (analysis), and action (automated remediation).",
+                  "GitHub Copilot serves as the agentic interface, enabling platform teams to interact with infrastructure through natural language rather than memorizing tool-specific commands.",
+                  "The transition moves platform engineering from reactive incident response to proactive, self-healing infrastructure that reasons alongside the team."
+                ],
+                "topics": [
+                  "agentic platform engineering",
+                  "github copilot",
+                  "cognitive load",
+                  "autonomous operations",
+                  "observe-reason-act",
+                  "infrastructure automation"
+                ],
+                "related": [
+                  {
+                    "id": "Oa3jaLNSZvM",
+                    "sharedTopics": [
+                      "cognitive load",
+                      "cognitive",
+                      "load",
+                      "operations",
+                      "automation"
+                    ]
+                  },
+                  {
+                    "id": "7eoxSgjwYlM",
+                    "sharedTopics": [
+                      "platform",
+                      "engineering"
+                    ]
+                  },
+                  {
+                    "id": "rk_3xU9OF-k",
+                    "sharedTopics": [
+                      "platform",
+                      "infrastructure"
+                    ]
+                  },
+                  {
+                    "id": "ORjARjbukhY",
+                    "sharedTopics": [
+                      "platform",
+                      "engineering"
+                    ]
+                  },
+                  {
+                    "id": "to1PClyd0YA",
+                    "sharedTopics": [
+                      "platform",
+                      "engineering"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "n-Yt33ZdEHw",
+              "title": "The Architecture of Modern Identity",
+              "views": 62,
+              "date": "2026-03-18T23:55:13Z",
+              "category": "kubernetes",
+              "tags": [
+                "identity",
+                "kerberos",
+                "saml",
+                "oauth2",
+                "oidc",
+                "scim"
+              ],
+              "detail": {
+                "summary": "This video examines the multi-layered architecture of modern enterprise identity management, covering how Kerberos, SAML, OAuth 2.0, OIDC, and SCIM protocols integrate into a cohesive security framework. It describes a four-layer model: Kerberos as the internal network foundation (Layer 1), SAML/OIDC as the cloud bridge for SSO (Layer 2), OAuth 2.0 for API and microservice security (Layer 3), and SCIM for automated identity lifecycle provisioning (background layer). The goal is balancing robust security with frictionless user experience.",
+                "takeaways": [
+                  "Kerberos (Layer 1) secures internal network authentication using ticket-based symmetric key cryptography, verifying identities without transmitting passwords across the network.",
+                  "SAML and OIDC (Layer 2) extend single sign-on capabilities from on-premises to cloud and web applications, serving as the bridge between internal and external identity.",
+                  "OAuth 2.0 (Layer 3) secures API-level access and microservice-to-microservice traffic, operating independently from user-facing authentication.",
+                  "SCIM automates the full identity lifecycle (provisioning and deprovisioning) in the background, ensuring that access grants and revocations happen without manual intervention."
+                ],
+                "topics": [
+                  "kerberos",
+                  "saml",
+                  "oauth 2.0",
+                  "oidc",
+                  "scim",
+                  "identity management",
+                  "single sign-on",
+                  "zero trust"
+                ],
+                "related": [
+                  {
+                    "id": "2kvYb2pVe5o",
+                    "sharedTopics": [
+                      "oauth 2.0",
+                      "oauth",
+                      "2.0",
+                      "identity",
+                      "single sign-on"
+                    ]
+                  },
+                  {
+                    "id": "BiYKKVsJROk",
+                    "sharedTopics": [
+                      "identity",
+                      "zero trust",
+                      "zero",
+                      "trust"
+                    ]
+                  },
+                  {
+                    "id": "A4-foXsdQiA",
+                    "sharedTopics": [
+                      "identity",
+                      "zero trust",
+                      "zero",
+                      "trust"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "zero trust",
+                      "zero",
+                      "trust"
+                    ]
+                  },
+                  {
+                    "id": "0U-SUJCmKAU",
+                    "sharedTopics": [
+                      "zero trust",
+                      "zero",
+                      "trust"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "id": "8ycnldvJmuA",
+              "title": "The Blueprint for Enterprise AI on Azure",
+              "views": 18,
+              "date": "2026-01-03T01:41:31Z",
+              "category": "kubernetes",
+              "tags": [
+                "aks",
+                "kubernetes"
+              ],
+              "detail": {
+                "summary": "This video presents a comprehensive architectural blueprint for deploying multi-tenant cloud-native AI applications on Azure, covering the full lifecycle from code development to production. The architecture integrates Azure DevOps for CI/CD, Azure Container Registry for artifact storage, AKS for container orchestration, Azure AI Foundry for cognitive services, and Azure Storage for data persistence within a secured Azure Virtual Network.",
+                "takeaways": [
+                  "The architecture layers Azure DevOps CI/CD, Azure Container Registry, AKS, Azure AI Foundry, and Azure Storage into a unified deployment pipeline.",
+                  "All services operate within an Azure Virtual Network to ensure private, protected traffic between components.",
+                  "AKS serves as the central Kubernetes compute hub where containerized AI applications are deployed and managed at scale.",
+                  "Azure AI Foundry provides the intelligence layer while Azure Storage handles persistence, enabling seamless interaction between compute, AI, and data."
+                ],
+                "topics": [
+                  "azure kubernetes service",
+                  "azure ai foundry",
+                  "azure devops",
+                  "ci/cd pipeline",
+                  "multi-tenant architecture",
+                  "cloud-native ai"
+                ],
+                "related": [
+                  {
+                    "id": "N4nRAfBZ3BE",
+                    "sharedTopics": [
+                      "azure kubernetes service",
+                      "azure",
+                      "kubernetes",
+                      "service",
+                      "architecture"
+                    ]
+                  },
+                  {
+                    "id": "MIZ0ATwu7C0",
+                    "sharedTopics": [
+                      "azure kubernetes service",
+                      "azure",
+                      "kubernetes",
+                      "service"
+                    ]
+                  },
+                  {
+                    "id": "Hd767VA7Z-0",
+                    "sharedTopics": [
+                      "azure kubernetes service",
+                      "azure",
+                      "kubernetes",
+                      "service"
+                    ]
+                  },
+                  {
+                    "id": "KpSjLQpswW4",
+                    "sharedTopics": [
+                      "azure kubernetes service",
+                      "azure",
+                      "kubernetes",
+                      "service"
+                    ]
+                  },
+                  {
+                    "id": "snRi_JET1bg",
+                    "sharedTopics": [
+                      "azure kubernetes service",
+                      "azure",
+                      "kubernetes",
+                      "service"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
           "name": "Architecture",
           "videos": [
             {
               "id": "iJnsRUJonzw",
               "title": "The Internal Developer Platform Blueprint",
-              "views": 27,
+              "views": 70,
               "date": "2026-07-25T23:00:22Z",
               "category": "kubernetes",
               "tags": [
@@ -7987,7 +9156,7 @@
             {
               "id": "Hd767VA7Z-0",
               "title": "Strategic Implementation of Blue-Green Deployment",
-              "views": 13,
+              "views": 14,
               "date": "2026-03-10T11:40:52Z",
               "category": "kubernetes",
               "tags": [
@@ -8554,831 +9723,12 @@
           ]
         },
         {
-          "name": "AI & ML",
-          "videos": [
-            {
-              "id": "kFzdToXTfn8",
-              "title": "KAITO: The Kubernetes Al Toolchain Operator",
-              "views": 10,
-              "date": "2026-07-21T23:00:18Z",
-              "category": "kubernetes",
-              "tags": [
-                "k8s",
-                "operator",
-                "ai"
-              ],
-              "detail": {
-                "summary": "KAITO is a Kubernetes operator that automates LLM inference, fine-tuning, and retrieval-augmented generation (RAG) deployment, eliminating the resource guesswork, storage bottlenecks, and stateful routing complexity of traditional Kubernetes AI workloads. It pairs a simplified custom resource definition with preset configurations, automated node auto-provisioning driven by memory estimation, and zero-overhead local NVMe model storage, running inference on a vLLM engine with native LoRA fine-tuning and an integrated RAG engine.",
-                "takeaways": [
-                  "Traditional Kubernetes LLM deployment suffers from manual GPU and tensor-parallelism sizing, slow network-attached model fetches, and load balancing that breaks KV-cache continuity.",
-                  "KAITO replaces hand-tuned YAML with a simplified CRD and optimized preset configurations for common model deployments.",
-                  "Automated node auto-provisioning sizes GPU nodes from precise memory estimation, removing out-of-memory guesswork.",
-                  "Models are served from local NVMe storage directly on the GPU node, avoiding the network-attached persistent-volume bandwidth bottleneck.",
-                  "The toolchain covers the full AI lifecycle: vLLM-backed inference for any Hugging Face model, native LoRA fine-tuning, and a stitched-free RAG engine."
-                ],
-                "topics": [
-                  "kaito kubernetes operator",
-                  "llm inference deployment",
-                  "vllm engine",
-                  "lora fine-tuning",
-                  "rag deployment",
-                  "gpu auto provisioning",
-                  "kv cache routing",
-                  "hugging face model storage"
-                ],
-                "related": [
-                  {
-                    "id": "mGMaqTvWrCc",
-                    "sharedTopics": [
-                      "deployment",
-                      "model",
-                      "storage"
-                    ]
-                  },
-                  {
-                    "id": "_sxPf3tHq3s",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "deployment"
-                    ]
-                  },
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "storage"
-                    ]
-                  },
-                  {
-                    "id": "0U-SUJCmKAU",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "storage"
-                    ]
-                  },
-                  {
-                    "id": "Hd767VA7Z-0",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "deployment"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "PofJfj6nRuw",
-              "title": "Architecting Al at Global Scale",
-              "views": 5,
-              "date": "2026-06-11T23:00:19Z",
-              "category": "kubernetes",
-              "tags": [
-                "copilot",
-                "dts",
-                "orchestration",
-                "platform"
-              ],
-              "detail": {
-                "summary": "This talk presents the Microsoft Copilot blueprint for running hundreds of millions of multi-step AI workflows per week using the Durable Task Scheduler (DTS) on Azure Functions and AKS. It argues for moving durability, state management, and replay-based recovery out of individual feature code and into a centralized orchestration layer, replacing fragmented per-feature retry logic. The result is one reliability engine serving 25+ orchestrations and 10+ microservices, delivering uniform resilience while accelerating engineering velocity.",
-                "takeaways": [
-                  "Custom per-feature recovery logic becomes operationally untenable at scale; standardizing on the Durable Task Scheduler centralizes state persistence, failure recovery, and automatic workflow replay.",
-                  "Agentic tasks can be categorized along two dimensions — user-initiated vs. autonomous, and one-time vs. perpetual — but all four quadrants require robust background execution that survives infrastructure shifts.",
-                  "Durable orchestration guarantees replay resumes from the exact point of interruption without duplicating already-completed steps, so long-running scheduled tasks complete even through regional failures.",
-                  "One DTS reliability engine on AKS orchestrates heterogeneous workloads (scheduled AI, personalized discovery, memory indexing, deep research, account lifecycle) at ~300M weekly memory-indexing and tens of millions of other activities.",
-                  "Three platform principles: shift the locus of durability into the orchestration layer, standardize the resilience pattern with durable timers and sub-orchestrations, and scale without fragmenting reliability across teams."
-                ],
-                "topics": [
-                  "durable task scheduler",
-                  "ai workflow orchestration",
-                  "azure functions durability",
-                  "automatic workflow replay",
-                  "state management and checkpointing",
-                  "agentic task taxonomy",
-                  "aks reliability engine",
-                  "engineering velocity at scale"
-                ],
-                "related": [
-                  {
-                    "id": "o9x4daXS4Rk",
-                    "sharedTopics": [
-                      "azure",
-                      "management",
-                      "agentic"
-                    ]
-                  },
-                  {
-                    "id": "C6wLm6NRZW4",
-                    "sharedTopics": [
-                      "azure",
-                      "aks"
-                    ]
-                  },
-                  {
-                    "id": "7eoxSgjwYlM",
-                    "sharedTopics": [
-                      "management",
-                      "engineering"
-                    ]
-                  },
-                  {
-                    "id": "C5HqbzLRYZ0",
-                    "sharedTopics": [
-                      "management",
-                      "aks"
-                    ]
-                  },
-                  {
-                    "id": "A7eoKD5m6Ek",
-                    "sharedTopics": [
-                      "azure",
-                      "aks"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "9ga0NT3ZohQ",
-              "title": "Seamless GitOps on Azure",
-              "views": 12,
-              "date": "2026-05-22T09:48:19Z",
-              "category": "kubernetes",
-              "tags": [
-                "aks",
-                "argocd",
-                "gitops"
-              ],
-              "detail": {
-                "summary": "Microsoft announces public preview of Argo CD natively integrated into the AKS Azure portal experience, eliminating the integration tax of manually wiring identity, networking, ingress, and registries before the first GitOps deployment. The native experience replaces hard-coded credentials with Microsoft Entra ID and workload identity federation, runs on a hardened Azure Linux base image, and ships with optional automatic patch updates while preserving 100% upstream Argo CD parity and hub-and-spoke fleet support.",
-                "takeaways": [
-                  "Argo CD is now natively enabled inside the AKS portal with a single click, removing manual CLI installation and the integration tax of wiring identity, ingress, networking, and container registries.",
-                  "Security shifts from hard-coded credentials and long-lived secrets to Microsoft Entra ID single sign-on and workload identity federation for secure, identity-based cluster access.",
-                  "The deployment foundation moves from variable community base images to a hardened Azure Linux image with significantly reduced CVEs and optional automatic patch updates.",
-                  "The integration preserves 100% upstream Argo CD parity and supports hub-and-spoke fleet architectures, so large-scale multi-cluster GitOps workflows remain portable.",
-                  "The lifecycle is framed across day zero (guided onboarding), day one (enterprise-ready identity), and day two (scalable fleet operations) — turning a previously weeks-long bring-up into a portal-driven workflow."
-                ],
-                "topics": [
-                  "argo cd aks integration",
-                  "gitops workflows",
-                  "azure portal experience",
-                  "workload identity federation",
-                  "microsoft entra id sso",
-                  "hub spoke fleet architecture",
-                  "azure linux hardened image",
-                  "kubernetes deployment automation"
-                ],
-                "related": [
-                  {
-                    "id": "BiYKKVsJROk",
-                    "sharedTopics": [
-                      "argo",
-                      "aks",
-                      "gitops",
-                      "workload identity federation",
-                      "workload"
-                    ]
-                  },
-                  {
-                    "id": "rgY4KTMFOMs",
-                    "sharedTopics": [
-                      "aks",
-                      "azure",
-                      "workload",
-                      "identity",
-                      "architecture"
-                    ]
-                  },
-                  {
-                    "id": "Q4qm1hvVR2A",
-                    "sharedTopics": [
-                      "aks",
-                      "integration",
-                      "architecture",
-                      "deployment"
-                    ]
-                  },
-                  {
-                    "id": "_sxPf3tHq3s",
-                    "sharedTopics": [
-                      "architecture",
-                      "kubernetes",
-                      "deployment"
-                    ]
-                  },
-                  {
-                    "id": "8ycnldvJmuA",
-                    "sharedTopics": [
-                      "azure",
-                      "architecture",
-                      "kubernetes"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "quD4pyCwKB4",
-              "title": "Enterprise Infrastructure as Code for Al Agents",
-              "views": 68,
-              "date": "2026-04-25T17:46:48Z",
-              "category": "kubernetes",
-              "tags": [
-                "iac",
-                "terraform",
-                "skill",
-                "ai",
-                "agent"
-              ],
-              "detail": {
-                "summary": "This video introduces the Terraform skill blueprint, a context-engineering layer that bridges raw AI prompts (Claude, Cursor, Copilot, Gemini) and production-ready Terraform/OpenTofu code. It addresses the AI context gap — where models generate functional but non-enterprise-grade infrastructure — by enforcing five readiness pillars: testing frameworks, modular design, multi-team state management, CI/CD integration, and policy as code, ensuring that AI-generated infrastructure aligns with HashiCorp standards rather than producing isolated, hard-coded snippets.",
-                "takeaways": [
-                  "AI excels at functional code generation but lacks structural enterprise context, leading to isolated states, hard-coded variables, and non-standard naming conventions that break at scale and accumulate technical debt.",
-                  "The Terraform skill enforces compliant module architecture with `terraform-provider-name` naming and strict file separation (main.tf for resources, variables.tf for inputs, outputs.tf for exports, versions.tf for providers), targeting Terraform 1.0+ and OpenTofu 1.6+.",
-                  "Native Terraform tests (built into the CLI from 1.6, HCL-based, low setup) suit standard module validation, while Terratest (Go-based) handles complex multi-environment end-to-end orchestration at the cost of steeper setup and language overhead.",
-                  "Multi-team state management requires explicit isolation boundaries, state locking via DynamoDB or native cloud locking, encrypted backends on S3/Azure Blob/GCS, and formal recovery procedures to protect the source of truth.",
-                  "The skill auto-discovers across agent ecosystems (`.claude/skills`, `.cursor/skills`, `.agents/skills`, `.opencode/skills`) with `git pull` updates, while Gemini uses a dedicated CLI command (`gemini extensions update terraform-skill`); deployment supports universal installer, Claude marketplace JSON, and symlink clone methods."
-                ],
-                "topics": [
-                  "terraform skill",
-                  "infrastructure as code",
-                  "ai agent integration",
-                  "opentofu",
-                  "state management",
-                  "policy as code",
-                  "terraform testing",
-                  "module architecture",
-                  "ci/cd pipelines"
-                ],
-                "related": [
-                  {
-                    "id": "LUOX5xkSyi0",
-                    "sharedTopics": [
-                      "infrastructure as code",
-                      "infrastructure",
-                      "code",
-                      "management"
-                    ]
-                  },
-                  {
-                    "id": "fMjflPvjaJ8",
-                    "sharedTopics": [
-                      "infrastructure as code",
-                      "infrastructure",
-                      "code",
-                      "integration"
-                    ]
-                  },
-                  {
-                    "id": "o9x4daXS4Rk",
-                    "sharedTopics": [
-                      "infrastructure as code",
-                      "infrastructure",
-                      "code",
-                      "management"
-                    ]
-                  },
-                  {
-                    "id": "p9LNSeAt5Zw",
-                    "sharedTopics": [
-                      "infrastructure",
-                      "ci/cd pipelines",
-                      "pipelines"
-                    ]
-                  },
-                  {
-                    "id": "3ybGkjogcFQ",
-                    "sharedTopics": [
-                      "state management",
-                      "state",
-                      "management",
-                      "architecture"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "eZNBXDUc8OQ",
-              "title": "Architecting Modern Deployments",
-              "views": 16,
-              "date": "2026-04-23T00:06:07Z",
-              "category": "kubernetes",
-              "tags": [
-                "dockerization",
-                "containerization",
-                "ci/cd",
-                "automation"
-              ],
-              "detail": {
-                "summary": "This video presents a comprehensive guide to the modern container lifecycle across three pillars: Docker for building lean and secure artifacts, Helm for declarative and modular Kubernetes packaging, and ADO pipelines for continuous delivery automation. It covers multi-stage Docker builds to shrink attack surfaces, layer cache optimization strategies for faster rebuilds, Helm chart architecture including values.yaml overrides and template helpers, and end-to-end CI/CD pipeline design for immutable, rolling deployments.",
-                "takeaways": [
-                  "Multi-stage Docker builds drastically reduce attack surface by compiling in a heavy stage and copying only the final binary to a minimal Alpine or Slim base image under 5 MB.",
-                  "Docker layer cache efficiency depends on ordering instructions by change frequency — stable OS packages at the top, source code at the bottom — since cache invalidation cascades downward.",
-                  "Helm chart architecture separates environment-specific configuration via values.yaml overrides while templates and helpers provide declarative, modular Kubernetes resource definitions.",
-                  "ADO pipeline automation enables immutable infrastructure with deterministic builds, cached layers, and rolling updates that ensure staging-tested artifacts are exactly what runs in production."
-                ],
-                "topics": [
-                  "multi-stage docker builds",
-                  "attack surface reduction",
-                  "docker layer cache",
-                  "helm chart architecture",
-                  "values.yaml",
-                  "ado pipeline ci/cd",
-                  "immutable infrastructure",
-                  "rolling updates"
-                ],
-                "related": [
-                  {
-                    "id": "p9LNSeAt5Zw",
-                    "sharedTopics": [
-                      "docker",
-                      "immutable infrastructure",
-                      "immutable",
-                      "infrastructure",
-                      "rolling updates"
-                    ]
-                  },
-                  {
-                    "id": "_sxPf3tHq3s",
-                    "sharedTopics": [
-                      "helm",
-                      "chart",
-                      "architecture"
-                    ]
-                  },
-                  {
-                    "id": "Pxh2PcNx9W8",
-                    "sharedTopics": [
-                      "multi-stage",
-                      "docker",
-                      "builds"
-                    ]
-                  },
-                  {
-                    "id": "7eoxSgjwYlM",
-                    "sharedTopics": [
-                      "helm",
-                      "values.yaml"
-                    ]
-                  },
-                  {
-                    "id": "8ycnldvJmuA",
-                    "sharedTopics": [
-                      "architecture",
-                      "pipeline"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "p9LNSeAt5Zw",
-              "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-              "views": 21,
-              "date": "2026-04-22T10:25:18Z",
-              "category": "kubernetes",
-              "tags": [
-                "pm2",
-                "cloud",
-                "orchestration",
-                "containerization"
-              ],
-              "detail": {
-                "summary": "This video serves as a strategic playbook for transitioning Node.js applications from traditional PM2 process management on bare-metal servers to modern cloud-native container orchestration with Docker and Kubernetes. It identifies the key transition signals — environment inconsistency, multi-host scaling needs, and operational automation requirements — and walks through the evolution from SSH-based mutable deployments to immutable artifact-based CI/CD pipelines with rolling updates and self-healing.",
-                "takeaways": [
-                  "PM2 excels at single-host vertical scaling with process supervision, multi-core clustering, and automatic crash restarts, but hits its ceiling when workloads need to span multiple machines.",
-                  "Three core drivers signal the move to containerization: reproducible environments (eliminating dev/staging/prod drift), multi-host horizontal scaling beyond single-server limits, and native orchestration for rolling updates and self-healing.",
-                  "Immutable infrastructure replaces mutable long-lived servers with deterministic container builds and cached layers, ensuring that staging-tested artifacts are exactly what runs in production.",
-                  "CI/CD modernization shifts from SSH-based manual script deployments to artifact-based pipelines, enabling GitOps-driven workflows with automated rolling updates and self-healing orchestration in Kubernetes."
-                ],
-                "topics": [
-                  "pm2",
-                  "node.js scaling",
-                  "containerization",
-                  "docker",
-                  "kubernetes orchestration",
-                  "immutable infrastructure",
-                  "ci/cd pipelines",
-                  "rolling updates",
-                  "gitops"
-                ],
-                "related": [
-                  {
-                    "id": "eZNBXDUc8OQ",
-                    "sharedTopics": [
-                      "docker",
-                      "immutable infrastructure",
-                      "immutable",
-                      "infrastructure",
-                      "rolling updates"
-                    ]
-                  },
-                  {
-                    "id": "quD4pyCwKB4",
-                    "sharedTopics": [
-                      "infrastructure",
-                      "ci/cd pipelines",
-                      "pipelines"
-                    ]
-                  },
-                  {
-                    "id": "rk_3xU9OF-k",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "infrastructure"
-                    ]
-                  },
-                  {
-                    "id": "y3WwL48DLYw",
-                    "sharedTopics": [
-                      "scaling",
-                      "kubernetes"
-                    ]
-                  },
-                  {
-                    "id": "F09-7mNt3F4",
-                    "sharedTopics": [
-                      "scaling",
-                      "kubernetes"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "mGMaqTvWrCc",
-              "title": "Building an End-to-End MLOps Pipeline",
-              "views": 34,
-              "date": "2026-04-14T23:21:34Z",
-              "category": "kubernetes",
-              "tags": [
-                "azure",
-                "mlops",
-                "pipeline",
-                "wif"
-              ],
-              "detail": {
-                "summary": "This video walks through building a complete MLOps pipeline on Microsoft Azure, tracing the lifecycle from model training to deployment on managed endpoints. It contrasts the \"notebook trap\" of ad-hoc Jupyter-based training (no versioning, no reproducibility, hidden dependencies) with a fully automated pipeline where a merge to main triggers repeatable training, artifact versioning, and automated deployment using Azure Blob Storage, scikit-learn, and Azure managed endpoints.",
-                "takeaways": [
-                  "Relying on Jupyter notebooks for production ML creates a high-risk \"notebook trap\" with no versioning, hidden dependencies, and no automated path to production.",
-                  "The pipeline pattern ensures training is repeatable, all artifacts are versioned, and deployment is fully automated via a single merge to main.",
-                  "The architecture is designed for scikit-learn models with training data in Azure Blob Storage (parquet/CSV format) deploying to Azure managed endpoints.",
-                  "The end-to-end pipeline eliminates the single-point-of-failure risk where the pipeline stops if the notebook author is unavailable."
-                ],
-                "topics": [
-                  "mlops",
-                  "azure managed endpoints",
-                  "jupyter notebook trap",
-                  "scikit-learn",
-                  "azure blob storage",
-                  "model versioning",
-                  "automated ml deployment"
-                ],
-                "related": [
-                  {
-                    "id": "kFzdToXTfn8",
-                    "sharedTopics": [
-                      "storage",
-                      "model",
-                      "deployment"
-                    ]
-                  },
-                  {
-                    "id": "ctKLD4d146g",
-                    "sharedTopics": [
-                      "automated",
-                      "deployment"
-                    ]
-                  },
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "azure",
-                      "storage"
-                    ]
-                  },
-                  {
-                    "id": "R2zktRqz81U",
-                    "sharedTopics": [
-                      "azure",
-                      "managed"
-                    ]
-                  },
-                  {
-                    "id": "Hd767VA7Z-0",
-                    "sharedTopics": [
-                      "azure",
-                      "deployment"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "7iWL5-0C66s",
-              "title": "Bridging the Mainframe to the Cloud",
-              "views": 26,
-              "date": "2026-04-04T10:58:19Z",
-              "category": "kubernetes",
-              "tags": [
-                "mainframe",
-                "ibm mq",
-                "shovel",
-                "rabbitmq"
-              ],
-              "detail": {
-                "summary": "This session presents a zero-impact architecture for distributing enterprise data from legacy mainframes to cloud-native environments using IBM MQ and RabbitMQ as a decoupling bridge. The approach avoids exposing expensive mainframe MIPS directly to volatile cloud workloads, instead implementing a four-part pipeline for safe extraction and real-time data distribution.",
-                "takeaways": [
-                  "Direct mainframe-to-cloud connections create unpredictable costs and performance bottlenecks due to the mainframe's MIPS-based pricing model.",
-                  "IBM MQ serves as the mainframe-side message broker while RabbitMQ handles cloud-side distribution, creating a strategic decoupling layer.",
-                  "The four-part pipeline safely extracts legacy data without impacting mission-critical mainframe operations.",
-                  "This architecture enables real-time data flow between on-premises and cloud while preserving mainframe stability and data integrity."
-                ],
-                "topics": [
-                  "mainframe modernization",
-                  "ibm mq",
-                  "rabbitmq",
-                  "enterprise data distribution",
-                  "message broker pipeline",
-                  "cloud migration"
-                ],
-                "related": [
-                  {
-                    "id": "KdLQEv3Tiiw",
-                    "sharedTopics": [
-                      "rabbitmq",
-                      "data",
-                      "cloud"
-                    ]
-                  },
-                  {
-                    "id": "nJ10P-fRqZQ",
-                    "sharedTopics": [
-                      "cloud",
-                      "migration"
-                    ]
-                  },
-                  {
-                    "id": "P_xUJi_qt-Q",
-                    "sharedTopics": [
-                      "data",
-                      "migration"
-                    ]
-                  },
-                  {
-                    "id": "RLlEbcXO6k8",
-                    "sharedTopics": [
-                      "cloud",
-                      "migration"
-                    ]
-                  },
-                  {
-                    "id": "uU46ltIELqk",
-                    "sharedTopics": [
-                      "enterprise",
-                      "pipeline",
-                      "cloud"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "lexZnOlyml0",
-              "title": "Agentic Platform Engineering with GitHub Copilot",
-              "views": 70,
-              "date": "2026-03-27T03:34:28Z",
-              "category": "kubernetes",
-              "tags": [
-                "ai",
-                "copilot",
-                "agentic",
-                "platform",
-                "engineering"
-              ],
-              "detail": {
-                "summary": "This presentation by Diego Casati and Ray Cao introduces agentic platform engineering as a paradigm shift from reactive firefighting to autonomous, reasoning-capable infrastructure platforms powered by GitHub Copilot. The core thesis is that infrastructure complexity has outpaced human cognitive capacity, creating a \"paradox of choice\" that demands AI-augmented operations. The approach embeds an observe-reason-act loop into platform engineering workflows, enabling platforms to self-diagnose and respond to issues.",
-                "takeaways": [
-                  "Modern infrastructure complexity has created a cognitive bottleneck where platform engineers cannot manually manage thousands of disparate components across cloud services and codebases.",
-                  "Agentic platform engineering embeds an AI layer with three capabilities: observation (monitoring), reasoning (analysis), and action (automated remediation).",
-                  "GitHub Copilot serves as the agentic interface, enabling platform teams to interact with infrastructure through natural language rather than memorizing tool-specific commands.",
-                  "The transition moves platform engineering from reactive incident response to proactive, self-healing infrastructure that reasons alongside the team."
-                ],
-                "topics": [
-                  "agentic platform engineering",
-                  "github copilot",
-                  "cognitive load",
-                  "autonomous operations",
-                  "observe-reason-act",
-                  "infrastructure automation"
-                ],
-                "related": [
-                  {
-                    "id": "Oa3jaLNSZvM",
-                    "sharedTopics": [
-                      "cognitive load",
-                      "cognitive",
-                      "load",
-                      "operations",
-                      "automation"
-                    ]
-                  },
-                  {
-                    "id": "7eoxSgjwYlM",
-                    "sharedTopics": [
-                      "platform",
-                      "engineering"
-                    ]
-                  },
-                  {
-                    "id": "rk_3xU9OF-k",
-                    "sharedTopics": [
-                      "platform",
-                      "infrastructure"
-                    ]
-                  },
-                  {
-                    "id": "ORjARjbukhY",
-                    "sharedTopics": [
-                      "platform",
-                      "engineering"
-                    ]
-                  },
-                  {
-                    "id": "to1PClyd0YA",
-                    "sharedTopics": [
-                      "platform",
-                      "engineering"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "n-Yt33ZdEHw",
-              "title": "The Architecture of Modern Identity",
-              "views": 62,
-              "date": "2026-03-18T23:55:13Z",
-              "category": "kubernetes",
-              "tags": [
-                "identity",
-                "kerberos",
-                "saml",
-                "oauth2",
-                "oidc",
-                "scim"
-              ],
-              "detail": {
-                "summary": "This video examines the multi-layered architecture of modern enterprise identity management, covering how Kerberos, SAML, OAuth 2.0, OIDC, and SCIM protocols integrate into a cohesive security framework. It describes a four-layer model: Kerberos as the internal network foundation (Layer 1), SAML/OIDC as the cloud bridge for SSO (Layer 2), OAuth 2.0 for API and microservice security (Layer 3), and SCIM for automated identity lifecycle provisioning (background layer). The goal is balancing robust security with frictionless user experience.",
-                "takeaways": [
-                  "Kerberos (Layer 1) secures internal network authentication using ticket-based symmetric key cryptography, verifying identities without transmitting passwords across the network.",
-                  "SAML and OIDC (Layer 2) extend single sign-on capabilities from on-premises to cloud and web applications, serving as the bridge between internal and external identity.",
-                  "OAuth 2.0 (Layer 3) secures API-level access and microservice-to-microservice traffic, operating independently from user-facing authentication.",
-                  "SCIM automates the full identity lifecycle (provisioning and deprovisioning) in the background, ensuring that access grants and revocations happen without manual intervention."
-                ],
-                "topics": [
-                  "kerberos",
-                  "saml",
-                  "oauth 2.0",
-                  "oidc",
-                  "scim",
-                  "identity management",
-                  "single sign-on",
-                  "zero trust"
-                ],
-                "related": [
-                  {
-                    "id": "2kvYb2pVe5o",
-                    "sharedTopics": [
-                      "oauth 2.0",
-                      "oauth",
-                      "2.0",
-                      "identity",
-                      "single sign-on"
-                    ]
-                  },
-                  {
-                    "id": "BiYKKVsJROk",
-                    "sharedTopics": [
-                      "identity",
-                      "zero trust",
-                      "zero",
-                      "trust"
-                    ]
-                  },
-                  {
-                    "id": "A4-foXsdQiA",
-                    "sharedTopics": [
-                      "identity",
-                      "zero trust",
-                      "zero",
-                      "trust"
-                    ]
-                  },
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "zero trust",
-                      "zero",
-                      "trust"
-                    ]
-                  },
-                  {
-                    "id": "0U-SUJCmKAU",
-                    "sharedTopics": [
-                      "zero trust",
-                      "zero",
-                      "trust"
-                    ]
-                  }
-                ]
-              }
-            },
-            {
-              "id": "8ycnldvJmuA",
-              "title": "The Blueprint for Enterprise AI on Azure",
-              "views": 18,
-              "date": "2026-01-03T01:41:31Z",
-              "category": "kubernetes",
-              "tags": [
-                "aks",
-                "kubernetes"
-              ],
-              "detail": {
-                "summary": "This video presents a comprehensive architectural blueprint for deploying multi-tenant cloud-native AI applications on Azure, covering the full lifecycle from code development to production. The architecture integrates Azure DevOps for CI/CD, Azure Container Registry for artifact storage, AKS for container orchestration, Azure AI Foundry for cognitive services, and Azure Storage for data persistence within a secured Azure Virtual Network.",
-                "takeaways": [
-                  "The architecture layers Azure DevOps CI/CD, Azure Container Registry, AKS, Azure AI Foundry, and Azure Storage into a unified deployment pipeline.",
-                  "All services operate within an Azure Virtual Network to ensure private, protected traffic between components.",
-                  "AKS serves as the central Kubernetes compute hub where containerized AI applications are deployed and managed at scale.",
-                  "Azure AI Foundry provides the intelligence layer while Azure Storage handles persistence, enabling seamless interaction between compute, AI, and data."
-                ],
-                "topics": [
-                  "azure kubernetes service",
-                  "azure ai foundry",
-                  "azure devops",
-                  "ci/cd pipeline",
-                  "multi-tenant architecture",
-                  "cloud-native ai"
-                ],
-                "related": [
-                  {
-                    "id": "N4nRAfBZ3BE",
-                    "sharedTopics": [
-                      "azure kubernetes service",
-                      "azure",
-                      "kubernetes",
-                      "service",
-                      "architecture"
-                    ]
-                  },
-                  {
-                    "id": "MIZ0ATwu7C0",
-                    "sharedTopics": [
-                      "azure kubernetes service",
-                      "azure",
-                      "kubernetes",
-                      "service"
-                    ]
-                  },
-                  {
-                    "id": "Hd767VA7Z-0",
-                    "sharedTopics": [
-                      "azure kubernetes service",
-                      "azure",
-                      "kubernetes",
-                      "service"
-                    ]
-                  },
-                  {
-                    "id": "KpSjLQpswW4",
-                    "sharedTopics": [
-                      "azure kubernetes service",
-                      "azure",
-                      "kubernetes",
-                      "service"
-                    ]
-                  },
-                  {
-                    "id": "snRi_JET1bg",
-                    "sharedTopics": [
-                      "azure kubernetes service",
-                      "azure",
-                      "kubernetes",
-                      "service"
-                    ]
-                  }
-                ]
-              }
-            }
-          ]
-        },
-        {
           "name": "Messaging",
           "videos": [
             {
               "id": "6XAbKoeK9JU",
               "title": "RabbitMQ 4.2.8 Plugin Ecosystem",
-              "views": 17,
+              "views": 18,
               "date": "2026-07-08T23:00:34Z",
               "category": "kubernetes",
               "tags": [
@@ -11655,7 +12005,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 73,
+              "views": 74,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -12430,7 +12780,7 @@
             {
               "id": "Hd767VA7Z-0",
               "title": "Strategic Implementation of Blue-Green Deployment",
-              "views": 13,
+              "views": 14,
               "date": "2026-03-10T11:40:52Z",
               "category": "kubernetes",
               "tags": [
@@ -13099,6 +13449,15 @@
                     ]
                   },
                   {
+                    "id": "W_rZivDmMRY",
+                    "sharedTopics": [
+                      "distributed",
+                      "kubernetes",
+                      "operator",
+                      "log"
+                    ]
+                  },
+                  {
                     "id": "eaPXjvB194w",
                     "sharedTopics": [
                       "vector search",
@@ -13111,13 +13470,6 @@
                     "sharedTopics": [
                       "key-value",
                       "store"
-                    ]
-                  },
-                  {
-                    "id": "aiYBPCkvhes",
-                    "sharedTopics": [
-                      "kubernetes",
-                      "log"
                     ]
                   }
                 ]
@@ -13525,7 +13877,7 @@
             {
               "id": "rgY4KTMFOMs",
               "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-              "views": 73,
+              "views": 74,
               "date": "2026-02-05T14:29:16Z",
               "category": "kubernetes",
               "tags": [
@@ -14358,9 +14710,171 @@
       ],
       "videos": [
         {
+          "id": "WI8yUaPon0w",
+          "title": "Architecting LLM Inference at Scale",
+          "views": 8,
+          "date": "2026-07-31T23:00:03Z",
+          "category": "kubernetes",
+          "tags": [
+            "vllm"
+          ],
+          "detail": {
+            "summary": "This talk is an architectural deep-dive into vLLM, the unified open-source serving engine that abstracts 200+ model architectures across Nvidia, AMD, TPU, XPU, and CPU hardware behind an OpenAI-compatible API. It explains the three-layer stack — serving front end, dynamic execution engine (torch.compile, CUDA graph dispatch), and hardware/memory layer — and the core techniques that deliver throughput and memory efficiency: PagedAttention for KV cache fragmentation, multi-tier GPU/CPU KV offloading with Triton swap kernels and zero-copy shared memory, dynamic attention kernel routing, and Ray-based distributed execution with expert parallelism load balancing. It closes with multi-tenant LoRA serving (Punica), a multimodal registry, disaggregated prefill/decode serving, and a hardened production container stack (C/CUDA core, Rust ZMQ frontend, vLLM OpenAI nonroot) deployed natively on Kubernetes via Helm with horizontal pod autoscaling.",
+            "takeaways": [
+              "Model × hardware fragmentation is the core problem: deploying 200+ model architectures across diverse accelerators requires per-model, per-platform optimization; vLLM collapses that into one engine with a standard OpenAI-compatible serving layer.",
+              "PagedAttention maps non-contiguous physical memory to contiguous logical sequences, eliminating up to ~60% memory waste from fragmentation and overallocation in traditional KV cache serving.",
+              "Multi-tier KV cache offloading uses asynchronous Triton swap kernels over PCIe plus zero-copy MAP shared memory views (torch.tensor views without duplication), with LRU and ARC eviction policies managing CPU memory.",
+              "Disaggregated serving physically isolates compute-heavy prefill from memory-heavy decode, enabling independent scaling and direct high-speed KV cache transfer between the two worker types.",
+              "Production deployment is a layered container: a C/CUDA compute core, a Rust frontend using ZMQ and MessagePack for IPC, and a vLLM OpenAI nonroot application layer, orchestrated via Helm with Deployments, Services, and HPAs."
+            ],
+            "topics": [
+              "llm inference engine",
+              "kv cache management",
+              "pagedattention",
+              "disaggregated prefill decode serving",
+              "cuda graph dispatch",
+              "mixture of experts load balancing",
+              "zero copy memory",
+              "loRA adapter serving",
+              "multimodal inference pipeline",
+              "kubernetes model serving"
+            ],
+            "related": [
+              {
+                "id": "kFzdToXTfn8",
+                "sharedTopics": [
+                  "llm",
+                  "inference",
+                  "engine",
+                  "cache",
+                  "lora"
+                ]
+              },
+              {
+                "id": "OnwiaDRj1-k",
+                "sharedTopics": [
+                  "management",
+                  "load",
+                  "balancing",
+                  "kubernetes"
+                ]
+              },
+              {
+                "id": "W_rZivDmMRY",
+                "sharedTopics": [
+                  "serving",
+                  "zero",
+                  "kubernetes",
+                  "model"
+                ]
+              },
+              {
+                "id": "8PaVKQoDReY",
+                "sharedTopics": [
+                  "inference",
+                  "engine",
+                  "cuda",
+                  "graph",
+                  "zero"
+                ]
+              },
+              {
+                "id": "C5HqbzLRYZ0",
+                "sharedTopics": [
+                  "management",
+                  "kubernetes"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "W_rZivDmMRY",
+          "title": "Orchestrating Distributed Al on Kubernetes",
+          "views": 8,
+          "date": "2026-07-30T23:00:09Z",
+          "category": "kubernetes",
+          "tags": [
+            "k8s",
+            "operator",
+            "ray",
+            "workload"
+          ],
+          "detail": {
+            "summary": "This talk presents KubeRay as the native Kubernetes operator for orchestrating Ray distributed AI workloads, translating high-level Ray cluster requirements into native Kubernetes lifecycle operations. It walks the three core custom resources — RayCluster, RayJob, and RayService — and covers zero-downtime model serving through overlapping clusters with canary traffic shifting via Kubernetes Gateway and HTTP routes. Performance and operability come from virtual kubelet pod pools that pre-initialize workers, an API v2 native HTTP proxy with compute template middleware, a kubectl plugin plus Python SDK (builder/director patterns), a Next.js dashboard, and sidecar-based post-mortem diagnostics that gzip Ray history to object storage before ephemeral clusters terminate.",
+            "takeaways": [
+              "Raw Kubernetes primitives (pods, services, ingress) make distributed ML orchestration tangled and slow; KubeRay acts as a specialized control plane that reconciles desired state via controllers and admission webhooks.",
+              "Three CRDs cover the lifecycle: RayCluster for interactive and persistent compute (GCS fault tolerant, autoscaling), RayJob for scheduled batch training, and RayService for production model serving with zero-downtime upgrades.",
+              "Zero-downtime upgrades overlap blue and green Ray clusters and manipulate native Gateway/HTTPRoute resources to canary-shift traffic (e.g. 10%/90%) between model versions.",
+              "Virtual kubelet pod pools sidestep scheduling and image-pull latency: a pre-initialized reservoir of standby pods gives instantaneous Ray worker provisioning.",
+              "API v2 drops the heavy gRPC abstraction for a native HTTP proxy mirroring the Kubernetes open API, with compute template middleware injecting CPU, memory, GPU, and tolerations into Ray specs in-flight."
+            ],
+            "topics": [
+              "kuberay operator",
+              "ray distributed computing",
+              "kubernetes custom resources",
+              "zero downtime model serving",
+              "virtual kubelet pod pool",
+              "canary deployment traffic shifting",
+              "kubernetes gateway httproute",
+              "kubernetes api proxy",
+              "postmortem log retention",
+              "gcs fault tolerance"
+            ],
+            "related": [
+              {
+                "id": "a8heWpae5p0",
+                "sharedTopics": [
+                  "operator",
+                  "distributed",
+                  "kubernetes",
+                  "log"
+                ]
+              },
+              {
+                "id": "hvkvH7i8NLc",
+                "sharedTopics": [
+                  "kubernetes",
+                  "custom",
+                  "resources",
+                  "api"
+                ]
+              },
+              {
+                "id": "kFzdToXTfn8",
+                "sharedTopics": [
+                  "operator",
+                  "kubernetes",
+                  "model",
+                  "deployment"
+                ]
+              },
+              {
+                "id": "4YsX6tYi5x4",
+                "sharedTopics": [
+                  "kubernetes",
+                  "pod",
+                  "canary",
+                  "traffic"
+                ]
+              },
+              {
+                "id": "hs7CiLpLgnY",
+                "sharedTopics": [
+                  "zero",
+                  "pod",
+                  "gateway",
+                  "api",
+                  "proxy"
+                ]
+              }
+            ]
+          }
+        },
+        {
           "id": "iJnsRUJonzw",
           "title": "The Internal Developer Platform Blueprint",
-          "views": 27,
+          "views": 70,
           "date": "2026-07-25T23:00:22Z",
           "category": "kubernetes",
           "tags": [
@@ -14556,11 +15070,30 @@
             ],
             "related": [
               {
+                "id": "WI8yUaPon0w",
+                "sharedTopics": [
+                  "kubernetes",
+                  "llm",
+                  "inference",
+                  "engine",
+                  "lora"
+                ]
+              },
+              {
                 "id": "mGMaqTvWrCc",
                 "sharedTopics": [
                   "deployment",
                   "model",
                   "storage"
+                ]
+              },
+              {
+                "id": "W_rZivDmMRY",
+                "sharedTopics": [
+                  "kubernetes",
+                  "operator",
+                  "deployment",
+                  "model"
                 ]
               },
               {
@@ -14575,20 +15108,6 @@
                 "sharedTopics": [
                   "kubernetes",
                   "storage"
-                ]
-              },
-              {
-                "id": "0U-SUJCmKAU",
-                "sharedTopics": [
-                  "kubernetes",
-                  "storage"
-                ]
-              },
-              {
-                "id": "Hd767VA7Z-0",
-                "sharedTopics": [
-                  "kubernetes",
-                  "deployment"
                 ]
               }
             ]
@@ -14750,7 +15269,7 @@
         {
           "id": "mf86g5lXfTg",
           "title": "Clickhouse is Winning the Observability Wars",
-          "views": 18,
+          "views": 20,
           "date": "2026-07-16T23:00:04Z",
           "category": "kubernetes",
           "tags": [
@@ -14818,7 +15337,7 @@
         {
           "id": "6XAbKoeK9JU",
           "title": "RabbitMQ 4.2.8 Plugin Ecosystem",
-          "views": 17,
+          "views": 18,
           "date": "2026-07-08T23:00:34Z",
           "category": "kubernetes",
           "tags": [
@@ -14886,7 +15405,7 @@
         {
           "id": "o9x4daXS4Rk",
           "title": "Azure Linux 4.0 and the Al-Native Cloud Era",
-          "views": 25,
+          "views": 26,
           "date": "2026-07-05T23:00:06Z",
           "category": "kubernetes",
           "tags": [
@@ -15294,6 +15813,15 @@
                 ]
               },
               {
+                "id": "W_rZivDmMRY",
+                "sharedTopics": [
+                  "kubernetes",
+                  "custom",
+                  "resources",
+                  "api"
+                ]
+              },
+              {
                 "id": "9ga0NT3ZohQ",
                 "sharedTopics": [
                   "kubernetes",
@@ -15314,13 +15842,6 @@
                 "sharedTopics": [
                   "kubernetes",
                   "workload"
-                ]
-              },
-              {
-                "id": "0U-SUJCmKAU",
-                "sharedTopics": [
-                  "kubernetes",
-                  "stateful"
                 ]
               }
             ]
@@ -15601,6 +16122,14 @@
                 ]
               },
               {
+                "id": "W_rZivDmMRY",
+                "sharedTopics": [
+                  "kubernetes",
+                  "api",
+                  "kubelet"
+                ]
+              },
+              {
                 "id": "LUOX5xkSyi0",
                 "sharedTopics": [
                   "language",
@@ -15612,13 +16141,6 @@
                 "sharedTopics": [
                   "kubernetes",
                   "language"
-                ]
-              },
-              {
-                "id": "KpSjLQpswW4",
-                "sharedTopics": [
-                  "kubernetes",
-                  "control"
                 ]
               }
             ]
@@ -16071,17 +16593,18 @@
                 ]
               },
               {
+                "id": "W_rZivDmMRY",
+                "sharedTopics": [
+                  "kubernetes",
+                  "gateway",
+                  "api"
+                ]
+              },
+              {
                 "id": "y3WwL48DLYw",
                 "sharedTopics": [
                   "kubernetes",
                   "resource"
-                ]
-              },
-              {
-                "id": "KpSjLQpswW4",
-                "sharedTopics": [
-                  "kubernetes",
-                  "control"
                 ]
               }
             ]
@@ -16587,6 +17110,15 @@
                 ]
               },
               {
+                "id": "W_rZivDmMRY",
+                "sharedTopics": [
+                  "distributed",
+                  "kubernetes",
+                  "operator",
+                  "log"
+                ]
+              },
+              {
                 "id": "eaPXjvB194w",
                 "sharedTopics": [
                   "vector search",
@@ -16599,13 +17131,6 @@
                 "sharedTopics": [
                   "key-value",
                   "store"
-                ]
-              },
-              {
-                "id": "aiYBPCkvhes",
-                "sharedTopics": [
-                  "kubernetes",
-                  "log"
                 ]
               }
             ]
@@ -17764,7 +18289,7 @@
         {
           "id": "F09-7mNt3F4",
           "title": "Architecting AKS Networking - Trade-offs",
-          "views": 14,
+          "views": 16,
           "date": "2026-03-12T10:45:55Z",
           "category": "kubernetes",
           "tags": [
@@ -17834,7 +18359,7 @@
         {
           "id": "1PH7UB24xps",
           "title": "Architecting AKS Networking",
-          "views": 18,
+          "views": 20,
           "date": "2026-03-11T22:24:43Z",
           "category": "kubernetes",
           "tags": [
@@ -17851,7 +18376,7 @@
         {
           "id": "Hd767VA7Z-0",
           "title": "Strategic Implementation of Blue-Green Deployment",
-          "views": 13,
+          "views": 14,
           "date": "2026-03-10T11:40:52Z",
           "category": "kubernetes",
           "tags": [
@@ -17989,10 +18514,11 @@
                 ]
               },
               {
-                "id": "XKTtea0xGsA",
+                "id": "W_rZivDmMRY",
                 "sharedTopics": [
                   "kubernetes",
-                  "pod"
+                  "pod",
+                  "log"
                 ]
               }
             ]
@@ -18861,7 +19387,7 @@
         {
           "id": "rgY4KTMFOMs",
           "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-          "views": 73,
+          "views": 74,
           "date": "2026-02-05T14:29:16Z",
           "category": "kubernetes",
           "tags": [
@@ -20454,7 +20980,7 @@
         "security"
       ],
       "videoCount": 264,
-      "totalViews": 30787,
+      "totalViews": 30965,
       "topTags": [
         {
           "tag": "rust",
@@ -20544,7 +21070,7 @@
             {
               "id": "DTb0syknVSQ",
               "title": "Synthesizing Gleam Syntax with Rust Performance",
-              "views": 23,
+              "views": 25,
               "date": "2026-07-15T23:00:25Z",
               "category": "development",
               "tags": [
@@ -20619,7 +21145,7 @@
             {
               "id": "97zSu6wYF5w",
               "title": "Cross-Runtime Development with Rust and napi-rs",
-              "views": 58,
+              "views": 62,
               "date": "2026-07-10T23:00:35Z",
               "category": "development",
               "tags": [
@@ -20850,7 +21376,7 @@
             {
               "id": "gPnrk5TNKWg",
               "title": "The Rust Robotics Paradigm",
-              "views": 64,
+              "views": 65,
               "date": "2026-06-27T23:00:21Z",
               "category": "development",
               "tags": [
@@ -21093,7 +21619,7 @@
             {
               "id": "fWuJSwkdH6I",
               "title": "Quinn: A Pure-Rust QUIC Protocol Implementation",
-              "views": 56,
+              "views": 57,
               "date": "2026-06-09T23:00:25Z",
               "category": "development",
               "tags": [
@@ -21459,7 +21985,7 @@
             {
               "id": "JMk8y25qo2M",
               "title": "Copilot-Backed Code Review Architecture",
-              "views": 18,
+              "views": 19,
               "date": "2026-06-02T23:00:17Z",
               "category": "development",
               "tags": [
@@ -22954,7 +23480,7 @@
             {
               "id": "B81dHVYOYJA",
               "title": "Inside the Typst Compiler Engine",
-              "views": 144,
+              "views": 146,
               "date": "2026-05-11T00:02:22Z",
               "category": "development",
               "tags": [
@@ -23025,7 +23551,7 @@
             {
               "id": "8PaVKQoDReY",
               "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-              "views": 93,
+              "views": 94,
               "date": "2026-05-09T22:08:03Z",
               "category": "development",
               "tags": [
@@ -23523,7 +24049,7 @@
             {
               "id": "07aDX5YB-ao",
               "title": "Modular Networking Architecture in Rust",
-              "views": 63,
+              "views": 64,
               "date": "2026-05-03T06:22:41Z",
               "category": "development",
               "tags": [
@@ -24010,7 +24536,7 @@
             {
               "id": "NhYb7QkBdMs",
               "title": "Rusty Object Notation (RON)",
-              "views": 162,
+              "views": 163,
               "date": "2026-04-24T06:12:06Z",
               "category": "development",
               "tags": [
@@ -24377,7 +24903,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4320,
+              "views": 4327,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -24840,7 +25366,7 @@
             {
               "id": "_zJ3_d1CODg",
               "title": "Bevy-Demo",
-              "views": 172,
+              "views": 173,
               "date": "2026-03-19T00:18:34Z",
               "category": "development",
               "tags": [
@@ -25364,7 +25890,7 @@
             {
               "id": "SpNfrWmI8iE",
               "title": "Architecting Scalable Rust Backends",
-              "views": 78,
+              "views": 80,
               "date": "2026-02-22T10:43:18Z",
               "category": "development",
               "tags": [
@@ -25444,7 +25970,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 243,
+              "views": 248,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -25508,7 +26034,7 @@
             {
               "id": "joYJ6rPN3UI",
               "title": "Burn: The Rust Deep Learning Framework",
-              "views": 697,
+              "views": 708,
               "date": "2026-02-13T15:08:23Z",
               "category": "development",
               "tags": [
@@ -25885,7 +26411,7 @@
             {
               "id": "RDa6WtZmW8E",
               "title": "Mastering Serde in Rust ",
-              "views": 53,
+              "views": 55,
               "date": "2026-01-29T05:20:28Z",
               "category": "development",
               "tags": [
@@ -26887,7 +27413,7 @@
             {
               "id": "OKXt-PJUuzE",
               "title": "The Universal Engine for LLM Inference",
-              "views": 87,
+              "views": 90,
               "date": "2026-06-21T23:00:26Z",
               "category": "development",
               "tags": [
@@ -27181,7 +27707,7 @@
             {
               "id": "JMk8y25qo2M",
               "title": "Copilot-Backed Code Review Architecture",
-              "views": 18,
+              "views": 19,
               "date": "2026-06-02T23:00:17Z",
               "category": "development",
               "tags": [
@@ -28045,7 +28571,7 @@
             {
               "id": "8PaVKQoDReY",
               "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-              "views": 93,
+              "views": 94,
               "date": "2026-05-09T22:08:03Z",
               "category": "development",
               "tags": [
@@ -28356,7 +28882,7 @@
             {
               "id": "BQ4wab0UtLg",
               "title": "From Louvain to Leiden",
-              "views": 98,
+              "views": 102,
               "date": "2026-04-26T15:40:42Z",
               "category": "development",
               "tags": [
@@ -28732,7 +29258,7 @@
             {
               "id": "pgTCcVO4gfg",
               "title": "The 10k LOC Sweet Spot",
-              "views": 16,
+              "views": 17,
               "date": "2026-04-21T22:18:41Z",
               "category": "development",
               "tags": [
@@ -29083,7 +29609,7 @@
             {
               "id": "TEGFwsAcxK8",
               "title": "Agent Skills for Flutter",
-              "views": 276,
+              "views": 282,
               "date": "2026-04-10T13:02:35Z",
               "category": "development",
               "tags": [
@@ -29159,7 +29685,7 @@
             {
               "id": "BzvpasWYESU",
               "title": "The LLM Wiki Paradigm",
-              "views": 2824,
+              "views": 2836,
               "date": "2026-04-09T22:17:25Z",
               "category": "development",
               "tags": [
@@ -29234,7 +29760,7 @@
             {
               "id": "fv61JXUCbeo",
               "title": "Stitch Agent Skills",
-              "views": 281,
+              "views": 283,
               "date": "2026-04-05T21:24:52Z",
               "category": "development",
               "tags": [
@@ -29740,7 +30266,7 @@
             {
               "id": "0HEqwk9UMOc",
               "title": "How to Kill the Code Review",
-              "views": 144,
+              "views": 145,
               "date": "2026-03-18T11:10:57Z",
               "category": "development",
               "tags": [
@@ -31249,7 +31775,7 @@
             {
               "id": "RJGNh8L-8rw",
               "title": "Clean Architecture in Angular",
-              "views": 49,
+              "views": 50,
               "date": "2026-06-23T11:00:37Z",
               "category": "development",
               "tags": [
@@ -31704,7 +32230,7 @@
             {
               "id": "JMk8y25qo2M",
               "title": "Copilot-Backed Code Review Architecture",
-              "views": 18,
+              "views": 19,
               "date": "2026-06-02T23:00:17Z",
               "category": "development",
               "tags": [
@@ -31944,7 +32470,7 @@
             {
               "id": "3ONqqMoLy0s",
               "title": "The Architecture of Space and Time",
-              "views": 32,
+              "views": 34,
               "date": "2026-05-26T23:06:34Z",
               "category": "development",
               "tags": [
@@ -32577,7 +33103,7 @@
             {
               "id": "eJlXFaZNP6g",
               "title": "TigerStyle: The Architecture of Elegance",
-              "views": 55,
+              "views": 56,
               "date": "2026-05-06T02:19:03Z",
               "category": "development",
               "tags": [
@@ -32809,7 +33335,7 @@
             {
               "id": "07aDX5YB-ao",
               "title": "Modular Networking Architecture in Rust",
-              "views": 63,
+              "views": 64,
               "date": "2026-05-03T06:22:41Z",
               "category": "development",
               "tags": [
@@ -33423,7 +33949,7 @@
             {
               "id": "54lO6XE-AeQ",
               "title": "The Zero-Copy Architecture",
-              "views": 4320,
+              "views": 4327,
               "date": "2026-04-03T12:29:02Z",
               "category": "development",
               "tags": [
@@ -33735,7 +34261,7 @@
             {
               "id": "IZX3_9rZeMU",
               "title": "The Hybrid TUI Architecture",
-              "views": 552,
+              "views": 553,
               "date": "2026-02-10T10:11:11Z",
               "category": "development",
               "tags": [
@@ -33892,7 +34418,7 @@
             {
               "id": "4q9gLzti6Lk",
               "title": "Building Autonomous Agents with the Antigravity SDK",
-              "views": 97,
+              "views": 102,
               "date": "2026-06-22T23:00:39Z",
               "category": "development",
               "tags": [
@@ -34711,7 +35237,7 @@
             {
               "id": "yCJDmGrk8sM",
               "title": "Advancing Go Garbage Collection with Green Tea",
-              "views": 187,
+              "views": 189,
               "date": "2026-03-24T22:59:50Z",
               "category": "development",
               "tags": [
@@ -34937,7 +35463,7 @@
             {
               "id": "CXtHwJQphLI",
               "title": "Production-Ready RabbitMQ in Go",
-              "views": 101,
+              "views": 103,
               "date": "2026-03-20T03:40:50Z",
               "category": "development",
               "tags": [
@@ -35018,7 +35544,7 @@
             {
               "id": "0HEqwk9UMOc",
               "title": "How to Kill the Code Review",
-              "views": 144,
+              "views": 145,
               "date": "2026-03-18T11:10:57Z",
               "category": "development",
               "tags": [
@@ -35742,7 +36268,7 @@
             {
               "id": "SpNfrWmI8iE",
               "title": "Architecting Scalable Rust Backends",
-              "views": 78,
+              "views": 80,
               "date": "2026-02-22T10:43:18Z",
               "category": "development",
               "tags": [
@@ -35822,7 +36348,7 @@
             {
               "id": "zwVDEAKKPZY",
               "title": "Go 1.26: The Era of Automated Modernization",
-              "views": 941,
+              "views": 950,
               "date": "2026-02-14T09:23:06Z",
               "category": "development",
               "tags": [
@@ -35893,7 +36419,7 @@
             {
               "id": "Qo3oJv4uyBI",
               "title": "High-Performance Go: Inside the 1.26 Release",
-              "views": 214,
+              "views": 215,
               "date": "2026-02-12T13:08:12Z",
               "category": "development",
               "tags": [
@@ -36253,7 +36779,7 @@
             {
               "id": "BCBRMUO54p8",
               "title": "Architecting Intelligence",
-              "views": 7,
+              "views": 8,
               "date": "2026-07-24T23:00:27Z",
               "category": "development",
               "tags": [
@@ -36572,7 +37098,7 @@
             {
               "id": "am9FvNiJ24M",
               "title": "The 2026 Change Data Capture Blueprint",
-              "views": 31,
+              "views": 32,
               "date": "2026-04-08T22:14:35Z",
               "category": "development",
               "tags": [
@@ -36872,7 +37398,7 @@
             {
               "id": "kQc99Io3pCo",
               "title": "HelixDB: The Unified Graph-Vector Database",
-              "views": 243,
+              "views": 248,
               "date": "2026-02-14T22:47:13Z",
               "category": "development",
               "tags": [
@@ -37088,7 +37614,7 @@
             {
               "id": "am9FvNiJ24M",
               "title": "The 2026 Change Data Capture Blueprint",
-              "views": 31,
+              "views": 32,
               "date": "2026-04-08T22:14:35Z",
               "category": "development",
               "tags": [
@@ -37325,7 +37851,7 @@
             {
               "id": "wyIhJ3LMnRg",
               "title": "W3C Trace Context",
-              "views": 130,
+              "views": 131,
               "date": "2026-03-21T13:19:14Z",
               "category": "development",
               "tags": [
@@ -37400,7 +37926,7 @@
             {
               "id": "CXtHwJQphLI",
               "title": "Production-Ready RabbitMQ in Go",
-              "views": 101,
+              "views": 103,
               "date": "2026-03-20T03:40:50Z",
               "category": "development",
               "tags": [
@@ -38026,7 +38552,7 @@
             {
               "id": "OeBgces_2_0",
               "title": "Networking Fundamentals: 0.0.0.0 vs. 127.0.0.1",
-              "views": 95,
+              "views": 102,
               "date": "2026-07-18T23:00:29Z",
               "category": "development",
               "tags": [
@@ -38090,7 +38616,7 @@
             {
               "id": "07aDX5YB-ao",
               "title": "Modular Networking Architecture in Rust",
-              "views": 63,
+              "views": 64,
               "date": "2026-05-03T06:22:41Z",
               "category": "development",
               "tags": [
@@ -38177,7 +38703,7 @@
         {
           "id": "lXwe6xeFmAE",
           "title": "Transcontinental Data Migration",
-          "views": 15,
+          "views": 29,
           "date": "2026-07-26T23:00:10Z",
           "category": "development",
           "tags": [
@@ -38245,7 +38771,7 @@
         {
           "id": "BCBRMUO54p8",
           "title": "Architecting Intelligence",
-          "views": 7,
+          "views": 8,
           "date": "2026-07-24T23:00:27Z",
           "category": "development",
           "tags": [
@@ -38326,7 +38852,7 @@
         {
           "id": "2cuMV05Fang",
           "title": "The Performance Paradigm",
-          "views": 30,
+          "views": 32,
           "date": "2026-07-20T23:00:14Z",
           "category": "development",
           "tags": [
@@ -38392,7 +38918,7 @@
         {
           "id": "OeBgces_2_0",
           "title": "Networking Fundamentals: 0.0.0.0 vs. 127.0.0.1",
-          "views": 95,
+          "views": 102,
           "date": "2026-07-18T23:00:29Z",
           "category": "development",
           "tags": [
@@ -38456,7 +38982,7 @@
         {
           "id": "DTb0syknVSQ",
           "title": "Synthesizing Gleam Syntax with Rust Performance",
-          "views": 23,
+          "views": 25,
           "date": "2026-07-15T23:00:25Z",
           "category": "development",
           "tags": [
@@ -38531,7 +39057,7 @@
         {
           "id": "RvgI3oEThcA",
           "title": "Flattening the Hierarchy",
-          "views": 17,
+          "views": 18,
           "date": "2026-07-13T23:00:12Z",
           "category": "development",
           "tags": [
@@ -38748,7 +39274,7 @@
         {
           "id": "97zSu6wYF5w",
           "title": "Cross-Runtime Development with Rust and napi-rs",
-          "views": 58,
+          "views": 62,
           "date": "2026-07-10T23:00:35Z",
           "category": "development",
           "tags": [
@@ -38907,7 +39433,7 @@
         {
           "id": "ykqWNyj1fHM",
           "title": "The Digital Twin Blueprint",
-          "views": 47,
+          "views": 48,
           "date": "2026-07-04T23:00:03Z",
           "category": "development",
           "tags": [
@@ -39129,7 +39655,7 @@
         {
           "id": "gPnrk5TNKWg",
           "title": "The Rust Robotics Paradigm",
-          "views": 64,
+          "views": 65,
           "date": "2026-06-27T23:00:21Z",
           "category": "development",
           "tags": [
@@ -39208,7 +39734,7 @@
         {
           "id": "7ygjuzLkdTE",
           "title": "The Anatomy of a Modern Robot",
-          "views": 49,
+          "views": 50,
           "date": "2026-06-24T23:00:04Z",
           "category": "development",
           "tags": [
@@ -39372,7 +39898,7 @@
         {
           "id": "RJGNh8L-8rw",
           "title": "Clean Architecture in Angular",
-          "views": 49,
+          "views": 50,
           "date": "2026-06-23T11:00:37Z",
           "category": "development",
           "tags": [
@@ -39456,7 +39982,7 @@
         {
           "id": "4q9gLzti6Lk",
           "title": "Building Autonomous Agents with the Antigravity SDK",
-          "views": 97,
+          "views": 102,
           "date": "2026-06-22T23:00:39Z",
           "category": "development",
           "tags": [
@@ -39530,7 +40056,7 @@
         {
           "id": "OKXt-PJUuzE",
           "title": "The Universal Engine for LLM Inference",
-          "views": 87,
+          "views": 90,
           "date": "2026-06-21T23:00:26Z",
           "category": "development",
           "tags": [
@@ -39607,7 +40133,7 @@
         {
           "id": "9tiUYnQL_y0",
           "title": "Mapping the NVIDIA CUDA Library Ecosystem",
-          "views": 20,
+          "views": 21,
           "date": "2026-06-20T23:00:16Z",
           "category": "development",
           "tags": [
@@ -40129,7 +40655,7 @@
         {
           "id": "fWuJSwkdH6I",
           "title": "Quinn: A Pure-Rust QUIC Protocol Implementation",
-          "views": 56,
+          "views": 57,
           "date": "2026-06-09T23:00:25Z",
           "category": "development",
           "tags": [
@@ -40647,7 +41173,7 @@
         {
           "id": "JMk8y25qo2M",
           "title": "Copilot-Backed Code Review Architecture",
-          "views": 18,
+          "views": 19,
           "date": "2026-06-02T23:00:17Z",
           "category": "development",
           "tags": [
@@ -40733,7 +41259,7 @@
         {
           "id": "i8wjbDfxZTY",
           "title": "Why uv, ruff, and ty are mandatory",
-          "views": 140,
+          "views": 142,
           "date": "2026-06-02T05:10:54Z",
           "category": "development",
           "tags": [
@@ -40888,7 +41414,7 @@
         {
           "id": "JNHxVHyzWdE",
           "title": "Deconstructing the Bridge",
-          "views": 25,
+          "views": 26,
           "date": "2026-06-01T10:00:18Z",
           "category": "development",
           "tags": [
@@ -41029,7 +41555,7 @@
         {
           "id": "L4YBdUVCFd4",
           "title": "Migrating to SolidJS 2.0",
-          "views": 126,
+          "views": 134,
           "date": "2026-05-30T22:00:08Z",
           "category": "development",
           "tags": [
@@ -41553,7 +42079,7 @@
         {
           "id": "3ONqqMoLy0s",
           "title": "The Architecture of Space and Time",
-          "views": 32,
+          "views": 34,
           "date": "2026-05-26T23:06:34Z",
           "category": "development",
           "tags": [
@@ -42708,7 +43234,7 @@
         {
           "id": "jrD_LGNsJXM",
           "title": "Async 1/0 in Zig 0.16, Today",
-          "views": 208,
+          "views": 222,
           "date": "2026-05-17T19:24:16Z",
           "category": "development",
           "tags": [
@@ -43009,7 +43535,7 @@
         {
           "id": "BhzeYd4aqOQ",
           "title": "Architecting Network Layers with Dio",
-          "views": 22,
+          "views": 23,
           "date": "2026-05-16T06:21:52Z",
           "category": "development",
           "tags": [
@@ -43623,7 +44149,7 @@
         {
           "id": "B81dHVYOYJA",
           "title": "Inside the Typst Compiler Engine",
-          "views": 144,
+          "views": 146,
           "date": "2026-05-11T00:02:22Z",
           "category": "development",
           "tags": [
@@ -43778,7 +44304,7 @@
         {
           "id": "8PaVKQoDReY",
           "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-          "views": 93,
+          "views": 94,
           "date": "2026-05-09T22:08:03Z",
           "category": "development",
           "tags": [
@@ -43861,7 +44387,7 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 446,
+          "views": 449,
           "date": "2026-05-09T14:32:47Z",
           "category": "development",
           "tags": [
@@ -44417,7 +44943,7 @@
         {
           "id": "eJlXFaZNP6g",
           "title": "TigerStyle: The Architecture of Elegance",
-          "views": 55,
+          "views": 56,
           "date": "2026-05-06T02:19:03Z",
           "category": "development",
           "tags": [
@@ -44885,7 +45411,7 @@
         {
           "id": "07aDX5YB-ao",
           "title": "Modular Networking Architecture in Rust",
-          "views": 63,
+          "views": 64,
           "date": "2026-05-03T06:22:41Z",
           "category": "development",
           "tags": [
@@ -45440,7 +45966,7 @@
         {
           "id": "4aAyFYemYD8",
           "title": "The Strangler Fig Pattern",
-          "views": 59,
+          "views": 60,
           "date": "2026-04-29T00:49:39Z",
           "category": "development",
           "tags": [
@@ -45754,7 +46280,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 98,
+          "views": 102,
           "date": "2026-04-26T15:40:42Z",
           "category": "development",
           "tags": [
@@ -46211,7 +46737,7 @@
         {
           "id": "NhYb7QkBdMs",
           "title": "Rusty Object Notation (RON)",
-          "views": 162,
+          "views": 163,
           "date": "2026-04-24T06:12:06Z",
           "category": "development",
           "tags": [
@@ -46287,7 +46813,7 @@
         {
           "id": "pgTCcVO4gfg",
           "title": "The 10k LOC Sweet Spot",
-          "views": 16,
+          "views": 17,
           "date": "2026-04-21T22:18:41Z",
           "category": "development",
           "tags": [
@@ -47553,7 +48079,7 @@
         {
           "id": "QC-vaMcjq3M",
           "title": "zig-lottie: Compiling Motion",
-          "views": 82,
+          "views": 83,
           "date": "2026-04-11T05:33:18Z",
           "category": "development",
           "tags": [
@@ -47760,7 +48286,7 @@
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 276,
+          "views": 282,
           "date": "2026-04-10T13:02:35Z",
           "category": "development",
           "tags": [
@@ -47836,7 +48362,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2824,
+          "views": 2836,
           "date": "2026-04-09T22:17:25Z",
           "category": "development",
           "tags": [
@@ -47979,7 +48505,7 @@
         {
           "id": "am9FvNiJ24M",
           "title": "The 2026 Change Data Capture Blueprint",
-          "views": 31,
+          "views": 32,
           "date": "2026-04-08T22:14:35Z",
           "category": "development",
           "tags": [
@@ -48274,7 +48800,7 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 281,
+          "views": 283,
           "date": "2026-04-05T21:24:52Z",
           "category": "development",
           "tags": [
@@ -48575,7 +49101,7 @@
         {
           "id": "54lO6XE-AeQ",
           "title": "The Zero-Copy Architecture",
-          "views": 4320,
+          "views": 4327,
           "date": "2026-04-03T12:29:02Z",
           "category": "development",
           "tags": [
@@ -49296,7 +49822,7 @@
         {
           "id": "yCJDmGrk8sM",
           "title": "Advancing Go Garbage Collection with Green Tea",
-          "views": 187,
+          "views": 189,
           "date": "2026-03-24T22:59:50Z",
           "category": "development",
           "tags": [
@@ -49682,7 +50208,7 @@
         {
           "id": "wyIhJ3LMnRg",
           "title": "W3C Trace Context",
-          "views": 130,
+          "views": 131,
           "date": "2026-03-21T13:19:14Z",
           "category": "development",
           "tags": [
@@ -49973,7 +50499,7 @@
         {
           "id": "CXtHwJQphLI",
           "title": "Production-Ready RabbitMQ in Go",
-          "views": 101,
+          "views": 103,
           "date": "2026-03-20T03:40:50Z",
           "category": "development",
           "tags": [
@@ -50054,7 +50580,7 @@
         {
           "id": "_zJ3_d1CODg",
           "title": "Bevy-Demo",
-          "views": 172,
+          "views": 173,
           "date": "2026-03-19T00:18:34Z",
           "category": "development",
           "tags": [
@@ -50127,7 +50653,7 @@
         {
           "id": "0HEqwk9UMOc",
           "title": "How to Kill the Code Review",
-          "views": 144,
+          "views": 145,
           "date": "2026-03-18T11:10:57Z",
           "category": "development",
           "tags": [
@@ -50258,7 +50784,7 @@
         {
           "id": "FOkG5ScxU88",
           "title": "Building with Genkit Dart",
-          "views": 68,
+          "views": 69,
           "date": "2026-03-15T19:49:00Z",
           "category": "development",
           "tags": [
@@ -51698,7 +52224,7 @@
         {
           "id": "00kCzR10M1w",
           "title": "The Road to SolidJS 2.0",
-          "views": 312,
+          "views": 315,
           "date": "2026-03-04T00:40:36Z",
           "category": "development",
           "tags": [
@@ -52218,7 +52744,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 150,
+          "views": 154,
           "date": "2026-02-27T12:49:18Z",
           "category": "development",
           "tags": [
@@ -52731,7 +53257,7 @@
         {
           "id": "SpNfrWmI8iE",
           "title": "Architecting Scalable Rust Backends",
-          "views": 78,
+          "views": 80,
           "date": "2026-02-22T10:43:18Z",
           "category": "development",
           "tags": [
@@ -52960,7 +53486,7 @@
         {
           "id": "QBUQvfZJpaM",
           "title": "Modern Cryptography Standards: A Guide to AEAD",
-          "views": 98,
+          "views": 99,
           "date": "2026-02-18T23:24:48Z",
           "category": "development",
           "tags": [
@@ -53166,7 +53692,7 @@
         {
           "id": "kQc99Io3pCo",
           "title": "HelixDB: The Unified Graph-Vector Database",
-          "views": 243,
+          "views": 248,
           "date": "2026-02-14T22:47:13Z",
           "category": "development",
           "tags": [
@@ -53230,7 +53756,7 @@
         {
           "id": "zwVDEAKKPZY",
           "title": "Go 1.26: The Era of Automated Modernization",
-          "views": 941,
+          "views": 950,
           "date": "2026-02-14T09:23:06Z",
           "category": "development",
           "tags": [
@@ -53384,7 +53910,7 @@
         {
           "id": "joYJ6rPN3UI",
           "title": "Burn: The Rust Deep Learning Framework",
-          "views": 697,
+          "views": 708,
           "date": "2026-02-13T15:08:23Z",
           "category": "development",
           "tags": [
@@ -53464,7 +53990,7 @@
         {
           "id": "Qo3oJv4uyBI",
           "title": "High-Performance Go: Inside the 1.26 Release",
-          "views": 214,
+          "views": 215,
           "date": "2026-02-12T13:08:12Z",
           "category": "development",
           "tags": [
@@ -53541,7 +54067,7 @@
         {
           "id": "cEwAbu6FFRo",
           "title": "Compound Engineering",
-          "views": 227,
+          "views": 228,
           "date": "2026-02-11T13:08:01Z",
           "category": "development",
           "tags": [
@@ -53610,7 +54136,7 @@
         {
           "id": "IZX3_9rZeMU",
           "title": "The Hybrid TUI Architecture",
-          "views": 552,
+          "views": 553,
           "date": "2026-02-10T10:11:11Z",
           "category": "development",
           "tags": [
@@ -54050,7 +54576,7 @@
         {
           "id": "TmlqoKqMD2Y",
           "title": "Jujutsu (jj) for Git-compatible Workflow",
-          "views": 325,
+          "views": 329,
           "date": "2026-02-06T00:14:00Z",
           "category": "development",
           "tags": [
@@ -54127,7 +54653,7 @@
         {
           "id": "5st-kLcNrE8",
           "title": "Jujutsu (jj):  An Introduction of its Paradigm Shift",
-          "views": 121,
+          "views": 122,
           "date": "2026-02-06T00:13:53Z",
           "category": "development",
           "tags": [
@@ -54197,7 +54723,7 @@
         {
           "id": "xV2EAL3NAVM",
           "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-          "views": 479,
+          "views": 482,
           "date": "2026-02-02T10:14:00Z",
           "category": "development",
           "tags": [
@@ -54424,7 +54950,7 @@
         {
           "id": "TDWC1fFhn9g",
           "title": "A DeepDive into SIMD & Zig",
-          "views": 86,
+          "views": 87,
           "date": "2026-01-31T19:35:42Z",
           "category": "development",
           "tags": [
@@ -54721,7 +55247,7 @@
         {
           "id": "RDa6WtZmW8E",
           "title": "Mastering Serde in Rust ",
-          "views": 53,
+          "views": 55,
           "date": "2026-01-29T05:20:28Z",
           "category": "development",
           "tags": [
@@ -54795,7 +55321,7 @@
         {
           "id": "gBb1zn-QtY4",
           "title": "The Blue Screen Era",
-          "views": 50,
+          "views": 51,
           "date": "2026-01-29T02:37:33Z",
           "category": "development",
           "tags": [
@@ -55840,7 +56366,7 @@
         {
           "id": "5KB2zLGjaps",
           "title": "Conventional Commits",
-          "views": 25,
+          "views": 26,
           "date": "2026-01-19T10:21:27Z",
           "category": "development",
           "tags": [
@@ -56629,7 +57155,7 @@
         {
           "id": "yOOQNnaOLeM",
           "title": "Zig  Pragmatic Successor to C",
-          "views": 27,
+          "views": 28,
           "date": "2026-01-10T04:21:57Z",
           "category": "development",
           "tags": [
@@ -57798,7 +58324,7 @@
         "development"
       ],
       "videoCount": 20,
-      "totalViews": 752,
+      "totalViews": 757,
       "topTags": [
         {
           "tag": "security",
@@ -58938,7 +59464,7 @@
             {
               "id": "MFiVlaMYmwM",
               "title": "Microsoft Agent Governance Toolkit",
-              "views": 194,
+              "views": 197,
               "date": "2026-05-23T04:44:12Z",
               "category": "security",
               "tags": [
@@ -59017,7 +59543,7 @@
         {
           "id": "7dsz_yUpvqM",
           "title": "The Joy of Cryptography",
-          "views": 5,
+          "views": 6,
           "date": "2026-07-27T23:00:13Z",
           "category": "security",
           "tags": [
@@ -59426,7 +59952,7 @@
         {
           "id": "MFiVlaMYmwM",
           "title": "Microsoft Agent Governance Toolkit",
-          "views": 194,
+          "views": 197,
           "date": "2026-05-23T04:44:12Z",
           "category": "security",
           "tags": [
@@ -60338,7 +60864,7 @@
         {
           "id": "JfGgWiiCTA0",
           "title": "Shannon: Autonomous Penetration Testing",
-          "views": 58,
+          "views": 59,
           "date": "2026-02-14T10:04:10Z",
           "category": "security",
           "tags": [
@@ -61009,7 +61535,7 @@
         {
           "id": "BQ4wab0UtLg",
           "title": "From Louvain to Leiden",
-          "views": 98,
+          "views": 102,
           "date": "2026-04-26T15:40:42Z",
           "category": "development"
         },
@@ -61037,7 +61563,7 @@
         {
           "id": "7ygjuzLkdTE",
           "title": "The Anatomy of a Modern Robot",
-          "views": 49,
+          "views": 50,
           "date": "2026-06-24T23:00:04Z",
           "category": "development"
         },
@@ -61084,18 +61610,25 @@
           "category": "development"
         },
         {
-          "id": "P-QVC5lOMbU",
-          "title": "The Architecture of Insurance Pricing",
-          "views": 32,
-          "date": "2026-06-03T11:00:02Z",
+          "id": "BZm2J9sLEp8",
+          "title": "Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers",
+          "views": 34,
+          "date": "2026-07-29T23:00:04Z",
           "category": "finance"
         },
         {
           "id": "3ONqqMoLy0s",
           "title": "The Architecture of Space and Time",
-          "views": 32,
+          "views": 34,
           "date": "2026-05-26T23:06:34Z",
           "category": "development"
+        },
+        {
+          "id": "P-QVC5lOMbU",
+          "title": "The Architecture of Insurance Pricing",
+          "views": 32,
+          "date": "2026-06-03T11:00:02Z",
+          "category": "finance"
         },
         {
           "id": "lsjfczYFBeQ",
@@ -61105,6 +61638,13 @@
           "category": "development"
         },
         {
+          "id": "9xDzB24tO4I",
+          "title": "The 2026 Enterprise AI Blueprint",
+          "views": 31,
+          "date": "2026-05-21T21:09:53Z",
+          "category": "finance"
+        },
+        {
           "id": "u5hQQZsLBwU",
           "title": "The Anatomy of a Giant",
           "views": 30,
@@ -61112,18 +61652,18 @@
           "category": "finance"
         },
         {
-          "id": "9xDzB24tO4I",
-          "title": "The 2026 Enterprise AI Blueprint",
+          "id": "ZQyL7MT7k60",
+          "title": "Japan's Sovereign Cloud Blueprint",
           "views": 30,
-          "date": "2026-05-21T21:09:53Z",
+          "date": "2026-06-16T22:13:29Z",
           "category": "finance"
         },
         {
-          "id": "ZQyL7MT7k60",
-          "title": "Japan's Sovereign Cloud Blueprint",
+          "id": "lXwe6xeFmAE",
+          "title": "Transcontinental Data Migration",
           "views": 29,
-          "date": "2026-06-16T22:13:29Z",
-          "category": "finance"
+          "date": "2026-07-26T23:00:10Z",
+          "category": "development"
         },
         {
           "id": "8vJLWsfheRE",
@@ -61133,18 +61673,18 @@
           "category": "finance"
         },
         {
+          "id": "JNHxVHyzWdE",
+          "title": "Deconstructing the Bridge",
+          "views": 26,
+          "date": "2026-06-01T10:00:18Z",
+          "category": "development"
+        },
+        {
           "id": "GmUKi-ZPOYU",
           "title": "Cognitive Lenses in Modern Design",
           "views": 25,
           "date": "2026-06-05T11:00:11Z",
           "category": "finance"
-        },
-        {
-          "id": "JNHxVHyzWdE",
-          "title": "Deconstructing the Bridge",
-          "views": 25,
-          "date": "2026-06-01T10:00:18Z",
-          "category": "development"
         },
         {
           "id": "_LrmdP64y6A",
@@ -61196,24 +61736,24 @@
           "category": "finance"
         },
         {
-          "id": "lXwe6xeFmAE",
-          "title": "Transcontinental Data Migration",
-          "views": 15,
-          "date": "2026-07-26T23:00:10Z",
-          "category": "development"
+          "id": "izH8Nzr3DLA",
+          "title": "The Sovereign AI Utility",
+          "views": 13,
+          "date": "2026-07-28T22:39:35Z",
+          "category": "finance"
+        },
+        {
+          "id": "l9UUqD2Bz2E",
+          "title": "The Mystery of the Nickel Coke",
+          "views": 13,
+          "date": "2026-04-10T15:32:57Z",
+          "category": "finance"
         },
         {
           "id": "J4nERLAJIbs",
           "title": "The Mathematics of Survival",
           "views": 12,
           "date": "2026-07-01T23:00:22Z",
-          "category": "finance"
-        },
-        {
-          "id": "l9UUqD2Bz2E",
-          "title": "The Mystery of the Nickel Coke",
-          "views": 12,
-          "date": "2026-04-10T15:32:57Z",
           "category": "finance"
         },
         {
@@ -61245,6 +61785,13 @@
           "category": "finance"
         },
         {
+          "id": "7dsz_yUpvqM",
+          "title": "The Joy of Cryptography",
+          "views": 6,
+          "date": "2026-07-27T23:00:13Z",
+          "category": "security"
+        },
+        {
           "id": "md9nXDH1u7Q",
           "title": "Systematic Momentum Execution",
           "views": 5,
@@ -61252,24 +61799,10 @@
           "category": "finance"
         },
         {
-          "id": "7dsz_yUpvqM",
-          "title": "The Joy of Cryptography",
-          "views": 5,
-          "date": "2026-07-27T23:00:13Z",
-          "category": "security"
-        },
-        {
           "id": "vzwjAlEz_bI",
           "title": "The End of the American Penny",
           "views": 3,
           "date": "2026-04-16T00:01:10Z",
-          "category": "finance"
-        },
-        {
-          "id": "izH8Nzr3DLA",
-          "title": "The Sovereign AI Utility",
-          "views": 2,
-          "date": "2026-07-28T22:39:35Z",
           "category": "finance"
         }
       ]
@@ -61286,7 +61819,7 @@
         {
           "id": "BzvpasWYESU",
           "title": "The LLM Wiki Paradigm",
-          "views": 2824,
+          "views": 2836,
           "date": "2026-04-09T22:17:25Z",
           "category": "development"
         },
@@ -61300,14 +61833,14 @@
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 281,
+          "views": 283,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 276,
+          "views": 282,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
@@ -61328,7 +61861,7 @@
         {
           "id": "0HEqwk9UMOc",
           "title": "How to Kill the Code Review",
-          "views": 144,
+          "views": 145,
           "date": "2026-03-18T11:10:57Z",
           "category": "development"
         },
@@ -61461,14 +61994,14 @@
         {
           "id": "9xDzB24tO4I",
           "title": "The 2026 Enterprise AI Blueprint",
-          "views": 30,
+          "views": 31,
           "date": "2026-05-21T21:09:53Z",
           "category": "finance"
         },
         {
           "id": "ZQyL7MT7k60",
           "title": "Japan's Sovereign Cloud Blueprint",
-          "views": 29,
+          "views": 30,
           "date": "2026-06-16T22:13:29Z",
           "category": "finance"
         },
@@ -61503,7 +62036,7 @@
         {
           "id": "pgTCcVO4gfg",
           "title": "The 10k LOC Sweet Spot",
-          "views": 16,
+          "views": 17,
           "date": "2026-04-21T22:18:41Z",
           "category": "development"
         },
@@ -61652,28 +62185,28 @@
         {
           "id": "jOw6d5zH658",
           "title": "Engineering Al Agent Mastery with Waza",
-          "views": 446,
+          "views": 449,
           "date": "2026-05-09T14:32:47Z",
           "category": "development"
         },
         {
           "id": "fv61JXUCbeo",
           "title": "Stitch Agent Skills",
-          "views": 281,
+          "views": 283,
           "date": "2026-04-05T21:24:52Z",
           "category": "development"
         },
         {
           "id": "TEGFwsAcxK8",
           "title": "Agent Skills for Flutter",
-          "views": 276,
+          "views": 282,
           "date": "2026-04-10T13:02:35Z",
           "category": "development"
         },
         {
           "id": "MFiVlaMYmwM",
           "title": "Microsoft Agent Governance Toolkit",
-          "views": 194,
+          "views": 197,
           "date": "2026-05-23T04:44:12Z",
           "category": "security"
         },
@@ -61708,7 +62241,7 @@
         {
           "id": "JfGgWiiCTA0",
           "title": "Shannon: Autonomous Penetration Testing",
-          "views": 58,
+          "views": 59,
           "date": "2026-02-14T10:04:10Z",
           "category": "security"
         },
@@ -61759,14 +62292,14 @@
         {
           "id": "gPnrk5TNKWg",
           "title": "The Rust Robotics Paradigm",
-          "views": 64,
+          "views": 65,
           "date": "2026-06-27T23:00:21Z",
           "category": "development"
         },
         {
           "id": "7ygjuzLkdTE",
           "title": "The Anatomy of a Modern Robot",
-          "views": 49,
+          "views": 50,
           "date": "2026-06-24T23:00:04Z",
           "category": "development"
         },
@@ -61796,14 +62329,14 @@
         {
           "id": "am9FvNiJ24M",
           "title": "The 2026 Change Data Capture Blueprint",
-          "views": 31,
+          "views": 32,
           "date": "2026-04-08T22:14:35Z",
           "category": "development"
         },
         {
           "id": "9xDzB24tO4I",
           "title": "The 2026 Enterprise AI Blueprint",
-          "views": 30,
+          "views": 31,
           "date": "2026-05-21T21:09:53Z",
           "category": "finance"
         },
@@ -61856,7 +62389,7 @@
         {
           "id": "Wa0EHhhKV8Q",
           "title": "Architecting Action: 10 NotebookLM Prompts",
-          "views": 150,
+          "views": 154,
           "date": "2026-02-27T12:49:18Z",
           "category": "development"
         },
@@ -61965,7 +62498,7 @@
         {
           "id": "mf86g5lXfTg",
           "title": "Clickhouse is Winning the Observability Wars",
-          "views": 18,
+          "views": 20,
           "date": "2026-07-16T23:00:04Z",
           "category": "kubernetes"
         },
@@ -61988,7 +62521,7 @@
         {
           "id": "CXtHwJQphLI",
           "title": "Production-Ready RabbitMQ in Go",
-          "views": 101,
+          "views": 103,
           "date": "2026-03-20T03:40:50Z",
           "category": "development"
         },
@@ -62030,7 +62563,7 @@
         {
           "id": "am9FvNiJ24M",
           "title": "The 2026 Change Data Capture Blueprint",
-          "views": 31,
+          "views": 32,
           "date": "2026-04-08T22:14:35Z",
           "category": "development"
         },
@@ -62051,7 +62584,7 @@
         {
           "id": "6XAbKoeK9JU",
           "title": "RabbitMQ 4.2.8 Plugin Ecosystem",
-          "views": 17,
+          "views": 18,
           "date": "2026-07-08T23:00:34Z",
           "category": "kubernetes"
         },
@@ -62081,7 +62614,7 @@
         {
           "id": "o9x4daXS4Rk",
           "title": "Azure Linux 4.0 and the Al-Native Cloud Era",
-          "views": 25,
+          "views": 26,
           "date": "2026-07-05T23:00:06Z",
           "category": "kubernetes"
         },

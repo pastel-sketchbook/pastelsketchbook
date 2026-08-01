@@ -109,18 +109,18 @@ export function VideoGallery({ items, onVideoSelect, title, description }: Video
                         </div>
                         <div className="space-y-3">
                             <div className="flex justify-between items-start gap-4">
-                                <h4 className="font-bold text-pastel-dark text-[10px] uppercase tracking-widest line-clamp-2 leading-relaxed flex-1">
-                                    {item.title}
+                                <h4 className="font-bold text-pastel-dark text-[10px] uppercase tracking-widest leading-relaxed flex-1 flex items-start gap-1.5">
+                                    <span className="line-clamp-2 flex-1">{item.title}</span>
                                     {item.hasWiki && (
                                         <Link
                                             to="/wiki/video/$id"
                                             params={{ id: item.id }}
                                             onClick={(e) => e.stopPropagation()}
-                                            className="inline-flex items-center align-middle ml-1.5 hover:scale-125 transition-transform"
+                                            className="inline-flex items-center shrink-0 pt-0.5 hover:scale-125 transition-transform"
                                             title="View wiki detail"
                                         >
                                             <svg
-                                                className="w-3.5 h-3.5 text-[#E76F51] align-middle"
+                                                className="w-3.5 h-3.5 text-[#E76F51]"
                                                 fill="none"
                                                 stroke="currentColor"
                                                 strokeWidth="1.5"
