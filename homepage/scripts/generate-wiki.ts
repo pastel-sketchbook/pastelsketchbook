@@ -68,10 +68,15 @@ function loadDetailIds(): Set<string> {
 /**
  * Parse auto-generated detail markdown files from wiki/videos/details/.
  * Returns a map of videoId -> { summary, takeaways, topics }.
+ *
+ * On remote builds (e.g. Vercel, where the project root is homepage/ and the
+ * repo-root wiki/ is not uploaded) the details directory is absent. In that
+ * case reuse the detail entries already committed in public/wiki-bundle.json
+ * instead of regenerating a bundle with empty details.
  */
 function loadVideoDetails(): Map<string, VideoDetail> {
   const details = new Map<string, VideoDetail>()
-  if (!existsSync(WIKI_DETAILS)) return details
+  if (!existsSync(WIKI_DETAILS)) return loadDetailsFromCommittedBundle()
 
   for (const file of readdirSync(WIKI_DETAILS)) {
     if (!file.endsWith('.md')) continue
@@ -100,6 +105,39 @@ function loadVideoDetails(): Map<string, VideoDetail> {
       : []
 
     details.set(id, { summary, takeaways, topics })
+  }
+
+  if (details.size === 0) {
+    const fallback = loadDetailsFromCommittedBundle()
+    if (fallback.size > 0) {
+      console.log(
+        '  wiki/videos/details empty; reusing details from committed public/wiki-bundle.json',
+      )
+      return fallback
+    }
+  }
+  return details
+}
+
+/**
+ * Read per-video details from the existing committed public/wiki-bundle.json,
+ * used when the repo-root wiki/videos/details/ is unavailable during the build.
+ */
+function loadDetailsFromCommittedBundle(): Map<string, VideoDetail> {
+  const details = new Map<string, VideoDetail>()
+  const bundlePath = resolve('public', 'wiki-bundle.json')
+  if (!existsSync(bundlePath)) return details
+  try {
+    const bundle = JSON.parse(readFileSync(bundlePath, 'utf-8')) as {
+      categories: { videos: { id: string; detail?: VideoDetail }[] }[]
+    }
+    for (const category of bundle.categories) {
+      for (const video of category.videos) {
+        if (video.detail) details.set(video.id, video.detail)
+      }
+    }
+  } catch {
+    // Unreadable committed bundle; proceed without fallback details.
   }
   return details
 }
