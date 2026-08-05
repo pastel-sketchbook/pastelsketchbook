@@ -51,6 +51,8 @@ export const VIDEO_CONFIG = {
     't-WvRifOu-E'
   ],
   finance: [
+    'DMfE_eElLAc',
+    'yZLe26ZkBT4',
     'BZm2J9sLEp8',
     'izH8Nzr3DLA',
     'md9nXDH1u7Q',
@@ -94,8 +96,6 @@ export const VIDEO_CONFIG = {
     'MDNRiJN7aEg',
     'nnL78ZVifZU',
     'tPDFgVAp4c4',
-    'yZLe26ZkBT4',
-    'DMfE_eElLAc',
     'mMVWnnAqPQk',
     'QWQcpxHE6E8',
     'Cmnangq7Ndw',
@@ -104,8 +104,10 @@ export const VIDEO_CONFIG = {
     'IfOAA7cOu6o',
     'lEzp0tdrfFc'
   ],
-  kubernetes: ['WI8yUaPon0w', 'W_rZivDmMRY', 'iJnsRUJonzw', 'hs7CiLpLgnY', 'kFzdToXTfn8', '1RqgRdlIO8M', 'XKTtea0xGsA', 'mf86g5lXfTg', '6XAbKoeK9JU', 'o9x4daXS4Rk', 'JrCT7Xu-aGU', '78Sm363xiIw', 'PofJfj6nRuw', 'sZRIbxwHSCo', 'hvkvH7i8NLc', 'LxI5YjCUswI', '9ga0NT3ZohQ', 'u_ooo1WDAc8', 'WrZN5AgpaW4', 'V9tvg6Yg3m4', '4YsX6tYi5x4', '-e7kvcUXxtw', 'eaPXjvB194w', 'quD4pyCwKB4', '2ksi8K7wg3I', 'eZNBXDUc8OQ', 'p9LNSeAt5Zw', 'PMgUhFxrjPc', 'nomIVRSBEG4', 'mGMaqTvWrCc', 'oHdhgeF4wlI', 'a8heWpae5p0', 'KdLQEv3Tiiw', 'WRpjJV4SUKc', '7Dchx829X_M', '7iWL5-0C66s', 'BiYKKVsJROk', 'fMjflPvjaJ8', 'lexZnOlyml0', 'QE51ybyrQDM', 'RLlEbcXO6k8', 'tcrNdx1yH_E', 'n-Yt33ZdEHw', 'nJ10P-fRqZQ', 'to1PClyd0YA', 'LUOX5xkSyi0', 'u60g2nMtVi4', 'F09-7mNt3F4', '1PH7UB24xps', 'Hd767VA7Z-0', 'aiYBPCkvhes', 'Pxh2PcNx9W8', '3hSdKvqPcSE', 'y3WwL48DLYw', 'ORjARjbukhY', 'rk_3xU9OF-k', 'mYClRFIlsFc', '7eoxSgjwYlM', '5Ztm7JNVa8E', 'P_xUJi_qt-Q', 'okVlu1qseI4', 'eI2DXGISpbk', 'MIZ0ATwu7C0', 'rgY4KTMFOMs', 'BsiQrEaF3kU', 'Q4qm1hvVR2A', 'WHonjixQgBY', 'KpSjLQpswW4', '4b-H6ZaoNUE', '_sxPf3tHq3s', '0U-SUJCmKAU', 'VxWyvAO3qb8', 'A4-foXsdQiA', 'C6wLm6NRZW4', 'ctKLD4d146g', 'OnwiaDRj1-k', 'R2zktRqz81U', 'N4nRAfBZ3BE', 'C5HqbzLRYZ0', 'rJTUB-u8U2Y', 'A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q', 'NCL_9PdUCc8', 'fB-YC949wts', 'PVwzHpsrVcc', 'qXg3PQ2kUpI', 'k6zku1bFzAM'],
+  kubernetes: ['WI8yUaPon0w', 'W_rZivDmMRY', 'iJnsRUJonzw', 'hs7CiLpLgnY', 'kFzdToXTfn8', '1RqgRdlIO8M', 'XKTtea0xGsA', 'mf86g5lXfTg', '6XAbKoeK9JU', 'o9x4daXS4Rk', 'JrCT7Xu-aGU', '78Sm363xiIw', 'PofJfj6nRuw', 'sZRIbxwHSCo', 'hvkvH7i8NLc', 'LxI5YjCUswI', '9ga0NT3ZohQ', 'u_ooo1WDAc8', 'WrZN5AgpaW4', 'V9tvg6Yg3m4', '4YsX6tYi5x4', '-e7kvcUXxtw', 'eaPXjvB194w', 'quD4pyCwKB4', '2ksi8K7wg3I', 'eZNBXDUc8OQ', 'p9LNSeAt5Zw', 'PMgUhFxrjPc', 'nomIVRSBEG4', 'mGMaqTvWrCc', 'oHdhgeF4wlI', 'a8heWpae5p0', 'KdLQEv3Tiiw', 'WRpjJV4SUKc', '7Dchx829X_M', '7iWL5-0C66s', 'BiYKKVsJROk', 'fMjflPvjaJ8', 'lexZnOlyml0', 'QE51ybyrQDM', 'RLlEbcXO6k8', 'tcrNdx1yH_E', 'n-Yt33ZdEHw', 'nJ10P-fRqZQ', 'to1PClyd0YA', 'LUOX5xkSyi0', 'u60g2nMtVi4', 'F09-7mNt3F4', '1PH7UB24xps', 'Hd767VA7Z-0', 'aiYBPCkvhes', 'Pxh2PcNx9W8', '3hSdKvqPcSE', 'y3WwL48DLYw', 'ORjARjbukhY', 'rk_3xU9OF-k', 'mYClRFIlsFc', '7eoxSgjwYlM', '5Ztm7JNVa8E', 'P_xUJi_qt-Q', 'okVlu1qseI4', 'eI2DXGISpbk', 'MIZ0ATwu7C0', 'rgY4KTMFOMs', 'BsiQrEaF3kU', 'Q4qm1hvVR2A', 'WHonjixQgBY', 'KpSjLQpswW4', '4b-H6ZaoNUE', '_sxPf3tHq3s', '0U-SUJCmKAU', 'VxWyvAO3qb8', 'A4-foXsdQiA', 'C6wLm6NRZW4', 'ctKLD4d146g', 'OnwiaDRj1-k', 'R2zktRqz81U', 'N4nRAfBZ3BE', 'C5HqbzLRYZ0', 'rJTUB-u8U2Y', 'A7eoKD5m6Ek', 'snRi_JET1bg', '8ycnldvJmuA', 'ftODZr2_V5Q', 'NCL_9PdUCc8', 'fB-YC949wts', 'PVwzHpsrVcc', 'qXg3PQ2kUpI', 'k6zku1bFzAM', 'iVb4Pu8CAHE'],
   development: [
+    '0wth_46Vtmo',
+    'sMo3KnNup34',
     'lXwe6xeFmAE',
     'BCBRMUO54p8',
     '2cuMV05Fang',
@@ -371,11 +373,13 @@ export const VIDEO_CONFIG = {
     'IF5sNQH-01c',
     '2kvYb2pVe5o',
     'TLqdeHlAo3A',
-    'sMo3KnNup34',
     'NuAqkcx6u-U',
-    '0wth_46Vtmo',
     '4T0kEQGA0gU',
-    'TErzICEXwRQ'
+    'TErzICEXwRQ',
+    'bcLlVpevZjw',
+    'nSMpZpj6Jzc',
+    'A6hH4t9MaSQ',
+    'sp6S1kH6EnM'
   ],
   security: [
     '7dsz_yUpvqM',
@@ -398,7 +402,8 @@ export const VIDEO_CONFIG = {
     'Oa3jaLNSZvM',
     '1MPD6MILLcQ',
     'JfGgWiiCTA0',
-    'LGKBWq8g1u4'
+    'LGKBWq8g1u4',
+    'szwFbJVSQ48'
   ],
   programming: [
     'T5FjMjTQCBI',
@@ -429,8 +434,6 @@ export const VIDEO_CONFIG = {
  * Manual IDs may also be added for staged full videos not yet released to the wiki.
  */
 export const HIDDEN_VIDEO_IDS: ReadonlySet<string> = new Set([
-  'yZLe26ZkBT4',
-  'DMfE_eElLAc',
   'mMVWnnAqPQk',
   'QWQcpxHE6E8',
   'Cmnangq7Ndw',
@@ -443,12 +446,16 @@ export const HIDDEN_VIDEO_IDS: ReadonlySet<string> = new Set([
   'PVwzHpsrVcc',
   'qXg3PQ2kUpI',
   'k6zku1bFzAM',
-  'sMo3KnNup34',
+  'iVb4Pu8CAHE',
   'NuAqkcx6u-U',
-  '0wth_46Vtmo',
   '4T0kEQGA0gU',
   'TErzICEXwRQ',
+  'bcLlVpevZjw',
+  'nSMpZpj6Jzc',
+  'A6hH4t9MaSQ',
+  'sp6S1kH6EnM',
   'LGKBWq8g1u4',
+  'szwFbJVSQ48',
   'Qhhnc6xLmSQ',
   'hTEG3TsuUPQ',
   'x_wpEjbNobU',

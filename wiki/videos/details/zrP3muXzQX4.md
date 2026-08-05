@@ -31,7 +31,7 @@ This video introduces REINS, a framework for AI-assisted development that addres
 ## Related Videos
 
 - [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 53 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `ai-assisted` · `development` · `automated`)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 282 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `ai-assisted` · `development` · `agent`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 284 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `ai-assisted` · `development` · `agent`)
 - [Ralph: The Autonomous Vibe Coding Workflow](https://youtu.be/V2LbQqD1lMM) — Development · 34 views · Jan 31, 2026 · [Details](V2LbQqD1lMM.md) (shared: `development` · `context` · `coding`)
 - [Taming the Genie](https://youtu.be/MaP2i4dTiQk) — Development · 16 views · Jan 23, 2026 · [Details](MaP2i4dTiQk.md) (shared: `ai-assisted` · `development` · `coding`)
 - [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 43 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `development` · `framework` · `context`)

@@ -3,7 +3,7 @@ type: category
 category: korea
 tags: [viaje, corea, seul, jeju, ganghwa, sokcho, daejeon, danyang, jinju, yeosu]
 sources: 20
-updated: 2026-08-01
+updated: 2026-08-05
 ---
 
 # Korea
@@ -15,7 +15,7 @@ updated: 2026-08-01
 | Metric | Value |
 |--------|-------|
 | Videos | 20 |
-| Total Views | 245 |
+| Total Views | 246 |
 | Most Recent | May 20, 2026 |
 | Oldest | Dec 26, 2025 |
 ## All Videos
@@ -31,7 +31,7 @@ updated: 2026-08-01
 | 7 | Seúl 2026: Tu Diario de Viaje | 13 | Feb 11, 2026 | [Watch](https://youtu.be/kvdBJSRUchA) | [Wiki](details/kvdBJSRUchA.md) |
 | 8 | Jeju: Un Recuerdo en Tonos Pastel | 13 | Feb 8, 2026 | [Watch](https://youtu.be/rxQvDuohbt8) | [Wiki](details/rxQvDuohbt8.md) |
 | 9 | Ganghwa: Un Viaje en Tonos Pastel | 6 | Feb 6, 2026 | [Watch](https://youtu.be/rwNfzJanPmk) | [Wiki](details/rwNfzJanPmk.md) |
-| 10 | Un Viaje a Sokcho | 17 | Feb 4, 2026 | [Watch](https://youtu.be/QLcNRIHYmj0) | [Wiki](details/QLcNRIHYmj0.md) |
+| 10 | Un Viaje a Sokcho | 18 | Feb 4, 2026 | [Watch](https://youtu.be/QLcNRIHYmj0) | [Wiki](details/QLcNRIHYmj0.md) |
 | 11 | Bocetos de Daejeon | 15 | Feb 3, 2026 | [Watch](https://youtu.be/nxuaOP3C1Ns) | [Wiki](details/nxuaOP3C1Ns.md) |
 | 12 | Hasta pronto, Danyang | 11 | Feb 2, 2026 | [Watch](https://youtu.be/awa_UWXFOao) | [Wiki](details/awa_UWXFOao.md) |
 | 13 | Jinju y Jirisan: el Valor a la Sabiduría | 18 | Jan 4, 2026 | [Watch](https://youtu.be/drVBXipEOAs) | [Wiki](details/drVBXipEOAs.md) |
@@ -52,4 +52,4 @@ updated: 2026-08-01
 - [Finance](finance.md)
 
 ---
-*Auto-generated on Aug 1, 2026. Back to [index](index.md).*
+*Auto-generated on Aug 4, 2026. Back to [index](index.md).*

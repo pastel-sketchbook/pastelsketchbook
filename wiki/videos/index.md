@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 439
-updated: 2026-08-01
+sources: 443
+updated: 2026-08-05
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 439 |
-| Total Views | 35.6K |
+| Total Videos | 443 |
+| Total Views | 35.9K |
 | Categories | 6 |
-| Last Updated | Aug 1, 2026 |
+| Last Updated | Aug 4, 2026 |
 
 ## Categories
 
@@ -24,27 +24,27 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 ### [Korea](korea.md)
 
-Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 20 videos, 245 total views.
+Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 20 videos, 246 total views.
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 43 videos, 966 total views.
+Videos covering personal finance, investing, and economics. 45 videos, 1.0K total views.
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 84 videos, 2.4K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 84 videos, 2.5K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 264 videos, 31.0K total views.
+Videos about software development, tools, workflows, and engineering practices. 266 videos, 31.2K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 20 videos, 757 total views.
+Videos on cybersecurity, application security, and security engineering. 20 videos, 761 total views.
 
 ### [Programming](programming.md)
 
-Videos about programming languages, paradigms, and computer science concepts. 8 videos, 218 total views.
+Videos about programming languages, paradigms, and computer science concepts. 8 videos, 219 total views.
 
 ## Cross-Category Tags
 
@@ -69,4 +69,4 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `db` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Aug 1, 2026. See [wiki index](../index.md).*
+*Auto-generated on Aug 4, 2026. See [wiki index](../index.md).*

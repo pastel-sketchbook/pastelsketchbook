@@ -2,7 +2,7 @@
 type: tag
 tags: [api-abstraction]
 sources: 2
-updated: 2026-08-01
+updated: 2026-08-05
 ---
 
 # api abstraction
@@ -11,8 +11,8 @@ Videos connected by the topic `api abstraction`.
 
 ## Videos
 
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 812 views · Feb 13, 2026 · [Details](../details/cWozmWrqnxs.md)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 816 views · Feb 13, 2026 · [Details](../details/cWozmWrqnxs.md)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 32 views · Feb 16, 2026 · [Details](../details/5Vloo08zQ7o.md)
 
 ---
-*Auto-generated on Aug 1, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 4, 2026. Back to [topic index](index.md).*

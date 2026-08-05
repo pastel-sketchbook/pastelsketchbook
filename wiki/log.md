@@ -530,3 +530,23 @@ Synced 439 videos across 6 categories (korea=20, finance=43, kubernetes=84, deve
 ## [2026-08-01] ingest | Video Transcripts
 
 Exported 1 transcript files (single: BZm2J9sLEp8) to `wiki/raw/transcripts`.
+
+## [2026-08-05] ingest | Video Metadata Sync
+
+Synced 443 videos across 6 categories (korea=20, finance=45, kubernetes=84, development=266, security=20, programming=8).
+
+## [2026-08-05] ingest | Video Transcripts
+
+Exported 1 transcript files (single: sMo3KnNup34) to `wiki/raw/transcripts`.
+
+## [2026-08-05] ingest | Release 4 new full videos (published since Aug 1)
+
+Released the 4 newest full videos from `HIDDEN_VIDEO_IDS` so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- sMo3KnNup34 (The Engine of a Modern Task Runner, development, 2026-08-01)
+- yZLe26ZkBT4 (SOMA: Unifying Parametric Human Body Models, finance, 2026-08-02)
+- DMfE_eElLAc (The California vs. Texas Economic Rivalry, finance, 2026-08-03)
+- 0wth_46Vtmo (Parallel Agents in Zed, development, 2026-08-04)
+
+All are full-length (durationSec 995/857/583/706, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md`, public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: DMfE_eElLAc → Architect's Sketchbook Ch7 (The Architecture of Wealth); sMo3KnNup34 → Internals Companion Ch11 (Go: Concurrency, GC, and Modernization); yZLe26ZkBT4 + 0wth_46Vtmo → Internals Companion Ch12 (The ML Inference Stack).
+
+Bundle: 443 videos, 443 with detail (Missing: 0). zmd reindexed (1106 documents); all 4 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun --cwd homepage run build` passes; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.

@@ -34,7 +34,7 @@ This video dissects the LiteLLM supply chain compromise (PyPI packages 1.82.7 an
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 25 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `security` · `vulnerability`)
 - [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) — Security · 80 views · Mar 31, 2026 · [Details](Zeg8zSOvoyE.md) (shared: `security` · `vulnerability`)
 - [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 61 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `attack` · `security`)
-- [The Joy of Cryptography](https://youtu.be/7dsz_yUpvqM) — Security · 6 views · Jul 27, 2026 · [Details](7dsz_yUpvqM.md) (shared: `attack` · `security`)
+- [The Joy of Cryptography](https://youtu.be/7dsz_yUpvqM) — Security · 7 views · Jul 27, 2026 · [Details](7dsz_yUpvqM.md) (shared: `attack` · `security`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

@@ -10,10 +10,10 @@ summarized: 2026-06-08T23:05:00.000Z
 ## Related Videos
 
 - [2050: The Post-Labor Paradigm](https://youtu.be/ybR0RxXj2_M) — Finance · 11 views · Feb 7, 2026 · [Details](ybR0RxXj2_M.md) (shared: `universal` · `economic`)
-- [The Mystery of the Nickel Coke](https://youtu.be/l9UUqD2Bz2E) — Finance · 13 views · Apr 10, 2026 · [Details](l9UUqD2Bz2E.md) (shared: `index` · `policy`)
+- [The Mystery of the Nickel Coke](https://youtu.be/l9UUqD2Bz2E) — Finance · 14 views · Apr 10, 2026 · [Details](l9UUqD2Bz2E.md) (shared: `index` · `policy`)
 - [The Final 5 Years](https://youtu.be/G-vvSNwm-jE) — Finance · 19 views · Mar 20, 2026 · [Details](G-vvSNwm-jE.md) (shared: `social` · `income`)
+- [The California vs. Texas Economic Rivalry](https://youtu.be/DMfE_eElLAc) — Finance · 13 views · Aug 3, 2026 · [Details](DMfE_eElLAc.md) (shared: `income` · `economic`)
 - [The Three Pillars of Financial Freedom](https://youtu.be/K1O4kHjFJaQ) — Finance · 15 views · Jan 23, 2026 · [Details](K1O4kHjFJaQ.md) (shared: `social`)
-- [Nesting in Global Finance](https://youtu.be/YYVxMSqBqe8) — Finance · 7 views · Apr 12, 2026 · [Details](YYVxMSqBqe8.md) (shared: `global`)
 
 ---
 

@@ -32,7 +32,7 @@ This video introduces Drasi, a change-driven architecture platform that replaces
 
 - [Continuous Flow](https://youtu.be/tcrNdx1yH_E) — Kubernetes · 15 views · Mar 22, 2026 · [Details](tcrNdx1yH_E.md) (shared: `architecture` · `event-driven architecture` · `event-driven`)
 - [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) — Kubernetes · 71 views · Mar 22, 2026 · [Details](QE51ybyrQDM.md) (shared: `architecture` · `event-driven architecture` · `event-driven`)
-- [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 29 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `architecture` · `event-driven` · `data`)
+- [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 30 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `architecture` · `event-driven` · `data`)
 - [The Push Architecture Blueprint](https://youtu.be/oqi_jJl3tAQ) — Development · 46 views · Apr 30, 2026 · [Details](oqi_jJl3tAQ.md) (shared: `architecture` · `event-driven architecture` · `event-driven`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture` · `event-driven architecture` · `event-driven`)
 

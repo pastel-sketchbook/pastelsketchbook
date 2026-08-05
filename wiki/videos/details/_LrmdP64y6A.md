@@ -32,8 +32,8 @@ This video presents a connoisseur's master class on apple varieties, treating po
 - [The Anatomy of a Giant](https://youtu.be/u5hQQZsLBwU) — Finance · 30 views · Jul 6, 2026 · [Details](u5hQQZsLBwU.md) (shared: `genetics`)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 43 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `architecture`)
 - [A global geography of folded dough](https://youtu.be/UorjmtDDRgQ) — Finance · 15 views · May 18, 2026 · [Details](UorjmtDDRgQ.md) (shared: `culinary`)
-- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 34 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `architecture`)
-- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture`)
+- [The California vs. Texas Economic Rivalry](https://youtu.be/DMfE_eElLAc) — Finance · 13 views · Aug 3, 2026 · [Details](DMfE_eElLAc.md) (shared: `architecture`)
+- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 39 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `architecture`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

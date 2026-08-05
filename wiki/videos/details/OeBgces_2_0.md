@@ -33,7 +33,7 @@ A developer's guide to the two special IPv4 addresses 127.0.0.1 and 0.0.0.0, con
 - [Building Dynamic Al Interfaces with GenUl](https://youtu.be/CqBZBJTAo3I) — Development · 125 views · May 31, 2026 · [Details](CqBZBJTAo3I.md) (shared: `binding` · `server`)
 - [Isolating Observability in Go](https://youtu.be/xfOATs8ncLM) — Development · 18 views · Mar 12, 2026 · [Details](xfOATs8ncLM.md) (shared: `server`)
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 60 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `server`)
-- [hTEG3TsuUPQ](https://youtu.be/hTEG3TsuUPQ) — Development · 0 views · Aug 1, 2026 · [Details](hTEG3TsuUPQ.md) (shared: `interface`)
+- [hTEG3TsuUPQ](https://youtu.be/hTEG3TsuUPQ) — Development · 0 views · Aug 4, 2026 · [Details](hTEG3TsuUPQ.md) (shared: `interface`)
 - [RFC 862 and the Echo Protocol](https://youtu.be/ea5lpF3RyzE) — Development · 40 views · Apr 7, 2026 · [Details](ea5lpF3RyzE.md) (shared: `network`)
 
 ---

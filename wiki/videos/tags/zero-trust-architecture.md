@@ -2,7 +2,7 @@
 type: tag
 tags: [zero-trust-architecture]
 sources: 2
-updated: 2026-08-01
+updated: 2026-08-05
 ---
 
 # zero trust architecture
@@ -15,4 +15,4 @@ Videos connected by the topic `zero trust architecture`.
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 21 views · Mar 2, 2026 · [Details](../details/uhXcsWYhdkA.md)
 
 ---
-*Auto-generated on Aug 1, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 4, 2026. Back to [topic index](index.md).*

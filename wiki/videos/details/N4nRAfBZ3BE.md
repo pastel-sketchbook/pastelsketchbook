@@ -33,7 +33,7 @@ This architectural decision guide compares self-managed message brokers (RabbitM
 - [The Two-System Pattern](https://youtu.be/VxWyvAO3qb8) — Kubernetes · 14 views · Jan 15, 2026 · [Details](VxWyvAO3qb8.md) (shared: `azure` · `nats` · `azure event hubs`)
 - [Continuous Flow](https://youtu.be/tcrNdx1yH_E) — Kubernetes · 15 views · Mar 22, 2026 · [Details](tcrNdx1yH_E.md) (shared: `azure` · `azure event hubs` · `event`)
 - [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) — Kubernetes · 18 views · Jan 2, 2026 · [Details](8ycnldvJmuA.md) (shared: `azure kubernetes service` · `azure` · `kubernetes`)
-- [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 29 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `service` · `architecture` · `event-driven design`)
+- [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 30 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `service` · `architecture` · `event-driven design`)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `azure kubernetes service` · `azure` · `kubernetes`)
 
 ---

@@ -32,7 +32,7 @@ This video presents a professional blueprint for consuming change data capture (
 
 - [Continuous Flow](https://youtu.be/tcrNdx1yH_E) — Kubernetes · 15 views · Mar 22, 2026 · [Details](tcrNdx1yH_E.md) (shared: `change data capture` · `change` · `data`)
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 21 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `cdc` · `change data capture` · `change`)
-- [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) — Kubernetes · 75 views · Apr 5, 2026 · [Details](WRpjJV4SUKc.md) (shared: `cdc` · `change data capture` · `change`)
+- [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) — Kubernetes · 76 views · Apr 5, 2026 · [Details](WRpjJV4SUKc.md) (shared: `cdc` · `change data capture` · `change`)
 - [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 32 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `change data capture` · `change` · `data`)
 - [Local Change Data Capture at Scale](https://youtu.be/FIelcuTti-I) — Development · 22 views · May 26, 2026 · [Details](FIelcuTti-I.md) (shared: `change data capture` · `change` · `data`)
 

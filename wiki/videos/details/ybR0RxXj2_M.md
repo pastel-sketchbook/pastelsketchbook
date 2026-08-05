@@ -34,7 +34,7 @@ This video explores the projected transition from a wage-based economy to a hype
 - [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `economy`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 91 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `economy`)
 - [Nationwide Data Coverage & Auto-Filing Feasibility](https://youtu.be/SRwWBbsaQH4) — Finance · 15 views · May 13, 2026 · [Details](SRwWBbsaQH4.md) (shared: `automation`)
-- [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `automation`)
+- [The California vs. Texas Economic Rivalry](https://youtu.be/DMfE_eElLAc) — Finance · 13 views · Aug 3, 2026 · [Details](DMfE_eElLAc.md) (shared: `economic`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

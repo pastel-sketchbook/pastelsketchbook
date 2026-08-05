@@ -34,7 +34,7 @@ This video presents an age-based ETF investment strategy for 2026, organized aro
 - [The Retirement Red Zone](https://youtu.be/KBfVy5-M-5k) — Finance · 15 views · Dec 31, 2025 · [Details](KBfVy5-M-5k.md) (shared: `strategy` · `sequence of returns risk` · `sequence`)
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `strategy` · `retirement planning` · `retirement`)
 - [The 2026  Playbook for High-Yield & Covered Call ETFs](https://youtu.be/s1BoGn9r7oE) — Finance · 2 views · Jan 5, 2026 · [Details](s1BoGn9r7oE.md) (shared: `etf` · `investing` · `active`)
-- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 25 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `strategy` · `investing` · `risk`)
+- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 26 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `strategy` · `investing` · `risk`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

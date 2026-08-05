@@ -32,7 +32,7 @@ This presentation by Diego Casati and Ray Cao introduces agentic platform engine
 
 - [The Orchestrator's Blueprint](https://youtu.be/Oa3jaLNSZvM) — Security · 36 views · Feb 28, 2026 · [Details](Oa3jaLNSZvM.md) (shared: `cognitive load` · `cognitive` · `load`)
 - [Bridging Helm and CUE for Deterministic Value Composition](https://youtu.be/7eoxSgjwYlM) — Kubernetes · 26 views · Feb 19, 2026 · [Details](7eoxSgjwYlM.md) (shared: `platform` · `engineering`)
-- [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 28 views · Feb 19, 2026 · [Details](rk_3xU9OF-k.md) (shared: `platform` · `infrastructure`)
+- [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 29 views · Feb 19, 2026 · [Details](rk_3xU9OF-k.md) (shared: `platform` · `infrastructure`)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) — Kubernetes · 25 views · Feb 21, 2026 · [Details](ORjARjbukhY.md) (shared: `platform` · `engineering`)
 - [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 18 views · Mar 16, 2026 · [Details](to1PClyd0YA.md) (shared: `platform` · `engineering`)
 

@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-08-01
+updated: 2026-08-05
 ---
 
 # Topic Index
@@ -22,6 +22,7 @@ Total topics: 176
 - [repository pattern](repository-pattern.md) (6)
 - [dependency injection](dependency-injection.md) (5)
 - [distributed tracing](distributed-tracing.md) (5)
+- [model context protocol](model-context-protocol.md) (5)
 - [rust](rust.md) (5)
 - [tokio async runtime](tokio-async-runtime.md) (5)
 - [vector search](vector-search.md) (5)
@@ -31,7 +32,6 @@ Total topics: 176
 - [distributed systems](distributed-systems.md) (4)
 - [feature flags](feature-flags.md) (4)
 - [infrastructure as code](infrastructure-as-code.md) (4)
-- [model context protocol](model-context-protocol.md) (4)
 - [opentelemetry](opentelemetry.md) (4)
 - [state management](state-management.md) (4)
 - [systems programming](systems-programming.md) (4)
@@ -189,4 +189,4 @@ Total topics: 176
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Aug 1, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Aug 4, 2026. Back to [videos index](../index.md).*

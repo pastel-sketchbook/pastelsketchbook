@@ -2,7 +2,7 @@
 type: tag
 tags: [rabbitmq]
 sources: 7
-updated: 2026-08-01
+updated: 2026-08-05
 ---
 
 # rabbitmq
@@ -20,4 +20,4 @@ Videos connected by the topic `rabbitmq`.
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](../details/N4nRAfBZ3BE.md)
 
 ---
-*Auto-generated on Aug 1, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 4, 2026. Back to [topic index](index.md).*

@@ -31,7 +31,7 @@ This Spanish-language video is a travel guide through Gyeongju, the millennial c
 ## Related Videos
 
 - [Ganghwa: Un Viaje en Tonos Pastel](https://youtu.be/rwNfzJanPmk) — Korea · 6 views · Feb 6, 2026 · [Details](rwNfzJanPmk.md) (shared: `dynasty` · `korean history` · `korean`)
-- [Un Viaje a Sokcho](https://youtu.be/QLcNRIHYmj0) — Korea · 17 views · Feb 4, 2026 · [Details](QLcNRIHYmj0.md) (shared: `korean history` · `korean` · `history`)
+- [Un Viaje a Sokcho](https://youtu.be/QLcNRIHYmj0) — Korea · 18 views · Feb 4, 2026 · [Details](QLcNRIHYmj0.md) (shared: `korean history` · `korean` · `history`)
 - [Jeju: Un Recuerdo en Tonos Pastel](https://youtu.be/rxQvDuohbt8) — Korea · 13 views · Feb 8, 2026 · [Details](rxQvDuohbt8.md) (shared: `korean` · `unesco` · `heritage`)
 - [Bocetos de Daejeon](https://youtu.be/nxuaOP3C1Ns) — Korea · 15 views · Feb 3, 2026 · [Details](nxuaOP3C1Ns.md) (shared: `korean` · `korean travel` · `travel`)
 - [Jeonju y Gochang: Apuntes de Corea](https://youtu.be/EvcUSPWkOA8) — Korea · 16 views · Jan 4, 2026 · [Details](EvcUSPWkOA8.md) (shared: `dynasty` · `korean` · `heritage`)

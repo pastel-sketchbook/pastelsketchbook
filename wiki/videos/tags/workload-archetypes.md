@@ -2,7 +2,7 @@
 type: tag
 tags: [workload-archetypes]
 sources: 2
-updated: 2026-08-01
+updated: 2026-08-05
 ---
 
 # workload archetypes
@@ -11,8 +11,8 @@ Videos connected by the topic `workload archetypes`.
 
 ## Videos
 
-- [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 28 views · Feb 19, 2026 · [Details](../details/rk_3xU9OF-k.md)
+- [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 29 views · Feb 19, 2026 · [Details](../details/rk_3xU9OF-k.md)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) — Kubernetes · 25 views · Feb 21, 2026 · [Details](../details/ORjARjbukhY.md)
 
 ---
-*Auto-generated on Aug 1, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 4, 2026. Back to [topic index](index.md).*
