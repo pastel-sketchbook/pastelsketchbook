@@ -35,7 +35,7 @@ Jujutsu (JJ) is a Rust-based version control system that functions as a Git-comp
 
 ## Related Videos
 
-- [Jujutsu (jj) for Git-compatible Workflow](https://youtu.be/TmlqoKqMD2Y) — Development · 334 views · Feb 5, 2026 · [Details](TmlqoKqMD2Y.md) (shared: `jujutsu` · `git compatibility` · `git`)
+- [Jujutsu (jj) for Git-compatible Workflow](https://youtu.be/TmlqoKqMD2Y) — Development · 338 views · Feb 5, 2026 · [Details](TmlqoKqMD2Y.md) (shared: `jujutsu` · `git compatibility` · `git`)
 - [Local Change Data Capture at Scale](https://youtu.be/FIelcuTti-I) — Development · 22 views · May 26, 2026 · [Details](FIelcuTti-I.md) (shared: `compatibility` · `change`)
 - [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 32 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `change`)
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 21 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `git`)

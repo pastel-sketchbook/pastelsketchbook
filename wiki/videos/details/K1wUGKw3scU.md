@@ -35,11 +35,11 @@ South Korea's KRW 1,100 trillion (~$880B) national initiative reframes AI hardwa
 
 ## Related Videos
 
-- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 77 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `capacity` · `data` · `center`)
-- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 30 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `strategy` · `data` · `infrastructure`)
-- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 39 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `center` · `infrastructure`)
+- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 78 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `capacity` · `data` · `center`)
+- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 31 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `strategy` · `data` · `infrastructure`)
+- [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 7 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `data` · `center` · `infrastructure`)
+- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 40 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `center` · `infrastructure`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 91 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data` · `center` · `infrastructure`)
-- [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `strategy` · `infrastructure`)
 
 ---
 *Auto-generated on Jun 30, 2026. Back to [finance](../finance.md) · [index](../index.md).*

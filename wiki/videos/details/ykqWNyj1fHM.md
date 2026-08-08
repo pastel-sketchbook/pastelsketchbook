@@ -37,7 +37,7 @@ The Digital Twin Blueprint is an architecture for building high-performance, pho
 ## Related Videos
 
 - [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 10 views · Jun 23, 2026 · [Details](o3ba6XdMQA0.md) (shared: `rendering` · `pipeline` · `binary`)
-- [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) — Development · 31 views · Apr 18, 2026 · [Details](q-6cUColzQQ.md) (shared: `rendering` · `gpu`)
+- [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) — Development · 33 views · Apr 18, 2026 · [Details](q-6cUColzQQ.md) (shared: `rendering` · `gpu`)
 - [The Architecture of a Virtual Voice](https://youtu.be/aQpGQClZSvc) — Development · 18 views · May 27, 2026 · [Details](aQpGQClZSvc.md) (shared: `rendering` · `pipeline`)
 - [SlideVoice Studio CLI Architecture](https://youtu.be/ISLXOiFqC50) — Development · 13 views · Jun 19, 2026 · [Details](ISLXOiFqC50.md) (shared: `pipeline` · `binary`)
 - [Diagnostic Guide to Computer Vision Feature Detection](https://youtu.be/AvysIjFrTEw) — Development · 35 views · May 11, 2026 · [Details](AvysIjFrTEw.md) (shared: `pipeline` · `binary`)

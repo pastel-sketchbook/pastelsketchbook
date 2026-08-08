@@ -35,7 +35,7 @@ This talk lays out a twenty-year roadmap that bridges compiler theory, verifiabl
 
 ## Related Videos
 
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 95 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `optimization` · `engineering` · `memory`)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 99 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `optimization` · `engineering` · `memory`)
 - [Teaching an Ancient Calendar to a Microscopic AI](https://youtu.be/4wX4mGuiTjw) — Development · 9 views · Mar 8, 2026 · [Details](4wX4mGuiTjw.md) (shared: `optimization` · `systems` · `learning`)
 - [Machine Learning Systems](https://youtu.be/fNN88ZXWYKU) — Development · 177 views · Apr 24, 2026 · [Details](fNN88ZXWYKU.md) (shared: `systems` · `engineering` · `gpu`)
 - [The Anatomy of a Modern Robot](https://youtu.be/7ygjuzLkdTE) — Development · 50 views · Jun 24, 2026 · [Details](7ygjuzLkdTE.md) (shared: `llm` · `systems` · `zero-copy`)

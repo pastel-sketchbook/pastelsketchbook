@@ -37,7 +37,7 @@ This video applies clean architecture to Angular using signals, repository contr
 
 - [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 56 views · Apr 27, 2026 · [Details](R3n8UxyD7mc.md) (shared: `clean` · `architecture` · `repository`)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 37 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `architecture` · `angular` · `signals`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 816 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `repository` · `pattern`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 819 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `repository` · `pattern`)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `architecture` · `state` · `repository`)
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `architecture` · `repository` · `pattern`)
 

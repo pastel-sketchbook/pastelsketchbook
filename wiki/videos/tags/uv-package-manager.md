@@ -2,7 +2,7 @@
 type: tag
 tags: [uv-package-manager]
 sources: 2
-updated: 2026-08-05
+updated: 2026-08-08
 ---
 
 # uv package manager
@@ -15,4 +15,4 @@ Videos connected by the topic `uv package manager`.
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 21 views · Mar 14, 2026 · [Details](../details/gu-5cim8mpA.md)
 
 ---
-*Auto-generated on Aug 4, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 7, 2026. Back to [topic index](index.md).*

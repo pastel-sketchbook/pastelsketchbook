@@ -550,3 +550,22 @@ Released the 4 newest full videos from `HIDDEN_VIDEO_IDS` so they appear on the 
 All are full-length (durationSec 995/857/583/706, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md`, public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: DMfE_eElLAc → Architect's Sketchbook Ch7 (The Architecture of Wealth); sMo3KnNup34 → Internals Companion Ch11 (Go: Concurrency, GC, and Modernization); yZLe26ZkBT4 + 0wth_46Vtmo → Internals Companion Ch12 (The ML Inference Stack).
 
 Bundle: 443 videos, 443 with detail (Missing: 0). zmd reindexed (1106 documents); all 4 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun --cwd homepage run build` passes; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
+
+## [2026-08-08] ingest | Video Metadata Sync
+
+Synced 446 videos across 6 categories (korea=20, finance=47, kubernetes=85, development=266, security=20, programming=8).
+
+## [2026-08-08] ingest | Video Transcripts
+
+Exported 1 transcript files (single: mMVWnnAqPQk) to `wiki/raw/transcripts`.
+
+## [2026-08-07] ingest | Release 3 new full videos (published since Aug 5)
+
+Released 3 newest full videos from `HIDDEN_VIDEO_IDS` so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- mMVWnnAqPQk (The Architecture of Artificial Intelligence, finance, 2026-08-05)
+- lEzp0tdrfFc (Kimi K3 Infrastructure Economics, finance, 2026-08-06)
+- fB-YC949wts (Sovereign Intelligence vs Enterprise Integration, kubernetes, 2026-08-07)
+
+All are full-length (durationSec 1051/674/728, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md`, public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: mMVWnnAqPQk → Architect's Sketchbook Ch8 (The 2026 Architectural Standard); fB-YC949wts → Architect's Sketchbook Ch3 (The Enterprise AI Pipeline); lEzp0tdrfFc → Internals Companion Ch12 (The ML Inference Stack).
+
+Bundle: 446 videos, 446 with detail (Missing: 0). zmd reindexed (1112 documents); all 3 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 3 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present). `bun --cwd homepage run build` passes; all 3 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.

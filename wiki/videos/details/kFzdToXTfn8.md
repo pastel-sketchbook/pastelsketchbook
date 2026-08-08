@@ -30,11 +30,11 @@ KAITO is a Kubernetes operator that automates LLM inference, fine-tuning, and re
 
 ## Related Videos
 
-- [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 11 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `kubernetes` · `llm` · `inference`)
+- [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 14 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `kubernetes` · `llm` · `inference`)
+- [Sovereign Intelligence vs Enterprise Integration](https://youtu.be/fB-YC949wts) — Kubernetes · 3 views · Aug 7, 2026 · [Details](fB-YC949wts.md) (shared: `kubernetes` · `inference` · `deployment`)
 - [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) — Kubernetes · 36 views · Apr 14, 2026 · [Details](mGMaqTvWrCc.md) (shared: `deployment` · `model` · `storage`)
-- [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 12 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `kubernetes` · `operator` · `deployment`)
-- [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `kubernetes` · `deployment`)
-- [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `kubernetes` · `storage`)
+- [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 13 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `kubernetes` · `operator` · `deployment`)
+- [Kimi K3 Infrastructure Economics](https://youtu.be/lEzp0tdrfFc) — Finance · 4 views · Aug 6, 2026 · [Details](lEzp0tdrfFc.md) (shared: `llm` · `inference` · `vllm`)
 
 ---
 *Auto-generated on Jul 23, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

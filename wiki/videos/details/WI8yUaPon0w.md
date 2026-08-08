@@ -30,11 +30,11 @@ This talk is an architectural deep-dive into vLLM, the unified open-source servi
 
 ## Related Videos
 
-- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 11 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `llm` · `inference` · `engine`)
+- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 12 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `llm` · `inference` · `engine`)
 - [Kubernetes Services & Istio](https://youtu.be/OnwiaDRj1-k) — Kubernetes · 30 views · Jan 12, 2026 · [Details](OnwiaDRj1-k.md) (shared: `management` · `load` · `balancing`)
-- [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 12 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `serving` · `zero` · `kubernetes`)
-- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 95 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `inference` · `engine` · `cuda`)
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 23 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `management` · `kubernetes`)
+- [Sovereign Intelligence vs Enterprise Integration](https://youtu.be/fB-YC949wts) — Kubernetes · 3 views · Aug 7, 2026 · [Details](fB-YC949wts.md) (shared: `inference` · `cache` · `serving`)
+- [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 13 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `serving` · `zero` · `kubernetes`)
+- [Kimi K3 Infrastructure Economics](https://youtu.be/lEzp0tdrfFc) — Finance · 4 views · Aug 6, 2026 · [Details](lEzp0tdrfFc.md) (shared: `llm` · `inference` · `serving`)
 
 ---
 *Auto-generated on Aug 1, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

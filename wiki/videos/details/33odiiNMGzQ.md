@@ -36,7 +36,7 @@ The Rust SPNEGO Hub is an architectural blueprint for centralized enterprise aut
 
 ## Related Videos
 
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 64 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `tower middleware` · `tower` · `middleware`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 65 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `tower middleware` · `tower` · `middleware`)
 - [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 33 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `authentication` · `jwt`)
 - [Copilot-Backed Code Review Architecture](https://youtu.be/JMk8y25qo2M) — Development · 19 views · Jun 2, 2026 · [Details](JMk8y25qo2M.md) (shared: `tower middleware` · `tower` · `middleware`)
 - [Modern Microservice Trust](https://youtu.be/SeYrpzDTn6A) — Development · 19 views · Jan 13, 2026 · [Details](SeYrpzDTn6A.md) (shared: `authentication` · `jwt`)

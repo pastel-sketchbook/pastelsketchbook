@@ -33,7 +33,7 @@ This talk deconstructs the internal architecture of GoTask, a modern task runner
 - [SlideVoice Studio CLI Architecture](https://youtu.be/ISLXOiFqC50) — Development · 13 views · Jun 19, 2026 · [Details](ISLXOiFqC50.md) (shared: `architecture` · `concurrency` · `semaphore`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `architecture` · `integration`)
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `architecture` · `parsing`)
-- [Bubble Tea v2](https://youtu.be/Hfut9CfJhN0) — Development · 65 views · Mar 2, 2026 · [Details](Hfut9CfJhN0.md) (shared: `bubble` · `tea`)
+- [Bubble Tea v2](https://youtu.be/Hfut9CfJhN0) — Development · 66 views · Mar 2, 2026 · [Details](Hfut9CfJhN0.md) (shared: `bubble` · `tea`)
 - [The Tokio Architecture Blueprint](https://youtu.be/9HUPNhA3OrI) — Development · 57 views · May 15, 2026 · [Details](9HUPNhA3OrI.md) (shared: `task` · `architecture`)
 
 ---

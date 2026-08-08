@@ -31,11 +31,11 @@ This strategic analysis examines the long-term AI capital cycle, forecasting a t
 
 ## Related Videos
 
-- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 77 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `infrastructure`)
+- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 78 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `infrastructure`)
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 8 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `data` · `center` · `infrastructure`)
-- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 39 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `center` · `infrastructure`)
-- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 14 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `capital` · `data` · `infrastructure`)
-- [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `infrastructure` · `economy`)
+- [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 7 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `data` · `center` · `infrastructure`)
+- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 40 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `center` · `infrastructure`)
+- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 16 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `capital` · `data` · `infrastructure`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [finance](../finance.md) · [index](../index.md).*

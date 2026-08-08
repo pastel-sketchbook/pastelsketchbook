@@ -30,7 +30,7 @@ This video walks through building a complete MLOps pipeline on Microsoft Azure, 
 
 ## Related Videos
 
-- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 11 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `storage` · `model` · `deployment`)
+- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 12 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `storage` · `model` · `deployment`)
 - [The Codebase Lifecycle](https://youtu.be/ctKLD4d146g) — Kubernetes · 16 views · Jan 13, 2026 · [Details](ctKLD4d146g.md) (shared: `automated` · `deployment`)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `azure` · `storage`)
 - [A Blueprint for Secure Azure Authentication in Go](https://youtu.be/R2zktRqz81U) — Kubernetes · 18 views · Jan 12, 2026 · [Details](R2zktRqz81U.md) (shared: `azure` · `managed`)

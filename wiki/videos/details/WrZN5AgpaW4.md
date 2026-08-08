@@ -31,8 +31,8 @@ A walkthrough of the Kubernetes monorepo dissects how the control plane (API ser
 ## Related Videos
 
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes` · `control` · `plane`)
-- [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 83 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `control` · `plane`)
-- [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 12 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `kubernetes` · `api` · `kubelet`)
+- [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 84 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `control` · `plane`)
+- [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 13 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `kubernetes` · `api` · `kubelet`)
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) — Kubernetes · 30 views · Mar 16, 2026 · [Details](LUOX5xkSyi0.md) (shared: `language` · `validation`)
 - [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 18 views · Mar 16, 2026 · [Details](to1PClyd0YA.md) (shared: `kubernetes` · `language`)
 

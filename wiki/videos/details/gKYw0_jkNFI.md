@@ -33,7 +33,7 @@ This Korean-language video explores the abacus (soroban/suanpan) as a brain trai
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `training` · `research`)
 - [The 10-Lens Research Analysis Framework](https://youtu.be/NztD5fYpXcg) — Development · 32 views · Mar 7, 2026 · [Details](NztD5fYpXcg.md) (shared: `research`)
 - [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 11 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `history`)
-- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 70 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `cognitive`)
+- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 71 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `cognitive`)
 - [Ganghwa: Un Viaje en Tonos Pastel](https://youtu.be/rwNfzJanPmk) — Korea · 6 views · Feb 6, 2026 · [Details](rwNfzJanPmk.md) (shared: `history`)
 
 ---

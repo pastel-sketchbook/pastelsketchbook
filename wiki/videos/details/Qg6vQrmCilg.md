@@ -35,7 +35,7 @@ This video challenges the conventional reliance on WCAG 2.x contrast ratios and 
 - [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 47 views · Dec 28, 2025 · [Details](IF5sNQH-01c.md) (shared: `design`)
 - [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 83 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `design`)
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 35 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `design`)
-- [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 33 views · Feb 23, 2026 · [Details](ARWkoc3E8uE.md) (shared: `design`)
+- [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 34 views · Feb 23, 2026 · [Details](ARWkoc3E8uE.md) (shared: `design`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

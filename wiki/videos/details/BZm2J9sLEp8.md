@@ -30,11 +30,11 @@ This talk surveys the engineering and architecture of mega-scale AI data centers
 
 ## Related Videos
 
-- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 14 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `data` · `infrastructure` · `behind`)
-- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 77 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `infrastructure`)
+- [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 7 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `data` · `center` · `gigawatt`)
+- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 16 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `data` · `infrastructure` · `behind`)
+- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 78 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `infrastructure`)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 43 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `architecture` · `infrastructure` · `hyperscale`)
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 8 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `data` · `center` · `power`)
-- [The California vs. Texas Economic Rivalry](https://youtu.be/DMfE_eElLAc) — Finance · 13 views · Aug 3, 2026 · [Details](DMfE_eElLAc.md) (shared: `architecture` · `energy` · `grid`)
 
 ---
 *Auto-generated on Aug 1, 2026. Back to [finance](../finance.md) · [index](../index.md).*

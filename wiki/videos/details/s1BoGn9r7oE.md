@@ -32,7 +32,7 @@ This video presents a strategic guide for 2026 high-yield and covered call ETFs,
 
 - [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](EMXUbohWsWs.md) (shared: `etfs` · `active` · `etf`)
 - [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 26 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `management` · `investing`)
-- [The Cash Pump Blueprint](https://youtu.be/Aw8arLm35M8) — Finance · 17 views · Jul 12, 2026 · [Details](Aw8arLm35M8.md) (shared: `covered` · `etf` · `income`)
+- [The Cash Pump Blueprint](https://youtu.be/Aw8arLm35M8) — Finance · 18 views · Jul 12, 2026 · [Details](Aw8arLm35M8.md) (shared: `covered` · `etf` · `income`)
 - [An Ambitious Ascent](https://youtu.be/MDNRiJN7aEg) — Finance · 11 views · Dec 29, 2025 · [Details](MDNRiJN7aEg.md) (shared: `etf` · `management`)
 - [The Strategic Guide to Annuities](https://youtu.be/UGQ-ItKwJNw) — Finance · 38 views · May 28, 2026 · [Details](UGQ-ItKwJNw.md) (shared: `premium` · `income`)
 
