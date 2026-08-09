@@ -569,3 +569,19 @@ Released 3 newest full videos from `HIDDEN_VIDEO_IDS` so they appear on the show
 All are full-length (durationSec 1051/674/728, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md`, public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: mMVWnnAqPQk → Architect's Sketchbook Ch8 (The 2026 Architectural Standard); fB-YC949wts → Architect's Sketchbook Ch3 (The Enterprise AI Pipeline); lEzp0tdrfFc → Internals Companion Ch12 (The ML Inference Stack).
 
 Bundle: 446 videos, 446 with detail (Missing: 0). zmd reindexed (1112 documents); all 3 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 3 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present). `bun --cwd homepage run build` passes; all 3 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
+
+## [2026-08-09] ingest | Video Metadata Sync
+
+Synced 446 videos across 6 categories (korea=20, finance=47, kubernetes=85, development=266, security=20, programming=8).
+
+## [2026-08-09] ingest | Video Transcripts
+
+Exported 1 transcript files (single: Qhhnc6xLmSQ) to `wiki/raw/transcripts`.
+
+## [2026-08-09] ingest | Video Details
+
+Generated 1 video detail pages (single: Qhhnc6xLmSQ).
+
+## [2026-08-09] wiki | Detail Enrichment + Book Sync
+
+Enriched detail for Qhhnc6xLmSQ (Architecting State in Rust) from raw transcript: Summary, Key Takeaways, Topics Covered. Regenerated wiki-bundle.json; public transcript mirror already in sync. Placed in The Internals Companion / Ch6 The Rust Architect's Toolkit. zmd reindexed.

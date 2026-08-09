@@ -30,7 +30,7 @@ This video explains the W3C Trace Context specification, a standardized set of H
 
 ## Related Videos
 
-- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 119 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `context` · `distributed tracing` · `distributed`)
+- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 120 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `context` · `distributed tracing` · `distributed`)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 39 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `distributed tracing` · `distributed` · `tracing`)
 - [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 106 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `distributed tracing` · `distributed` · `tracing`)
 - [Tracing Asynchronous Rust](https://youtu.be/d1MH4nza95g) — Development · 111 views · May 3, 2026 · [Details](d1MH4nza95g.md) (shared: `trace` · `context` · `tracing`)

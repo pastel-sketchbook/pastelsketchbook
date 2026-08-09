@@ -2,7 +2,7 @@
 type: tag
 tags: [macos-development]
 sources: 2
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 # macos development
@@ -15,4 +15,4 @@ Videos connected by the topic `macos development`.
 - [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 15 views · Jan 25, 2026 · [Details](../details/3Fpey_L_XRU.md)
 
 ---
-*Auto-generated on Aug 7, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 9, 2026. Back to [topic index](index.md).*

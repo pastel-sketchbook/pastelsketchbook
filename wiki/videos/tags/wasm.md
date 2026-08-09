@@ -2,7 +2,7 @@
 type: tag
 tags: [wasm]
 sources: 2
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 # wasm
@@ -15,4 +15,4 @@ Videos connected by the topic `wasm`.
 - [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) — Development · 33 views · Apr 18, 2026 · [Details](../details/q-6cUColzQQ.md)
 
 ---
-*Auto-generated on Aug 7, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 9, 2026. Back to [topic index](index.md).*

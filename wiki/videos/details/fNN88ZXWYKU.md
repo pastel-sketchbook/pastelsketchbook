@@ -32,9 +32,9 @@ This talk frames “AI engineering” as a distinct discipline: not just trainin
 ## Related Videos
 
 - [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 91 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `cache` · `quantization` · `hardware`)
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 99 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `engineering` · `cache` · `design`)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 100 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `engineering` · `cache` · `design`)
 - [The Confluent Systems Master Plan](https://youtu.be/J6dRkXZhnIQ) — Development · 68 views · Jul 9, 2026 · [Details](J6dRkXZhnIQ.md) (shared: `engineering` · `systems` · `gpu`)
-- [Kimi K3 Infrastructure Economics](https://youtu.be/lEzp0tdrfFc) — Finance · 4 views · Aug 6, 2026 · [Details](lEzp0tdrfFc.md) (shared: `gpu` · `cluster` · `scaling`)
+- [Kimi K3 Infrastructure Economics](https://youtu.be/lEzp0tdrfFc) — Finance · 8 views · Aug 6, 2026 · [Details](lEzp0tdrfFc.md) (shared: `gpu` · `cluster` · `scaling`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `systems` · `design`)
 
 ---

@@ -39,7 +39,7 @@ This codebase passover deck walks through ten invariants of svs-cli, a headless 
 - [SlideVoice Studio CLI Architecture](https://youtu.be/ISLXOiFqC50) — Development · 13 views · Jun 19, 2026 · [Details](ISLXOiFqC50.md) (shared: `pipeline` · `gemini` · `ffmpeg`)
 - [A Desktop-First Export Strategy for SlideVoice Studio](https://youtu.be/78hLFt3_Gh4) — Development · 32 views · May 29, 2026 · [Details](78hLFt3_Gh4.md) (shared: `pipeline` · `api` · `gemini`)
 - [SlideVoice Studio Swift](https://youtu.be/r1rhrISQXeA) — Development · 40 views · Jun 4, 2026 · [Details](r1rhrISQXeA.md) (shared: `api` · `gemini` · `ffmpeg`)
-- [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 31 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `api` · `slide` · `gemini`)
+- [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 32 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `api` · `slide` · `gemini`)
 
 ---
 *Auto-generated on May 25, 2026. Back to [development](../development.md) · [index](../index.md).*

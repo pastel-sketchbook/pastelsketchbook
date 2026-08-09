@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 # Topic Index
@@ -189,4 +189,4 @@ Total topics: 176
 - [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Aug 7, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Aug 9, 2026. Back to [videos index](../index.md).*

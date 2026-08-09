@@ -37,7 +37,7 @@ SlideVoice Studio Swift is a native macOS/iOS application built with Swift and S
 ## Related Videos
 
 - [A Desktop-First Export Strategy for SlideVoice Studio](https://youtu.be/78hLFt3_Gh4) — Development · 32 views · May 29, 2026 · [Details](78hLFt3_Gh4.md) (shared: `gemini` · `api` · `narration`)
-- [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 31 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `gemini api narration` · `gemini` · `api`)
+- [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 32 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `gemini api narration` · `gemini` · `api`)
 - [SlideVoice Studio CLI Architecture](https://youtu.be/ISLXOiFqC50) — Development · 13 views · Jun 19, 2026 · [Details](ISLXOiFqC50.md) (shared: `gemini` · `tts` · `ffmpeg`)
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 49 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `swift` · `native` · `development`)
 - [svs-cli: 10 Critical Things](https://youtu.be/S3Vc_R-HezY) — Development · 15 views · May 24, 2026 · [Details](S3Vc_R-HezY.md) (shared: `gemini` · `api` · `ffmpeg`)

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-07T23:10:00.000Z",
+  "generatedAt": "2026-08-09T17:18:22.906Z",
   "books": [
     {
       "id": "architects-sketchbook",
       "title": "The Architect's Sketchbook",
       "subtitle": "Platform Design, System Blueprints & the Strategic View",
-      "description": "From Kubernetes cluster architecture to enterprise AI pipelines, this book maps the macro landscape \u2014 the why and where of modern systems. It follows the channel's early arc: broad blueprints that establish the territory before zooming in.",
+      "description": "From Kubernetes cluster architecture to enterprise AI pipelines, this book maps the macro landscape — the why and where of modern systems. It follows the channel's early arc: broad blueprints that establish the territory before zooming in.",
       "chapters": [
         {
           "number": 1,
@@ -34,7 +34,7 @@
         {
           "number": 2,
           "title": "Zero Trust as First Principle",
-          "summary": "Perimeter security died with static IPs. In a world of ephemeral workloads, identity is the new firewall. This chapter traces the shift from network-based trust to workload identity via SPIRE, Cilium at L3/L4, and Istio at L7 \u2014 the gold-standard combination for production Kubernetes.",
+          "summary": "Perimeter security died with static IPs. In a world of ephemeral workloads, identity is the new firewall. This chapter traces the shift from network-based trust to workload identity via SPIRE, Cilium at L3/L4, and Istio at L7 — the gold-standard combination for production Kubernetes.",
           "videoIds": [
             "-e7kvcUXxtw",
             "4b-H6ZaoNUE",
@@ -70,7 +70,7 @@
         {
           "number": 3,
           "title": "The Enterprise AI Pipeline",
-          "summary": "Azure DevOps CI/CD, ACR, AKS, Azure AI Foundry, and Azure Storage form a unified pipeline from code to production AI. This chapter maps the four-layer architecture \u2014 platform, mesh, GitOps, application \u2014 that turns an AI experiment into an enterprise product.",
+          "summary": "Azure DevOps CI/CD, ACR, AKS, Azure AI Foundry, and Azure Storage form a unified pipeline from code to production AI. This chapter maps the four-layer architecture — platform, mesh, GitOps, application — that turns an AI experiment into an enterprise product.",
           "videoIds": [
             "xwEN7oZFvdw",
             "8ycnldvJmuA",
@@ -121,7 +121,7 @@
         {
           "number": 4,
           "title": "The Microservices Communication Playbook",
-          "summary": "Synchronous REST, asynchronous messaging, event-driven CDC \u2014 each communication pattern has a cost curve. This chapter maps when to use gRPC vs. RabbitMQ vs. change data capture, and how Istio's traffic management enables blue-green and canary deployments without application changes.",
+          "summary": "Synchronous REST, asynchronous messaging, event-driven CDC — each communication pattern has a cost curve. This chapter maps when to use gRPC vs. RabbitMQ vs. change data capture, and how Istio's traffic management enables blue-green and canary deployments without application changes.",
           "videoIds": [
             "L9ypC5863yA",
             "N4nRAfBZ3BE",
@@ -146,7 +146,7 @@
         {
           "number": 5,
           "title": "The AKS Networking Deep Dive",
-          "summary": "Azure CNI overlay vs. kubenet, internal vs. external load balancers, ingress controllers vs. service mesh \u2014 AKS networking is a tree of trade-offs. This chapter walks the decision tree from pod IP allocation to edge HTTP/3 termination.",
+          "summary": "Azure CNI overlay vs. kubenet, internal vs. external load balancers, ingress controllers vs. service mesh — AKS networking is a tree of trade-offs. This chapter walks the decision tree from pod IP allocation to edge HTTP/3 termination.",
           "videoIds": [
             "1PH7UB24xps",
             "F09-7mNt3F4",
@@ -194,7 +194,7 @@
         {
           "number": 7,
           "title": "The Architecture of Wealth",
-          "summary": "Before strategy comes psychology. The hedonic treadmill ensures rising income produces no lasting happiness gain \u2014 so wealth building starts with mindset, not spreadsheets. This chapter covers the three pillars (401k, Social Security, IRA), the retirement red zone, and compound interest as life's most underrated force.",
+          "summary": "Before strategy comes psychology. The hedonic treadmill ensures rising income produces no lasting happiness gain — so wealth building starts with mindset, not spreadsheets. This chapter covers the three pillars (401k, Social Security, IRA), the retirement red zone, and compound interest as life's most underrated force.",
           "videoIds": [
             "nfD3KzIriM8",
             "K1O4kHjFJaQ",
@@ -279,7 +279,7 @@
         {
           "number": 9,
           "title": "Observability as Architecture",
-          "summary": "Tracing, metrics, and logs are not afterthoughts \u2014 they are architectural decisions that shape how systems fail and recover. From W3C Trace Context to OpenTelemetry to Go's isolated observability patterns, this chapter treats the observer as a first-class system component.",
+          "summary": "Tracing, metrics, and logs are not afterthoughts — they are architectural decisions that shape how systems fail and recover. From W3C Trace Context to OpenTelemetry to Go's isolated observability patterns, this chapter treats the observer as a first-class system component.",
           "videoIds": [
             "wyIhJ3LMnRg",
             "uqZ-mwxGf2c",
@@ -300,7 +300,7 @@
         {
           "number": 10,
           "title": "Event-Driven Landscapes",
-          "summary": "Change data capture, the push architecture, compensating transactions, and the strangler fig pattern \u2014 event-driven design is not one pattern but a landscape of interlocking decisions. This chapter maps that landscape from Debezium to ScyllaDB CDC to domain event choreography.",
+          "summary": "Change data capture, the push architecture, compensating transactions, and the strangler fig pattern — event-driven design is not one pattern but a landscape of interlocking decisions. This chapter maps that landscape from Debezium to ScyllaDB CDC to domain event choreography.",
           "videoIds": [
             "QE51ybyrQDM",
             "oqi_jJl3tAQ",
@@ -361,12 +361,12 @@
       "id": "internals-companion",
       "title": "The Internals Companion",
       "subtitle": "RFCs, Algorithms, Memory Models & Library Deep-Dives",
-      "description": "From RFC 862 to SIMD intrinsics, this book zooms into the terrain \u2014 the how of the individual pieces. It follows the channel's later arc: specific RFCs, named libraries, algorithms, and language internals that reward close reading.",
+      "description": "From RFC 862 to SIMD intrinsics, this book zooms into the terrain — the how of the individual pieces. It follows the channel's later arc: specific RFCs, named libraries, algorithms, and language internals that reward close reading.",
       "chapters": [
         {
           "number": 1,
           "title": "The RFC Foundation",
-          "summary": "The internet is built on text documents. RFC 862 (Echo), RFC 2119 (requirement keywords), IP, TCP, UDP, DNS, HTTP, TLS \u2014 understanding these specifications transforms a developer from protocol consumer into protocol debugger. This chapter reads the originals.",
+          "summary": "The internet is built on text documents. RFC 862 (Echo), RFC 2119 (requirement keywords), IP, TCP, UDP, DNS, HTTP, TLS — understanding these specifications transforms a developer from protocol consumer into protocol debugger. This chapter reads the originals.",
           "videoIds": [
             "fWuJSwkdH6I",
             "LackTxguXFg",
@@ -486,7 +486,8 @@
             "JMk8y25qo2M",
             "s6wmtsAWvCw",
             "ISLXOiFqC50",
-            "gPnrk5TNKWg"
+            "gPnrk5TNKWg",
+            "Qhhnc6xLmSQ"
           ],
           "tags": [
             "rust",
@@ -532,7 +533,7 @@
         {
           "number": 8,
           "title": "Graph Algorithms: From Louvain to Leiden",
-          "summary": "Louvain (2008) detects communities via modularity optimization but produces disconnected clusters. Leiden adds a refinement phase that guarantees connectivity. GSP-Leiden parallelizes with BFS partitioning for 190-341x speedups on billion-edge graphs \u2014 now standard in single-cell RNA-seq.",
+          "summary": "Louvain (2008) detects communities via modularity optimization but produces disconnected clusters. Leiden adds a refinement phase that guarantees connectivity. GSP-Leiden parallelizes with BFS partitioning for 190-341x speedups on billion-edge graphs — now standard in single-cell RNA-seq.",
           "videoIds": [
             "BQ4wab0UtLg",
             "GERT8PoS9Qk",
@@ -616,7 +617,7 @@
         {
           "number": 12,
           "title": "The ML Inference Stack",
-          "summary": "ONNX provides the universal intermediate representation \u2014 a graph/node/value IR with SSA validation, operator schemas, and version conversion adapters that decouple model creation from hardware execution. Candle compiles Rust-native inference to WASM for serverless cold starts. Burn layers a tensor abstraction over pluggable backends. This chapter traces a model from training framework through ONNX IR to optimized hardware execution.",
+          "summary": "ONNX provides the universal intermediate representation — a graph/node/value IR with SSA validation, operator schemas, and version conversion adapters that decouple model creation from hardware execution. Candle compiles Rust-native inference to WASM for serverless cold starts. Burn layers a tensor abstraction over pluggable backends. This chapter traces a model from training framework through ONNX IR to optimized hardware execution.",
           "videoIds": [
             "OKXt-PJUuzE",
             "KXx_6BhzOFE",
@@ -663,7 +664,7 @@
         {
           "number": 13,
           "title": "The Database Internals Tour",
-          "summary": "BadgerDB's LSM-tree Go-native store, ScyllaDB's shared-nothing architecture, HelixDB's unified graph-vector model, DuckDB's in-process analytics. This chapter visits four databases that each made a radical architectural bet \u2014 and examines why each bet was correct for its niche.",
+          "summary": "BadgerDB's LSM-tree Go-native store, ScyllaDB's shared-nothing architecture, HelixDB's unified graph-vector model, DuckDB's in-process analytics. This chapter visits four databases that each made a radical architectural bet — and examines why each bet was correct for its niche.",
           "videoIds": [
             "eI2DXGISpbk",
             "mYClRFIlsFc",
@@ -730,7 +731,7 @@
         {
           "number": 15,
           "title": "The Flutter/Dart Internals",
-          "summary": "Dio structures the HTTP client as concentric layers \u2014 global core, interceptor ring, and pluggable adapters. Riverpod organizes state into four cooperating layers around a ProviderContainer. Genkit Dart brings type-safe AI flows to the full Dart stack. Agent skills automate testing, diagnostics, and scaffolding. This chapter deep-dives the libraries and tooling that define Flutter's ecosystem.",
+          "summary": "Dio structures the HTTP client as concentric layers — global core, interceptor ring, and pluggable adapters. Riverpod organizes state into four cooperating layers around a ProviderContainer. Genkit Dart brings type-safe AI flows to the full Dart stack. Agent skills automate testing, diagnostics, and scaffolding. This chapter deep-dives the libraries and tooling that define Flutter's ecosystem.",
           "videoIds": [
             "BhzeYd4aqOQ",
             "Gy-ky1pAF0U",
@@ -757,7 +758,7 @@
         {
           "number": 16,
           "title": "Cryptography Engineering",
-          "summary": "Cryptography is won in the implementation details. AEAD constructions bind confidentiality to integrity, the Tink library encodes misuse-resistant defaults so engineers can't pick the wrong primitive, and password hashing is a deliberate arms race \u2014 memory-hard KDFs like Argon2id versus GPU and ASIC parallelism. This chapter covers the standards and algorithm choices behind credential and data protection.",
+          "summary": "Cryptography is won in the implementation details. AEAD constructions bind confidentiality to integrity, the Tink library encodes misuse-resistant defaults so engineers can't pick the wrong primitive, and password hashing is a deliberate arms race — memory-hard KDFs like Argon2id versus GPU and ASIC parallelism. This chapter covers the standards and algorithm choices behind credential and data protection.",
           "videoIds": [
             "QBUQvfZJpaM",
             "H-gkXATx8r0",

@@ -30,7 +30,7 @@ This talk is a tour of provable security from Mike Rosulek's open-access textboo
 
 ## Related Videos
 
-- [The 25519 Cryptographic Family](https://youtu.be/MzdV5hjPdsI) — Security · 18 views · Jun 28, 2026 · [Details](MzdV5hjPdsI.md) (shared: `time` · `key` · `exchange`)
+- [The 25519 Cryptographic Family](https://youtu.be/MzdV5hjPdsI) — Security · 17 views · Jun 28, 2026 · [Details](MzdV5hjPdsI.md) (shared: `time` · `key` · `exchange`)
 - [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 59 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security` · `proof`)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 22 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `security` · `zero`)
 - [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 61 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `security` · `attack`)

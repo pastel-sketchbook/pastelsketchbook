@@ -3,7 +3,7 @@ type: category
 category: kubernetes
 tags: [aks, kubernetes, istio, k8s, azure, rabbitmq, aws, cue, operator, workload]
 sources: 85
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 # Kubernetes
@@ -49,8 +49,8 @@ updated: 2026-08-08
 
 ### AI & ML (12 videos)
 
-- [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) -- 14 views, Jul 31, 2026 · [Details](details/WI8yUaPon0w.md)
-- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) -- 12 views, Jul 21, 2026 · [Details](details/kFzdToXTfn8.md)
+- [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) -- 15 views, Jul 31, 2026 · [Details](details/WI8yUaPon0w.md)
+- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) -- 13 views, Jul 21, 2026 · [Details](details/kFzdToXTfn8.md)
 - [Architecting Al at Global Scale](https://youtu.be/PofJfj6nRuw) -- 5 views, Jun 11, 2026 · [Details](details/PofJfj6nRuw.md)
 - [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) -- 13 views, May 22, 2026 · [Details](details/9ga0NT3ZohQ.md)
 - [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) -- 68 views, Apr 25, 2026 · [Details](details/quD4pyCwKB4.md)
@@ -109,7 +109,7 @@ updated: 2026-08-08
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 76 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) -- 18 views, Mar 13, 2026 · [Details](details/u60g2nMtVi4.md)
 - [ScyllaDB: The Next-Generation NoSQL Platform](https://youtu.be/mYClRFIlsFc) -- 13 views, Feb 19, 2026 · [Details](details/mYClRFIlsFc.md)
-- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 75 views, Feb 12, 2026 · [Details](details/eI2DXGISpbk.md)
+- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 76 views, Feb 12, 2026 · [Details](details/eI2DXGISpbk.md)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) -- 27 views, Feb 10, 2026 · [Details](details/MIZ0ATwu7C0.md)
 - [MotherDuck: Serverless DuckDB in the Cloud & Client](https://youtu.be/BsiQrEaF3kU) -- 28 views, Feb 4, 2026 · [Details](details/BsiQrEaF3kU.md)
 - [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) -- 21 views, Jan 31, 2026 · [Details](details/Q4qm1hvVR2A.md)
@@ -123,7 +123,7 @@ updated: 2026-08-08
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) -- 76 views, Apr 17, 2026 · [Details](details/nomIVRSBEG4.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) -- 23 views, Apr 1, 2026 · [Details](details/BiYKKVsJROk.md)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) -- 25 views, Feb 21, 2026 · [Details](details/ORjARjbukhY.md)
-- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 75 views, Feb 12, 2026 · [Details](details/eI2DXGISpbk.md)
+- [BadgerDB: The Go-Native Key-Value Store](https://youtu.be/eI2DXGISpbk) -- 76 views, Feb 12, 2026 · [Details](details/eI2DXGISpbk.md)
 - [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) -- 21 views, Jan 31, 2026 · [Details](details/Q4qm1hvVR2A.md)
 - [A Blueprint for Secure Azure Authentication in Go](https://youtu.be/R2zktRqz81U) -- 18 views, Jan 12, 2026 · [Details](details/R2zktRqz81U.md)
 
@@ -186,17 +186,17 @@ updated: 2026-08-08
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Sovereign Intelligence vs Enterprise Integration | 3 | Aug 7, 2026 | [Watch](https://youtu.be/fB-YC949wts) | [Wiki](details/fB-YC949wts.md) |
-| 2 | Architecting LLM Inference at Scale | 14 | Jul 31, 2026 | [Watch](https://youtu.be/WI8yUaPon0w) | [Wiki](details/WI8yUaPon0w.md) |
+| 1 | Sovereign Intelligence vs Enterprise Integration | 6 | Aug 7, 2026 | [Watch](https://youtu.be/fB-YC949wts) | [Wiki](details/fB-YC949wts.md) |
+| 2 | Architecting LLM Inference at Scale | 15 | Jul 31, 2026 | [Watch](https://youtu.be/WI8yUaPon0w) | [Wiki](details/WI8yUaPon0w.md) |
 | 3 | Orchestrating Distributed Al on Kubernetes | 13 | Jul 30, 2026 | [Watch](https://youtu.be/W_rZivDmMRY) | [Wiki](details/W_rZivDmMRY.md) |
 | 4 | The Internal Developer Platform Blueprint | 76 | Jul 25, 2026 | [Watch](https://youtu.be/iJnsRUJonzw) | [Wiki](details/iJnsRUJonzw.md) |
 | 5 | Deploying Istio Service Mesh on AWS | 2 | Jul 23, 2026 | [Watch](https://youtu.be/hs7CiLpLgnY) | [Wiki](details/hs7CiLpLgnY.md) |
-| 6 | KAITO: The Kubernetes Al Toolchain Operator | 12 | Jul 21, 2026 | [Watch](https://youtu.be/kFzdToXTfn8) | [Wiki](details/kFzdToXTfn8.md) |
+| 6 | KAITO: The Kubernetes Al Toolchain Operator | 13 | Jul 21, 2026 | [Watch](https://youtu.be/kFzdToXTfn8) | [Wiki](details/kFzdToXTfn8.md) |
 | 7 | Architecting the Modern Cloud Network | 16 | Jul 19, 2026 | [Watch](https://youtu.be/1RqgRdlIO8M) | [Wiki](details/1RqgRdlIO8M.md) |
-| 8 | Mastering Batch Workload Orchestration on Kubernetes | 21 | Jul 17, 2026 | [Watch](https://youtu.be/XKTtea0xGsA) | [Wiki](details/XKTtea0xGsA.md) |
-| 9 | Clickhouse is Winning the Observability Wars | 22 | Jul 16, 2026 | [Watch](https://youtu.be/mf86g5lXfTg) | [Wiki](details/mf86g5lXfTg.md) |
+| 8 | Mastering Batch Workload Orchestration on Kubernetes | 22 | Jul 17, 2026 | [Watch](https://youtu.be/XKTtea0xGsA) | [Wiki](details/XKTtea0xGsA.md) |
+| 9 | Clickhouse is Winning the Observability Wars | 23 | Jul 16, 2026 | [Watch](https://youtu.be/mf86g5lXfTg) | [Wiki](details/mf86g5lXfTg.md) |
 | 10 | RabbitMQ 4.2.8 Plugin Ecosystem | 18 | Jul 8, 2026 | [Watch](https://youtu.be/6XAbKoeK9JU) | [Wiki](details/6XAbKoeK9JU.md) |
-| 11 | Azure Linux 4.0 and the Al-Native Cloud Era | 28 | Jul 5, 2026 | [Watch](https://youtu.be/o9x4daXS4Rk) | [Wiki](details/o9x4daXS4Rk.md) |
+| 11 | Azure Linux 4.0 and the Al-Native Cloud Era | 29 | Jul 5, 2026 | [Watch](https://youtu.be/o9x4daXS4Rk) | [Wiki](details/o9x4daXS4Rk.md) |
 | 12 | Architecting Enterprise Secret Management in Rust | 18 | Jun 25, 2026 | [Watch](https://youtu.be/JrCT7Xu-aGU) | [Wiki](details/JrCT7Xu-aGU.md) |
 | 13 | AWS Database Selection Blueprint | 13 | Jun 12, 2026 | [Watch](https://youtu.be/78Sm363xiIw) | [Wiki](details/78Sm363xiIw.md) |
 | 14 | Architecting Al at Global Scale | 5 | Jun 11, 2026 | [Watch](https://youtu.be/PofJfj6nRuw) | [Wiki](details/PofJfj6nRuw.md) |
@@ -248,7 +248,7 @@ updated: 2026-08-08
 | 60 | Drasi: The Future of Change-Driven Architecture | 53 | Feb 17, 2026 | [Watch](https://youtu.be/5Ztm7JNVa8E) | [Wiki](details/5Ztm7JNVa8E.md) |
 | 61 | Advanced Architectural Synthesis | 30 | Feb 15, 2026 | [Watch](https://youtu.be/P_xUJi_qt-Q) | [Wiki](details/P_xUJi_qt-Q.md) |
 | 62 | Beyond Static Configuration | 25 | Feb 15, 2026 | [Watch](https://youtu.be/okVlu1qseI4) | [Wiki](details/okVlu1qseI4.md) |
-| 63 | BadgerDB: The Go-Native Key-Value Store | 75 | Feb 12, 2026 | [Watch](https://youtu.be/eI2DXGISpbk) | [Wiki](details/eI2DXGISpbk.md) |
+| 63 | BadgerDB: The Go-Native Key-Value Store | 76 | Feb 12, 2026 | [Watch](https://youtu.be/eI2DXGISpbk) | [Wiki](details/eI2DXGISpbk.md) |
 | 64 | Architecting Meilisearch on AKS & Istio | 27 | Feb 10, 2026 | [Watch](https://youtu.be/MIZ0ATwu7C0) | [Wiki](details/MIZ0ATwu7C0.md) |
 | 65 | Secure Web App with Azure AD/OAuth2 Proxy | 74 | Feb 5, 2026 | [Watch](https://youtu.be/rgY4KTMFOMs) | [Wiki](details/rgY4KTMFOMs.md) |
 | 66 | MotherDuck: Serverless DuckDB in the Cloud & Client | 28 | Feb 4, 2026 | [Watch](https://youtu.be/BsiQrEaF3kU) | [Wiki](details/BsiQrEaF3kU.md) |
@@ -279,9 +279,9 @@ updated: 2026-08-08
 ## See Also
 
 - [Security](security.md) -- shared tags: `curiosity`, `ai`, `zero trust`, `shift left`, `agent`, `aws`, `azure`, `secret`, `orchestration`, `governance`, `security`
-- [Development](development.md) -- shared tags: `curiosity`, `ai`, `zero trust`, `shift left`, `agent`, `observability`, `rabbitmq`, `db`, `polyglot`, `copilot`, `messaging`, `cloud native`, `rust`, `go`, `internal`, `cost`, `skill`, `cloud`, `scylladb`, `cdc`, `java`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `quic`, `engineering`, `migration`, `identity`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `nats`, `sdk`
+- [Development](development.md) -- shared tags: `curiosity`, `ai`, `zero trust`, `rust`, `shift left`, `agent`, `observability`, `rabbitmq`, `db`, `polyglot`, `copilot`, `messaging`, `cloud native`, `go`, `internal`, `cost`, `skill`, `cloud`, `scylladb`, `cdc`, `java`, `pipeline`, `tigerbeetle`, `debezium`, `hybrid`, `quic`, `engineering`, `migration`, `identity`, `oidc`, `kubernetes`, `features`, `duckdb`, `python`, `tui`, `c++`, `composition`, `cqrs`, `melisearch`, `performance`, `modern`, `mtls`, `nats`, `sdk`
 - [Finance](finance.md) -- shared tags: `curiosity`, `ai`
-- [Programming](programming.md) -- shared tags: `vercel`
+- [Programming](programming.md) -- shared tags: `rust`, `vercel`
 
 ---
-*Auto-generated on Aug 7, 2026. Back to [index](index.md).*
+*Auto-generated on Aug 9, 2026. Back to [index](index.md).*

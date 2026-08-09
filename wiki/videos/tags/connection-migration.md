@@ -2,7 +2,7 @@
 type: tag
 tags: [connection-migration]
 sources: 2
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 # connection migration
@@ -15,4 +15,4 @@ Videos connected by the topic `connection migration`.
 - [Architecting the edge for HTTP/3 and QUIC](https://youtu.be/7Dchx829X_M) — Kubernetes · 93 views · Apr 4, 2026 · [Details](../details/7Dchx829X_M.md)
 
 ---
-*Auto-generated on Aug 7, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 9, 2026. Back to [topic index](index.md).*

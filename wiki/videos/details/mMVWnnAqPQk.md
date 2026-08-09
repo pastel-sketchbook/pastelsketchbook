@@ -34,7 +34,7 @@ This talk dissects the physical infrastructure economy behind modern AI, reframi
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 8 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `data` · `center` · `infrastructure`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 78 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `infrastructure`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 91 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data` · `center` · `infrastructure`)
-- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 31 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `data` · `infrastructure`)
+- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 32 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `data` · `infrastructure`)
 
 ---
 *Auto-generated on Aug 7, 2026. Back to [finance](../finance.md) · [index](../index.md).*

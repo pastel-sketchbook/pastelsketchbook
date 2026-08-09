@@ -30,7 +30,7 @@ This presentation showcases how Zig achieves zero-cost abstractions through comp
 
 ## Related Videos
 
-- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 484 views · Feb 2, 2026 · [Details](xV2EAL3NAVM.md) (shared: `zig` · `comptime` · `explicit allocators`)
+- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 485 views · Feb 2, 2026 · [Details](xV2EAL3NAVM.md) (shared: `zig` · `comptime` · `explicit allocators`)
 - [zig-duckdb-ext](https://youtu.be/ymYtSum-2qc) — Development · 65 views · Mar 24, 2026 · [Details](ymYtSum-2qc.md) (shared: `zig` · `comptime` · `zero-cost`)
 - [A DeepDive into SIMD & Zig](https://youtu.be/TDWC1fFhn9g) — Development · 88 views · Jan 31, 2026 · [Details](TDWC1fFhn9g.md) (shared: `zig` · `simd` · `optimization`)
 - [High-Performance Compute Meets Developer Ergonomics](https://youtu.be/Z_TABCzmoQ0) — Development · 91 views · Jun 15, 2026 · [Details](Z_TABCzmoQ0.md) (shared: `comptime` · `zero-cost` · `simd`)

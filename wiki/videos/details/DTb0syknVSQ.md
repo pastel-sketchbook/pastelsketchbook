@@ -44,7 +44,7 @@ Welcome  everyone.  Today,  we're  diving into  an  exciting  topic:  how  to sy
 
 ## Related Videos
 
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 750 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `code` · `generation`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 752 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `code` · `generation`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 28 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `programming` · `macros`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `rust` · `programming` · `design`)
 - [The End of the Functional Programming Tax](https://youtu.be/240fOdSvnpk) — Development · 74 views · Jun 14, 2026 · [Details](240fOdSvnpk.md) (shared: `code` · `generation` · `functional`)

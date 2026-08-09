@@ -55,7 +55,7 @@
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.4",
     "@types/three": "^0.185.4",
-    "@vercel/node": "^5.9.6",
+    "@vercel/node": "^5.9.7",
     "@vitejs/plugin-react": "^6.0.5",
     "@vitest/coverage-v8": "^4.1.10",
     "daisyui": "^5.7.16",
@@ -63,7 +63,7 @@
     "postcss": "^8.5.26",
     "tailwindcss": "^4.3.3",
     "typescript": "^5.9.3",
-    "vercel": "^58.8.0",
+    "vercel": "^58.9.0",
     "vite": "^8.2.1",
     "vitest": "^4.1.10"
   },

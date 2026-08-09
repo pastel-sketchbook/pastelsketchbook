@@ -44,7 +44,7 @@ Welcome.  Today  we  are  going  to  explore the  architecture  of  systemic  de
 
 ## Related Videos
 
-- [Clean Architecture in Angular](https://youtu.be/RJGNh8L-8rw) — Development · 50 views · Jun 23, 2026 · [Details](RJGNh8L-8rw.md) (shared: `dependency inversion principle` · `dependency` · `inversion`)
+- [Clean Architecture in Angular](https://youtu.be/RJGNh8L-8rw) — Development · 51 views · Jun 23, 2026 · [Details](RJGNh8L-8rw.md) (shared: `dependency inversion principle` · `dependency` · `inversion`)
 - [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 819 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `dependency` · `architecture` · `dependency injection`)
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 48 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `dependency` · `architecture` · `dependency injection`)
 - [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 80 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `dependency` · `architecture` · `dependency injection`)

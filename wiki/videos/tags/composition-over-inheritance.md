@@ -2,7 +2,7 @@
 type: tag
 tags: [composition-over-inheritance]
 sources: 3
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 # composition over inheritance
@@ -16,4 +16,4 @@ Videos connected by the topic `composition over inheritance`.
 - [Flattening the Hierarchy](https://youtu.be/RvgI3oEThcA) — Development · 18 views · Jul 13, 2026 · [Details](../details/RvgI3oEThcA.md)
 
 ---
-*Auto-generated on Aug 7, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 9, 2026. Back to [topic index](index.md).*

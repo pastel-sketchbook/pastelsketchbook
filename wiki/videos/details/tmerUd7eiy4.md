@@ -30,7 +30,7 @@ This video explores how to craft a personalized terminal environment by moving b
 
 ## Related Videos
 
-- [The Performance Paradigm](https://youtu.be/2cuMV05Fang) — Development · 33 views · Jul 20, 2026 · [Details](2cuMV05Fang.md) (shared: `zsh` · `shell` · `startup`)
+- [The Performance Paradigm](https://youtu.be/2cuMV05Fang) — Development · 32 views · Jul 20, 2026 · [Details](2cuMV05Fang.md) (shared: `zsh` · `shell` · `startup`)
 - [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 19 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `terminal` · `shell`)
 - [Hangul + WASM](https://youtu.be/9yov-ZVv-Bo) — Development · 43 views · Jan 19, 2026 · [Details](9yov-ZVv-Bo.md) (shared: `performance`)
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 35 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `terminal`)

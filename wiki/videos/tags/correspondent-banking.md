@@ -2,7 +2,7 @@
 type: tag
 tags: [correspondent-banking]
 sources: 2
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 # correspondent banking
@@ -15,4 +15,4 @@ Videos connected by the topic `correspondent banking`.
 - [Nesting in Global Finance](https://youtu.be/YYVxMSqBqe8) — Finance · 7 views · Apr 12, 2026 · [Details](../details/YYVxMSqBqe8.md)
 
 ---
-*Auto-generated on Aug 7, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 9, 2026. Back to [topic index](index.md).*

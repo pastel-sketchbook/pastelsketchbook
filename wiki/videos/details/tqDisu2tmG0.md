@@ -31,7 +31,7 @@ This video traces the evolution of AI agents from abstract concept to practical 
 ## Related Videos
 
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `agents` · `autonomous` · `automation`)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 287 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `agent` · `development` · `automation`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 289 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `agent` · `development` · `automation`)
 - [The 2026 State of Al Agents](https://youtu.be/BAxPZdgmgRQ) — Development · 4 views · Jan 8, 2026 · [Details](BAxPZdgmgRQ.md) (shared: `ai agents` · `agents`)
 - [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 24 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `autonomous` · `automation`)
 - [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 37 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `agents` · `autonomous`)

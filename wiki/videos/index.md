@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 446
-updated: 2026-08-08
+sources: 447
+updated: 2026-08-09
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 446 |
-| Total Views | 36.1K |
+| Total Videos | 447 |
+| Total Views | 36.2K |
 | Categories | 6 |
-| Last Updated | Aug 7, 2026 |
+| Last Updated | Aug 9, 2026 |
 
 ## Categories
 
@@ -40,11 +40,11 @@ Videos about software development, tools, workflows, and engineering practices. 
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 20 videos, 774 total views.
+Videos on cybersecurity, application security, and security engineering. 20 videos, 776 total views.
 
 ### [Programming](programming.md)
 
-Videos about programming languages, paradigms, and computer science concepts. 8 videos, 219 total views.
+Videos about programming languages, paradigms, and computer science concepts. 9 videos, 224 total views.
 
 ## Cross-Category Tags
 
@@ -55,6 +55,7 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `curiosity` | [Finance](finance.md), [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `ai` | [Finance](finance.md), [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `zero trust` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
+| `rust` | [Kubernetes](kubernetes.md), [Development](development.md), [Programming](programming.md) |
 | `shift left` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `agent` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `robotics` | [Finance](finance.md), [Development](development.md) |
@@ -66,7 +67,6 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `rabbitmq` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `azure` | [Kubernetes](kubernetes.md), [Security](security.md) |
 | `secret` | [Kubernetes](kubernetes.md), [Security](security.md) |
-| `db` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Aug 7, 2026. See [wiki index](../index.md).*
+*Auto-generated on Aug 9, 2026. See [wiki index](../index.md).*

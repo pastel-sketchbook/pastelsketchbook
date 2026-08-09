@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, ai, aidc, robotics, sovereign, 2026, mandu, levy, property tax, orbital]
 sources: 47
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 # Finance
@@ -23,7 +23,7 @@ updated: 2026-08-08
 
 ### Architecture (8 videos)
 
-- [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) -- 7 views, Aug 5, 2026 · [Details](details/mMVWnnAqPQk.md)
+- [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) -- 8 views, Aug 5, 2026 · [Details](details/mMVWnnAqPQk.md)
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) -- 40 views, Jul 29, 2026 · [Details](details/BZm2J9sLEp8.md)
 - [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) -- 28 views, Jun 7, 2026 · [Details](details/8vJLWsfheRE.md)
 - [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) -- 32 views, Jun 3, 2026 · [Details](details/P-QVC5lOMbU.md)
@@ -34,10 +34,10 @@ updated: 2026-08-08
 
 ### AI & ML (7 videos)
 
-- [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) -- 7 views, Aug 5, 2026 · [Details](details/mMVWnnAqPQk.md)
+- [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) -- 8 views, Aug 5, 2026 · [Details](details/mMVWnnAqPQk.md)
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) -- 40 views, Jul 29, 2026 · [Details](details/BZm2J9sLEp8.md)
-- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) -- 16 views, Jul 28, 2026 · [Details](details/izH8Nzr3DLA.md)
-- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) -- 31 views, Jun 16, 2026 · [Details](details/ZQyL7MT7k60.md)
+- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) -- 17 views, Jul 28, 2026 · [Details](details/izH8Nzr3DLA.md)
+- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) -- 32 views, Jun 16, 2026 · [Details](details/ZQyL7MT7k60.md)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 43 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
 - [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) -- 32 views, May 21, 2026 · [Details](details/9xDzB24tO4I.md)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 47 views, Mar 26, 2026 · [Details](details/hnMR8rdGCnU.md)
@@ -46,12 +46,12 @@ updated: 2026-08-08
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Kimi K3 Infrastructure Economics | 4 | Aug 6, 2026 | [Watch](https://youtu.be/lEzp0tdrfFc) | [Wiki](details/lEzp0tdrfFc.md) |
-| 2 | The Architecture of Artificial Intelligence | 7 | Aug 5, 2026 | [Watch](https://youtu.be/mMVWnnAqPQk) | [Wiki](details/mMVWnnAqPQk.md) |
+| 1 | Kimi K3 Infrastructure Economics | 8 | Aug 6, 2026 | [Watch](https://youtu.be/lEzp0tdrfFc) | [Wiki](details/lEzp0tdrfFc.md) |
+| 2 | The Architecture of Artificial Intelligence | 8 | Aug 5, 2026 | [Watch](https://youtu.be/mMVWnnAqPQk) | [Wiki](details/mMVWnnAqPQk.md) |
 | 3 | The California vs. Texas Economic Rivalry | 27 | Aug 3, 2026 | [Watch](https://youtu.be/DMfE_eElLAc) | [Wiki](details/DMfE_eElLAc.md) |
 | 4 | SOMA: Unifying Parametric Human Body Models | 30 | Aug 2, 2026 | [Watch](https://youtu.be/yZLe26ZkBT4) | [Wiki](details/yZLe26ZkBT4.md) |
 | 5 | Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers | 40 | Jul 29, 2026 | [Watch](https://youtu.be/BZm2J9sLEp8) | [Wiki](details/BZm2J9sLEp8.md) |
-| 6 | The Sovereign AI Utility | 16 | Jul 28, 2026 | [Watch](https://youtu.be/izH8Nzr3DLA) | [Wiki](details/izH8Nzr3DLA.md) |
+| 6 | The Sovereign AI Utility | 17 | Jul 28, 2026 | [Watch](https://youtu.be/izH8Nzr3DLA) | [Wiki](details/izH8Nzr3DLA.md) |
 | 7 | Systematic Momentum Execution | 5 | Jul 22, 2026 | [Watch](https://youtu.be/md9nXDH1u7Q) | [Wiki](details/md9nXDH1u7Q.md) |
 | 8 | The Physical Al Ecosystem | 19 | Jul 14, 2026 | [Watch](https://youtu.be/3DH2V55G1ck) | [Wiki](details/3DH2V55G1ck.md) |
 | 9 | The Cash Pump Blueprint | 18 | Jul 12, 2026 | [Watch](https://youtu.be/Aw8arLm35M8) | [Wiki](details/Aw8arLm35M8.md) |
@@ -59,7 +59,7 @@ updated: 2026-08-08
 | 11 | The Anatomy of a Giant | 30 | Jul 6, 2026 | [Watch](https://youtu.be/u5hQQZsLBwU) | [Wiki](details/u5hQQZsLBwU.md) |
 | 12 | The Mathematics of Survival | 13 | Jul 1, 2026 | [Watch](https://youtu.be/J4nERLAJIbs) | [Wiki](details/J4nERLAJIbs.md) |
 | 13 | South Korea's $1 Trillion Al & Semiconductor Blueprint | 8 | Jun 29, 2026 | [Watch](https://youtu.be/K1wUGKw3scU) | [Wiki](details/K1wUGKw3scU.md) |
-| 14 | Japan's Sovereign Cloud Blueprint | 31 | Jun 16, 2026 | [Watch](https://youtu.be/ZQyL7MT7k60) | [Wiki](details/ZQyL7MT7k60.md) |
+| 14 | Japan's Sovereign Cloud Blueprint | 32 | Jun 16, 2026 | [Watch](https://youtu.be/ZQyL7MT7k60) | [Wiki](details/ZQyL7MT7k60.md) |
 | 15 | The Architecture of Opportunity | 28 | Jun 7, 2026 | [Watch](https://youtu.be/8vJLWsfheRE) | [Wiki](details/8vJLWsfheRE.md) |
 | 16 | Cognitive Lenses in Modern Design | 26 | Jun 5, 2026 | [Watch](https://youtu.be/GmUKi-ZPOYU) | [Wiki](details/GmUKi-ZPOYU.md) |
 | 17 | The Architecture of Insurance Pricing | 32 | Jun 3, 2026 | [Watch](https://youtu.be/P-QVC5lOMbU) | [Wiki](details/P-QVC5lOMbU.md) |
@@ -82,7 +82,7 @@ updated: 2026-08-08
 | 34 | The 2026 Market Barbell | 9 | Mar 16, 2026 | [Watch](https://youtu.be/2NoJVXPpcco) | [Wiki](details/2NoJVXPpcco.md) |
 | 35 | The Mathematics of Human Capital Compounding | 14 | Mar 5, 2026 | [Watch](https://youtu.be/_4BC0zHGYTw) | [Wiki](details/_4BC0zHGYTw.md) |
 | 36 | Navigating the Al Capital Cycle: 2026 & Beyond | 91 | Feb 17, 2026 | [Watch](https://youtu.be/9z6mOWQgU84) | [Wiki](details/9z6mOWQgU84.md) |
-| 37 | The 2026 Barbell Strategy | 26 | Feb 17, 2026 | [Watch](https://youtu.be/bn-Nvmxgur8) | [Wiki](details/bn-Nvmxgur8.md) |
+| 37 | The 2026 Barbell Strategy | 27 | Feb 17, 2026 | [Watch](https://youtu.be/bn-Nvmxgur8) | [Wiki](details/bn-Nvmxgur8.md) |
 | 38 | 2050: The Post-Labor Paradigm | 11 | Feb 7, 2026 | [Watch](https://youtu.be/ybR0RxXj2_M) | [Wiki](details/ybR0RxXj2_M.md) |
 | 39 | The Three Pillars of Financial Freedom | 15 | Jan 23, 2026 | [Watch](https://youtu.be/K1O4kHjFJaQ) | [Wiki](details/K1O4kHjFJaQ.md) |
 | 40 | The Exchange Rate of Your Life | 17 | Jan 22, 2026 | [Watch](https://youtu.be/MBnVggs6k5g) | [Wiki](details/MBnVggs6k5g.md) |
@@ -106,4 +106,4 @@ updated: 2026-08-08
 - [Security](security.md) -- shared tags: `curiosity`, `ai`
 
 ---
-*Auto-generated on Aug 7, 2026. Back to [index](index.md).*
+*Auto-generated on Aug 9, 2026. Back to [index](index.md).*

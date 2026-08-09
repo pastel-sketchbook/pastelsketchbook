@@ -2,7 +2,7 @@
 type: tag
 tags: [platform-engineering]
 sources: 3
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 # platform engineering
@@ -16,4 +16,4 @@ Videos connected by the topic `platform engineering`.
 - [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 18 views · Mar 16, 2026 · [Details](../details/to1PClyd0YA.md)
 
 ---
-*Auto-generated on Aug 7, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 9, 2026. Back to [topic index](index.md).*

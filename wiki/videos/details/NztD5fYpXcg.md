@@ -34,7 +34,7 @@ This video presents a 10-lens research analysis framework for extracting multi-d
 - [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 959 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `analysis` · `framework`)
 - [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 57 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `framework`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `research`)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 287 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `skills`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 289 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `skills`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

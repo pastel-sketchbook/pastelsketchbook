@@ -2,7 +2,7 @@
 type: tag
 tags: [change-data-capture]
 sources: 6
-updated: 2026-08-08
+updated: 2026-08-09
 ---
 
 # change data capture
@@ -19,4 +19,4 @@ Videos connected by the topic `change data capture`.
 - [Continuous Flow](https://youtu.be/tcrNdx1yH_E) — Kubernetes · 15 views · Mar 22, 2026 · [Details](../details/tcrNdx1yH_E.md)
 
 ---
-*Auto-generated on Aug 7, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 9, 2026. Back to [topic index](index.md).*

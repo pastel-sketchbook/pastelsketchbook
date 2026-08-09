@@ -1,10 +1,16 @@
-import { createFileRoute } from '@tanstack/react-router'
+import { createFileRoute, redirect } from '@tanstack/react-router'
 import { useState } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import { ChunkErrorBoundary } from '../src/components/ui/ChunkErrorBoundary'
 import { motion, AnimatePresence } from 'framer-motion'
+import { isLocalAppHost } from '../src/lib/is-local-host'
 
 export const Route = createFileRoute('/code')({
+  beforeLoad: () => {
+    if (!isLocalAppHost()) {
+      throw redirect({ to: '/' })
+    }
+  },
   component: CodeWithErrorBoundary,
 })
 
@@ -96,8 +102,8 @@ function Code() {
             Open-source projects growing in the garden.
           </motion.p>
 
-          <div className="flex justify-center mb-12 overflow-x-auto pb-4 scrollbar-hide md:max-w-6xl md:mx-auto md:w-full">
-            <div className="bg-white p-1 rounded-full sketch-border border-[#1B3022]/5 flex flex-wrap md:flex-nowrap gap-0.5 md:gap-1 md:w-full md:justify-center">
+          <div className="flex justify-center mb-12 md:max-w-6xl md:mx-auto md:w-full">
+            <div className="bg-white p-1 rounded-full sketch-border border-[#1B3022]/5 flex flex-wrap justify-center gap-0.5 md:gap-1 w-full max-w-full">
               {tabs.map(tab => (
                 <button
                   key={tab.id}

@@ -2,6 +2,7 @@ import { createRootRoute, Outlet, Link, useLocation } from "@tanstack/react-rout
 import { useState, useEffect, Suspense } from "react"
 import { motion } from "framer-motion"
 import { ScrollToTop } from "../src/components/ui/ScrollToTop"
+import { isLocalAppHost } from "../src/lib/is-local-host"
 
 export const Route = createRootRoute({
   component: RootComponent,
@@ -68,6 +69,7 @@ function RootComponent() {
 
 function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const showCodePage = isLocalAppHost();
 
   const scrollToFooter = () => {
     const footer = document.querySelector('footer');
@@ -95,7 +97,7 @@ function Header() {
         <nav className="hidden md:flex items-center gap-8 text-sm font-semibold text-[#1B3022]/70">
           <NavLink href="/#vision" label="Vision" />
           <NavLink href="/showcase" label="Showcase" />
-          <NavLink href="/code" label="Code" />
+          {showCodePage && <NavLink href="/code" label="Code" />}
           <NavLink href="/wiki" label="Wiki" />
           <NavLink href="/books" label="Books" />
           <NavLink href="/podcast" label="Podcast" />
@@ -160,7 +162,9 @@ function Header() {
             <nav className="flex flex-col gap-6 text-xl font-serif italic text-[#1B3022]">
               <Link to="/" hash="vision" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Vision</Link>
               <Link to="/showcase" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Showcase</Link>
-              <Link to="/code" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Code</Link>
+              {showCodePage && (
+                <Link to="/code" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Code</Link>
+              )}
               <Link to="/wiki" search={{ tag: undefined }} onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Wiki</Link>
               <Link to="/books" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Books</Link>
               <Link to="/podcast" onClick={() => setIsMenuOpen(false)} className="hover:text-[#5F7D61] transition-colors py-2">Podcast</Link>

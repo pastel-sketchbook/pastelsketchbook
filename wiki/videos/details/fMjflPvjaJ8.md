@@ -30,7 +30,7 @@ This video introduces the Azure Enterprise Edge Lab, a one-click deployable secu
 
 ## Related Videos
 
-- [Azure Linux 4.0 and the Al-Native Cloud Era](https://youtu.be/o9x4daXS4Rk) — Kubernetes · 28 views · Jul 5, 2026 · [Details](o9x4daXS4Rk.md) (shared: `azure` · `container` · `infrastructure as code`)
+- [Azure Linux 4.0 and the Al-Native Cloud Era](https://youtu.be/o9x4daXS4Rk) — Kubernetes · 29 views · Jul 5, 2026 · [Details](o9x4daXS4Rk.md) (shared: `azure` · `container` · `infrastructure as code`)
 - [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 68 views · Apr 25, 2026 · [Details](quD4pyCwKB4.md) (shared: `integration` · `infrastructure as code` · `infrastructure`)
 - [Securely Exposing AKS Applications](https://youtu.be/A7eoKD5m6Ek) — Kubernetes · 9 views · Jan 8, 2026 · [Details](A7eoKD5m6Ek.md) (shared: `azure` · `waf` · `security`)
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) — Kubernetes · 30 views · Mar 16, 2026 · [Details](LUOX5xkSyi0.md) (shared: `infrastructure as code` · `infrastructure` · `code`)

@@ -36,7 +36,7 @@ A deep dive into the Echo web framework for building high-performance Go APIs, c
 ## Related Videos
 
 - [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 65 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `web` · `framework` · `middleware`)
-- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 119 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `echo web framework` · `echo` · `web`)
+- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 120 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `echo web framework` · `echo` · `web`)
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 32 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `framework` · `pipeline` · `architecture`)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 39 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `echo` · `framework` · `architecture`)
 - [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 80 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `framework` · `development` · `context`)
