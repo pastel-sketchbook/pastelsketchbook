@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T17:18:22.906Z",
+  "generatedAt": "2026-08-11T22:20:00.000Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -58,13 +58,15 @@
             "JrCT7Xu-aGU",
             "neqE9X2kSuY",
             "1RqgRdlIO8M",
-            "hs7CiLpLgnY"
+            "hs7CiLpLgnY",
+            "PVwzHpsrVcc"
           ],
           "tags": [
             "zero-trust",
             "security",
             "istio",
-            "cilium"
+            "cilium",
+            "tailscale"
           ]
         },
         {
@@ -267,13 +269,15 @@
             "izH8Nzr3DLA",
             "lXwe6xeFmAE",
             "BZm2J9sLEp8",
-            "mMVWnnAqPQk"
+            "mMVWnnAqPQk",
+            "QWQcpxHE6E8"
           ],
           "tags": [
             "architecture",
             "ai-agents",
             "databases",
-            "future"
+            "future",
+            "fiber"
           ]
         },
         {

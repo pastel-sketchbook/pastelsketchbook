@@ -585,3 +585,15 @@ Generated 1 video detail pages (single: Qhhnc6xLmSQ).
 ## [2026-08-09] wiki | Detail Enrichment + Book Sync
 
 Enriched detail for Qhhnc6xLmSQ (Architecting State in Rust) from raw transcript: Summary, Key Takeaways, Topics Covered. Regenerated wiki-bundle.json; public transcript mirror already in sync. Placed in The Internals Companion / Ch6 The Rust Architect's Toolkit. zmd reindexed.
+
+## [2026-08-11] ingest | Video Metadata Sync
+
+Synced 449 videos across 6 categories (korea=20, finance=48, kubernetes=86, development=266, security=20, programming=9).
+
+## [2026-08-11] ingest | Video Transcripts
+
+Exported 1 transcript files (single: QWQcpxHE6E8) to `wiki/raw/transcripts`.
+
+## [2026-08-11] wiki | Detail Enrichment + Book Sync
+
+Released 2 staged videos from HIDDEN_VIDEO_IDS: QWQcpxHE6E8 (The 2026 U.S. Fiber Ecosystem) and PVwzHpsrVcc (Tailscale: The Modular Network Operating System). Exported both transcripts to `wiki/raw/transcripts` (public mirror synced). Generated detail pages (Summary, Key Takeaways, Topics Covered) and regenerated wiki-bundle.json. Placed QWQcpxHE6E8 in The Architect's Sketchbook / Ch8 The 2026 Architectural Standard and PVwzHpsrVcc in The Architect's Sketchbook / Ch2 Zero Trust as First Principle. zmd reindexed.

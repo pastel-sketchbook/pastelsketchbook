@@ -44,7 +44,7 @@ Welcome.  Today  we  are  diving  into  the Axum  web  framework,  a  powerful  
 
 ## Related Videos
 
-- [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 43 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `web` · `framework` · `middleware`)
+- [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 44 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `web` · `framework` · `middleware`)
 - [Copilot-Backed Code Review Architecture](https://youtu.be/JMk8y25qo2M) — Development · 19 views · Jun 2, 2026 · [Details](JMk8y25qo2M.md) (shared: `axum` · `rust` · `tower middleware`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `axum` · `rust` · `web`)
 - [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 760 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `axum` · `rust` · `framework`)

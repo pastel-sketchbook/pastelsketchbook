@@ -34,7 +34,7 @@ This video explains Authenticated Encryption with Associated Data (AEAD) as a cr
 - [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 32 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `data`)
 - [The Go Concurrency Paradox](https://youtu.be/KCuGqld6nOc) — Development · 49 views · Jan 9, 2026 · [Details](KCuGqld6nOc.md) (shared: `data`)
 - [The Essential Algorithmic Toolkit](https://youtu.be/nRxqSGBuB4s) — Development · 56 views · Mar 6, 2026 · [Details](nRxqSGBuB4s.md) (shared: `data`)
-- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 58 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `data`)
+- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 59 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `data`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

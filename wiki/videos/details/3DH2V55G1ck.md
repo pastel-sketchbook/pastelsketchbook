@@ -35,7 +35,7 @@ This talk frames physical AI as an ecosystem problem — architecture, orchestra
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 8 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `semiconductor` · `stack`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 78 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `compute`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 91 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `robotics`)
-- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 40 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `compute`)
+- [The 2026 U.S. Fiber Ecosystem](https://youtu.be/QWQcpxHE6E8) — Finance · 1 views · Aug 9, 2026 · [Details](QWQcpxHE6E8.md) (shared: `ecosystem`)
 
 ---
 *Auto-generated on Jul 14, 2026. Back to [finance](../finance.md) · [index](../index.md).*

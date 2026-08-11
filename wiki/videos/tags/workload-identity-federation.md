@@ -2,7 +2,7 @@
 type: tag
 tags: [workload-identity-federation]
 sources: 2
-updated: 2026-08-09
+updated: 2026-08-11
 ---
 
 # workload identity federation
@@ -15,4 +15,4 @@ Videos connected by the topic `workload identity federation`.
 - [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) — Kubernetes · 13 views · May 22, 2026 · [Details](../details/9ga0NT3ZohQ.md)
 
 ---
-*Auto-generated on Aug 9, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 11, 2026. Back to [topic index](index.md).*

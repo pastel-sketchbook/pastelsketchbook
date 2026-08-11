@@ -2,7 +2,7 @@
 type: tag
 tags: [aks]
 sources: 4
-updated: 2026-08-09
+updated: 2026-08-11
 ---
 
 # aks
@@ -11,10 +11,10 @@ Videos connected by the topic `aks`.
 
 ## Videos
 
-- [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 47 views · Jan 16, 2026 · [Details](../details/0U-SUJCmKAU.md)
+- [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 48 views · Jan 16, 2026 · [Details](../details/0U-SUJCmKAU.md)
 - [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 24 views · Jan 10, 2026 · [Details](../details/C5HqbzLRYZ0.md)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 23 views · Apr 1, 2026 · [Details](../details/BiYKKVsJROk.md)
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](../details/C6wLm6NRZW4.md)
 
 ---
-*Auto-generated on Aug 9, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 11, 2026. Back to [topic index](index.md).*

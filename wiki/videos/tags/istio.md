@@ -2,7 +2,7 @@
 type: tag
 tags: [istio]
 sources: 3
-updated: 2026-08-09
+updated: 2026-08-11
 ---
 
 # istio
@@ -16,4 +16,4 @@ Videos connected by the topic `istio`.
 - [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 24 views · Jan 16, 2026 · [Details](../details/0ttrfTfP864.md)
 
 ---
-*Auto-generated on Aug 9, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 11, 2026. Back to [topic index](index.md).*

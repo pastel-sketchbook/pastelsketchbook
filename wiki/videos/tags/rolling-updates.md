@@ -2,7 +2,7 @@
 type: tag
 tags: [rolling-updates]
 sources: 2
-updated: 2026-08-09
+updated: 2026-08-11
 ---
 
 # rolling updates
@@ -15,4 +15,4 @@ Videos connected by the topic `rolling updates`.
 - [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) — Kubernetes · 16 views · Apr 22, 2026 · [Details](../details/eZNBXDUc8OQ.md)
 
 ---
-*Auto-generated on Aug 9, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 11, 2026. Back to [topic index](index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [flutter-ai]
 sources: 2
-updated: 2026-08-09
+updated: 2026-08-11
 ---
 
 # flutter ai
@@ -15,4 +15,4 @@ Videos connected by the topic `flutter ai`.
 - [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 57 views · Mar 13, 2026 · [Details](../details/2iIi1H9V-Hg.md)
 
 ---
-*Auto-generated on Aug 9, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 11, 2026. Back to [topic index](index.md).*

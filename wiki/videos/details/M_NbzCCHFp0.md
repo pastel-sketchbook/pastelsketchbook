@@ -48,8 +48,8 @@ Welcome.  Today  we  are  exploring  the orbital  compute  blueprint,  a compreh
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 40 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `center` · `compute`)
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 8 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `data` · `center` · `capacity`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 91 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data` · `center` · `infrastructure`)
-- [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 8 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `data` · `center` · `infrastructure`)
-- [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) — Finance · 7 views · May 20, 2026 · [Details](Dx8pFmojxL4.md) (shared: `data` · `economics`)
+- [The 2026 U.S. Fiber Ecosystem](https://youtu.be/QWQcpxHE6E8) — Finance · 1 views · Aug 9, 2026 · [Details](QWQcpxHE6E8.md) (shared: `data` · `center` · `cooling`)
+- [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 17 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `data` · `center` · `infrastructure`)
 
 ---
 *Auto-generated on May 2, 2026. Back to [finance](../finance.md) · [index](../index.md).*

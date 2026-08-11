@@ -10,7 +10,7 @@ summarized: 2026-06-23T01:00:00.000Z
 ## Related Videos
 
 - [Burn: The Rust Deep Learning Framework](https://youtu.be/_bFOZ51Q55Y) — Development · 2.0K views · May 8, 2026 · [Details](_bFOZ51Q55Y.md) (shared: `tensor` · `kernel` · `fusion`)
-- [The PyTorch Architecture Blueprint](https://youtu.be/KXx_6BhzOFE) — Development · 50 views · Jun 13, 2026 · [Details](KXx_6BhzOFE.md) (shared: `kernel` · `dynamic`)
+- [The PyTorch Architecture Blueprint](https://youtu.be/KXx_6BhzOFE) — Development · 51 views · Jun 13, 2026 · [Details](KXx_6BhzOFE.md) (shared: `kernel` · `dynamic`)
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `distributed`)
 - [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 35 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `distributed`)
 - [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 2 views · Jan 6, 2026 · [Details](z_Ydy_-cI1U.md) (shared: `distributed`)

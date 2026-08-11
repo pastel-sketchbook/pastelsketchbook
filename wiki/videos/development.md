@@ -3,7 +3,7 @@ type: category
 category: development
 tags: [rust, ai, zig, go, internal, curiosity, flutter, agent, cli, wasm]
 sources: 266
-updated: 2026-08-09
+updated: 2026-08-11
 ---
 
 # Development
@@ -15,7 +15,7 @@ updated: 2026-08-09
 | Metric | Value |
 |--------|-------|
 | Videos | 266 |
-| Total Views | 31.4K |
+| Total Views | 31.5K |
 | Most Recent | Aug 4, 2026 |
 | Oldest | Dec 27, 2025 |
 
@@ -27,7 +27,7 @@ updated: 2026-08-09
 - [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) -- 67 views, Jul 10, 2026 · [Details](details/97zSu6wYF5w.md)
 - [The Rust SPNEGO Hub](https://youtu.be/33odiiNMGzQ) -- 23 views, Jul 3, 2026 · [Details](details/33odiiNMGzQ.md)
 - [RB Simulation Architecture](https://youtu.be/AbCc2yfz2uw) -- 7 views, Jun 30, 2026 · [Details](details/AbCc2yfz2uw.md)
-- [The Rust Robotics Paradigm](https://youtu.be/gPnrk5TNKWg) -- 67 views, Jun 27, 2026 · [Details](details/gPnrk5TNKWg.md)
+- [The Rust Robotics Paradigm](https://youtu.be/gPnrk5TNKWg) -- 70 views, Jun 27, 2026 · [Details](details/gPnrk5TNKWg.md)
 - [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) -- 10 views, Jun 23, 2026 · [Details](details/o3ba6XdMQA0.md)
 - [SlideVoice Studio CLI Architecture](https://youtu.be/ISLXOiFqC50) -- 13 views, Jun 19, 2026 · [Details](details/ISLXOiFqC50.md)
 - [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) -- 57 views, Jun 9, 2026 · [Details](details/fWuJSwkdH6I.md)
@@ -54,45 +54,45 @@ updated: 2026-08-09
 - [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) -- 12 views, May 15, 2026 · [Details](details/i2YEYgVx0AA.md)
 - [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) -- 25 views, May 14, 2026 · [Details](details/n9Ebc-0E478.md)
 - [SQLx](https://youtu.be/uz8nmkTPEpg) -- 37 views, May 13, 2026 · [Details](details/uz8nmkTPEpg.md)
-- [Inside the Typst Compiler Engine](https://youtu.be/B81dHVYOYJA) -- 150 views, May 10, 2026 · [Details](details/B81dHVYOYJA.md)
-- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) -- 96 views, May 9, 2026 · [Details](details/8PaVKQoDReY.md)
+- [Inside the Typst Compiler Engine](https://youtu.be/B81dHVYOYJA) -- 151 views, May 10, 2026 · [Details](details/B81dHVYOYJA.md)
+- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) -- 97 views, May 9, 2026 · [Details](details/8PaVKQoDReY.md)
 - [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) -- 760 views, May 9, 2026 · [Details](details/qAHyv6G3a7M.md)
 - [Burn: The Rust Deep Learning Framework](https://youtu.be/_bFOZ51Q55Y) -- 2.0K views, May 8, 2026 · [Details](details/_bFOZ51Q55Y.md)
 - [rr-mailtrap: The Developer's SMTP Sandbox](https://youtu.be/SuuZW_fuEFc) -- 26 views, May 8, 2026 · [Details](details/SuuZW_fuEFc.md)
 - [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) -- 28 views, May 4, 2026 · [Details](details/UOOkDh4RUbE.md)
 - [Tracing Asynchronous Rust](https://youtu.be/d1MH4nza95g) -- 111 views, May 3, 2026 · [Details](details/d1MH4nza95g.md)
-- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) -- 64 views, May 3, 2026 · [Details](details/07aDX5YB-ao.md)
-- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) -- 102 views, May 2, 2026 · [Details](details/DwAOCljoNoc.md)
+- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) -- 65 views, May 3, 2026 · [Details](details/07aDX5YB-ao.md)
+- [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) -- 103 views, May 2, 2026 · [Details](details/DwAOCljoNoc.md)
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) -- 157 views, May 2, 2026 · [Details](details/90hw9qwXbbw.md)
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) -- 65 views, May 1, 2026 · [Details](details/J4iGUAXcAOA.md)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) -- 66 views, May 1, 2026 · [Details](details/J4iGUAXcAOA.md)
 - [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) -- 134 views, Apr 27, 2026 · [Details](details/EWwk29GzHgg.md)
 - [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) -- 129 views, Apr 24, 2026 · [Details](details/L9ypC5863yA.md)
 - [Rusty Object Notation (RON)](https://youtu.be/NhYb7QkBdMs) -- 164 views, Apr 24, 2026 · [Details](details/NhYb7QkBdMs.md)
 - [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) -- 62 views, Apr 20, 2026 · [Details](details/FM6zp63maS8.md)
 - [Pastel Market: Engineering a Unified Terminal Workspace](https://youtu.be/feWjiYzQQ-k) -- 42 views, Apr 19, 2026 · [Details](details/feWjiYzQQ-k.md)
-- [Rust 1.95.0](https://youtu.be/izLrX-02IQk) -- 247 views, Apr 18, 2026 · [Details](details/izLrX-02IQk.md)
+- [Rust 1.95.0](https://youtu.be/izLrX-02IQk) -- 248 views, Apr 18, 2026 · [Details](details/izLrX-02IQk.md)
 - [Building vibe-rust](https://youtu.be/BT08SXPvV6U) -- 66 views, Apr 4, 2026 · [Details](details/BT08SXPvV6U.md)
 - [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) -- 4.3K views, Apr 3, 2026 · [Details](details/54lO6XE-AeQ.md)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) -- 51 views, Mar 28, 2026 · [Details](details/F59lTcC6xJ0.md)
 - [Architectural Evolution of a Vision Tool](https://youtu.be/Qv9X3ZY474U) -- 53 views, Mar 28, 2026 · [Details](details/Qv9X3ZY474U.md)
-- [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) -- 127 views, Mar 22, 2026 · [Details](details/vep9hSKc9I0.md)
+- [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) -- 128 views, Mar 22, 2026 · [Details](details/vep9hSKc9I0.md)
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) -- 27 views, Mar 20, 2026 · [Details](details/lY5TU8qHduM.md)
 - [Beat - Anatomy of a Real-Time Visualizer](https://youtu.be/lin_ycbQGtE) -- 27 views, Mar 20, 2026 · [Details](details/lin_ycbQGtE.md)
-- [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) -- 183 views, Mar 18, 2026 · [Details](details/_zJ3_d1CODg.md)
+- [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) -- 185 views, Mar 18, 2026 · [Details](details/_zJ3_d1CODg.md)
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) -- 73 views, Mar 11, 2026 · [Details](details/DIMW-iHlDxE.md)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) -- 33 views, Mar 4, 2026 · [Details](details/xVdW3yUCbuU.md)
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) -- 18 views, Mar 1, 2026 · [Details](details/WahgsFhj3W0.md)
-- [A Guide to Rust Smart Pointers](https://youtu.be/WdK7PED1ug8) -- 53 views, Feb 26, 2026 · [Details](details/WdK7PED1ug8.md)
+- [A Guide to Rust Smart Pointers](https://youtu.be/WdK7PED1ug8) -- 54 views, Feb 26, 2026 · [Details](details/WdK7PED1ug8.md)
 - [Composition by Design](https://youtu.be/ARWkoc3E8uE) -- 34 views, Feb 23, 2026 · [Details](details/ARWkoc3E8uE.md)
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) -- 48 views, Feb 22, 2026 · [Details](details/Th5MMOFQbh8.md)
 - [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) -- 80 views, Feb 22, 2026 · [Details](details/SpNfrWmI8iE.md)
-- [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) -- 256 views, Feb 14, 2026 · [Details](details/kQc99Io3pCo.md)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) -- 752 views, Feb 13, 2026 · [Details](details/joYJ6rPN3UI.md)
+- [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) -- 257 views, Feb 14, 2026 · [Details](details/kQc99Io3pCo.md)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) -- 761 views, Feb 13, 2026 · [Details](details/joYJ6rPN3UI.md)
 - [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) -- 114 views, Feb 9, 2026 · [Details](details/qxOOl1hx1zU.md)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) -- 89 views, Feb 8, 2026 · [Details](details/0Sed1oggMKY.md)
 - [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) -- 17 views, Feb 6, 2026 · [Details](details/ZlEq2jFb8tI.md)
 - [Neural TTS in Pastel-HN](https://youtu.be/d_0swhS1LyQ) -- 46 views, Feb 1, 2026 · [Details](details/d_0swhS1LyQ.md)
-- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) -- 58 views, Jan 28, 2026 · [Details](details/RDa6WtZmW8E.md)
+- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) -- 59 views, Jan 28, 2026 · [Details](details/RDa6WtZmW8E.md)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) -- 53 views, Jan 27, 2026 · [Details](details/43UjmZtW2JU.md)
 - [pastel-hn](https://youtu.be/cJl2cchaHL8) -- 59 views, Jan 24, 2026 · [Details](details/cJl2cchaHL8.md)
 - [Hangul Typing](https://youtu.be/Pp36ysjfWd8) -- 10 views, Jan 22, 2026 · [Details](details/Pp36ysjfWd8.md)
@@ -106,9 +106,9 @@ updated: 2026-08-09
 
 ### AI & ML (59 videos)
 
-- [Mastering Flutter Layouts](https://youtu.be/OTE2dxAJkWg) -- 31 views, Jul 12, 2026 · [Details](details/OTE2dxAJkWg.md)
+- [Mastering Flutter Layouts](https://youtu.be/OTE2dxAJkWg) -- 35 views, Jul 12, 2026 · [Details](details/OTE2dxAJkWg.md)
 - [The Confluent Systems Master Plan](https://youtu.be/J6dRkXZhnIQ) -- 68 views, Jul 9, 2026 · [Details](details/J6dRkXZhnIQ.md)
-- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) -- 91 views, Jun 21, 2026 · [Details](details/OKXt-PJUuzE.md)
+- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) -- 92 views, Jun 21, 2026 · [Details](details/OKXt-PJUuzE.md)
 - [The Agent-First Paradigm](https://youtu.be/ElxPa5vX9Kc) -- 21 views, Jun 17, 2026 · [Details](details/ElxPa5vX9Kc.md)
 - [The AI Copilot Era Equation](https://youtu.be/xwEN7oZFvdw) -- 53 views, Jun 10, 2026 · [Details](details/xwEN7oZFvdw.md)
 - [temporal-chain: Architecture & Design](https://youtu.be/cuA7G01T7_U) -- 24 views, Jun 6, 2026 · [Details](details/cuA7G01T7_U.md)
@@ -123,10 +123,10 @@ updated: 2026-08-09
 - [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) -- 30 views, May 20, 2026 · [Details](details/KR188eZ9gRE.md)
 - [From 0 to N-Dimensions](https://youtu.be/6M76N3jhh1Q) -- 41 views, May 19, 2026 · [Details](details/6M76N3jhh1Q.md)
 - [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) -- 54 views, May 19, 2026 · [Details](details/htpvlYnX77w.md)
-- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) -- 96 views, May 9, 2026 · [Details](details/8PaVKQoDReY.md)
+- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) -- 97 views, May 9, 2026 · [Details](details/8PaVKQoDReY.md)
 - [rr-mailtrap: The Developer's SMTP Sandbox](https://youtu.be/SuuZW_fuEFc) -- 26 views, May 8, 2026 · [Details](details/SuuZW_fuEFc.md)
 - [The Evolution of File Detection](https://youtu.be/85pyYZFJ6_s) -- 48 views, May 7, 2026 · [Details](details/85pyYZFJ6_s.md)
-- [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) -- 53 views, Apr 28, 2026 · [Details](details/i1HT5UIccTs.md)
+- [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) -- 54 views, Apr 28, 2026 · [Details](details/i1HT5UIccTs.md)
 - [From Louvain to Leiden](https://youtu.be/BQ4wab0UtLg) -- 111 views, Apr 26, 2026 · [Details](details/BQ4wab0UtLg.md)
 - [Design for Deletion](https://youtu.be/yAeM2vpPWeM) -- 161 views, Apr 25, 2026 · [Details](details/yAeM2vpPWeM.md)
 - [TanStack Al Composes the Modern Audio Stack](https://youtu.be/xvqZFPf5X60) -- 68 views, Apr 25, 2026 · [Details](details/xvqZFPf5X60.md)
@@ -137,7 +137,7 @@ updated: 2026-08-09
 - [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) -- 158 views, Apr 17, 2026 · [Details](details/E8f87EV4k3A.md)
 - [The Evolution of RFCs in the Al Era](https://youtu.be/lsjfczYFBeQ) -- 33 views, Apr 16, 2026 · [Details](details/lsjfczYFBeQ.md)
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) -- 60 views, Apr 13, 2026 · [Details](details/j8lMpSezavQ.md)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) -- 289 views, Apr 10, 2026 · [Details](details/TEGFwsAcxK8.md)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) -- 294 views, Apr 10, 2026 · [Details](details/TEGFwsAcxK8.md)
 - [The LLM Wiki Paradigm](https://youtu.be/BzvpasWYESU) -- 2.8K views, Apr 9, 2026 · [Details](details/BzvpasWYESU.md)
 - [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) -- 283 views, Apr 5, 2026 · [Details](details/fv61JXUCbeo.md)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) -- 96 views, Apr 5, 2026 · [Details](details/T-NdEF6btbg.md)
@@ -172,7 +172,7 @@ updated: 2026-08-09
 - [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) -- 10 views, Jun 23, 2026 · [Details](details/o3ba6XdMQA0.md)
 - [Clean Architecture in Angular](https://youtu.be/RJGNh8L-8rw) -- 51 views, Jun 23, 2026 · [Details](details/RJGNh8L-8rw.md)
 - [SlideVoice Studio CLI Architecture](https://youtu.be/ISLXOiFqC50) -- 13 views, Jun 19, 2026 · [Details](details/ISLXOiFqC50.md)
-- [The PyTorch Architecture Blueprint](https://youtu.be/KXx_6BhzOFE) -- 50 views, Jun 13, 2026 · [Details](details/KXx_6BhzOFE.md)
+- [The PyTorch Architecture Blueprint](https://youtu.be/KXx_6BhzOFE) -- 51 views, Jun 13, 2026 · [Details](details/KXx_6BhzOFE.md)
 - [rt-ado-ci-cd Operations and Architecture](https://youtu.be/s6wmtsAWvCw) -- 7 views, Jun 8, 2026 · [Details](details/s6wmtsAWvCw.md)
 - [temporal-chain: Architecture & Design](https://youtu.be/cuA7G01T7_U) -- 24 views, Jun 6, 2026 · [Details](details/cuA7G01T7_U.md)
 - [The Architecture of Serde](https://youtu.be/SNgYSLZ2Ck4) -- 55 views, Jun 3, 2026 · [Details](details/SNgYSLZ2Ck4.md)
@@ -190,7 +190,7 @@ updated: 2026-08-09
 - [TigerStyle: The Architecture of Elegance](https://youtu.be/eJlXFaZNP6g) -- 56 views, May 5, 2026 · [Details](details/eJlXFaZNP6g.md)
 - [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) -- 28 views, May 4, 2026 · [Details](details/UOOkDh4RUbE.md)
 - [The NestJS Architecture Blueprint](https://youtu.be/173Y2uPljgo) -- 50 views, May 4, 2026 · [Details](details/173Y2uPljgo.md)
-- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) -- 64 views, May 3, 2026 · [Details](details/07aDX5YB-ao.md)
+- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) -- 65 views, May 3, 2026 · [Details](details/07aDX5YB-ao.md)
 - [The Push Architecture Blueprint](https://youtu.be/oqi_jJl3tAQ) -- 46 views, Apr 30, 2026 · [Details](details/oqi_jJl3tAQ.md)
 - [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) -- 29 views, Apr 29, 2026 · [Details](details/GERT8PoS9Qk.md)
 - [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) -- 56 views, Apr 27, 2026 · [Details](details/R3n8UxyD7mc.md)
@@ -206,12 +206,12 @@ updated: 2026-08-09
 
 ### Go (34 videos)
 
-- [The Engine of a Modern Task Runner](https://youtu.be/sMo3KnNup34) -- 95 views, Aug 1, 2026 · [Details](details/sMo3KnNup34.md)
+- [The Engine of a Modern Task Runner](https://youtu.be/sMo3KnNup34) -- 99 views, Aug 1, 2026 · [Details](details/sMo3KnNup34.md)
 - [The Rust SPNEGO Hub](https://youtu.be/33odiiNMGzQ) -- 23 views, Jul 3, 2026 · [Details](details/33odiiNMGzQ.md)
-- [Building Autonomous Agents with the Antigravity SDK](https://youtu.be/4q9gLzti6Lk) -- 112 views, Jun 22, 2026 · [Details](details/4q9gLzti6Lk.md)
+- [Building Autonomous Agents with the Antigravity SDK](https://youtu.be/4q9gLzti6Lk) -- 113 views, Jun 22, 2026 · [Details](details/4q9gLzti6Lk.md)
 - [High-Performance Compute Meets Developer Ergonomics](https://youtu.be/Z_TABCzmoQ0) -- 91 views, Jun 15, 2026 · [Details](details/Z_TABCzmoQ0.md)
 - [The pkg.go.dev API](https://youtu.be/zWuFvi-0Go4) -- 20 views, May 23, 2026 · [Details](details/zWuFvi-0Go4.md)
-- [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) -- 43 views, May 3, 2026 · [Details](details/QOYXBkMcnYk.md)
+- [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) -- 44 views, May 3, 2026 · [Details](details/QOYXBkMcnYk.md)
 - [Design for Deletion](https://youtu.be/yAeM2vpPWeM) -- 161 views, Apr 25, 2026 · [Details](details/yAeM2vpPWeM.md)
 - [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) -- 129 views, Apr 24, 2026 · [Details](details/L9ypC5863yA.md)
 - [Mastering Go Pointers](https://youtu.be/VHuQi_1t5qQ) -- 77 views, Apr 17, 2026 · [Details](details/VHuQi_1t5qQ.md)
@@ -222,7 +222,7 @@ updated: 2026-08-09
 - [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) -- 191 views, Mar 24, 2026 · [Details](details/yCJDmGrk8sM.md)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) -- 39 views, Mar 23, 2026 · [Details](details/INNKxTAagE4.md)
 - [The Geometry of Light](https://youtu.be/_mwtz_8lBWc) -- 30 views, Mar 21, 2026 · [Details](details/_mwtz_8lBWc.md)
-- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) -- 106 views, Mar 19, 2026 · [Details](details/CXtHwJQphLI.md)
+- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) -- 107 views, Mar 19, 2026 · [Details](details/CXtHwJQphLI.md)
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) -- 145 views, Mar 18, 2026 · [Details](details/0HEqwk9UMOc.md)
 - [Isolating Observability in Go](https://youtu.be/xfOATs8ncLM) -- 18 views, Mar 12, 2026 · [Details](details/xfOATs8ncLM.md)
 - [The Pragmatic Go Developer](https://youtu.be/oxNF_GNuWpE) -- 45 views, Mar 10, 2026 · [Details](details/oxNF_GNuWpE.md)
@@ -251,7 +251,7 @@ updated: 2026-08-09
 - [zig-duckdb-ext](https://youtu.be/ymYtSum-2qc) -- 65 views, Mar 24, 2026 · [Details](details/ymYtSum-2qc.md)
 - [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) -- 55 views, Mar 14, 2026 · [Details](details/ZBW6YozOu78.md)
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) -- 21 views, Mar 14, 2026 · [Details](details/gu-5cim8mpA.md)
-- [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) -- 256 views, Feb 14, 2026 · [Details](details/kQc99Io3pCo.md)
+- [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) -- 257 views, Feb 14, 2026 · [Details](details/kQc99Io3pCo.md)
 - [AEM + Meilisearch: A High-Performance Integration](https://youtu.be/KDnTY0Svmr0) -- 14 views, Feb 10, 2026 · [Details](details/KDnTY0Svmr0.md)
 
 ### Messaging (6 videos)
@@ -260,8 +260,8 @@ updated: 2026-08-09
 - [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) -- 32 views, Apr 8, 2026 · [Details](details/am9FvNiJ24M.md)
 - [Building Production-Grade RabbitMQ in Go](https://youtu.be/IYfTi_HNDl4) -- 82 views, Apr 6, 2026 · [Details](details/IYfTi_HNDl4.md)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) -- 39 views, Mar 23, 2026 · [Details](details/INNKxTAagE4.md)
-- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) -- 139 views, Mar 21, 2026 · [Details](details/wyIhJ3LMnRg.md)
-- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) -- 106 views, Mar 19, 2026 · [Details](details/CXtHwJQphLI.md)
+- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) -- 143 views, Mar 21, 2026 · [Details](details/wyIhJ3LMnRg.md)
+- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) -- 107 views, Mar 19, 2026 · [Details](details/CXtHwJQphLI.md)
 
 ### Identity & Auth (4 videos)
 
@@ -279,39 +279,39 @@ updated: 2026-08-09
 ### AKS & Networking (2 videos)
 
 - [Networking Fundamentals: 0.0.0.0 vs. 127.0.0.1](https://youtu.be/OeBgces_2_0) -- 119 views, Jul 18, 2026 · [Details](details/OeBgces_2_0.md)
-- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) -- 64 views, May 3, 2026 · [Details](details/07aDX5YB-ao.md)
+- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) -- 65 views, May 3, 2026 · [Details](details/07aDX5YB-ao.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Parallel Agents in Zed | 23 | Aug 4, 2026 | [Watch](https://youtu.be/0wth_46Vtmo) | [Wiki](details/0wth_46Vtmo.md) |
-| 2 | The Engine of a Modern Task Runner | 95 | Aug 1, 2026 | [Watch](https://youtu.be/sMo3KnNup34) | [Wiki](details/sMo3KnNup34.md) |
+| 1 | Parallel Agents in Zed | 32 | Aug 4, 2026 | [Watch](https://youtu.be/0wth_46Vtmo) | [Wiki](details/0wth_46Vtmo.md) |
+| 2 | The Engine of a Modern Task Runner | 99 | Aug 1, 2026 | [Watch](https://youtu.be/sMo3KnNup34) | [Wiki](details/sMo3KnNup34.md) |
 | 3 | Transcontinental Data Migration | 38 | Jul 26, 2026 | [Watch](https://youtu.be/lXwe6xeFmAE) | [Wiki](details/lXwe6xeFmAE.md) |
 | 4 | Architecting Intelligence | 11 | Jul 24, 2026 | [Watch](https://youtu.be/BCBRMUO54p8) | [Wiki](details/BCBRMUO54p8.md) |
 | 5 | The Performance Paradigm | 32 | Jul 20, 2026 | [Watch](https://youtu.be/2cuMV05Fang) | [Wiki](details/2cuMV05Fang.md) |
 | 6 | Networking Fundamentals: 0.0.0.0 vs. 127.0.0.1 | 119 | Jul 18, 2026 | [Watch](https://youtu.be/OeBgces_2_0) | [Wiki](details/OeBgces_2_0.md) |
 | 7 | Synthesizing Gleam Syntax with Rust Performance | 28 | Jul 15, 2026 | [Watch](https://youtu.be/DTb0syknVSQ) | [Wiki](details/DTb0syknVSQ.md) |
 | 8 | Flattening the Hierarchy | 18 | Jul 13, 2026 | [Watch](https://youtu.be/RvgI3oEThcA) | [Wiki](details/RvgI3oEThcA.md) |
-| 9 | Mastering Flutter Layouts | 31 | Jul 12, 2026 | [Watch](https://youtu.be/OTE2dxAJkWg) | [Wiki](details/OTE2dxAJkWg.md) |
-| 10 | Architecting Enterprise Al Agents | 54 | Jul 11, 2026 | [Watch](https://youtu.be/zoT6ifQjXvQ) | [Wiki](details/zoT6ifQjXvQ.md) |
+| 9 | Mastering Flutter Layouts | 35 | Jul 12, 2026 | [Watch](https://youtu.be/OTE2dxAJkWg) | [Wiki](details/OTE2dxAJkWg.md) |
+| 10 | Architecting Enterprise Al Agents | 55 | Jul 11, 2026 | [Watch](https://youtu.be/zoT6ifQjXvQ) | [Wiki](details/zoT6ifQjXvQ.md) |
 | 11 | Cross-Runtime Development with Rust and napi-rs | 67 | Jul 10, 2026 | [Watch](https://youtu.be/97zSu6wYF5w) | [Wiki](details/97zSu6wYF5w.md) |
 | 12 | The Confluent Systems Master Plan | 68 | Jul 9, 2026 | [Watch](https://youtu.be/J6dRkXZhnIQ) | [Wiki](details/J6dRkXZhnIQ.md) |
 | 13 | The Digital Twin Blueprint | 48 | Jul 4, 2026 | [Watch](https://youtu.be/ykqWNyj1fHM) | [Wiki](details/ykqWNyj1fHM.md) |
 | 14 | The Rust SPNEGO Hub | 23 | Jul 3, 2026 | [Watch](https://youtu.be/33odiiNMGzQ) | [Wiki](details/33odiiNMGzQ.md) |
 | 15 | RB Simulation Architecture | 7 | Jun 30, 2026 | [Watch](https://youtu.be/AbCc2yfz2uw) | [Wiki](details/AbCc2yfz2uw.md) |
-| 16 | The Rust Robotics Paradigm | 67 | Jun 27, 2026 | [Watch](https://youtu.be/gPnrk5TNKWg) | [Wiki](details/gPnrk5TNKWg.md) |
+| 16 | The Rust Robotics Paradigm | 70 | Jun 27, 2026 | [Watch](https://youtu.be/gPnrk5TNKWg) | [Wiki](details/gPnrk5TNKWg.md) |
 | 17 | The Anatomy of a Modern Robot | 50 | Jun 24, 2026 | [Watch](https://youtu.be/7ygjuzLkdTE) | [Wiki](details/7ygjuzLkdTE.md) |
 | 18 | Architecture Blueprint: tn-svs | 10 | Jun 23, 2026 | [Watch](https://youtu.be/o3ba6XdMQA0) | [Wiki](details/o3ba6XdMQA0.md) |
 | 19 | Clean Architecture in Angular | 51 | Jun 23, 2026 | [Watch](https://youtu.be/RJGNh8L-8rw) | [Wiki](details/RJGNh8L-8rw.md) |
-| 20 | Building Autonomous Agents with the Antigravity SDK | 112 | Jun 22, 2026 | [Watch](https://youtu.be/4q9gLzti6Lk) | [Wiki](details/4q9gLzti6Lk.md) |
-| 21 | The Universal Engine for LLM Inference | 91 | Jun 21, 2026 | [Watch](https://youtu.be/OKXt-PJUuzE) | [Wiki](details/OKXt-PJUuzE.md) |
+| 20 | Building Autonomous Agents with the Antigravity SDK | 113 | Jun 22, 2026 | [Watch](https://youtu.be/4q9gLzti6Lk) | [Wiki](details/4q9gLzti6Lk.md) |
+| 21 | The Universal Engine for LLM Inference | 92 | Jun 21, 2026 | [Watch](https://youtu.be/OKXt-PJUuzE) | [Wiki](details/OKXt-PJUuzE.md) |
 | 22 | Mapping the NVIDIA CUDA Library Ecosystem | 21 | Jun 20, 2026 | [Watch](https://youtu.be/9tiUYnQL_y0) | [Wiki](details/9tiUYnQL_y0.md) |
 | 23 | SlideVoice Studio CLI Architecture | 13 | Jun 19, 2026 | [Watch](https://youtu.be/ISLXOiFqC50) | [Wiki](details/ISLXOiFqC50.md) |
 | 24 | The Agent-First Paradigm | 21 | Jun 17, 2026 | [Watch](https://youtu.be/ElxPa5vX9Kc) | [Wiki](details/ElxPa5vX9Kc.md) |
 | 25 | High-Performance Compute Meets Developer Ergonomics | 91 | Jun 15, 2026 | [Watch](https://youtu.be/Z_TABCzmoQ0) | [Wiki](details/Z_TABCzmoQ0.md) |
 | 26 | The End of the Functional Programming Tax | 74 | Jun 14, 2026 | [Watch](https://youtu.be/240fOdSvnpk) | [Wiki](details/240fOdSvnpk.md) |
-| 27 | The PyTorch Architecture Blueprint | 50 | Jun 13, 2026 | [Watch](https://youtu.be/KXx_6BhzOFE) | [Wiki](details/KXx_6BhzOFE.md) |
+| 27 | The PyTorch Architecture Blueprint | 51 | Jun 13, 2026 | [Watch](https://youtu.be/KXx_6BhzOFE) | [Wiki](details/KXx_6BhzOFE.md) |
 | 28 | The AI Copilot Era Equation | 53 | Jun 10, 2026 | [Watch](https://youtu.be/xwEN7oZFvdw) | [Wiki](details/xwEN7oZFvdw.md) |
 | 29 | Quinn: A Pure-Rust QUIC Protocol Implementation | 57 | Jun 9, 2026 | [Watch](https://youtu.be/fWuJSwkdH6I) | [Wiki](details/fWuJSwkdH6I.md) |
 | 30 | rt-ado-ci-cd Operations and Architecture | 7 | Jun 8, 2026 | [Watch](https://youtu.be/s6wmtsAWvCw) | [Wiki](details/s6wmtsAWvCw.md) |
@@ -334,7 +334,7 @@ updated: 2026-08-09
 | 47 | Bumble: A Universal Userspace Bluetooth Stack | 39 | May 27, 2026 | [Watch](https://youtu.be/7LynLmseNRk) | [Wiki](details/7LynLmseNRk.md) |
 | 48 | The Architecture of Space and Time | 34 | May 26, 2026 | [Watch](https://youtu.be/3ONqqMoLy0s) | [Wiki](details/3ONqqMoLy0s.md) |
 | 49 | Local Change Data Capture at Scale | 22 | May 26, 2026 | [Watch](https://youtu.be/FIelcuTti-I) | [Wiki](details/FIelcuTti-I.md) |
-| 50 | Architecting Modern JavaScript Modules | 22 | May 25, 2026 | [Watch](https://youtu.be/Fqokr0P2_ag) | [Wiki](details/Fqokr0P2_ag.md) |
+| 50 | Architecting Modern JavaScript Modules | 23 | May 25, 2026 | [Watch](https://youtu.be/Fqokr0P2_ag) | [Wiki](details/Fqokr0P2_ag.md) |
 | 51 | Architecting Al in Software Engineering | 80 | May 25, 2026 | [Watch](https://youtu.be/yXZnBtdDTFk) | [Wiki](details/yXZnBtdDTFk.md) |
 | 52 | svs-cli: 10 Critical Things | 15 | May 24, 2026 | [Watch](https://youtu.be/S3Vc_R-HezY) | [Wiki](details/S3Vc_R-HezY.md) |
 | 53 | Guiding Al to Build the Modern Web | 58 | May 24, 2026 | [Watch](https://youtu.be/nwAdb-PyRlo) | [Wiki](details/nwAdb-PyRlo.md) |
@@ -347,7 +347,7 @@ updated: 2026-08-09
 | 60 | Blueprinting Machine Learning in Rust | 30 | May 20, 2026 | [Watch](https://youtu.be/KR188eZ9gRE) | [Wiki](details/KR188eZ9gRE.md) |
 | 61 | From 0 to N-Dimensions | 41 | May 19, 2026 | [Watch](https://youtu.be/6M76N3jhh1Q) | [Wiki](details/6M76N3jhh1Q.md) |
 | 62 | Mastering Machine Learning in Rust | 54 | May 19, 2026 | [Watch](https://youtu.be/htpvlYnX77w) | [Wiki](details/htpvlYnX77w.md) |
-| 63 | Async 1/0 in Zig 0.16, Today | 235 | May 17, 2026 | [Watch](https://youtu.be/jrD_LGNsJXM) | [Wiki](details/jrD_LGNsJXM.md) |
+| 63 | Async 1/0 in Zig 0.16, Today | 241 | May 17, 2026 | [Watch](https://youtu.be/jrD_LGNsJXM) | [Wiki](details/jrD_LGNsJXM.md) |
 | 64 | SlideVoice Studio Desktop Shell Architecture | 32 | May 17, 2026 | [Watch](https://youtu.be/ytA6gw6Tgaw) | [Wiki](details/ytA6gw6Tgaw.md) |
 | 65 | The Anatomy of Modern Text | 48 | May 17, 2026 | [Watch](https://youtu.be/bAoDvQgmGjM) | [Wiki](details/bAoDvQgmGjM.md) |
 | 66 | The Blueprint of Reactivity | 32 | May 16, 2026 | [Watch](https://youtu.be/Gy-ky1pAF0U) | [Wiki](details/Gy-ky1pAF0U.md) |
@@ -359,10 +359,10 @@ updated: 2026-08-09
 | 72 | SQLx | 37 | May 13, 2026 | [Watch](https://youtu.be/uz8nmkTPEpg) | [Wiki](details/uz8nmkTPEpg.md) |
 | 73 | Diagnostic Guide to Computer Vision Feature Detection | 35 | May 11, 2026 | [Watch](https://youtu.be/AvysIjFrTEw) | [Wiki](details/AvysIjFrTEw.md) |
 | 74 | OpenCV Library Architecture and Capabilities | 59 | May 11, 2026 | [Watch](https://youtu.be/ZfAc2pqcS-4) | [Wiki](details/ZfAc2pqcS-4.md) |
-| 75 | Inside the Typst Compiler Engine | 150 | May 10, 2026 | [Watch](https://youtu.be/B81dHVYOYJA) | [Wiki](details/B81dHVYOYJA.md) |
+| 75 | Inside the Typst Compiler Engine | 151 | May 10, 2026 | [Watch](https://youtu.be/B81dHVYOYJA) | [Wiki](details/B81dHVYOYJA.md) |
 | 76 | The ONNX Ecosystem | 65 | May 10, 2026 | [Watch](https://youtu.be/Qi_vpz_5j7g) | [Wiki](details/Qi_vpz_5j7g.md) |
-| 77 | Candle: A Minimalist Framework for Serverless ML Inference | 96 | May 9, 2026 | [Watch](https://youtu.be/8PaVKQoDReY) | [Wiki](details/8PaVKQoDReY.md) |
-| 78 | Engineering Al Agent Mastery with Waza | 456 | May 9, 2026 | [Watch](https://youtu.be/jOw6d5zH658) | [Wiki](details/jOw6d5zH658.md) |
+| 77 | Candle: A Minimalist Framework for Serverless ML Inference | 97 | May 9, 2026 | [Watch](https://youtu.be/8PaVKQoDReY) | [Wiki](details/8PaVKQoDReY.md) |
+| 78 | Engineering Al Agent Mastery with Waza | 460 | May 9, 2026 | [Watch](https://youtu.be/jOw6d5zH658) | [Wiki](details/jOw6d5zH658.md) |
 | 79 | Building the Unified Rust Backend | 760 | May 9, 2026 | [Watch](https://youtu.be/qAHyv6G3a7M) | [Wiki](details/qAHyv6G3a7M.md) |
 | 80 | Burn: The Rust Deep Learning Framework | 2.0K | May 8, 2026 | [Watch](https://youtu.be/_bFOZ51Q55Y) | [Wiki](details/_bFOZ51Q55Y.md) |
 | 81 | rr-mailtrap: The Developer's SMTP Sandbox | 26 | May 8, 2026 | [Watch](https://youtu.be/SuuZW_fuEFc) | [Wiki](details/SuuZW_fuEFc.md) |
@@ -373,17 +373,17 @@ updated: 2026-08-09
 | 86 | The Architect's ORM Blueprint | 38 | May 5, 2026 | [Watch](https://youtu.be/E30riOZ-YVo) | [Wiki](details/E30riOZ-YVo.md) |
 | 87 | Architecture Review: tn-file-upload | 28 | May 4, 2026 | [Watch](https://youtu.be/UOOkDh4RUbE) | [Wiki](details/UOOkDh4RUbE.md) |
 | 88 | The NestJS Architecture Blueprint | 50 | May 4, 2026 | [Watch](https://youtu.be/173Y2uPljgo) | [Wiki](details/173Y2uPljgo.md) |
-| 89 | The Echo Web Framework | 43 | May 3, 2026 | [Watch](https://youtu.be/QOYXBkMcnYk) | [Wiki](details/QOYXBkMcnYk.md) |
+| 89 | The Echo Web Framework | 44 | May 3, 2026 | [Watch](https://youtu.be/QOYXBkMcnYk) | [Wiki](details/QOYXBkMcnYk.md) |
 | 90 | Tracing Asynchronous Rust | 111 | May 3, 2026 | [Watch](https://youtu.be/d1MH4nza95g) | [Wiki](details/d1MH4nza95g.md) |
-| 91 | Modular Networking Architecture in Rust | 64 | May 3, 2026 | [Watch](https://youtu.be/07aDX5YB-ao) | [Wiki](details/07aDX5YB-ao.md) |
-| 92 | Hyper: The Foundation of Fast HTTP in Rust | 102 | May 2, 2026 | [Watch](https://youtu.be/DwAOCljoNoc) | [Wiki](details/DwAOCljoNoc.md) |
+| 91 | Modular Networking Architecture in Rust | 65 | May 3, 2026 | [Watch](https://youtu.be/07aDX5YB-ao) | [Wiki](details/07aDX5YB-ao.md) |
+| 92 | Hyper: The Foundation of Fast HTTP in Rust | 103 | May 2, 2026 | [Watch](https://youtu.be/DwAOCljoNoc) | [Wiki](details/DwAOCljoNoc.md) |
 | 93 | Architecting with Tonic | 157 | May 2, 2026 | [Watch](https://youtu.be/90hw9qwXbbw) | [Wiki](details/90hw9qwXbbw.md) |
-| 94 | The Axum Web Framework | 65 | May 1, 2026 | [Watch](https://youtu.be/J4iGUAXcAOA) | [Wiki](details/J4iGUAXcAOA.md) |
+| 94 | The Axum Web Framework | 66 | May 1, 2026 | [Watch](https://youtu.be/J4iGUAXcAOA) | [Wiki](details/J4iGUAXcAOA.md) |
 | 95 | The Compensating Transaction Pattern | 19 | Apr 30, 2026 | [Watch](https://youtu.be/xlwu0YwE3_Q) | [Wiki](details/xlwu0YwE3_Q.md) |
 | 96 | The Push Architecture Blueprint | 46 | Apr 30, 2026 | [Watch](https://youtu.be/oqi_jJl3tAQ) | [Wiki](details/oqi_jJl3tAQ.md) |
 | 97 | The Architecture of Similarity | 29 | Apr 29, 2026 | [Watch](https://youtu.be/GERT8PoS9Qk) | [Wiki](details/GERT8PoS9Qk.md) |
 | 98 | The Strangler Fig Pattern | 66 | Apr 28, 2026 | [Watch](https://youtu.be/4aAyFYemYD8) | [Wiki](details/4aAyFYemYD8.md) |
-| 99 | Agent Skills for Dart | 53 | Apr 28, 2026 | [Watch](https://youtu.be/i1HT5UIccTs) | [Wiki](details/i1HT5UIccTs.md) |
+| 99 | Agent Skills for Dart | 54 | Apr 28, 2026 | [Watch](https://youtu.be/i1HT5UIccTs) | [Wiki](details/i1HT5UIccTs.md) |
 | 100 | The Architecture of Systemic Decoupling | 56 | Apr 27, 2026 | [Watch](https://youtu.be/R3n8UxyD7mc) | [Wiki](details/R3n8UxyD7mc.md) |
 | 101 | Architecting the Next Evolution of the Local Database | 134 | Apr 27, 2026 | [Watch](https://youtu.be/EWwk29GzHgg) | [Wiki](details/EWwk29GzHgg.md) |
 | 102 | From Louvain to Leiden | 111 | Apr 26, 2026 | [Watch](https://youtu.be/BQ4wab0UtLg) | [Wiki](details/BQ4wab0UtLg.md) |
@@ -400,7 +400,7 @@ updated: 2026-08-09
 | 113 | Emacs Architecture, Neovim Philosophy | 294 | Apr 19, 2026 | [Watch](https://youtu.be/wKzz0jKiScM) | [Wiki](details/wKzz0jKiScM.md) |
 | 114 | Pastel Market: Engineering a Unified Terminal Workspace | 42 | Apr 19, 2026 | [Watch](https://youtu.be/feWjiYzQQ-k) | [Wiki](details/feWjiYzQQ-k.md) |
 | 115 | Emulating the Server Push | 17 | Apr 19, 2026 | [Watch](https://youtu.be/wZC8NL32yfg) | [Wiki](details/wZC8NL32yfg.md) |
-| 116 | Rust 1.95.0 | 247 | Apr 18, 2026 | [Watch](https://youtu.be/izLrX-02IQk) | [Wiki](details/izLrX-02IQk.md) |
+| 116 | Rust 1.95.0 | 248 | Apr 18, 2026 | [Watch](https://youtu.be/izLrX-02IQk) | [Wiki](details/izLrX-02IQk.md) |
 | 117 | Flutter Web Explained | 33 | Apr 18, 2026 | [Watch](https://youtu.be/q-6cUColzQQ) | [Wiki](details/q-6cUColzQQ.md) |
 | 118 | Mastering Go Pointers | 77 | Apr 17, 2026 | [Watch](https://youtu.be/VHuQi_1t5qQ) | [Wiki](details/VHuQi_1t5qQ.md) |
 | 119 | A Compiler, Not a Renderer | 158 | Apr 17, 2026 | [Watch](https://youtu.be/E8f87EV4k3A) | [Wiki](details/E8f87EV4k3A.md) |
@@ -414,7 +414,7 @@ updated: 2026-08-09
 | 127 | zig-lottie: Compiling Motion | 83 | Apr 11, 2026 | [Watch](https://youtu.be/QC-vaMcjq3M) | [Wiki](details/QC-vaMcjq3M.md) |
 | 128 | The Calculus of ALOHA Networks | 78 | Apr 10, 2026 | [Watch](https://youtu.be/s585HlqiyMQ) | [Wiki](details/s585HlqiyMQ.md) |
 | 129 | The Programmer's Guide to Essential RFCs | 110 | Apr 10, 2026 | [Watch](https://youtu.be/LackTxguXFg) | [Wiki](details/LackTxguXFg.md) |
-| 130 | Agent Skills for Flutter | 289 | Apr 10, 2026 | [Watch](https://youtu.be/TEGFwsAcxK8) | [Wiki](details/TEGFwsAcxK8.md) |
+| 130 | Agent Skills for Flutter | 294 | Apr 10, 2026 | [Watch](https://youtu.be/TEGFwsAcxK8) | [Wiki](details/TEGFwsAcxK8.md) |
 | 131 | The LLM Wiki Paradigm | 2.8K | Apr 9, 2026 | [Watch](https://youtu.be/BzvpasWYESU) | [Wiki](details/BzvpasWYESU.md) |
 | 132 | Leetgo | 59 | Apr 9, 2026 | [Watch](https://youtu.be/MuDJGnGTn3k) | [Wiki](details/MuDJGnGTn3k.md) |
 | 133 | The 2026 Change Data Capture Blueprint | 32 | Apr 8, 2026 | [Watch](https://youtu.be/am9FvNiJ24M) | [Wiki](details/am9FvNiJ24M.md) |
@@ -439,13 +439,13 @@ updated: 2026-08-09
 | 152 | zig-duckdb-ext | 65 | Mar 24, 2026 | [Watch](https://youtu.be/ymYtSum-2qc) | [Wiki](details/ymYtSum-2qc.md) |
 | 153 | Resilient Asynchronous Systems in Go | 39 | Mar 23, 2026 | [Watch](https://youtu.be/INNKxTAagE4) | [Wiki](details/INNKxTAagE4.md) |
 | 154 | Reins: The Framework for Al-Assisted Development | 80 | Mar 23, 2026 | [Watch](https://youtu.be/zrP3muXzQX4) | [Wiki](details/zrP3muXzQX4.md) |
-| 155 | Dial9 Demo - Deep Observability in Async Rust | 127 | Mar 22, 2026 | [Watch](https://youtu.be/vep9hSKc9I0) | [Wiki](details/vep9hSKc9I0.md) |
-| 156 | W3C Trace Context | 139 | Mar 21, 2026 | [Watch](https://youtu.be/wyIhJ3LMnRg) | [Wiki](details/wyIhJ3LMnRg.md) |
+| 155 | Dial9 Demo - Deep Observability in Async Rust | 128 | Mar 22, 2026 | [Watch](https://youtu.be/vep9hSKc9I0) | [Wiki](details/vep9hSKc9I0.md) |
+| 156 | W3C Trace Context | 143 | Mar 21, 2026 | [Watch](https://youtu.be/wyIhJ3LMnRg) | [Wiki](details/wyIhJ3LMnRg.md) |
 | 157 | The Geometry of Light | 30 | Mar 21, 2026 | [Watch](https://youtu.be/_mwtz_8lBWc) | [Wiki](details/_mwtz_8lBWc.md) |
 | 158 | The Flight Recorder for Tokio | 27 | Mar 20, 2026 | [Watch](https://youtu.be/lY5TU8qHduM) | [Wiki](details/lY5TU8qHduM.md) |
 | 159 | Beat - Anatomy of a Real-Time Visualizer | 27 | Mar 20, 2026 | [Watch](https://youtu.be/lin_ycbQGtE) | [Wiki](details/lin_ycbQGtE.md) |
-| 160 | Production-Ready RabbitMQ in Go | 106 | Mar 19, 2026 | [Watch](https://youtu.be/CXtHwJQphLI) | [Wiki](details/CXtHwJQphLI.md) |
-| 161 | Bevy-Demo | 183 | Mar 18, 2026 | [Watch](https://youtu.be/_zJ3_d1CODg) | [Wiki](details/_zJ3_d1CODg.md) |
+| 160 | Production-Ready RabbitMQ in Go | 107 | Mar 19, 2026 | [Watch](https://youtu.be/CXtHwJQphLI) | [Wiki](details/CXtHwJQphLI.md) |
+| 161 | Bevy-Demo | 185 | Mar 18, 2026 | [Watch](https://youtu.be/_zJ3_d1CODg) | [Wiki](details/_zJ3_d1CODg.md) |
 | 162 | How to Kill the Code Review | 145 | Mar 18, 2026 | [Watch](https://youtu.be/0HEqwk9UMOc) | [Wiki](details/0HEqwk9UMOc.md) |
 | 163 | Rebalancing the SDLC in the Al Era | 21 | Mar 17, 2026 | [Watch](https://youtu.be/Z98SHl4nSFI) | [Wiki](details/Z98SHl4nSFI.md) |
 | 164 | Building with Genkit Dart | 70 | Mar 15, 2026 | [Watch](https://youtu.be/FOkG5ScxU88) | [Wiki](details/FOkG5ScxU88.md) |
@@ -476,8 +476,8 @@ updated: 2026-08-09
 | 189 | The Complete Guide to Building Skills for Claude | 715 | Feb 27, 2026 | [Watch](https://youtu.be/JeqaHMmSh1s) | [Wiki](details/JeqaHMmSh1s.md) |
 | 190 | Flutter & Dart: The 2026 Roadmap | 62 | Feb 27, 2026 | [Watch](https://youtu.be/WMcKFQ200OE) | [Wiki](details/WMcKFQ200OE.md) |
 | 191 | Architecting Action: 10 NotebookLM Prompts | 164 | Feb 27, 2026 | [Watch](https://youtu.be/Wa0EHhhKV8Q) | [Wiki](details/Wa0EHhhKV8Q.md) |
-| 192 | React Native vs. Flutter for Enterprise Apps | 33 | Feb 26, 2026 | [Watch](https://youtu.be/jzjGcFkAnfs) | [Wiki](details/jzjGcFkAnfs.md) |
-| 193 | A Guide to Rust Smart Pointers | 53 | Feb 26, 2026 | [Watch](https://youtu.be/WdK7PED1ug8) | [Wiki](details/WdK7PED1ug8.md) |
+| 192 | React Native vs. Flutter for Enterprise Apps | 34 | Feb 26, 2026 | [Watch](https://youtu.be/jzjGcFkAnfs) | [Wiki](details/jzjGcFkAnfs.md) |
+| 193 | A Guide to Rust Smart Pointers | 54 | Feb 26, 2026 | [Watch](https://youtu.be/WdK7PED1ug8) | [Wiki](details/WdK7PED1ug8.md) |
 | 194 | PictureViewer | 15 | Feb 25, 2026 | [Watch](https://youtu.be/HiaotGxHTfo) | [Wiki](details/HiaotGxHTfo.md) |
 | 195 | Design Patterns in Go | 118 | Feb 24, 2026 | [Watch](https://youtu.be/DazzkNtnzec) | [Wiki](details/DazzkNtnzec.md) |
 | 196 | Composition by Design | 34 | Feb 23, 2026 | [Watch](https://youtu.be/ARWkoc3E8uE) | [Wiki](details/ARWkoc3E8uE.md) |
@@ -485,15 +485,15 @@ updated: 2026-08-09
 | 198 | Architecting Scalable Rust Backends | 80 | Feb 22, 2026 | [Watch](https://youtu.be/SpNfrWmI8iE) | [Wiki](details/SpNfrWmI8iE.md) |
 | 199 | Cryptographic Usability & The Tink Library | 23 | Feb 21, 2026 | [Watch](https://youtu.be/H-gkXATx8r0) | [Wiki](details/H-gkXATx8r0.md) |
 | 200 | Modern State Architecture: The Repository Pattern | 37 | Feb 20, 2026 | [Watch](https://youtu.be/3ybGkjogcFQ) | [Wiki](details/3ybGkjogcFQ.md) |
-| 201 | Modern Cryptography Standards: A Guide to AEAD | 106 | Feb 18, 2026 | [Watch](https://youtu.be/QBUQvfZJpaM) | [Wiki](details/QBUQvfZJpaM.md) |
+| 201 | Modern Cryptography Standards: A Guide to AEAD | 109 | Feb 18, 2026 | [Watch](https://youtu.be/QBUQvfZJpaM) | [Wiki](details/QBUQvfZJpaM.md) |
 | 202 | Bulletproof Frontend Architecture | 32 | Feb 16, 2026 | [Watch](https://youtu.be/5Vloo08zQ7o) | [Wiki](details/5Vloo08zQ7o.md) |
 | 203 | The Strategic Synthesis:Shift Left & Shift Right | 21 | Feb 16, 2026 | [Watch](https://youtu.be/5-ZNXQegVhs) | [Wiki](details/5-ZNXQegVhs.md) |
-| 204 | HelixDB: The Unified Graph-Vector Database | 256 | Feb 14, 2026 | [Watch](https://youtu.be/kQc99Io3pCo) | [Wiki](details/kQc99Io3pCo.md) |
+| 204 | HelixDB: The Unified Graph-Vector Database | 257 | Feb 14, 2026 | [Watch](https://youtu.be/kQc99Io3pCo) | [Wiki](details/kQc99Io3pCo.md) |
 | 205 | Go 1.26: The Era of Automated Modernization | 959 | Feb 14, 2026 | [Watch](https://youtu.be/zwVDEAKKPZY) | [Wiki](details/zwVDEAKKPZY.md) |
 | 206 | The Repository Pattern | 819 | Feb 13, 2026 | [Watch](https://youtu.be/cWozmWrqnxs) | [Wiki](details/cWozmWrqnxs.md) |
-| 207 | Burn: The Rust Deep Learning Framework | 752 | Feb 13, 2026 | [Watch](https://youtu.be/joYJ6rPN3UI) | [Wiki](details/joYJ6rPN3UI.md) |
+| 207 | Burn: The Rust Deep Learning Framework | 761 | Feb 13, 2026 | [Watch](https://youtu.be/joYJ6rPN3UI) | [Wiki](details/joYJ6rPN3UI.md) |
 | 208 | High-Performance Go: Inside the 1.26 Release | 221 | Feb 12, 2026 | [Watch](https://youtu.be/Qo3oJv4uyBI) | [Wiki](details/Qo3oJv4uyBI.md) |
-| 209 | Compound Engineering | 230 | Feb 11, 2026 | [Watch](https://youtu.be/cEwAbu6FFRo) | [Wiki](details/cEwAbu6FFRo.md) |
+| 209 | Compound Engineering | 231 | Feb 11, 2026 | [Watch](https://youtu.be/cEwAbu6FFRo) | [Wiki](details/cEwAbu6FFRo.md) |
 | 210 | The Hybrid TUI Architecture | 556 | Feb 10, 2026 | [Watch](https://youtu.be/IZX3_9rZeMU) | [Wiki](details/IZX3_9rZeMU.md) |
 | 211 | AEM + Meilisearch: A High-Performance Integration | 14 | Feb 10, 2026 | [Watch](https://youtu.be/KDnTY0Svmr0) | [Wiki](details/KDnTY0Svmr0.md) |
 | 212 | The Future of Al Programming:  2031 Strategic Outlook | 114 | Feb 9, 2026 | [Watch](https://youtu.be/qxOOl1hx1zU) | [Wiki](details/qxOOl1hx1zU.md) |
@@ -502,14 +502,14 @@ updated: 2026-08-09
 | 215 | Mastering Rust Error Handling | 17 | Feb 6, 2026 | [Watch](https://youtu.be/ZlEq2jFb8tI) | [Wiki](details/ZlEq2jFb8tI.md) |
 | 216 | Jujutsu (jj) for Git-compatible Workflow | 341 | Feb 5, 2026 | [Watch](https://youtu.be/TmlqoKqMD2Y) | [Wiki](details/TmlqoKqMD2Y.md) |
 | 217 | Jujutsu (jj):  An Introduction of its Paradigm Shift | 122 | Feb 5, 2026 | [Watch](https://youtu.be/5st-kLcNrE8) | [Wiki](details/5st-kLcNrE8.md) |
-| 218 | A Comprehensive Guide to Zig Fundamentals and Features | 485 | Feb 2, 2026 | [Watch](https://youtu.be/xV2EAL3NAVM) | [Wiki](details/xV2EAL3NAVM.md) |
+| 218 | A Comprehensive Guide to Zig Fundamentals and Features | 487 | Feb 2, 2026 | [Watch](https://youtu.be/xV2EAL3NAVM) | [Wiki](details/xV2EAL3NAVM.md) |
 | 219 | Modernizing Legacy COBOL | 28 | Feb 1, 2026 | [Watch](https://youtu.be/2Ni8zfsxW6o) | [Wiki](details/2Ni8zfsxW6o.md) |
 | 220 | Neural TTS in Pastel-HN | 46 | Feb 1, 2026 | [Watch](https://youtu.be/d_0swhS1LyQ) | [Wiki](details/d_0swhS1LyQ.md) |
-| 221 | A DeepDive into SIMD & Zig | 88 | Jan 31, 2026 | [Watch](https://youtu.be/TDWC1fFhn9g) | [Wiki](details/TDWC1fFhn9g.md) |
+| 221 | A DeepDive into SIMD & Zig | 90 | Jan 31, 2026 | [Watch](https://youtu.be/TDWC1fFhn9g) | [Wiki](details/TDWC1fFhn9g.md) |
 | 222 | Ralph: The Autonomous Vibe Coding Workflow | 34 | Jan 31, 2026 | [Watch](https://youtu.be/V2LbQqD1lMM) | [Wiki](details/V2LbQqD1lMM.md) |
 | 223 | Memory Layout in Zig | 62 | Jan 29, 2026 | [Watch](https://youtu.be/h31-NtagNoU) | [Wiki](details/h31-NtagNoU.md) |
 | 224 | Practical Data Oriented Design in Zig | 100 | Jan 29, 2026 | [Watch](https://youtu.be/o9yaniXkM-0) | [Wiki](details/o9yaniXkM-0.md) |
-| 225 | Mastering Serde in Rust  | 58 | Jan 28, 2026 | [Watch](https://youtu.be/RDa6WtZmW8E) | [Wiki](details/RDa6WtZmW8E.md) |
+| 225 | Mastering Serde in Rust  | 59 | Jan 28, 2026 | [Watch](https://youtu.be/RDa6WtZmW8E) | [Wiki](details/RDa6WtZmW8E.md) |
 | 226 | The Blue Screen Era | 51 | Jan 28, 2026 | [Watch](https://youtu.be/gBb1zn-QtY4) | [Wiki](details/gBb1zn-QtY4.md) |
 | 227 | Velox: Bring Tauri to Swift | 49 | Jan 27, 2026 | [Watch](https://youtu.be/Ul0ixBpd5iM) | [Wiki](details/Ul0ixBpd5iM.md) |
 | 228 | Mastering Memory in Rust | 53 | Jan 27, 2026 | [Watch](https://youtu.be/43UjmZtW2JU) | [Wiki](details/43UjmZtW2JU.md) |
@@ -564,4 +564,4 @@ updated: 2026-08-09
 - [Finance](finance.md) -- shared tags: `curiosity`, `ai`, `robotics`, `2026`, `levy`, `notebooklm`
 
 ---
-*Auto-generated on Aug 9, 2026. Back to [index](index.md).*
+*Auto-generated on Aug 11, 2026. Back to [index](index.md).*

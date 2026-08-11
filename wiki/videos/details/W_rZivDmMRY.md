@@ -32,7 +32,7 @@ This talk presents KubeRay as the native Kubernetes operator for orchestrating R
 
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 18 views · Apr 11, 2026 · [Details](a8heWpae5p0.md) (shared: `operator` · `distributed` · `kubernetes`)
 - [Architecting Kubernetes Operators](https://youtu.be/hvkvH7i8NLc) — Kubernetes · 18 views · May 31, 2026 · [Details](hvkvH7i8NLc.md) (shared: `kubernetes` · `custom` · `resources`)
-- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 13 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `operator` · `kubernetes` · `model`)
+- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 14 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `operator` · `kubernetes` · `model`)
 - [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) — Kubernetes · 12 views · May 6, 2026 · [Details](4YsX6tYi5x4.md) (shared: `kubernetes` · `pod` · `canary`)
 - [Deploying Istio Service Mesh on AWS](https://youtu.be/hs7CiLpLgnY) — Kubernetes · 2 views · Jul 23, 2026 · [Details](hs7CiLpLgnY.md) (shared: `zero` · `pod` · `gateway`)
 

@@ -33,7 +33,7 @@ This video provides a client-side blueprint for integrating with the ra-token-au
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 23 views · Jan 14, 2026 · [Details](A4-foXsdQiA.md) (shared: `zero trust` · `zero` · `trust`)
 - [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 24 views · Jan 16, 2026 · [Details](0ttrfTfP864.md) (shared: `zero` · `trust` · `authentication`)
 - [Modern Microservice Trust](https://youtu.be/SeYrpzDTn6A) — Development · 19 views · Jan 13, 2026 · [Details](SeYrpzDTn6A.md) (shared: `authentication` · `microservice` · `security`)
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 74 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `zero` · `trust` · `authentication`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 77 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `zero` · `trust` · `authentication`)
 - [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 2 views · Jan 6, 2026 · [Details](z_Ydy_-cI1U.md) (shared: `distributed` · `systems`)
 
 ---

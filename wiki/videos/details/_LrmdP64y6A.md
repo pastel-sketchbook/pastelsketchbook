@@ -32,8 +32,8 @@ This video presents a connoisseur's master class on apple varieties, treating po
 - [The Anatomy of a Giant](https://youtu.be/u5hQQZsLBwU) — Finance · 30 views · Jul 6, 2026 · [Details](u5hQQZsLBwU.md) (shared: `genetics`)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 43 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `architecture`)
 - [A global geography of folded dough](https://youtu.be/UorjmtDDRgQ) — Finance · 15 views · May 18, 2026 · [Details](UorjmtDDRgQ.md) (shared: `culinary`)
-- [Kimi K3 Infrastructure Economics](https://youtu.be/lEzp0tdrfFc) — Finance · 8 views · Aug 6, 2026 · [Details](lEzp0tdrfFc.md) (shared: `architecture`)
-- [The California vs. Texas Economic Rivalry](https://youtu.be/DMfE_eElLAc) — Finance · 27 views · Aug 3, 2026 · [Details](DMfE_eElLAc.md) (shared: `architecture`)
+- [Kimi K3 Infrastructure Economics](https://youtu.be/lEzp0tdrfFc) — Finance · 11 views · Aug 6, 2026 · [Details](lEzp0tdrfFc.md) (shared: `architecture`)
+- [The California vs. Texas Economic Rivalry](https://youtu.be/DMfE_eElLAc) — Finance · 28 views · Aug 3, 2026 · [Details](DMfE_eElLAc.md) (shared: `architecture`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

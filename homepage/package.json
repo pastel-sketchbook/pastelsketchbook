@@ -36,7 +36,7 @@
     "@react-three/fiber": "^9.7.0",
     "@tanstack/react-query": "^5.101.4",
     "@tanstack/react-router": "1.170.16",
-    "framer-motion": "^13.0.0",
+    "framer-motion": "^13.1.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "recharts": "^3.10.1",
@@ -45,7 +45,7 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.7",
+    "@biomejs/biome": "^2.5.8",
     "@tailwindcss/postcss": "^4.3.3",
     "@tanstack/router-cli": "1.167.20",
     "@testing-library/jest-dom": "7.0.0",
@@ -55,7 +55,7 @@
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.4",
     "@types/three": "^0.185.4",
-    "@vercel/node": "^5.9.7",
+    "@vercel/node": "^5.9.9",
     "@vitejs/plugin-react": "^6.0.5",
     "@vitest/coverage-v8": "^4.1.10",
     "daisyui": "^5.7.16",
@@ -63,7 +63,7 @@
     "postcss": "^8.5.26",
     "tailwindcss": "^4.3.3",
     "typescript": "^5.9.3",
-    "vercel": "^58.9.0",
+    "vercel": "^58.9.3",
     "vite": "^8.2.1",
     "vitest": "^4.1.10"
   },
