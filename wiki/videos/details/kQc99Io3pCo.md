@@ -31,9 +31,9 @@ HelixDB is a unified graph-vector database built natively in Rust that combines 
 
 - [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 35 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `database` · `data`)
 - [The 2026 State of Al Agents](https://youtu.be/BAxPZdgmgRQ) — Development · 4 views · Jan 8, 2026 · [Details](BAxPZdgmgRQ.md) (shared: `enterprise` · `infrastructure`)
-- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 59 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `rust` · `data`)
+- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 60 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `rust` · `data`)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 51 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `rust` · `data`)
-- [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 55 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `data` · `infrastructure`)
+- [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 59 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `data` · `infrastructure`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

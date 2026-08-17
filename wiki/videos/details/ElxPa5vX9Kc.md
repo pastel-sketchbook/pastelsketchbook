@@ -35,11 +35,11 @@ Microsoft's Build 2026 strategic blueprint for establishing Windows as the trust
 
 ## Related Videos
 
-- [Building Autonomous Agents with the Antigravity SDK](https://youtu.be/4q9gLzti6Lk) — Development · 113 views · Jun 22, 2026 · [Details](4q9gLzti6Lk.md) (shared: `agent` · `runtime` · `local`)
-- [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 97 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `copilot` · `agent` · `runtime`)
+- [Building Autonomous Agents with the Antigravity SDK](https://youtu.be/4q9gLzti6Lk) — Development · 115 views · Jun 22, 2026 · [Details](4q9gLzti6Lk.md) (shared: `agent` · `runtime` · `local`)
+- [Modular Playbook for Vertical Project Delivery](https://youtu.be/TErzICEXwRQ) — Development · 6 views · Aug 11, 2026 · [Details](TErzICEXwRQ.md) (shared: `platform` · `development` · `integration`)
+- [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 100 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `copilot` · `agent` · `runtime`)
 - [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 54 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `agent` · `runtime` · `development`)
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `agent` · `development`)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 294 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `agent` · `development`)
 
 ---
 

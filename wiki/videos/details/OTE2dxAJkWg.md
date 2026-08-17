@@ -33,7 +33,7 @@ This talk breaks down Flutter's layout engine through the "constraints go down, 
 
 - [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 57 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `flutter` · `framework`)
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `flutter` · `package`)
-- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 92 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `engine` · `constraints`)
+- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 93 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `engine` · `constraints`)
 - [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 158 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `layout`)
 - [The 10-Lens Research Analysis Framework](https://youtu.be/NztD5fYpXcg) — Development · 32 views · Mar 7, 2026 · [Details](NztD5fYpXcg.md) (shared: `framework`)
 

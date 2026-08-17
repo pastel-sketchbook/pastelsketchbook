@@ -32,9 +32,9 @@ This video provides a retirement blueprint for the critical 5-year window before
 
 - [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](EMXUbohWsWs.md) (shared: `planning` · `sequence of returns risk` · `sequence`)
 - [The Retirement Red Zone](https://youtu.be/KBfVy5-M-5k) — Finance · 15 views · Dec 31, 2025 · [Details](KBfVy5-M-5k.md) (shared: `sequence of returns risk` · `sequence` · `returns`)
+- [Navigating Growth and Taxes from 65 to 75](https://youtu.be/8zivk3Mxuf0) — Finance · 1 views · Aug 13, 2026 · [Details](8zivk3Mxuf0.md) (shared: `planning` · `social` · `security`)
 - [The Three Pillars of Financial Freedom](https://youtu.be/K1O4kHjFJaQ) — Finance · 15 views · Jan 23, 2026 · [Details](K1O4kHjFJaQ.md) (shared: `planning` · `social` · `security`)
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `pre-retirement` · `planning` · `retirement`)
-- [The Strategic Guide to Annuities](https://youtu.be/UGQ-ItKwJNw) — Finance · 38 views · May 28, 2026 · [Details](UGQ-ItKwJNw.md) (shared: `planning` · `risk` · `retirement`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

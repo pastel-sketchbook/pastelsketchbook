@@ -31,10 +31,10 @@ This video advocates treating git commit history as a living document that requi
 ## Related Videos
 
 - [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](B2x09utLjtM.md) (shared: `continuous` · `trunk-based development` · `trunk-based`)
-- [From Bottlenecks to Breakthroughs:](https://youtu.be/TLqdeHlAo3A) — Development · 61 views · Dec 27, 2025 · [Details](TLqdeHlAo3A.md) (shared: `trunk-based development` · `trunk-based` · `development`)
+- [From Bottlenecks to Breakthroughs:](https://youtu.be/TLqdeHlAo3A) — Development · 62 views · Dec 27, 2025 · [Details](TLqdeHlAo3A.md) (shared: `trunk-based development` · `trunk-based` · `development`)
+- [Modular Playbook for Vertical Project Delivery](https://youtu.be/TErzICEXwRQ) — Development · 6 views · Aug 11, 2026 · [Details](TErzICEXwRQ.md) (shared: `integration` · `development` · `strategy`)
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 21 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `git` · `development`)
 - [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 15 views · Jan 25, 2026 · [Details](3Fpey_L_XRU.md) (shared: `integration` · `development`)
-- [The Modern Git Playbook](https://youtu.be/Z06RjO-zFxI) — Development · 34 views · Jan 18, 2026 · [Details](Z06RjO-zFxI.md) (shared: `git` · `history`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

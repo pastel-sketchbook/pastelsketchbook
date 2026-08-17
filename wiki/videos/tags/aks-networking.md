@@ -2,7 +2,7 @@
 type: tag
 tags: [aks-networking]
 sources: 2
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # aks networking
@@ -15,4 +15,4 @@ Videos connected by the topic `aks networking`.
 - [Architecting AKS Networking - Trade-offs](https://youtu.be/F09-7mNt3F4) — Kubernetes · 16 views · Mar 12, 2026 · [Details](../details/F09-7mNt3F4.md)
 
 ---
-*Auto-generated on Aug 11, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 16, 2026. Back to [topic index](index.md).*

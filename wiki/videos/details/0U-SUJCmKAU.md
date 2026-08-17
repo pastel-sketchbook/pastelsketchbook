@@ -31,7 +31,7 @@ This video presents a four-stage blueprint for deploying, exposing, and securing
 ## Related Videos
 
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `kubernetes` · `zero trust` · `zero`)
-- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 21 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `rabbitmq` · `kubernetes` · `stateful workloads`)
+- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 22 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `rabbitmq` · `kubernetes` · `stateful workloads`)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 23 views · Apr 1, 2026 · [Details](BiYKKVsJROk.md) (shared: `aks` · `zero trust` · `zero`)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 23 views · Jan 14, 2026 · [Details](A4-foXsdQiA.md) (shared: `kubernetes` · `zero trust` · `zero`)
 - [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) — Kubernetes · 32 views · Jan 27, 2026 · [Details](KpSjLQpswW4.md) (shared: `kubernetes` · `zero trust` · `zero`)

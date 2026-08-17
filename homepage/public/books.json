@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T22:20:00.000Z",
+  "generatedAt": "2026-08-17T00:57:40.000Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -59,7 +59,8 @@
             "neqE9X2kSuY",
             "1RqgRdlIO8M",
             "hs7CiLpLgnY",
-            "PVwzHpsrVcc"
+            "PVwzHpsrVcc",
+            "LGKBWq8g1u4"
           ],
           "tags": [
             "zero-trust",
@@ -183,7 +184,8 @@
             "eZNBXDUc8OQ",
             "9ga0NT3ZohQ",
             "i8wjbDfxZTY",
-            "X65YHZUnFq0"
+            "X65YHZUnFq0",
+            "k6zku1bFzAM"
           ],
           "tags": [
             "devops",
@@ -215,7 +217,8 @@
             "BNznoJHQDW0",
             "Aw8arLm35M8",
             "md9nXDH1u7Q",
-            "DMfE_eElLAc"
+            "DMfE_eElLAc",
+            "8zivk3Mxuf0"
           ],
           "tags": [
             "finance",
@@ -270,7 +273,8 @@
             "lXwe6xeFmAE",
             "BZm2J9sLEp8",
             "mMVWnnAqPQk",
-            "QWQcpxHE6E8"
+            "QWQcpxHE6E8",
+            "TErzICEXwRQ"
           ],
           "tags": [
             "architecture",
@@ -654,7 +658,9 @@
             "WI8yUaPon0w",
             "yZLe26ZkBT4",
             "0wth_46Vtmo",
-            "lEzp0tdrfFc"
+            "lEzp0tdrfFc",
+            "nSMpZpj6Jzc",
+            "Cmnangq7Ndw"
           ],
           "tags": [
             "onnx",

@@ -31,11 +31,11 @@ This talk frames “AI engineering” as a distinct discipline: not just trainin
 
 ## Related Videos
 
-- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 92 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `cache` · `quantization` · `hardware`)
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 100 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `engineering` · `cache` · `design`)
+- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 93 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `cache` · `quantization` · `hardware`)
+- [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 17 views · Aug 14, 2026 · [Details](nSMpZpj6Jzc.md) (shared: `inference` · `cache` · `quantization`)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 102 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `engineering` · `cache` · `design`)
 - [The Confluent Systems Master Plan](https://youtu.be/J6dRkXZhnIQ) — Development · 68 views · Jul 9, 2026 · [Details](J6dRkXZhnIQ.md) (shared: `engineering` · `systems` · `gpu`)
-- [Kimi K3 Infrastructure Economics](https://youtu.be/lEzp0tdrfFc) — Finance · 11 views · Aug 6, 2026 · [Details](lEzp0tdrfFc.md) (shared: `gpu` · `cluster` · `scaling`)
-- [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `systems` · `design`)
+- [Kimi K3 Infrastructure Economics](https://youtu.be/lEzp0tdrfFc) — Finance · 14 views · Aug 6, 2026 · [Details](lEzp0tdrfFc.md) (shared: `gpu` · `cluster` · `scaling`)
 
 ---
 *Auto-generated on Apr 25, 2026. Back to [development](../development.md) · [index](../index.md).*

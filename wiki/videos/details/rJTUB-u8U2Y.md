@@ -32,7 +32,7 @@ This video builds a mental model of Kubernetes cluster architecture by explainin
 
 - [The Anatomy of Kubernetes](https://youtu.be/WrZN5AgpaW4) — Kubernetes · 28 views · May 12, 2026 · [Details](WrZN5AgpaW4.md) (shared: `kubernetes` · `control` · `plane`)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) — Kubernetes · 25 views · Feb 21, 2026 · [Details](ORjARjbukhY.md) (shared: `kubernetes architecture` · `kubernetes` · `architecture`)
-- [Mastering Batch Workload Orchestration on Kubernetes](https://youtu.be/XKTtea0xGsA) — Kubernetes · 22 views · Jul 17, 2026 · [Details](XKTtea0xGsA.md) (shared: `kubernetes` · `pod` · `scheduling`)
+- [Mastering Batch Workload Orchestration on Kubernetes](https://youtu.be/XKTtea0xGsA) — Kubernetes · 24 views · Jul 17, 2026 · [Details](XKTtea0xGsA.md) (shared: `kubernetes` · `pod` · `scheduling`)
 - [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `kubernetes` · `architecture`)
 - [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) — Kubernetes · 18 views · Jan 2, 2026 · [Details](8ycnldvJmuA.md) (shared: `kubernetes` · `architecture`)
 

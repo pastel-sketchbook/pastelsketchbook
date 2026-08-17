@@ -33,9 +33,9 @@ This guide maps the 2025–2026 annuity landscape across three core retirement o
 
 - [The Final 5 Years](https://youtu.be/G-vvSNwm-jE) — Finance · 19 views · Mar 20, 2026 · [Details](G-vvSNwm-jE.md) (shared: `income` · `risk` · `retirement`)
 - [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](EMXUbohWsWs.md) (shared: `risk` · `retirement` · `planning`)
+- [Navigating Growth and Taxes from 65 to 75](https://youtu.be/8zivk3Mxuf0) — Finance · 1 views · Aug 13, 2026 · [Details](8zivk3Mxuf0.md) (shared: `income` · `retirement` · `planning`)
 - [The Three Pillars of Financial Freedom](https://youtu.be/K1O4kHjFJaQ) — Finance · 15 views · Jan 23, 2026 · [Details](K1O4kHjFJaQ.md) (shared: `retirement` · `planning`)
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `retirement` · `planning`)
-- [The Retirement Red Zone](https://youtu.be/KBfVy5-M-5k) — Finance · 15 views · Dec 31, 2025 · [Details](KBfVy5-M-5k.md) (shared: `risk` · `retirement`)
 
 ---
 *Auto-generated on May 28, 2026. Back to [finance](../finance.md) · [index](../index.md).*

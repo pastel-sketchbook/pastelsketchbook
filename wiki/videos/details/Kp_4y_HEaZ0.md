@@ -11,9 +11,9 @@ summarized: 2026-06-08T23:05:00.000Z
 
 - [The Joy of Cryptography](https://youtu.be/7dsz_yUpvqM) — Security · 11 views · Jul 27, 2026 · [Details](7dsz_yUpvqM.md) (shared: `key` · `resistance`)
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 23 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `nist`)
-- [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 22 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `nist`)
+- [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 23 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `nist`)
 - [Escaping the env Ceiling](https://youtu.be/kc1gwl89iyw) — Security · 29 views · Jun 18, 2026 · [Details](kc1gwl89iyw.md) (shared: `entropy`)
-- [The 25519 Cryptographic Family](https://youtu.be/MzdV5hjPdsI) — Security · 18 views · Jun 28, 2026 · [Details](MzdV5hjPdsI.md) (shared: `key`)
+- [The 25519 Cryptographic Family](https://youtu.be/MzdV5hjPdsI) — Security · 19 views · Jun 28, 2026 · [Details](MzdV5hjPdsI.md) (shared: `key`)
 
 ---
 

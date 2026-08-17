@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-08-11
+updated: 2026-08-17
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 176
+Total topics: 177
 
 ## Topics
 
@@ -53,6 +53,7 @@ Total topics: 176
 - [joseon dynasty](joseon-dynasty.md) (3)
 - [korean history](korean-history.md) (3)
 - [korean programming tutorial](korean-programming-tutorial.md) (3)
+- [kv cache management](kv-cache-management.md) (3)
 - [paseto tokens](paseto-tokens.md) (3)
 - [platform engineering](platform-engineering.md) (3)
 - [retirement planning](retirement-planning.md) (3)
@@ -65,6 +66,8 @@ Total topics: 176
 - [tower middleware](tower-middleware.md) (3)
 - [traffic management](traffic-management.md) (3)
 - [trunk-based development](trunk-based-development.md) (3)
+- [workload identity](workload-identity.md) (3)
+- [zero trust architecture](zero-trust-architecture.md) (3)
 - [zero-cost abstractions](zero-cost-abstractions.md) (3)
 - [zig programming](zig-programming.md) (3)
 - [agentic orchestration](agentic-orchestration.md) (2)
@@ -102,6 +105,7 @@ Total topics: 176
 - [echo web framework](echo-web-framework.md) (2)
 - [enterprise ai deployment](enterprise-ai-deployment.md) (2)
 - [event-driven design](event-driven-design.md) (2)
+- [executable specifications](executable-specifications.md) (2)
 - [explicit allocators](explicit-allocators.md) (2)
 - [facade pattern](facade-pattern.md) (2)
 - [fault tolerance](fault-tolerance.md) (2)
@@ -125,7 +129,6 @@ Total topics: 176
 - [kubernetes orchestration](kubernetes-orchestration.md) (2)
 - [kubernetes security](kubernetes-security.md) (2)
 - [kubernetes services](kubernetes-services.md) (2)
-- [kv cache management](kv-cache-management.md) (2)
 - [local-first search](local-first-search.md) (2)
 - [lsp](lsp.md) (2)
 - [macos development](macos-development.md) (2)
@@ -183,10 +186,8 @@ Total topics: 176
 - [verlet integration](verlet-integration.md) (2)
 - [wasm](wasm.md) (2)
 - [workload archetypes](workload-archetypes.md) (2)
-- [workload identity](workload-identity.md) (2)
 - [workload identity federation](workload-identity-federation.md) (2)
 - [write-ahead log](write-ahead-log.md) (2)
-- [zero trust architecture](zero-trust-architecture.md) (2)
 
 ---
-*Auto-generated on Aug 11, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Aug 16, 2026. Back to [videos index](../index.md).*

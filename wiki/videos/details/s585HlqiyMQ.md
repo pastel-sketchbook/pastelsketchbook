@@ -32,8 +32,8 @@ This video explores the mathematical foundations of ALOHA random access network 
 
 - [Deconstructing the Bridge](https://youtu.be/JNHxVHyzWdE) — Development · 26 views · Jun 1, 2026 · [Details](JNHxVHyzWdE.md) (shared: `protocol` · `access` · `analysis`)
 - [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 23 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `networking` · `communication`)
-- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 57 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `protocol` · `networking`)
-- [Parallel Agents in Zed](https://youtu.be/0wth_46Vtmo) — Development · 32 views · Aug 4, 2026 · [Details](0wth_46Vtmo.md) (shared: `protocol` · `collision`)
+- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 59 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `protocol` · `networking`)
+- [Parallel Agents in Zed](https://youtu.be/0wth_46Vtmo) — Development · 51 views · Aug 4, 2026 · [Details](0wth_46Vtmo.md) (shared: `protocol` · `collision`)
 - [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 62 views · Apr 20, 2026 · [Details](FM6zp63maS8.md) (shared: `protocol`)
 
 ---

@@ -30,11 +30,11 @@ This video examines the DORA State of AI-assisted Software Development research 
 
 ## Related Videos
 
-- [From Bottlenecks to Breakthroughs:](https://youtu.be/TLqdeHlAo3A) — Development · 61 views · Dec 27, 2025 · [Details](TLqdeHlAo3A.md) (shared: `dora` · `delivery`)
+- [Modular Playbook for Vertical Project Delivery](https://youtu.be/TErzICEXwRQ) — Development · 6 views · Aug 11, 2026 · [Details](TErzICEXwRQ.md) (shared: `integration` · `delivery` · `software`)
+- [From Bottlenecks to Breakthroughs:](https://youtu.be/TLqdeHlAo3A) — Development · 62 views · Dec 27, 2025 · [Details](TLqdeHlAo3A.md) (shared: `dora` · `delivery`)
 - [The 10-Lens Research Analysis Framework](https://youtu.be/NztD5fYpXcg) — Development · 32 views · Mar 7, 2026 · [Details](NztD5fYpXcg.md) (shared: `research`)
 - [The Center Has a Bias](https://youtu.be/a1hIA6KQUFE) — Development · 38 views · Apr 13, 2026 · [Details](a1hIA6KQUFE.md) (shared: `adoption`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `integration`)
-- [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `software`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

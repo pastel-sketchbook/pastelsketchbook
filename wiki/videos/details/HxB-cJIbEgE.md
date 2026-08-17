@@ -32,9 +32,9 @@ This video explains how PingFederate orchestrates two-factor authentication as a
 
 - [Modern Hybrid Identity ](https://youtu.be/nJ10P-fRqZQ) — Kubernetes · 8 views · Mar 17, 2026 · [Details](nJ10P-fRqZQ.md) (shared: `identity` · `saml` · `oidc`)
 - [The Architecture of Modern Identity](https://youtu.be/n-Yt33ZdEHw) — Kubernetes · 62 views · Mar 18, 2026 · [Details](n-Yt33ZdEHw.md) (shared: `identity` · `saml` · `oauth`)
+- [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) — Security · 2 views · Aug 16, 2026 · [Details](LGKBWq8g1u4.md) (shared: `authentication` · `identity` · `oidc`)
 - [The Orchestrator's Blueprint](https://youtu.be/Oa3jaLNSZvM) — Security · 36 views · Feb 28, 2026 · [Details](Oa3jaLNSZvM.md) (shared: `orchestration`)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 215 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `identity`)
-- [A Blueprint for Secure Azure Authentication in Go](https://youtu.be/R2zktRqz81U) — Kubernetes · 18 views · Jan 12, 2026 · [Details](R2zktRqz81U.md) (shared: `authentication` · `identity`)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 219 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `identity`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

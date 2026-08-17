@@ -34,7 +34,7 @@ A strategic, data-driven guide for expatriates planning a 2026 relocation to Ecu
 - [Dossier de Reubicación e Inversión: Panamá 2026](https://youtu.be/ApeNMU7KDH0) — Korea · 5 views · May 18, 2026 · [Details](ApeNMU7KDH0.md) (shared: `relocation` · `living` · `visa`)
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `planning` · `retirement` · `strategy`)
 - [The Final 5 Years](https://youtu.be/G-vvSNwm-jE) — Finance · 19 views · Mar 20, 2026 · [Details](G-vvSNwm-jE.md) (shared: `planning` · `retirement` · `strategy`)
-- [Seúl 2026: Tu Diario de Viaje](https://youtu.be/kvdBJSRUchA) — Korea · 13 views · Feb 11, 2026 · [Details](kvdBJSRUchA.md) (shared: `visa`)
+- [Navigating Growth and Taxes from 65 to 75](https://youtu.be/8zivk3Mxuf0) — Finance · 1 views · Aug 13, 2026 · [Details](8zivk3Mxuf0.md) (shared: `planning` · `retirement` · `strategy`)
 
 ---
 *Auto-generated on May 20, 2026. Back to [korea](../korea.md) · [index](../index.md).*

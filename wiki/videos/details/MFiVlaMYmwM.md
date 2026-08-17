@@ -30,11 +30,11 @@ The Microsoft Agent Governance Toolkit is a public preview framework for enforci
 
 ## Related Videos
 
-- [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 46 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `zero` · `trust` · `identity`)
-- [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 22 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `zero` · `trust` · `security`)
+- [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) — Security · 2 views · Aug 16, 2026 · [Details](LGKBWq8g1u4.md) (shared: `agent` · `zero` · `trust`)
+- [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 47 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `zero` · `trust` · `identity`)
+- [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 23 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `zero` · `trust` · `security`)
 - [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 59 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `agent` · `security`)
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 25 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `owasp` · `security`)
-- [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 23 views · Jan 14, 2026 · [Details](A4-foXsdQiA.md) (shared: `zero` · `trust` · `identity`)
 
 ---
 *Auto-generated on May 24, 2026. Back to [security](../security.md) · [index](../index.md).*
