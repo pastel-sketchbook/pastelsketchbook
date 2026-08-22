@@ -216,7 +216,40 @@ function simulate(nodes: GraphNode[], edges: GraphEdge[], iterations: number) {
   }
 }
 
-// -- Three.js Components (render-only, no event handlers) --
+// -- Edge geometry (built in parent so the highlight pass can mutate colors) --
+
+function buildEdgeGeometry(nodes: GraphNode[], edges: GraphEdge[]) {
+  const positions = new Float32Array(edges.length * 6)
+  const colors = new Float32Array(edges.length * 6)
+
+  for (let i = 0; i < edges.length; i++) {
+    const a = nodes[edges[i].from]
+    const b = nodes[edges[i].to]
+    const offset = i * 6
+
+    positions[offset] = a.x
+    positions[offset + 1] = a.y
+    positions[offset + 2] = a.z
+    positions[offset + 3] = b.x
+    positions[offset + 4] = b.y
+    positions[offset + 5] = b.z
+
+    const colA = new THREE.Color(CATEGORY_COLORS[a.category] || '#ffffff')
+    const colB = new THREE.Color(CATEGORY_COLORS[b.category] || '#ffffff')
+
+    colors[offset] = colA.r
+    colors[offset + 1] = colA.g
+    colors[offset + 2] = colA.b
+    colors[offset + 3] = colB.r
+    colors[offset + 4] = colB.g
+    colors[offset + 5] = colB.b
+  }
+
+  const geo = new THREE.BufferGeometry()
+  geo.setAttribute('position', new THREE.Float32BufferAttribute(positions, 3))
+  geo.setAttribute('color', new THREE.Float32BufferAttribute(colors.slice(), 3))
+  return { geo, baseColors: colors }
+}
 
 function Nodes({
   nodes,
@@ -260,50 +293,6 @@ function Nodes({
       <sphereGeometry args={[1, 16, 16]} />
       <meshBasicMaterial toneMapped={false} />
     </instancedMesh>
-  )
-}
-
-function Edges({ nodes, edges }: { nodes: GraphNode[]; edges: GraphEdge[] }) {
-  const geometry = useMemo(() => {
-    const positions = new Float32Array(edges.length * 6)
-    const colors = new Float32Array(edges.length * 6)
-
-    for (let i = 0; i < edges.length; i++) {
-      const a = nodes[edges[i].from]
-      const b = nodes[edges[i].to]
-      const offset = i * 6
-
-      positions[offset] = a.x
-      positions[offset + 1] = a.y
-      positions[offset + 2] = a.z
-      positions[offset + 3] = b.x
-      positions[offset + 4] = b.y
-      positions[offset + 5] = b.z
-
-      const colA = new THREE.Color(CATEGORY_COLORS[a.category] || '#ffffff')
-      const colB = new THREE.Color(CATEGORY_COLORS[b.category] || '#ffffff')
-
-      colors[offset] = colA.r
-      colors[offset + 1] = colA.g
-      colors[offset + 2] = colA.b
-      colors[offset + 3] = colB.r
-      colors[offset + 4] = colB.g
-      colors[offset + 5] = colB.b
-    }
-
-    const geo = new THREE.BufferGeometry()
-    geo.setAttribute('position', new THREE.Float32BufferAttribute(positions, 3))
-    geo.setAttribute('color', new THREE.Float32BufferAttribute(colors, 3))
-    return geo
-  }, [nodes, edges])
-
-  // Manually-created BufferGeometry isn't auto-disposed by R3F on unmount.
-  useEffect(() => () => geometry.dispose(), [geometry])
-
-  return (
-    <lineSegments geometry={geometry}>
-      <lineBasicMaterial vertexColors transparent opacity={0.35} />
-    </lineSegments>
   )
 }
 
@@ -470,18 +459,38 @@ function useGraphInteraction(
   }
 }
 
+// -- Search matching --
+
+function matchesQuery(n: GraphNode, q: string): boolean {
+  if (!q) return false
+  return (
+    n.title.toLowerCase().includes(q) ||
+    catLabel(n.category).toLowerCase().includes(q) ||
+    n.tags.some((t) => t.includes(q))
+  )
+}
+
 // -- Main Export --
 
 export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
   const meshRef = useRef<THREE.InstancedMesh | null>(null)
   const cameraRef = useRef<THREE.Camera | null>(null)
   const glRef = useRef<THREE.WebGLRenderer | null>(null)
+  const [query, setQuery] = useState('')
 
   const { nodes, edges } = useMemo(() => {
     const graph = buildGraph(wiki)
     simulate(graph.nodes, graph.edges, 80)
     return graph
   }, [wiki])
+
+  const { geo: edgeGeo, baseColors } = useMemo(
+    () => buildEdgeGeometry(nodes, edges),
+    [nodes, edges],
+  )
+
+  // Manually-created BufferGeometry isn't auto-disposed by R3F.
+  useEffect(() => () => edgeGeo.dispose(), [edgeGeo])
 
   const {
     hoveredNode,
@@ -492,6 +501,44 @@ export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
     handlePointerMove,
     handleClick,
   } = useGraphInteraction(nodes, meshRef, cameraRef, glRef)
+
+  // Highlight pass: dim everything not matching the search query. Runs after
+  // the child Nodes effect resets instance colors each render.
+  useEffect(() => {
+    const mesh = meshRef.current
+    if (!mesh || !mesh.instanceColor) return
+
+    const q = query.trim().toLowerCase()
+    let highlight: Set<number> | null = null
+    if (q) {
+      highlight = new Set<number>()
+      nodes.forEach((n, i) => {
+        if (matchesQuery(n, q)) highlight!.add(i)
+      })
+      if (highlight.size === 0) highlight = null
+    }
+
+    const tempColor = new THREE.Color()
+    const instanceColor = mesh.instanceColor
+    for (let i = 0; i < nodes.length; i++) {
+      const n = nodes[i]
+      tempColor.set(CATEGORY_COLORS[n.category] || '#ffffff')
+      if (highlight && !highlight.has(i)) tempColor.multiplyScalar(0.22)
+      instanceColor.setXYZ(i, tempColor.r, tempColor.g, tempColor.b)
+    }
+    instanceColor.needsUpdate = true
+
+    const colorAttr = edgeGeo.getAttribute('color') as THREE.BufferAttribute
+    const arr = colorAttr.array as Float32Array
+    for (let i = 0; i < edges.length; i++) {
+      const { from, to } = edges[i]
+      const lit =
+        !highlight || highlight.has(from) || highlight.has(to) ? 1 : 0.15
+      const offset = i * 6
+      for (let k = 0; k < 6; k++) arr[offset + k] = baseColors[offset + k] * lit
+    }
+    colorAttr.needsUpdate = true
+  }, [nodes, edges, edgeGeo, baseColors, query])
 
   const handleCreated = useCallback(
     (state: { camera: THREE.Camera; gl: THREE.WebGLRenderer }) => {
@@ -515,13 +562,58 @@ export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
       onPointerMove={handlePointerMove}
       onClick={handleClick}
     >
+      {/* Search */}
+      <div className="absolute left-6 top-14 z-10 flex items-center gap-2 w-64 px-4 py-2 rounded-full bg-white/70 backdrop-blur-sm border border-[#1e232b]/10 focus-within:border-[#5F7D61] transition-colors">
+        <svg
+          className="w-3.5 h-3.5 flex-shrink-0 text-[#1e232b]/40"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="2"
+          viewBox="0 0 24 24"
+        >
+          <circle cx="11" cy="11" r="7" />
+          <path strokeLinecap="round" d="M21 21l-4.35-4.35" />
+        </svg>
+        <input
+          type="search"
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          onKeyDown={(e) => {
+            if (e.key === 'Escape') setQuery('')
+          }}
+          placeholder="Search videos…"
+          aria-label="Search graph videos by title or topic"
+          className="w-full bg-transparent outline-none text-xs text-[#1e232b] placeholder:text-[#1e232b]/30"
+        />
+        {query && (
+          <button
+            type="button"
+            onClick={() => setQuery('')}
+            aria-label="Clear search"
+            className="flex-shrink-0 text-[#1e232b]/40 hover:text-[#1e232b] transition-colors"
+          >
+            <svg
+              className="w-3.5 h-3.5"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              viewBox="0 0 24 24"
+            >
+              <path strokeLinecap="round" strokeLinejoin="round" d="M18 6L6 18M6 6l12 12" />
+            </svg>
+          </button>
+        )}
+      </div>
+
       <Canvas
         camera={{ position: [0, 20, 60], fov: 50 }}
         gl={{ antialias: true, alpha: true, toneMapping: THREE.NoToneMapping }}
         style={{ cursor: hoveredNode ? 'pointer' : 'grab' }}
         onCreated={handleCreated}
       >
-        <Edges nodes={nodes} edges={edges} />
+        <lineSegments geometry={edgeGeo}>
+          <lineBasicMaterial vertexColors transparent opacity={0.35} />
+        </lineSegments>
         <Nodes nodes={nodes} meshRef={meshRef} />
         <OrbitControls
           enableDamping
