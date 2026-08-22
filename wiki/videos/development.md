@@ -209,7 +209,7 @@ updated: 2026-08-22
 
 ### Go (35 videos)
 
-- [Go 1.27: Future-Proofing the Foundation](https://youtu.be/g0b4WhDKyE8) -- 20 views, Aug 20, 2026 · [Details](details/g0b4WhDKyE8.md)
+- [Go 1.27: Future-Proofing the Foundation](https://youtu.be/g0b4WhDKyE8) -- 22 views, Aug 20, 2026 · [Details](details/g0b4WhDKyE8.md)
 - [The Engine of a Modern Task Runner](https://youtu.be/sMo3KnNup34) -- 101 views, Aug 1, 2026 · [Details](details/sMo3KnNup34.md)
 - [The Rust SPNEGO Hub](https://youtu.be/33odiiNMGzQ) -- 23 views, Jul 3, 2026 · [Details](details/33odiiNMGzQ.md)
 - [Building Autonomous Agents with the Antigravity SDK](https://youtu.be/4q9gLzti6Lk) -- 124 views, Jun 22, 2026 · [Details](details/4q9gLzti6Lk.md)
@@ -289,7 +289,7 @@ updated: 2026-08-22
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Go 1.27: Future-Proofing the Foundation | 20 | Aug 20, 2026 | [Watch](https://youtu.be/g0b4WhDKyE8) | [Wiki](details/g0b4WhDKyE8.md) |
+| 1 | Go 1.27: Future-Proofing the Foundation | 22 | Aug 20, 2026 | [Watch](https://youtu.be/g0b4WhDKyE8) | [Wiki](details/g0b4WhDKyE8.md) |
 | 2 | SpaceWasm: Executing WebAssembly in deep space environments | 4 | Aug 18, 2026 | [Watch](https://youtu.be/NuAqkcx6u-U) | [Wiki](details/NuAqkcx6u-U.md) |
 | 3 | DwarfStar DS4 Technical Architecture | 25 | Aug 14, 2026 | [Watch](https://youtu.be/nSMpZpj6Jzc) | [Wiki](details/nSMpZpj6Jzc.md) |
 | 4 | Modular Playbook for Vertical Project Delivery | 7 | Aug 11, 2026 | [Watch](https://youtu.be/TErzICEXwRQ) | [Wiki](details/TErzICEXwRQ.md) |

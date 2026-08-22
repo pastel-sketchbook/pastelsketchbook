@@ -1982,7 +1982,7 @@
     {
       "id": "g0b4WhDKyE8",
       "title": "Go 1.27: Future-Proofing the Foundation",
-      "views": 20,
+      "views": 22,
       "date": "2026-08-20T23:00:26Z",
       "tags": [
         "go",
@@ -6088,6 +6088,6 @@
       "isShort": false
     }
   ],
-  "generatedAt": "2026-08-22T00:32:51.573Z",
+  "generatedAt": "2026-08-22T00:52:11.294Z",
   "count": 460
 }

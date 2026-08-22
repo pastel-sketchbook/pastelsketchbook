@@ -675,6 +675,8 @@ export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
     <div
       className="w-full relative"
       style={{ height: 'calc(100vh - 80px)' }}
+      role="img"
+      aria-label={`Interactive 3D map of ${nodes.length} wiki videos in six category clusters. Hover a dot to preview it; click to open the video.`}
       onPointerDown={handlePointerDown}
       onPointerMove={handlePointerMove}
       onClick={handleClick}
@@ -742,6 +744,11 @@ export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
       </Canvas>
 
       <CategoryLegend hiddenCats={hiddenCats} onToggleCat={toggleCat} />
+
+      {/* Stats chip */}
+      <div className="absolute bottom-4 left-6 z-10 px-4 py-2 rounded-full bg-white/70 backdrop-blur-sm border border-[#1e232b]/10 text-[10px] font-bold uppercase tracking-widest text-[#1e232b]/50">
+        {nodes.length} videos · {fmtViews(edges.length)} links
+      </div>
 
       {hoveredNode && (
         <HoverPopup
