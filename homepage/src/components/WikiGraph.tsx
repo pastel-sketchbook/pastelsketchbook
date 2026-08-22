@@ -253,18 +253,15 @@ function buildEdgeGeometry(nodes: GraphNode[], edges: GraphEdge[]) {
 
 function Nodes({
   nodes,
+  maxViews,
   meshRef,
 }: {
   nodes: GraphNode[]
+  maxViews: number
   meshRef: React.RefObject<THREE.InstancedMesh | null>
 }) {
   const tempObj = useMemo(() => new THREE.Object3D(), [])
   const tempColor = useMemo(() => new THREE.Color(), [])
-
-  const maxViews = useMemo(
-    () => Math.max(...nodes.map((n) => n.views), 1),
-    [nodes],
-  )
 
   useEffect(() => {
     if (!meshRef.current) return
@@ -459,6 +456,53 @@ function useGraphInteraction(
   }
 }
 
+// -- Category legend (interactive filters) --
+
+function CategoryLegend({
+  hiddenCats,
+  onToggleCat,
+}: {
+  hiddenCats: ReadonlySet<string>
+  onToggleCat: (cat: string) => void
+}) {
+  return (
+    <div className="absolute top-4 right-6 z-10 bg-white/70 backdrop-blur-sm rounded-xl p-4 text-xs text-[#1e232b]/70 border border-[#1e232b]/10">
+      <div className="font-bold uppercase tracking-widest text-[#1e232b]/40 mb-2">
+        Categories
+      </div>
+      <div className="space-y-1.5">
+        {Object.keys(CATEGORY_COLORS).map((key) => {
+          const isHidden = hiddenCats.has(key)
+          return (
+            <button
+              key={key}
+              type="button"
+              aria-pressed={!isHidden}
+              onClick={() => onToggleCat(key)}
+              className={`flex w-full items-center gap-2 text-left transition-all duration-150 ${
+                isHidden
+                  ? 'opacity-30 line-through'
+                  : 'hover:translate-x-0.5 hover:opacity-100'
+              }`}
+              title={isHidden ? `Show ${catLabel(key)}` : `Hide ${catLabel(key)}`}
+            >
+              <span
+                className="w-3 h-3 rounded-full flex-shrink-0"
+                style={{ backgroundColor: CATEGORY_COLORS[key] }}
+              />
+              {catLabel(key)}
+            </button>
+          )
+        })}
+      </div>
+      <div className="mt-3 pt-3 border-t border-[#1e232b]/10 text-[#1e232b]/40">
+        Click node to open video<br />
+        Scroll to zoom, drag to rotate
+      </div>
+    </div>
+  )
+}
+
 // -- Search matching --
 
 function matchesQuery(n: GraphNode, q: string): boolean {
@@ -477,12 +521,53 @@ export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
   const cameraRef = useRef<THREE.Camera | null>(null)
   const glRef = useRef<THREE.WebGLRenderer | null>(null)
   const [query, setQuery] = useState('')
+  const [hiddenCats, setHiddenCats] = useState<ReadonlySet<string>>(new Set())
 
-  const { nodes, edges } = useMemo(() => {
+  const fullGraph = useMemo(() => {
     const graph = buildGraph(wiki)
     simulate(graph.nodes, graph.edges, 80)
     return graph
   }, [wiki])
+
+  // Category muting: hide nodes of toggled-off categories, drop dangling edges.
+  const { nodes, edges } = useMemo(() => {
+    if (hiddenCats.size === 0) return fullGraph
+    const indexMap = new Map<string, number>()
+    const filteredNodes: GraphNode[] = []
+    for (const n of fullGraph.nodes) {
+      if (hiddenCats.has(n.category)) continue
+      indexMap.set(n.id, filteredNodes.length)
+      filteredNodes.push(n)
+    }
+    const filteredEdges: GraphEdge[] = []
+    for (const e of fullGraph.edges) {
+      const from = indexMap.get(fullGraph.nodes[e.from]?.id ?? '')
+      const to = indexMap.get(fullGraph.nodes[e.to]?.id ?? '')
+      if (from !== undefined && to !== undefined) {
+        filteredEdges.push({ from, to, weight: e.weight })
+      }
+    }
+    return { nodes: filteredNodes, edges: filteredEdges }
+  }, [fullGraph, hiddenCats])
+
+  const maxViews = useMemo(
+    () => Math.max(...fullGraph.nodes.map((n) => n.views), 1),
+    [fullGraph],
+  )
+
+  const toggleCat = useCallback((cat: string) => {
+    setHiddenCats((prev) => {
+      const next = new Set(prev)
+      if (next.has(cat)) {
+        next.delete(cat)
+      } else {
+        // Never allow hiding every category — an empty graph helps nobody.
+        if (next.size >= Object.keys(CATEGORY_ANGLES).length - 1) return prev
+        next.add(cat)
+      }
+      return next
+    })
+  }, [])
 
   const { geo: edgeGeo, baseColors } = useMemo(
     () => buildEdgeGeometry(nodes, edges),
@@ -646,7 +731,7 @@ export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
         <lineSegments geometry={edgeGeo}>
           <lineBasicMaterial vertexColors transparent opacity={0.35} />
         </lineSegments>
-        <Nodes nodes={nodes} meshRef={meshRef} />
+        <Nodes nodes={nodes} maxViews={maxViews} meshRef={meshRef} />
         <OrbitControls
           enableDamping
           dampingFactor={0.05}
@@ -655,6 +740,8 @@ export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
           enablePan
         />
       </Canvas>
+
+      <CategoryLegend hiddenCats={hiddenCats} onToggleCat={toggleCat} />
 
       {hoveredNode && (
         <HoverPopup

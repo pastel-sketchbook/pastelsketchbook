@@ -2,11 +2,7 @@ import { createFileRoute, Link } from '@tanstack/react-router'
 import { lazy, Suspense } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import { ChunkErrorBoundary } from '../src/components/ui/ChunkErrorBoundary'
-import {
-  fetchWikiBundle,
-  catLabel,
-  CATEGORY_COLORS,
-} from '../src/utils/wiki'
+import { fetchWikiBundle } from '../src/utils/wiki'
 
 const WikiGraph = lazy(() =>
   import('../src/components/WikiGraph').then((m) => ({ default: m.WikiGraph })),
@@ -123,22 +119,7 @@ function GraphPage() {
         </Link>
       </div>
 
-      {/* Legend */}
-      <div className="absolute top-24 right-6 z-10 bg-white/70 backdrop-blur-sm rounded-xl p-4 text-xs text-[#1e232b]/70 border border-[#1e232b]/10">
-        <div className="font-bold uppercase tracking-widest text-[#1e232b]/40 mb-2">Categories</div>
-        <div className="space-y-1.5">
-          {Object.entries(CATEGORY_COLORS).map(([key, color]) => (
-            <div key={key} className="flex items-center gap-2">
-              <span className="w-3 h-3 rounded-full flex-shrink-0" style={{ backgroundColor: color }} />
-              {catLabel(key)}
-            </div>
-          ))}
-        </div>
-        <div className="mt-3 pt-3 border-t border-[#1e232b]/10 text-[#1e232b]/40">
-          Click node to open video<br />
-          Scroll to zoom, drag to rotate
-        </div>
-      </div>
+      {/* Legend lives inside <WikiGraph /> so it can share filter state */}
 
       <Suspense
         fallback={
