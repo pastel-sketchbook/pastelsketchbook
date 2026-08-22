@@ -492,6 +492,25 @@ export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
   // Manually-created BufferGeometry isn't auto-disposed by R3F.
   useEffect(() => () => edgeGeo.dispose(), [edgeGeo])
 
+  // Neighbor adjacency for hover highlighting.
+  const adjacency = useMemo(() => {
+    const neighbors = new Map<number, Set<number>>()
+    for (let i = 0; i < edges.length; i++) {
+      const { from, to } = edges[i]
+      if (!neighbors.has(from)) neighbors.set(from, new Set())
+      if (!neighbors.has(to)) neighbors.set(to, new Set())
+      neighbors.get(from)!.add(to)
+      neighbors.get(to)!.add(from)
+    }
+    return { neighbors }
+  }, [edges])
+
+  const idToIndex = useMemo(() => {
+    const m = new Map<string, number>()
+    nodes.forEach((n, i) => m.set(n.id, i))
+    return m
+  }, [nodes])
+
   const {
     hoveredNode,
     selectedVideoId,
@@ -517,13 +536,26 @@ export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
       })
       if (highlight.size === 0) highlight = null
     }
+    // Hovered node joins (and overrides) any search highlight, pulling in
+    // its directly linked neighbors so the local cluster lights up.
+    if (hoveredNode) {
+      const idx = idToIndex.get(hoveredNode.id)
+      if (idx !== undefined) {
+        if (!highlight) highlight = new Set<number>()
+        highlight.add(idx)
+        adjacency.neighbors.get(idx)?.forEach((j) => highlight!.add(j))
+      }
+    }
 
+    const white = new THREE.Color('#ffffff')
     const tempColor = new THREE.Color()
     const instanceColor = mesh.instanceColor
     for (let i = 0; i < nodes.length; i++) {
       const n = nodes[i]
       tempColor.set(CATEGORY_COLORS[n.category] || '#ffffff')
       if (highlight && !highlight.has(i)) tempColor.multiplyScalar(0.22)
+      else if (hoveredNode && n.id === hoveredNode.id)
+        tempColor.lerp(white, 0.35)
       instanceColor.setXYZ(i, tempColor.r, tempColor.g, tempColor.b)
     }
     instanceColor.needsUpdate = true
@@ -538,7 +570,7 @@ export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
       for (let k = 0; k < 6; k++) arr[offset + k] = baseColors[offset + k] * lit
     }
     colorAttr.needsUpdate = true
-  }, [nodes, edges, edgeGeo, baseColors, query])
+  }, [nodes, edges, edgeGeo, baseColors, query, hoveredNode, idToIndex, adjacency])
 
   const handleCreated = useCallback(
     (state: { camera: THREE.Camera; gl: THREE.WebGLRenderer }) => {
