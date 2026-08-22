@@ -32,9 +32,9 @@ This presentation tours the architecture of the `tracel-ai/models` repository, a
 
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 32 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `burn` · `framework` · `deep`)
 - [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 19 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `burn` · `framework` · `deep`)
-- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 55 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `burn framework` · `burn` · `framework`)
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 817 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `deep` · `learning` · `architecture`)
-- [The Anatomy of a Modern Robot](https://youtu.be/7ygjuzLkdTE) — Development · 51 views · Jun 24, 2026 · [Details](7ygjuzLkdTE.md) (shared: `architecture` · `vision` · `models`)
+- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 56 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `burn framework` · `burn` · `framework`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 836 views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `deep` · `learning` · `architecture`)
+- [The Anatomy of a Modern Robot](https://youtu.be/7ygjuzLkdTE) — Development · 50 views · Jun 24, 2026 · [Details](7ygjuzLkdTE.md) (shared: `architecture` · `vision` · `models`)
 
 ---
 *Auto-generated on May 20, 2026. Back to [development](../development.md) · [index](../index.md).*

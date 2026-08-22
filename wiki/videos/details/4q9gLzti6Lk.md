@@ -10,10 +10,10 @@ summarized: 2026-06-23T01:00:00.000Z
 ## Related Videos
 
 - [The Agent-First Paradigm](https://youtu.be/ElxPa5vX9Kc) — Development · 21 views · Jun 17, 2026 · [Details](ElxPa5vX9Kc.md) (shared: `agent` · `integration` · `local`)
-- [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 25 views · Aug 14, 2026 · [Details](nSMpZpj6Jzc.md) (shared: `streaming` · `management` · `local`)
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 68 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `framework` · `integration` · `safety`)
+- [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 28 views · Aug 14, 2026 · [Details](nSMpZpj6Jzc.md) (shared: `streaming` · `management` · `local`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 70 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `framework` · `integration` · `safety`)
 - [AX: The Distributed Agent Runtime](https://youtu.be/xiTVDbJscik) — Development · 72 views · May 23, 2026 · [Details](xiTVDbJscik.md) (shared: `agent` · `streaming` · `runtime`)
-- [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 101 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `agent` · `policies` · `runtime`)
+- [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 103 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `agent` · `policies` · `runtime`)
 
 ---
 

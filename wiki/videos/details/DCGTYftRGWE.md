@@ -30,11 +30,11 @@ This video examines the engineering process of hardening a cloth simulation prot
 
 ## Related Videos
 
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 105 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `data-oriented design` · `data-oriented` · `design`)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 108 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `data-oriented design` · `data-oriented` · `design`)
 - [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 63 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `data-oriented design` · `data-oriented` · `design`)
 - [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 15 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `data-oriented design` · `data-oriented` · `design`)
 - [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 15 views · Jan 25, 2026 · [Details](3Fpey_L_XRU.md) (shared: `struct of arrays` · `struct` · `arrays`)
-- [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 226 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `performance` · `optimization` · `memory`)
+- [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 228 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `performance` · `optimization` · `memory`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

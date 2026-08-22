@@ -30,10 +30,10 @@ This video demonstrates how the Model Context Protocol (MCP) bridges AI coding a
 
 ## Related Videos
 
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 718 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model context protocol` · `model` · `context`)
-- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 284 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `model context protocol` · `model` · `context`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 720 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model context protocol` · `model` · `context`)
+- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 286 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `model context protocol` · `model` · `context`)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 96 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `model context protocol` · `model` · `context`)
-- [Parallel Agents in Zed](https://youtu.be/0wth_46Vtmo) — Development · 62 views · Aug 4, 2026 · [Details](0wth_46Vtmo.md) (shared: `model context protocol` · `model` · `context`)
+- [Parallel Agents in Zed](https://youtu.be/0wth_46Vtmo) — Development · 88 views · Aug 4, 2026 · [Details](0wth_46Vtmo.md) (shared: `model context protocol` · `model` · `context`)
 - [Copilot-Backed Code Review Architecture](https://youtu.be/JMk8y25qo2M) — Development · 19 views · Jun 2, 2026 · [Details](JMk8y25qo2M.md) (shared: `context` · `github` · `copilot`)
 
 ---

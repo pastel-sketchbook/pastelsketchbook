@@ -2,7 +2,7 @@
 type: tag
 tags: [pluggable-storage-trait]
 sources: 2
-updated: 2026-08-22
+updated: 2026-08-28
 ---
 
 # pluggable storage trait
@@ -15,4 +15,4 @@ Videos connected by the topic `pluggable storage trait`.
 - [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 28 views · May 4, 2026 · [Details](../details/UOOkDh4RUbE.md)
 
 ---
-*Auto-generated on Aug 21, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 27, 2026. Back to [topic index](index.md).*

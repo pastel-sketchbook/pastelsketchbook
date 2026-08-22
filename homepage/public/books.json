@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T00:29:06.000Z",
+  "generatedAt": "2026-08-28T02:09:11.000Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -22,7 +22,8 @@
             "aiYBPCkvhes",
             "A7eoKD5m6Ek",
             "t-WvRifOu-E",
-            "XKTtea0xGsA"
+            "XKTtea0xGsA",
+            "ZECKRFPN8BA"
           ],
           "tags": [
             "kubernetes",
@@ -60,7 +61,8 @@
             "1RqgRdlIO8M",
             "hs7CiLpLgnY",
             "PVwzHpsrVcc",
-            "LGKBWq8g1u4"
+            "LGKBWq8g1u4",
+            "iVb4Pu8CAHE"
           ],
           "tags": [
             "zero-trust",
@@ -219,7 +221,8 @@
             "Aw8arLm35M8",
             "md9nXDH1u7Q",
             "DMfE_eElLAc",
-            "8zivk3Mxuf0"
+            "8zivk3Mxuf0",
+            "f5Ld5cAhUZA"
           ],
           "tags": [
             "finance",
@@ -277,7 +280,9 @@
             "QWQcpxHE6E8",
             "TErzICEXwRQ",
             "NCL_9PdUCc8",
-            "IfOAA7cOu6o"
+            "IfOAA7cOu6o",
+            "knxE_Pg2JBA",
+            "A6hH4t9MaSQ"
           ],
           "tags": [
             "architecture",
@@ -499,7 +504,8 @@
             "s6wmtsAWvCw",
             "ISLXOiFqC50",
             "gPnrk5TNKWg",
-            "Qhhnc6xLmSQ"
+            "Qhhnc6xLmSQ",
+            "sp6S1kH6EnM"
           ],
           "tags": [
             "rust",

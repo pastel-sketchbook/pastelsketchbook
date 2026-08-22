@@ -34,7 +34,7 @@ This relocation dossier dismantles the idealized image of Costa Rica as an acces
 - [Dossier de Reubicación e Inversión: Panamá 2026](https://youtu.be/ApeNMU7KDH0) — Korea · 5 views · May 18, 2026 · [Details](ApeNMU7KDH0.md) (shared: `relocation` · `pensionado` · `expatriate`)
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `migration` · `system`)
 - [AWS Database Selection Blueprint](https://youtu.be/78Sm363xiIw) — Kubernetes · 14 views · Jun 12, 2026 · [Details](78Sm363xiIw.md) (shared: `migration` · `cost`)
-- [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 97 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `migration` · `system`)
+- [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 98 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `migration` · `system`)
 
 ---
 *Auto-generated on May 20, 2026. Back to [korea](../korea.md) · [index](../index.md).*

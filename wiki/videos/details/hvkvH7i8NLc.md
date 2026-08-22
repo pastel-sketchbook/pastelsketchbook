@@ -32,9 +32,9 @@ This structural guide for engineering leaders walks from Custom Resource Definit
 ## Related Videos
 
 - [Kubernetes Auto-Scaling Strategies](https://youtu.be/y3WwL48DLYw) — Kubernetes · 29 views · Feb 23, 2026 · [Details](y3WwL48DLYw.md) (shared: `kubernetes` · `resource` · `stateful`)
-- [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 14 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `kubernetes` · `custom` · `resources`)
+- [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 17 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `kubernetes` · `custom` · `resources`)
 - [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) — Kubernetes · 15 views · May 22, 2026 · [Details](9ga0NT3ZohQ.md) (shared: `kubernetes` · `workload` · `automation`)
-- [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 89 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `resource` · `api`)
+- [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 92 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `resource` · `api`)
 - [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 29 views · Feb 19, 2026 · [Details](rk_3xU9OF-k.md) (shared: `kubernetes` · `workload`)
 
 ---

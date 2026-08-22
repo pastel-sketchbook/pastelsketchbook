@@ -30,7 +30,7 @@ A visual briefing on Go 1.27 (expected August 2026) framing the release as futur
 
 ## Related Videos
 
-- [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) — Development · 191 views · Mar 24, 2026 · [Details](yCJDmGrk8sM.md) (shared: `memory` · `simd` · `vectorization`)
+- [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) — Development · 193 views · Mar 24, 2026 · [Details](yCJDmGrk8sM.md) (shared: `memory` · `simd` · `vectorization`)
 - [High-Performance Compute Meets Developer Ergonomics](https://youtu.be/Z_TABCzmoQ0) — Development · 91 views · Jun 15, 2026 · [Details](Z_TABCzmoQ0.md) (shared: `memory` · `simd` · `vectorization`)
 - [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 63 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `structs` · `memory`)
 - [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 29 views · Feb 6, 2026 · [Details](A96r5gqwUrI.md) (shared: `generic` · `simd`)

@@ -43,7 +43,7 @@ Welcome  everyone.  Today,  we're  diving into  a  crucial  topic  in  the  data
 
 ## Related Videos
 
-- [Deploying and Operating ClickHouse on AWS EKS](https://youtu.be/NCL_9PdUCc8) — Kubernetes · 6 views · Aug 19, 2026 · [Details](NCL_9PdUCc8.md) (shared: `clickhouse` · `observability` · `architecture`)
+- [Deploying and Operating ClickHouse on AWS EKS](https://youtu.be/NCL_9PdUCc8) — Kubernetes · 9 views · Aug 19, 2026 · [Details](NCL_9PdUCc8.md) (shared: `clickhouse` · `observability` · `architecture`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `clickhouse` · `architecture`)
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) — Kubernetes · 30 views · Mar 16, 2026 · [Details](LUOX5xkSyi0.md) (shared: `schema` · `management`)
 - [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) — Kubernetes · 21 views · Jan 31, 2026 · [Details](Q4qm1hvVR2A.md) (shared: `architecture` · `shared-nothing`)

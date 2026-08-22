@@ -232,9 +232,20 @@
       "isShort": false
     },
     {
+      "id": "f5Ld5cAhUZA",
+      "title": "The Golden Decade Architecture",
+      "views": 12,
+      "date": "2026-08-26T23:00:07Z",
+      "tags": [
+        "tax free"
+      ],
+      "durationSec": 913,
+      "isShort": false
+    },
+    {
       "id": "IfOAA7cOu6o",
       "title": "Timing the 2026-2030 Optical Super-Cycle",
-      "views": 10,
+      "views": 12,
       "date": "2026-08-17T23:00:12Z",
       "tags": [
         "curiosity",
@@ -257,7 +268,7 @@
     {
       "id": "Cmnangq7Ndw",
       "title": "The Neuromorphic AI Stack",
-      "views": 12,
+      "views": 15,
       "date": "2026-08-12T23:00:01Z",
       "tags": [
         "curiosity",
@@ -281,7 +292,7 @@
     {
       "id": "lEzp0tdrfFc",
       "title": "Kimi K3 Infrastructure Economics",
-      "views": 14,
+      "views": 16,
       "date": "2026-08-06T23:00:04Z",
       "tags": [
         "curiosity"
@@ -315,7 +326,7 @@
     {
       "id": "yZLe26ZkBT4",
       "title": "SOMA: Unifying Parametric Human Body Models",
-      "views": 31,
+      "views": 35,
       "date": "2026-08-02T23:00:39Z",
       "tags": [
         "curiosity",
@@ -327,7 +338,7 @@
     {
       "id": "BZm2J9sLEp8",
       "title": "Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers",
-      "views": 42,
+      "views": 43,
       "date": "2026-07-29T23:00:04Z",
       "tags": [
         "curiosity",
@@ -339,7 +350,7 @@
     {
       "id": "izH8Nzr3DLA",
       "title": "The Sovereign AI Utility",
-      "views": 22,
+      "views": 21,
       "date": "2026-07-28T22:39:35Z",
       "tags": [
         "curiosity"
@@ -463,7 +474,7 @@
     {
       "id": "P-QVC5lOMbU",
       "title": "The Architecture of Insurance Pricing",
-      "views": 32,
+      "views": 33,
       "date": "2026-06-03T11:00:02Z",
       "tags": [
         "curiosity"
@@ -483,7 +494,7 @@
     {
       "id": "3bcmjx5F5Xs",
       "title": "The 10-Year Al Investing Architecture",
-      "views": 43,
+      "views": 44,
       "date": "2026-05-25T15:23:15Z",
       "tags": [
         "ai",
@@ -495,7 +506,7 @@
     {
       "id": "9xDzB24tO4I",
       "title": "The 2026 Enterprise AI Blueprint",
-      "views": 33,
+      "views": 34,
       "date": "2026-05-21T21:09:53Z",
       "tags": [
         "ai",
@@ -638,7 +649,7 @@
     {
       "id": "_LrmdP64y6A",
       "title": "The Pomology Field Guide",
-      "views": 22,
+      "views": 23,
       "date": "2026-03-19T22:13:16Z",
       "tags": [
         "curiosity"
@@ -676,7 +687,7 @@
     {
       "id": "bn-Nvmxgur8",
       "title": "The 2026 Barbell Strategy",
-      "views": 33,
+      "views": 34,
       "date": "2026-02-17T14:24:35Z",
       "tags": [],
       "durationSec": 699,
@@ -776,9 +787,46 @@
       "isShort": false
     },
     {
+      "id": "knxE_Pg2JBA",
+      "title": "Orchard: An Open Foundation for Agentic Modeling Research",
+      "views": 2,
+      "date": "2026-08-27T23:00:20Z",
+      "tags": [
+        "idp",
+        "k8s",
+        "agent"
+      ],
+      "durationSec": 865,
+      "isShort": false
+    },
+    {
+      "id": "ZECKRFPN8BA",
+      "title": "Orchestrating Kubernetes Resilience",
+      "views": 8,
+      "date": "2026-08-25T23:00:00Z",
+      "tags": [
+        "resilience",
+        "k8s"
+      ],
+      "durationSec": 1296,
+      "isShort": false
+    },
+    {
+      "id": "iVb4Pu8CAHE",
+      "title": "Securing Enterprise Agentic Al at Scale",
+      "views": 41,
+      "date": "2026-08-24T23:00:42Z",
+      "tags": [
+        "idp",
+        "adr"
+      ],
+      "durationSec": 1034,
+      "isShort": false
+    },
+    {
       "id": "qXg3PQ2kUpI",
       "title": "The Open Framework for Building Developer Portals",
-      "views": 1,
+      "views": 11,
       "date": "2026-08-21T23:00:05Z",
       "tags": [
         "platform engineering"
@@ -789,7 +837,7 @@
     {
       "id": "NCL_9PdUCc8",
       "title": "Deploying and Operating ClickHouse on AWS EKS",
-      "views": 6,
+      "views": 9,
       "date": "2026-08-19T23:00:35Z",
       "tags": [
         "aws",
@@ -801,7 +849,7 @@
     {
       "id": "k6zku1bFzAM",
       "title": "Engineering Calm",
-      "views": 9,
+      "views": 13,
       "date": "2026-08-15T23:00:02Z",
       "tags": [
         "idp",
@@ -813,7 +861,7 @@
     {
       "id": "PVwzHpsrVcc",
       "title": "Tailscale: The Modular Network Operating System",
-      "views": 7,
+      "views": 12,
       "date": "2026-08-10T23:00:24Z",
       "tags": [
         "zero trust",
@@ -850,7 +898,7 @@
     {
       "id": "W_rZivDmMRY",
       "title": "Orchestrating Distributed Al on Kubernetes",
-      "views": 14,
+      "views": 17,
       "date": "2026-07-30T23:00:09Z",
       "tags": [
         "k8s",
@@ -876,7 +924,7 @@
     {
       "id": "hs7CiLpLgnY",
       "title": "Deploying Istio Service Mesh on AWS",
-      "views": 2,
+      "views": 3,
       "date": "2026-07-23T23:00:27Z",
       "tags": [
         "aws",
@@ -919,7 +967,7 @@
     {
       "id": "XKTtea0xGsA",
       "title": "Mastering Batch Workload Orchestration on Kubernetes",
-      "views": 24,
+      "views": 25,
       "date": "2026-07-17T23:00:26Z",
       "tags": [
         "workload",
@@ -1160,7 +1208,7 @@
     {
       "id": "2ksi8K7wg3I",
       "title": "Kubernetes 1.36 (Haru)",
-      "views": 89,
+      "views": 92,
       "date": "2026-04-23T22:03:32Z",
       "tags": [
         "k8s",
@@ -1188,7 +1236,7 @@
     {
       "id": "p9LNSeAt5Zw",
       "title": "Scaling Node.js from PM2 to Cloud-Native Orchestration",
-      "views": 21,
+      "views": 22,
       "date": "2026-04-22T10:25:18Z",
       "tags": [
         "pm2",
@@ -1448,7 +1496,7 @@
     {
       "id": "to1PClyd0YA",
       "title": "Architecting Kubernetes with CUE",
-      "views": 19,
+      "views": 20,
       "date": "2026-03-17T00:52:39Z",
       "tags": [
         "cue",
@@ -1554,7 +1602,7 @@
     {
       "id": "3hSdKvqPcSE",
       "title": "Architecting AKS Node Auto-Provisioning",
-      "views": 45,
+      "views": 46,
       "date": "2026-02-25T23:24:20Z",
       "tags": [
         "aks",
@@ -1674,7 +1722,7 @@
     {
       "id": "eI2DXGISpbk",
       "title": "BadgerDB: The Go-Native Key-Value Store",
-      "views": 79,
+      "views": 80,
       "date": "2026-02-13T00:09:38Z",
       "tags": [
         "go",
@@ -1700,7 +1748,7 @@
     {
       "id": "rgY4KTMFOMs",
       "title": "Secure Web App with Azure AD/OAuth2 Proxy",
-      "views": 79,
+      "views": 80,
       "date": "2026-02-05T14:29:16Z",
       "tags": [
         "aks",
@@ -1905,7 +1953,7 @@
     {
       "id": "C5HqbzLRYZ0",
       "title": "K8s Services  AKS & Istio",
-      "views": 25,
+      "views": 27,
       "date": "2026-01-10T16:26:22Z",
       "tags": [
         "istio",
@@ -1980,9 +2028,33 @@
       "isShort": false
     },
     {
+      "id": "A6hH4t9MaSQ",
+      "title": "Governing Al Agents in Enterprise .NET Development",
+      "views": 10,
+      "date": "2026-08-23T23:00:04Z",
+      "tags": [
+        "idp",
+        ".net"
+      ],
+      "durationSec": 1470,
+      "isShort": false
+    },
+    {
+      "id": "sp6S1kH6EnM",
+      "title": "The Pragmatic Architect's Guide to Rust",
+      "views": 103,
+      "date": "2026-08-22T23:01:03Z",
+      "tags": [
+        "idp",
+        "rust"
+      ],
+      "durationSec": 816,
+      "isShort": false
+    },
+    {
       "id": "g0b4WhDKyE8",
       "title": "Go 1.27: Future-Proofing the Foundation",
-      "views": 22,
+      "views": 112,
       "date": "2026-08-20T23:00:26Z",
       "tags": [
         "go",
@@ -1997,7 +2069,7 @@
     {
       "id": "NuAqkcx6u-U",
       "title": "SpaceWasm: Executing WebAssembly in deep space environments",
-      "views": 4,
+      "views": 3,
       "date": "2026-08-18T23:00:13Z",
       "tags": [
         "curiosity",
@@ -2010,7 +2082,7 @@
     {
       "id": "nSMpZpj6Jzc",
       "title": "DwarfStar DS4 Technical Architecture",
-      "views": 25,
+      "views": 28,
       "date": "2026-08-14T23:00:22Z",
       "tags": [
         "local",
@@ -2034,7 +2106,7 @@
     {
       "id": "0wth_46Vtmo",
       "title": "Parallel Agents in Zed",
-      "views": 62,
+      "views": 88,
       "date": "2026-08-04T23:00:17Z",
       "tags": [],
       "durationSec": 706,
@@ -2043,7 +2115,7 @@
     {
       "id": "sMo3KnNup34",
       "title": "The Engine of a Modern Task Runner",
-      "views": 101,
+      "views": 103,
       "date": "2026-08-01T23:00:02Z",
       "tags": [
         "go-task",
@@ -2093,7 +2165,7 @@
     {
       "id": "OeBgces_2_0",
       "title": "Networking Fundamentals: 0.0.0.0 vs. 127.0.0.1",
-      "views": 121,
+      "views": 125,
       "date": "2026-07-18T23:00:29Z",
       "tags": [
         "network",
@@ -2107,7 +2179,7 @@
     {
       "id": "DTb0syknVSQ",
       "title": "Synthesizing Gleam Syntax with Rust Performance",
-      "views": 29,
+      "views": 30,
       "date": "2026-07-15T23:00:25Z",
       "tags": [
         "rust",
@@ -2147,7 +2219,7 @@
     {
       "id": "zoT6ifQjXvQ",
       "title": "Architecting Enterprise Al Agents",
-      "views": 55,
+      "views": 58,
       "date": "2026-07-11T22:47:15Z",
       "tags": [
         "agent",
@@ -2200,7 +2272,7 @@
     {
       "id": "33odiiNMGzQ",
       "title": "The Rust SPNEGO Hub",
-      "views": 23,
+      "views": 24,
       "date": "2026-07-03T23:00:26Z",
       "tags": [
         "rust",
@@ -2229,7 +2301,7 @@
     {
       "id": "gPnrk5TNKWg",
       "title": "The Rust Robotics Paradigm",
-      "views": 75,
+      "views": 77,
       "date": "2026-06-27T23:00:21Z",
       "tags": [
         "robotics",
@@ -2244,7 +2316,7 @@
     {
       "id": "7ygjuzLkdTE",
       "title": "The Anatomy of a Modern Robot",
-      "views": 51,
+      "views": 50,
       "date": "2026-06-24T23:00:04Z",
       "tags": [
         "curiosity",
@@ -2272,7 +2344,7 @@
     {
       "id": "RJGNh8L-8rw",
       "title": "Clean Architecture in Angular",
-      "views": 51,
+      "views": 54,
       "date": "2026-06-23T11:00:37Z",
       "tags": [
         "typescript",
@@ -2287,7 +2359,7 @@
     {
       "id": "4q9gLzti6Lk",
       "title": "Building Autonomous Agents with the Antigravity SDK",
-      "views": 124,
+      "views": 128,
       "date": "2026-06-22T23:00:39Z",
       "tags": [
         "go",
@@ -2382,7 +2454,7 @@
     {
       "id": "KXx_6BhzOFE",
       "title": "The PyTorch Architecture Blueprint",
-      "views": 56,
+      "views": 57,
       "date": "2026-06-13T21:47:29Z",
       "tags": [
         "python",
@@ -2411,7 +2483,7 @@
     {
       "id": "fWuJSwkdH6I",
       "title": "Quinn: A Pure-Rust QUIC Protocol Implementation",
-      "views": 61,
+      "views": 66,
       "date": "2026-06-09T23:00:25Z",
       "tags": [
         "rust",
@@ -2579,7 +2651,7 @@
     {
       "id": "L4YBdUVCFd4",
       "title": "Migrating to SolidJS 2.0",
-      "views": 172,
+      "views": 205,
       "date": "2026-05-30T22:00:08Z",
       "tags": [
         "solidjs",
@@ -2635,7 +2707,7 @@
     {
       "id": "Jf1VkCXsmwU",
       "title": "The GitHub Copilot SDK Blueprint",
-      "views": 101,
+      "views": 103,
       "date": "2026-05-28T11:46:10Z",
       "tags": [
         "copilot",
@@ -2741,7 +2813,7 @@
     {
       "id": "nwAdb-PyRlo",
       "title": "Guiding Al to Build the Modern Web",
-      "views": 60,
+      "views": 61,
       "date": "2026-05-24T12:17:11Z",
       "tags": [
         "web",
@@ -2864,7 +2936,7 @@
     {
       "id": "htpvlYnX77w",
       "title": "Mastering Machine Learning in Rust",
-      "views": 55,
+      "views": 56,
       "date": "2026-05-19T06:00:38Z",
       "tags": [
         "rust",
@@ -2877,7 +2949,7 @@
     {
       "id": "jrD_LGNsJXM",
       "title": "Async 1/0 in Zig 0.16, Today",
-      "views": 264,
+      "views": 282,
       "date": "2026-05-17T19:24:16Z",
       "tags": [
         "zig",
@@ -2945,7 +3017,7 @@
     {
       "id": "9HUPNhA3OrI",
       "title": "The Tokio Architecture Blueprint",
-      "views": 57,
+      "views": 58,
       "date": "2026-05-15T21:12:14Z",
       "tags": [
         "rust",
@@ -3000,7 +3072,7 @@
     {
       "id": "uz8nmkTPEpg",
       "title": "SQLx",
-      "views": 43,
+      "views": 44,
       "date": "2026-05-13T22:37:02Z",
       "tags": [
         "rust",
@@ -3022,7 +3094,7 @@
         "fast",
         "brisk"
       ],
-      "durationSec": 578,
+      "durationSec": 579,
       "isShort": false
     },
     {
@@ -3041,7 +3113,7 @@
     {
       "id": "B81dHVYOYJA",
       "title": "Inside the Typst Compiler Engine",
-      "views": 153,
+      "views": 157,
       "date": "2026-05-11T00:02:22Z",
       "tags": [
         "rust",
@@ -3069,20 +3141,20 @@
     {
       "id": "8PaVKQoDReY",
       "title": "Candle: A Minimalist Framework for Serverless ML Inference",
-      "views": 100,
+      "views": 101,
       "date": "2026-05-09T22:08:03Z",
       "tags": [
         "rust",
         "candle",
         "internal"
       ],
-      "durationSec": 887,
+      "durationSec": 888,
       "isShort": false
     },
     {
       "id": "jOw6d5zH658",
       "title": "Engineering Al Agent Mastery with Waza",
-      "views": 468,
+      "views": 473,
       "date": "2026-05-09T14:32:47Z",
       "tags": [
         "agent",
@@ -3096,7 +3168,7 @@
     {
       "id": "qAHyv6G3a7M",
       "title": "Building the Unified Rust Backend",
-      "views": 761,
+      "views": 763,
       "date": "2026-05-09T07:32:42Z",
       "tags": [
         "rust",
@@ -3111,7 +3183,7 @@
     {
       "id": "_bFOZ51Q55Y",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 2046,
+      "views": 2048,
       "date": "2026-05-09T02:40:33Z",
       "tags": [
         "rust",
@@ -3250,7 +3322,7 @@
     {
       "id": "d1MH4nza95g",
       "title": "Tracing Asynchronous Rust",
-      "views": 112,
+      "views": 114,
       "date": "2026-05-03T16:24:44Z",
       "tags": [
         "rust",
@@ -3277,7 +3349,7 @@
     {
       "id": "DwAOCljoNoc",
       "title": "Hyper: The Foundation of Fast HTTP in Rust",
-      "views": 104,
+      "views": 105,
       "date": "2026-05-02T18:35:37Z",
       "tags": [
         "rust",
@@ -3291,7 +3363,7 @@
     {
       "id": "90hw9qwXbbw",
       "title": "Architecting with Tonic",
-      "views": 157,
+      "views": 159,
       "date": "2026-05-02T09:48:38Z",
       "tags": [
         "rust",
@@ -3305,7 +3377,7 @@
     {
       "id": "J4iGUAXcAOA",
       "title": "The Axum Web Framework",
-      "views": 68,
+      "views": 70,
       "date": "2026-05-01T22:55:53Z",
       "tags": [
         "rust",
@@ -3355,7 +3427,7 @@
     {
       "id": "4aAyFYemYD8",
       "title": "The Strangler Fig Pattern",
-      "views": 72,
+      "views": 76,
       "date": "2026-04-29T00:49:39Z",
       "tags": [
         "modernization",
@@ -3369,7 +3441,7 @@
     {
       "id": "i1HT5UIccTs",
       "title": "Agent Skills for Dart",
-      "views": 54,
+      "views": 55,
       "date": "2026-04-28T18:55:44Z",
       "tags": [
         "ai",
@@ -3411,7 +3483,7 @@
     {
       "id": "BQ4wab0UtLg",
       "title": "From Louvain to Leiden",
-      "views": 126,
+      "views": 136,
       "date": "2026-04-26T15:40:42Z",
       "tags": [
         "curiosity",
@@ -3498,7 +3570,7 @@
     {
       "id": "NhYb7QkBdMs",
       "title": "Rusty Object Notation (RON)",
-      "views": 165,
+      "views": 167,
       "date": "2026-04-24T06:12:06Z",
       "tags": [
         "rust",
@@ -3680,7 +3752,7 @@
     {
       "id": "X65YHZUnFq0",
       "title": "OpenFeature: The Standard for Feature Flagging",
-      "views": 53,
+      "views": 54,
       "date": "2026-04-16T17:02:54Z",
       "tags": [
         "feature flag",
@@ -3806,7 +3878,7 @@
     {
       "id": "TEGFwsAcxK8",
       "title": "Agent Skills for Flutter",
-      "views": 310,
+      "views": 323,
       "date": "2026-04-10T13:02:35Z",
       "tags": [
         "ai",
@@ -3820,7 +3892,7 @@
     {
       "id": "BzvpasWYESU",
       "title": "The LLM Wiki Paradigm",
-      "views": 2853,
+      "views": 2858,
       "date": "2026-04-09T22:17:25Z",
       "tags": [
         "ai",
@@ -3908,7 +3980,7 @@
     {
       "id": "fv61JXUCbeo",
       "title": "Stitch Agent Skills",
-      "views": 284,
+      "views": 286,
       "date": "2026-04-05T21:24:52Z",
       "tags": [
         "ai",
@@ -3938,7 +4010,7 @@
     {
       "id": "BT08SXPvV6U",
       "title": "Building vibe-rust",
-      "views": 67,
+      "views": 68,
       "date": "2026-04-04T14:34:30Z",
       "tags": [
         "vibevoice",
@@ -3966,7 +4038,7 @@
     {
       "id": "54lO6XE-AeQ",
       "title": "The Zero-Copy Architecture",
-      "views": 4355,
+      "views": 4371,
       "date": "2026-04-03T12:29:02Z",
       "tags": [
         "zero-copy",
@@ -4107,7 +4179,7 @@
     {
       "id": "yCJDmGrk8sM",
       "title": "Advancing Go Garbage Collection with Green Tea",
-      "views": 191,
+      "views": 193,
       "date": "2026-03-24T22:59:50Z",
       "tags": [
         "go",
@@ -4177,7 +4249,7 @@
     {
       "id": "wyIhJ3LMnRg",
       "title": "W3C Trace Context",
-      "views": 162,
+      "views": 165,
       "date": "2026-03-21T13:19:14Z",
       "tags": [
         "w3c",
@@ -4248,7 +4320,7 @@
     {
       "id": "_zJ3_d1CODg",
       "title": "Bevy-Demo",
-      "views": 188,
+      "views": 193,
       "date": "2026-03-19T00:18:34Z",
       "tags": [
         "rust",
@@ -4303,7 +4375,7 @@
     {
       "id": "ZBW6YozOu78",
       "title": "Serverless Analytics with DuckDB & Python",
-      "views": 68,
+      "views": 78,
       "date": "2026-03-15T01:12:59Z",
       "tags": [
         "python",
@@ -4330,7 +4402,7 @@
     {
       "id": "a2kADxV0kBM",
       "title": "zig-twitter: Anatomy of a Hybrid Terminal Client",
-      "views": 36,
+      "views": 37,
       "date": "2026-03-14T09:13:27Z",
       "tags": [
         "zig",
@@ -4348,7 +4420,7 @@
     {
       "id": "2iIi1H9V-Hg",
       "title": "Announcing Genkit Dart",
-      "views": 57,
+      "views": 59,
       "date": "2026-03-13T13:28:36Z",
       "tags": [
         "dart",
@@ -4456,7 +4528,7 @@
     {
       "id": "sGQrnPJSsPc",
       "title": "A Semantic Operating System",
-      "views": 97,
+      "views": 98,
       "date": "2026-03-08T08:24:38Z",
       "tags": [
         "mma",
@@ -4575,7 +4647,7 @@
     {
       "id": "00kCzR10M1w",
       "title": "The Road to SolidJS 2.0",
-      "views": 335,
+      "views": 346,
       "date": "2026-03-04T00:40:36Z",
       "tags": [
         "solidjs",
@@ -4616,7 +4688,7 @@
     {
       "id": "uqZ-mwxGf2c",
       "title": "Modern Observability in Go",
-      "views": 120,
+      "views": 122,
       "date": "2026-03-01T14:36:52Z",
       "tags": [
         "go",
@@ -4630,7 +4702,7 @@
     {
       "id": "AcpVuvtSXwI",
       "title": "microgpt-zig: Atomic Al Training",
-      "views": 61,
+      "views": 62,
       "date": "2026-02-28T14:09:19Z",
       "tags": [
         "zig",
@@ -4645,7 +4717,7 @@
     {
       "id": "JeqaHMmSh1s",
       "title": "The Complete Guide to Building Skills for Claude",
-      "views": 718,
+      "views": 720,
       "date": "2026-02-28T05:29:43Z",
       "tags": [
         "ai",
@@ -4674,7 +4746,7 @@
     {
       "id": "Wa0EHhhKV8Q",
       "title": "Architecting Action: 10 NotebookLM Prompts",
-      "views": 172,
+      "views": 177,
       "date": "2026-02-27T12:49:18Z",
       "tags": [
         "notebooklm",
@@ -4729,7 +4801,7 @@
     {
       "id": "DazzkNtnzec",
       "title": "Design Patterns in Go",
-      "views": 118,
+      "views": 119,
       "date": "2026-02-24T23:48:12Z",
       "tags": [
         "go",
@@ -4801,7 +4873,7 @@
     {
       "id": "3ybGkjogcFQ",
       "title": "Modern State Architecture: The Repository Pattern",
-      "views": 37,
+      "views": 39,
       "date": "2026-02-20T12:47:49Z",
       "tags": [
         "signals",
@@ -4814,7 +4886,7 @@
     {
       "id": "QBUQvfZJpaM",
       "title": "Modern Cryptography Standards: A Guide to AEAD",
-      "views": 116,
+      "views": 122,
       "date": "2026-02-18T23:24:48Z",
       "tags": [
         "aes-256-gcm",
@@ -4856,7 +4928,7 @@
     {
       "id": "kQc99Io3pCo",
       "title": "HelixDB: The Unified Graph-Vector Database",
-      "views": 267,
+      "views": 269,
       "date": "2026-02-14T22:47:13Z",
       "tags": [
         "rust",
@@ -4868,7 +4940,7 @@
     {
       "id": "zwVDEAKKPZY",
       "title": "Go 1.26: The Era of Automated Modernization",
-      "views": 962,
+      "views": 965,
       "date": "2026-02-14T09:23:06Z",
       "tags": [
         "go",
@@ -4882,7 +4954,7 @@
     {
       "id": "cWozmWrqnxs",
       "title": "The Repository Pattern",
-      "views": 835,
+      "views": 841,
       "date": "2026-02-13T18:01:39Z",
       "tags": [
         "decoupling",
@@ -4895,7 +4967,7 @@
     {
       "id": "joYJ6rPN3UI",
       "title": "Burn: The Rust Deep Learning Framework",
-      "views": 817,
+      "views": 836,
       "date": "2026-02-13T15:08:23Z",
       "tags": [
         "rust",
@@ -4908,7 +4980,7 @@
     {
       "id": "Qo3oJv4uyBI",
       "title": "High-Performance Go: Inside the 1.26 Release",
-      "views": 226,
+      "views": 228,
       "date": "2026-02-12T13:08:12Z",
       "tags": [
         "go",
@@ -4921,7 +4993,7 @@
     {
       "id": "cEwAbu6FFRo",
       "title": "Compound Engineering",
-      "views": 235,
+      "views": 239,
       "date": "2026-02-11T13:08:01Z",
       "tags": [
         "every.to",
@@ -4948,7 +5020,7 @@
     {
       "id": "KDnTY0Svmr0",
       "title": "AEM + Meilisearch: A High-Performance Integration",
-      "views": 14,
+      "views": 15,
       "date": "2026-02-10T07:27:32Z",
       "tags": [
         "melisearch",
@@ -4975,7 +5047,7 @@
     {
       "id": "0Sed1oggMKY",
       "title": "Tokio: The Asynchronous Runtime for Rust",
-      "views": 89,
+      "views": 90,
       "date": "2026-02-08T20:27:32Z",
       "tags": [
         "tokio",
@@ -5016,7 +5088,7 @@
     {
       "id": "TmlqoKqMD2Y",
       "title": "Jujutsu (jj) for Git-compatible Workflow",
-      "views": 343,
+      "views": 350,
       "date": "2026-02-06T00:14:00Z",
       "tags": [
         "git",
@@ -5044,7 +5116,7 @@
     {
       "id": "xV2EAL3NAVM",
       "title": "A Comprehensive Guide to Zig Fundamentals and Features",
-      "views": 488,
+      "views": 493,
       "date": "2026-02-02T10:14:00Z",
       "tags": [
         "zig",
@@ -5088,7 +5160,7 @@
     {
       "id": "TDWC1fFhn9g",
       "title": "A DeepDive into SIMD & Zig",
-      "views": 91,
+      "views": 95,
       "date": "2026-01-31T19:35:42Z",
       "tags": [
         "zig",
@@ -5129,7 +5201,7 @@
     {
       "id": "o9yaniXkM-0",
       "title": "Practical Data Oriented Design in Zig",
-      "views": 105,
+      "views": 108,
       "date": "2026-01-30T01:28:52Z",
       "tags": [
         "dod",
@@ -5142,7 +5214,7 @@
     {
       "id": "RDa6WtZmW8E",
       "title": "Mastering Serde in Rust ",
-      "views": 60,
+      "views": 63,
       "date": "2026-01-29T05:20:28Z",
       "tags": [
         "serde",
@@ -5418,7 +5490,7 @@
     {
       "id": "0ttrfTfP864",
       "title": "ra-token-authority",
-      "views": 24,
+      "views": 25,
       "date": "2026-01-16T16:34:51Z",
       "tags": [
         "rust",
@@ -5686,7 +5758,7 @@
     {
       "id": "TLqdeHlAo3A",
       "title": "From Bottlenecks to Breakthroughs:",
-      "views": 62,
+      "views": 67,
       "date": "2025-12-27T21:13:50Z",
       "tags": [
         "git",
@@ -5711,7 +5783,7 @@
     {
       "id": "7dsz_yUpvqM",
       "title": "The Joy of Cryptography",
-      "views": 13,
+      "views": 14,
       "date": "2026-07-27T23:00:13Z",
       "tags": [
         "curiosity",
@@ -5752,7 +5824,7 @@
     {
       "id": "MzdV5hjPdsI",
       "title": "The 25519 Cryptographic Family",
-      "views": 20,
+      "views": 24,
       "date": "2026-06-28T23:00:29Z",
       "tags": [
         "gryptographic",
@@ -5794,7 +5866,7 @@
     {
       "id": "MFiVlaMYmwM",
       "title": "Microsoft Agent Governance Toolkit",
-      "views": 223,
+      "views": 233,
       "date": "2026-05-23T04:44:12Z",
       "tags": [
         "agent",
@@ -5852,7 +5924,7 @@
     {
       "id": "u8XCBK6lGw0",
       "title": "Custom Graphs in Microsoft Sentinel (Preview)",
-      "views": 62,
+      "views": 63,
       "date": "2026-04-11T15:44:17Z",
       "tags": [
         "sentinel",
@@ -5979,7 +6051,7 @@
     {
       "id": "JfGgWiiCTA0",
       "title": "Shannon: Autonomous Penetration Testing",
-      "views": 59,
+      "views": 60,
       "date": "2026-02-14T10:04:10Z",
       "tags": [
         "agent",
@@ -6076,7 +6148,7 @@
     {
       "id": "Qhhnc6xLmSQ",
       "title": "Architecting State in Rust",
-      "views": 72,
+      "views": 71,
       "date": "2026-08-08T23:00:02Z",
       "tags": [
         "rust",
@@ -6088,6 +6160,6 @@
       "isShort": false
     }
   ],
-  "generatedAt": "2026-08-22T00:52:11.294Z",
-  "count": 460
+  "generatedAt": "2026-08-28T02:14:28.145Z",
+  "count": 466
 }

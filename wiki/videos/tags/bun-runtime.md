@@ -2,7 +2,7 @@
 type: tag
 tags: [bun-runtime]
 sources: 3
-updated: 2026-08-22
+updated: 2026-08-28
 ---
 
 # bun runtime
@@ -16,4 +16,4 @@ Videos connected by the topic `bun runtime`.
 - [타입스크립트와 번으로 만드는 TODO 리스트](https://youtu.be/D1Hth_78ftg) — Programming · 9 views · Jan 10, 2026 · [Details](../details/D1Hth_78ftg.md)
 
 ---
-*Auto-generated on Aug 21, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 27, 2026. Back to [topic index](index.md).*

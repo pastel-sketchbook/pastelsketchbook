@@ -34,7 +34,7 @@ This video provides an architectural deep dive into the evolution of web protoco
 - [Architecting the edge for HTTP/3 and QUIC](https://youtu.be/7Dchx829X_M) — Kubernetes · 93 views · Apr 4, 2026 · [Details](7Dchx829X_M.md) (shared: `http` · `quic` · `udp`)
 - [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 130 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `http` · `head-of-line` · `blocking`)
 - [The Programmer's Guide to Essential RFCs](https://youtu.be/LackTxguXFg) — Development · 110 views · Apr 10, 2026 · [Details](LackTxguXFg.md) (shared: `http` · `tcp` · `tls`)
-- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 61 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `quic` · `tls` · `1.3`)
+- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 66 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `quic` · `tls` · `1.3`)
 - [Transcontinental Data Migration](https://youtu.be/lXwe6xeFmAE) — Development · 38 views · Jul 26, 2026 · [Details](lXwe6xeFmAE.md) (shared: `udp` · `tcp` · `migration`)
 
 ---

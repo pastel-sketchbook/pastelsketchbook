@@ -34,7 +34,7 @@ This video details the architecture for Azure Kubernetes Service node auto-provi
 - [Kubernetes Version Upgrade Strategy](https://youtu.be/ftODZr2_V5Q) — Kubernetes · 30 views · Dec 26, 2025 · [Details](ftODZr2_V5Q.md) (shared: `aks` · `cluster`)
 - [The Complete Local Azure Environment](https://youtu.be/u_ooo1WDAc8) — Kubernetes · 22 views · May 16, 2026 · [Details](u_ooo1WDAc8.md) (shared: `aks` · `terraform`)
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](C6wLm6NRZW4.md) (shared: `aks`)
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 25 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `aks`)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 27 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `aks`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

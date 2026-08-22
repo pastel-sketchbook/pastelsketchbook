@@ -30,8 +30,8 @@ This video explores building AI applications with Genkit Dart, a framework for t
 
 ## Related Videos
 
-- [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 57 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `genkit dart` · `genkit` · `dart`)
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 310 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `dart` · `flutter`)
+- [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 59 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `genkit dart` · `genkit` · `dart`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 323 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `dart` · `flutter`)
 - [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) — Development · 33 views · Apr 18, 2026 · [Details](q-6cUColzQQ.md) (shared: `dart` · `flutter`)
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `dart` · `flutter`)
 - [Flutter & Dart: The 2026 Roadmap](https://youtu.be/WMcKFQ200OE) — Development · 62 views · Feb 27, 2026 · [Details](WMcKFQ200OE.md) (shared: `dart` · `flutter`)

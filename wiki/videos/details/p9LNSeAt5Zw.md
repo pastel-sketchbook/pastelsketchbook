@@ -34,7 +34,7 @@ This video serves as a strategic playbook for transitioning Node.js applications
 - [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 68 views · Apr 25, 2026 · [Details](quD4pyCwKB4.md) (shared: `infrastructure` · `ci/cd pipelines` · `pipelines`)
 - [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 29 views · Feb 19, 2026 · [Details](rk_3xU9OF-k.md) (shared: `kubernetes` · `infrastructure`)
 - [Kubernetes Auto-Scaling Strategies](https://youtu.be/y3WwL48DLYw) — Kubernetes · 29 views · Feb 23, 2026 · [Details](y3WwL48DLYw.md) (shared: `scaling` · `kubernetes`)
-- [Architecting AKS Networking - Trade-offs](https://youtu.be/F09-7mNt3F4) — Kubernetes · 16 views · Mar 12, 2026 · [Details](F09-7mNt3F4.md) (shared: `scaling` · `kubernetes`)
+- [Orchestrating Kubernetes Resilience](https://youtu.be/ZECKRFPN8BA) — Kubernetes · 8 views · Aug 25, 2026 · [Details](ZECKRFPN8BA.md) (shared: `kubernetes` · `rolling` · `updates`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

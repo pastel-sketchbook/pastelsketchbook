@@ -37,7 +37,7 @@ This talk presents a Rust-based blueprint for enterprise secret management in cl
 
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 23 views · Apr 1, 2026 · [Details](BiYKKVsJROk.md) (shared: `tls` · `zero` · `trust`)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 23 views · Jan 14, 2026 · [Details](A4-foXsdQiA.md) (shared: `tls` · `zero` · `trust`)
-- [Tailscale: The Modular Network Operating System](https://youtu.be/PVwzHpsrVcc) — Kubernetes · 7 views · Aug 10, 2026 · [Details](PVwzHpsrVcc.md) (shared: `handshake` · `key` · `zero`)
+- [Tailscale: The Modular Network Operating System](https://youtu.be/PVwzHpsrVcc) — Kubernetes · 12 views · Aug 10, 2026 · [Details](PVwzHpsrVcc.md) (shared: `handshake` · `key` · `zero`)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `zero` · `trust`)
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 48 views · Jan 16, 2026 · [Details](0U-SUJCmKAU.md) (shared: `zero` · `trust`)
 

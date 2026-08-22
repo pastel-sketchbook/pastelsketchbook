@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [security, zero trust, agent, sentinel, siem, soar, xdr, llm, nist, passwordless]
 sources: 21
-updated: 2026-08-22
+updated: 2026-08-28
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-08-22
 | Metric | Value |
 |--------|-------|
 | Videos | 21 |
-| Total Views | 807 |
+| Total Views | 824 |
 | Most Recent | Aug 16, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -54,24 +54,24 @@ updated: 2026-08-22
 ### Go (2 videos)
 
 - [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 21 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 223 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 233 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
 | 1 | Unified Passwordless Identity | 8 | Aug 16, 2026 | [Watch](https://youtu.be/LGKBWq8g1u4) | [Wiki](details/LGKBWq8g1u4.md) |
-| 2 | The Joy of Cryptography | 13 | Jul 27, 2026 | [Watch](https://youtu.be/7dsz_yUpvqM) | [Wiki](details/7dsz_yUpvqM.md) |
+| 2 | The Joy of Cryptography | 14 | Jul 27, 2026 | [Watch](https://youtu.be/7dsz_yUpvqM) | [Wiki](details/7dsz_yUpvqM.md) |
 | 3 | The Hardware-Bound Security Blueprint | 17 | Jul 2, 2026 | [Watch](https://youtu.be/neqE9X2kSuY) | [Wiki](details/neqE9X2kSuY.md) |
 | 4 | Architecting Ephemeral Access | 5 | Jun 29, 2026 | [Watch](https://youtu.be/Hwa2vM9c2Xc) | [Wiki](details/Hwa2vM9c2Xc.md) |
-| 5 | The 25519 Cryptographic Family | 20 | Jun 28, 2026 | [Watch](https://youtu.be/MzdV5hjPdsI) | [Wiki](details/MzdV5hjPdsI.md) |
+| 5 | The 25519 Cryptographic Family | 24 | Jun 28, 2026 | [Watch](https://youtu.be/MzdV5hjPdsI) | [Wiki](details/MzdV5hjPdsI.md) |
 | 6 | Escaping the env Ceiling | 29 | Jun 18, 2026 | [Watch](https://youtu.be/kc1gwl89iyw) | [Wiki](details/kc1gwl89iyw.md) |
 | 7 | Winning the Arms Race in Credential Security | 21 | Jun 6, 2026 | [Watch](https://youtu.be/Kp_4y_HEaZ0) | [Wiki](details/Kp_4y_HEaZ0.md) |
-| 8 | Microsoft Agent Governance Toolkit | 223 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
+| 8 | Microsoft Agent Governance Toolkit | 233 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
 | 9 | ZAP: Getting Started with Software Security Testing | 25 | Apr 30, 2026 | [Watch](https://youtu.be/infh5ZZwvLU) | [Wiki](details/infh5ZZwvLU.md) |
 | 10 | Azure Sentinel & M365 Defender | 21 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
 | 11 | Designing for Privacy | 44 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
-| 12 | Custom Graphs in Microsoft Sentinel (Preview) | 62 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
+| 12 | Custom Graphs in Microsoft Sentinel (Preview) | 63 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
 | 13 | Black-Hat LLMs: The End of the 20-Year Security Balance | 81 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) | [Wiki](details/Zeg8zSOvoyE.md) |
 | 14 | 2FA Orchestration in PingFederate | 11 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) | [Wiki](details/HxB-cJIbEgE.md) |
 | 15 | Anatomy of a Supply Chain Attack | 38 | Mar 26, 2026 | [Watch](https://youtu.be/taBP0Fr3uSQ) | [Wiki](details/taBP0Fr3uSQ.md) |
@@ -80,7 +80,7 @@ updated: 2026-08-22
 | 18 | The Strategic Roadmap for Data Classification | 23 | Mar 2, 2026 | [Watch](https://youtu.be/uhXcsWYhdkA) | [Wiki](details/uhXcsWYhdkA.md) |
 | 19 | The Orchestrator's Blueprint | 36 | Feb 28, 2026 | [Watch](https://youtu.be/Oa3jaLNSZvM) | [Wiki](details/Oa3jaLNSZvM.md) |
 | 20 | 2025 Global Threat Report | 14 | Feb 27, 2026 | [Watch](https://youtu.be/1MPD6MILLcQ) | [Wiki](details/1MPD6MILLcQ.md) |
-| 21 | Shannon: Autonomous Penetration Testing | 59 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) | [Wiki](details/JfGgWiiCTA0.md) |
+| 21 | Shannon: Autonomous Penetration Testing | 60 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) | [Wiki](details/JfGgWiiCTA0.md) |
 
 ## Top Tags
 
@@ -88,9 +88,9 @@ updated: 2026-08-22
 
 ## See Also
 
-- [Kubernetes](kubernetes.md) -- shared tags: `curiosity`, `ai`, `zero trust`, `shift left`, `agent`, `aws`, `azure`, `secret`, `orchestration`, `governance`, `security`
-- [Development](development.md) -- shared tags: `curiosity`, `ai`, `zero trust`, `shift left`, `agent`, `llm`, `data`, `service`, `context`, `algorithms`, `toolkit`, `resilience`, `token`, `ssrf`
+- [Kubernetes](kubernetes.md) -- shared tags: `curiosity`, `ai`, `agent`, `resilience`, `zero trust`, `shift left`, `aws`, `azure`, `secret`, `orchestration`, `governance`, `security`
+- [Development](development.md) -- shared tags: `curiosity`, `ai`, `agent`, `resilience`, `zero trust`, `shift left`, `llm`, `data`, `service`, `context`, `algorithms`, `toolkit`, `token`, `ssrf`
 - [Finance](finance.md) -- shared tags: `curiosity`, `ai`
 
 ---
-*Auto-generated on Aug 21, 2026. Back to [index](index.md).*
+*Auto-generated on Aug 27, 2026. Back to [index](index.md).*

@@ -45,9 +45,9 @@ Welcome  everyone.  Today  we  embark  on  a journey  to  understand  and  conqu
 
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes` · `pod` · `scheduling`)
 - [Kubernetes Auto-Scaling Strategies](https://youtu.be/y3WwL48DLYw) — Kubernetes · 29 views · Feb 23, 2026 · [Details](y3WwL48DLYw.md) (shared: `kubernetes` · `resource` · `pod`)
-- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 21 views · Apr 22, 2026 · [Details](p9LNSeAt5Zw.md) (shared: `orchestration` · `kubernetes`)
+- [Orchestrating Kubernetes Resilience](https://youtu.be/ZECKRFPN8BA) — Kubernetes · 8 views · Aug 25, 2026 · [Details](ZECKRFPN8BA.md) (shared: `kubernetes` · `pod` · `disruption`)
+- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 22 views · Apr 22, 2026 · [Details](p9LNSeAt5Zw.md) (shared: `orchestration` · `kubernetes`)
 - [kube-log-viewer](https://youtu.be/aiYBPCkvhes) — Kubernetes · 24 views · Mar 5, 2026 · [Details](aiYBPCkvhes.md) (shared: `kubernetes` · `pod`)
-- [Deploying CSR Applications on Vercel Versus AKS](https://youtu.be/snRi_JET1bg) — Kubernetes · 8 views · Jan 6, 2026 · [Details](snRi_JET1bg.md) (shared: `orchestration` · `kubernetes`)
 
 ---
 *Auto-generated on Jul 18, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

@@ -36,8 +36,8 @@ Burn is a high-performance deep learning framework implemented entirely in Rust,
 ## Related Videos
 
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 32 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `rust` · `deep` · `learning`)
-- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 100 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `rust` · `tensor` · `automatic`)
-- [Synthesizing Gleam Syntax with Rust Performance](https://youtu.be/DTb0syknVSQ) — Development · 29 views · Jul 15, 2026 · [Details](DTb0syknVSQ.md) (shared: `rust` · `code` · `generation`)
+- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 101 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `rust` · `tensor` · `automatic`)
+- [Synthesizing Gleam Syntax with Rust Performance](https://youtu.be/DTb0syknVSQ) — Development · 30 views · Jul 15, 2026 · [Details](DTb0syknVSQ.md) (shared: `rust` · `code` · `generation`)
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `rust` · `architecture` · `code`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 53 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust` · `compile-time` · `safety`)
 

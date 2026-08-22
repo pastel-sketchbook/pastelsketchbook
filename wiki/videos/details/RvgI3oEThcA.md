@@ -33,7 +33,7 @@ This talk argues that deep object-oriented inheritance hierarchies create fragil
 
 - [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 34 views · Feb 23, 2026 · [Details](ARWkoc3E8uE.md) (shared: `inheritance` · `composition over inheritance` · `composition`)
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `data-driven` · `data` · `architecture`)
-- [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 118 views · Feb 24, 2026 · [Details](DazzkNtnzec.md) (shared: `inheritance` · `composition over inheritance` · `composition`)
+- [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 119 views · Feb 24, 2026 · [Details](DazzkNtnzec.md) (shared: `inheritance` · `composition over inheritance` · `composition`)
 - [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 35 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `data` · `architecture`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 32 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `data` · `architecture`)
 

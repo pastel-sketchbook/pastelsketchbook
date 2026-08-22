@@ -30,7 +30,7 @@ This session deconstructs the architecture of Rust's `ndarray` crate, explaining
 
 ## Related Videos
 
-- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 55 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `ndarray` · `rust` · `numerical`)
+- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 56 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `ndarray` · `rust` · `numerical`)
 - [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 67 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `crate` · `macro` · `type`)
 - [Rust 1.95.0](https://youtu.be/izLrX-02IQk) — Development · 252 views · Apr 18, 2026 · [Details](izLrX-02IQk.md) (shared: `crate` · `macro` · `rust`)
 - [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 63 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `arrays` · `array`)

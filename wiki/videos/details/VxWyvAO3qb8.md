@@ -32,9 +32,9 @@ This video presents a reference architecture for integrating NATS as an internal
 
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](N4nRAfBZ3BE.md) (shared: `nats` · `messaging` · `azure event hubs`)
 - [Continuous Flow](https://youtu.be/tcrNdx1yH_E) — Kubernetes · 15 views · Mar 22, 2026 · [Details](tcrNdx1yH_E.md) (shared: `azure event hubs` · `azure` · `event`)
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 79 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `azure` · `aks` · `architecture`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 80 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `azure` · `aks` · `architecture`)
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](C6wLm6NRZW4.md) (shared: `azure` · `aks`)
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 25 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `aks` · `traffic`)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 27 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `aks` · `traffic`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

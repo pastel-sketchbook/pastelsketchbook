@@ -30,11 +30,11 @@ Based on Kent Beck's experiments, this video explores how LLM-powered augmented 
 
 ## Related Videos
 
-- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 310 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `code` · `generation` · `ai-assisted development`)
-- [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 54 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `code` · `ai-assisted development` · `ai-assisted`)
+- [Agent Skills for Flutter](https://youtu.be/TEGFwsAcxK8) — Development · 323 views · Apr 10, 2026 · [Details](TEGFwsAcxK8.md) (shared: `code` · `generation` · `ai-assisted development`)
+- [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 55 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `code` · `ai-assisted development` · `ai-assisted`)
 - [The LLM Wiki Paradigm](https://youtu.be/BzvpasWYESU) — Development · 2.9K views · Apr 9, 2026 · [Details](BzvpasWYESU.md) (shared: `augmented` · `llm` · `code`)
 - [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 80 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `coding` · `ai-assisted` · `development`)
-- [Synthesizing Gleam Syntax with Rust Performance](https://youtu.be/DTb0syknVSQ) — Development · 29 views · Jul 15, 2026 · [Details](DTb0syknVSQ.md) (shared: `code` · `generation` · `design`)
+- [Synthesizing Gleam Syntax with Rust Performance](https://youtu.be/DTb0syknVSQ) — Development · 30 views · Jul 15, 2026 · [Details](DTb0syknVSQ.md) (shared: `code` · `generation` · `design`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

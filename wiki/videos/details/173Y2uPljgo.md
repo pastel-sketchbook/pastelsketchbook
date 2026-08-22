@@ -33,7 +33,7 @@ This blueprint dissects the internal architecture of NestJS, showing how a metad
 
 - [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 23 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `request` · `pipeline` · `http`)
 - [The Pragmatic Go Developer](https://youtu.be/oxNF_GNuWpE) — Development · 45 views · Mar 10, 2026 · [Details](oxNF_GNuWpE.md) (shared: `dependency` · `http` · `context`)
-- [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 118 views · Feb 24, 2026 · [Details](DazzkNtnzec.md) (shared: `decorators` · `dependency` · `injection`)
+- [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 119 views · Feb 24, 2026 · [Details](DazzkNtnzec.md) (shared: `decorators` · `dependency` · `injection`)
 - [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 67 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `module` · `pipeline` · `hybrid`)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 96 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `execution` · `context` · `protocol`)
 
