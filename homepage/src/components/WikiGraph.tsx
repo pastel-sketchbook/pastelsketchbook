@@ -165,8 +165,11 @@ function simulate(nodes: GraphNode[], edges: GraphEdge[], iterations: number) {
         const dx = positions[i][0] - positions[j][0]
         const dy = positions[i][1] - positions[j][1]
         const dz = positions[i][2] - positions[j][2]
-        const dist = Math.sqrt(dx * dx + dy * dy + dz * dz) + 0.1
-        if (dist > 30) continue
+        // Cull far pairs on squared distance first — skips most sqrt calls.
+        // 894.01 === (30 - 0.1)^2 preserves the original dist > 30 cutoff.
+        const distSq = dx * dx + dy * dy + dz * dz
+        if (distSq > 894.01 || distSq < 1e-8) continue
+        const dist = Math.sqrt(distSq) + 0.1
         const force = repulsion / (dist * dist)
         const fx = (dx / dist) * force
         const fy = (dy / dist) * force
@@ -294,34 +297,13 @@ function Edges({ nodes, edges }: { nodes: GraphNode[]; edges: GraphEdge[] }) {
     return geo
   }, [nodes, edges])
 
+  // Manually-created BufferGeometry isn't auto-disposed by R3F on unmount.
+  useEffect(() => () => geometry.dispose(), [geometry])
+
   return (
     <lineSegments geometry={geometry}>
       <lineBasicMaterial vertexColors transparent opacity={0.35} />
     </lineSegments>
-  )
-}
-
-function Scene({
-  nodes,
-  edges,
-  meshRef,
-}: {
-  nodes: GraphNode[]
-  edges: GraphEdge[]
-  meshRef: React.RefObject<THREE.InstancedMesh | null>
-}) {
-  return (
-    <>
-      <Edges nodes={nodes} edges={edges} />
-      <Nodes nodes={nodes} meshRef={meshRef} />
-      <OrbitControls
-        enableDamping
-        dampingFactor={0.05}
-        minDistance={10}
-        maxDistance={120}
-        enablePan
-      />
-    </>
   )
 }
 
@@ -408,6 +390,10 @@ function HoverPopup({
 
 // -- DOM-based raycasting (bypasses R3F event system entirely) --
 
+// Clicks must travel less than this many pixels between pointerdown and click;
+// anything more is an orbit drag, not a node selection.
+const CLICK_SLOP_PX = 6
+
 function useGraphInteraction(
   nodes: GraphNode[],
   meshRef: React.RefObject<THREE.InstancedMesh | null>,
@@ -420,6 +406,9 @@ function useGraphInteraction(
 
   const raycaster = useMemo(() => new THREE.Raycaster(), [])
   const pointer = useMemo(() => new THREE.Vector2(), [])
+  // Distinguishes clicks from orbit drags — without this, releasing a camera
+  // rotation over a node opens the video modal unintentionally.
+  const downPosRef = useRef<{ x: number; y: number } | null>(null)
 
   const hitTest = useCallback(
     (clientX: number, clientY: number): GraphNode | null => {
@@ -443,6 +432,10 @@ function useGraphInteraction(
     [nodes, meshRef, cameraRef, glRef, raycaster, pointer],
   )
 
+  const handlePointerDown = useCallback((e: React.PointerEvent) => {
+    downPosRef.current = { x: e.clientX, y: e.clientY }
+  }, [])
+
   const handlePointerMove = useCallback(
     (e: React.PointerEvent) => {
       setMousePos({ x: e.clientX, y: e.clientY })
@@ -453,6 +446,13 @@ function useGraphInteraction(
 
   const handleClick = useCallback(
     (e: React.MouseEvent) => {
+      const down = downPosRef.current
+      if (
+        down &&
+        Math.hypot(e.clientX - down.x, e.clientY - down.y) > CLICK_SLOP_PX
+      ) {
+        return
+      }
       const node = hitTest(e.clientX, e.clientY)
       if (node) setSelectedVideoId(node.id)
     },
@@ -464,6 +464,7 @@ function useGraphInteraction(
     selectedVideoId,
     setSelectedVideoId,
     mousePos,
+    handlePointerDown,
     handlePointerMove,
     handleClick,
   }
@@ -487,6 +488,7 @@ export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
     selectedVideoId,
     setSelectedVideoId,
     mousePos,
+    handlePointerDown,
     handlePointerMove,
     handleClick,
   } = useGraphInteraction(nodes, meshRef, cameraRef, glRef)
@@ -509,6 +511,7 @@ export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
     <div
       className="w-full relative"
       style={{ height: 'calc(100vh - 80px)' }}
+      onPointerDown={handlePointerDown}
       onPointerMove={handlePointerMove}
       onClick={handleClick}
     >
@@ -518,7 +521,15 @@ export function WikiGraph({ wiki }: { wiki: WikiBundle }) {
         style={{ cursor: hoveredNode ? 'pointer' : 'grab' }}
         onCreated={handleCreated}
       >
-        <Scene nodes={nodes} edges={edges} meshRef={meshRef} />
+        <Edges nodes={nodes} edges={edges} />
+        <Nodes nodes={nodes} meshRef={meshRef} />
+        <OrbitControls
+          enableDamping
+          dampingFactor={0.05}
+          minDistance={10}
+          maxDistance={120}
+          enablePan
+        />
       </Canvas>
 
       {hoveredNode && (
