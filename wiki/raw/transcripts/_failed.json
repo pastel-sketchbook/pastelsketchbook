@@ -1,16 +1,9 @@
 {
-  "generatedAt": "2026-08-17T00:55:10.662Z",
-  "runLabel": "all videos (excl. shorts/hidden)",
-  "attempted": 455,
-  "written": 6,
-  "skipped": 448,
-  "failedCount": 1,
-  "failed": [
-    {
-      "id": "1PH7UB24xps",
-      "title": "Architecting AKS Networking",
-      "category": "kubernetes",
-      "error": "Command failed: /Users/AD9C65/projects/pastel-projects/pastel-sketchbook/tools/yt-transcript/zig-out/bin/yt-transcript --max-chars 120000 -- 1PH7UB24xps\nerror: failed to fetch transcript: NoCaptionTracks\n"
-    }
-  ]
+  "generatedAt": "2026-08-22T00:26:50.677Z",
+  "runLabel": "single: NuAqkcx6u-U",
+  "attempted": 1,
+  "written": 1,
+  "skipped": 0,
+  "failedCount": 0,
+  "failed": []
 }

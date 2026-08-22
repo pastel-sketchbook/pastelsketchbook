@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 455
-updated: 2026-08-17
+sources: 460
+updated: 2026-08-22
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 455 |
-| Total Views | 36.7K |
+| Total Videos | 460 |
+| Total Views | 37.0K |
 | Categories | 6 |
-| Last Updated | Aug 16, 2026 |
+| Last Updated | Aug 21, 2026 |
 
 ## Categories
 
@@ -28,23 +28,23 @@ Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 50 videos, 1.1K total views.
+Videos covering personal finance, investing, and economics. 51 videos, 1.1K total views.
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 87 videos, 2.5K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 89 videos, 2.5K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 268 videos, 31.7K total views.
+Videos about software development, tools, workflows, and engineering practices. 270 videos, 32.0K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 21 videos, 793 total views.
+Videos on cybersecurity, application security, and security engineering. 21 videos, 807 total views.
 
 ### [Programming](programming.md)
 
-Videos about programming languages, paradigms, and computer science concepts. 9 videos, 288 total views.
+Videos about programming languages, paradigms, and computer science concepts. 9 videos, 291 total views.
 
 ## Cross-Category Tags
 
@@ -69,4 +69,4 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `secret` | [Kubernetes](kubernetes.md), [Security](security.md) |
 
 ---
-*Auto-generated on Aug 16, 2026. See [wiki index](../index.md).*
+*Auto-generated on Aug 21, 2026. See [wiki index](../index.md).*

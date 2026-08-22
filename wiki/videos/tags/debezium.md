@@ -2,7 +2,7 @@
 type: tag
 tags: [debezium]
 sources: 2
-updated: 2026-08-17
+updated: 2026-08-22
 ---
 
 # debezium
@@ -15,4 +15,4 @@ Videos connected by the topic `debezium`.
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 22 views · Apr 7, 2026 · [Details](../details/KdLQEv3Tiiw.md)
 
 ---
-*Auto-generated on Aug 16, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 21, 2026. Back to [topic index](index.md).*

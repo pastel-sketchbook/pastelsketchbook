@@ -40,7 +40,7 @@ Azure Linux 4.0 is Microsoft's first general-purpose Linux distribution, a Fedor
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) — Kubernetes · 30 views · Mar 16, 2026 · [Details](LUOX5xkSyi0.md) (shared: `infrastructure as code` · `infrastructure` · `code`)
 - [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 68 views · Apr 25, 2026 · [Details](quD4pyCwKB4.md) (shared: `infrastructure as code` · `infrastructure` · `code`)
 - [Architecting Al at Global Scale](https://youtu.be/PofJfj6nRuw) — Kubernetes · 5 views · Jun 11, 2026 · [Details](PofJfj6nRuw.md) (shared: `azure` · `management` · `agentic`)
-- [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) — Kubernetes · 13 views · May 22, 2026 · [Details](9ga0NT3ZohQ.md) (shared: `azure` · `linux` · `image`)
+- [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) — Kubernetes · 15 views · May 22, 2026 · [Details](9ga0NT3ZohQ.md) (shared: `azure` · `linux` · `image`)
 
 ---
 *Auto-generated on Jul 6, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

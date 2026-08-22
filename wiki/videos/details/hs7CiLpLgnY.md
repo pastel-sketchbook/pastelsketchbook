@@ -30,8 +30,8 @@ This talk presents the modern blueprint for deploying Istio service mesh on AWS,
 
 ## Related Videos
 
-- [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) — Kubernetes · 12 views · May 6, 2026 · [Details](4YsX6tYi5x4.md) (shared: `istio` · `service` · `mesh`)
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 78 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `istio` · `service` · `mesh`)
+- [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) — Kubernetes · 13 views · May 6, 2026 · [Details](4YsX6tYi5x4.md) (shared: `istio` · `service` · `mesh`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 79 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `istio` · `service` · `mesh`)
 - [Architecting the Modern Cloud Network](https://youtu.be/1RqgRdlIO8M) — Kubernetes · 16 views · Jul 19, 2026 · [Details](1RqgRdlIO8M.md) (shared: `istio` · `service` · `mesh`)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `istio` · `service` · `mesh`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 47 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `istio` · `service` · `mesh`)

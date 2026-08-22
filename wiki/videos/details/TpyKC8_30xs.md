@@ -34,7 +34,7 @@ The Burn Book is a multi-surface deep learning curriculum architecture for the B
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 49 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `architecture` · `tauri` · `desktop`)
 - [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 32 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `architecture` · `tauri 2 desktop shell` · `tauri`)
 - [The Architecture of tracel-ai/models](https://youtu.be/kSQtbPEtDkY) — Development · 21 views · May 20, 2026 · [Details](kSQtbPEtDkY.md) (shared: `architecture` · `burn` · `deep`)
-- [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 35 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `architecture` · `terminal` · `rendering`)
+- [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 36 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `architecture` · `terminal` · `rendering`)
 
 ---
 *Auto-generated on May 24, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -3,7 +3,7 @@ type: category
 category: programming
 tags: [알고리즘, rust, refcell, pitfalls, alternatives, vercel, 보안, 대시보드, 영어 공부, 주판]
 sources: 9
-updated: 2026-08-17
+updated: 2026-08-22
 ---
 
 # Programming
@@ -15,14 +15,14 @@ updated: 2026-08-17
 | Metric | Value |
 |--------|-------|
 | Videos | 9 |
-| Total Views | 288 |
+| Total Views | 291 |
 | Most Recent | Aug 8, 2026 |
 | Oldest | Jan 10, 2026 |
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Architecting State in Rust | 69 | Aug 8, 2026 | [Watch](https://youtu.be/Qhhnc6xLmSQ) | [Wiki](details/Qhhnc6xLmSQ.md) |
+| 1 | Architecting State in Rust | 72 | Aug 8, 2026 | [Watch](https://youtu.be/Qhhnc6xLmSQ) | [Wiki](details/Qhhnc6xLmSQ.md) |
 | 2 | Vercel 대시보드 보안 안내서 | 23 | Feb 1, 2026 | [Watch](https://youtu.be/GVq5DvGFLpI) | [Wiki](details/GVq5DvGFLpI.md) |
 | 3 | 알고리즘에서 코드로  TypeScript 가이드 | 13 | Jan 14, 2026 | [Watch](https://youtu.be/dsxuWtfzBGI) | [Wiki](details/dsxuWtfzBGI.md) |
 | 4 | 알고리즘 완전 정복 | 5 | Jan 14, 2026 | [Watch](https://youtu.be/iEn_PMcBlDk) | [Wiki](details/iEn_PMcBlDk.md) |
@@ -42,4 +42,4 @@ updated: 2026-08-17
 - [Kubernetes](kubernetes.md) -- shared tags: `rust`, `vercel`
 
 ---
-*Auto-generated on Aug 16, 2026. Back to [index](index.md).*
+*Auto-generated on Aug 21, 2026. Back to [index](index.md).*

@@ -35,7 +35,7 @@ This session covers building temporary access patterns by integrating AWS Securi
 
 ## Related Videos
 
-- [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) — Security · 2 views · Aug 16, 2026 · [Details](LGKBWq8g1u4.md) (shared: `trust` · `architecture` · `provider`)
+- [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) — Security · 8 views · Aug 16, 2026 · [Details](LGKBWq8g1u4.md) (shared: `trust` · `architecture` · `provider`)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 23 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `trust` · `architecture`)
 - [2025 Global Threat Report](https://youtu.be/1MPD6MILLcQ) — Security · 14 views · Feb 27, 2026 · [Details](1MPD6MILLcQ.md) (shared: `credential` · `session`)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) — Security · 34 views · Mar 25, 2026 · [Details](CA1nlknmR3g.md) (shared: `architecture`)

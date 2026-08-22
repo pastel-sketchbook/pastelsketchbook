@@ -2,7 +2,7 @@
 type: tag
 tags: [dependency-inversion-principle]
 sources: 2
-updated: 2026-08-17
+updated: 2026-08-22
 ---
 
 # dependency inversion principle
@@ -15,4 +15,4 @@ Videos connected by the topic `dependency inversion principle`.
 - [Clean Architecture in Angular](https://youtu.be/RJGNh8L-8rw) — Development · 51 views · Jun 23, 2026 · [Details](../details/RJGNh8L-8rw.md)
 
 ---
-*Auto-generated on Aug 16, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 21, 2026. Back to [topic index](index.md).*

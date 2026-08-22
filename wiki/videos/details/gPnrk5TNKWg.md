@@ -35,7 +35,7 @@ This presentation maps the emerging Rust robotics stack for next-generation auto
 
 ## Related Videos
 
-- [The Anatomy of a Modern Robot](https://youtu.be/7ygjuzLkdTE) — Development · 50 views · Jun 24, 2026 · [Details](7ygjuzLkdTE.md) (shared: `rust` · `robotics` · `zero-copy`)
+- [The Anatomy of a Modern Robot](https://youtu.be/7ygjuzLkdTE) — Development · 51 views · Jun 24, 2026 · [Details](7ygjuzLkdTE.md) (shared: `rust` · `robotics` · `zero-copy`)
 - [RB Simulation Architecture](https://youtu.be/AbCc2yfz2uw) — Development · 7 views · Jun 30, 2026 · [Details](AbCc2yfz2uw.md) (shared: `rust` · `robotics` · `zero-copy`)
 - [Architecting a Modern Robocode Engine](https://youtu.be/d3JxtD__-L0) — Development · 77 views · May 29, 2026 · [Details](d3JxtD__-L0.md) (shared: `rust` · `bevy` · `ecs`)
 - [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `rust` · `bindings` · `edge`)

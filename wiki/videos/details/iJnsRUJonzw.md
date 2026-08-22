@@ -30,11 +30,11 @@ This talk presents a strategic blueprint for building an internal developer plat
 
 ## Related Videos
 
+- [The Open Framework for Building Developer Portals](https://youtu.be/qXg3PQ2kUpI) — Kubernetes · 1 views · Aug 21, 2026 · [Details](qXg3PQ2kUpI.md) (shared: `developer` · `model` · `backstage developer portal`)
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](C6wLm6NRZW4.md) (shared: `devops` · `governance` · `lifecycle`)
 - [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `abstraction` · `kubernetes` · `scale`)
-- [Sovereign Intelligence vs Enterprise Integration](https://youtu.be/fB-YC949wts) — Kubernetes · 8 views · Aug 7, 2026 · [Details](fB-YC949wts.md) (shared: `platform` · `model` · `governance`)
-- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 71 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `platform` · `engineering` · `cognitive`)
-- [The Golden Path](https://youtu.be/ORjARjbukhY) — Kubernetes · 25 views · Feb 21, 2026 · [Details](ORjARjbukhY.md) (shared: `platform` · `engineering` · `kubernetes`)
+- [Sovereign Intelligence vs Enterprise Integration](https://youtu.be/fB-YC949wts) — Kubernetes · 9 views · Aug 7, 2026 · [Details](fB-YC949wts.md) (shared: `platform` · `model` · `governance`)
+- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 72 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `platform` · `engineering` · `cognitive`)
 
 ---
 *Auto-generated on Jul 26, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

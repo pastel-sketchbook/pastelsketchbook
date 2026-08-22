@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-08-17
+updated: 2026-08-22
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 177
+Total topics: 178
 
 ## Topics
 
@@ -77,6 +77,7 @@ Total topics: 177
 - [api abstraction](api-abstraction.md) (2)
 - [axum](axum.md) (2)
 - [axum web framework](axum-web-framework.md) (2)
+- [backstage developer portal](backstage-developer-portal.md) (2)
 - [barbell strategy](barbell-strategy.md) (2)
 - [burn deep learning framework](burn-deep-learning-framework.md) (2)
 - [burn framework](burn-framework.md) (2)
@@ -190,4 +191,4 @@ Total topics: 177
 - [write-ahead log](write-ahead-log.md) (2)
 
 ---
-*Auto-generated on Aug 16, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Aug 21, 2026. Back to [videos index](../index.md).*

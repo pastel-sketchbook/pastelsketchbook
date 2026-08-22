@@ -30,7 +30,7 @@ An architectural overview of modern cloud networking that separates the L3/L4 ro
 
 ## Related Videos
 
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 24 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `istio` · `service` · `mesh`)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 25 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `istio` · `service` · `mesh`)
 - [Kubernetes Services & Istio](https://youtu.be/OnwiaDRj1-k) — Kubernetes · 30 views · Jan 12, 2026 · [Details](OnwiaDRj1-k.md) (shared: `istio` · `service` · `mesh`)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 14 views · Mar 10, 2026 · [Details](Hd767VA7Z-0.md) (shared: `istio` · `service` · `mesh`)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `istio` · `service` · `mesh`)

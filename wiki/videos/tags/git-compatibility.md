@@ -2,7 +2,7 @@
 type: tag
 tags: [git-compatibility]
 sources: 2
-updated: 2026-08-17
+updated: 2026-08-22
 ---
 
 # git compatibility
@@ -11,8 +11,8 @@ Videos connected by the topic `git compatibility`.
 
 ## Videos
 
-- [Jujutsu (jj) for Git-compatible Workflow](https://youtu.be/TmlqoKqMD2Y) — Development · 342 views · Feb 5, 2026 · [Details](../details/TmlqoKqMD2Y.md)
+- [Jujutsu (jj) for Git-compatible Workflow](https://youtu.be/TmlqoKqMD2Y) — Development · 343 views · Feb 5, 2026 · [Details](../details/TmlqoKqMD2Y.md)
 - [Jujutsu (jj):  An Introduction of its Paradigm Shift](https://youtu.be/5st-kLcNrE8) — Development · 122 views · Feb 5, 2026 · [Details](../details/5st-kLcNrE8.md)
 
 ---
-*Auto-generated on Aug 16, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 21, 2026. Back to [topic index](index.md).*

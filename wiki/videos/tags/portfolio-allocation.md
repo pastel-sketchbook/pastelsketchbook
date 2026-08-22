@@ -2,7 +2,7 @@
 type: tag
 tags: [portfolio-allocation]
 sources: 2
-updated: 2026-08-17
+updated: 2026-08-22
 ---
 
 # portfolio allocation
@@ -15,4 +15,4 @@ Videos connected by the topic `portfolio allocation`.
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](../details/2NoJVXPpcco.md)
 
 ---
-*Auto-generated on Aug 16, 2026. Back to [topic index](index.md).*
+*Auto-generated on Aug 21, 2026. Back to [topic index](index.md).*

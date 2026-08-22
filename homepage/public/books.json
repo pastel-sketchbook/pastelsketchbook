@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T00:57:40.000Z",
+  "generatedAt": "2026-08-22T00:29:06.000Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -185,7 +185,8 @@
             "9ga0NT3ZohQ",
             "i8wjbDfxZTY",
             "X65YHZUnFq0",
-            "k6zku1bFzAM"
+            "k6zku1bFzAM",
+            "qXg3PQ2kUpI"
           ],
           "tags": [
             "devops",
@@ -274,7 +275,9 @@
             "BZm2J9sLEp8",
             "mMVWnnAqPQk",
             "QWQcpxHE6E8",
-            "TErzICEXwRQ"
+            "TErzICEXwRQ",
+            "NCL_9PdUCc8",
+            "IfOAA7cOu6o"
           ],
           "tags": [
             "architecture",
@@ -423,7 +426,8 @@
             "h31-NtagNoU",
             "54lO6XE-AeQ",
             "43UjmZtW2JU",
-            "axvxGj3yOgA"
+            "axvxGj3yOgA",
+            "NuAqkcx6u-U"
           ],
           "tags": [
             "memory",
@@ -613,7 +617,8 @@
             "oxNF_GNuWpE",
             "zWuFvi-0Go4",
             "xiTVDbJscik",
-            "sMo3KnNup34"
+            "sMo3KnNup34",
+            "g0b4WhDKyE8"
           ],
           "tags": [
             "go",

@@ -34,7 +34,7 @@ This video introduces codeprobe, a Rust-based CLI (v0.3.0) that uses concurrent 
 - [Professional Al Agent Usage via the CLI](https://youtu.be/Xhq99-YHXCY) — Development · 25 views · Jan 2, 2026 · [Details](Xhq99-YHXCY.md) (shared: `cli` · `code` · `integration`)
 - [Synthesizing Gleam Syntax with Rust Performance](https://youtu.be/DTb0syknVSQ) — Development · 29 views · Jul 15, 2026 · [Details](DTb0syknVSQ.md) (shared: `rust` · `code` · `generation`)
 - [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 54 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `cli` · `code` · `automated`)
-- [The LLM Wiki Paradigm](https://youtu.be/BzvpasWYESU) — Development · 2.8K views · Apr 9, 2026 · [Details](BzvpasWYESU.md) (shared: `code` · `automated` · `generation`)
+- [The LLM Wiki Paradigm](https://youtu.be/BzvpasWYESU) — Development · 2.9K views · Apr 9, 2026 · [Details](BzvpasWYESU.md) (shared: `code` · `automated` · `generation`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

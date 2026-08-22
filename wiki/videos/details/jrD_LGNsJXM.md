@@ -39,7 +39,7 @@ Zig 0.16 ships a `std.io` interface that decouples application code from the und
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 89 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `async` · `runtime` · `cooperative`)
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `async` · `runtime` · `concurrency`)
 - [The Tokio Architecture Blueprint](https://youtu.be/9HUPNhA3OrI) — Development · 57 views · May 15, 2026 · [Details](9HUPNhA3OrI.md) (shared: `async` · `runtime` · `thread`)
-- [SQLx](https://youtu.be/uz8nmkTPEpg) — Development · 41 views · May 13, 2026 · [Details](uz8nmkTPEpg.md) (shared: `async` · `runtimes` · `concurrency`)
+- [SQLx](https://youtu.be/uz8nmkTPEpg) — Development · 43 views · May 13, 2026 · [Details](uz8nmkTPEpg.md) (shared: `async` · `runtimes` · `concurrency`)
 
 ---
 *Auto-generated on May 17, 2026. Back to [development](../development.md) · [index](../index.md).*

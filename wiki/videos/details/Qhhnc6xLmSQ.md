@@ -35,11 +35,11 @@ Architecting state in Rust centers on `RefCell<T>` as an interior-mutability esc
 
 ## Related Videos
 
-- [A Guide to Rust Smart Pointers](https://youtu.be/WdK7PED1ug8) — Development · 54 views · Feb 26, 2026 · [Details](WdK7PED1ug8.md) (shared: `interior` · `mutability` · `rust`)
+- [A Guide to Rust Smart Pointers](https://youtu.be/WdK7PED1ug8) — Development · 61 views · Feb 26, 2026 · [Details](WdK7PED1ug8.md) (shared: `interior` · `mutability` · `rust`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 53 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `borrowing` · `rust` · `ownership`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `borrowing` · `rust` · `ownership`)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 51 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `borrowing` · `rust` · `ownership`)
-- [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 52 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `logical` · `physical` · `architecture`)
+- [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 53 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `logical` · `physical` · `architecture`)
 
 ---
 *Auto-generated on Aug 9, 2026. Back to [programming](../programming.md) · [index](../index.md).*

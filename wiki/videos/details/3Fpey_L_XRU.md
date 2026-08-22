@@ -33,8 +33,8 @@ This video presents a cloth simulation project exploring the interoperability of
 - [Hardening a Prototype](https://youtu.be/DCGTYftRGWE) — Development · 24 views · Jan 25, 2026 · [Details](DCGTYftRGWE.md) (shared: `cloth simulation` · `cloth` · `simulation`)
 - [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 113 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `zig` · `webassembly` · `interop`)
 - [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 15 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `zig` · `webassembly` · `swift`)
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 102 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `zig` · `struct of arrays` · `struct`)
-- [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 62 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `zig` · `struct` · `arrays`)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 105 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `zig` · `struct of arrays` · `struct`)
+- [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 63 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `zig` · `struct` · `arrays`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

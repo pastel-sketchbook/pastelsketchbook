@@ -32,8 +32,8 @@ This talk is an architectural deep-dive into vLLM, the unified open-source servi
 
 - [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 15 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `llm` · `inference` · `engine`)
 - [Kubernetes Services & Istio](https://youtu.be/OnwiaDRj1-k) — Kubernetes · 30 views · Jan 12, 2026 · [Details](OnwiaDRj1-k.md) (shared: `management` · `load` · `balancing`)
-- [Sovereign Intelligence vs Enterprise Integration](https://youtu.be/fB-YC949wts) — Kubernetes · 8 views · Aug 7, 2026 · [Details](fB-YC949wts.md) (shared: `inference` · `cache` · `serving`)
-- [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 17 views · Aug 14, 2026 · [Details](nSMpZpj6Jzc.md) (shared: `llm` · `inference` · `engine`)
+- [Sovereign Intelligence vs Enterprise Integration](https://youtu.be/fB-YC949wts) — Kubernetes · 9 views · Aug 7, 2026 · [Details](fB-YC949wts.md) (shared: `inference` · `cache` · `serving`)
+- [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 25 views · Aug 14, 2026 · [Details](nSMpZpj6Jzc.md) (shared: `llm` · `inference` · `engine`)
 - [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 14 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `serving` · `zero` · `kubernetes`)
 
 ---
