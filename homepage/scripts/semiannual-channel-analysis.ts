@@ -102,7 +102,7 @@ function buildMarkdown(
 
   const categoryViews: Record<string, number> = {}
   for (const [category, ids] of Object.entries(VIDEO_CONFIG)) {
-    const idSet = new Set(ids)
+    const idSet = new Set<string>(ids as readonly string[])
     categoryViews[category] = videos
       .filter((v) => idSet.has(v.id))
       .reduce((sum, v) => sum + v.views, 0)

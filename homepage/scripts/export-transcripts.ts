@@ -334,7 +334,7 @@ function syncPublicTranscripts(): number {
     if (!name.endsWith('.md')) continue
     const src = resolve(TRANSCRIPTS_DIR, name)
     const dst = resolve(PUBLIC_TRANSCRIPTS_DIR, name)
-    writeFileSync(dst, readFileSync(src))
+    writeFileSync(dst, readFileSync(src, 'utf-8'))
     count++
   }
   return count

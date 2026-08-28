@@ -55,7 +55,8 @@ type Addition = {
 
 const additions: Addition[] = []
 const alreadyPresent: string[] = []
-const noChapterMatch: Addition[] = []
+type ClassifiedEntry = Addition & { bookId: string; chapterNumber: number }
+const noChapterMatch: ClassifiedEntry[] = []
 
 // -- Merge --
 
