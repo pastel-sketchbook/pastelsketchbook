@@ -11,8 +11,8 @@ summarized: 2026-06-06T12:54:48.988Z
 
 - [Architecting Ledger Systems in Rust](https://youtu.be/3jMQWDNqsro) — Development · 44 views · Jun 5, 2026 · [Details](3jMQWDNqsro.md) (shared: `ledger` · `rust` · `distributed`)
 - [rt-ado-ci-cd Operations and Architecture](https://youtu.be/s6wmtsAWvCw) — Development · 7 views · Jun 8, 2026 · [Details](s6wmtsAWvCw.md) (shared: `rust` · `workspace` · `cli`)
-- [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 18 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `rust` · `cli`)
-- [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 70 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `rust` · `cli`)
+- [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 20 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `rust` · `cli`)
+- [yp: The Terminal User Interface Renaissance](https://youtu.be/vSjgNxi7W-4) — Development · 71 views · Mar 6, 2026 · [Details](vSjgNxi7W-4.md) (shared: `rust` · `cli`)
 - [Reed: The Modern Terminal File Viewer](https://youtu.be/oUTf9j6fWJo) — Development · 150 views · Mar 30, 2026 · [Details](oUTf9j6fWJo.md) (shared: `rust` · `cli`)
 
 ---

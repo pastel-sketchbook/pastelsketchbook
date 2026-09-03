@@ -38,7 +38,7 @@ For CTOs and VPs evaluating Rust, this talk dismantles the big-tech fallacy that
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `framework` · `async`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 90 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `async` · `tokio`)
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 159 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `async` · `tokio`)
-- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `async` · `tokio`)
+- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 28 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `async` · `tokio`)
 - [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 105 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `rust` · `async` · `hyper`)
 
 ---

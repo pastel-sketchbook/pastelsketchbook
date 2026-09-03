@@ -35,10 +35,10 @@ This video details the architectural evolution of a vision-based screen descript
 
 ## Related Videos
 
-- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `rust` · `zig` · `manual memory management`)
-- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 28 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `zig` · `memory`)
-- [The Hybrid TUI Architecture](https://youtu.be/IZX3_9rZeMU) — Development · 560 views · Feb 10, 2026 · [Details](IZX3_9rZeMU.md) (shared: `ffi` · `interface` · `memory`)
-- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 53 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust` · `memory` · `management`)
+- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 38 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `rust` · `zig` · `manual memory management`)
+- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 29 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `zig` · `memory`)
+- [The Hybrid TUI Architecture](https://youtu.be/IZX3_9rZeMU) — Development · 561 views · Feb 10, 2026 · [Details](IZX3_9rZeMU.md) (shared: `ffi` · `interface` · `memory`)
+- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 54 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust` · `memory` · `management`)
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 359 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `zig` · `memory` · `management`)
 
 ---

@@ -2,7 +2,7 @@
 type: tag
 tags: [ci-cd-pipeline]
 sources: 3
-updated: 2026-08-28
+updated: 2026-09-03
 ---
 
 # ci/cd pipeline
@@ -16,4 +16,4 @@ Videos connected by the topic `ci/cd pipeline`.
 - [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](../details/B2x09utLjtM.md)
 
 ---
-*Auto-generated on Aug 27, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 2, 2026. Back to [topic index](index.md).*

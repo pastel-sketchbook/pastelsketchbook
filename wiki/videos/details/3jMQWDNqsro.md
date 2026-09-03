@@ -39,7 +39,7 @@ Rust's memory safety, zero-cost abstractions, and strict type system make it uni
 - [temporal-chain: Architecture & Design](https://youtu.be/cuA7G01T7_U) — Development · 24 views · Jun 6, 2026 · [Details](cuA7G01T7_U.md) (shared: `rust` · `ledger` · `distributed`)
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `systems` · `distributed`)
 - [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 2 views · Jan 6, 2026 · [Details](z_Ydy_-cI1U.md) (shared: `systems` · `distributed`)
-- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 28 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `systems`)
+- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 29 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `systems`)
 - [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 39 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `systems` · `distributed`)
 
 ---

@@ -31,9 +31,9 @@ A visual blueprint of Sequelize's internal architecture, organized into four fun
 ## Related Videos
 
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `orm` · `architecture` · `query`)
-- [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 39 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `architecture` · `query` · `pattern`)
+- [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 42 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `architecture` · `query` · `pattern`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 32 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `architecture` · `adapter` · `pattern`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 841 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `pattern` · `testing`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 844 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `pattern` · `testing`)
 - [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 23 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `architecture` · `layer` · `pipeline`)
 
 ---

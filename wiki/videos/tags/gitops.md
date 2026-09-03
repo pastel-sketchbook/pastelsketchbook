@@ -2,7 +2,7 @@
 type: tag
 tags: [gitops]
 sources: 2
-updated: 2026-08-28
+updated: 2026-09-03
 ---
 
 # gitops
@@ -11,8 +11,8 @@ Videos connected by the topic `gitops`.
 
 ## Videos
 
-- [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 23 views · Apr 1, 2026 · [Details](../details/BiYKKVsJROk.md)
+- [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 24 views · Apr 1, 2026 · [Details](../details/BiYKKVsJROk.md)
 - [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 22 views · Apr 22, 2026 · [Details](../details/p9LNSeAt5Zw.md)
 
 ---
-*Auto-generated on Aug 27, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 2, 2026. Back to [topic index](index.md).*

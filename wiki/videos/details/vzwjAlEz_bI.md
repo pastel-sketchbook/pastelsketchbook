@@ -34,7 +34,7 @@ This video examines the phase-out of the American penny, covering the US Treasur
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `transition`)
 - [RB Simulation Architecture](https://youtu.be/AbCc2yfz2uw) — Development · 7 views · Jun 30, 2026 · [Details](AbCc2yfz2uw.md) (shared: `sense` · `act`)
 - [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 37 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `digital`)
-- [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) — Kubernetes · 18 views · Mar 13, 2026 · [Details](u60g2nMtVi4.md) (shared: `elimination`)
+- [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) — Kubernetes · 19 views · Mar 13, 2026 · [Details](u60g2nMtVi4.md) (shared: `elimination`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

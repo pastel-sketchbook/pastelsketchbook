@@ -32,9 +32,9 @@ This video presents a defense-in-depth architecture for mitigating server-side r
 
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 25 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `defense in depth` · `defense` · `depth`)
 - [Securely Exposing AKS Applications](https://youtu.be/A7eoKD5m6Ek) — Kubernetes · 9 views · Jan 8, 2026 · [Details](A7eoKD5m6Ek.md) (shared: `defense in depth` · `defense` · `depth`)
-- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 60 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `agent` · `security`)
+- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 63 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `agent` · `security`)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 23 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `security` · `architecture`)
-- [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) — Security · 8 views · Aug 16, 2026 · [Details](LGKBWq8g1u4.md) (shared: `agent` · `architecture`)
+- [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) — Security · 10 views · Aug 16, 2026 · [Details](LGKBWq8g1u4.md) (shared: `agent` · `architecture`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

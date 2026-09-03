@@ -36,9 +36,9 @@ The Open 2i architecture introduces a "hybrid sandwich" model for building high-
 ## Related Videos
 
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 359 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `programming` · `memory management` · `memory`)
-- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 28 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `programming` · `memory management` · `memory`)
-- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `programming` · `memory management` · `memory`)
-- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 53 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `memory management` · `memory` · `management`)
+- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 29 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `programming` · `memory management` · `memory`)
+- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 38 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `programming` · `memory management` · `memory`)
+- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 54 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `memory management` · `memory` · `management`)
 - [Architectural Evolution of a Vision Tool](https://youtu.be/Qv9X3ZY474U) — Development · 53 views · Mar 28, 2026 · [Details](Qv9X3ZY474U.md) (shared: `interface` · `ffi` · `memory`)
 
 ---

@@ -30,7 +30,7 @@ This presentation is an architectural guide to long polling and its role in achi
 
 ## Related Videos
 
-- [Local Change Data Capture at Scale](https://youtu.be/FIelcuTti-I) — Development · 22 views · May 26, 2026 · [Details](FIelcuTti-I.md) (shared: `polling` · `compatibility` · `event`)
+- [Local Change Data Capture at Scale](https://youtu.be/FIelcuTti-I) — Development · 23 views · May 26, 2026 · [Details](FIelcuTti-I.md) (shared: `polling` · `compatibility` · `event`)
 - [The Push Architecture Blueprint](https://youtu.be/oqi_jJl3tAQ) — Development · 46 views · Apr 30, 2026 · [Details](oqi_jJl3tAQ.md) (shared: `polling` · `push`)
 - [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 105 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `http` · `compatibility`)
 - [The Performance Paradigm](https://youtu.be/2cuMV05Fang) — Development · 34 views · Jul 20, 2026 · [Details](2cuMV05Fang.md) (shared: `compatibility` · `latency`)

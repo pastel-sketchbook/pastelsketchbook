@@ -35,7 +35,7 @@ This strategic analysis examines the long-term AI capital cycle, forecasting a t
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 9 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `data` · `center` · `infrastructure`)
 - [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 20 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `data` · `center` · `infrastructure`)
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 43 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `center` · `infrastructure`)
-- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 21 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `capital` · `data` · `infrastructure`)
+- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 23 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `capital` · `data` · `infrastructure`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [finance](../finance.md) · [index](../index.md).*

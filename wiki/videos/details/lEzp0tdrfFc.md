@@ -31,8 +31,8 @@ This talk is a structural reality check on self-hosting frontier open-weight mod
 ## Related Videos
 
 - [Machine Learning Systems](https://youtu.be/fNN88ZXWYKU) — Development · 177 views · Apr 24, 2026 · [Details](fNN88ZXWYKU.md) (shared: `quantization` · `gpu` · `cluster`)
-- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 15 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `routing` · `model` · `gpu`)
-- [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 20 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `mixture` · `experts` · `model`)
+- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 19 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `routing` · `model` · `gpu`)
+- [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 22 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `mixture` · `experts` · `model`)
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `infrastructure` · `analysis`)
 - [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `infrastructure` · `analysis`)
 

@@ -33,7 +33,7 @@ This video walks through the foundational RFC documents that define the internet
 - [The Evolution of RFCs in the Al Era](https://youtu.be/lsjfczYFBeQ) — Development · 33 views · Apr 16, 2026 · [Details](lsjfczYFBeQ.md) (shared: `specifications` · `tcp` · `tls`)
 - [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 212 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `tcp` · `http` · `tls`)
 - [RFC 862 and the Echo Protocol](https://youtu.be/ea5lpF3RyzE) — Development · 40 views · Apr 7, 2026 · [Details](ea5lpF3RyzE.md) (shared: `rfc` · `tcp`)
-- [Modular Playbook for Vertical Project Delivery](https://youtu.be/TErzICEXwRQ) — Development · 7 views · Aug 11, 2026 · [Details](TErzICEXwRQ.md) (shared: `specifications` · `model`)
+- [Modular Playbook for Vertical Project Delivery](https://youtu.be/TErzICEXwRQ) — Development · 9 views · Aug 11, 2026 · [Details](TErzICEXwRQ.md) (shared: `specifications` · `model`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `model`)
 
 ---

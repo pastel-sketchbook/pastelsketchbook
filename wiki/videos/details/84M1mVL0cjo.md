@@ -30,10 +30,10 @@ This presentation argues that enterprise AI value comes from integrating individ
 
 ## Related Videos
 
-- [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 24 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `enterprise` · `architecture` · `organizational`)
+- [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 25 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `enterprise` · `architecture` · `organizational`)
 - [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 47 views · Dec 28, 2025 · [Details](IF5sNQH-01c.md) (shared: `architecture` · `design` · `intelligence`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `architecture` · `autonomous`)
-- [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 37 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `architecture` · `design`)
+- [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 38 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `architecture` · `design`)
 - [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 37 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `enterprise` · `autonomous`)
 
 ---

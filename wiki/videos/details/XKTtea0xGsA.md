@@ -43,11 +43,11 @@ Welcome  everyone.  Today  we  embark  on  a journey  to  understand  and  conqu
 
 ## Related Videos
 
+- [Upgrading MKE with NFS Stateful Workloads](https://youtu.be/WeVWqluXtlA) — Kubernetes · 17 views · Aug 30, 2026 · [Details](WeVWqluXtlA.md) (shared: `orchestration` · `pod disruption budgets` · `pod`)
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes` · `pod` · `scheduling`)
 - [Kubernetes Auto-Scaling Strategies](https://youtu.be/y3WwL48DLYw) — Kubernetes · 29 views · Feb 23, 2026 · [Details](y3WwL48DLYw.md) (shared: `kubernetes` · `resource` · `pod`)
-- [Orchestrating Kubernetes Resilience](https://youtu.be/ZECKRFPN8BA) — Kubernetes · 8 views · Aug 25, 2026 · [Details](ZECKRFPN8BA.md) (shared: `kubernetes` · `pod` · `disruption`)
+- [Orchestrating Kubernetes Resilience](https://youtu.be/ZECKRFPN8BA) — Kubernetes · 16 views · Aug 25, 2026 · [Details](ZECKRFPN8BA.md) (shared: `kubernetes` · `pod` · `disruption`)
 - [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 22 views · Apr 22, 2026 · [Details](p9LNSeAt5Zw.md) (shared: `orchestration` · `kubernetes`)
-- [kube-log-viewer](https://youtu.be/aiYBPCkvhes) — Kubernetes · 24 views · Mar 5, 2026 · [Details](aiYBPCkvhes.md) (shared: `kubernetes` · `pod`)
 
 ---
 *Auto-generated on Jul 18, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

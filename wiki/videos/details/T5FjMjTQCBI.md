@@ -34,7 +34,7 @@ This Korean-language video is the first in a beginner programming series using T
 - [타입스크립트와 번으로 만드는 TODO 리스트](https://youtu.be/D1Hth_78ftg) — Programming · 9 views · Jan 10, 2026 · [Details](D1Hth_78ftg.md) (shared: `bun runtime` · `bun` · `runtime`)
 - [알고리즘에서 코드로  TypeScript 가이드](https://youtu.be/dsxuWtfzBGI) — Programming · 13 views · Jan 14, 2026 · [Details](dsxuWtfzBGI.md) (shared: `typescript` · `type` · `programming`)
 - [알고리즘 완전 정복](https://youtu.be/iEn_PMcBlDk) — Programming · 5 views · Jan 14, 2026 · [Details](iEn_PMcBlDk.md) (shared: `typescript basics` · `typescript` · `basics`)
-- [영어 리스닝  3000시간의 법칙](https://youtu.be/qyqLjeu8Hng) — Programming · 59 views · Jan 13, 2026 · [Details](qyqLjeu8Hng.md) (shared: `korean` · `language`)
+- [영어 리스닝  3000시간의 법칙](https://youtu.be/qyqLjeu8Hng) — Programming · 61 views · Jan 13, 2026 · [Details](qyqLjeu8Hng.md) (shared: `korean` · `language`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [programming](../programming.md) · [index](../index.md).*

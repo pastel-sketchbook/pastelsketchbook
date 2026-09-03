@@ -30,7 +30,7 @@ An investment playbook mapping the data-center shift from memory scale-up (HBM) 
 
 ## Related Videos
 
-- [The 2026 U.S. Fiber Ecosystem](https://youtu.be/QWQcpxHE6E8) — Finance · 2 views · Aug 9, 2026 · [Details](QWQcpxHE6E8.md) (shared: `supercycle` · `fiber` · `co-packaged`)
+- [The 2026 U.S. Fiber Ecosystem](https://youtu.be/QWQcpxHE6E8) — Finance · 5 views · Aug 9, 2026 · [Details](QWQcpxHE6E8.md) (shared: `supercycle` · `fiber` · `co-packaged`)
 - [The Mathematics of Survival](https://youtu.be/J4nERLAJIbs) — Finance · 13 views · Jul 1, 2026 · [Details](J4nERLAJIbs.md) (shared: `risk` · `capital`)
 - [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 20 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `fiber` · `hyperscaler`)
 - [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 34 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `risk`)

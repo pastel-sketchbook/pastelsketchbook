@@ -38,7 +38,7 @@ A comprehensive architectural walkthrough of object-relational mapping paradigms
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `code` · `orm` · `query`)
 - [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 53 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `relational` · `query` · `engine`)
 - [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 24 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `orm` · `query` · `architecture`)
-- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 94 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `strategies` · `engine` · `architecture`)
+- [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 95 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `strategies` · `engine` · `architecture`)
 - [A Semantic Operating System](https://youtu.be/sGQrnPJSsPc) — Development · 98 views · Mar 8, 2026 · [Details](sGQrnPJSsPc.md) (shared: `code` · `migration` · `architecture`)
 
 ---

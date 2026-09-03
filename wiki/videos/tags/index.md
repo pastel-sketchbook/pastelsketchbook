@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-08-28
+updated: 2026-09-03
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 178
+Total topics: 179
 
 ## Topics
 
@@ -151,6 +151,7 @@ Total topics: 178
 - [performance optimization](performance-optimization.md) (2)
 - [persistent storage](persistent-storage.md) (2)
 - [pluggable storage trait](pluggable-storage-trait.md) (2)
+- [pod disruption budgets](pod-disruption-budgets.md) (2)
 - [portfolio allocation](portfolio-allocation.md) (2)
 - [problem decomposition](problem-decomposition.md) (2)
 - [qmd](qmd.md) (2)
@@ -191,4 +192,4 @@ Total topics: 178
 - [write-ahead log](write-ahead-log.md) (2)
 
 ---
-*Auto-generated on Aug 27, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Sep 2, 2026. Back to [videos index](../index.md).*

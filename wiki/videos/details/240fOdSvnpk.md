@@ -35,10 +35,10 @@ This talk argues that the historical "functional programming tax" — the perfor
 
 ## Related Videos
 
-- [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) — Development · 193 views · Mar 24, 2026 · [Details](yCJDmGrk8sM.md) (shared: `memory` · `garbage` · `collection`)
+- [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) — Development · 195 views · Mar 24, 2026 · [Details](yCJDmGrk8sM.md) (shared: `memory` · `garbage` · `collection`)
 - [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 359 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `programming` · `memory` · `garbage`)
 - [svs-cli: 10 Critical Things](https://youtu.be/S3Vc_R-HezY) — Development · 15 views · May 24, 2026 · [Details](S3Vc_R-HezY.md) (shared: `compile-time` · `mutation` · `cache`)
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 108 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `performance` · `memory` · `cache`)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 114 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `performance` · `memory` · `cache`)
 - [Synthesizing Gleam Syntax with Rust Performance](https://youtu.be/DTb0syknVSQ) — Development · 30 views · Jul 15, 2026 · [Details](DTb0syknVSQ.md) (shared: `functional` · `programming` · `code`)
 
 ---

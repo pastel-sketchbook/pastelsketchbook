@@ -2,7 +2,7 @@
 type: tag
 tags: [service-mesh]
 sources: 3
-updated: 2026-08-28
+updated: 2026-09-03
 ---
 
 # service mesh
@@ -16,4 +16,4 @@ Videos connected by the topic `service mesh`.
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 23 views · Jan 14, 2026 · [Details](../details/A4-foXsdQiA.md)
 
 ---
-*Auto-generated on Aug 27, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 2, 2026. Back to [topic index](index.md).*

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T02:09:11.000Z",
+  "generatedAt": "2026-09-03T01:23:16.000Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -23,7 +23,9 @@
             "A7eoKD5m6Ek",
             "t-WvRifOu-E",
             "XKTtea0xGsA",
-            "ZECKRFPN8BA"
+            "ZECKRFPN8BA",
+            "doS_Ii1uIRA",
+            "WeVWqluXtlA"
           ],
           "tags": [
             "kubernetes",
@@ -62,7 +64,8 @@
             "hs7CiLpLgnY",
             "PVwzHpsrVcc",
             "LGKBWq8g1u4",
-            "iVb4Pu8CAHE"
+            "iVb4Pu8CAHE",
+            "nBg53bAuc9A"
           ],
           "tags": [
             "zero-trust",
@@ -282,7 +285,8 @@
             "NCL_9PdUCc8",
             "IfOAA7cOu6o",
             "knxE_Pg2JBA",
-            "A6hH4t9MaSQ"
+            "A6hH4t9MaSQ",
+            "Itjb_eppRG0"
           ],
           "tags": [
             "architecture",
@@ -305,7 +309,8 @@
             "CXtHwJQphLI",
             "INNKxTAagE4",
             "fv61JXUCbeo",
-            "mf86g5lXfTg"
+            "mf86g5lXfTg",
+            "szwFbJVSQ48"
           ],
           "tags": [
             "observability",
@@ -358,7 +363,8 @@
             "L4YBdUVCFd4",
             "cEwAbu6FFRo",
             "RJGNh8L-8rw",
-            "ykqWNyj1fHM"
+            "ykqWNyj1fHM",
+            "Au6GKyflvGk"
           ],
           "tags": [
             "frontend",

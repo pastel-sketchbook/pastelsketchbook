@@ -34,7 +34,7 @@ This video surveys the essential Rust crate ecosystem for professional developer
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 51 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `rust` · `tokio async runtime` · `tokio`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 90 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `tokio` · `async`)
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 159 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `tokio` · `async`)
-- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `tokio` · `async`)
+- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 28 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `tokio` · `async`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

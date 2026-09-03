@@ -13,7 +13,7 @@ summarized: 2026-06-08T23:05:00.000Z
 - [The Mystery of the Nickel Coke](https://youtu.be/l9UUqD2Bz2E) — Finance · 15 views · Apr 10, 2026 · [Details](l9UUqD2Bz2E.md) (shared: `index` · `policy`)
 - [The Final 5 Years](https://youtu.be/G-vvSNwm-jE) — Finance · 19 views · Mar 20, 2026 · [Details](G-vvSNwm-jE.md) (shared: `social` · `income`)
 - [Navigating Growth and Taxes from 65 to 75](https://youtu.be/8zivk3Mxuf0) — Finance · 1 views · Aug 13, 2026 · [Details](8zivk3Mxuf0.md) (shared: `social` · `income`)
-- [The California vs. Texas Economic Rivalry](https://youtu.be/DMfE_eElLAc) — Finance · 29 views · Aug 3, 2026 · [Details](DMfE_eElLAc.md) (shared: `income` · `economic`)
+- [The California vs. Texas Economic Rivalry](https://youtu.be/DMfE_eElLAc) — Finance · 30 views · Aug 3, 2026 · [Details](DMfE_eElLAc.md) (shared: `income` · `economic`)
 
 ---
 

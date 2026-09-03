@@ -2,7 +2,7 @@
 type: tag
 tags: [financial-freedom]
 sources: 2
-updated: 2026-08-28
+updated: 2026-09-03
 ---
 
 # financial freedom
@@ -15,4 +15,4 @@ Videos connected by the topic `financial freedom`.
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](../details/HFmkEvxyJE4.md)
 
 ---
-*Auto-generated on Aug 27, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 2, 2026. Back to [topic index](index.md).*

@@ -35,7 +35,7 @@ This video outlines a technical blueprint for architecting real-time state synch
 
 ## Related Videos
 
-- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 22 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `change data capture` · `cdc` · `change`)
+- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 24 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `change data capture` · `cdc` · `change`)
 - [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 32 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `change data capture` · `change` · `data`)
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) — Kubernetes · 77 views · Apr 17, 2026 · [Details](nomIVRSBEG4.md) (shared: `change data capture` · `cdc` · `change`)
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 18 views · Apr 11, 2026 · [Details](a8heWpae5p0.md) (shared: `kubernetes` · `write-ahead log` · `write-ahead`)

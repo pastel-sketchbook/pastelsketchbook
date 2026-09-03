@@ -34,7 +34,7 @@ This talk deconstructs the internal architecture of GoTask, a modern task runner
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `architecture` · `integration`)
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `architecture` · `parsing`)
 - [Bubble Tea v2](https://youtu.be/Hfut9CfJhN0) — Development · 66 views · Mar 2, 2026 · [Details](Hfut9CfJhN0.md) (shared: `bubble` · `tea`)
-- [The Tokio Architecture Blueprint](https://youtu.be/9HUPNhA3OrI) — Development · 58 views · May 15, 2026 · [Details](9HUPNhA3OrI.md) (shared: `task` · `architecture`)
+- [The Tokio Architecture Blueprint](https://youtu.be/9HUPNhA3OrI) — Development · 61 views · May 15, 2026 · [Details](9HUPNhA3OrI.md) (shared: `task` · `architecture`)
 
 ---
 

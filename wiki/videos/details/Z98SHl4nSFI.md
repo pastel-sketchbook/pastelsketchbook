@@ -30,7 +30,7 @@ This video examines the DORA State of AI-assisted Software Development research 
 
 ## Related Videos
 
-- [Modular Playbook for Vertical Project Delivery](https://youtu.be/TErzICEXwRQ) — Development · 7 views · Aug 11, 2026 · [Details](TErzICEXwRQ.md) (shared: `integration` · `delivery` · `software`)
+- [Modular Playbook for Vertical Project Delivery](https://youtu.be/TErzICEXwRQ) — Development · 9 views · Aug 11, 2026 · [Details](TErzICEXwRQ.md) (shared: `integration` · `delivery` · `software`)
 - [From Bottlenecks to Breakthroughs:](https://youtu.be/TLqdeHlAo3A) — Development · 67 views · Dec 27, 2025 · [Details](TLqdeHlAo3A.md) (shared: `dora` · `delivery`)
 - [The 10-Lens Research Analysis Framework](https://youtu.be/NztD5fYpXcg) — Development · 32 views · Mar 7, 2026 · [Details](NztD5fYpXcg.md) (shared: `research`)
 - [The Center Has a Bias](https://youtu.be/a1hIA6KQUFE) — Development · 38 views · Apr 13, 2026 · [Details](a1hIA6KQUFE.md) (shared: `adoption`)

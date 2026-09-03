@@ -35,11 +35,11 @@ Zig is presented as a pragmatic systems programming language that bridges the ga
 
 ## Related Videos
 
-- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 28 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `zig` · `systems programming` · `systems`)
-- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 37 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `systems programming` · `systems`)
-- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 493 views · Feb 2, 2026 · [Details](xV2EAL3NAVM.md) (shared: `zig` · `systems programming` · `systems`)
-- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 53 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `memory management` · `memory` · `management`)
-- [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 228 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `memory management` · `memory` · `management`)
+- [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 29 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `zig` · `systems programming` · `systems`)
+- [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 38 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `zig` · `systems programming` · `systems`)
+- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 499 views · Feb 2, 2026 · [Details](xV2EAL3NAVM.md) (shared: `zig` · `systems programming` · `systems`)
+- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 54 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `memory management` · `memory` · `management`)
+- [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 234 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `memory management` · `memory` · `management`)
 
 ---
 *Auto-generated on Apr 6, 2026. Back to [development](../development.md) · [index](../index.md).*

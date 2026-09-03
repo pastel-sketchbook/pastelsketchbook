@@ -39,7 +39,7 @@ SlideVoice Studio (SVS) CLI is a Rust-based headless video production tool that 
 - [SlideVoice Studio Swift](https://youtu.be/r1rhrISQXeA) — Development · 40 views · Jun 4, 2026 · [Details](r1rhrISQXeA.md) (shared: `gemini` · `tts` · `ffmpeg`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 90 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `architecture` · `tokio`)
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 159 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `architecture` · `tokio`)
-- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 27 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `tokio` · `concurrency`)
+- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 28 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `tokio` · `concurrency`)
 
 ---
 

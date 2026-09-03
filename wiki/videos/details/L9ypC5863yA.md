@@ -35,7 +35,7 @@ This video lays out a pragmatic 2026 decision framework for service-to-service c
 - [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 10 views · Jun 23, 2026 · [Details](o3ba6XdMQA0.md) (shared: `rest` · `grpc` · `grpc streaming patterns`)
 - [The Transport Revolution: Deconstructing HTTP/3](https://youtu.be/JWeu5aqAkR0) — Development · 212 views · Apr 1, 2026 · [Details](JWeu5aqAkR0.md) (shared: `http` · `head-of-line` · `blocking`)
 - [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 105 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `http` · `1.1` · `rust`)
-- [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 28 views · May 4, 2026 · [Details](UOOkDh4RUbE.md) (shared: `rest` · `grpc` · `streaming`)
+- [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 29 views · May 4, 2026 · [Details](UOOkDh4RUbE.md) (shared: `rest` · `grpc` · `streaming`)
 
 ---
 *Auto-generated on Apr 25, 2026. Back to [development](../development.md) · [index](../index.md).*

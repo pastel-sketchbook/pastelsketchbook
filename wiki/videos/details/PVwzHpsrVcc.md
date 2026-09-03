@@ -36,7 +36,7 @@ This session frames Tailscale as a modular network operating system — a progra
 ## Related Videos
 
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 47 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `zero` · `trust` · `network`)
-- [Architecting Enterprise Secret Management in Rust](https://youtu.be/JrCT7Xu-aGU) — Kubernetes · 18 views · Jun 25, 2026 · [Details](JrCT7Xu-aGU.md) (shared: `zero` · `trust` · `handshake`)
+- [Architecting Enterprise Secret Management in Rust](https://youtu.be/JrCT7Xu-aGU) — Kubernetes · 20 views · Jun 25, 2026 · [Details](JrCT7Xu-aGU.md) (shared: `zero` · `trust` · `handshake`)
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `architecture` · `kubernetes` · `nodes`)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `zero` · `trust` · `kubernetes`)
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 48 views · Jan 16, 2026 · [Details](0U-SUJCmKAU.md) (shared: `zero` · `trust` · `kubernetes`)

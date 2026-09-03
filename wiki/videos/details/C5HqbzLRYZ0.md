@@ -33,7 +33,7 @@ This video explains the four standard Kubernetes service types (ClusterIP, NodeP
 - [Kubernetes Services & Istio](https://youtu.be/OnwiaDRj1-k) — Kubernetes · 30 views · Jan 12, 2026 · [Details](OnwiaDRj1-k.md) (shared: `kubernetes services` · `kubernetes` · `services`)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 14 views · Mar 10, 2026 · [Details](Hd767VA7Z-0.md) (shared: `kubernetes` · `istio service mesh` · `istio`)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `kubernetes` · `istio service mesh` · `istio`)
-- [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 23 views · Apr 1, 2026 · [Details](BiYKKVsJROk.md) (shared: `istio service mesh` · `istio` · `service`)
+- [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 24 views · Apr 1, 2026 · [Details](BiYKKVsJROk.md) (shared: `istio service mesh` · `istio` · `service`)
 - [Architecting the Modern Cloud Network](https://youtu.be/1RqgRdlIO8M) — Kubernetes · 16 views · Jul 19, 2026 · [Details](1RqgRdlIO8M.md) (shared: `istio` · `service` · `mesh`)
 
 ---

@@ -32,9 +32,9 @@ This session presents an architectural blueprint for weighted traffic management
 
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 14 views · Mar 10, 2026 · [Details](Hd767VA7Z-0.md) (shared: `istio service mesh` · `istio` · `service`)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `istio service mesh` · `istio` · `service`)
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 27 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `istio service mesh` · `istio` · `service`)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 32 views · Jan 10, 2026 · [Details](C5HqbzLRYZ0.md) (shared: `istio service mesh` · `istio` · `service`)
 - [Kubernetes Services & Istio](https://youtu.be/OnwiaDRj1-k) — Kubernetes · 30 views · Jan 12, 2026 · [Details](OnwiaDRj1-k.md) (shared: `istio service mesh` · `istio` · `service`)
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 80 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `istio service mesh` · `istio` · `service`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 82 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `istio service mesh` · `istio` · `service`)
 
 ---
 *Auto-generated on May 6, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

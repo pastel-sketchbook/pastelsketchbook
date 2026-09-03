@@ -36,7 +36,7 @@ This briefing dissects Japan's deliberately multi-vendor national cloud strategy
 ## Related Videos
 
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 9 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `strategy` · `data` · `infrastructure`)
-- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 21 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `sovereign` · `data` · `infrastructure`)
+- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 23 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `sovereign` · `data` · `infrastructure`)
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `strategy` · `infrastructure`)
 - [The Neuromorphic AI Stack](https://youtu.be/Cmnangq7Ndw) — Finance · 15 views · Aug 12, 2026 · [Details](Cmnangq7Ndw.md) (shared: `data` · `computing`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 78 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `infrastructure`)
