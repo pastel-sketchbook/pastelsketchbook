@@ -25,12 +25,46 @@ process.stderr.write = ((chunk: any, ...args: any[]) => {
     str.includes('DOMException') ||
     str.includes('AbortError') ||
     str.includes('NetworkError') ||
-    str.includes('The operation was aborted')
+    str.includes('The operation was aborted') ||
+    str.includes('animation was canceled')
   ) {
     return true
   }
   return originalStderrWrite(chunk, ...args)
 }) as typeof process.stderr.write
+
+// Suppress framer-motion / motion-dom AbortError unhandled rejections in happy-dom
+// These originate from animation cancellation during component unmount and are not test failures.
+if (typeof window !== 'undefined') {
+  window.addEventListener('unhandledrejection', (event: PromiseRejectionEvent) => {
+    const reason: any = (event as any).reason
+    const msg = reason?.message ?? String(reason ?? '')
+    const name = reason?.name ?? ''
+    if (
+      name === 'AbortError' ||
+      msg.includes('animation was canceled') ||
+      msg.includes('The operation was aborted') ||
+      msg.includes('AbortError')
+    ) {
+      event.preventDefault()
+    }
+  })
+}
+if (typeof process !== 'undefined' && (process as any).on) {
+  // Prevent Node from exiting on these rejections during vitest
+  ;(process as any).on('unhandledRejection', (reason: any) => {
+    const msg = reason?.message ?? String(reason ?? '')
+    const name = reason?.name ?? ''
+    if (
+      name === 'AbortError' ||
+      msg.includes('animation was canceled') ||
+      msg.includes('The operation was aborted') ||
+      msg.includes('AbortError')
+    ) {
+      return
+    }
+  })
+}
 
 // Global console mock setup - silence console output during tests
 beforeEach(() => {
