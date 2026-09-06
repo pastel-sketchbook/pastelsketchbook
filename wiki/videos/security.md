@@ -3,7 +3,7 @@ type: category
 category: security
 tags: [security, zero trust, agent, sentinel, siem, soar, xdr, llm, nist, idp]
 sources: 22
-updated: 2026-09-03
+updated: 2026-09-06
 ---
 
 # Security
@@ -15,7 +15,7 @@ updated: 2026-09-03
 | Metric | Value |
 |--------|-------|
 | Videos | 22 |
-| Total Views | 865 |
+| Total Views | 900 |
 | Most Recent | Sep 1, 2026 |
 | Oldest | Feb 14, 2026 |
 
@@ -23,8 +23,8 @@ updated: 2026-09-03
 
 ### Security (10 videos)
 
-- [Security  Through the Lens of Tracking](https://youtu.be/szwFbJVSQ48) -- 17 views, Sep 1, 2026 · [Details](details/szwFbJVSQ48.md)
-- [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) -- 10 views, Aug 16, 2026 · [Details](details/LGKBWq8g1u4.md)
+- [Security  Through the Lens of Tracking](https://youtu.be/szwFbJVSQ48) -- 44 views, Sep 1, 2026 · [Details](details/szwFbJVSQ48.md)
+- [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) -- 11 views, Aug 16, 2026 · [Details](details/LGKBWq8g1u4.md)
 - [The Hardware-Bound Security Blueprint](https://youtu.be/neqE9X2kSuY) -- 17 views, Jul 2, 2026 · [Details](details/neqE9X2kSuY.md)
 - [Architecting Ephemeral Access](https://youtu.be/Hwa2vM9c2Xc) -- 5 views, Jun 29, 2026 · [Details](details/Hwa2vM9c2Xc.md)
 - [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 21 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
@@ -43,37 +43,37 @@ updated: 2026-09-03
 
 ### Rust (3 videos)
 
-- [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) -- 10 views, Aug 16, 2026 · [Details](details/LGKBWq8g1u4.md)
+- [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) -- 11 views, Aug 16, 2026 · [Details](details/LGKBWq8g1u4.md)
 - [The Hardware-Bound Security Blueprint](https://youtu.be/neqE9X2kSuY) -- 17 views, Jul 2, 2026 · [Details](details/neqE9X2kSuY.md)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 34 views, Mar 25, 2026 · [Details](details/CA1nlknmR3g.md)
 
 ### Identity & Auth (2 videos)
 
-- [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) -- 10 views, Aug 16, 2026 · [Details](details/LGKBWq8g1u4.md)
+- [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) -- 11 views, Aug 16, 2026 · [Details](details/LGKBWq8g1u4.md)
 - [The Hardware-Bound Security Blueprint](https://youtu.be/neqE9X2kSuY) -- 17 views, Jul 2, 2026 · [Details](details/neqE9X2kSuY.md)
 
 ### Go (2 videos)
 
 - [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 21 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 250 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 255 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Security  Through the Lens of Tracking | 17 | Sep 1, 2026 | [Watch](https://youtu.be/szwFbJVSQ48) | [Wiki](details/szwFbJVSQ48.md) |
-| 2 | Unified Passwordless Identity | 10 | Aug 16, 2026 | [Watch](https://youtu.be/LGKBWq8g1u4) | [Wiki](details/LGKBWq8g1u4.md) |
-| 3 | The Joy of Cryptography | 15 | Jul 27, 2026 | [Watch](https://youtu.be/7dsz_yUpvqM) | [Wiki](details/7dsz_yUpvqM.md) |
+| 1 | Security  Through the Lens of Tracking | 44 | Sep 1, 2026 | [Watch](https://youtu.be/szwFbJVSQ48) | [Wiki](details/szwFbJVSQ48.md) |
+| 2 | Unified Passwordless Identity | 11 | Aug 16, 2026 | [Watch](https://youtu.be/LGKBWq8g1u4) | [Wiki](details/LGKBWq8g1u4.md) |
+| 3 | The Joy of Cryptography | 16 | Jul 27, 2026 | [Watch](https://youtu.be/7dsz_yUpvqM) | [Wiki](details/7dsz_yUpvqM.md) |
 | 4 | The Hardware-Bound Security Blueprint | 17 | Jul 2, 2026 | [Watch](https://youtu.be/neqE9X2kSuY) | [Wiki](details/neqE9X2kSuY.md) |
 | 5 | Architecting Ephemeral Access | 5 | Jun 29, 2026 | [Watch](https://youtu.be/Hwa2vM9c2Xc) | [Wiki](details/Hwa2vM9c2Xc.md) |
 | 6 | The 25519 Cryptographic Family | 24 | Jun 28, 2026 | [Watch](https://youtu.be/MzdV5hjPdsI) | [Wiki](details/MzdV5hjPdsI.md) |
 | 7 | Escaping the env Ceiling | 29 | Jun 18, 2026 | [Watch](https://youtu.be/kc1gwl89iyw) | [Wiki](details/kc1gwl89iyw.md) |
 | 8 | Winning the Arms Race in Credential Security | 21 | Jun 6, 2026 | [Watch](https://youtu.be/Kp_4y_HEaZ0) | [Wiki](details/Kp_4y_HEaZ0.md) |
-| 9 | Microsoft Agent Governance Toolkit | 250 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
+| 9 | Microsoft Agent Governance Toolkit | 255 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
 | 10 | ZAP: Getting Started with Software Security Testing | 25 | Apr 30, 2026 | [Watch](https://youtu.be/infh5ZZwvLU) | [Wiki](details/infh5ZZwvLU.md) |
 | 11 | Azure Sentinel & M365 Defender | 21 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
 | 12 | Designing for Privacy | 44 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
-| 13 | Custom Graphs in Microsoft Sentinel (Preview) | 63 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
+| 13 | Custom Graphs in Microsoft Sentinel (Preview) | 64 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
 | 14 | Black-Hat LLMs: The End of the 20-Year Security Balance | 82 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) | [Wiki](details/Zeg8zSOvoyE.md) |
 | 15 | 2FA Orchestration in PingFederate | 11 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) | [Wiki](details/HxB-cJIbEgE.md) |
 | 16 | Anatomy of a Supply Chain Attack | 38 | Mar 26, 2026 | [Watch](https://youtu.be/taBP0Fr3uSQ) | [Wiki](details/taBP0Fr3uSQ.md) |
@@ -95,4 +95,4 @@ updated: 2026-09-03
 - [Finance](finance.md) -- shared tags: `curiosity`, `ai`
 
 ---
-*Auto-generated on Sep 2, 2026. Back to [index](index.md).*
+*Auto-generated on Sep 6, 2026. Back to [index](index.md).*

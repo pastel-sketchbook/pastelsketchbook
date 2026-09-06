@@ -36,7 +36,7 @@ A forensic blueprint reframing security observability from static perimeter defe
 ## Related Videos
 
 - [The Orchestrator's Blueprint](https://youtu.be/Oa3jaLNSZvM) — Security · 36 views · Feb 28, 2026 · [Details](Oa3jaLNSZvM.md) (shared: `security` · `incident` · `response`)
-- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 173 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `observability` · `tracing` · `w3c`)
+- [W3C Trace Context](https://youtu.be/wyIhJ3LMnRg) — Development · 182 views · Mar 21, 2026 · [Details](wyIhJ3LMnRg.md) (shared: `observability` · `tracing` · `w3c`)
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 23 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `security`)
 - [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 63 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security`)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 23 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `security`)

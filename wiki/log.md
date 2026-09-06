@@ -637,3 +637,24 @@ Exported 1 transcript files (all videos (excl. shorts/hidden)) to `wiki/raw/tran
 ## [2026-09-03] ingest | Video Details
 
 Generated 6 video detail pages (all videos (excl. shorts/hidden)).
+
+## [2026-09-06] ingest | Video Metadata Sync
+
+Synced 475 videos across 6 categories (korea=20, finance=52, kubernetes=98, development=274, security=22, programming=9).
+
+## [2026-09-06] ingest | Video Transcripts
+
+Exported 1 transcript files (single: pnbcAqCaKh0) to `wiki/raw/transcripts`.
+
+## [2026-09-06] ingest | Release 3 new full videos (published Sep 03-05)
+
+Released 3 newest full videos from `HIDDEN_VIDEO_IDS` so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- pnbcAqCaKh0 (Digital Transformation 2.0, development, 2026-09-03)
+- sQz9WyN2s04 (Architecting Multi-Rail Fabrics for On-Premise AI Inference, kubernetes, 2026-09-04)
+- US99s1ISCkA (The Stateful Al Playbook, kubernetes, 2026-09-05)
+
+All are full-length (durationSec 957/878/1492, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md` (17-27KB, well above the ~2.5KB Shorts fallback), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: US99s1ISCkA → Architect's Sketchbook Ch1 (The Control Plane and the Worker, sequel to the MKE stateful-workloads upgrade); pnbcAqCaKh0 → Architect's Sketchbook Ch6 (The Modern Delivery Flywheel, follows the developer-portals IDP video); sQz9WyN2s04 → Architect's Sketchbook Ch8 (The 2026 Architectural Standard, alongside the fiber-ecosystem video).
+
+Bundle: 475 videos, 475 with detail (Missing: 0). zmd reindexed (1173 documents); all 3 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 3 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun --cwd homepage run build` passes; all 3 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`. Note: the Sep 06 metadata sync also auto-hid 2 new Shorts (W00kh8zdQqc, Lw9yHvWaXuo) which remain in `HIDDEN_VIDEO_IDS`.
+
+Backward check: scanned all 475 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`, retry confirmed Sep 06; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden.

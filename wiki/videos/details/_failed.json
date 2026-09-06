@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T01:20:10.868Z",
+  "generatedAt": "2026-09-06T13:48:52.702Z",
   "runLabel": "all videos (excl. shorts/hidden)",
   "selected": 472,
-  "generated": 6,
-  "skipped": 466,
+  "generated": 0,
+  "skipped": 472,
   "failedCount": 0,
   "failed": []
 }

@@ -33,7 +33,7 @@ This video presents a 42-skill blueprint for serverless analytics using DuckDB a
 - [MotherDuck: Serverless DuckDB in the Cloud & Client](https://youtu.be/BsiQrEaF3kU) — Kubernetes · 30 views · Feb 4, 2026 · [Details](BsiQrEaF3kU.md) (shared: `duckdb` · `serverless analytics` · `serverless`)
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 21 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `duckdb` · `python` · `data`)
 - [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) — Kubernetes · 19 views · Mar 13, 2026 · [Details](u60g2nMtVi4.md) (shared: `duckdb` · `python` · `analytics`)
-- [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) — Development · 276 views · Feb 14, 2026 · [Details](kQc99Io3pCo.md) (shared: `infrastructure` · `data`)
+- [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) — Development · 278 views · Feb 14, 2026 · [Details](kQc99Io3pCo.md) (shared: `infrastructure` · `data`)
 - [The 98  Prediction Problem](https://youtu.be/FDYu2fllfuE) — Development · 4 views · Jan 12, 2026 · [Details](FDYu2fllfuE.md) (shared: `analytics` · `data`)
 
 ---

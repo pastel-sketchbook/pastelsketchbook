@@ -35,11 +35,11 @@ A visual and conceptual guide to orchestrating Kubernetes resilience from the po
 
 ## Related Videos
 
+- [The Stateful Al Playbook](https://youtu.be/US99s1ISCkA) — Kubernetes · 31 views · Sep 5, 2026 · [Details](US99s1ISCkA.md) (shared: `pod` · `drain` · `disruption`)
 - [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 22 views · Apr 22, 2026 · [Details](p9LNSeAt5Zw.md) (shared: `kubernetes` · `rolling` · `updates`)
 - [Mastering Batch Workload Orchestration on Kubernetes](https://youtu.be/XKTtea0xGsA) — Kubernetes · 25 views · Jul 17, 2026 · [Details](XKTtea0xGsA.md) (shared: `kubernetes` · `pod` · `disruption`)
 - [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 17 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `kubernetes` · `pod` · `deployment`)
-- [Upgrading MKE with NFS Stateful Workloads](https://youtu.be/WeVWqluXtlA) — Kubernetes · 17 views · Aug 30, 2026 · [Details](WeVWqluXtlA.md) (shared: `pod` · `drain` · `disruption`)
-- [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes` · `pod`)
+- [Upgrading MKE with NFS Stateful Workloads](https://youtu.be/WeVWqluXtlA) — Kubernetes · 21 views · Aug 30, 2026 · [Details](WeVWqluXtlA.md) (shared: `pod` · `drain` · `disruption`)
 
 ---
 *Auto-generated on Aug 28, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

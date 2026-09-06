@@ -32,7 +32,7 @@ SpaceWasm is a flight-compliant WebAssembly interpreter built almost entirely (9
 
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 38 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `design` · `memory` · `rust`)
 - [Architecting a Modern Robocode Engine](https://youtu.be/d3JxtD__-L0) — Development · 77 views · May 29, 2026 · [Details](d3JxtD__-L0.md) (shared: `deterministic` · `memory` · `rust`)
-- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 73 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `design` · `deterministic` · `rust`)
+- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 83 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `design` · `deterministic` · `rust`)
 - [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 29 views · May 4, 2026 · [Details](UOOkDh4RUbE.md) (shared: `memory` · `streaming` · `validation`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 54 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `memory` · `rust`)
 

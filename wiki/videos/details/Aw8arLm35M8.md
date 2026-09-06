@@ -35,7 +35,7 @@ This talk presents the Cash Pump Blueprint — a mechanical framework for multi-
 - [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](EMXUbohWsWs.md) (shared: `allocation` · `strategy` · `risk`)
 - [The Final 5 Years](https://youtu.be/G-vvSNwm-jE) — Finance · 19 views · Mar 20, 2026 · [Details](G-vvSNwm-jE.md) (shared: `strategy` · `growth` · `risk`)
 - [The Mathematics of Survival](https://youtu.be/J4nERLAJIbs) — Finance · 13 views · Jul 1, 2026 · [Details](J4nERLAJIbs.md) (shared: `allocation` · `growth` · `risk`)
-- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 34 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `barbell` · `strategy` · `risk`)
+- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 35 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `barbell` · `strategy` · `risk`)
 
 ---
 *Auto-generated on Jul 14, 2026. Back to [finance](../finance.md) · [index](../index.md).*

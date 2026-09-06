@@ -35,10 +35,10 @@ This video presents seven foundational design patterns for architecting cost-eff
 
 ## Related Videos
 
-- [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 18 views · Apr 11, 2026 · [Details](a8heWpae5p0.md) (shared: `vector search` · `vector` · `search`)
+- [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 19 views · Apr 11, 2026 · [Details](a8heWpae5p0.md) (shared: `vector search` · `vector` · `search`)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](N4nRAfBZ3BE.md) (shared: `azure` · `design`)
 - [Migrating Workloads from AWS to Azure](https://youtu.be/RLlEbcXO6k8) — Kubernetes · 9 views · Mar 22, 2026 · [Details](RLlEbcXO6k8.md) (shared: `azure` · `cosmos`)
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 82 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `azure` · `workload`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 83 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `azure` · `workload`)
 - [AWS Database Selection Blueprint](https://youtu.be/78Sm363xiIw) — Kubernetes · 14 views · Jun 12, 2026 · [Details](78Sm363xiIw.md) (shared: `cost` · `modeling`)
 
 ---

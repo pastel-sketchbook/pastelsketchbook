@@ -2,7 +2,7 @@
 type: tag
 tags: [mtls]
 sources: 2
-updated: 2026-09-03
+updated: 2026-09-06
 ---
 
 # mtls
@@ -11,8 +11,8 @@ Videos connected by the topic `mtls`.
 
 ## Videos
 
-- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 32 views · Jan 10, 2026 · [Details](../details/C5HqbzLRYZ0.md)
+- [K8s Services  AKS & Istio](https://youtu.be/C5HqbzLRYZ0) — Kubernetes · 35 views · Jan 10, 2026 · [Details](../details/C5HqbzLRYZ0.md)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](../details/MIZ0ATwu7C0.md)
 
 ---
-*Auto-generated on Sep 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 6, 2026. Back to [topic index](index.md).*

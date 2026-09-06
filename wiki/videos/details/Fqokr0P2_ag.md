@@ -39,7 +39,7 @@ This session frames ECMAScript Modules (ESM) as the standardized, statically ana
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `analysis` · `tooling`)
 - [Why uv, ruff, and ty are mandatory](https://youtu.be/i8wjbDfxZTY) — Development · 145 views · Jun 2, 2026 · [Details](i8wjbDfxZTY.md) (shared: `static` · `tooling`)
 - [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 38 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `migration` · `evolution`)
-- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 972 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `analysis` · `tree`)
+- [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 976 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `analysis` · `tree`)
 
 ---
 *Auto-generated on May 28, 2026. Back to [development](../development.md) · [index](../index.md).*

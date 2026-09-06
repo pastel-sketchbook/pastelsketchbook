@@ -32,7 +32,7 @@ This video explores how CUE (Configure, Unify, Execute) addresses the limitation
 
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) — Kubernetes · 30 views · Mar 16, 2026 · [Details](LUOX5xkSyi0.md) (shared: `cue language` · `cue` · `language`)
 - [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 21 views · Mar 16, 2026 · [Details](to1PClyd0YA.md) (shared: `cue language` · `cue` · `language`)
-- [Bridging Helm and CUE for Deterministic Value Composition](https://youtu.be/7eoxSgjwYlM) — Kubernetes · 26 views · Feb 19, 2026 · [Details](7eoxSgjwYlM.md) (shared: `cue` · `configuration management` · `configuration`)
+- [Bridging Helm and CUE for Deterministic Value Composition](https://youtu.be/7eoxSgjwYlM) — Kubernetes · 27 views · Feb 19, 2026 · [Details](7eoxSgjwYlM.md) (shared: `cue` · `configuration management` · `configuration`)
 - [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 72 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `infrastructure` · `automation`)
 - [Strategic Implementation of Blue-Green Deployment](https://youtu.be/Hd767VA7Z-0) — Kubernetes · 14 views · Mar 10, 2026 · [Details](Hd767VA7Z-0.md) (shared: `management` · `deployment`)
 

@@ -31,10 +31,10 @@ This talk traces the cultural and historical diffusion of folded-dough foods —
 ## Related Videos
 
 - [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 20 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `geography` · `convergence`)
-- [The Pomology Field Guide](https://youtu.be/_LrmdP64y6A) — Finance · 23 views · Mar 19, 2026 · [Details](_LrmdP64y6A.md) (shared: `culinary`)
+- [The Pomology Field Guide](https://youtu.be/_LrmdP64y6A) — Finance · 24 views · Mar 19, 2026 · [Details](_LrmdP64y6A.md) (shared: `culinary`)
 - [Nesting in Global Finance](https://youtu.be/YYVxMSqBqe8) — Finance · 7 views · Apr 12, 2026 · [Details](YYVxMSqBqe8.md) (shared: `global`)
 - [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) — Finance · 28 views · Jun 7, 2026 · [Details](8vJLWsfheRE.md) (shared: `global`)
-- [hTEG3TsuUPQ](https://youtu.be/hTEG3TsuUPQ) — Development · 0 views · Sep 2, 2026 · [Details](hTEG3TsuUPQ.md) (shared: `global`)
+- [hTEG3TsuUPQ](https://youtu.be/hTEG3TsuUPQ) — Development · 0 views · Sep 6, 2026 · [Details](hTEG3TsuUPQ.md) (shared: `global`)
 
 ---
 *Auto-generated on May 20, 2026. Back to [finance](../finance.md) · [index](../index.md).*

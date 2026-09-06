@@ -30,11 +30,11 @@ This talk presents a unified identity architecture that converges human password
 
 ## Related Videos
 
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 82 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `authentication` · `identity` · `zero trust architecture`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 83 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `authentication` · `identity` · `zero trust architecture`)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 24 views · Apr 1, 2026 · [Details](BiYKKVsJROk.md) (shared: `identity` · `mutual` · `tls`)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 23 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `zero trust architecture` · `zero` · `trust`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 47 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `identity` · `zero` · `trust`)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 250 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `identity` · `zero` · `trust`)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 255 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `identity` · `zero` · `trust`)
 
 ---
 *Auto-generated on Aug 16, 2026. Back to [security](../security.md) · [index](../index.md).*

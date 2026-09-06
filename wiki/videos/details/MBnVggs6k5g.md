@@ -34,7 +34,7 @@ This presentation provides a framework for understanding the relationship betwee
 - [The architecture of wealth](https://youtu.be/nfD3KzIriM8) — Finance · 8 views · Jan 16, 2026 · [Details](nfD3KzIriM8.md) (shared: `wealth` · `financial`)
 - [The Three Pillars of Financial Freedom](https://youtu.be/K1O4kHjFJaQ) — Finance · 15 views · Jan 23, 2026 · [Details](K1O4kHjFJaQ.md) (shared: `wealth`)
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) — Finance · 8 views · May 20, 2026 · [Details](Dx8pFmojxL4.md) (shared: `rate`)
-- [The Golden Decade Architecture](https://youtu.be/f5Ld5cAhUZA) — Finance · 35 views · Aug 26, 2026 · [Details](f5Ld5cAhUZA.md) (shared: `dividend`)
+- [The Golden Decade Architecture](https://youtu.be/f5Ld5cAhUZA) — Finance · 36 views · Aug 26, 2026 · [Details](f5Ld5cAhUZA.md) (shared: `dividend`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

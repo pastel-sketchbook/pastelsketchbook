@@ -2,7 +2,7 @@
 type: tag
 tags: [ai-agents]
 sources: 2
-updated: 2026-09-03
+updated: 2026-09-06
 ---
 
 # ai agents
@@ -15,4 +15,4 @@ Videos connected by the topic `ai agents`.
 - [The 2026 State of Al Agents](https://youtu.be/BAxPZdgmgRQ) — Development · 4 views · Jan 8, 2026 · [Details](../details/BAxPZdgmgRQ.md)
 
 ---
-*Auto-generated on Sep 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 6, 2026. Back to [topic index](index.md).*

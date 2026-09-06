@@ -2,7 +2,7 @@
 type: tag
 tags: [gemini-api-narration]
 sources: 2
-updated: 2026-09-03
+updated: 2026-09-06
 ---
 
 # gemini api narration
@@ -15,4 +15,4 @@ Videos connected by the topic `gemini api narration`.
 - [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 32 views · May 17, 2026 · [Details](../details/ytA6gw6Tgaw.md)
 
 ---
-*Auto-generated on Sep 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 6, 2026. Back to [topic index](index.md).*

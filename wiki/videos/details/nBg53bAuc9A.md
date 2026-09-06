@@ -39,7 +39,7 @@ An architectural blueprint for zero-trust database credentials in Kubernetes tha
 - [Architecting Kubernetes Operators](https://youtu.be/hvkvH7i8NLc) — Kubernetes · 18 views · May 31, 2026 · [Details](hvkvH7i8NLc.md) (shared: `kubernetes` · `pattern` · `workload`)
 - [Architecting Enterprise Secret Management in Rust](https://youtu.be/JrCT7Xu-aGU) — Kubernetes · 20 views · Jun 25, 2026 · [Details](JrCT7Xu-aGU.md) (shared: `secrets` · `credential` · `rotation`)
 - [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) — Kubernetes · 17 views · May 22, 2026 · [Details](9ga0NT3ZohQ.md) (shared: `kubernetes` · `workload` · `identity`)
-- [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 95 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `dynamic` · `volume`)
+- [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 96 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `dynamic` · `volume`)
 
 ---
 *Auto-generated on Sep 03, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

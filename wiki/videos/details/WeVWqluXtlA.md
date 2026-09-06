@@ -36,10 +36,10 @@ An architectural playbook for stateful-safe upgrades of Mirantis Kubernetes Engi
 ## Related Videos
 
 - [Mastering Batch Workload Orchestration on Kubernetes](https://youtu.be/XKTtea0xGsA) — Kubernetes · 25 views · Jul 17, 2026 · [Details](XKTtea0xGsA.md) (shared: `orchestration` · `pod disruption budgets` · `pod`)
+- [The Stateful Al Playbook](https://youtu.be/US99s1ISCkA) — Kubernetes · 31 views · Sep 5, 2026 · [Details](US99s1ISCkA.md) (shared: `orchestration` · `protection` · `pod`)
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `etcd` · `pod` · `worker`)
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 48 views · Jan 16, 2026 · [Details](0U-SUJCmKAU.md) (shared: `stateful` · `workloads` · `storage`)
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 24 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `stateful` · `workloads` · `storage`)
-- [Orchestrating Kubernetes Resilience](https://youtu.be/ZECKRFPN8BA) — Kubernetes · 16 views · Aug 25, 2026 · [Details](ZECKRFPN8BA.md) (shared: `pod` · `disruption` · `drain`)
 
 ---
 *Auto-generated on Sep 03, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

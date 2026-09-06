@@ -33,7 +33,7 @@ This video argues that a perceived neutral or centrist position on emerging tech
 - [The 2026 State of Al Agents](https://youtu.be/BAxPZdgmgRQ) — Development · 4 views · Jan 8, 2026 · [Details](BAxPZdgmgRQ.md) (shared: `coding` · `agents` · `adoption`)
 - [Guiding Al to Build the Modern Web](https://youtu.be/nwAdb-PyRlo) — Development · 64 views · May 24, 2026 · [Details](nwAdb-PyRlo.md) (shared: `coding` · `agents`)
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `agents`)
-- [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 25 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `technology`)
+- [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 26 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `technology`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `agents`)
 
 ---

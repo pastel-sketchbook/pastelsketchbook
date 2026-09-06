@@ -37,7 +37,7 @@ The 2026 Enterprise AI Blueprint maps the shift from generative AI experimentati
 
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) — Finance · 8 views · May 20, 2026 · [Details](Dx8pFmojxL4.md) (shared: `enterprise` · `data`)
 - [Generative Al at Scale](https://youtu.be/uU46ltIELqk) — Development · 14 views · Mar 27, 2026 · [Details](uU46ltIELqk.md) (shared: `enterprise` · `generative` · `hallucination`)
-- [The Neuromorphic AI Stack](https://youtu.be/Cmnangq7Ndw) — Finance · 15 views · Aug 12, 2026 · [Details](Cmnangq7Ndw.md) (shared: `data`)
+- [The Neuromorphic AI Stack](https://youtu.be/Cmnangq7Ndw) — Finance · 17 views · Aug 12, 2026 · [Details](Cmnangq7Ndw.md) (shared: `data`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 78 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 91 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data`)
 

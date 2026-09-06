@@ -2,7 +2,7 @@
 type: tag
 tags: [persistent-storage]
 sources: 2
-updated: 2026-09-03
+updated: 2026-09-06
 ---
 
 # persistent storage
@@ -15,4 +15,4 @@ Videos connected by the topic `persistent storage`.
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](../details/MIZ0ATwu7C0.md)
 
 ---
-*Auto-generated on Sep 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 6, 2026. Back to [topic index](index.md).*

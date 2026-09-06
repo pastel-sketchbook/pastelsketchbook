@@ -36,7 +36,7 @@ This deck documents the structural divergence of alternative asset management an
 ## Related Videos
 
 - [The Mathematics of Survival](https://youtu.be/J4nERLAJIbs) — Finance · 13 views · Jul 1, 2026 · [Details](J4nERLAJIbs.md) (shared: `management` · `portfolio` · `allocation`)
-- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 34 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `management` · `portfolio`)
+- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 35 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `management` · `portfolio`)
 - [An Ambitious Ascent](https://youtu.be/MDNRiJN7aEg) — Finance · 11 views · Dec 29, 2025 · [Details](MDNRiJN7aEg.md) (shared: `management` · `portfolio`)
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `portfolio` · `allocation`)
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `portfolio` · `allocation`)

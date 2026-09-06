@@ -34,7 +34,7 @@ This video examines sorting algorithms at the intersection of mathematical theor
 - [The Pragmatic Go Developer](https://youtu.be/oxNF_GNuWpE) — Development · 45 views · Mar 10, 2026 · [Details](oxNF_GNuWpE.md) (shared: `go standard library` · `standard` · `library`)
 - [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) — Development · 195 views · Mar 24, 2026 · [Details](yCJDmGrk8sM.md) (shared: `cache locality` · `cache` · `locality`)
 - [Writing Modern Go in the Age of Al](https://youtu.be/Z90u9EVf4M4) — Development · 194 views · Mar 26, 2026 · [Details](Z90u9EVf4M4.md) (shared: `go standard library` · `standard` · `library`)
-- [From Louvain to Leiden](https://youtu.be/BQ4wab0UtLg) — Development · 147 views · Apr 26, 2026 · [Details](BQ4wab0UtLg.md) (shared: `algorithms` · `algorithm` · `optimization`)
+- [From Louvain to Leiden](https://youtu.be/BQ4wab0UtLg) — Development · 153 views · Apr 26, 2026 · [Details](BQ4wab0UtLg.md) (shared: `algorithms` · `algorithm` · `optimization`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

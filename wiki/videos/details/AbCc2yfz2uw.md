@@ -36,10 +36,10 @@ RB Simulation is a process-decomposed, deterministic robotics architecture in Ru
 ## Related Videos
 
 - [The Anatomy of a Modern Robot](https://youtu.be/7ygjuzLkdTE) — Development · 50 views · Jun 24, 2026 · [Details](7ygjuzLkdTE.md) (shared: `robotics` · `architecture` · `zero-copy`)
-- [The Rust Robotics Paradigm](https://youtu.be/gPnrk5TNKWg) — Development · 80 views · Jun 27, 2026 · [Details](gPnrk5TNKWg.md) (shared: `robotics` · `zero-copy` · `ipc`)
+- [The Rust Robotics Paradigm](https://youtu.be/gPnrk5TNKWg) — Development · 88 views · Jun 27, 2026 · [Details](gPnrk5TNKWg.md) (shared: `robotics` · `zero-copy` · `ipc`)
 - [Architecting a Modern Robocode Engine](https://youtu.be/d3JxtD__-L0) — Development · 77 views · May 29, 2026 · [Details](d3JxtD__-L0.md) (shared: `deterministic` · `architecture` · `loop`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 90 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture` · `rust`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 159 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `architecture` · `rust`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 160 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `architecture` · `rust`)
 
 ---
 *Auto-generated on Jun 30, 2026. Back to [development](../development.md) · [index](../index.md).*

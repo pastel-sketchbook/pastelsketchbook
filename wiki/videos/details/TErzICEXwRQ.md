@@ -34,7 +34,7 @@ This talk presents a modular playbook for vertical project delivery built around
 - [The Art of Git Gardening](https://youtu.be/PNFlYx8HiOM) — Development · 16 views · Dec 31, 2025 · [Details](PNFlYx8HiOM.md) (shared: `development` · `integration` · `strategy`)
 - [Rebalancing the SDLC in the Al Era](https://youtu.be/Z98SHl4nSFI) — Development · 21 views · Mar 17, 2026 · [Details](Z98SHl4nSFI.md) (shared: `delivery` · `integration` · `software`)
 - [Taming the Genie](https://youtu.be/MaP2i4dTiQk) — Development · 17 views · Jan 23, 2026 · [Details](MaP2i4dTiQk.md) (shared: `coding` · `development` · `software`)
-- [The Evolution of RFCs in the Al Era](https://youtu.be/lsjfczYFBeQ) — Development · 33 views · Apr 16, 2026 · [Details](lsjfczYFBeQ.md) (shared: `executable specifications` · `executable` · `specifications`)
+- [The Evolution of RFCs in the Al Era](https://youtu.be/lsjfczYFBeQ) — Development · 34 views · Apr 16, 2026 · [Details](lsjfczYFBeQ.md) (shared: `executable specifications` · `executable` · `specifications`)
 
 ---
 *Auto-generated on Aug 16, 2026. Back to [development](../development.md) · [index](../index.md).*

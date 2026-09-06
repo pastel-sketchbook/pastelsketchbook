@@ -33,7 +33,7 @@ This video analyzes the market transition from 2025's high-beta breakout growth 
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `analysis` · `ai infrastructure investing` · `infrastructure`)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 44 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `ai infrastructure investing` · `infrastructure` · `investing`)
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `market` · `analysis`)
-- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 43 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `market` · `infrastructure` · `energy`)
+- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 45 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `market` · `infrastructure` · `energy`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 91 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `infrastructure` · `economy`)
 
 ---

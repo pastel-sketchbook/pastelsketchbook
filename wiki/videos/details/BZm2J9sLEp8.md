@@ -34,7 +34,7 @@ This talk surveys the engineering and architecture of mega-scale AI data centers
 - [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 23 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `data` · `infrastructure` · `behind`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 78 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `infrastructure`)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 44 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `architecture` · `infrastructure` · `hyperscale`)
-- [The 2026 U.S. Fiber Ecosystem](https://youtu.be/QWQcpxHE6E8) — Finance · 5 views · Aug 9, 2026 · [Details](QWQcpxHE6E8.md) (shared: `data` · `center` · `liquid`)
+- [The 2026 U.S. Fiber Ecosystem](https://youtu.be/QWQcpxHE6E8) — Finance · 7 views · Aug 9, 2026 · [Details](QWQcpxHE6E8.md) (shared: `data` · `center` · `liquid`)
 
 ---
 *Auto-generated on Aug 1, 2026. Back to [finance](../finance.md) · [index](../index.md).*

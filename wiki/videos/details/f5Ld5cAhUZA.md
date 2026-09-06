@@ -36,7 +36,7 @@ The Golden Decade Architecture targets the 10-year window from ages 65 to 75 to 
 ## Related Videos
 
 - [The Mathematics of Survival](https://youtu.be/J4nERLAJIbs) — Finance · 13 views · Jul 1, 2026 · [Details](J4nERLAJIbs.md) (shared: `engine` · `capital`)
-- [The Pomology Field Guide](https://youtu.be/_LrmdP64y6A) — Finance · 23 views · Mar 19, 2026 · [Details](_LrmdP64y6A.md) (shared: `architecture`)
+- [The Pomology Field Guide](https://youtu.be/_LrmdP64y6A) — Finance · 24 views · Mar 19, 2026 · [Details](_LrmdP64y6A.md) (shared: `architecture`)
 - [The Three Pillars of Financial Freedom](https://youtu.be/K1O4kHjFJaQ) — Finance · 15 views · Jan 23, 2026 · [Details](K1O4kHjFJaQ.md) (shared: `ira`)
 - [The Mathematics of Human Capital Compounding](https://youtu.be/_4BC0zHGYTw) — Finance · 14 views · Mar 5, 2026 · [Details](_4BC0zHGYTw.md) (shared: `capital`)
 - [The Exchange Rate of Your Life](https://youtu.be/MBnVggs6k5g) — Finance · 17 views · Jan 22, 2026 · [Details](MBnVggs6k5g.md) (shared: `dividend`)

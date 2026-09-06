@@ -31,10 +31,10 @@ This video presents an enterprise playbook for deploying autonomous AI agents wi
 ## Related Videos
 
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](C6wLm6NRZW4.md) (shared: `azure devops` · `azure` · `devops`)
+- [Digital Transformation 2.0](https://youtu.be/pnbcAqCaKh0) — Development · 119 views · Sep 3, 2026 · [Details](pnbcAqCaKh0.md) (shared: `agentic` · `digital` · `autonomous`)
 - [Generative Al at Scale](https://youtu.be/uU46ltIELqk) — Development · 14 views · Mar 27, 2026 · [Details](uU46ltIELqk.md) (shared: `enterprise ai deployment` · `enterprise` · `deployment`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `enterprise` · `autonomous`)
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `autonomous` · `agents`)
-- [The 2026 State of Al Agents](https://youtu.be/BAxPZdgmgRQ) — Development · 4 views · Jan 8, 2026 · [Details](BAxPZdgmgRQ.md) (shared: `enterprise` · `agents`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

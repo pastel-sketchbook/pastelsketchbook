@@ -37,7 +37,7 @@ Kubernetes v1.37 "Garhwal" — named for the resilience of the Garhwal Himalayas
 
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes` · `scheduling` · `etcd`)
 - [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `kubernetes` · `scale`)
-- [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 95 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `admission` · `dra`)
+- [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 96 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `admission` · `dra`)
 - [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 22 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `kubernetes` · `cache` · `zero`)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `kubernetes` · `zero`)
 

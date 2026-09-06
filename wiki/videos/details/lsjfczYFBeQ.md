@@ -32,7 +32,7 @@ This video examines how RFCs (Request for Comments) are evolving from natural-la
 
 - [The Programmer's Guide to Essential RFCs](https://youtu.be/LackTxguXFg) — Development · 110 views · Apr 10, 2026 · [Details](LackTxguXFg.md) (shared: `specifications` · `tcp` · `tls`)
 - [Modular Playbook for Vertical Project Delivery](https://youtu.be/TErzICEXwRQ) — Development · 9 views · Aug 11, 2026 · [Details](TErzICEXwRQ.md) (shared: `executable specifications` · `executable` · `specifications`)
-- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 73 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `protocol` · `machine` · `tls`)
+- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 83 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `protocol` · `machine` · `tls`)
 - [RFC 862 and the Echo Protocol](https://youtu.be/ea5lpF3RyzE) — Development · 40 views · Apr 7, 2026 · [Details](ea5lpF3RyzE.md) (shared: `protocol` · `tcp`)
 - [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 721 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `protocol` · `standards`)
 

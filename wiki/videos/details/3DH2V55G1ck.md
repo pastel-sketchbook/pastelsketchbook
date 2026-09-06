@@ -33,7 +33,7 @@ This talk frames physical AI as an ecosystem problem — architecture, orchestra
 
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 44 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `ecosystem` · `compute`)
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 9 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `semiconductor` · `stack`)
-- [The Neuromorphic AI Stack](https://youtu.be/Cmnangq7Ndw) — Finance · 15 views · Aug 12, 2026 · [Details](Cmnangq7Ndw.md) (shared: `compute`)
+- [The Neuromorphic AI Stack](https://youtu.be/Cmnangq7Ndw) — Finance · 17 views · Aug 12, 2026 · [Details](Cmnangq7Ndw.md) (shared: `compute`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 78 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `compute`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 91 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `robotics`)
 

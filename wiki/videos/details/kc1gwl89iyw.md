@@ -36,7 +36,7 @@ This video exposes the fragility of static `.env` files for secret management an
 ## Related Videos
 
 - [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 63 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `shannon` · `detection`)
-- [Zero-Trust Database Credentials in Kubernetes](https://youtu.be/nBg53bAuc9A) — Kubernetes · 1 views · Sep 2, 2026 · [Details](nBg53bAuc9A.md) (shared: `management` · `rotation` · `dynamic`)
+- [Zero-Trust Database Credentials in Kubernetes](https://youtu.be/nBg53bAuc9A) — Kubernetes · 35 views · Sep 2, 2026 · [Details](nBg53bAuc9A.md) (shared: `management` · `rotation` · `dynamic`)
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 23 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `management`)
 - [Designing for Privacy](https://youtu.be/_5DCBqOCr8c) — Security · 44 views · Apr 18, 2026 · [Details](_5DCBqOCr8c.md) (shared: `management`)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 23 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `management`)

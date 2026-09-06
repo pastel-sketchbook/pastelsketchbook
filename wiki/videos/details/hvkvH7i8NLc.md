@@ -33,9 +33,9 @@ This structural guide for engineering leaders walks from Custom Resource Definit
 
 - [Kubernetes Auto-Scaling Strategies](https://youtu.be/y3WwL48DLYw) — Kubernetes · 29 views · Feb 23, 2026 · [Details](y3WwL48DLYw.md) (shared: `kubernetes` · `resource` · `stateful`)
 - [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 17 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `kubernetes` · `custom` · `resources`)
-- [Zero-Trust Database Credentials in Kubernetes](https://youtu.be/nBg53bAuc9A) — Kubernetes · 1 views · Sep 2, 2026 · [Details](nBg53bAuc9A.md) (shared: `kubernetes` · `pattern` · `workload`)
+- [Zero-Trust Database Credentials in Kubernetes](https://youtu.be/nBg53bAuc9A) — Kubernetes · 35 views · Sep 2, 2026 · [Details](nBg53bAuc9A.md) (shared: `kubernetes` · `pattern` · `workload`)
 - [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) — Kubernetes · 17 views · May 22, 2026 · [Details](9ga0NT3ZohQ.md) (shared: `kubernetes` · `workload` · `automation`)
-- [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 95 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `resource` · `api`)
+- [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 96 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `resource` · `api`)
 
 ---
 *Auto-generated on Jun 2, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*
