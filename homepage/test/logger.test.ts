@@ -1,4 +1,4 @@
-import { describe, it, expect, vi } from 'vitest'
+import { describe, it, expect, beforeEach } from 'bun:test'
 import { logger, MetricsLogger, type LogLevel } from '../src/lib/logger'
 
 describe('Logger utility', () => {

@@ -24,7 +24,7 @@ The homepage is the first application in this monorepo. It's a React-based landi
 - **State**: TanStack React Query 5.100
 - **Validation**: Zod 4.4
 - **AI**: Google GenAI SDK 2.6
-- **Testing**: Vitest 4.1 + Happy DOM 20.9 + Testing Library 16.3
+- **Testing**: `bun:test` + Happy DOM 20 + Testing Library 16.3
 - **Linting/Formatting**: Biome 2.4
 - **Deployment**: Vercel 54.4 (`@vercel/node` 5.8)
 
@@ -143,9 +143,8 @@ All scripts are invoked through `bun run` (no `npm`, `pnpm`, `yarn`, or `node`).
 | `bun run lint:fix` | Fix linting errors |
 | `bun run check` | Run both format and lint checks |
 | `bun run check:fix` | Fix all format and lint issues |
-| `bun run test` | Run tests in watch mode |
-| `bun run test:ui` | Run tests with UI interface |
-| `bun run test:run` | Run tests once |
+| `bun run test` | Run tests once |
+| `bun run test:run` | Run tests once (CI alias) |
 | `bun run test:coverage` | Run tests with coverage report |
 | `bun run check:all` | Pre-push quality gate: `format:check` + `lint` + `test:coverage` |
 | `bun run deploy:vercel` | Deploy to Vercel production (use only with explicit user approval) |
@@ -171,16 +170,16 @@ All scripts are invoked through `bun run` (no `npm`, `pnpm`, `yarn`, or `node`).
 
 ## Testing
 
-Tests are written using Vitest with React Testing Library. Coverage reports are generated with v8 provider.
+Tests are written using `bun:test` with React Testing Library. Happy DOM globals and jest-dom matchers are registered via the `test/setup.ts` preload (see `bunfig.toml`).
 
 ### Running Tests
 
 ```bash
-# Run tests in watch mode (recommended during development)
+# Run tests once
 bun run test
 
-# Run tests with UI interface
-bun run test:ui
+# Run tests in watch mode (recommended during development)
+bun test --watch
 
 # Run tests once (CI)
 bun run test:run
@@ -189,14 +188,9 @@ bun run test:run
 bun run test:coverage
 ```
 
-### Coverage Thresholds
+### Coverage
 
-- **Statements**: 80%
-- **Functions**: 80%
-- **Branches**: 80%
-- **Lines**: 80%
-
-Coverage reports are generated in the `coverage/` directory in HTML, LCOV, and JSON formats.
+No thresholds are enforced. `bun run test:coverage` prints a per-file text table.
 
 ## Security Notes
 

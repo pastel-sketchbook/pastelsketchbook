@@ -1,4 +1,4 @@
-import { describe, it, expect, vi } from 'vitest';
+import { describe, it, expect, mock } from 'bun:test';
 import { render, screen, fireEvent } from '@testing-library/react';
 import { VideoGallery } from '../src/components/VideoGallery';
 
@@ -39,7 +39,7 @@ describe('VideoGallery', () => {
     });
 
     it('calls onVideoSelect when a card is clicked', () => {
-        const onVideoSelect = vi.fn();
+        const onVideoSelect = mock(() => {});
         render(
             <VideoGallery
                 items={mockItems}

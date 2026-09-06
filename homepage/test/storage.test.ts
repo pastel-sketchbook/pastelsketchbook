@@ -1,12 +1,10 @@
-import { describe, it, expect, beforeEach, vi } from 'vitest'
-import { renderHook, act } from '@testing-library/react'
+import { describe, it, expect, beforeEach } from 'bun:test'
 import type { SparkResult } from '../types'
 
 const STORAGE_KEY = 'pastel_sketchbook_sparks'
 
 describe('localStorage persistence', () => {
   beforeEach(() => {
-    vi.clearAllMocks()
     localStorage.clear()
   })
 

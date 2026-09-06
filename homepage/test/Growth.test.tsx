@@ -1,9 +1,9 @@
-import { describe, it, expect, vi } from 'vitest'
+import { describe, it, expect, mock } from 'bun:test'
 import { render, screen } from '@testing-library/react'
 import { Growth } from '../src/components/Growth'
 
 // Mock lazy import for Recharts
-vi.mock('recharts', () => ({
+mock.module('recharts', () => ({
   AreaChart: ({ children, data }: any) => <div data-testid="area-chart">{children}</div>,
   CartesianGrid: () => <div />,
   XAxis: () => <div />,

@@ -171,19 +171,19 @@ bun run check:fix       # Fix all format and lint issues
 ### Testing
 ```bash
 cd homepage
-bun run test            # Run tests in watch mode
-bun run test:ui        # Run tests with UI interface
-bun run test:run        # Run tests once
+bun run test            # Run tests once
+bun test --watch        # Run tests in watch mode
+bun run test:run        # Run tests once (CI alias)
 bun run test:coverage   # Run tests with coverage report
 ```
 
 **Testing Configuration**:
-- Framework: Vitest 4.0.16
-- Test Environment: Happy DOM 20.0.11
+- Framework: `bun:test` (built into Bun, no extra dependency)
+- Test Environment: Happy DOM 20 (registered in `test/setup.ts` preload)
 - Testing Library: React Testing Library 16.3.1
-- Coverage Provider: v8 with 80% threshold
-- Coverage Reports: HTML, LCOV, Text, JSON
-- Config: `vitest.config.ts`
+- Mocks: `mock()` / `spyOn()` / `mock.module()` from `bun:test`
+- Coverage: `bun test --coverage` (no enforced thresholds)
+- Config: `bunfig.toml` (`[test] preload = ["./test/setup.ts"]`)
 
 **Test Files**:
 - `test/setup.ts` - Test setup with cleanup and mocks
@@ -257,8 +257,8 @@ See `docs/error-logging-and-code-splitting.md` for comprehensive guide.
 - Screen reader testing ongoing
 
 ### Testing
-- Vitest with React Testing Library
-- 199+ passing tests
+- bun:test with React Testing Library
+- 256 passing tests
 - ~30% coverage on critical paths
 - See test/ directory for test files
 

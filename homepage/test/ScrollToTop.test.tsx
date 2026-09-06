@@ -1,10 +1,17 @@
-import { describe, it, expect, vi, beforeEach } from 'vitest';
+import { describe, it, expect, mock, beforeEach, afterEach } from 'bun:test';
 import { render, screen, fireEvent, act } from '@testing-library/react';
 import { ScrollToTop } from '../src/components/ui/ScrollToTop';
 
 describe('ScrollToTop', () => {
+    const originalScrollTo = window.scrollTo;
+
     beforeEach(() => {
-        window.scrollTo = vi.fn();
+        (window as any).scrollTo = mock(() => {});
+    });
+
+    afterEach(() => {
+        window.scrollTo = originalScrollTo;
+        (window as any).pageYOffset = 0;
     });
 
     it('is initially hidden', () => {
@@ -18,7 +25,7 @@ describe('ScrollToTop', () => {
 
         // Mock scroll event
         act(() => {
-            window.pageYOffset = 400;
+            (window as any).pageYOffset = 400;
             window.dispatchEvent(new Event('scroll'));
         });
 
@@ -30,7 +37,7 @@ describe('ScrollToTop', () => {
         render(<ScrollToTop />);
 
         act(() => {
-            window.pageYOffset = 400;
+            (window as any).pageYOffset = 400;
             window.dispatchEvent(new Event('scroll'));
         });
 

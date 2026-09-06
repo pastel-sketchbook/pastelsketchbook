@@ -1,4 +1,4 @@
-import { describe, it, expect, vi } from 'vitest'
+import { describe, it, expect, mock } from 'bun:test'
 import { render, screen } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { SketchButton } from '../src/components/ui/SketchButton'
@@ -10,12 +10,12 @@ describe('SketchButton Component', () => {
   })
 
   it('should call onClick handler when clicked', async () => {
-    const handleClick = vi.fn()
+    const handleClick = mock(() => {})
     render(<SketchButton onClick={handleClick}>Click me</SketchButton>)
 
     const button = screen.getByRole('button')
     await userEvent.click(button)
-    expect(handleClick).toHaveBeenCalledOnce()
+    expect(handleClick).toHaveBeenCalledTimes(1)
   })
 
   it('should be disabled when disabled prop is true', () => {
@@ -25,7 +25,7 @@ describe('SketchButton Component', () => {
   })
 
   it('should not call onClick when disabled', async () => {
-    const handleClick = vi.fn()
+    const handleClick = mock(() => {})
     render(
       <SketchButton disabled onClick={handleClick}>
         Click me
@@ -75,7 +75,7 @@ describe('SketchButton Component', () => {
   })
 
   it('should handle multiple rapid clicks', async () => {
-    const handleClick = vi.fn()
+    const handleClick = mock(() => {})
     render(<SketchButton onClick={handleClick}>Click</SketchButton>)
 
     const button = screen.getByRole('button')
@@ -97,7 +97,7 @@ describe('SketchButton Component', () => {
   })
 
   it('should have keyboard support', async () => {
-    const handleClick = vi.fn()
+    const handleClick = mock(() => {})
     render(<SketchButton onClick={handleClick}>Button</SketchButton>)
 
     const button = screen.getByRole('button')

@@ -1,13 +1,13 @@
-import { describe, it, expect, vi, beforeEach } from 'vitest'
+import { describe, it, expect, mock, beforeEach } from 'bun:test'
 import { render, screen } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { SparkAI } from '../src/components/SparkAI'
 
-// Mock Google GenAI SDK
-vi.mock('@google/genai', () => ({
-  GoogleGenAI: vi.fn((config: any) => ({
+// Mock Google GenAI SDK (dynamically imported by the component on generate)
+mock.module('@google/genai', () => ({
+  GoogleGenAI: mock((_config: any) => ({
     models: {
-      generateContent: vi.fn(async () => ({
+      generateContent: mock(async () => ({
         text: JSON.stringify({
           topic: 'Learning JavaScript',
           creation: 'Create a tutorial series',
@@ -130,8 +130,8 @@ describe('SparkAI Component', () => {
     render(<SparkAI />)
     const button = screen.getByRole('button', { name: /Spark an Idea/i })
     expect(button).toBeInTheDocument()
-    // Verify GoogleGenAI was mocked
-    expect(vi.mocked).toBeDefined()
+    // Verify GoogleGenAI mock is registered
+    expect(mock).toBeDefined()
   })
 
   it('should support text clearing', async () => {

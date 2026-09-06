@@ -1,5 +1,5 @@
 import { render, screen, fireEvent } from "@testing-library/react";
-import { describe, it, expect, vi } from "vitest";
+import { describe, it, expect, mock, beforeEach, afterEach } from "bun:test";
 import { PodcastPlayer } from "../src/components/PodcastPlayer";
 
 // Mock fetch for transcript
@@ -8,14 +8,23 @@ const mockTranscript = [
     { timestamp: [5, 15], text: "Second segment" }
 ];
 
-global.fetch = vi.fn(() =>
-    Promise.resolve({
-        json: () => Promise.resolve(mockTranscript),
-    })
-) as any;
+const originalFetch = globalThis.fetch;
+const originalScrollIntoView = window.HTMLElement.prototype.scrollIntoView;
 
-// Mock scrollIntoView
-window.HTMLElement.prototype.scrollIntoView = vi.fn();
+beforeEach(() => {
+    (globalThis as any).fetch = mock(() =>
+        Promise.resolve({
+            json: () => Promise.resolve(mockTranscript),
+        })
+    );
+    // Mock scrollIntoView
+    (window.HTMLElement.prototype as any).scrollIntoView = mock(() => {});
+});
+
+afterEach(() => {
+    (globalThis as any).fetch = originalFetch;
+    window.HTMLElement.prototype.scrollIntoView = originalScrollIntoView;
+});
 
 describe("PodcastPlayer", () => {
     it("renders title and episode number", async () => {

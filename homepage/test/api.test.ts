@@ -1,4 +1,4 @@
-import { describe, it, expect, beforeEach, vi } from 'vitest'
+import { describe, it, expect } from 'bun:test'
 
 /**
  * Unit tests for api/videos/metadata.ts

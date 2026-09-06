@@ -1,11 +1,10 @@
-import { describe, it, expect, beforeEach, vi } from 'vitest'
+import { describe, it, expect, beforeEach } from 'bun:test'
 import { renderHook, act } from '@testing-library/react'
 import { useLocalStorage } from '../src/hooks/useLocalStorage'
 
 describe('useLocalStorage hook', () => {
   beforeEach(() => {
     localStorage.clear()
-    vi.clearAllMocks()
   })
 
   it('should initialize with initial value when localStorage is empty', () => {

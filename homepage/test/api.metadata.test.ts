@@ -1,4 +1,4 @@
-import { describe, it, expect, vi, beforeEach } from 'vitest'
+import { describe, it, expect, mock, beforeEach } from 'bun:test'
 import metadata from '../api/videos/metadata'
 import type { VercelRequest, VercelResponse } from '@vercel/node'
 import { mockFetch } from './setup'
@@ -24,32 +24,32 @@ function createMockResponse(): VercelResponse & { _getData: () => any } {
   let statusCode = 200
 
   const statusChain = {
-    json: vi.fn((body: any) => {
+    json: mock((body: any) => {
       data.body = body
       data.statusCode = statusCode
       return statusChain
     }),
-    end: vi.fn(() => {
+    end: mock(() => {
       data.statusCode = statusCode
       return statusChain
     })
   }
 
   return {
-    setHeader: vi.fn((key: string, value: string) => {
+    setHeader: mock((key: string, value: string) => {
       headers[key] = value
       return undefined as any
     }),
-    status: vi.fn((code: number) => {
+    status: mock((code: number) => {
       statusCode = code
       return statusChain as any
     }),
-    json: vi.fn((body: any) => {
+    json: mock((body: any) => {
       data.body = body
       data.statusCode = statusCode
       return undefined
     }),
-    end: vi.fn(),
+    end: mock(),
     _getData: () => data,
     _getHeaders: () => headers,
     _getStatusCode: () => statusCode
@@ -58,7 +58,6 @@ function createMockResponse(): VercelResponse & { _getData: () => any } {
 
 describe('API Routes: /api/videos/metadata', () => {
   beforeEach(() => {
-    vi.clearAllMocks()
     // Set API key for tests
     process.env.VITE_YOUTUBE_API_KEY = 'test-key'
   })
@@ -148,7 +147,7 @@ describe('API Routes: /api/videos/metadata', () => {
       const res = createMockResponse()
 
       // Mock the YouTube API response
-      mockFetch(vi.fn(() =>
+      mockFetch(mock(() =>
         Promise.resolve({
           ok: true,
           json: () =>
@@ -183,7 +182,7 @@ describe('API Routes: /api/videos/metadata', () => {
       })
       const res = createMockResponse()
 
-      mockFetch(vi.fn(() =>
+      mockFetch(mock(() =>
         Promise.resolve({
           ok: true,
           json: () =>
@@ -245,7 +244,7 @@ describe('API Routes: /api/videos/metadata', () => {
       })
       const res = createMockResponse()
 
-      mockFetch(vi.fn(() =>
+      mockFetch(mock(() =>
         Promise.resolve({
           ok: true,
           json: () =>
@@ -271,7 +270,7 @@ describe('API Routes: /api/videos/metadata', () => {
       })
       const res = createMockResponse()
 
-      mockFetch(vi.fn(() =>
+      mockFetch(mock(() =>
         Promise.resolve({
           ok: true,
           json: () =>
@@ -318,7 +317,7 @@ describe('API Routes: /api/videos/metadata', () => {
 
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      mockFetch(vi.fn(() =>
+      mockFetch(mock(() =>
         Promise.resolve({
           ok: false,
           status: 403,
@@ -341,7 +340,7 @@ describe('API Routes: /api/videos/metadata', () => {
 
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      mockFetch(vi.fn(() =>
+      mockFetch(mock(() =>
         Promise.reject(new Error('Network error'))
       ))
 
@@ -360,7 +359,7 @@ describe('API Routes: /api/videos/metadata', () => {
 
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      mockFetch(vi.fn(() =>
+      mockFetch(mock(() =>
         Promise.reject(new Error('Sensitive error details'))
       ))
 
@@ -381,7 +380,7 @@ describe('API Routes: /api/videos/metadata', () => {
 
       process.env.VITE_YOUTUBE_API_KEY = 'test-key'
 
-      mockFetch(vi.fn(() =>
+      mockFetch(mock(() =>
         Promise.resolve({
           ok: true,
           json: () =>

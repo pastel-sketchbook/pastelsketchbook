@@ -1,4 +1,4 @@
-import { describe, it, expect, vi } from 'vitest'
+import { describe, it, expect, mock } from 'bun:test'
 import { render, screen, fireEvent, waitFor } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { VideoModal } from '../src/components/VideoModal'
@@ -6,7 +6,7 @@ import { VideoModal } from '../src/components/VideoModal'
 describe('VideoModal - Zoom Controls', () => {
   const defaultProps = {
     videoId: 'V2cZl5s4EKU',
-    onClose: vi.fn()
+    onClose: mock(() => {})
   }
 
   describe('Zoom Functionality', () => {
@@ -119,7 +119,7 @@ describe('VideoModal - Zoom Controls', () => {
     })
 
     it('should close modal when Escape key pressed', async () => {
-      const onClose = vi.fn()
+      const onClose = mock(() => {})
       render(<VideoModal {...defaultProps} onClose={onClose} />)
 
       fireEvent.keyDown(window, { key: 'Escape' })
@@ -168,13 +168,13 @@ describe('VideoModal - Zoom Controls', () => {
 
   describe('Modal Behavior', () => {
     it('should not render when videoId is null', () => {
-      render(<VideoModal videoId={null} onClose={vi.fn()} />)
+      render(<VideoModal videoId={null} onClose={mock(() => {})} />)
 
       expect(screen.queryByLabelText(/Increase video size/i)).not.toBeInTheDocument()
     })
 
     it('should close when pressing Escape key', async () => {
-      const onClose = vi.fn()
+      const onClose = mock(() => {})
       render(<VideoModal {...defaultProps} onClose={onClose} />)
 
       fireEvent.keyDown(window, { key: 'Escape' })

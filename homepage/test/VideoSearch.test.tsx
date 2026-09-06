@@ -1,10 +1,10 @@
-import { describe, it, expect, vi } from 'vitest';
+import { describe, it, expect, mock } from 'bun:test';
 import { render, screen, fireEvent } from '@testing-library/react';
 import { VideoSearch } from '../src/components/VideoSearch';
 
 describe('VideoSearch', () => {
     it('renders search input with initial query', () => {
-        const setSearchQuery = vi.fn();
+        const setSearchQuery = mock(() => {});
         render(<VideoSearch searchQuery="test query" setSearchQuery={setSearchQuery} />);
 
         const input = screen.getByPlaceholderText(/search/i);
@@ -13,7 +13,7 @@ describe('VideoSearch', () => {
     });
 
     it('calls setSearchQuery on change', () => {
-        const setSearchQuery = vi.fn();
+        const setSearchQuery = mock(() => {});
         render(<VideoSearch searchQuery="" setSearchQuery={setSearchQuery} />);
 
         const input = screen.getByPlaceholderText(/search/i);
@@ -23,7 +23,7 @@ describe('VideoSearch', () => {
     });
 
     it('renders clear button when query is present', () => {
-        const setSearchQuery = vi.fn();
+        const setSearchQuery = mock(() => {});
         render(<VideoSearch searchQuery="some query" setSearchQuery={setSearchQuery} />);
 
         const clearButton = screen.getByRole('button');
@@ -31,7 +31,7 @@ describe('VideoSearch', () => {
     });
 
     it('calls setSearchQuery with empty string when cleared', () => {
-        const setSearchQuery = vi.fn();
+        const setSearchQuery = mock(() => {});
         render(<VideoSearch searchQuery="some query" setSearchQuery={setSearchQuery} />);
 
         const clearButton = screen.getByRole('button');

@@ -1,16 +1,103 @@
-import { expect, afterEach, vi, beforeEach } from 'vitest'
-import { cleanup } from '@testing-library/react'
-import * as matchers from '@testing-library/jest-dom/matchers'
+import { Window } from 'happy-dom'
+import { afterEach, beforeEach, expect, mock, spyOn } from 'bun:test'
 
-extendExpect(expect, matchers)
+/**
+ * bun:test preload (see bunfig.toml `[test] preload`).
+ *
+ * Runs once before any test file is evaluated. Order matters:
+ * DOM globals must exist before `@testing-library/dom` is imported
+ * anywhere, because `screen` binds to `document.body` at import time.
+ * For the same reason the testing-library imports below are dynamic.
+ */
+
+// happy-dom globals, GlobalRegistrator-style: window === globalThis,
+// so stubbing a global (e.g. `location`) also affects `window.*`.
+const win: any = new Window({ url: 'http://localhost:3000/' })
+const g: any = globalThis
+for (const key of Object.getOwnPropertyNames(win)) {
+  if (key === 'window') continue
+  if (!(key in g)) {
+    try {
+      g[key] = win[key]
+    } catch {
+      // Read-only global (e.g. crypto) — keep the runtime's own.
+    }
+  }
+}
+// Bun ships a subset of DOM globals (Event, EventTarget, ...). Force the
+// happy-dom implementations so instanceof/dispatchEvent brand checks agree
+// with the happy-dom nodes tests render into.
+for (const key of ['Event', 'CustomEvent', 'EventTarget', 'DOMException', 'document', 'navigator']) {
+  try {
+    g[key] = win[key]
+  } catch {
+    // Read-only global — keep the runtime's own.
+  }
+}
+// Listener functions must register on the happy-dom window, otherwise
+// window.dispatchEvent would hit the runtime's native EventTarget and
+// reject happy-dom events with ERR_INVALID_ARG_TYPE.
+g.addEventListener = win.addEventListener.bind(win)
+g.removeEventListener = win.removeEventListener.bind(win)
+g.dispatchEvent = win.dispatchEvent.bind(win)
+g.window = g
+g.self = g
+
+// happy-dom implements Element.animate with real (async) WAAPI semantics:
+// cancelled animations reject with AbortError, which bun:test attributes
+// to whichever test happens to be running. Stub it — tests assert DOM
+// state, not animation frames.
+const inertAnimation = () => ({
+  finished: Promise.resolve(),
+  ready: Promise.resolve(),
+  cancel() {},
+  play() {},
+  pause() {},
+  reverse() {},
+  finish() {},
+  commitStyles() {},
+  persist() {},
+  onfinish: null,
+  oncancel: null,
+  onremove: null,
+  playState: 'finished',
+  pending: false,
+  currentTime: 0,
+  startTime: 0,
+  playbackRate: 1,
+  id: '',
+  timeline: null,
+  effect: null,
+  addEventListener() {},
+  removeEventListener() {},
+  dispatchEvent() {
+    return true
+  }
+})
+for (const proto of [g.Element?.prototype, g.HTMLElement?.prototype, g.SVGElement?.prototype]) {
+  if (proto) {
+    try {
+      proto.animate = function () {
+        return inertAnimation()
+      }
+    } catch {
+      // Non-configurable — keep the native implementation.
+    }
+  }
+}
+
+// Dynamic imports AFTER globals exist (see note above).
+const matchers = await import('@testing-library/jest-dom/matchers')
+;(expect as any).extend(matchers)
+const { cleanup } = await import('@testing-library/react')
 
 /**
  * Assign a mock to `global.fetch` without triggering TS2741.
  *
  * Bun types declare a `fetch` namespace with a `preconnect` static method,
- * so `global.fetch = vi.fn(...)` fails because `vi.fn()` doesn't carry that
+ * so `global.fetch = mock(...)` fails because the mock doesn't carry that
  * property. This helper encapsulates the single `as any` cast so every
- * test file can call `mockFetch(vi.fn(...))` instead.
+ * test file can call `mockFetch(mock(...))` instead.
  */
 // biome-ignore lint/suspicious/noExplicitAny: single cast to work around Bun fetch namespace
 export function mockFetch(fn: any): void {
@@ -51,7 +138,7 @@ if (typeof window !== 'undefined') {
   })
 }
 if (typeof process !== 'undefined' && (process as any).on) {
-  // Prevent Node from exiting on these rejections during vitest
+  // Prevent the runner from exiting on these rejections during tests
   ;(process as any).on('unhandledRejection', (reason: any) => {
     const msg = reason?.message ?? String(reason ?? '')
     const name = reason?.name ?? ''
@@ -68,32 +155,33 @@ if (typeof process !== 'undefined' && (process as any).on) {
 
 // Global console mock setup - silence console output during tests
 beforeEach(() => {
-  vi.spyOn(console, 'log').mockImplementation(() => {})
-  vi.spyOn(console, 'warn').mockImplementation(() => {})
-  vi.spyOn(console, 'error').mockImplementation(() => {})
-  vi.spyOn(console, 'info').mockImplementation(() => {})
-  vi.spyOn(console, 'debug').mockImplementation(() => {})
+  spyOn(console, 'log').mockImplementation(() => {})
+  spyOn(console, 'warn').mockImplementation(() => {})
+  spyOn(console, 'error').mockImplementation(() => {})
+  spyOn(console, 'info').mockImplementation(() => {})
+  spyOn(console, 'debug').mockImplementation(() => {})
 })
 
 afterEach(() => {
   cleanup()
-  vi.restoreAllMocks()
+  mock.restore()
 })
 
+// Plain no-op observers (not mock() instances, so mock.restore() can't clear them).
 class ResizeObserverMock {
-  observe = vi.fn()
-  unobserve = vi.fn()
-  disconnect = vi.fn()
+  observe() {}
+  unobserve() {}
+  disconnect() {}
 }
 
 class IntersectionObserverMock {
-  observe = vi.fn()
-  unobserve = vi.fn()
-  disconnect = vi.fn()
+  observe() {}
+  unobserve() {}
+  disconnect() {}
 }
 
-global.ResizeObserver = ResizeObserverMock as any
-global.IntersectionObserver = IntersectionObserverMock as any
+g.ResizeObserver = ResizeObserverMock
+g.IntersectionObserver = IntersectionObserverMock
 
 // Mock fetch for API route testing
 const mockVideoMetadata = {
@@ -115,7 +203,7 @@ const mockVideoMetadata = {
 }
 
 mockFetch(
-  vi.fn((url: string) => {
+  mock((url: string) => {
     if (url.includes('/api/videos/metadata')) {
       return Promise.resolve({
         ok: true,
@@ -131,9 +219,3 @@ mockFetch(
     return Promise.reject(new Error('Not mocked'))
   })
 )
-
-function extendExpect(expect: any, matchers: any) {
-  Object.keys(matchers).forEach((key) => {
-    expect.extend({ [key]: matchers[key] })
-  })
-}
