@@ -2,7 +2,7 @@
 type: tag
 tags: [frontend-architecture]
 sources: 3
-updated: 2026-09-06
+updated: 2026-09-11
 ---
 
 # frontend architecture
@@ -13,7 +13,7 @@ Videos connected by the topic `frontend architecture`.
 
 - [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 847 views · Feb 13, 2026 · [Details](../details/cWozmWrqnxs.md)
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 42 views · Feb 20, 2026 · [Details](../details/3ybGkjogcFQ.md)
-- [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 33 views · Feb 16, 2026 · [Details](../details/5Vloo08zQ7o.md)
+- [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 34 views · Feb 16, 2026 · [Details](../details/5Vloo08zQ7o.md)
 
 ---
-*Auto-generated on Sep 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 11, 2026. Back to [topic index](index.md).*

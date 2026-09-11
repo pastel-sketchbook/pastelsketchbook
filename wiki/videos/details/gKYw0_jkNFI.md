@@ -34,7 +34,7 @@ This Korean-language video explores the abacus (soroban/suanpan) as a brain trai
 - [Orchard: An Open Foundation for Agentic Modeling Research](https://youtu.be/knxE_Pg2JBA) — Kubernetes · 15 views · Aug 27, 2026 · [Details](knxE_Pg2JBA.md) (shared: `training` · `research`)
 - [The 10-Lens Research Analysis Framework](https://youtu.be/NztD5fYpXcg) — Development · 32 views · Mar 7, 2026 · [Details](NztD5fYpXcg.md) (shared: `research`)
 - [Gyeongju: El Museo Sin Muros](https://youtu.be/4h84JgKkt94) — Korea · 11 views · Jan 2, 2026 · [Details](4h84JgKkt94.md) (shared: `history`)
-- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 72 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `cognitive`)
+- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 74 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `cognitive`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [programming](../programming.md) · [index](../index.md).*

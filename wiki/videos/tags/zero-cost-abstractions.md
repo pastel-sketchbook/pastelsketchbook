@@ -2,7 +2,7 @@
 type: tag
 tags: [zero-cost-abstractions]
 sources: 3
-updated: 2026-09-06
+updated: 2026-09-11
 ---
 
 # zero-cost abstractions
@@ -16,4 +16,4 @@ Videos connected by the topic `zero-cost abstractions`.
 - [zig-duckdb-ext](https://youtu.be/ymYtSum-2qc) — Development · 65 views · Mar 24, 2026 · [Details](../details/ymYtSum-2qc.md)
 
 ---
-*Auto-generated on Sep 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 11, 2026. Back to [topic index](index.md).*

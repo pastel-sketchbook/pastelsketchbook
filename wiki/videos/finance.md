@@ -3,7 +3,7 @@ type: category
 category: finance
 tags: [curiosity, aidc, ai, robotics, tax free, rmd, sovereign, 2026, mandu, levy]
 sources: 52
-updated: 2026-09-06
+updated: 2026-09-11
 ---
 
 # Finance
@@ -24,7 +24,7 @@ updated: 2026-09-06
 ### AI & ML (10 videos)
 
 - [Timing the 2026-2030 Optical Super-Cycle](https://youtu.be/IfOAA7cOu6o) -- 21 views, Aug 17, 2026 · [Details](details/IfOAA7cOu6o.md)
-- [The Neuromorphic AI Stack](https://youtu.be/Cmnangq7Ndw) -- 17 views, Aug 12, 2026 · [Details](details/Cmnangq7Ndw.md)
+- [The Neuromorphic AI Stack](https://youtu.be/Cmnangq7Ndw) -- 16 views, Aug 12, 2026 · [Details](details/Cmnangq7Ndw.md)
 - [The 2026 U.S. Fiber Ecosystem](https://youtu.be/QWQcpxHE6E8) -- 7 views, Aug 9, 2026 · [Details](details/QWQcpxHE6E8.md)
 - [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) -- 20 views, Aug 5, 2026 · [Details](details/mMVWnnAqPQk.md)
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) -- 45 views, Jul 29, 2026 · [Details](details/BZm2J9sLEp8.md)
@@ -40,7 +40,7 @@ updated: 2026-09-06
 - [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) -- 20 views, Aug 5, 2026 · [Details](details/mMVWnnAqPQk.md)
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) -- 45 views, Jul 29, 2026 · [Details](details/BZm2J9sLEp8.md)
 - [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) -- 28 views, Jun 7, 2026 · [Details](details/8vJLWsfheRE.md)
-- [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) -- 33 views, Jun 3, 2026 · [Details](details/P-QVC5lOMbU.md)
+- [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) -- 36 views, Jun 3, 2026 · [Details](details/P-QVC5lOMbU.md)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) -- 44 views, May 25, 2026 · [Details](details/3bcmjx5F5Xs.md)
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) -- 8 views, May 20, 2026 · [Details](details/Dx8pFmojxL4.md)
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) -- 47 views, Mar 26, 2026 · [Details](details/hnMR8rdGCnU.md)
@@ -52,13 +52,13 @@ updated: 2026-09-06
 |---|-------|-------|-----------|------|--------|
 | 1 | The Golden Decade Architecture | 36 | Aug 26, 2026 | [Watch](https://youtu.be/f5Ld5cAhUZA) | [Wiki](details/f5Ld5cAhUZA.md) |
 | 2 | Timing the 2026-2030 Optical Super-Cycle | 21 | Aug 17, 2026 | [Watch](https://youtu.be/IfOAA7cOu6o) | [Wiki](details/IfOAA7cOu6o.md) |
-| 3 | Navigating Growth and Taxes from 65 to 75 | 1 | Aug 13, 2026 | [Watch](https://youtu.be/8zivk3Mxuf0) | [Wiki](details/8zivk3Mxuf0.md) |
-| 4 | The Neuromorphic AI Stack | 17 | Aug 12, 2026 | [Watch](https://youtu.be/Cmnangq7Ndw) | [Wiki](details/Cmnangq7Ndw.md) |
+| 3 | Navigating Growth and Taxes from 65 to 75 | 3 | Aug 13, 2026 | [Watch](https://youtu.be/8zivk3Mxuf0) | [Wiki](details/8zivk3Mxuf0.md) |
+| 4 | The Neuromorphic AI Stack | 16 | Aug 12, 2026 | [Watch](https://youtu.be/Cmnangq7Ndw) | [Wiki](details/Cmnangq7Ndw.md) |
 | 5 | The 2026 U.S. Fiber Ecosystem | 7 | Aug 9, 2026 | [Watch](https://youtu.be/QWQcpxHE6E8) | [Wiki](details/QWQcpxHE6E8.md) |
 | 6 | Kimi K3 Infrastructure Economics | 17 | Aug 6, 2026 | [Watch](https://youtu.be/lEzp0tdrfFc) | [Wiki](details/lEzp0tdrfFc.md) |
 | 7 | The Architecture of Artificial Intelligence | 20 | Aug 5, 2026 | [Watch](https://youtu.be/mMVWnnAqPQk) | [Wiki](details/mMVWnnAqPQk.md) |
 | 8 | The California vs. Texas Economic Rivalry | 30 | Aug 3, 2026 | [Watch](https://youtu.be/DMfE_eElLAc) | [Wiki](details/DMfE_eElLAc.md) |
-| 9 | SOMA: Unifying Parametric Human Body Models | 40 | Aug 2, 2026 | [Watch](https://youtu.be/yZLe26ZkBT4) | [Wiki](details/yZLe26ZkBT4.md) |
+| 9 | SOMA: Unifying Parametric Human Body Models | 41 | Aug 2, 2026 | [Watch](https://youtu.be/yZLe26ZkBT4) | [Wiki](details/yZLe26ZkBT4.md) |
 | 10 | Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers | 45 | Jul 29, 2026 | [Watch](https://youtu.be/BZm2J9sLEp8) | [Wiki](details/BZm2J9sLEp8.md) |
 | 11 | The Sovereign AI Utility | 23 | Jul 28, 2026 | [Watch](https://youtu.be/izH8Nzr3DLA) | [Wiki](details/izH8Nzr3DLA.md) |
 | 12 | Systematic Momentum Execution | 5 | Jul 22, 2026 | [Watch](https://youtu.be/md9nXDH1u7Q) | [Wiki](details/md9nXDH1u7Q.md) |
@@ -70,8 +70,8 @@ updated: 2026-09-06
 | 18 | South Korea's $1 Trillion Al & Semiconductor Blueprint | 9 | Jun 29, 2026 | [Watch](https://youtu.be/K1wUGKw3scU) | [Wiki](details/K1wUGKw3scU.md) |
 | 19 | Japan's Sovereign Cloud Blueprint | 34 | Jun 16, 2026 | [Watch](https://youtu.be/ZQyL7MT7k60) | [Wiki](details/ZQyL7MT7k60.md) |
 | 20 | The Architecture of Opportunity | 28 | Jun 7, 2026 | [Watch](https://youtu.be/8vJLWsfheRE) | [Wiki](details/8vJLWsfheRE.md) |
-| 21 | Cognitive Lenses in Modern Design | 26 | Jun 5, 2026 | [Watch](https://youtu.be/GmUKi-ZPOYU) | [Wiki](details/GmUKi-ZPOYU.md) |
-| 22 | The Architecture of Insurance Pricing | 33 | Jun 3, 2026 | [Watch](https://youtu.be/P-QVC5lOMbU) | [Wiki](details/P-QVC5lOMbU.md) |
+| 21 | Cognitive Lenses in Modern Design | 27 | Jun 5, 2026 | [Watch](https://youtu.be/GmUKi-ZPOYU) | [Wiki](details/GmUKi-ZPOYU.md) |
+| 22 | The Architecture of Insurance Pricing | 36 | Jun 3, 2026 | [Watch](https://youtu.be/P-QVC5lOMbU) | [Wiki](details/P-QVC5lOMbU.md) |
 | 23 | The Strategic Guide to Annuities | 38 | May 28, 2026 | [Watch](https://youtu.be/UGQ-ItKwJNw) | [Wiki](details/UGQ-ItKwJNw.md) |
 | 24 | The 10-Year Al Investing Architecture | 44 | May 25, 2026 | [Watch](https://youtu.be/3bcmjx5F5Xs) | [Wiki](details/3bcmjx5F5Xs.md) |
 | 25 | The 2026 Enterprise AI Blueprint | 34 | May 21, 2026 | [Watch](https://youtu.be/9xDzB24tO4I) | [Wiki](details/9xDzB24tO4I.md) |
@@ -82,7 +82,7 @@ updated: 2026-09-06
 | 30 | The Orbital Compute Blueprint | 78 | May 2, 2026 | [Watch](https://youtu.be/M_NbzCCHFp0) | [Wiki](details/M_NbzCCHFp0.md) |
 | 31 | Decoding the Black Box of Global Finance | 47 | Apr 17, 2026 | [Watch](https://youtu.be/1smShC18TWA) | [Wiki](details/1smShC18TWA.md) |
 | 32 | The End of the American Penny | 3 | Apr 15, 2026 | [Watch](https://youtu.be/vzwjAlEz_bI) | [Wiki](details/vzwjAlEz_bI.md) |
-| 33 | Nesting in Global Finance | 7 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) | [Wiki](details/YYVxMSqBqe8.md) |
+| 33 | Nesting in Global Finance | 8 | Apr 12, 2026 | [Watch](https://youtu.be/YYVxMSqBqe8) | [Wiki](details/YYVxMSqBqe8.md) |
 | 34 | The Mystery of the Nickel Coke | 15 | Apr 10, 2026 | [Watch](https://youtu.be/l9UUqD2Bz2E) | [Wiki](details/l9UUqD2Bz2E.md) |
 | 35 | The Final Five Years | 16 | Apr 7, 2026 | [Watch](https://youtu.be/HFmkEvxyJE4) | [Wiki](details/HFmkEvxyJE4.md) |
 | 36 | The Architecture of Fulfillment | 47 | Mar 26, 2026 | [Watch](https://youtu.be/hnMR8rdGCnU) | [Wiki](details/hnMR8rdGCnU.md) |
@@ -115,4 +115,4 @@ updated: 2026-09-06
 - [Security](security.md) -- shared tags: `curiosity`, `ai`
 
 ---
-*Auto-generated on Sep 6, 2026. Back to [index](index.md).*
+*Auto-generated on Sep 11, 2026. Back to [index](index.md).*

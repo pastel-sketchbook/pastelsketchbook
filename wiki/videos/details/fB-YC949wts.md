@@ -30,7 +30,7 @@ This talk compares two architectural paradigms for deploying AI in hybrid cloud 
 
 ## Related Videos
 
-- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 19 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `deployment` · `model` · `vllm`)
+- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 27 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `deployment` · `model` · `vllm`)
 - [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 22 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `model` · `serving` · `kubernetes`)
 - [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 29 views · Feb 19, 2026 · [Details](rk_3xU9OF-k.md) (shared: `kubernetes` · `platform` · `event`)
 - [Architecting AKS Networking - Trade-offs](https://youtu.be/F09-7mNt3F4) — Kubernetes · 16 views · Mar 12, 2026 · [Details](F09-7mNt3F4.md) (shared: `kubernetes` · `scaling` · `models`)

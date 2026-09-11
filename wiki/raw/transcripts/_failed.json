@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-06T14:06:18.044Z",
-  "runLabel": "single: 1PH7UB24xps",
-  "attempted": 1,
+  "generatedAt": "2026-09-11T11:00:56.552Z",
+  "runLabel": "all videos (excl. shorts/hidden)",
+  "attempted": 475,
   "written": 0,
-  "skipped": 0,
+  "skipped": 474,
   "failedCount": 1,
   "failed": [
     {

@@ -2,7 +2,7 @@
 type: tag
 tags: [workload-identity]
 sources: 3
-updated: 2026-09-06
+updated: 2026-09-11
 ---
 
 # workload identity
@@ -16,4 +16,4 @@ Videos connected by the topic `workload identity`.
 - [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) — Security · 11 views · Aug 16, 2026 · [Details](../details/LGKBWq8g1u4.md)
 
 ---
-*Auto-generated on Sep 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 11, 2026. Back to [topic index](index.md).*

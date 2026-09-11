@@ -30,11 +30,11 @@ This presentation addresses the "two places problem" in Kubernetes configuration
 
 ## Related Videos
 
-- [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 21 views · Mar 16, 2026 · [Details](to1PClyd0YA.md) (shared: `cue` · `configuration management` · `configuration`)
+- [Architecting Kubernetes with CUE](https://youtu.be/to1PClyd0YA) — Kubernetes · 22 views · Mar 16, 2026 · [Details](to1PClyd0YA.md) (shared: `cue` · `configuration management` · `configuration`)
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) — Kubernetes · 30 views · Mar 16, 2026 · [Details](LUOX5xkSyi0.md) (shared: `cue` · `configuration management` · `configuration`)
 - [Beyond Static Configuration](https://youtu.be/okVlu1qseI4) — Kubernetes · 25 views · Feb 15, 2026 · [Details](okVlu1qseI4.md) (shared: `cue` · `configuration management` · `configuration`)
 - [The Golden Path](https://youtu.be/ORjARjbukhY) — Kubernetes · 25 views · Feb 21, 2026 · [Details](ORjARjbukhY.md) (shared: `platform engineering` · `platform` · `engineering`)
-- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 72 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `platform` · `engineering`)
+- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 74 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `platform` · `engineering`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

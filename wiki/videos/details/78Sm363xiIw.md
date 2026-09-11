@@ -38,7 +38,7 @@ This blueprint presents a first-principles framework for choosing the right AWS 
 - [ScyllaDB: The Next-Generation NoSQL Platform](https://youtu.be/mYClRFIlsFc) — Kubernetes · 13 views · Feb 19, 2026 · [Details](mYClRFIlsFc.md) (shared: `database` · `dynamodb`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `database` · `selection`)
 - [Migrating Workloads from AWS to Azure](https://youtu.be/RLlEbcXO6k8) — Kubernetes · 9 views · Mar 22, 2026 · [Details](RLlEbcXO6k8.md) (shared: `aws` · `migration`)
-- [The Cloud Rosetta Stone](https://youtu.be/PMgUhFxrjPc) — Kubernetes · 23 views · Apr 18, 2026 · [Details](PMgUhFxrjPc.md) (shared: `aws` · `database`)
+- [The Cloud Rosetta Stone](https://youtu.be/PMgUhFxrjPc) — Kubernetes · 24 views · Apr 18, 2026 · [Details](PMgUhFxrjPc.md) (shared: `aws` · `database`)
 - [Architecting Cost Efficiency for Al Workloads](https://youtu.be/eaPXjvB194w) — Kubernetes · 25 views · Apr 25, 2026 · [Details](eaPXjvB194w.md) (shared: `cost` · `modeling`)
 
 ---

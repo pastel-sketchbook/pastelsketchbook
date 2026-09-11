@@ -39,7 +39,7 @@ Introduces ADR (agentic AI detection and response), an enterprise agentic securi
 - [Azure Linux 4.0 and the Al-Native Cloud Era](https://youtu.be/o9x4daXS4Rk) — Kubernetes · 33 views · Jul 5, 2026 · [Details](o9x4daXS4Rk.md) (shared: `agentic` · `host`)
 - [Orchard: An Open Foundation for Agentic Modeling Research](https://youtu.be/knxE_Pg2JBA) — Kubernetes · 15 views · Aug 27, 2026 · [Details](knxE_Pg2JBA.md) (shared: `agentic` · `bench`)
 - [Deploying Istio Service Mesh on AWS](https://youtu.be/hs7CiLpLgnY) — Kubernetes · 3 views · Jul 23, 2026 · [Details](hs7CiLpLgnY.md) (shared: `enterprise` · `agent`)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 255 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `agentic` · `security` · `mcp`)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 268 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `agentic` · `security` · `mcp`)
 
 ---
 *Auto-generated on Aug 28, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

@@ -34,7 +34,7 @@ This Korean-language tutorial presents a systematic four-step method for transla
 - [타입스크립트와 번으로 만드는 TODO 리스트](https://youtu.be/D1Hth_78ftg) — Programming · 9 views · Jan 10, 2026 · [Details](D1Hth_78ftg.md) (shared: `typescript` · `programming` · `korean programming tutorial`)
 - [타입스크립트와 번으로 배우는 프로그래밍 1](https://youtu.be/T5FjMjTQCBI) — Programming · 81 views · Jan 10, 2026 · [Details](T5FjMjTQCBI.md) (shared: `typescript` · `type` · `programming`)
 - [알고리즘 완전 정복](https://youtu.be/iEn_PMcBlDk) — Programming · 5 views · Jan 14, 2026 · [Details](iEn_PMcBlDk.md) (shared: `typescript` · `algorithm` · `recursion`)
-- [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 2 views · Jan 6, 2026 · [Details](z_Ydy_-cI1U.md) (shared: `problem decomposition` · `problem` · `decomposition`)
+- [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 3 views · Jan 6, 2026 · [Details](z_Ydy_-cI1U.md) (shared: `problem decomposition` · `problem` · `decomposition`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [programming](../programming.md) · [index](../index.md).*
