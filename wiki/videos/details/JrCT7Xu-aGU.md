@@ -38,8 +38,8 @@ This talk presents a Rust-based blueprint for enterprise secret management in cl
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 24 views · Apr 1, 2026 · [Details](BiYKKVsJROk.md) (shared: `tls` · `zero` · `trust`)
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 24 views · Jan 14, 2026 · [Details](A4-foXsdQiA.md) (shared: `tls` · `zero` · `trust`)
 - [Tailscale: The Modular Network Operating System](https://youtu.be/PVwzHpsrVcc) — Kubernetes · 13 views · Aug 10, 2026 · [Details](PVwzHpsrVcc.md) (shared: `handshake` · `key` · `zero`)
+- [Modernizing Kubernetes Secrets Management](https://youtu.be/LgFYohNPByM) — Kubernetes · 30 views · Sep 6, 2026 · [Details](LgFYohNPByM.md) (shared: `secrets` · `exchange` · `rotation`)
 - [Zero-Trust Database Credentials in Kubernetes](https://youtu.be/nBg53bAuc9A) — Kubernetes · 38 views · Sep 2, 2026 · [Details](nBg53bAuc9A.md) (shared: `secrets` · `credential` · `rotation`)
-- [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `zero` · `trust`)
 
 ---
 *Auto-generated on Jun 29, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

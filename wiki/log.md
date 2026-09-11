@@ -662,3 +662,11 @@ Backward check: scanned all 475 public videos for missing transcripts/details â€
 ## [2026-09-11] ingest | Video Metadata Sync
 
 Synced 480 videos across 6 categories (korea=20, finance=52, kubernetes=101, development=276, security=22, programming=9).
+
+## [2026-09-11] ingest | Video Transcripts
+
+Exported 1 transcript files (single: sSIDBOrX_Ig) to `wiki/raw/transcripts`.
+
+## [2026-09-11] ingest | Video Details
+
+Generated 1 video detail pages (single: sSIDBOrX_Ig).

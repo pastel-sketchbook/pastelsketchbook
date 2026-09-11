@@ -171,8 +171,8 @@ updated: 2026-09-11
 
 ### Architecture (38 videos)
 
-- [The Architecture of KataGo](https://youtu.be/sSIDBOrX_Ig) -- 22 views, Sep 10, 2026
-- [The Architecture of Autonomous Data](https://youtu.be/6NSzUlsyqsw) -- 23 views, Sep 9, 2026
+- [The Architecture of KataGo](https://youtu.be/sSIDBOrX_Ig) -- 22 views, Sep 10, 2026 · [Details](details/sSIDBOrX_Ig.md)
+- [The Architecture of Autonomous Data](https://youtu.be/6NSzUlsyqsw) -- 23 views, Sep 9, 2026 · [Details](details/6NSzUlsyqsw.md)
 - [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) -- 38 views, Aug 14, 2026 · [Details](details/nSMpZpj6Jzc.md)
 - [RB Simulation Architecture](https://youtu.be/AbCc2yfz2uw) -- 7 views, Jun 30, 2026 · [Details](details/AbCc2yfz2uw.md)
 - [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) -- 10 views, Jun 23, 2026 · [Details](details/o3ba6XdMQA0.md)
@@ -212,7 +212,7 @@ updated: 2026-09-11
 
 ### Go (37 videos)
 
-- [The Architecture of KataGo](https://youtu.be/sSIDBOrX_Ig) -- 22 views, Sep 10, 2026
+- [The Architecture of KataGo](https://youtu.be/sSIDBOrX_Ig) -- 22 views, Sep 10, 2026 · [Details](details/sSIDBOrX_Ig.md)
 - [Governing Al Agents in Enterprise .NET Development](https://youtu.be/A6hH4t9MaSQ) -- 20 views, Aug 23, 2026 · [Details](details/A6hH4t9MaSQ.md)
 - [Go 1.27: Future-Proofing the Foundation](https://youtu.be/g0b4WhDKyE8) -- 332 views, Aug 20, 2026 · [Details](details/g0b4WhDKyE8.md)
 - [The Engine of a Modern Task Runner](https://youtu.be/sMo3KnNup34) -- 105 views, Aug 1, 2026 · [Details](details/sMo3KnNup34.md)
@@ -294,8 +294,8 @@ updated: 2026-09-11
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | The Architecture of KataGo | 22 | Sep 10, 2026 | [Watch](https://youtu.be/sSIDBOrX_Ig) |  |
-| 2 | The Architecture of Autonomous Data | 23 | Sep 9, 2026 | [Watch](https://youtu.be/6NSzUlsyqsw) |  |
+| 1 | The Architecture of KataGo | 22 | Sep 10, 2026 | [Watch](https://youtu.be/sSIDBOrX_Ig) | [Wiki](details/sSIDBOrX_Ig.md) |
+| 2 | The Architecture of Autonomous Data | 23 | Sep 9, 2026 | [Watch](https://youtu.be/6NSzUlsyqsw) | [Wiki](details/6NSzUlsyqsw.md) |
 | 3 | Digital Transformation 2.0 | 83 | Sep 3, 2026 | [Watch](https://youtu.be/pnbcAqCaKh0) | [Wiki](details/pnbcAqCaKh0.md) |
 | 4 | htmx 4.0.0 | 1.1K | Aug 29, 2026 | [Watch](https://youtu.be/Au6GKyflvGk) | [Wiki](details/Au6GKyflvGk.md) |
 | 5 | Governing Al Agents in Enterprise .NET Development | 20 | Aug 23, 2026 | [Watch](https://youtu.be/A6hH4t9MaSQ) | [Wiki](details/A6hH4t9MaSQ.md) |

@@ -34,7 +34,7 @@ This video explores the mathematical foundations of ALOHA random access network 
 - [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 23 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `networking` · `communication`)
 - [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 90 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `protocol` · `networking`)
 - [Parallel Agents in Zed](https://youtu.be/0wth_46Vtmo) — Development · 153 views · Aug 4, 2026 · [Details](0wth_46Vtmo.md) (shared: `protocol` · `collision`)
-- [hexcap: Elevating Terminal Packet Capture](https://youtu.be/FM6zp63maS8) — Development · 64 views · Apr 20, 2026 · [Details](FM6zp63maS8.md) (shared: `protocol`)
+- [The Architecture of KataGo](https://youtu.be/sSIDBOrX_Ig) — Development · 22 views · Sep 10, 2026 · [Details](sSIDBOrX_Ig.md) (shared: `protocol` · `analysis`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

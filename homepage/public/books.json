@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T01:23:16.000Z",
+  "generatedAt": "2026-09-11T11:10:00Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -26,7 +26,8 @@
             "ZECKRFPN8BA",
             "doS_Ii1uIRA",
             "WeVWqluXtlA",
-            "US99s1ISCkA"
+            "US99s1ISCkA",
+            "wZUGqLOEEuA"
           ],
           "tags": [
             "kubernetes",
@@ -66,7 +67,8 @@
             "PVwzHpsrVcc",
             "LGKBWq8g1u4",
             "iVb4Pu8CAHE",
-            "nBg53bAuc9A"
+            "nBg53bAuc9A",
+            "LgFYohNPByM"
           ],
           "tags": [
             "zero-trust",
@@ -340,7 +342,8 @@
             "6WRiPikxs-Q",
             "FM6zp63maS8",
             "cuA7G01T7_U",
-            "9z6mOWQgU84"
+            "9z6mOWQgU84",
+            "mGd2IK4N_ZE"
           ],
           "tags": [
             "event-driven",
@@ -680,7 +683,9 @@
             "0wth_46Vtmo",
             "lEzp0tdrfFc",
             "nSMpZpj6Jzc",
-            "Cmnangq7Ndw"
+            "Cmnangq7Ndw",
+            "sSIDBOrX_Ig",
+            "6NSzUlsyqsw"
           ],
           "tags": [
             "onnx",

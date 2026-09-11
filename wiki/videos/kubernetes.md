@@ -195,9 +195,9 @@ updated: 2026-09-11
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | The Kubernetes Agent Operating System | 43 | Sep 8, 2026 | [Watch](https://youtu.be/wZUGqLOEEuA) |  |
-| 2 | Architecting Continuous Al Systems on Substrate | 76 | Sep 7, 2026 | [Watch](https://youtu.be/mGd2IK4N_ZE) |  |
-| 3 | Modernizing Kubernetes Secrets Management | 30 | Sep 6, 2026 | [Watch](https://youtu.be/LgFYohNPByM) |  |
+| 1 | The Kubernetes Agent Operating System | 43 | Sep 8, 2026 | [Watch](https://youtu.be/wZUGqLOEEuA) | [Wiki](details/wZUGqLOEEuA.md) |
+| 2 | Architecting Continuous Al Systems on Substrate | 76 | Sep 7, 2026 | [Watch](https://youtu.be/mGd2IK4N_ZE) | [Wiki](details/mGd2IK4N_ZE.md) |
+| 3 | Modernizing Kubernetes Secrets Management | 30 | Sep 6, 2026 | [Watch](https://youtu.be/LgFYohNPByM) | [Wiki](details/LgFYohNPByM.md) |
 | 4 | The Stateful Al Playbook | 60 | Sep 5, 2026 | [Watch](https://youtu.be/US99s1ISCkA) | [Wiki](details/US99s1ISCkA.md) |
 | 5 | Architecting Multi-Rail Fabrics for On-Premise AI Inference | 131 | Sep 4, 2026 | [Watch](https://youtu.be/sQz9WyN2s04) | [Wiki](details/sQz9WyN2s04.md) |
 | 6 | Zero-Trust Database Credentials in Kubernetes | 38 | Sep 2, 2026 | [Watch](https://youtu.be/nBg53bAuc9A) | [Wiki](details/nBg53bAuc9A.md) |
