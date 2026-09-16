@@ -2,7 +2,7 @@
 type: tag
 tags: [duckdb]
 sources: 3
-updated: 2026-09-11
+updated: 2026-09-16
 ---
 
 # duckdb
@@ -13,7 +13,7 @@ Videos connected by the topic `duckdb`.
 
 - [MotherDuck: Serverless DuckDB in the Cloud & Client](https://youtu.be/BsiQrEaF3kU) — Kubernetes · 30 views · Feb 4, 2026 · [Details](../details/BsiQrEaF3kU.md)
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 21 views · Mar 14, 2026 · [Details](../details/gu-5cim8mpA.md)
-- [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) — Kubernetes · 19 views · Mar 13, 2026 · [Details](../details/u60g2nMtVi4.md)
+- [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) — Kubernetes · 20 views · Mar 13, 2026 · [Details](../details/u60g2nMtVi4.md)
 
 ---
-*Auto-generated on Sep 11, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 15, 2026. Back to [topic index](index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [pluggable-storage-trait]
 sources: 2
-updated: 2026-09-11
+updated: 2026-09-16
 ---
 
 # pluggable storage trait
@@ -12,7 +12,7 @@ Videos connected by the topic `pluggable storage trait`.
 ## Videos
 
 - [Introducing ExtendDB](https://youtu.be/LxI5YjCUswI) — Kubernetes · 66 views · May 24, 2026 · [Details](../details/LxI5YjCUswI.md)
-- [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 30 views · May 4, 2026 · [Details](../details/UOOkDh4RUbE.md)
+- [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 31 views · May 4, 2026 · [Details](../details/UOOkDh4RUbE.md)
 
 ---
-*Auto-generated on Sep 11, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 15, 2026. Back to [topic index](index.md).*

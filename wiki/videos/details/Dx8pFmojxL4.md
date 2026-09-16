@@ -30,11 +30,11 @@ This talk frames AI providers as the new ISPs, where subscriptions sell cognitiv
 
 ## Related Videos
 
-- [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) — Development · 283 views · Feb 14, 2026 · [Details](kQc99Io3pCo.md) (shared: `context` · `enterprise` · `compliance`)
-- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) — Finance · 34 views · May 21, 2026 · [Details](9xDzB24tO4I.md) (shared: `enterprise` · `data`)
+- [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) — Development · 287 views · Feb 14, 2026 · [Details](kQc99Io3pCo.md) (shared: `context` · `enterprise` · `compliance`)
+- [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) — Finance · 35 views · May 21, 2026 · [Details](9xDzB24tO4I.md) (shared: `enterprise` · `data`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 78 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `economics` · `data`)
+- [The Human Lapidary](https://youtu.be/hsdOBMOGrDc) — Finance · 1 views · Sep 15, 2026 · [Details](hsdOBMOGrDc.md) (shared: `tiers` · `economics`)
 - [Cognitive Lenses in Modern Design](https://youtu.be/GmUKi-ZPOYU) — Finance · 27 views · Jun 5, 2026 · [Details](GmUKi-ZPOYU.md) (shared: `cognitive`)
-- [The Exchange Rate of Your Life](https://youtu.be/MBnVggs6k5g) — Finance · 17 views · Jan 22, 2026 · [Details](MBnVggs6k5g.md) (shared: `rate`)
 
 ---
 *Auto-generated on May 20, 2026. Back to [finance](../finance.md) · [index](../index.md).*

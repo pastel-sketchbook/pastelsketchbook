@@ -670,3 +670,15 @@ Exported 1 transcript files (single: sSIDBOrX_Ig) to `wiki/raw/transcripts`.
 ## [2026-09-11] ingest | Video Details
 
 Generated 1 video detail pages (single: sSIDBOrX_Ig).
+
+## [2026-09-16] ingest | Video Metadata Sync
+
+Synced 485 videos across 6 categories (korea=20, finance=53, kubernetes=102, development=279, security=22, programming=9).
+
+## [2026-09-16] ingest | Video Transcripts
+
+Exported 1 transcript files (single: hsdOBMOGrDc) to `wiki/raw/transcripts`.
+
+## [2026-09-16] ingest | Video Details
+
+Generated 1 video detail pages (single: hsdOBMOGrDc).

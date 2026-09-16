@@ -37,7 +37,7 @@ A master blueprint for scaling 500GB+ frontier models beyond a single node with 
 
 - [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 22 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `disaggregated` · `prefill` · `decode`)
 - [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 27 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `gpu` · `storage` · `kubernetes`)
-- [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 43 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `disaggregated` · `prefill` · `decode`)
+- [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 72 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `disaggregated` · `prefill` · `decode`)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](MIZ0ATwu7C0.md) (shared: `storage` · `kubernetes`)
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 48 views · Jan 16, 2026 · [Details](0U-SUJCmKAU.md) (shared: `storage` · `kubernetes`)
 

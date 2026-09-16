@@ -31,9 +31,9 @@ This video presents Kubernetes as an agent operating system built on two pillars
 ## Related Videos
 
 - [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 22 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `disaggregated` · `prefill` · `decode`)
-- [Architecting Multi-Rail Fabrics for On-Premise AI Inference](https://youtu.be/sQz9WyN2s04) — Kubernetes · 131 views · Sep 4, 2026 · [Details](sQz9WyN2s04.md) (shared: `disaggregated` · `prefill` · `decode`)
+- [Architecting Multi-Rail Fabrics for On-Premise AI Inference](https://youtu.be/sQz9WyN2s04) — Kubernetes · 135 views · Sep 4, 2026 · [Details](sQz9WyN2s04.md) (shared: `disaggregated` · `prefill` · `decode`)
 - [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 27 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `routing` · `llm` · `inference`)
-- [Orchard: An Open Foundation for Agentic Modeling Research](https://youtu.be/knxE_Pg2JBA) — Kubernetes · 15 views · Aug 27, 2026 · [Details](knxE_Pg2JBA.md) (shared: `snapshots` · `sandbox` · `isolation`)
+- [Orchard: An Open Foundation for Agentic Modeling Research](https://youtu.be/knxE_Pg2JBA) — Kubernetes · 16 views · Aug 27, 2026 · [Details](knxE_Pg2JBA.md) (shared: `snapshots` · `sandbox` · `isolation`)
 - [Architecting Kubernetes Operators](https://youtu.be/hvkvH7i8NLc) — Kubernetes · 18 views · May 31, 2026 · [Details](hvkvH7i8NLc.md) (shared: `stateful` · `api`)
 
 ---

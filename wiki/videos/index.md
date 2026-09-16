@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 480
-updated: 2026-09-11
+sources: 485
+updated: 2026-09-16
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 480 |
-| Total Views | 41.6K |
+| Total Videos | 485 |
+| Total Views | 42.5K |
 | Categories | 6 |
-| Last Updated | Sep 11, 2026 |
+| Last Updated | Sep 15, 2026 |
 
 ## Categories
 
@@ -28,23 +28,23 @@ Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 52 videos, 1.2K total views.
+Videos covering personal finance, investing, and economics. 53 videos, 1.2K total views.
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 101 videos, 3.4K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 102 videos, 3.5K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 276 videos, 35.5K total views.
+Videos about software development, tools, workflows, and engineering practices. 279 videos, 36.2K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 22 videos, 953 total views.
+Videos on cybersecurity, application security, and security engineering. 22 videos, 969 total views.
 
 ### [Programming](programming.md)
 
-Videos about programming languages, paradigms, and computer science concepts. 9 videos, 307 total views.
+Videos about programming languages, paradigms, and computer science concepts. 9 videos, 309 total views.
 
 ## Cross-Category Tags
 
@@ -65,8 +65,8 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `2026` | [Finance](finance.md), [Development](development.md) |
 | `levy` | [Finance](finance.md), [Development](development.md) |
 | `notebooklm` | [Finance](finance.md), [Development](development.md) |
+| `rabbitmq` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `event driven` | [Kubernetes](kubernetes.md), [Development](development.md) |
-| `inference` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Sep 11, 2026. See [wiki index](../index.md).*
+*Auto-generated on Sep 15, 2026. See [wiki index](../index.md).*

@@ -35,7 +35,7 @@ A Kubernetes- and AKS-targeted capability reference for the RabbitMQ 4.2.8 Alpin
 
 ## Related Videos
 
-- [Deploying and Operating ClickHouse on AWS EKS](https://youtu.be/NCL_9PdUCc8) — Kubernetes · 14 views · Aug 19, 2026 · [Details](NCL_9PdUCc8.md) (shared: `operator` · `prometheus` · `metrics`)
+- [Deploying and Operating ClickHouse on AWS EKS](https://youtu.be/NCL_9PdUCc8) — Kubernetes · 17 views · Aug 19, 2026 · [Details](NCL_9PdUCc8.md) (shared: `operator` · `prometheus` · `metrics`)
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 48 views · Jan 16, 2026 · [Details](0U-SUJCmKAU.md) (shared: `rabbitmq` · `kubernetes`)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](N4nRAfBZ3BE.md) (shared: `rabbitmq` · `kubernetes`)
 - [Bridging the Mainframe to the Cloud](https://youtu.be/7iWL5-0C66s) — Kubernetes · 26 views · Apr 4, 2026 · [Details](7iWL5-0C66s.md) (shared: `rabbitmq` · `distribution`)

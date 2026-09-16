@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T11:10:00Z",
+  "generatedAt": "2026-09-16T04:32:59Z",
   "books": [
     {
       "id": "architects-sketchbook",
@@ -145,7 +145,8 @@
             "LUOX5xkSyi0",
             "to1PClyd0YA",
             "sZRIbxwHSCo",
-            "6XAbKoeK9JU"
+            "6XAbKoeK9JU",
+            "oGI2VjtqZ4w"
           ],
           "tags": [
             "microservices",
@@ -229,7 +230,8 @@
             "md9nXDH1u7Q",
             "DMfE_eElLAc",
             "8zivk3Mxuf0",
-            "f5Ld5cAhUZA"
+            "f5Ld5cAhUZA",
+            "hsdOBMOGrDc"
           ],
           "tags": [
             "finance",
@@ -291,7 +293,8 @@
             "knxE_Pg2JBA",
             "A6hH4t9MaSQ",
             "Itjb_eppRG0",
-            "sQz9WyN2s04"
+            "sQz9WyN2s04",
+            "UtF4uEmMNQ0"
           ],
           "tags": [
             "architecture",
@@ -343,7 +346,8 @@
             "FM6zp63maS8",
             "cuA7G01T7_U",
             "9z6mOWQgU84",
-            "mGd2IK4N_ZE"
+            "mGd2IK4N_ZE",
+            "elpnbTmiuCs"
           ],
           "tags": [
             "event-driven",
@@ -636,7 +640,8 @@
             "zWuFvi-0Go4",
             "xiTVDbJscik",
             "sMo3KnNup34",
-            "g0b4WhDKyE8"
+            "g0b4WhDKyE8",
+            "y31idN_ZC0Q"
           ],
           "tags": [
             "go",

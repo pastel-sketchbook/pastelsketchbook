@@ -34,7 +34,7 @@ Leetgo is a command-line interface tool that brings LeetCode problem solving int
 - [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) — Development · 4.4K views · Apr 3, 2026 · [Details](54lO6XE-AeQ.md) (shared: `context switching` · `context` · `switching`)
 - [Fuzzy Find Everything](https://youtu.be/IkVazryUiko) — Development · 57 views · Mar 4, 2026 · [Details](IkVazryUiko.md) (shared: `cli` · `productivity`)
 - [Professional Al Agent Usage via the CLI](https://youtu.be/Xhq99-YHXCY) — Development · 25 views · Jan 2, 2026 · [Details](Xhq99-YHXCY.md) (shared: `cli` · `developer`)
-- [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `cli` · `test`)
+- [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 34 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `cli` · `test`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

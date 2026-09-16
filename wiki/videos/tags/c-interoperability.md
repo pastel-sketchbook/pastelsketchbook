@@ -2,7 +2,7 @@
 type: tag
 tags: [c-interoperability]
 sources: 2
-updated: 2026-09-11
+updated: 2026-09-16
 ---
 
 # c interoperability
@@ -15,4 +15,4 @@ Videos connected by the topic `c interoperability`.
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 29 views · Jan 9, 2026 · [Details](../details/yOOQNnaOLeM.md)
 
 ---
-*Auto-generated on Sep 11, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 15, 2026. Back to [topic index](index.md).*

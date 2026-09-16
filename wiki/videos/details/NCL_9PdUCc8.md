@@ -31,10 +31,10 @@ An architectural blueprint and runbook for running ClickHouse on AWS Elastic Kub
 ## Related Videos
 
 - [Clickhouse is Winning the Observability Wars](https://youtu.be/mf86g5lXfTg) — Kubernetes · 25 views · Jul 16, 2026 · [Details](mf86g5lXfTg.md) (shared: `clickhouse` · `architecture` · `replication`)
+- [The Blueprint of Distributed Consensus](https://youtu.be/elpnbTmiuCs) — Kubernetes · 33 views · Sep 11, 2026 · [Details](elpnbTmiuCs.md) (shared: `zookeeper` · `replication` · `quorum`)
 - [RabbitMQ 4.2.8 Plugin Ecosystem](https://youtu.be/6XAbKoeK9JU) — Kubernetes · 19 views · Jul 8, 2026 · [Details](6XAbKoeK9JU.md) (shared: `operator` · `prometheus` · `metrics`)
 - [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `deployment` · `architecture`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `clickhouse` · `architecture`)
-- [Dragonfly on AKS](https://youtu.be/Q4qm1hvVR2A) — Kubernetes · 21 views · Jan 31, 2026 · [Details](Q4qm1hvVR2A.md) (shared: `deployment` · `architecture`)
 
 ---
 *Auto-generated on Aug 21, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

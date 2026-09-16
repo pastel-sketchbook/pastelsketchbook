@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-09-11
+updated: 2026-09-16
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 179
+Total topics: 182
 
 ## Topics
 
@@ -59,6 +59,7 @@ Total topics: 179
 - [retirement planning](retirement-planning.md) (3)
 - [risk management](risk-management.md) (3)
 - [rust tui](rust-tui.md) (3)
+- [saga pattern](saga-pattern.md) (3)
 - [sequence of returns risk](sequence-of-returns-risk.md) (3)
 - [serde serialization](serde-serialization.md) (3)
 - [service mesh](service-mesh.md) (3)
@@ -86,6 +87,7 @@ Total topics: 179
 - [cache optimization](cache-optimization.md) (2)
 - [ci/cd pipelines](ci-cd-pipelines.md) (2)
 - [clickhouse](clickhouse.md) (2)
+- [cloud-native infrastructure](cloud-native-infrastructure.md) (2)
 - [clusterip](clusterip.md) (2)
 - [cognitive load](cognitive-load.md) (2)
 - [compliance](compliance.md) (2)
@@ -156,6 +158,8 @@ Total topics: 179
 - [problem decomposition](problem-decomposition.md) (2)
 - [qmd](qmd.md) (2)
 - [quic protocol](quic-protocol.md) (2)
+- [rabbitmq quorum queues](rabbitmq-quorum-queues.md) (2)
+- [raft consensus algorithm](raft-consensus-algorithm.md) (2)
 - [ratatui terminal ui](ratatui-terminal-ui.md) (2)
 - [rayon data parallelism](rayon-data-parallelism.md) (2)
 - [request lifecycle](request-lifecycle.md) (2)
@@ -163,7 +167,6 @@ Total topics: 179
 - [rolling updates](rolling-updates.md) (2)
 - [rust async runtime](rust-async-runtime.md) (2)
 - [rust machine learning](rust-machine-learning.md) (2)
-- [saga pattern](saga-pattern.md) (2)
 - [saml](saml.md) (2)
 - [serverless analytics](serverless-analytics.md) (2)
 - [service mesh security](service-mesh-security.md) (2)
@@ -192,4 +195,4 @@ Total topics: 179
 - [write-ahead log](write-ahead-log.md) (2)
 
 ---
-*Auto-generated on Sep 11, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Sep 15, 2026. Back to [videos index](../index.md).*

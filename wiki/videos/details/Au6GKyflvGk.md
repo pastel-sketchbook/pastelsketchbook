@@ -35,11 +35,11 @@ htmx 4.0.0 is a ground-up rewrite scheduled for August 28, 2026 that preserves t
 
 ## Related Videos
 
-- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 504 views · Feb 2, 2026 · [Details](xV2EAL3NAVM.md) (shared: `explicit` · `error`)
+- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 511 views · Feb 2, 2026 · [Details](xV2EAL3NAVM.md) (shared: `explicit` · `error`)
 - [AX: The Distributed Agent Runtime](https://youtu.be/xiTVDbJscik) — Development · 73 views · May 23, 2026 · [Details](xiTVDbJscik.md) (shared: `event` · `streaming`)
-- [Bumble: A Universal Userspace Bluetooth Stack](https://youtu.be/7LynLmseNRk) — Development · 43 views · May 27, 2026 · [Details](7LynLmseNRk.md) (shared: `routing` · `native`)
+- [Transitioning to Go](https://youtu.be/y31idN_ZC0Q) — Development · 50 views · Sep 12, 2026 · [Details](y31idN_ZC0Q.md) (shared: `explicit` · `error`)
+- [Bumble: A Universal Userspace Bluetooth Stack](https://youtu.be/7LynLmseNRk) — Development · 44 views · May 27, 2026 · [Details](7LynLmseNRk.md) (shared: `routing` · `native`)
 - [Flattening the Hierarchy](https://youtu.be/RvgI3oEThcA) — Development · 19 views · Jul 13, 2026 · [Details](RvgI3oEThcA.md) (shared: `inheritance` · `hierarchy`)
-- [Local Change Data Capture at Scale](https://youtu.be/FIelcuTti-I) — Development · 23 views · May 26, 2026 · [Details](FIelcuTti-I.md) (shared: `streams` · `event`)
 
 ---
 *Auto-generated on Sep 03, 2026. Back to [development](../development.md) · [index](../index.md).*

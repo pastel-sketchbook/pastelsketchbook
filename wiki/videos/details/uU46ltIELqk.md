@@ -34,7 +34,7 @@ This video presents seven critical engineering takeaways from Google Cloud's exp
 - [The 2026 State of Al Agents](https://youtu.be/BAxPZdgmgRQ) — Development · 4 views · Jan 8, 2026 · [Details](BAxPZdgmgRQ.md) (shared: `generative` · `enterprise`)
 - [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](B2x09utLjtM.md) (shared: `pipeline` · `deployment`)
 - [From Bottlenecks to Breakthroughs:](https://youtu.be/TLqdeHlAo3A) — Development · 67 views · Dec 27, 2025 · [Details](TLqdeHlAo3A.md) (shared: `enterprise` · `deployment`)
-- [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `pipeline` · `documentation`)
+- [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 34 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `pipeline` · `documentation`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

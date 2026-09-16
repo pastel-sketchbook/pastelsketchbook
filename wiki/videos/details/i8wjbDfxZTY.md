@@ -32,10 +32,10 @@ This talk argues for a mandatory — not optional — Python tooling baseline bu
 ## Related Videos
 
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 21 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `uv package manager` · `package` · `manager`)
-- [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 88 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `python` · `workflow`)
+- [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 91 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `python` · `workflow`)
 - [The Performance Paradigm](https://youtu.be/2cuMV05Fang) — Development · 35 views · Jul 20, 2026 · [Details](2cuMV05Fang.md) (shared: `manager` · `static`)
 - [Architecting Modern JavaScript Modules](https://youtu.be/Fqokr0P2_ag) — Development · 23 views · May 25, 2026 · [Details](Fqokr0P2_ag.md) (shared: `tooling` · `static`)
-- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 70 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `package` · `type`)
+- [Transitioning to Go](https://youtu.be/y31idN_ZC0Q) — Development · 50 views · Sep 12, 2026 · [Details](y31idN_ZC0Q.md) (shared: `python` · `static`)
 
 ---
 *Auto-generated on Jun 2, 2026. Back to [development](../development.md) · [index](../index.md).*

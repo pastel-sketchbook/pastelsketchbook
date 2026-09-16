@@ -30,11 +30,11 @@ This talk is a site-reliability blueprint for high-reliability operations and to
 
 ## Related Videos
 
-- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 74 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `automation`)
+- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 75 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `automation`)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](N4nRAfBZ3BE.md) (shared: `design`)
 - [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 30 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `design`)
 - [Beyond Static Configuration](https://youtu.be/okVlu1qseI4) — Kubernetes · 25 views · Feb 15, 2026 · [Details](okVlu1qseI4.md) (shared: `automation`)
-- [Mastering Batch Workload Orchestration on Kubernetes](https://youtu.be/XKTtea0xGsA) — Kubernetes · 25 views · Jul 17, 2026 · [Details](XKTtea0xGsA.md) (shared: `budgets`)
+- [Mastering Batch Workload Orchestration on Kubernetes](https://youtu.be/XKTtea0xGsA) — Kubernetes · 26 views · Jul 17, 2026 · [Details](XKTtea0xGsA.md) (shared: `budgets`)
 
 ---
 *Auto-generated on Aug 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

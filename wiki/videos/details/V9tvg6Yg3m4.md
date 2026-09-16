@@ -30,11 +30,11 @@ A visual breakdown of the Raft consensus algorithm and its concrete implementati
 
 ## Related Videos
 
+- [The Blueprint of Distributed Consensus](https://youtu.be/elpnbTmiuCs) — Kubernetes · 33 views · Sep 11, 2026 · [Details](elpnbTmiuCs.md) (shared: `raft consensus algorithm` · `raft` · `consensus`)
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 19 views · Apr 11, 2026 · [Details](a8heWpae5p0.md) (shared: `raft` · `consensus` · `distributed`)
 - [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) — Kubernetes · 78 views · Apr 5, 2026 · [Details](WRpjJV4SUKc.md) (shared: `distributed` · `rabbitmq` · `log`)
 - [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) — Kubernetes · 71 views · Mar 22, 2026 · [Details](QE51ybyrQDM.md) (shared: `distributed` · `systems` · `messaging`)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](N4nRAfBZ3BE.md) (shared: `rabbitmq` · `messaging` · `kubernetes`)
-- [A Trillion Transactions](https://youtu.be/oHdhgeF4wlI) — Kubernetes · 38 views · Apr 12, 2026 · [Details](oHdhgeF4wlI.md) (shared: `distributed` · `systems` · `system`)
 
 ---
 *Auto-generated on May 8, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

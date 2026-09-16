@@ -31,9 +31,9 @@ This video is a technical teardown of KataGo's Go AI engine, covering its residu
 ## Related Videos
 
 - [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 59 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `graph` · `cuda` · `backends`)
-- [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `integration` · `pipeline` · `analysis`)
+- [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 34 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `integration` · `pipeline` · `analysis`)
 - [The PyTorch Architecture Blueprint](https://youtu.be/KXx_6BhzOFE) — Development · 61 views · Jun 13, 2026 · [Details](KXx_6BhzOFE.md) (shared: `graph` · `pytorch` · `pipeline`)
-- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 32 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `integration` · `training` · `pipeline`)
+- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 33 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `integration` · `training` · `pipeline`)
 - [AEM + Meilisearch: A High-Performance Integration](https://youtu.be/KDnTY0Svmr0) — Development · 15 views · Feb 10, 2026 · [Details](KDnTY0Svmr0.md) (shared: `search` · `integration`)
 
 ---

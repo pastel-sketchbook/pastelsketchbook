@@ -46,8 +46,8 @@ Welcome  everyone.  Today  we  embark  on  a journey  to  understand  and  conqu
 - [Upgrading MKE with NFS Stateful Workloads](https://youtu.be/WeVWqluXtlA) — Kubernetes · 23 views · Aug 30, 2026 · [Details](WeVWqluXtlA.md) (shared: `orchestration` · `pod disruption budgets` · `pod`)
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes` · `pod` · `scheduling`)
 - [Kubernetes Auto-Scaling Strategies](https://youtu.be/y3WwL48DLYw) — Kubernetes · 29 views · Feb 23, 2026 · [Details](y3WwL48DLYw.md) (shared: `kubernetes` · `resource` · `pod`)
-- [The Stateful Al Playbook](https://youtu.be/US99s1ISCkA) — Kubernetes · 60 views · Sep 5, 2026 · [Details](US99s1ISCkA.md) (shared: `orchestration` · `pod` · `disruption`)
-- [Orchestrating Kubernetes Resilience](https://youtu.be/ZECKRFPN8BA) — Kubernetes · 22 views · Aug 25, 2026 · [Details](ZECKRFPN8BA.md) (shared: `kubernetes` · `pod` · `disruption`)
+- [The Stateful Al Playbook](https://youtu.be/US99s1ISCkA) — Kubernetes · 63 views · Sep 5, 2026 · [Details](US99s1ISCkA.md) (shared: `orchestration` · `pod` · `disruption`)
+- [Orchestrating Kubernetes Resilience](https://youtu.be/ZECKRFPN8BA) — Kubernetes · 24 views · Aug 25, 2026 · [Details](ZECKRFPN8BA.md) (shared: `kubernetes` · `pod` · `disruption`)
 
 ---
 *Auto-generated on Jul 18, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

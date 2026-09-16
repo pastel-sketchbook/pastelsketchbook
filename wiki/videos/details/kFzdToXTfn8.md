@@ -32,9 +32,9 @@ KAITO is a Kubernetes operator that automates LLM inference, fine-tuning, and re
 
 - [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 22 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `kubernetes` · `llm` · `inference`)
 - [Sovereign Intelligence vs Enterprise Integration](https://youtu.be/fB-YC949wts) — Kubernetes · 9 views · Aug 7, 2026 · [Details](fB-YC949wts.md) (shared: `kubernetes` · `inference` · `deployment`)
-- [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) — Kubernetes · 53 views · Apr 14, 2026 · [Details](mGMaqTvWrCc.md) (shared: `deployment` · `model` · `storage`)
-- [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 19 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `kubernetes` · `operator` · `deployment`)
-- [Architecting Multi-Rail Fabrics for On-Premise AI Inference](https://youtu.be/sQz9WyN2s04) — Kubernetes · 131 views · Sep 4, 2026 · [Details](sQz9WyN2s04.md) (shared: `kubernetes` · `gpu` · `storage`)
+- [Building an End-to-End MLOps Pipeline](https://youtu.be/mGMaqTvWrCc) — Kubernetes · 54 views · Apr 14, 2026 · [Details](mGMaqTvWrCc.md) (shared: `deployment` · `model` · `storage`)
+- [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 20 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `kubernetes` · `operator` · `deployment`)
+- [Architecting Multi-Rail Fabrics for On-Premise AI Inference](https://youtu.be/sQz9WyN2s04) — Kubernetes · 135 views · Sep 4, 2026 · [Details](sQz9WyN2s04.md) (shared: `kubernetes` · `gpu` · `storage`)
 
 ---
 *Auto-generated on Jul 23, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

@@ -32,7 +32,7 @@ This video presents a 2026 playbook for persona-driven and seedless synthetic da
 
 - [The PyTorch Architecture Blueprint](https://youtu.be/KXx_6BhzOFE) — Development · 61 views · Jun 13, 2026 · [Details](KXx_6BhzOFE.md) (shared: `generation` · `model` · `pipeline`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `model` · `autonomous`)
-- [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 33 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `generation` · `pipeline`)
+- [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 34 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `generation` · `pipeline`)
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `generation` · `pipeline`)
 - [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 24 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `generation` · `pipeline`)
 

@@ -36,7 +36,7 @@ Tokio is structured as a layered runtime: scheduling engines at the base (work-s
 ## Related Videos
 
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 91 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `tokio` · `runtime` · `architecture`)
-- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 160 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `tokio` · `runtime` · `architecture`)
+- [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 161 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `tokio` · `runtime` · `architecture`)
 - [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 28 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `tokio` · `runtime` · `async`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `tokio` · `runtime` · `async`)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 52 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `tokio` · `runtime` · `async`)
