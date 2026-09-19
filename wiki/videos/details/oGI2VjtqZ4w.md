@@ -31,10 +31,10 @@ This talk presents the modern architect's blueprint for domain-driven design, an
 ## Related Videos
 
 - [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 23 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `transaction` · `eventual` · `consistency`)
-- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 50 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `saga pattern` · `saga` · `pattern`)
+- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 52 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `saga pattern` · `saga` · `pattern`)
 - [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 161 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `boundaries` · `matrix` · `code`)
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 145 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `code` · `review`)
-- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 19 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `bridge` · `framework`)
+- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 20 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `bridge` · `framework`)
 
 ---
 *Auto-generated on Sep 16, 2026. Back to [development](../development.md) · [index](../index.md).*

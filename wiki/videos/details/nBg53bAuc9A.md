@@ -35,11 +35,11 @@ An architectural blueprint for zero-trust database credentials in Kubernetes tha
 
 ## Related Videos
 
-- [Modernizing Kubernetes Secrets Management](https://youtu.be/LgFYohNPByM) — Kubernetes · 39 views · Sep 6, 2026 · [Details](LgFYohNPByM.md) (shared: `secrets` · `cyberark` · `ccp`)
+- [Modernizing Kubernetes Secrets Management](https://youtu.be/LgFYohNPByM) — Kubernetes · 40 views · Sep 6, 2026 · [Details](LgFYohNPByM.md) (shared: `secrets` · `cyberark` · `ccp`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 47 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `kubernetes` · `workload` · `identity`)
 - [Architecting Kubernetes Operators](https://youtu.be/hvkvH7i8NLc) — Kubernetes · 18 views · May 31, 2026 · [Details](hvkvH7i8NLc.md) (shared: `kubernetes` · `pattern` · `workload`)
 - [Architecting Enterprise Secret Management in Rust](https://youtu.be/JrCT7Xu-aGU) — Kubernetes · 20 views · Jun 25, 2026 · [Details](JrCT7Xu-aGU.md) (shared: `secrets` · `credential` · `rotation`)
-- [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) — Kubernetes · 18 views · May 22, 2026 · [Details](9ga0NT3ZohQ.md) (shared: `kubernetes` · `workload` · `identity`)
+- [Seamless GitOps on Azure](https://youtu.be/9ga0NT3ZohQ) — Kubernetes · 22 views · May 22, 2026 · [Details](9ga0NT3ZohQ.md) (shared: `kubernetes` · `workload` · `identity`)
 
 ---
 *Auto-generated on Sep 03, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

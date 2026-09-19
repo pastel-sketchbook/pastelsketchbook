@@ -35,9 +35,9 @@ This talk maps the 2026 U.S. fiber optic supply chain as the infrastructure lag 
 
 ## Related Videos
 
-- [Timing the 2026-2030 Optical Super-Cycle](https://youtu.be/IfOAA7cOu6o) — Finance · 22 views · Aug 17, 2026 · [Details](IfOAA7cOu6o.md) (shared: `fiber` · `supercycle` · `co-packaged`)
+- [Timing the 2026-2030 Optical Super-Cycle](https://youtu.be/IfOAA7cOu6o) — Finance · 23 views · Aug 17, 2026 · [Details](IfOAA7cOu6o.md) (shared: `fiber` · `supercycle` · `co-packaged`)
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 45 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `center` · `liquid`)
-- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 78 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `cooling`)
+- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 80 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `cooling`)
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 9 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `data` · `center` · `manufacturing`)
 - [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 20 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `fiber` · `data` · `center`)
 

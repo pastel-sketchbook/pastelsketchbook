@@ -30,10 +30,10 @@ This video explores scaling Rust applications across multi-core systems using Ra
 
 ## Related Videos
 
-- [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 94 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `rayon data parallelism` · `rayon` · `data`)
+- [The Rust Architect's Sketchbook](https://youtu.be/7zFqW-ZcEbo) — Development · 96 views · Jan 8, 2026 · [Details](7zFqW-ZcEbo.md) (shared: `rayon data parallelism` · `rayon` · `data`)
 - [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `tokio async runtime` · `tokio`)
-- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 28 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `concurrency` · `tokio`)
-- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 91 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `tokio` · `async`)
+- [The Flight Recorder for Tokio](https://youtu.be/lY5TU8qHduM) — Development · 33 views · Mar 20, 2026 · [Details](lY5TU8qHduM.md) (shared: `rust` · `concurrency` · `tokio`)
+- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 92 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `tokio` · `async`)
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 161 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `tokio` · `async`)
 
 ---

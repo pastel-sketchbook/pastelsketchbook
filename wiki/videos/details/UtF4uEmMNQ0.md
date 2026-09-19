@@ -32,9 +32,9 @@ Grounded in the organizational-slack literature (Cyert & March, 1963; Bourgeois,
 
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `organizational`)
 - [Architecting the Autonomous Enterprise](https://youtu.be/YoIXlqspLWE) — Development · 26 views · Apr 2, 2026 · [Details](YoIXlqspLWE.md) (shared: `organizational`)
-- [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) — Development · 116 views · Feb 9, 2026 · [Details](qxOOl1hx1zU.md) (shared: `orchestration`)
+- [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) — Development · 117 views · Feb 9, 2026 · [Details](qxOOl1hx1zU.md) (shared: `orchestration`)
 - [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 82 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `orchestration`)
-- [Architecting Action: 10 NotebookLM Prompts](https://youtu.be/Wa0EHhhKV8Q) — Development · 186 views · Feb 27, 2026 · [Details](Wa0EHhhKV8Q.md) (shared: `strategic`)
+- [Architecting Action: 10 NotebookLM Prompts](https://youtu.be/Wa0EHhhKV8Q) — Development · 189 views · Feb 27, 2026 · [Details](Wa0EHhhKV8Q.md) (shared: `strategic`)
 
 ---
 *Auto-generated on Sep 15, 2026. Back to [development](../development.md) · [index](../index.md).*

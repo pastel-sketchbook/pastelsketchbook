@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 485
-updated: 2026-09-16
+sources: 488
+updated: 2026-09-19
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 485 |
-| Total Views | 42.5K |
+| Total Videos | 488 |
+| Total Views | 43.1K |
 | Categories | 6 |
-| Last Updated | Sep 15, 2026 |
+| Last Updated | Sep 19, 2026 |
 
 ## Categories
 
@@ -24,23 +24,23 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 ### [Korea](korea.md)
 
-Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 20 videos, 248 total views.
+Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 20 videos, 249 total views.
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 53 videos, 1.2K total views.
+Videos covering personal finance, investing, and economics. 53 videos, 1.3K total views.
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 102 videos, 3.5K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 103 videos, 3.6K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 279 videos, 36.2K total views.
+Videos about software development, tools, workflows, and engineering practices. 280 videos, 36.6K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 22 videos, 969 total views.
+Videos on cybersecurity, application security, and security engineering. 23 videos, 998 total views.
 
 ### [Programming](programming.md)
 
@@ -54,12 +54,12 @@ Tags appearing in multiple categories (potential synthesis targets):
 |-----|------------|
 | `curiosity` | [Finance](finance.md), [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `ai` | [Finance](finance.md), [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
+| `rust` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md), [Programming](programming.md) |
 | `idp` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `agent` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `resilience` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `zero trust` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `observability` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
-| `rust` | [Kubernetes](kubernetes.md), [Development](development.md), [Programming](programming.md) |
 | `shift left` | [Kubernetes](kubernetes.md), [Development](development.md), [Security](security.md) |
 | `robotics` | [Finance](finance.md), [Development](development.md) |
 | `2026` | [Finance](finance.md), [Development](development.md) |
@@ -69,4 +69,4 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `event driven` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Sep 15, 2026. See [wiki index](../index.md).*
+*Auto-generated on Sep 19, 2026. See [wiki index](../index.md).*

@@ -31,7 +31,7 @@ This video traces a three-stage evolution from CyberArk CCP mTLS via cert-manage
 ## Related Videos
 
 - [Zero-Trust Database Credentials in Kubernetes](https://youtu.be/nBg53bAuc9A) — Kubernetes · 40 views · Sep 2, 2026 · [Details](nBg53bAuc9A.md) (shared: `workload` · `identity` · `cyberark`)
-- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 86 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `workload` · `identity` · `authentication`)
+- [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 87 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `workload` · `identity` · `authentication`)
 - [A Blueprint for Secure Azure Authentication in Go](https://youtu.be/R2zktRqz81U) — Kubernetes · 18 views · Jan 12, 2026 · [Details](R2zktRqz81U.md) (shared: `identity` · `authentication` · `service`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 47 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `workload` · `identity` · `service`)
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 24 views · Apr 1, 2026 · [Details](BiYKKVsJROk.md) (shared: `workload` · `identity` · `service`)

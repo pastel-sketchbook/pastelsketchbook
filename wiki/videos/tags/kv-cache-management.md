@@ -2,7 +2,7 @@
 type: tag
 tags: [kv-cache-management]
 sources: 3
-updated: 2026-09-16
+updated: 2026-09-19
 ---
 
 # kv cache management
@@ -12,8 +12,8 @@ Videos connected by the topic `kv cache management`.
 ## Videos
 
 - [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 98 views · Jun 21, 2026 · [Details](../details/OKXt-PJUuzE.md)
-- [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 41 views · Aug 14, 2026 · [Details](../details/nSMpZpj6Jzc.md)
-- [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 22 views · Jul 31, 2026 · [Details](../details/WI8yUaPon0w.md)
+- [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 42 views · Aug 14, 2026 · [Details](../details/nSMpZpj6Jzc.md)
+- [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 23 views · Jul 31, 2026 · [Details](../details/WI8yUaPon0w.md)
 
 ---
-*Auto-generated on Sep 15, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 19, 2026. Back to [topic index](index.md).*

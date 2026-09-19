@@ -2,7 +2,7 @@
 type: tag
 tags: [onnx-runtime]
 sources: 2
-updated: 2026-09-16
+updated: 2026-09-19
 ---
 
 # onnx runtime
@@ -11,8 +11,8 @@ Videos connected by the topic `onnx runtime`.
 
 ## Videos
 
-- [Building vibe-rust](https://youtu.be/BT08SXPvV6U) — Development · 68 views · Apr 4, 2026 · [Details](../details/BT08SXPvV6U.md)
+- [Building vibe-rust](https://youtu.be/BT08SXPvV6U) — Development · 69 views · Apr 4, 2026 · [Details](../details/BT08SXPvV6U.md)
 - [Neural TTS in Pastel-HN](https://youtu.be/d_0swhS1LyQ) — Development · 47 views · Feb 1, 2026 · [Details](../details/d_0swhS1LyQ.md)
 
 ---
-*Auto-generated on Sep 15, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 19, 2026. Back to [topic index](index.md).*

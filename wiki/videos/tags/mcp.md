@@ -2,7 +2,7 @@
 type: tag
 tags: [mcp]
 sources: 2
-updated: 2026-09-16
+updated: 2026-09-19
 ---
 
 # mcp
@@ -11,8 +11,8 @@ Videos connected by the topic `mcp`.
 
 ## Videos
 
-- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 290 views · Apr 5, 2026 · [Details](../details/fv61JXUCbeo.md)
+- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 294 views · Apr 5, 2026 · [Details](../details/fv61JXUCbeo.md)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 97 views · Apr 5, 2026 · [Details](../details/T-NdEF6btbg.md)
 
 ---
-*Auto-generated on Sep 15, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 19, 2026. Back to [topic index](index.md).*

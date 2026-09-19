@@ -2,7 +2,7 @@
 type: tag
 tags: [zig]
 sources: 9
-updated: 2026-09-16
+updated: 2026-09-19
 ---
 
 # zig
@@ -22,4 +22,4 @@ Videos connected by the topic `zig`.
 - [Teaching an Ancient Calendar to a Microscopic AI](https://youtu.be/4wX4mGuiTjw) — Development · 9 views · Mar 8, 2026 · [Details](../details/4wX4mGuiTjw.md)
 
 ---
-*Auto-generated on Sep 15, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 19, 2026. Back to [topic index](index.md).*

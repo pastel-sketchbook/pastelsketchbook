@@ -39,7 +39,7 @@ A strategic blueprint for Digital Transformation 2.0 that reframes AI from a pur
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `autonomous` · `design`)
 - [Ralph: The Autonomous Vibe Coding Workflow](https://youtu.be/V2LbQqD1lMM) — Development · 34 views · Jan 31, 2026 · [Details](V2LbQqD1lMM.md) (shared: `autonomous` · `execution`)
 - [Flutter & Dart: The 2026 Roadmap](https://youtu.be/WMcKFQ200OE) — Development · 62 views · Feb 27, 2026 · [Details](WMcKFQ200OE.md) (shared: `agentic` · `roadmap`)
-- [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 15 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `layer` · `design`)
+- [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 16 views · Jan 25, 2026 · [Details](US7oyxbcJCc.md) (shared: `layer` · `design`)
 
 ---
 *Auto-generated on Sep 06, 2026. Back to [development](../development.md) · [index](../index.md).*

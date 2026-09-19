@@ -35,7 +35,7 @@ This presentation explores Bayesian inference as a mathematically optimal framew
 
 ## Related Videos
 
-- [The Architecture of KataGo](https://youtu.be/sSIDBOrX_Ig) — Development · 102 views · Sep 10, 2026 · [Details](sSIDBOrX_Ig.md) (shared: `monte` · `carlo`)
+- [The Architecture of KataGo](https://youtu.be/sSIDBOrX_Ig) — Development · 108 views · Sep 10, 2026 · [Details](sSIDBOrX_Ig.md) (shared: `monte` · `carlo`)
 - [The Geometry of Light](https://youtu.be/_mwtz_8lBWc) — Development · 30 views · Mar 21, 2026 · [Details](_mwtz_8lBWc.md) (shared: `algorithm`)
 - [The Architect's Guide to Modern Token Security](https://youtu.be/pzVOjl6mOD4) — Development · 33 views · Dec 29, 2025 · [Details](pzVOjl6mOD4.md) (shared: `algorithm`)
 - [The Push Architecture Blueprint](https://youtu.be/oqi_jJl3tAQ) — Development · 46 views · Apr 30, 2026 · [Details](oqi_jJl3tAQ.md) (shared: `rate`)

@@ -2,7 +2,7 @@
 type: tag
 tags: [executable-specifications]
 sources: 2
-updated: 2026-09-16
+updated: 2026-09-19
 ---
 
 # executable specifications
@@ -15,4 +15,4 @@ Videos connected by the topic `executable specifications`.
 - [Modular Playbook for Vertical Project Delivery](https://youtu.be/TErzICEXwRQ) — Development · 10 views · Aug 11, 2026 · [Details](../details/TErzICEXwRQ.md)
 
 ---
-*Auto-generated on Sep 15, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 19, 2026. Back to [topic index](index.md).*

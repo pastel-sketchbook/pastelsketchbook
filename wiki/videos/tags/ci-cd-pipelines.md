@@ -2,7 +2,7 @@
 type: tag
 tags: [ci-cd-pipelines]
 sources: 2
-updated: 2026-09-16
+updated: 2026-09-19
 ---
 
 # ci/cd pipelines
@@ -12,7 +12,7 @@ Videos connected by the topic `ci/cd pipelines`.
 ## Videos
 
 - [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 68 views · Apr 25, 2026 · [Details](../details/quD4pyCwKB4.md)
-- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 22 views · Apr 22, 2026 · [Details](../details/p9LNSeAt5Zw.md)
+- [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 23 views · Apr 22, 2026 · [Details](../details/p9LNSeAt5Zw.md)
 
 ---
-*Auto-generated on Sep 15, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 19, 2026. Back to [topic index](index.md).*

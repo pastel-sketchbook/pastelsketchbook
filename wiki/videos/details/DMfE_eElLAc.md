@@ -34,7 +34,7 @@ This talk is a comparative diagnostic of the California and Texas economies, tre
 - [Nationwide Data Coverage & Auto-Filing Feasibility](https://youtu.be/SRwWBbsaQH4) — Finance · 15 views · May 13, 2026 · [Details](SRwWBbsaQH4.md) (shared: `state` · `property` · `tax`)
 - [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) — Finance · 28 views · Jun 7, 2026 · [Details](8vJLWsfheRE.md) (shared: `economic` · `income`)
 - [Navigating Growth and Taxes from 65 to 75](https://youtu.be/8zivk3Mxuf0) — Finance · 3 views · Aug 13, 2026 · [Details](8zivk3Mxuf0.md) (shared: `tax` · `income`)
-- [The Pomology Field Guide](https://youtu.be/_LrmdP64y6A) — Finance · 26 views · Mar 19, 2026 · [Details](_LrmdP64y6A.md) (shared: `architecture`)
+- [The Pomology Field Guide](https://youtu.be/_LrmdP64y6A) — Finance · 28 views · Mar 19, 2026 · [Details](_LrmdP64y6A.md) (shared: `architecture`)
 
 ---
 

@@ -31,7 +31,7 @@ This video presents a shift from stateless satellite-style multi-agent orchestra
 ## Related Videos
 
 - [Consuming CDC with ScyllaDB](https://youtu.be/nomIVRSBEG4) — Kubernetes · 77 views · Apr 17, 2026 · [Details](nomIVRSBEG4.md) (shared: `event` · `topology` · `distributed`)
-- [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 22 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `memory` · `pipeline` · `graph`)
+- [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 23 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `memory` · `pipeline` · `graph`)
 - [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) — Kubernetes · 71 views · Mar 22, 2026 · [Details](QE51ybyrQDM.md) (shared: `event-driven` · `distributed`)
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](N4nRAfBZ3BE.md) (shared: `event-driven` · `event`)
 - [Advanced Architectural Synthesis](https://youtu.be/P_xUJi_qt-Q) — Kubernetes · 30 views · Feb 15, 2026 · [Details](P_xUJi_qt-Q.md) (shared: `event-driven` · `distributed`)

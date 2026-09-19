@@ -3,7 +3,7 @@ type: category
 category: korea
 tags: [viaje, corea, seul, jeju, ganghwa, sokcho, daejeon, danyang, jinju, yeosu]
 sources: 20
-updated: 2026-09-16
+updated: 2026-09-19
 ---
 
 # Korea
@@ -15,7 +15,7 @@ updated: 2026-09-16
 | Metric | Value |
 |--------|-------|
 | Videos | 20 |
-| Total Views | 248 |
+| Total Views | 249 |
 | Most Recent | May 20, 2026 |
 | Oldest | Dec 26, 2025 |
 ## All Videos
@@ -35,7 +35,7 @@ updated: 2026-09-16
 | 11 | Bocetos de Daejeon | 15 | Feb 3, 2026 | [Watch](https://youtu.be/nxuaOP3C1Ns) | [Wiki](details/nxuaOP3C1Ns.md) |
 | 12 | Hasta pronto, Danyang | 11 | Feb 2, 2026 | [Watch](https://youtu.be/awa_UWXFOao) | [Wiki](details/awa_UWXFOao.md) |
 | 13 | Jinju y Jirisan: el Valor a la Sabiduría | 18 | Jan 4, 2026 | [Watch](https://youtu.be/drVBXipEOAs) | [Wiki](details/drVBXipEOAs.md) |
-| 14 | Mi Cuaderno de Viaje: Yeosu | 12 | Jan 4, 2026 | [Watch](https://youtu.be/JlPl9MskqJM) | [Wiki](details/JlPl9MskqJM.md) |
+| 14 | Mi Cuaderno de Viaje: Yeosu | 13 | Jan 4, 2026 | [Watch](https://youtu.be/JlPl9MskqJM) | [Wiki](details/JlPl9MskqJM.md) |
 | 15 | Jeonju y Gochang: Apuntes de Corea | 16 | Jan 4, 2026 | [Watch](https://youtu.be/EvcUSPWkOA8) | [Wiki](details/EvcUSPWkOA8.md) |
 | 16 | Mi Cuaderno de Viaje: Andong | 17 | Jan 3, 2026 | [Watch](https://youtu.be/CASZX56r-tk) | [Wiki](details/CASZX56r-tk.md) |
 | 17 | Gyeongju: El Museo Sin Muros | 11 | Jan 2, 2026 | [Watch](https://youtu.be/4h84JgKkt94) | [Wiki](details/4h84JgKkt94.md) |
@@ -52,4 +52,4 @@ updated: 2026-09-16
 - [Finance](finance.md)
 
 ---
-*Auto-generated on Sep 15, 2026. Back to [index](index.md).*
+*Auto-generated on Sep 19, 2026. Back to [index](index.md).*
