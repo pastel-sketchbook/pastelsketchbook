@@ -2,7 +2,7 @@
 type: tag
 tags: [content-security-policy]
 sources: 2
-updated: 2026-09-19
+updated: 2026-09-24
 ---
 
 # content security policy
@@ -11,8 +11,8 @@ Videos connected by the topic `content security policy`.
 
 ## Videos
 
-- [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 33 views · May 17, 2026 · [Details](../details/ytA6gw6Tgaw.md)
+- [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 34 views · May 17, 2026 · [Details](../details/ytA6gw6Tgaw.md)
 - [Vercel 대시보드 보안 안내서](https://youtu.be/GVq5DvGFLpI) — Programming · 27 views · Feb 1, 2026 · [Details](../details/GVq5DvGFLpI.md)
 
 ---
-*Auto-generated on Sep 19, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 23, 2026. Back to [topic index](index.md).*

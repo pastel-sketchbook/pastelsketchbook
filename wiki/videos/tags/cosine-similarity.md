@@ -2,7 +2,7 @@
 type: tag
 tags: [cosine-similarity]
 sources: 2
-updated: 2026-09-19
+updated: 2026-09-24
 ---
 
 # cosine similarity
@@ -15,4 +15,4 @@ Videos connected by the topic `cosine similarity`.
 - [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 29 views · Apr 29, 2026 · [Details](../details/GERT8PoS9Qk.md)
 
 ---
-*Auto-generated on Sep 19, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 23, 2026. Back to [topic index](index.md).*

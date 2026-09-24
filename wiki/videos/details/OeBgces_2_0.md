@@ -31,10 +31,10 @@ A developer's guide to the two special IPv4 addresses 127.0.0.1 and 0.0.0.0, con
 ## Related Videos
 
 - [Building Dynamic Al Interfaces with GenUl](https://youtu.be/CqBZBJTAo3I) — Development · 125 views · May 31, 2026 · [Details](CqBZBJTAo3I.md) (shared: `binding` · `server`)
-- [The Architecture of KataGo](https://youtu.be/sSIDBOrX_Ig) — Development · 108 views · Sep 10, 2026 · [Details](sSIDBOrX_Ig.md) (shared: `network` · `interface`)
+- [The Architecture of KataGo](https://youtu.be/sSIDBOrX_Ig) — Development · 113 views · Sep 10, 2026 · [Details](sSIDBOrX_Ig.md) (shared: `network` · `interface`)
 - [Isolating Observability in Go](https://youtu.be/xfOATs8ncLM) — Development · 18 views · Mar 12, 2026 · [Details](xfOATs8ncLM.md) (shared: `server`)
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 60 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `server`)
-- [hTEG3TsuUPQ](https://youtu.be/hTEG3TsuUPQ) — Development · 0 views · Sep 19, 2026 · [Details](hTEG3TsuUPQ.md) (shared: `interface`)
+- [hTEG3TsuUPQ](https://youtu.be/hTEG3TsuUPQ) — Development · 0 views · Sep 23, 2026 · [Details](hTEG3TsuUPQ.md) (shared: `interface`)
 
 ---
 *Auto-generated on Jul 23, 2026. Back to [development](../development.md) · [index](../index.md).*

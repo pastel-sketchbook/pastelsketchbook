@@ -30,11 +30,11 @@ This video argues that the 20-year equilibrium between cyber attackers and defen
 
 ## Related Videos
 
-- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 69 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `autonomous` · `exploitation` · `vulnerability`)
+- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 70 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `autonomous` · `exploitation` · `vulnerability`)
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 26 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `framework` · `security`)
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 25 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `vulnerability` · `security`)
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 38 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `vulnerability` · `security`)
-- [Securing the Rust Supply Chain](https://youtu.be/AX1n6m8iZhQ) — Security · 21 views · Sep 18, 2026 · [Details](AX1n6m8iZhQ.md) (shared: `vulnerability` · `security`)
+- [Securing the Rust Supply Chain](https://youtu.be/AX1n6m8iZhQ) — Security · 55 views · Sep 18, 2026 · [Details](AX1n6m8iZhQ.md) (shared: `vulnerability` · `security`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

@@ -37,7 +37,7 @@ The Stateful AI Playbook tackles zero-disruption node patching and PyTorch check
 
 - [Upgrading MKE with NFS Stateful Workloads](https://youtu.be/WeVWqluXtlA) — Kubernetes · 24 views · Aug 30, 2026 · [Details](WeVWqluXtlA.md) (shared: `disruption` · `drain` · `orchestration`)
 - [Orchestrating Kubernetes Resilience](https://youtu.be/ZECKRFPN8BA) — Kubernetes · 25 views · Aug 25, 2026 · [Details](ZECKRFPN8BA.md) (shared: `disruption` · `drain` · `pod`)
-- [Mastering Batch Workload Orchestration on Kubernetes](https://youtu.be/XKTtea0xGsA) — Kubernetes · 26 views · Jul 17, 2026 · [Details](XKTtea0xGsA.md) (shared: `disruption` · `orchestration` · `pod`)
+- [Mastering Batch Workload Orchestration on Kubernetes](https://youtu.be/XKTtea0xGsA) — Kubernetes · 27 views · Jul 17, 2026 · [Details](XKTtea0xGsA.md) (shared: `disruption` · `orchestration` · `pod`)
 - [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 20 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `zero` · `distributed` · `pod`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 47 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `zero` · `workload`)
 

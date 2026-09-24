@@ -34,7 +34,7 @@ This video introduces minikv, an open-source (MIT) distributed key-value store b
 - [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) — Kubernetes · 78 views · Apr 5, 2026 · [Details](WRpjJV4SUKc.md) (shared: `distributed` · `kubernetes` · `write-ahead log`)
 - [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 20 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `distributed` · `kubernetes` · `operator`)
 - [Architecting Cost Efficiency for Al Workloads](https://youtu.be/eaPXjvB194w) — Kubernetes · 25 views · Apr 25, 2026 · [Details](eaPXjvB194w.md) (shared: `vector search` · `vector` · `search`)
-- [The Blueprint of Distributed Consensus](https://youtu.be/elpnbTmiuCs) — Kubernetes · 37 views · Sep 11, 2026 · [Details](elpnbTmiuCs.md) (shared: `raft` · `consensus` · `log`)
+- [The Blueprint of Distributed Consensus](https://youtu.be/elpnbTmiuCs) — Kubernetes · 43 views · Sep 11, 2026 · [Details](elpnbTmiuCs.md) (shared: `raft` · `consensus` · `log`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

@@ -31,7 +31,7 @@ Orchard is an open foundation for agentic modeling research centered on a Kubern
 
 ## Related Videos
 
-- [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 73 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `sandbox` · `isolation` · `snapshots`)
+- [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 77 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `sandbox` · `isolation` · `snapshots`)
 - [Tailscale: The Modular Network Operating System](https://youtu.be/PVwzHpsrVcc) — Kubernetes · 13 views · Aug 10, 2026 · [Details](PVwzHpsrVcc.md) (shared: `kubernetes` · `network` · `isolation`)
 - [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 29 views · Feb 19, 2026 · [Details](rk_3xU9OF-k.md) (shared: `platform` · `kubernetes`)
 - [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 75 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `agentic` · `platform`)

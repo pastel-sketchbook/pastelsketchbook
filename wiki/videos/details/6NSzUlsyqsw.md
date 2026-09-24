@@ -34,7 +34,7 @@ This video presents a 2026 playbook for persona-driven and seedless synthetic da
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `model` · `autonomous`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 34 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `generation` · `pipeline`)
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `generation` · `pipeline`)
-- [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 24 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `generation` · `pipeline`)
+- [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 25 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `generation` · `pipeline`)
 
 ---
 *Auto-generated on Sep 11, 2026. Back to [development](../development.md) · [index](../index.md).*

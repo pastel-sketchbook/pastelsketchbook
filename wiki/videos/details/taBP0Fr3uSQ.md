@@ -30,8 +30,8 @@ This video dissects the LiteLLM supply chain compromise (PyPI packages 1.82.7 an
 
 ## Related Videos
 
-- [Securing the Rust Supply Chain](https://youtu.be/AX1n6m8iZhQ) — Security · 21 views · Sep 18, 2026 · [Details](AX1n6m8iZhQ.md) (shared: `supply` · `chain` · `security`)
-- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 69 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security` · `vulnerability`)
+- [Securing the Rust Supply Chain](https://youtu.be/AX1n6m8iZhQ) — Security · 55 views · Sep 18, 2026 · [Details](AX1n6m8iZhQ.md) (shared: `supply` · `chain` · `security`)
+- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 70 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security` · `vulnerability`)
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 25 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `security` · `vulnerability`)
 - [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) — Security · 84 views · Mar 31, 2026 · [Details](Zeg8zSOvoyE.md) (shared: `security` · `vulnerability`)
 - [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 65 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `attack` · `security`)

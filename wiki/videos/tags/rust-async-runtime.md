@@ -2,7 +2,7 @@
 type: tag
 tags: [rust-async-runtime]
 sources: 2
-updated: 2026-09-19
+updated: 2026-09-24
 ---
 
 # rust async runtime
@@ -15,4 +15,4 @@ Videos connected by the topic `rust async runtime`.
 - [Copilot-Backed Code Review Architecture](https://youtu.be/JMk8y25qo2M) — Development · 21 views · Jun 2, 2026 · [Details](../details/JMk8y25qo2M.md)
 
 ---
-*Auto-generated on Sep 19, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 23, 2026. Back to [topic index](index.md).*

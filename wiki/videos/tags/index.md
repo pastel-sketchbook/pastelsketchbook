@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-09-19
+updated: 2026-09-24
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 182
+Total topics: 183
 
 ## Topics
 
@@ -105,6 +105,7 @@ Total topics: 182
 - [dependency inversion principle](dependency-inversion-principle.md) (2)
 - [deployment frequency](deployment-frequency.md) (2)
 - [developer productivity](developer-productivity.md) (2)
+- [domain-driven design](domain-driven-design.md) (2)
 - [echo web framework](echo-web-framework.md) (2)
 - [enterprise ai deployment](enterprise-ai-deployment.md) (2)
 - [event-driven design](event-driven-design.md) (2)
@@ -195,4 +196,4 @@ Total topics: 182
 - [write-ahead log](write-ahead-log.md) (2)
 
 ---
-*Auto-generated on Sep 19, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Sep 23, 2026. Back to [videos index](../index.md).*

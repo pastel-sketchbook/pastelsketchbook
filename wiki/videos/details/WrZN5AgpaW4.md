@@ -31,8 +31,8 @@ A walkthrough of the Kubernetes monorepo dissects how the control plane (API ser
 ## Related Videos
 
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes` · `control` · `plane`)
-- [Architectural Design Patterns for Kubernetes Extensions](https://youtu.be/_ydvFbr5Tdg) — Kubernetes · 16 views · Sep 17, 2026 · [Details](_ydvFbr5Tdg.md) (shared: `kubernetes` · `control` · `reconciliation`)
-- [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 101 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `control` · `plane`)
+- [Architectural Design Patterns for Kubernetes Extensions](https://youtu.be/_ydvFbr5Tdg) — Kubernetes · 24 views · Sep 17, 2026 · [Details](_ydvFbr5Tdg.md) (shared: `kubernetes` · `control` · `reconciliation`)
+- [Kubernetes 1.36 (Haru)](https://youtu.be/2ksi8K7wg3I) — Kubernetes · 102 views · Apr 23, 2026 · [Details](2ksi8K7wg3I.md) (shared: `kubernetes` · `control` · `plane`)
 - [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 20 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `kubernetes` · `api` · `kubelet`)
 - [CUE: Navigating the Core Features](https://youtu.be/LUOX5xkSyi0) — Kubernetes · 30 views · Mar 16, 2026 · [Details](LUOX5xkSyi0.md) (shared: `language` · `validation`)
 

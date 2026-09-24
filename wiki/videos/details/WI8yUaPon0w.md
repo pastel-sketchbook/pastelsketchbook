@@ -30,11 +30,11 @@ This talk is an architectural deep-dive into vLLM, the unified open-source servi
 
 ## Related Videos
 
-- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 27 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `llm` · `inference` · `engine`)
-- [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 73 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `llm` · `inference` · `disaggregated`)
-- [Kubernetes Services & Istio](https://youtu.be/OnwiaDRj1-k) — Kubernetes · 30 views · Jan 12, 2026 · [Details](OnwiaDRj1-k.md) (shared: `management` · `load` · `balancing`)
+- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 29 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `llm` · `inference` · `engine`)
+- [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 77 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `llm` · `inference` · `disaggregated`)
+- [Kubernetes Services & Istio](https://youtu.be/OnwiaDRj1-k) — Kubernetes · 31 views · Jan 12, 2026 · [Details](OnwiaDRj1-k.md) (shared: `management` · `load` · `balancing`)
 - [Sovereign Intelligence vs Enterprise Integration](https://youtu.be/fB-YC949wts) — Kubernetes · 10 views · Aug 7, 2026 · [Details](fB-YC949wts.md) (shared: `inference` · `cache` · `serving`)
-- [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 42 views · Aug 14, 2026 · [Details](nSMpZpj6Jzc.md) (shared: `llm` · `inference` · `engine`)
+- [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 49 views · Aug 14, 2026 · [Details](nSMpZpj6Jzc.md) (shared: `llm` · `inference` · `engine`)
 
 ---
 *Auto-generated on Aug 1, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

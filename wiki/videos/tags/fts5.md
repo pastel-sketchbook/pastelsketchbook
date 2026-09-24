@@ -2,7 +2,7 @@
 type: tag
 tags: [fts5]
 sources: 2
-updated: 2026-09-19
+updated: 2026-09-24
 ---
 
 # fts5
@@ -15,4 +15,4 @@ Videos connected by the topic `fts5`.
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 47 views · Apr 21, 2026 · [Details](../details/xkHQhOgapfY.md)
 
 ---
-*Auto-generated on Sep 19, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 23, 2026. Back to [topic index](index.md).*

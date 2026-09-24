@@ -34,7 +34,7 @@ The Human Lapidary is a finance-oriented framework that maps the 16 MBTI persona
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `price` · `market`)
 - [The Mystery of the Nickel Coke](https://youtu.be/l9UUqD2Bz2E) — Finance · 16 views · Apr 10, 2026 · [Details](l9UUqD2Bz2E.md) (shared: `price` · `economics`)
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) — Finance · 8 views · May 20, 2026 · [Details](Dx8pFmojxL4.md) (shared: `tiers` · `economics`)
-- [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `market`)
+- [The Taco Spectrum](https://youtu.be/KrRfZ79b-TI) — Finance · 9 views · Sep 22, 2026 · [Details](KrRfZ79b-TI.md) (shared: `economics` · `market`)
 
 ---
 *Auto-generated on Sep 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

@@ -31,10 +31,10 @@ This video examines the economic anomaly of Coca-Cola maintaining a fixed 5-cent
 ## Related Videos
 
 - [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) — Finance · 28 views · Jun 7, 2026 · [Details](8vJLWsfheRE.md) (shared: `index` · `policy`)
-- [The Human Lapidary](https://youtu.be/hsdOBMOGrDc) — Finance · 47 views · Sep 15, 2026 · [Details](hsdOBMOGrDc.md) (shared: `price` · `economics`)
+- [The Taco Spectrum](https://youtu.be/KrRfZ79b-TI) — Finance · 9 views · Sep 22, 2026 · [Details](KrRfZ79b-TI.md) (shared: `consumer` · `economics`)
+- [The Human Lapidary](https://youtu.be/hsdOBMOGrDc) — Finance · 52 views · Sep 15, 2026 · [Details](hsdOBMOGrDc.md) (shared: `price` · `economics`)
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `price`)
 - [Systematic Momentum Execution](https://youtu.be/md9nXDH1u7Q) — Finance · 5 views · Jul 22, 2026 · [Details](md9nXDH1u7Q.md) (shared: `price`)
-- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 80 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `economics`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

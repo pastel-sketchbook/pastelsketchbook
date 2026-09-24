@@ -30,11 +30,11 @@ This video performs an analytical teardown of how Elixir 1.20 achieved a 400x ac
 
 ## Related Videos
 
-- [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 73 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `type` · `system`)
+- [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 74 views · Mar 11, 2026 · [Details](DIMW-iHlDxE.md) (shared: `type` · `system`)
 - [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 65 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `type` · `inference` · `form`)
 - [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 59 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `binary` · `optimization`)
 - [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 246 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `compiler` · `optimization`)
-- [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 59 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `optimization` · `inference`)
+- [Architecting the Hybrid Al Stack](https://youtu.be/g_ywAvwXmW4) — Development · 12 views · Sep 21, 2026 · [Details](g_ywAvwXmW4.md) (shared: `system` · `inference`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

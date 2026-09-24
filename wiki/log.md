@@ -703,3 +703,26 @@ All are full-length (durationSec 721/1157/635, none < 120s → not Shorts). For 
 Bundle: 488 videos, 488 with detail (Missing: 0). zmd reindexed (1202 documents); all 3 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 3 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 3 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
 
 Backward check: scanned all 488 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 3 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).
+
+## [2026-09-24] ingest | Video Metadata Sync
+
+Synced 493 videos across 6 categories (korea=20, finance=54, kubernetes=103, development=284, security=23, programming=9).
+
+## [2026-09-24] ingest | Video Transcripts
+
+Exported 1 transcript files (single: TqGOuGXb2iU) to `wiki/raw/transcripts`.
+
+## [2026-09-24] ingest | Release 5 new full videos (published Sep 19-23)
+
+Released 5 newest full videos from `HIDDEN_VIDEO_IDS` so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- TqGOuGXb2iU (Building bt-go: A Closed-Loop Architecture, development, 2026-09-19)
+- WCqusmhtteU (The Blueprint for AI-Augmented Agile, development, 2026-09-20)
+- g_ywAvwXmW4 (Architecting the Hybrid AI Stack, development, 2026-09-21)
+- KrRfZ79b-TI (The Taco Spectrum, finance, 2026-09-22)
+- Pk_elgrthq8 (The 800,000 Line Rewrite, development, 2026-09-23)
+
+All are full-length (durationSec 850/900/740/738/1053, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md` (12-17KB, well above the ~2.5KB Shorts fallback), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: TqGOuGXb2iU → Internals Companion Ch12 (The ML Inference Stack, burn tag); WCqusmhtteU → Architect's Sketchbook Ch6 (The Modern Delivery Flywheel); g_ywAvwXmW4 → Architect's Sketchbook Ch3 (The Enterprise AI Pipeline); KrRfZ79b-TI → Architect's Sketchbook Ch7 (The Architecture of Wealth, finance); Pk_elgrthq8 → Internals Companion Ch6 (The Rust Architect's Toolkit, rust tag).
+
+Bundle: 493 videos, 493 with detail (Missing: 0). zmd reindexed (1213 documents); all 5 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 5 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 5 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
+
+Backward check: scanned all 493 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 5 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).

@@ -34,7 +34,7 @@ This video presents a strategic framework for unifying security operations throu
 - [Security  Through the Lens of Tracking](https://youtu.be/szwFbJVSQ48) — Security · 70 views · Sep 1, 2026 · [Details](szwFbJVSQ48.md) (shared: `security` · `incident` · `response`)
 - [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 65 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `security` · `operations`)
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 26 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `security`)
-- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 69 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security`)
+- [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 70 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

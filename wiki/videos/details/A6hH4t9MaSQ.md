@@ -35,10 +35,10 @@ This session frames governing AI agents in enterprise .NET development as a tran
 
 ## Related Videos
 
-- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 52 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `architecture` · `dependency` · `injection`)
+- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 53 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `architecture` · `dependency` · `injection`)
 - [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 56 views · Apr 27, 2026 · [Details](R3n8UxyD7mc.md) (shared: `architecture` · `dependency` · `injection`)
-- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 82 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `architecture` · `dependency` · `injection`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 855 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `dependency` · `injection`)
+- [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 83 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `architecture` · `dependency` · `injection`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 856 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `architecture` · `dependency` · `injection`)
 - [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 119 views · Feb 24, 2026 · [Details](DazzkNtnzec.md) (shared: `implicit` · `dependency` · `injection`)
 
 ---

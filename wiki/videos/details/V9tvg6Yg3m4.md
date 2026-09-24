@@ -30,7 +30,7 @@ A visual breakdown of the Raft consensus algorithm and its concrete implementati
 
 ## Related Videos
 
-- [The Blueprint of Distributed Consensus](https://youtu.be/elpnbTmiuCs) — Kubernetes · 37 views · Sep 11, 2026 · [Details](elpnbTmiuCs.md) (shared: `raft consensus algorithm` · `raft` · `consensus`)
+- [The Blueprint of Distributed Consensus](https://youtu.be/elpnbTmiuCs) — Kubernetes · 43 views · Sep 11, 2026 · [Details](elpnbTmiuCs.md) (shared: `raft consensus algorithm` · `raft` · `consensus`)
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 19 views · Apr 11, 2026 · [Details](a8heWpae5p0.md) (shared: `raft` · `consensus` · `distributed`)
 - [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) — Kubernetes · 78 views · Apr 5, 2026 · [Details](WRpjJV4SUKc.md) (shared: `distributed` · `rabbitmq` · `log`)
 - [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) — Kubernetes · 71 views · Mar 22, 2026 · [Details](QE51ybyrQDM.md) (shared: `distributed` · `systems` · `messaging`)

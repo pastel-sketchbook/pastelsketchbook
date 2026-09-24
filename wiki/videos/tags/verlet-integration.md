@@ -2,7 +2,7 @@
 type: tag
 tags: [verlet-integration]
 sources: 2
-updated: 2026-09-19
+updated: 2026-09-24
 ---
 
 # verlet integration
@@ -11,8 +11,8 @@ Videos connected by the topic `verlet integration`.
 
 ## Videos
 
-- [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) — Development · 225 views · Mar 18, 2026 · [Details](../details/_zJ3_d1CODg.md)
+- [Bevy-Demo](https://youtu.be/_zJ3_d1CODg) — Development · 232 views · Mar 18, 2026 · [Details](../details/_zJ3_d1CODg.md)
 - [Cloth Simulation ](https://youtu.be/3Fpey_L_XRU) — Development · 15 views · Jan 25, 2026 · [Details](../details/3Fpey_L_XRU.md)
 
 ---
-*Auto-generated on Sep 19, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 23, 2026. Back to [topic index](index.md).*

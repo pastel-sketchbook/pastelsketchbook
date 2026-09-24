@@ -32,9 +32,9 @@ This video examines how RFCs (Request for Comments) are evolving from natural-la
 
 - [The Programmer's Guide to Essential RFCs](https://youtu.be/LackTxguXFg) — Development · 111 views · Apr 10, 2026 · [Details](LackTxguXFg.md) (shared: `specifications` · `tcp` · `tls`)
 - [Modular Playbook for Vertical Project Delivery](https://youtu.be/TErzICEXwRQ) — Development · 10 views · Aug 11, 2026 · [Details](TErzICEXwRQ.md) (shared: `executable specifications` · `executable` · `specifications`)
-- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 96 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `protocol` · `machine` · `tls`)
-- [RFC 862 and the Echo Protocol](https://youtu.be/ea5lpF3RyzE) — Development · 41 views · Apr 7, 2026 · [Details](ea5lpF3RyzE.md) (shared: `protocol` · `tcp`)
-- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 730 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `protocol` · `standards`)
+- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 99 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `protocol` · `machine` · `tls`)
+- [RFC 862 and the Echo Protocol](https://youtu.be/ea5lpF3RyzE) — Development · 42 views · Apr 7, 2026 · [Details](ea5lpF3RyzE.md) (shared: `protocol` · `tcp`)
+- [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 731 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `protocol` · `standards`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

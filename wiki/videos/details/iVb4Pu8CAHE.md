@@ -35,7 +35,7 @@ Introduces ADR (agentic AI detection and response), an enterprise agentic securi
 
 ## Related Videos
 
-- [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 73 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `llm` · `agent`)
+- [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 77 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `llm` · `agent`)
 - [Architecting Al at Global Scale](https://youtu.be/PofJfj6nRuw) — Kubernetes · 5 views · Jun 11, 2026 · [Details](PofJfj6nRuw.md) (shared: `agentic` · `taxonomy`)
 - [Azure Linux 4.0 and the Al-Native Cloud Era](https://youtu.be/o9x4daXS4Rk) — Kubernetes · 35 views · Jul 5, 2026 · [Details](o9x4daXS4Rk.md) (shared: `agentic` · `host`)
 - [Orchard: An Open Foundation for Agentic Modeling Research](https://youtu.be/knxE_Pg2JBA) — Kubernetes · 16 views · Aug 27, 2026 · [Details](knxE_Pg2JBA.md) (shared: `agentic` · `bench`)
