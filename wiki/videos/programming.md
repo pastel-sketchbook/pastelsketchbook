@@ -3,7 +3,7 @@ type: category
 category: programming
 tags: [알고리즘, rust, refcell, pitfalls, alternatives, vercel, 보안, 대시보드, 영어 공부, 주판]
 sources: 9
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 
 # Programming
@@ -43,4 +43,4 @@ updated: 2026-09-24
 - [Security](security.md) -- shared tags: `rust`
 
 ---
-*Auto-generated on Sep 23, 2026. Back to [index](index.md).*
+*Auto-generated on Sep 26, 2026. Back to [index](index.md).*

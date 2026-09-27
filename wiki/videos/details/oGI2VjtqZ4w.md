@@ -32,7 +32,7 @@ This talk presents the modern architect's blueprint for domain-driven design, an
 
 - [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 23 views · Apr 30, 2026 · [Details](xlwu0YwE3_Q.md) (shared: `transaction` · `eventual` · `consistency`)
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 53 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `saga pattern` · `saga` · `pattern`)
-- [The Blueprint for Al-Augmented Agile](https://youtu.be/WCqusmhtteU) — Development · 32 views · Sep 20, 2026 · [Details](WCqusmhtteU.md) (shared: `aggregate` · `code` · `review`)
+- [The Blueprint for Al-Augmented Agile](https://youtu.be/WCqusmhtteU) — Development · 40 views · Sep 20, 2026 · [Details](WCqusmhtteU.md) (shared: `aggregate` · `code` · `review`)
 - [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 161 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `boundaries` · `matrix` · `code`)
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 145 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `code` · `review`)
 

@@ -2,7 +2,7 @@
 type: tag
 tags: [burn-framework]
 sources: 2
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 
 # burn framework
@@ -11,8 +11,8 @@ Videos connected by the topic `burn framework`.
 
 ## Videos
 
-- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 67 views · May 19, 2026 · [Details](../details/htpvlYnX77w.md)
+- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 69 views · May 19, 2026 · [Details](../details/htpvlYnX77w.md)
 - [The Architecture of tracel-ai/models](https://youtu.be/kSQtbPEtDkY) — Development · 21 views · May 20, 2026 · [Details](../details/kSQtbPEtDkY.md)
 
 ---
-*Auto-generated on Sep 23, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 26, 2026. Back to [topic index](index.md).*

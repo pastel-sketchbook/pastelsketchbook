@@ -35,7 +35,7 @@ This video tours Kubernetes 1.36 (“Haru”) as a platform-engineering release 
 - [Architectural Design Patterns for Kubernetes Extensions](https://youtu.be/_ydvFbr5Tdg) — Kubernetes · 24 views · Sep 17, 2026 · [Details](_ydvFbr5Tdg.md) (shared: `kubernetes` · `cel` · `api`)
 - [The Anatomy of Kubernetes](https://youtu.be/WrZN5AgpaW4) — Kubernetes · 28 views · May 12, 2026 · [Details](WrZN5AgpaW4.md) (shared: `kubernetes` · `api` · `control`)
 - [Architecting Kubernetes Operators](https://youtu.be/hvkvH7i8NLc) — Kubernetes · 18 views · May 31, 2026 · [Details](hvkvH7i8NLc.md) (shared: `kubernetes` · `resource` · `api`)
-- [Kubernetes v1.37](https://youtu.be/Itjb_eppRG0) — Kubernetes · 180 views · Aug 28, 2026 · [Details](Itjb_eppRG0.md) (shared: `kubernetes` · `admission` · `dra`)
+- [Kubernetes v1.37](https://youtu.be/Itjb_eppRG0) — Kubernetes · 182 views · Aug 28, 2026 · [Details](Itjb_eppRG0.md) (shared: `kubernetes` · `admission` · `dra`)
 
 ---
 *Auto-generated on Apr 25, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

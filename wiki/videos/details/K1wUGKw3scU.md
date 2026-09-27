@@ -39,7 +39,7 @@ South Korea's KRW 1,100 trillion (~$880B) national initiative reframes AI hardwa
 - [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 36 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `strategy` · `data` · `infrastructure`)
 - [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 20 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `data` · `center` · `infrastructure`)
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 47 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `center` · `infrastructure`)
-- [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 91 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data` · `center` · `infrastructure`)
+- [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 92 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data` · `center` · `infrastructure`)
 
 ---
 *Auto-generated on Jun 30, 2026. Back to [finance](../finance.md) · [index](../index.md).*

@@ -30,7 +30,7 @@ This video examines an ambitious data science project that attempted to predict 
 
 ## Related Videos
 
-- [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 32 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `data` · `engineering`)
+- [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 33 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `data` · `engineering`)
 - [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 93 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `data` · `analytics`)
 - [Deconstructing the Bridge](https://youtu.be/JNHxVHyzWdE) — Development · 26 views · Jun 1, 2026 · [Details](JNHxVHyzWdE.md) (shared: `limits` · `engineering`)
 - [The 10k LOC Sweet Spot](https://youtu.be/pgTCcVO4gfg) — Development · 18 views · Apr 21, 2026 · [Details](pgTCcVO4gfg.md) (shared: `limits` · `engineering`)

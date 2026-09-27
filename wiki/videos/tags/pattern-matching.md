@@ -2,7 +2,7 @@
 type: tag
 tags: [pattern-matching]
 sources: 2
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 
 # pattern matching
@@ -15,4 +15,4 @@ Videos connected by the topic `pattern matching`.
 - [Mastering Comprehensive Rust](https://youtu.be/DIMW-iHlDxE) — Development · 74 views · Mar 11, 2026 · [Details](../details/DIMW-iHlDxE.md)
 
 ---
-*Auto-generated on Sep 23, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 26, 2026. Back to [topic index](index.md).*
