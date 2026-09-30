@@ -36,7 +36,7 @@ This session fuses deterministic symbolic control flows with neural decision eng
 ## Related Videos
 
 - [The Agentic Future](https://youtu.be/z_W9dX6fliM) — Development · 67 views · Apr 24, 2026 · [Details](z_W9dX6fliM.md) (shared: `graph` · `hybrid` · `orchestration`)
-- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 112 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `wasm` · `graph` · `inference`)
+- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 113 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `wasm` · `graph` · `inference`)
 - [Burn: The Rust Deep Learning Framework](https://youtu.be/_bFOZ51Q55Y) — Development · 2.1K views · May 8, 2026 · [Details](_bFOZ51Q55Y.md) (shared: `fusion` · `embedded` · `orchestration`)
 - [Flutter & Dart: The 2026 Roadmap](https://youtu.be/WMcKFQ200OE) — Development · 67 views · Feb 27, 2026 · [Details](WMcKFQ200OE.md) (shared: `wasm` · `compilation`)
 - [The Performance Paradigm](https://youtu.be/2cuMV05Fang) — Development · 35 views · Jul 20, 2026 · [Details](2cuMV05Fang.md) (shared: `compilation` · `latency`)

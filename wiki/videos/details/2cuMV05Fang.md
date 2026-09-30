@@ -32,8 +32,8 @@ A performance comparison of Zsh (paired with the Antidote plugin manager) versus
 
 - [Beyond the Default ](https://youtu.be/tmerUd7eiy4) — Development · 11 views · Jan 11, 2026 · [Details](tmerUd7eiy4.md) (shared: `zsh` · `performance` · `shell`)
 - [Emulating the Server Push](https://youtu.be/wZC8NL32yfg) — Development · 17 views · Apr 19, 2026 · [Details](wZC8NL32yfg.md) (shared: `latency` · `compatibility`)
-- [Why uv, ruff, and ty are mandatory](https://youtu.be/i8wjbDfxZTY) — Development · 146 views · Jun 2, 2026 · [Details](i8wjbDfxZTY.md) (shared: `manager` · `static`)
-- [Integrating symbolic control flows](https://youtu.be/usWTuPnEc8M) — Development · 33 views · Sep 25, 2026 · [Details](usWTuPnEc8M.md) (shared: `latency` · `compilation`)
+- [Why uv, ruff, and ty are mandatory](https://youtu.be/i8wjbDfxZTY) — Development · 147 views · Jun 2, 2026 · [Details](i8wjbDfxZTY.md) (shared: `manager` · `static`)
+- [Integrating symbolic control flows](https://youtu.be/usWTuPnEc8M) — Development · 45 views · Sep 25, 2026 · [Details](usWTuPnEc8M.md) (shared: `latency` · `compilation`)
 - [Hangul + WASM](https://youtu.be/9yov-ZVv-Bo) — Development · 43 views · Jan 19, 2026 · [Details](9yov-ZVv-Bo.md) (shared: `performance`)
 
 ---

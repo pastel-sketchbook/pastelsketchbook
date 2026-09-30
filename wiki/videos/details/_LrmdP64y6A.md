@@ -31,7 +31,7 @@ This video presents a connoisseur's master class on apple varieties, treating po
 
 - [The Anatomy of a Giant](https://youtu.be/u5hQQZsLBwU) — Finance · 30 views · Jul 6, 2026 · [Details](u5hQQZsLBwU.md) (shared: `genetics`)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 44 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `architecture`)
-- [The Taco Spectrum](https://youtu.be/KrRfZ79b-TI) — Finance · 17 views · Sep 22, 2026 · [Details](KrRfZ79b-TI.md) (shared: `food`)
+- [The Taco Spectrum](https://youtu.be/KrRfZ79b-TI) — Finance · 20 views · Sep 22, 2026 · [Details](KrRfZ79b-TI.md) (shared: `food`)
 - [A global geography of folded dough](https://youtu.be/UorjmtDDRgQ) — Finance · 15 views · May 18, 2026 · [Details](UorjmtDDRgQ.md) (shared: `culinary`)
 - [The Golden Decade Architecture](https://youtu.be/f5Ld5cAhUZA) — Finance · 36 views · Aug 26, 2026 · [Details](f5Ld5cAhUZA.md) (shared: `architecture`)
 

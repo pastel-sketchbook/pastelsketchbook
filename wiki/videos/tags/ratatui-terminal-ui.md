@@ -2,7 +2,7 @@
 type: tag
 tags: [ratatui-terminal-ui]
 sources: 2
-updated: 2026-09-27
+updated: 2026-09-30
 ---
 
 # ratatui terminal ui
@@ -15,4 +15,4 @@ Videos connected by the topic `ratatui terminal ui`.
 - [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 20 views · May 23, 2026 · [Details](../details/TpyKC8_30xs.md)
 
 ---
-*Auto-generated on Sep 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 30, 2026. Back to [topic index](index.md).*

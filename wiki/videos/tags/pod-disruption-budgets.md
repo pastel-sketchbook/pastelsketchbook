@@ -2,7 +2,7 @@
 type: tag
 tags: [pod-disruption-budgets]
 sources: 2
-updated: 2026-09-27
+updated: 2026-09-30
 ---
 
 # pod disruption budgets
@@ -15,4 +15,4 @@ Videos connected by the topic `pod disruption budgets`.
 - [Upgrading MKE with NFS Stateful Workloads](https://youtu.be/WeVWqluXtlA) — Kubernetes · 24 views · Aug 30, 2026 · [Details](../details/WeVWqluXtlA.md)
 
 ---
-*Auto-generated on Sep 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 30, 2026. Back to [topic index](index.md).*

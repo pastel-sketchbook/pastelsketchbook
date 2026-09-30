@@ -34,7 +34,7 @@ This video explains the Raft distributed consensus algorithm, covering leader el
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 19 views · Apr 11, 2026 · [Details](a8heWpae5p0.md) (shared: `raft` · `consensus` · `log`)
 - [Deploying and Operating ClickHouse on AWS EKS](https://youtu.be/NCL_9PdUCc8) — Kubernetes · 22 views · Aug 19, 2026 · [Details](NCL_9PdUCc8.md) (shared: `replication` · `zookeeper` · `quorum`)
 - [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) — Kubernetes · 78 views · Apr 5, 2026 · [Details](WRpjJV4SUKc.md) (shared: `log` · `replication` · `rabbitmq`)
-- [Clickhouse is Winning the Observability Wars](https://youtu.be/mf86g5lXfTg) — Kubernetes · 26 views · Jul 16, 2026 · [Details](mf86g5lXfTg.md) (shared: `log` · `replication`)
+- [Clickhouse is Winning the Observability Wars](https://youtu.be/mf86g5lXfTg) — Kubernetes · 27 views · Jul 16, 2026 · [Details](mf86g5lXfTg.md) (shared: `log` · `replication`)
 
 ---
 

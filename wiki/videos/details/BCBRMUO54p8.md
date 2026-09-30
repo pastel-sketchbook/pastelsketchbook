@@ -31,9 +31,9 @@ This talk presents a field manual for designing modern data pipelines, hybrid pr
 ## Related Videos
 
 - [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 33 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `debezium` · `capture` · `streaming`)
-- [AX: The Distributed Agent Runtime](https://youtu.be/xiTVDbJscik) — Development · 89 views · May 23, 2026 · [Details](xiTVDbJscik.md) (shared: `log` · `event` · `streaming`)
-- [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 93 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `zero` · `duckdb` · `analytics`)
-- [Integrating symbolic control flows](https://youtu.be/usWTuPnEc8M) — Development · 33 views · Sep 25, 2026 · [Details](usWTuPnEc8M.md) (shared: `hybrid` · `embedded` · `orchestration`)
+- [AX: The Distributed Agent Runtime](https://youtu.be/xiTVDbJscik) — Development · 91 views · May 23, 2026 · [Details](xiTVDbJscik.md) (shared: `log` · `event` · `streaming`)
+- [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 94 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `zero` · `duckdb` · `analytics`)
+- [Integrating symbolic control flows](https://youtu.be/usWTuPnEc8M) — Development · 45 views · Sep 25, 2026 · [Details](usWTuPnEc8M.md) (shared: `hybrid` · `embedded` · `orchestration`)
 - [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 12 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `columnar` · `postgres` · `analytics`)
 
 ---

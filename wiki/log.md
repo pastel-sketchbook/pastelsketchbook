@@ -747,3 +747,24 @@ All are full-length (durationSec 936/829/936, none < 120s → not Shorts). For e
 Bundle: 496 videos, 496 with detail (Missing: 0). zmd reindexed (1219 documents); all 3 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 3 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 3 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
 
 Backward check: scanned all 496 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 3 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).
+
+## [2026-09-30] ingest | Video Metadata Sync
+
+Synced 499 videos across 6 categories (korea=20, finance=54, kubernetes=104, development=289, security=23, programming=9).
+
+## [2026-09-30] ingest | Video Transcripts
+
+Exported 1 transcript files (single: vJv79-V9DvA) to `wiki/raw/transcripts`.
+
+## [2026-09-30] ingest | Release 3 new full videos (published Sep 27-29)
+
+Released 3 newest full videos from `HIDDEN_VIDEO_IDS` so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- vJv79-V9DvA (Mathematics Verified, development, 2026-09-27)
+- lQrNKSfK1EM (Migrating Enterprise Microservices: Java to Go, development, 2026-09-28)
+- gOa8qf9JBEg (Architecting AI Feedback Loops, development, 2026-09-29)
+
+All are full-length (durationSec 689/857/1190, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md` (11-20KB, well above the ~2.5KB Shorts fallback), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: vJv79-V9DvA → Internals Companion Ch2 (The Mathematics of Probability and Risk, algorithms); lQrNKSfK1EM → Internals Companion Ch11 (Go: Concurrency, GC, and Modernization, go tag); gOa8qf9JBEg → Architect's Sketchbook Ch3 (The Enterprise AI Pipeline, enterprise AI governance).
+
+Bundle: 499 videos, 499 with detail (Missing: 0). zmd reindexed (1225 documents); all 3 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 3 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 3 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
+
+Backward check: scanned all 499 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 3 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).

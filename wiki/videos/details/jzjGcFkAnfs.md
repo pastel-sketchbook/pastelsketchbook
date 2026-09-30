@@ -30,7 +30,7 @@ This video provides a CTO-level architectural comparison of React Native versus 
 
 ## Related Videos
 
-- [The 2026 Mobile Architecture Blueprint](https://youtu.be/qbnzaHgvFzo) — Development · 13 views · Sep 24, 2026 · [Details](qbnzaHgvFzo.md) (shared: `react` · `native` · `flutter`)
+- [The 2026 Mobile Architecture Blueprint](https://youtu.be/qbnzaHgvFzo) — Development · 15 views · Sep 24, 2026 · [Details](qbnzaHgvFzo.md) (shared: `react` · `native` · `flutter`)
 - [Flutter & Dart: The 2026 Roadmap](https://youtu.be/WMcKFQ200OE) — Development · 67 views · Feb 27, 2026 · [Details](WMcKFQ200OE.md) (shared: `flutter` · `impeller` · `dart`)
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 50 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `native` · `cross-platform` · `bridge`)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `flutter` · `mobile` · `architecture`)

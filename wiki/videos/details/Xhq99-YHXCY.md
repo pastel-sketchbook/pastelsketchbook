@@ -30,10 +30,10 @@ This video presents a framework for integrating AI agents into professional soft
 
 ## Related Videos
 
-- [Guiding Al to Build the Modern Web](https://youtu.be/nwAdb-PyRlo) — Development · 72 views · May 24, 2026 · [Details](nwAdb-PyRlo.md) (shared: `agent` · `cli` · `integration`)
+- [Guiding Al to Build the Modern Web](https://youtu.be/nwAdb-PyRlo) — Development · 73 views · May 24, 2026 · [Details](nwAdb-PyRlo.md) (shared: `agent` · `cli` · `integration`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 34 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `cli` · `integration` · `code`)
 - [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 55 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `agent` · `cli` · `code`)
-- [Architecting the Hybrid Al Stack](https://youtu.be/g_ywAvwXmW4) — Development · 12 views · Sep 21, 2026 · [Details](g_ywAvwXmW4.md) (shared: `agent` · `human` · `loop`)
+- [Architecting the Hybrid Al Stack](https://youtu.be/g_ywAvwXmW4) — Development · 13 views · Sep 21, 2026 · [Details](g_ywAvwXmW4.md) (shared: `agent` · `human` · `loop`)
 - [The 2026 State of Al Agents](https://youtu.be/BAxPZdgmgRQ) — Development · 4 views · Jan 8, 2026 · [Details](BAxPZdgmgRQ.md) (shared: `workflows` · `coding`)
 
 ---

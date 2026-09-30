@@ -35,7 +35,7 @@ Microsoft's Build 2026 strategic blueprint for establishing Windows as the trust
 
 ## Related Videos
 
-- [Building Autonomous Agents with the Antigravity SDK](https://youtu.be/4q9gLzti6Lk) — Development · 220 views · Jun 22, 2026 · [Details](4q9gLzti6Lk.md) (shared: `agent` · `runtime` · `local`)
+- [Building Autonomous Agents with the Antigravity SDK](https://youtu.be/4q9gLzti6Lk) — Development · 241 views · Jun 22, 2026 · [Details](4q9gLzti6Lk.md) (shared: `agent` · `runtime` · `local`)
 - [Modular Playbook for Vertical Project Delivery](https://youtu.be/TErzICEXwRQ) — Development · 10 views · Aug 11, 2026 · [Details](TErzICEXwRQ.md) (shared: `platform` · `development` · `integration`)
 - [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 120 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `copilot` · `agent` · `runtime`)
 - [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 55 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `agent` · `runtime` · `development`)

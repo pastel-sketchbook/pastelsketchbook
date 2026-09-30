@@ -2,7 +2,7 @@
 type: tag
 tags: [compliance]
 sources: 2
-updated: 2026-09-27
+updated: 2026-09-30
 ---
 
 # compliance
@@ -15,4 +15,4 @@ Videos connected by the topic `compliance`.
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](../details/C6wLm6NRZW4.md)
 
 ---
-*Auto-generated on Sep 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 30, 2026. Back to [topic index](index.md).*

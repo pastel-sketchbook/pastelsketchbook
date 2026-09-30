@@ -2,7 +2,7 @@
 type: tag
 tags: [mutual-tls]
 sources: 2
-updated: 2026-09-27
+updated: 2026-09-30
 ---
 
 # mutual tls
@@ -15,4 +15,4 @@ Videos connected by the topic `mutual tls`.
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 24 views · Jan 14, 2026 · [Details](../details/A4-foXsdQiA.md)
 
 ---
-*Auto-generated on Sep 26, 2026. Back to [topic index](index.md).*
+*Auto-generated on Sep 30, 2026. Back to [topic index](index.md).*

@@ -35,7 +35,7 @@ This case study dissects the autonomous-agent rewrite of the GitHub Copilot runt
 
 ## Related Videos
 
-- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 77 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `rust` · `napi` · `abi`)
+- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 78 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `rust` · `napi` · `abi`)
 - [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 18 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `rust` · `error`)
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `autonomous` · `agent`)
 - [Professional Al Agent Usage via the CLI](https://youtu.be/Xhq99-YHXCY) — Development · 25 views · Jan 2, 2026 · [Details](Xhq99-YHXCY.md) (shared: `agent` · `loop`)
