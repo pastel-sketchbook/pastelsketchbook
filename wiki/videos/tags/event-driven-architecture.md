@@ -2,7 +2,7 @@
 type: tag
 tags: [event-driven-architecture]
 sources: 8
-updated: 2026-09-30
+updated: 2026-10-03
 ---
 
 # event-driven architecture
@@ -21,4 +21,4 @@ Videos connected by the topic `event-driven architecture`.
 - [Continuous Flow](https://youtu.be/tcrNdx1yH_E) — Kubernetes · 15 views · Mar 22, 2026 · [Details](../details/tcrNdx1yH_E.md)
 
 ---
-*Auto-generated on Sep 30, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 3, 2026. Back to [topic index](index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [strangler-fig-pattern]
 sources: 2
-updated: 2026-09-30
+updated: 2026-10-03
 ---
 
 # strangler fig pattern
@@ -15,4 +15,4 @@ Videos connected by the topic `strangler fig pattern`.
 - [Architecting Al in Software Engineering](https://youtu.be/yXZnBtdDTFk) — Development · 80 views · May 25, 2026 · [Details](../details/yXZnBtdDTFk.md)
 
 ---
-*Auto-generated on Sep 30, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 3, 2026. Back to [topic index](index.md).*

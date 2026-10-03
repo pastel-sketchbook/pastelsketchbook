@@ -768,3 +768,29 @@ All are full-length (durationSec 689/857/1190, none < 120s → not Shorts). For 
 Bundle: 499 videos, 499 with detail (Missing: 0). zmd reindexed (1225 documents); all 3 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 3 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 3 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
 
 Backward check: scanned all 499 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 3 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).
+
+## [2026-09-30] enrich | Semiannual Channel Analysis (2026-10)
+
+Generated channel analysis for 2026-10 from `videos-metadata.json` and category pages. Wrote `wiki/channel-analysis-2026-10.md` and refreshed `wiki/channel-analysis.md` (499 videos).
+
+## [2026-10-03] ingest | Video Metadata Sync
+
+Synced 503 videos across 6 categories (korea=20, finance=55, kubernetes=104, development=292, security=23, programming=9).
+
+## [2026-10-03] ingest | Video Transcripts
+
+Exported 1 transcript files (single: XwUIFjLrZcA) to `wiki/raw/transcripts`.
+
+## [2026-10-03] ingest | Release 4 new full videos (published Sep 30-Oct 03)
+
+Released 4 newest full videos from `HIDDEN_VIDEO_IDS` so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- XwUIFjLrZcA (The Hydraulic Housing Market, finance, 2026-09-30)
+- CIbmold6mAE (Pastel Sketchbook: 500 Videos. Two Books. One Library., development, 2026-10-01)
+- O8yq5uB2hXY (Pushing the Boundary of Server Applications with Rust, development, 2026-10-02)
+- P_ITPKGLbc4 (Math as the Ultimate Systems Optimization Tool, development, 2026-10-03)
+
+All are full-length (durationSec 917/665/652/550, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md` (9-15KB, well above the ~2.5KB Shorts fallback), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: XwUIFjLrZcA → Architect's Sketchbook Ch7 (The Architecture of Wealth, finance); P_ITPKGLbc4 → Internals Companion Ch2 (The Mathematics of Probability and Risk, probability math); O8yq5uB2hXY → Internals Companion Ch5 (The Rust HTTP Stack, topcoat web framework); CIbmold6mAE → NEW Architect's Sketchbook Ch12 (The Library Itself, milestone/meta theme with no existing chapter, appended last so no renumbering).
+
+Bundle: 503 videos, 503 with detail (Missing: 0). zmd reindexed (1234 documents); all 4 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` (incl. new Ch12) emitted to `dist/`.
+
+Backward check: scanned all 503 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 4 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).

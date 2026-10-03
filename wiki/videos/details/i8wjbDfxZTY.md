@@ -35,7 +35,7 @@ This talk argues for a mandatory — not optional — Python tooling baseline bu
 - [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 94 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `python` · `workflow`)
 - [The Performance Paradigm](https://youtu.be/2cuMV05Fang) — Development · 35 views · Jul 20, 2026 · [Details](2cuMV05Fang.md) (shared: `manager` · `static`)
 - [Architecting Modern JavaScript Modules](https://youtu.be/Fqokr0P2_ag) — Development · 25 views · May 25, 2026 · [Details](Fqokr0P2_ag.md) (shared: `tooling` · `static`)
-- [Transitioning to Go](https://youtu.be/y31idN_ZC0Q) — Development · 60 views · Sep 12, 2026 · [Details](y31idN_ZC0Q.md) (shared: `python` · `static`)
+- [Transitioning to Go](https://youtu.be/y31idN_ZC0Q) — Development · 61 views · Sep 12, 2026 · [Details](y31idN_ZC0Q.md) (shared: `python` · `static`)
 
 ---
 *Auto-generated on Jun 2, 2026. Back to [development](../development.md) · [index](../index.md).*

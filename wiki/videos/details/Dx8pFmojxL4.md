@@ -30,7 +30,7 @@ This talk frames AI providers as the new ISPs, where subscriptions sell cognitiv
 
 ## Related Videos
 
-- [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) — Development · 309 views · Feb 14, 2026 · [Details](kQc99Io3pCo.md) (shared: `context` · `enterprise` · `compliance`)
+- [HelixDB: The Unified Graph-Vector Database](https://youtu.be/kQc99Io3pCo) — Development · 317 views · Feb 14, 2026 · [Details](kQc99Io3pCo.md) (shared: `context` · `enterprise` · `compliance`)
 - [The 2026 Enterprise AI Blueprint](https://youtu.be/9xDzB24tO4I) — Finance · 36 views · May 21, 2026 · [Details](9xDzB24tO4I.md) (shared: `enterprise` · `data`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 80 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `economics` · `data`)
 - [The Human Lapidary](https://youtu.be/hsdOBMOGrDc) — Finance · 52 views · Sep 15, 2026 · [Details](hsdOBMOGrDc.md) (shared: `tiers` · `economics`)

@@ -238,7 +238,8 @@
             "8zivk3Mxuf0",
             "f5Ld5cAhUZA",
             "hsdOBMOGrDc",
-            "KrRfZ79b-TI"
+            "KrRfZ79b-TI",
+            "XwUIFjLrZcA"
           ],
           "tags": [
             "finance",
@@ -393,6 +394,20 @@
             "javascript",
             "esm"
           ]
+        },
+        {
+          "number": 12,
+          "title": "The Library Itself",
+          "summary": "The 500-video milestone turns the camera on the collection: 500 connected lessons woven into two books with open transcripts, related-video paths, and a study methodology for developers and English learners. This chapter holds milestone and mission videos about the library as a learning commons.",
+          "videoIds": [
+            "CIbmold6mAE"
+          ],
+          "tags": [
+            "esl",
+            "pastel sketchbook",
+            "milestone",
+            "learning"
+          ]
         }
       ]
     },
@@ -436,7 +451,8 @@
             "P-QVC5lOMbU",
             "JfGgWiiCTA0",
             "J4nERLAJIbs",
-            "vJv79-V9DvA"
+            "vJv79-V9DvA",
+            "P_ITPKGLbc4"
           ],
           "tags": [
             "algorithms",
@@ -496,7 +512,8 @@
             "qAHyv6G3a7M",
             "UOOkDh4RUbE",
             "o3ba6XdMQA0",
-            "33odiiNMGzQ"
+            "33odiiNMGzQ",
+            "O8yq5uB2hXY"
           ],
           "tags": [
             "rust",

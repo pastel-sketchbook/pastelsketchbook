@@ -36,7 +36,7 @@ This session engineers forced human-in-the-loop feedback systems for credit and 
 ## Related Videos
 
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 145 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `governance` · `review`)
-- [The Blueprint for Al-Augmented Agile](https://youtu.be/WCqusmhtteU) — Development · 46 views · Sep 20, 2026 · [Details](WCqusmhtteU.md) (shared: `review` · `design`)
+- [The Blueprint for Al-Augmented Agile](https://youtu.be/WCqusmhtteU) — Development · 47 views · Sep 20, 2026 · [Details](WCqusmhtteU.md) (shared: `review` · `design`)
 - [Digital Transformation 2.0](https://youtu.be/pnbcAqCaKh0) — Development · 83 views · Sep 3, 2026 · [Details](pnbcAqCaKh0.md) (shared: `governance` · `design`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `design`)
 - [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 47 views · Dec 28, 2025 · [Details](IF5sNQH-01c.md) (shared: `design`)
