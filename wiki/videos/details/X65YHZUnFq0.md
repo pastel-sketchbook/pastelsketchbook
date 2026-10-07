@@ -32,9 +32,9 @@ This video presents OpenFeature, a vendor-agnostic open standard for feature fla
 
 - [Modern Dart](https://youtu.be/JBh6rzeS-Qc) — Development · 83 views · Jan 20, 2026 · [Details](JBh6rzeS-Qc.md) (shared: `feature flags` · `feature` · `flags`)
 - [Hyper: The Foundation of Fast HTTP in Rust](https://youtu.be/DwAOCljoNoc) — Development · 114 views · May 2, 2026 · [Details](DwAOCljoNoc.md) (shared: `feature flags` · `feature` · `flags`)
-- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 161 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `feature flags` · `feature` · `flags`)
+- [Design for Deletion](https://youtu.be/yAeM2vpPWeM) — Development · 162 views · Apr 25, 2026 · [Details](yAeM2vpPWeM.md) (shared: `feature flags` · `feature` · `flags`)
 - [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 59 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `feature` · `flags`)
-- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 862 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `testing` · `abstraction`)
+- [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 865 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `testing` · `abstraction`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

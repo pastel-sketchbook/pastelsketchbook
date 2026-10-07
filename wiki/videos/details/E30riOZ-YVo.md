@@ -36,7 +36,7 @@ A comprehensive architectural walkthrough of object-relational mapping paradigms
 ## Related Videos
 
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `code` · `orm` · `query`)
-- [Pushing the Boundary of Server Applications with Rust](https://youtu.be/O8yq5uB2hXY) — Development · 38 views · Oct 2, 2026 · [Details](O8yq5uB2hXY.md) (shared: `mapping` · `orm` · `patterns`)
+- [Pushing the Boundary of Server Applications with Rust](https://youtu.be/O8yq5uB2hXY) — Development · 164 views · Oct 2, 2026 · [Details](O8yq5uB2hXY.md) (shared: `mapping` · `orm` · `patterns`)
 - [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 61 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `relational` · `query` · `engine`)
 - [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 25 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `orm` · `query` · `architecture`)
 - [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 98 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `strategies` · `engine` · `architecture`)

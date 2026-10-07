@@ -36,7 +36,7 @@ This milestone session presents Pastel Sketchbook as a unified library of 500 vi
 ## Related Videos
 
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 35 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `learning` · `architecture` · `loops`)
-- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 92 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture` · `internals`)
+- [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 93 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `architecture` · `internals`)
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 31 views · Apr 12, 2026 · [Details](tyR8SdHpOeY.md) (shared: `library` · `architecture`)
 - [Writing Modern Go in the Age of Al](https://youtu.be/Z90u9EVf4M4) — Development · 194 views · Mar 26, 2026 · [Details](Z90u9EVf4M4.md) (shared: `library` · `technical`)
 - [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 25 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `architecture` · `internals`)

@@ -37,7 +37,7 @@ This session blueprints 2026 mobile architecture around on-device AI, the cross-
 
 - [React Native vs. Flutter for Enterprise Apps](https://youtu.be/jzjGcFkAnfs) — Development · 35 views · Feb 26, 2026 · [Details](jzjGcFkAnfs.md) (shared: `mobile` · `architecture` · `flutter`)
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](LWc3AAHoxnU.md) (shared: `mobile` · `architecture` · `flutter`)
-- [Flutter & Dart: The 2026 Roadmap](https://youtu.be/WMcKFQ200OE) — Development · 67 views · Feb 27, 2026 · [Details](WMcKFQ200OE.md) (shared: `2026` · `flutter` · `impeller`)
+- [Flutter & Dart: The 2026 Roadmap](https://youtu.be/WMcKFQ200OE) — Development · 68 views · Feb 27, 2026 · [Details](WMcKFQ200OE.md) (shared: `2026` · `flutter` · `impeller`)
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 51 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `architecture` · `native` · `cross-platform`)
 - [Building Dynamic Al Interfaces with GenUl](https://youtu.be/CqBZBJTAo3I) — Development · 125 views · May 31, 2026 · [Details](CqBZBJTAo3I.md) (shared: `architecture` · `flutter` · `genui`)
 

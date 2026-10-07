@@ -3,7 +3,7 @@ type: category
 category: programming
 tags: [알고리즘, rust, refcell, pitfalls, alternatives, vercel, 보안, 대시보드, 영어 공부, 주판]
 sources: 9
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Programming
@@ -15,18 +15,18 @@ updated: 2026-10-03
 | Metric | Value |
 |--------|-------|
 | Videos | 9 |
-| Total Views | 313 |
+| Total Views | 315 |
 | Most Recent | Aug 8, 2026 |
 | Oldest | Jan 10, 2026 |
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Architecting State in Rust | 77 | Aug 8, 2026 | [Watch](https://youtu.be/Qhhnc6xLmSQ) | [Wiki](details/Qhhnc6xLmSQ.md) |
+| 1 | Architecting State in Rust | 78 | Aug 8, 2026 | [Watch](https://youtu.be/Qhhnc6xLmSQ) | [Wiki](details/Qhhnc6xLmSQ.md) |
 | 2 | Vercel 대시보드 보안 안내서 | 27 | Feb 1, 2026 | [Watch](https://youtu.be/GVq5DvGFLpI) | [Wiki](details/GVq5DvGFLpI.md) |
 | 3 | 알고리즘에서 코드로  TypeScript 가이드 | 14 | Jan 14, 2026 | [Watch](https://youtu.be/dsxuWtfzBGI) | [Wiki](details/dsxuWtfzBGI.md) |
 | 4 | 알고리즘 완전 정복 | 5 | Jan 14, 2026 | [Watch](https://youtu.be/iEn_PMcBlDk) | [Wiki](details/iEn_PMcBlDk.md) |
-| 5 | 영어 리스닝  3000시간의 법칙 | 70 | Jan 13, 2026 | [Watch](https://youtu.be/qyqLjeu8Hng) | [Wiki](details/qyqLjeu8Hng.md) |
+| 5 | 영어 리스닝  3000시간의 법칙 | 71 | Jan 13, 2026 | [Watch](https://youtu.be/qyqLjeu8Hng) | [Wiki](details/qyqLjeu8Hng.md) |
 | 6 | 마음 속의 계산기 | 9 | Jan 11, 2026 | [Watch](https://youtu.be/gKYw0_jkNFI) | [Wiki](details/gKYw0_jkNFI.md) |
 | 7 | 타입스크립트와 번으로 만드는 TODO 리스트 | 9 | Jan 10, 2026 | [Watch](https://youtu.be/D1Hth_78ftg) | [Wiki](details/D1Hth_78ftg.md) |
 | 8 | 비동기 처리 - async/await | 20 | Jan 10, 2026 | [Watch](https://youtu.be/F6aMGDfVAFg) | [Wiki](details/F6aMGDfVAFg.md) |
@@ -43,4 +43,4 @@ updated: 2026-10-03
 - [Security](security.md) -- shared tags: `rust`
 
 ---
-*Auto-generated on Oct 3, 2026. Back to [index](index.md).*
+*Auto-generated on Oct 7, 2026. Back to [index](index.md).*

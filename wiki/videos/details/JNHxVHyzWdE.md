@@ -31,8 +31,8 @@ This session examines hardware reverse engineering of a USB-to-PCIe bridge and t
 
 ## Related Videos
 
-- [The Calculus of ALOHA Networks](https://youtu.be/s585HlqiyMQ) — Development · 78 views · Apr 10, 2026 · [Details](s585HlqiyMQ.md) (shared: `protocol` · `access` · `analysis`)
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 128 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `engineering` · `memory`)
+- [The Calculus of ALOHA Networks](https://youtu.be/s585HlqiyMQ) — Development · 79 views · Apr 10, 2026 · [Details](s585HlqiyMQ.md) (shared: `protocol` · `access` · `analysis`)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 129 views · Jan 29, 2026 · [Details](o9yaniXkM-0.md) (shared: `engineering` · `memory`)
 - [The 98  Prediction Problem](https://youtu.be/FDYu2fllfuE) — Development · 4 views · Jan 12, 2026 · [Details](FDYu2fllfuE.md) (shared: `engineering` · `limits`)
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 51 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `bridge` · `layer`)
 - [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 247 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `hardware` · `memory`)

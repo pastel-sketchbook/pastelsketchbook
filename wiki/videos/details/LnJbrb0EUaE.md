@@ -34,7 +34,7 @@ A comprehensive architectural walkthrough of the Prisma ORM ecosystem, from its 
 - [The Architecture of Sequelize](https://youtu.be/ZUINk3dp9eA) — Development · 25 views · May 8, 2026 · [Details](ZUINk3dp9eA.md) (shared: `orm` · `architecture` · `query`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 34 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `rust` · `code` · `generation`)
 - [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 1.1K views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `architecture` · `rust` · `code`)
-- [Pushing the Boundary of Server Applications with Rust](https://youtu.be/O8yq5uB2hXY) — Development · 38 views · Oct 2, 2026 · [Details](O8yq5uB2hXY.md) (shared: `orm` · `rust` · `database`)
+- [Pushing the Boundary of Server Applications with Rust](https://youtu.be/O8yq5uB2hXY) — Development · 164 views · Oct 2, 2026 · [Details](O8yq5uB2hXY.md) (shared: `orm` · `rust` · `database`)
 
 ---
 *Auto-generated on May 8, 2026. Back to [development](../development.md) · [index](../index.md).*

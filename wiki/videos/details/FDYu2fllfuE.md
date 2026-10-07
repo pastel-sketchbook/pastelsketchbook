@@ -34,7 +34,7 @@ This video examines an ambitious data science project that attempted to predict 
 - [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 94 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `data` · `analytics`)
 - [Deconstructing the Bridge](https://youtu.be/JNHxVHyzWdE) — Development · 26 views · Jun 1, 2026 · [Details](JNHxVHyzWdE.md) (shared: `limits` · `engineering`)
 - [The 10k LOC Sweet Spot](https://youtu.be/pgTCcVO4gfg) — Development · 18 views · Apr 21, 2026 · [Details](pgTCcVO4gfg.md) (shared: `limits` · `engineering`)
-- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 12 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `data` · `analytics`)
+- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 13 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `data` · `analytics`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

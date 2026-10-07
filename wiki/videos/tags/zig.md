@@ -2,7 +2,7 @@
 type: tag
 tags: [zig]
 sources: 9
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # zig
@@ -11,9 +11,9 @@ Videos connected by the topic `zig`.
 
 ## Videos
 
-- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 360 views · Dec 28, 2025 · [Details](../details/olsB3bJxA2A.md)
+- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 361 views · Dec 28, 2025 · [Details](../details/olsB3bJxA2A.md)
 - [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 158 views · Apr 17, 2026 · [Details](../details/E8f87EV4k3A.md)
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 128 views · Jan 29, 2026 · [Details](../details/o9yaniXkM-0.md)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 129 views · Jan 29, 2026 · [Details](../details/o9yaniXkM-0.md)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](../details/7yqkfHo8Mwk.md)
 - [microgpt-zig: Atomic Al Training](https://youtu.be/AcpVuvtSXwI) — Development · 68 views · Feb 28, 2026 · [Details](../details/AcpVuvtSXwI.md)
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 47 views · Apr 21, 2026 · [Details](../details/xkHQhOgapfY.md)
@@ -22,4 +22,4 @@ Videos connected by the topic `zig`.
 - [Teaching an Ancient Calendar to a Microscopic AI](https://youtu.be/4wX4mGuiTjw) — Development · 9 views · Mar 8, 2026 · [Details](../details/4wX4mGuiTjw.md)
 
 ---
-*Auto-generated on Oct 3, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 7, 2026. Back to [topic index](index.md).*

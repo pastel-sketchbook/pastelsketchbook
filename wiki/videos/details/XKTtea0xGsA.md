@@ -47,7 +47,7 @@ Welcome  everyone.  Today  we  embark  on  a journey  to  understand  and  conqu
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `kubernetes` · `pod` · `scheduling`)
 - [Kubernetes Auto-Scaling Strategies](https://youtu.be/y3WwL48DLYw) — Kubernetes · 29 views · Feb 23, 2026 · [Details](y3WwL48DLYw.md) (shared: `kubernetes` · `resource` · `pod`)
 - [The Stateful Al Playbook](https://youtu.be/US99s1ISCkA) — Kubernetes · 68 views · Sep 5, 2026 · [Details](US99s1ISCkA.md) (shared: `orchestration` · `pod` · `disruption`)
-- [Orchestrating Kubernetes Resilience](https://youtu.be/ZECKRFPN8BA) — Kubernetes · 27 views · Aug 25, 2026 · [Details](ZECKRFPN8BA.md) (shared: `kubernetes` · `pod` · `disruption`)
+- [Orchestrating Kubernetes Resilience](https://youtu.be/ZECKRFPN8BA) — Kubernetes · 28 views · Aug 25, 2026 · [Details](ZECKRFPN8BA.md) (shared: `kubernetes` · `pod` · `disruption`)
 
 ---
 *Auto-generated on Jul 18, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

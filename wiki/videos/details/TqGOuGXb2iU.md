@@ -35,7 +35,7 @@ This session presents bt-go, a closed-loop training architecture for building 5Q
 
 ## Related Videos
 
-- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 12 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `architecture` · `data` · `engine`)
+- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 13 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `architecture` · `data` · `engine`)
 - [Architecting a Modern Robocode Engine](https://youtu.be/d3JxtD__-L0) — Development · 77 views · May 29, 2026 · [Details](d3JxtD__-L0.md) (shared: `architecture` · `engine` · `boundary`)
 - [The Rules and The Rebellion](https://youtu.be/dDtVuJXVYJk) — Development · 35 views · Apr 6, 2026 · [Details](dDtVuJXVYJk.md) (shared: `architecture` · `data`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 35 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `architecture` · `data`)

@@ -38,7 +38,7 @@ This session traces how Mexican-inspired cuisine scales from Austin food trucks 
 - [The Mystery of the Nickel Coke](https://youtu.be/l9UUqD2Bz2E) — Finance · 16 views · Apr 10, 2026 · [Details](l9UUqD2Bz2E.md) (shared: `consumer` · `economics`)
 - [The Human Lapidary](https://youtu.be/hsdOBMOGrDc) — Finance · 52 views · Sep 15, 2026 · [Details](hsdOBMOGrDc.md) (shared: `market` · `economics`)
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 47 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `market` · `fast`)
-- [The Pomology Field Guide](https://youtu.be/_LrmdP64y6A) — Finance · 34 views · Mar 19, 2026 · [Details](_LrmdP64y6A.md) (shared: `food`)
+- [The Pomology Field Guide](https://youtu.be/_LrmdP64y6A) — Finance · 35 views · Mar 19, 2026 · [Details](_LrmdP64y6A.md) (shared: `food`)
 - [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 42 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `strategy`)
 
 ---

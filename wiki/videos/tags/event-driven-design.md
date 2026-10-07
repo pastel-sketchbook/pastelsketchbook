@@ -2,7 +2,7 @@
 type: tag
 tags: [event-driven-design]
 sources: 2
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # event-driven design
@@ -15,4 +15,4 @@ Videos connected by the topic `event-driven design`.
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](../details/N4nRAfBZ3BE.md)
 
 ---
-*Auto-generated on Oct 3, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 7, 2026. Back to [topic index](index.md).*

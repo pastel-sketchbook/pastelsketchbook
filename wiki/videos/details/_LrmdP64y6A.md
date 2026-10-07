@@ -33,7 +33,7 @@ This video presents a connoisseur's master class on apple varieties, treating po
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 44 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `architecture`)
 - [The Taco Spectrum](https://youtu.be/KrRfZ79b-TI) — Finance · 20 views · Sep 22, 2026 · [Details](KrRfZ79b-TI.md) (shared: `food`)
 - [A global geography of folded dough](https://youtu.be/UorjmtDDRgQ) — Finance · 15 views · May 18, 2026 · [Details](UorjmtDDRgQ.md) (shared: `culinary`)
-- [The Golden Decade Architecture](https://youtu.be/f5Ld5cAhUZA) — Finance · 36 views · Aug 26, 2026 · [Details](f5Ld5cAhUZA.md) (shared: `architecture`)
+- [The Expat Financial Blueprint](https://youtu.be/6zindyvo088) — Finance · 11 views · Oct 5, 2026 · [Details](6zindyvo088.md) (shared: `architecture`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

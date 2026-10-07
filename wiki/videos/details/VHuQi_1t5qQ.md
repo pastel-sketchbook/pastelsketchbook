@@ -34,7 +34,7 @@ This video provides a comprehensive guide to Go pointers, covering fundamentals 
 
 ## Related Videos
 
-- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 360 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `pointer` · `garbage`)
+- [Let's check about Zig](https://youtu.be/olsB3bJxA2A) — Development · 361 views · Dec 28, 2025 · [Details](olsB3bJxA2A.md) (shared: `pointer` · `garbage`)
 - [High-Performance Go: Inside the 1.26 Release](https://youtu.be/Qo3oJv4uyBI) — Development · 247 views · Feb 12, 2026 · [Details](Qo3oJv4uyBI.md) (shared: `garbage` · `collector`)
 - [A Guide to Rust Smart Pointers](https://youtu.be/WdK7PED1ug8) — Development · 65 views · Feb 26, 2026 · [Details](WdK7PED1ug8.md) (shared: `pointers` · `heap`)
 - [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 993 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `analysis` · `slices`)

@@ -31,7 +31,7 @@ This talk is a comparative diagnostic of the California and Texas economies, tre
 ## Related Videos
 
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 47 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `energy` · `grid` · `ercot`)
-- [The Hydraulic Housing Market](https://youtu.be/XwUIFjLrZcA) — Finance · 9 views · Sep 30, 2026 · [Details](XwUIFjLrZcA.md) (shared: `housing` · `affordability` · `dynamics`)
+- [The Hydraulic Housing Market](https://youtu.be/XwUIFjLrZcA) — Finance · 10 views · Sep 30, 2026 · [Details](XwUIFjLrZcA.md) (shared: `housing` · `affordability` · `dynamics`)
 - [Nationwide Data Coverage & Auto-Filing Feasibility](https://youtu.be/SRwWBbsaQH4) — Finance · 15 views · May 13, 2026 · [Details](SRwWBbsaQH4.md) (shared: `state` · `property` · `tax`)
 - [The Architecture of Opportunity](https://youtu.be/8vJLWsfheRE) — Finance · 28 views · Jun 7, 2026 · [Details](8vJLWsfheRE.md) (shared: `economic` · `income`)
 - [Navigating Growth and Taxes from 65 to 75](https://youtu.be/8zivk3Mxuf0) — Finance · 3 views · Aug 13, 2026 · [Details](8zivk3Mxuf0.md) (shared: `tax` · `income`)

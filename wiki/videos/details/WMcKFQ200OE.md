@@ -33,7 +33,7 @@ This video covers the official Flutter and Dart 2026 roadmap, focusing on four s
 - [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) — Development · 34 views · Apr 18, 2026 · [Details](q-6cUColzQQ.md) (shared: `flutter` · `dart` · `renderer`)
 - [React Native vs. Flutter for Enterprise Apps](https://youtu.be/jzjGcFkAnfs) — Development · 35 views · Feb 26, 2026 · [Details](jzjGcFkAnfs.md) (shared: `flutter` · `dart` · `impeller`)
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](4_mBGmXA244.md) (shared: `flutter` · `dart` · `apps`)
-- [The 2026 Mobile Architecture Blueprint](https://youtu.be/qbnzaHgvFzo) — Development · 20 views · Sep 24, 2026 · [Details](qbnzaHgvFzo.md) (shared: `flutter` · `2026` · `impeller`)
+- [The 2026 Mobile Architecture Blueprint](https://youtu.be/qbnzaHgvFzo) — Development · 23 views · Sep 24, 2026 · [Details](qbnzaHgvFzo.md) (shared: `flutter` · `2026` · `impeller`)
 - [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 62 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `flutter` · `dart`)
 
 ---

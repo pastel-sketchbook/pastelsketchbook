@@ -2,7 +2,7 @@
 type: tag
 tags: [state-management]
 sources: 4
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # state management
@@ -17,4 +17,4 @@ Videos connected by the topic `state management`.
 - [The Compensating Transaction Pattern](https://youtu.be/xlwu0YwE3_Q) — Development · 27 views · Apr 30, 2026 · [Details](../details/xlwu0YwE3_Q.md)
 
 ---
-*Auto-generated on Oct 3, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 7, 2026. Back to [topic index](index.md).*

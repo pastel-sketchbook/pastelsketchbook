@@ -42,7 +42,7 @@ Burn is a Rust deep learning framework built on a hardware-agnostic tensor abstr
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 35 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `hardware` · `tensor` · `training`)
 - [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 113 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `tensor` · `zero` · `copy`)
 - [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 65 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `hardware` · `serialization` · `adapters`)
-- [Integrating symbolic control flows](https://youtu.be/usWTuPnEc8M) — Development · 46 views · Sep 25, 2026 · [Details](usWTuPnEc8M.md) (shared: `fusion` · `orchestration` · `embedded`)
+- [Integrating symbolic control flows](https://youtu.be/usWTuPnEc8M) — Development · 47 views · Sep 25, 2026 · [Details](usWTuPnEc8M.md) (shared: `fusion` · `orchestration` · `embedded`)
 
 ---
 *Auto-generated on May 9, 2026. Back to [development](../development.md) · [index](../index.md).*
