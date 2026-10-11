@@ -2,7 +2,7 @@
 type: tag
 tags: [rust]
 sources: 5
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # rust
@@ -18,4 +18,4 @@ Videos connected by the topic `rust`.
 - [Beat - Anatomy of a Real-Time Visualizer](https://youtu.be/lin_ycbQGtE) — Development · 28 views · Mar 20, 2026 · [Details](../details/lin_ycbQGtE.md)
 
 ---
-*Auto-generated on Oct 7, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 11, 2026. Back to [topic index](index.md).*

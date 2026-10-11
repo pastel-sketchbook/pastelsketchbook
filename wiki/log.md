@@ -815,3 +815,25 @@ All are full-length (durationSec 1173/825/838, none < 120s → not Shorts). For 
 Bundle: 506 videos, 506 with detail (Missing: 0). zmd reindexed (1240 documents); all 3 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 3 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 3 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
 
 Backward check: scanned all 506 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 3 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).
+
+## [2026-10-11] ingest | Video Metadata Sync
+
+Synced 510 videos across 6 categories (korea=20, finance=57, kubernetes=106, development=295, security=23, programming=9).
+
+## [2026-10-11] ingest | Video Transcripts
+
+Exported 1 transcript files (single: 0E6ApbZ0EEw) to `wiki/raw/transcripts`.
+
+## [2026-10-11] ingest | Release 4 new full videos (published Oct 07-10)
+
+Released 4 newest full videos from `HIDDEN_VIDEO_IDS` so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- ooFl27dIomY (Rust for C#/NET Developers, development, 2026-10-07)
+- FTR76_mdObI (The Clippy Configuration Playbook, development, 2026-10-08)
+- W00kh8zdQqc (The Architect's Guide to Microsoft Cloud Workstations, kubernetes, 2026-10-09)
+- 0E6ApbZ0EEw (The Infrastructure of the AI Era, finance, 2026-10-10)
+
+All are full-length (durationSec 641/640/1051/725, none < 120s → not Shorts). Note: W00kh8zdQqc was auto-hidden as a presumed Short in Sep; current metadata confirms full-length (1051s), so it is released as a full video. For each: raw transcript exported to `wiki/raw/transcripts/{id}.md` (11-19KB, well above the ~2.5KB Shorts fallback), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: ooFl27dIomY + FTR76_mdObI → Internals Companion Ch6 (The Rust Architect's Toolkit, rust tags); W00kh8zdQqc → Architect's Sketchbook Ch1 (The Control Plane and the Worker, kubernetes platform); 0E6ApbZ0EEw → Architect's Sketchbook Ch7 (The Architecture of Wealth, finance).
+
+Bundle: 510 videos, 510 with detail (Missing: 0). zmd reindexed (1248 documents); all 4 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
+
+Backward check: scanned all 510 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 4 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).

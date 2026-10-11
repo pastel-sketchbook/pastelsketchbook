@@ -49,7 +49,7 @@ Welcome.  Today  we  are  exploring  the orbital  compute  blueprint,  a compreh
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 9 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `data` · `center` · `capacity`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 92 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data` · `center` · `infrastructure`)
 - [The 2026 U.S. Fiber Ecosystem](https://youtu.be/QWQcpxHE6E8) — Finance · 7 views · Aug 9, 2026 · [Details](QWQcpxHE6E8.md) (shared: `data` · `center` · `cooling`)
-- [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 20 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `data` · `center` · `infrastructure`)
+- [The Infrastructure of the Al Era](https://youtu.be/0E6ApbZ0EEw) — Finance · 10 views · Oct 10, 2026 · [Details](0E6ApbZ0EEw.md) (shared: `data` · `infrastructure` · `economics`)
 
 ---
 *Auto-generated on May 2, 2026. Back to [finance](../finance.md) · [index](../index.md).*

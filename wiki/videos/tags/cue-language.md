@@ -2,7 +2,7 @@
 type: tag
 tags: [cue-language]
 sources: 3
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # cue language
@@ -16,4 +16,4 @@ Videos connected by the topic `cue language`.
 - [Beyond Static Configuration](https://youtu.be/okVlu1qseI4) — Kubernetes · 25 views · Feb 15, 2026 · [Details](../details/okVlu1qseI4.md)
 
 ---
-*Auto-generated on Oct 7, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 11, 2026. Back to [topic index](index.md).*

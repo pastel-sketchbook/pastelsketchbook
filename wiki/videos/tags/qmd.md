@@ -2,7 +2,7 @@
 type: tag
 tags: [qmd]
 sources: 2
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # qmd
@@ -15,4 +15,4 @@ Videos connected by the topic `qmd`.
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 47 views · Apr 21, 2026 · [Details](../details/xkHQhOgapfY.md)
 
 ---
-*Auto-generated on Oct 7, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 11, 2026. Back to [topic index](index.md).*

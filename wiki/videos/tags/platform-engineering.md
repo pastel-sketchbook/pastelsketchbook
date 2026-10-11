@@ -2,7 +2,7 @@
 type: tag
 tags: [platform-engineering]
 sources: 3
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # platform engineering
@@ -16,4 +16,4 @@ Videos connected by the topic `platform engineering`.
 - [The Golden Path](https://youtu.be/ORjARjbukhY) — Kubernetes · 25 views · Feb 21, 2026 · [Details](../details/ORjARjbukhY.md)
 
 ---
-*Auto-generated on Oct 7, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 11, 2026. Back to [topic index](index.md).*

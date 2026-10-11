@@ -35,10 +35,10 @@ Introduces ADR (agentic AI detection and response), an enterprise agentic securi
 
 ## Related Videos
 
-- [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 83 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `llm` · `agent`)
+- [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 84 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `llm` · `agent`)
 - [Architecting Al at Global Scale](https://youtu.be/PofJfj6nRuw) — Kubernetes · 5 views · Jun 11, 2026 · [Details](PofJfj6nRuw.md) (shared: `agentic` · `taxonomy`)
 - [Azure Linux 4.0 and the Al-Native Cloud Era](https://youtu.be/o9x4daXS4Rk) — Kubernetes · 37 views · Jul 5, 2026 · [Details](o9x4daXS4Rk.md) (shared: `agentic` · `host`)
-- [Engineering The Agentic Stack](https://youtu.be/Po5zwwf3vW4) — Kubernetes · 187 views · Oct 4, 2026 · [Details](Po5zwwf3vW4.md) (shared: `agentic` · `agent`)
+- [Engineering The Agentic Stack](https://youtu.be/Po5zwwf3vW4) — Kubernetes · 313 views · Oct 4, 2026 · [Details](Po5zwwf3vW4.md) (shared: `agentic` · `agent`)
 - [Orchard: An Open Foundation for Agentic Modeling Research](https://youtu.be/knxE_Pg2JBA) — Kubernetes · 16 views · Aug 27, 2026 · [Details](knxE_Pg2JBA.md) (shared: `agentic` · `bench`)
 
 ---

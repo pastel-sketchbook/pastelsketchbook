@@ -35,9 +35,9 @@ This session shows how probability theory plus strict Rust memory layout reclaim
 
 ## Related Videos
 
-- [The Rust Robotics Paradigm](https://youtu.be/gPnrk5TNKWg) — Development · 139 views · Jun 27, 2026 · [Details](gPnrk5TNKWg.md) (shared: `node` · `rust` · `memory`)
+- [The Rust Robotics Paradigm](https://youtu.be/gPnrk5TNKWg) — Development · 140 views · Jun 27, 2026 · [Details](gPnrk5TNKWg.md) (shared: `node` · `rust` · `memory`)
 - [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 63 views · Jan 29, 2026 · [Details](h31-NtagNoU.md) (shared: `memory` · `alignment` · `optimization`)
-- [Rust 1.96 Ecosystem Release](https://youtu.be/cDNqrUa260k) — Development · 54 views · May 30, 2026 · [Details](cDNqrUa260k.md) (shared: `rust` · `migration` · `optimization`)
+- [Rust 1.96 Ecosystem Release](https://youtu.be/cDNqrUa260k) — Development · 55 views · May 30, 2026 · [Details](cDNqrUa260k.md) (shared: `rust` · `migration` · `optimization`)
 - [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 54 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust` · `memory`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 29 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `memory`)
 

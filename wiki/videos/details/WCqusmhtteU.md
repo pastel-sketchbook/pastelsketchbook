@@ -39,7 +39,7 @@ This session lays out a practical blueprint for AI-augmented Agile that bridges 
 - [Taming the Genie](https://youtu.be/MaP2i4dTiQk) — Development · 18 views · Jan 23, 2026 · [Details](MaP2i4dTiQk.md) (shared: `design` · `code` · `augmented`)
 - [The Modern Architect's Blueprint](https://youtu.be/oGI2VjtqZ4w) — Development · 87 views · Sep 13, 2026 · [Details](oGI2VjtqZ4w.md) (shared: `aggregate` · `code` · `review`)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 97 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `context` · `mapping` · `language`)
-- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 146 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `code` · `review`)
+- [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 145 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `code` · `review`)
 
 ---
 *Auto-generated on Sep 24, 2026. Back to [development](../development.md) · [index](../index.md).*
