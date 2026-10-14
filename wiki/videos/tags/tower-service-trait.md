@@ -2,7 +2,7 @@
 type: tag
 tags: [tower-service-trait]
 sources: 2
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # tower service trait
@@ -11,8 +11,8 @@ Videos connected by the topic `tower service trait`.
 
 ## Videos
 
-- [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 766 views · May 9, 2026 · [Details](../details/qAHyv6G3a7M.md)
-- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) — Development · 70 views · May 3, 2026 · [Details](../details/07aDX5YB-ao.md)
+- [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 767 views · May 9, 2026 · [Details](../details/qAHyv6G3a7M.md)
+- [Modular Networking Architecture in Rust](https://youtu.be/07aDX5YB-ao) — Development · 71 views · May 3, 2026 · [Details](../details/07aDX5YB-ao.md)
 
 ---
-*Auto-generated on Oct 11, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 14, 2026. Back to [topic index](index.md).*

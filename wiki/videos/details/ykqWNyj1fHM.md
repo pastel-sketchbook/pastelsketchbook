@@ -40,7 +40,7 @@ The Digital Twin Blueprint is an architecture for building high-performance, pho
 - [Flutter Web Explained](https://youtu.be/q-6cUColzQQ) — Development · 34 views · Apr 18, 2026 · [Details](q-6cUColzQQ.md) (shared: `rendering` · `gpu`)
 - [The Architecture of a Virtual Voice](https://youtu.be/aQpGQClZSvc) — Development · 19 views · May 27, 2026 · [Details](aQpGQClZSvc.md) (shared: `rendering` · `pipeline`)
 - [SlideVoice Studio CLI Architecture](https://youtu.be/ISLXOiFqC50) — Development · 13 views · Jun 19, 2026 · [Details](ISLXOiFqC50.md) (shared: `pipeline` · `binary`)
-- [Diagnostic Guide to Computer Vision Feature Detection](https://youtu.be/AvysIjFrTEw) — Development · 35 views · May 11, 2026 · [Details](AvysIjFrTEw.md) (shared: `pipeline` · `binary`)
+- [Engineering a Unified Kubernetes Metrics Pipeline](https://youtu.be/00gLyK5Wv_4) — Development · 5 views · Oct 14, 2026 · [Details](00gLyK5Wv_4.md) (shared: `rendering` · `pipeline`)
 
 ---
 *Auto-generated on Jul 6, 2026. Back to [development](../development.md) · [index](../index.md).*

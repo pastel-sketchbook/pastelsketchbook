@@ -2,7 +2,7 @@
 type: tag
 tags: [echo-web-framework]
 sources: 2
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # echo web framework
@@ -12,7 +12,7 @@ Videos connected by the topic `echo web framework`.
 ## Videos
 
 - [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 143 views · Mar 1, 2026 · [Details](../details/uqZ-mwxGf2c.md)
-- [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 50 views · May 3, 2026 · [Details](../details/QOYXBkMcnYk.md)
+- [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 52 views · May 3, 2026 · [Details](../details/QOYXBkMcnYk.md)
 
 ---
-*Auto-generated on Oct 11, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 14, 2026. Back to [topic index](index.md).*

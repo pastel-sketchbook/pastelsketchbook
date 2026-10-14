@@ -2,7 +2,7 @@
 type: tag
 tags: [burn-deep-learning-framework]
 sources: 2
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # burn deep learning framework
@@ -15,4 +15,4 @@ Videos connected by the topic `burn deep learning framework`.
 - [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 20 views · May 23, 2026 · [Details](../details/TpyKC8_30xs.md)
 
 ---
-*Auto-generated on Oct 11, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 14, 2026. Back to [topic index](index.md).*

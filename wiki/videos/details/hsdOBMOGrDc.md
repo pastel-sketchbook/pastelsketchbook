@@ -32,9 +32,9 @@ The Human Lapidary is a finance-oriented framework that maps the 16 MBTI persona
 
 - [Systematic Momentum Execution](https://youtu.be/md9nXDH1u7Q) — Finance · 5 views · Jul 22, 2026 · [Details](md9nXDH1u7Q.md) (shared: `price` · `framework` · `market`)
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `price` · `market`)
-- [The Mystery of the Nickel Coke](https://youtu.be/l9UUqD2Bz2E) — Finance · 16 views · Apr 10, 2026 · [Details](l9UUqD2Bz2E.md) (shared: `price` · `economics`)
+- [The Mystery of the Nickel Coke](https://youtu.be/l9UUqD2Bz2E) — Finance · 18 views · Apr 10, 2026 · [Details](l9UUqD2Bz2E.md) (shared: `price` · `economics`)
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) — Finance · 8 views · May 20, 2026 · [Details](Dx8pFmojxL4.md) (shared: `tiers` · `economics`)
-- [The Taco Spectrum](https://youtu.be/KrRfZ79b-TI) — Finance · 21 views · Sep 22, 2026 · [Details](KrRfZ79b-TI.md) (shared: `economics` · `market`)
+- [The Taco Spectrum](https://youtu.be/KrRfZ79b-TI) — Finance · 20 views · Sep 22, 2026 · [Details](KrRfZ79b-TI.md) (shared: `economics` · `market`)
 
 ---
 *Auto-generated on Sep 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

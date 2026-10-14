@@ -32,9 +32,9 @@ This talk presents a field manual for designing modern data pipelines, hybrid pr
 
 - [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 33 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `debezium` · `capture` · `streaming`)
 - [AX: The Distributed Agent Runtime](https://youtu.be/xiTVDbJscik) — Development · 97 views · May 23, 2026 · [Details](xiTVDbJscik.md) (shared: `log` · `event` · `streaming`)
+- [Engineering a Unified Kubernetes Metrics Pipeline](https://youtu.be/00gLyK5Wv_4) — Development · 5 views · Oct 14, 2026 · [Details](00gLyK5Wv_4.md) (shared: `pipeline` · `duckdb` · `embedded`)
 - [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 99 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `zero` · `duckdb` · `analytics`)
 - [Integrating symbolic control flows](https://youtu.be/usWTuPnEc8M) — Development · 47 views · Sep 25, 2026 · [Details](usWTuPnEc8M.md) (shared: `hybrid` · `embedded` · `orchestration`)
-- [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 13 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `columnar` · `postgres` · `analytics`)
 
 ---
 *Auto-generated on Jul 26, 2026. Back to [development](../development.md) · [index](../index.md).*

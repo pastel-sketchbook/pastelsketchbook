@@ -2,7 +2,7 @@
 type: tag
 tags: [type-safety]
 sources: 2
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # type safety
@@ -15,4 +15,4 @@ Videos connected by the topic `type safety`.
 - [Modern Dart](https://youtu.be/JBh6rzeS-Qc) — Development · 83 views · Jan 20, 2026 · [Details](../details/JBh6rzeS-Qc.md)
 
 ---
-*Auto-generated on Oct 11, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 14, 2026. Back to [topic index](index.md).*

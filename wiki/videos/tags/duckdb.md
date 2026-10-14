@@ -2,7 +2,7 @@
 type: tag
 tags: [duckdb]
 sources: 3
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # duckdb
@@ -16,4 +16,4 @@ Videos connected by the topic `duckdb`.
 - [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 21 views · Mar 14, 2026 · [Details](../details/gu-5cim8mpA.md)
 
 ---
-*Auto-generated on Oct 11, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 14, 2026. Back to [topic index](index.md).*

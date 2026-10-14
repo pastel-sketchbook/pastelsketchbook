@@ -32,9 +32,9 @@ This talk presents the "Sovereign AI Utility" — a vertically integrated bluepr
 
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 47 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `behind` · `meter` · `energy`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 92 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `infrastructure` · `capital` · `data`)
-- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 37 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `sovereign` · `infrastructure` · `data`)
+- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 38 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `infrastructure` · `financing` · `data`)
+- [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 38 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `sovereign` · `infrastructure` · `data`)
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `energy` · `infrastructure`)
-- [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `energy` · `infrastructure`)
 
 ---
 *Auto-generated on Jul 28, 2026. Back to [finance](../finance.md) · [index](../index.md).*

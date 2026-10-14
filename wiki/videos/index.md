@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 510
-updated: 2026-10-11
+sources: 514
+updated: 2026-10-14
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 510 |
-| Total Views | 47.8K |
+| Total Videos | 514 |
+| Total Views | 48.6K |
 | Categories | 6 |
-| Last Updated | Oct 11, 2026 |
+| Last Updated | Oct 14, 2026 |
 
 ## Categories
 
@@ -28,15 +28,15 @@ Korean travel vlogs narrated in Spanish, plus Spanish language learning guides. 
 
 ### [Finance](finance.md)
 
-Videos covering personal finance, investing, and economics. 57 videos, 1.4K total views.
+Videos covering personal finance, investing, and economics. 58 videos, 1.5K total views.
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 106 videos, 4.1K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 106 videos, 4.2K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 295 videos, 40.6K total views.
+Videos about software development, tools, workflows, and engineering practices. 298 videos, 41.2K total views.
 
 ### [Security](security.md)
 
@@ -65,8 +65,8 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `2026` | [Finance](finance.md), [Development](development.md) |
 | `levy` | [Finance](finance.md), [Development](development.md) |
 | `notebooklm` | [Finance](finance.md), [Development](development.md) |
+| `k8s` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `rabbitmq` | [Kubernetes](kubernetes.md), [Development](development.md) |
-| `event driven` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Oct 11, 2026. See [wiki index](../index.md).*
+*Auto-generated on Oct 14, 2026. See [wiki index](../index.md).*

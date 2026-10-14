@@ -45,11 +45,11 @@ Welcome.  Today  we  are  exploring  the orbital  compute  blueprint,  a compreh
 
 ## Related Videos
 
+- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 38 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `data` · `center` · `infrastructure`)
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 47 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `center` · `compute`)
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 9 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `data` · `center` · `capacity`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 92 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data` · `center` · `infrastructure`)
 - [The 2026 U.S. Fiber Ecosystem](https://youtu.be/QWQcpxHE6E8) — Finance · 7 views · Aug 9, 2026 · [Details](QWQcpxHE6E8.md) (shared: `data` · `center` · `cooling`)
-- [The Infrastructure of the Al Era](https://youtu.be/0E6ApbZ0EEw) — Finance · 10 views · Oct 10, 2026 · [Details](0E6ApbZ0EEw.md) (shared: `data` · `infrastructure` · `economics`)
 
 ---
 *Auto-generated on May 2, 2026. Back to [finance](../finance.md) · [index](../index.md).*

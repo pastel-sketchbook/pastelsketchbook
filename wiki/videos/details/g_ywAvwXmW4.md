@@ -35,7 +35,7 @@ This session architects a production hybrid AI stack that splits work between Je
 
 ## Related Videos
 
-- [Dual Core Actor Architecture](https://youtu.be/70lTdNGjhuk) — Development · 39 views · Oct 6, 2026 · [Details](70lTdNGjhuk.md) (shared: `triage` · `threshold` · `routing`)
+- [Dual Core Actor Architecture](https://youtu.be/70lTdNGjhuk) — Development · 40 views · Oct 6, 2026 · [Details](70lTdNGjhuk.md) (shared: `triage` · `threshold` · `routing`)
 - [Professional Al Agent Usage via the CLI](https://youtu.be/Xhq99-YHXCY) — Development · 25 views · Jan 2, 2026 · [Details](Xhq99-YHXCY.md) (shared: `agent` · `loop` · `human`)
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 60 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `hybrid` · `agent`)
 - [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 84 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `agent` · `verification`)

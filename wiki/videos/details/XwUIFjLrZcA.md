@@ -39,7 +39,7 @@ This session dissects the 2026 United States housing market through the hydrauli
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `market`)
 - [The Exchange Rate of Your Life](https://youtu.be/MBnVggs6k5g) — Finance · 17 views · Jan 22, 2026 · [Details](MBnVggs6k5g.md) (shared: `rate`)
 - [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `market`)
-- [The Mystery of the Nickel Coke](https://youtu.be/l9UUqD2Bz2E) — Finance · 16 views · Apr 10, 2026 · [Details](l9UUqD2Bz2E.md) (shared: `inflation`)
+- [The Mystery of the Nickel Coke](https://youtu.be/l9UUqD2Bz2E) — Finance · 18 views · Apr 10, 2026 · [Details](l9UUqD2Bz2E.md) (shared: `inflation`)
 
 ---
 *Auto-generated on Oct 3, 2026. Back to [finance](../finance.md) · [index](../index.md).*
