@@ -45,7 +45,7 @@ Welcome.  Today  we  are  exploring  the orbital  compute  blueprint,  a compreh
 
 ## Related Videos
 
-- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 38 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `data` · `center` · `infrastructure`)
+- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 39 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `data` · `center` · `infrastructure`)
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 47 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `center` · `compute`)
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 9 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `data` · `center` · `capacity`)
 - [Navigating the Al Capital Cycle: 2026 & Beyond](https://youtu.be/9z6mOWQgU84) — Finance · 92 views · Feb 17, 2026 · [Details](9z6mOWQgU84.md) (shared: `data` · `center` · `infrastructure`)

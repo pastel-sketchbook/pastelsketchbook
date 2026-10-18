@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-10-14
+updated: 2026-10-18
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 183
+Total topics: 184
 
 ## Topics
 
@@ -56,6 +56,7 @@ Total topics: 183
 - [kv cache management](kv-cache-management.md) (3)
 - [paseto tokens](paseto-tokens.md) (3)
 - [platform engineering](platform-engineering.md) (3)
+- [rabbitmq quorum queues](rabbitmq-quorum-queues.md) (3)
 - [retirement planning](retirement-planning.md) (3)
 - [risk management](risk-management.md) (3)
 - [rust tui](rust-tui.md) (3)
@@ -126,6 +127,7 @@ Total topics: 183
 - [immutable infrastructure](immutable-infrastructure.md) (2)
 - [json parsing](json-parsing.md) (2)
 - [k-eta visa](k-eta-visa.md) (2)
+- [kata containers isolation](kata-containers-isolation.md) (2)
 - [korean language learning](korean-language-learning.md) (2)
 - [korean travel](korean-travel.md) (2)
 - [ktx train](ktx-train.md) (2)
@@ -159,7 +161,6 @@ Total topics: 183
 - [problem decomposition](problem-decomposition.md) (2)
 - [qmd](qmd.md) (2)
 - [quic protocol](quic-protocol.md) (2)
-- [rabbitmq quorum queues](rabbitmq-quorum-queues.md) (2)
 - [raft consensus algorithm](raft-consensus-algorithm.md) (2)
 - [ratatui terminal ui](ratatui-terminal-ui.md) (2)
 - [rayon data parallelism](rayon-data-parallelism.md) (2)
@@ -196,4 +197,4 @@ Total topics: 183
 - [write-ahead log](write-ahead-log.md) (2)
 
 ---
-*Auto-generated on Oct 14, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Oct 18, 2026. Back to [videos index](../index.md).*

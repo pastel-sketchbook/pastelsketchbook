@@ -30,11 +30,11 @@ The Burn Book is a multi-surface deep learning curriculum architecture for the B
 
 ## Related Videos
 
-- [Engineering a Unified Kubernetes Metrics Pipeline](https://youtu.be/00gLyK5Wv_4) — Development · 5 views · Oct 14, 2026 · [Details](00gLyK5Wv_4.md) (shared: `ratatui` · `terminal` · `embedded`)
-- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 35 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `architecture` · `burn deep learning framework` · `burn`)
+- [Engineering a Unified Kubernetes Metrics Pipeline](https://youtu.be/00gLyK5Wv_4) — Development · 49 views · Oct 14, 2026 · [Details](00gLyK5Wv_4.md) (shared: `ratatui` · `terminal` · `embedded`)
+- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 37 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `architecture` · `burn deep learning framework` · `burn`)
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 51 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `architecture` · `tauri` · `desktop`)
 - [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 36 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `architecture` · `tauri 2 desktop shell` · `tauri`)
-- [The Architecture of tracel-ai/models](https://youtu.be/kSQtbPEtDkY) — Development · 21 views · May 20, 2026 · [Details](kSQtbPEtDkY.md) (shared: `architecture` · `burn` · `deep`)
+- [The Architecture of tracel-ai/models](https://youtu.be/kSQtbPEtDkY) — Development · 22 views · May 20, 2026 · [Details](kSQtbPEtDkY.md) (shared: `architecture` · `burn` · `deep`)
 
 ---
 *Auto-generated on May 24, 2026. Back to [development](../development.md) · [index](../index.md).*

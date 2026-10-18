@@ -2,7 +2,7 @@
 type: tag
 tags: [problem-decomposition]
 sources: 2
-updated: 2026-10-14
+updated: 2026-10-18
 ---
 
 # problem decomposition
@@ -15,4 +15,4 @@ Videos connected by the topic `problem decomposition`.
 - [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 3 views · Jan 6, 2026 · [Details](../details/z_Ydy_-cI1U.md)
 
 ---
-*Auto-generated on Oct 14, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 18, 2026. Back to [topic index](index.md).*

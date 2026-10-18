@@ -36,7 +36,7 @@ This talk maps the 2026 U.S. fiber optic supply chain as the infrastructure lag 
 ## Related Videos
 
 - [Timing the 2026-2030 Optical Super-Cycle](https://youtu.be/IfOAA7cOu6o) — Finance · 23 views · Aug 17, 2026 · [Details](IfOAA7cOu6o.md) (shared: `fiber` · `supercycle` · `co-packaged`)
-- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 38 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `data` · `center` · `liquid`)
+- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 39 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `data` · `center` · `liquid`)
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 47 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `center` · `liquid`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 80 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `cooling`)
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 9 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `data` · `center` · `manufacturing`)

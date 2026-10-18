@@ -2,7 +2,7 @@
 type: tag
 tags: [cloud-native-infrastructure]
 sources: 2
-updated: 2026-10-14
+updated: 2026-10-18
 ---
 
 # cloud-native infrastructure
@@ -15,4 +15,4 @@ Videos connected by the topic `cloud-native infrastructure`.
 - [Transitioning to Go](https://youtu.be/y31idN_ZC0Q) — Development · 62 views · Sep 12, 2026 · [Details](../details/y31idN_ZC0Q.md)
 
 ---
-*Auto-generated on Oct 14, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 18, 2026. Back to [topic index](index.md).*

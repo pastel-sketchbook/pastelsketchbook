@@ -35,7 +35,7 @@ A technical blueprint for migrating a SolidJS 1.x application to the `2.0.0-beta
 - [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 52 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `migration` · `lifecycle`)
 - [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 98 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `batching` · `compute`)
 - [Architecting Modern JavaScript Modules](https://youtu.be/Fqokr0P2_ag) — Development · 25 views · May 25, 2026 · [Details](Fqokr0P2_ag.md) (shared: `migration` · `loading`)
-- [Pushing the Boundary of Server Applications with Rust](https://youtu.be/O8yq5uB2hXY) — Development · 176 views · Oct 2, 2026 · [Details](O8yq5uB2hXY.md) (shared: `signals` · `reactivity`)
+- [Pushing the Boundary of Server Applications with Rust](https://youtu.be/O8yq5uB2hXY) — Development · 180 views · Oct 2, 2026 · [Details](O8yq5uB2hXY.md) (shared: `signals` · `reactivity`)
 
 ---
 *Auto-generated on Jun 2, 2026. Back to [development](../development.md) · [index](../index.md).*

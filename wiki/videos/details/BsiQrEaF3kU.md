@@ -34,7 +34,7 @@ This presentation explores MotherDuck's hybrid query processing architecture bas
 - [The Data Singularity in Microsoft Fabric](https://youtu.be/u60g2nMtVi4) — Kubernetes · 21 views · Mar 13, 2026 · [Details](u60g2nMtVi4.md) (shared: `duckdb` · `analytics` · `single-node`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `architecture` · `analytics`)
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 26 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `hybrid` · `architecture`)
-- [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `architecture`)
+- [Architecting CDC Pipelines](https://youtu.be/JKXsba2_TgY) — Kubernetes · 11 views · Oct 15, 2026 · [Details](JKXsba2_TgY.md) (shared: `tier` · `architecture`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

@@ -30,7 +30,7 @@ This video provides a technical briefing on the Rust 1.95.0 release, covering th
 
 ## Related Videos
 
-- [From 0 to N-Dimensions](https://youtu.be/6M76N3jhh1Q) — Development · 43 views · May 19, 2026 · [Details](6M76N3jhh1Q.md) (shared: `rust` · `macro` · `crate`)
+- [From 0 to N-Dimensions](https://youtu.be/6M76N3jhh1Q) — Development · 44 views · May 19, 2026 · [Details](6M76N3jhh1Q.md) (shared: `rust` · `macro` · `crate`)
 - [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 79 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `rust` · `macro` · `crate`)
 - [Pastel Market: Engineering a Unified Terminal Workspace](https://youtu.be/feWjiYzQQ-k) — Development · 42 views · Apr 19, 2026 · [Details](feWjiYzQQ-k.md) (shared: `rust` · `crate`)
 - [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 42 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `rust` · `crate`)

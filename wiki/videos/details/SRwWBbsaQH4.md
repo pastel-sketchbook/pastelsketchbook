@@ -31,7 +31,7 @@ A scalable property tax ingestion strategy targets all 3,143 US counties by expl
 ## Related Videos
 
 - [The California vs. Texas Economic Rivalry](https://youtu.be/DMfE_eElLAc) — Finance · 30 views · Aug 3, 2026 · [Details](DMfE_eElLAc.md) (shared: `property` · `tax` · `state`)
-- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 38 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `data` · `generation`)
+- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 39 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `data` · `generation`)
 - [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 47 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `integration`)
 - [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 28 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `data` · `integration`)
 - [2050: The Post-Labor Paradigm](https://youtu.be/ybR0RxXj2_M) — Finance · 12 views · Feb 7, 2026 · [Details](ybR0RxXj2_M.md) (shared: `automation`)

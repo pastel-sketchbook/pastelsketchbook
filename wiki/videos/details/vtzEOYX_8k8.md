@@ -34,7 +34,7 @@ This session provides a comprehensive architectural overview of the Wireshark ec
 - [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 33 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `capture`)
 - [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 994 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `capture`)
 - [The PyTorch Architecture Blueprint](https://youtu.be/KXx_6BhzOFE) — Development · 68 views · Jun 13, 2026 · [Details](KXx_6BhzOFE.md) (shared: `capture`)
-- [Local Change Data Capture at Scale](https://youtu.be/FIelcuTti-I) — Development · 24 views · May 26, 2026 · [Details](FIelcuTti-I.md) (shared: `capture`)
+- [Local Change Data Capture at Scale](https://youtu.be/FIelcuTti-I) — Development · 25 views · May 26, 2026 · [Details](FIelcuTti-I.md) (shared: `capture`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [development](../development.md) · [index](../index.md).*

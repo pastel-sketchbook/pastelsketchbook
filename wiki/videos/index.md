@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 514
-updated: 2026-10-14
+sources: 517
+updated: 2026-10-18
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 514 |
-| Total Views | 48.6K |
+| Total Videos | 517 |
+| Total Views | 49.1K |
 | Categories | 6 |
-| Last Updated | Oct 14, 2026 |
+| Last Updated | Oct 18, 2026 |
 
 ## Categories
 
@@ -32,11 +32,11 @@ Videos covering personal finance, investing, and economics. 58 videos, 1.5K tota
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 106 videos, 4.2K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 108 videos, 4.3K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 298 videos, 41.2K total views.
+Videos about software development, tools, workflows, and engineering practices. 299 videos, 41.7K total views.
 
 ### [Security](security.md)
 
@@ -44,7 +44,7 @@ Videos on cybersecurity, application security, and security engineering. 23 vide
 
 ### [Programming](programming.md)
 
-Videos about programming languages, paradigms, and computer science concepts. 9 videos, 317 total views.
+Videos about programming languages, paradigms, and computer science concepts. 9 videos, 318 total views.
 
 ## Cross-Category Tags
 
@@ -65,8 +65,8 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `2026` | [Finance](finance.md), [Development](development.md) |
 | `levy` | [Finance](finance.md), [Development](development.md) |
 | `notebooklm` | [Finance](finance.md), [Development](development.md) |
-| `k8s` | [Kubernetes](kubernetes.md), [Development](development.md) |
-| `rabbitmq` | [Kubernetes](kubernetes.md), [Development](development.md) |
+| `cloud` | [Kubernetes](kubernetes.md), [Development](development.md) |
+| `cdc` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Oct 14, 2026. See [wiki index](../index.md).*
+*Auto-generated on Oct 18, 2026. See [wiki index](../index.md).*

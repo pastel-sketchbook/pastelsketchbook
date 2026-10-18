@@ -39,7 +39,7 @@ This session engineers a single-binary Rust pipeline that ingests Kubernetes met
 - [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 10 views · Jun 23, 2026 · [Details](o3ba6XdMQA0.md) (shared: `pipeline` · `tokio` · `grpc`)
 - [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 131 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `grpc` · `rest` · `multiplexing`)
 - [The Architecture of a Virtual Voice](https://youtu.be/aQpGQClZSvc) — Development · 19 views · May 27, 2026 · [Details](aQpGQClZSvc.md) (shared: `pipeline` · `parsing` · `rendering`)
-- [Pushing the Boundary of Server Applications with Rust](https://youtu.be/O8yq5uB2hXY) — Development · 176 views · Oct 2, 2026 · [Details](O8yq5uB2hXY.md) (shared: `topcoat` · `server` · `rendering`)
+- [Pushing the Boundary of Server Applications with Rust](https://youtu.be/O8yq5uB2hXY) — Development · 180 views · Oct 2, 2026 · [Details](O8yq5uB2hXY.md) (shared: `topcoat` · `server` · `rendering`)
 
 ---
 *Auto-generated on Oct 14, 2026. Back to [development](../development.md) · [index](../index.md).*

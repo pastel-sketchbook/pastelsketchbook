@@ -32,9 +32,9 @@ This talk is a technical deep-dive into DwarfStar DS4, a specialized local infer
 
 - [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 98 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `engine` · `hardware` · `kv cache management`)
 - [Advancing Go Garbage Collection with Green Tea](https://youtu.be/yCJDmGrk8sM) — Development · 234 views · Mar 24, 2026 · [Details](yCJDmGrk8sM.md) (shared: `hardware` · `pipeline` · `cache`)
-- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 117 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `inference` · `engine` · `tensor`)
+- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 122 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `inference` · `engine` · `tensor`)
 - [Machine Learning Systems](https://youtu.be/fNN88ZXWYKU) — Development · 177 views · Apr 24, 2026 · [Details](fNN88ZXWYKU.md) (shared: `inference` · `hardware` · `cache`)
-- [Building Autonomous Agents with the Antigravity SDK](https://youtu.be/4q9gLzti6Lk) — Development · 284 views · Jun 22, 2026 · [Details](4q9gLzti6Lk.md) (shared: `local` · `streaming` · `management`)
+- [Al Model Formats & Quantization: The Architect's Guide](https://youtu.be/vAdV0IhTkd4) — Development · 4 views · Oct 17, 2026 · [Details](vAdV0IhTkd4.md) (shared: `local` · `inference` · `quantization`)
 
 ---
 *Auto-generated on Aug 16, 2026. Back to [development](../development.md) · [index](../index.md).*

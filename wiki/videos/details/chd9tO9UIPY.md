@@ -35,7 +35,7 @@ This session traces game AI from tic-tac-toe minimax through Monte Carlo tree se
 
 ## Related Videos
 
-- [The Architecture of KataGo](https://youtu.be/sSIDBOrX_Ig) — Development · 127 views · Sep 10, 2026 · [Details](sSIDBOrX_Ig.md) (shared: `monte` · `carlo` · `search`)
+- [The Architecture of KataGo](https://youtu.be/sSIDBOrX_Ig) — Development · 128 views · Sep 10, 2026 · [Details](sSIDBOrX_Ig.md) (shared: `monte` · `carlo` · `search`)
 - [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 134 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `search` · `evolution`)
 - [The Architecture of a Virtual Voice](https://youtu.be/aQpGQClZSvc) — Development · 19 views · May 27, 2026 · [Details](aQpGQClZSvc.md) (shared: `neural` · `modeling`)
 - [Reasoning Under Uncertainty](https://youtu.be/z2SA6P7WNoc) — Development · 161 views · Apr 3, 2026 · [Details](z2SA6P7WNoc.md) (shared: `monte` · `carlo`)
