@@ -2,7 +2,7 @@
 type: tag
 tags: [echo-web-framework]
 sources: 2
-updated: 2026-10-18
+updated: 2026-10-22
 ---
 
 # echo web framework
@@ -15,4 +15,4 @@ Videos connected by the topic `echo web framework`.
 - [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 52 views · May 3, 2026 · [Details](../details/QOYXBkMcnYk.md)
 
 ---
-*Auto-generated on Oct 18, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 21, 2026. Back to [topic index](index.md).*

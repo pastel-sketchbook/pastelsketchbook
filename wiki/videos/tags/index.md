@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-10-18
+updated: 2026-10-22
 ---
 
 # Topic Index
@@ -36,6 +36,7 @@ Total topics: 184
 - [state management](state-management.md) (4)
 - [systems programming](systems-programming.md) (4)
 - [webassembly](webassembly.md) (4)
+- [zero trust architecture](zero-trust-architecture.md) (4)
 - [ai infrastructure investing](ai-infrastructure-investing.md) (3)
 - [ai-assisted development](ai-assisted-development.md) (3)
 - [azure devops](azure-devops.md) (3)
@@ -69,7 +70,6 @@ Total topics: 184
 - [traffic management](traffic-management.md) (3)
 - [trunk-based development](trunk-based-development.md) (3)
 - [workload identity](workload-identity.md) (3)
-- [zero trust architecture](zero-trust-architecture.md) (3)
 - [zero-cost abstractions](zero-cost-abstractions.md) (3)
 - [zig programming](zig-programming.md) (3)
 - [agentic orchestration](agentic-orchestration.md) (2)
@@ -197,4 +197,4 @@ Total topics: 184
 - [write-ahead log](write-ahead-log.md) (2)
 
 ---
-*Auto-generated on Oct 18, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Oct 21, 2026. Back to [videos index](../index.md).*

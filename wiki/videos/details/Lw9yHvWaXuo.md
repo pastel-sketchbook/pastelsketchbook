@@ -35,7 +35,7 @@ This session architects shared inference platforms for maximum tenant density an
 
 ## Related Videos
 
-- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 35 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `inference` · `cache` · `lora`)
+- [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 36 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `inference` · `cache` · `lora`)
 - [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 27 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `inference` · `cache` · `lora`)
 - [Sovereign Intelligence vs Enterprise Integration](https://youtu.be/fB-YC949wts) — Kubernetes · 10 views · Aug 7, 2026 · [Details](fB-YC949wts.md) (shared: `inference` · `cache` · `vllm`)
 - [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 84 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `inference` · `isolation`)

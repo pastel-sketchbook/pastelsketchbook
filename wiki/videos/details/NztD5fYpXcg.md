@@ -30,7 +30,7 @@ This video presents a 10-lens research analysis framework for extracting multi-d
 
 ## Related Videos
 
-- [Architecting Action: 10 NotebookLM Prompts](https://youtu.be/Wa0EHhhKV8Q) — Development · 207 views · Feb 27, 2026 · [Details](Wa0EHhhKV8Q.md) (shared: `synthesis` · `evidence` · `auditing`)
+- [Architecting Action: 10 NotebookLM Prompts](https://youtu.be/Wa0EHhhKV8Q) — Development · 214 views · Feb 27, 2026 · [Details](Wa0EHhhKV8Q.md) (shared: `synthesis` · `evidence` · `auditing`)
 - [Go 1.26: The Era of Automated Modernization](https://youtu.be/zwVDEAKKPZY) — Development · 994 views · Feb 14, 2026 · [Details](zwVDEAKKPZY.md) (shared: `analysis` · `framework`)
 - [Announcing Genkit Dart](https://youtu.be/2iIi1H9V-Hg) — Development · 71 views · Mar 13, 2026 · [Details](2iIi1H9V-Hg.md) (shared: `framework`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `research`)

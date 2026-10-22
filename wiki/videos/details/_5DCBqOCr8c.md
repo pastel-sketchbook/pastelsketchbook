@@ -38,7 +38,7 @@ This video presents a GDPR engineering blueprint, translating privacy-by-design 
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 26 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `management`)
 - [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 65 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `data`)
 - [Escaping the env Ceiling](https://youtu.be/kc1gwl89iyw) — Security · 29 views · Jun 18, 2026 · [Details](kc1gwl89iyw.md) (shared: `management`)
-- [The Modern Al/BI Developer's Toolkit](https://youtu.be/gu-5cim8mpA) — Development · 21 views · Mar 14, 2026 · [Details](gu-5cim8mpA.md) (shared: `data` · `management`)
+- [Architecting Modern Trust](https://youtu.be/l1LX1D1SAMA) — Security · 6 views · Oct 20, 2026 · [Details](l1LX1D1SAMA.md) (shared: `management`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [security](../security.md) · [index](../index.md).*

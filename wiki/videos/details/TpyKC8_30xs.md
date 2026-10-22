@@ -30,7 +30,7 @@ The Burn Book is a multi-surface deep learning curriculum architecture for the B
 
 ## Related Videos
 
-- [Engineering a Unified Kubernetes Metrics Pipeline](https://youtu.be/00gLyK5Wv_4) — Development · 49 views · Oct 14, 2026 · [Details](00gLyK5Wv_4.md) (shared: `ratatui` · `terminal` · `embedded`)
+- [Engineering a Unified Kubernetes Metrics Pipeline](https://youtu.be/00gLyK5Wv_4) — Development · 56 views · Oct 14, 2026 · [Details](00gLyK5Wv_4.md) (shared: `ratatui` · `terminal` · `embedded`)
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 37 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `architecture` · `burn deep learning framework` · `burn`)
 - [Velox: Bring Tauri to Swift](https://youtu.be/Ul0ixBpd5iM) — Development · 51 views · Jan 27, 2026 · [Details](Ul0ixBpd5iM.md) (shared: `architecture` · `tauri` · `desktop`)
 - [SlideVoice Studio Desktop Shell Architecture](https://youtu.be/ytA6gw6Tgaw) — Development · 36 views · May 17, 2026 · [Details](ytA6gw6Tgaw.md) (shared: `architecture` · `tauri 2 desktop shell` · `tauri`)

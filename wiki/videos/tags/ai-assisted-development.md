@@ -2,7 +2,7 @@
 type: tag
 tags: [ai-assisted-development]
 sources: 3
-updated: 2026-10-18
+updated: 2026-10-22
 ---
 
 # ai-assisted development
@@ -16,4 +16,4 @@ Videos connected by the topic `ai-assisted development`.
 - [Taming the Genie](https://youtu.be/MaP2i4dTiQk) — Development · 18 views · Jan 23, 2026 · [Details](../details/MaP2i4dTiQk.md)
 
 ---
-*Auto-generated on Oct 18, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 21, 2026. Back to [topic index](index.md).*

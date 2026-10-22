@@ -32,9 +32,9 @@ SOMA is a universal pivot architecture that unifies fragmented parametric human 
 
 - [The Architecture of Insurance Pricing](https://youtu.be/P-QVC5lOMbU) — Finance · 40 views · Jun 3, 2026 · [Details](P-QVC5lOMbU.md) (shared: `models` · `linear`)
 - [The Mathematics of Human Capital Compounding](https://youtu.be/_4BC0zHGYTw) — Finance · 14 views · Mar 5, 2026 · [Details](_4BC0zHGYTw.md) (shared: `human`)
-- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 39 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `generation`)
+- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 43 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `generation`)
 - [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 38 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `gpu`)
-- [Nationwide Data Coverage & Auto-Filing Feasibility](https://youtu.be/SRwWBbsaQH4) — Finance · 15 views · May 13, 2026 · [Details](SRwWBbsaQH4.md) (shared: `generation`)
+- [Nationwide Data Coverage & Auto-Filing Feasibility](https://youtu.be/SRwWBbsaQH4) — Finance · 16 views · May 13, 2026 · [Details](SRwWBbsaQH4.md) (shared: `generation`)
 
 ---
 

@@ -39,7 +39,7 @@ This video introduces the Terraform skill blueprint, a context-engineering layer
 - [Azure Enterprise Edge Lab](https://youtu.be/fMjflPvjaJ8) — Kubernetes · 9 views · Mar 31, 2026 · [Details](fMjflPvjaJ8.md) (shared: `infrastructure as code` · `infrastructure` · `code`)
 - [Azure Linux 4.0 and the Al-Native Cloud Era](https://youtu.be/o9x4daXS4Rk) — Kubernetes · 38 views · Jul 5, 2026 · [Details](o9x4daXS4Rk.md) (shared: `infrastructure as code` · `infrastructure` · `code`)
 - [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 23 views · Apr 22, 2026 · [Details](p9LNSeAt5Zw.md) (shared: `infrastructure` · `ci/cd pipelines` · `pipelines`)
-- [Engineering The Agentic Stack](https://youtu.be/Po5zwwf3vW4) — Kubernetes · 327 views · Oct 4, 2026 · [Details](Po5zwwf3vW4.md) (shared: `code` · `agent` · `state`)
+- [Engineering The Agentic Stack](https://youtu.be/Po5zwwf3vW4) — Kubernetes · 329 views · Oct 4, 2026 · [Details](Po5zwwf3vW4.md) (shared: `code` · `agent` · `state`)
 
 ---
 *Auto-generated on Apr 26, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

@@ -3,7 +3,7 @@ type: category
 category: korea
 tags: [viaje, corea, seul, jeju, ganghwa, sokcho, daejeon, danyang, jinju, yeosu]
 sources: 20
-updated: 2026-10-18
+updated: 2026-10-22
 ---
 
 # Korea
@@ -15,7 +15,7 @@ updated: 2026-10-18
 | Metric | Value |
 |--------|-------|
 | Videos | 20 |
-| Total Views | 249 |
+| Total Views | 250 |
 | Most Recent | May 20, 2026 |
 | Oldest | Dec 26, 2025 |
 ## All Videos
@@ -41,7 +41,7 @@ updated: 2026-10-18
 | 17 | Gyeongju: El Museo Sin Muros | 11 | Jan 2, 2026 | [Watch](https://youtu.be/4h84JgKkt94) | [Wiki](details/4h84JgKkt94.md) |
 | 18 | Mi Cuaderno de Busan | 8 | Jan 1, 2026 | [Watch](https://youtu.be/vNHblhm9oQo) | [Wiki](details/vNHblhm9oQo.md) |
 | 19 | Tu Viaje al Corazón de Corea | 5 | Jan 1, 2026 | [Watch](https://youtu.be/L9sxbq8ugoU) | [Wiki](details/L9sxbq8ugoU.md) |
-| 20 | 스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작 | 29 | Dec 26, 2025 | [Watch](https://youtu.be/V2cZl5s4EKU) | [Wiki](details/V2cZl5s4EKU.md) |
+| 20 | 스페인어 A2 레벨을 도달하기 위한 12주 학습의 시작 | 30 | Dec 26, 2025 | [Watch](https://youtu.be/V2cZl5s4EKU) | [Wiki](details/V2cZl5s4EKU.md) |
 
 ## Top Tags
 
@@ -52,4 +52,4 @@ updated: 2026-10-18
 - [Finance](finance.md)
 
 ---
-*Auto-generated on Oct 18, 2026. Back to [index](index.md).*
+*Auto-generated on Oct 21, 2026. Back to [index](index.md).*

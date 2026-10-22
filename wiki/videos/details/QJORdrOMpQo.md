@@ -39,7 +39,7 @@ This session explains how commutative encryption powers private set intersection
 - [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 98 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `model` · `compute`)
 - [TigerStyle: The Architecture of Elegance](https://youtu.be/eJlXFaZNP6g) — Development · 61 views · May 5, 2026 · [Details](eJlXFaZNP6g.md) (shared: `curve` · `flow`)
 - [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 47 views · Dec 28, 2025 · [Details](IF5sNQH-01c.md) (shared: `flow`)
-- [The Programmer's Guide to Essential RFCs](https://youtu.be/LackTxguXFg) — Development · 113 views · Apr 10, 2026 · [Details](LackTxguXFg.md) (shared: `model`)
+- [The Programmer's Guide to Essential RFCs](https://youtu.be/LackTxguXFg) — Development · 115 views · Apr 10, 2026 · [Details](LackTxguXFg.md) (shared: `model`)
 
 ---
 *Auto-generated on Sep 19, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -34,7 +34,7 @@ Based on Kent Beck's experiments, this video explores how LLM-powered augmented 
 - [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 55 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `code` · `ai-assisted development` · `ai-assisted`)
 - [The LLM Wiki Paradigm](https://youtu.be/BzvpasWYESU) — Development · 3.0K views · Apr 9, 2026 · [Details](BzvpasWYESU.md) (shared: `augmented` · `llm` · `code`)
 - [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 84 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `coding` · `ai-assisted` · `development`)
-- [Synthesizing Gleam Syntax with Rust Performance](https://youtu.be/DTb0syknVSQ) — Development · 32 views · Jul 15, 2026 · [Details](DTb0syknVSQ.md) (shared: `code` · `generation` · `design`)
+- [Synthesizing Gleam Syntax with Rust Performance](https://youtu.be/DTb0syknVSQ) — Development · 33 views · Jul 15, 2026 · [Details](DTb0syknVSQ.md) (shared: `code` · `generation` · `design`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

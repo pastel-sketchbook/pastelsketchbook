@@ -35,11 +35,11 @@ This case study dissects the autonomous-agent rewrite of the GitHub Copilot runt
 
 ## Related Videos
 
-- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 79 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `rust` · `napi` · `abi`)
-- [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 22 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `rust` · `error`)
+- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 80 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `rust` · `napi` · `abi`)
+- [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 25 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `rust` · `error`)
 - [AI Agents  Idea to Tool](https://youtu.be/tqDisu2tmG0) — Development · 6 views · Jan 10, 2026 · [Details](tqDisu2tmG0.md) (shared: `autonomous` · `agent`)
 - [Professional Al Agent Usage via the CLI](https://youtu.be/Xhq99-YHXCY) — Development · 25 views · Jan 2, 2026 · [Details](Xhq99-YHXCY.md) (shared: `agent` · `loop`)
-- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 53 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `rust` · `dependency`)
+- [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 54 views · Feb 22, 2026 · [Details](Th5MMOFQbh8.md) (shared: `rust` · `dependency`)
 
 ---
 *Auto-generated on Sep 24, 2026. Back to [development](../development.md) · [index](../index.md).*

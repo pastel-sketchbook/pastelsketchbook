@@ -37,7 +37,7 @@ This session pushes server-application boundaries with Rust through the Topcoat 
 
 - [The Prisma Ecosystem Architecture](https://youtu.be/LnJbrb0EUaE) — Development · 17 views · May 8, 2026 · [Details](LnJbrb0EUaE.md) (shared: `database` · `client` · `rust`)
 - [The Architect's ORM Blueprint](https://youtu.be/E30riOZ-YVo) — Development · 39 views · May 5, 2026 · [Details](E30riOZ-YVo.md) (shared: `database` · `orm` · `patterns`)
-- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 131 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `streaming` · `rust` · `patterns`)
+- [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 132 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `streaming` · `rust` · `patterns`)
 - [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 134 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `database` · `server` · `rust`)
 - [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 20 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `rendering` · `server` · `framework`)
 

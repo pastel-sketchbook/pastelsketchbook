@@ -2,7 +2,7 @@
 type: tag
 tags: [github-copilot]
 sources: 2
-updated: 2026-10-18
+updated: 2026-10-22
 ---
 
 # github copilot
@@ -15,4 +15,4 @@ Videos connected by the topic `github copilot`.
 - [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](../details/9oSUtndLto4.md)
 
 ---
-*Auto-generated on Oct 18, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 21, 2026. Back to [topic index](index.md).*

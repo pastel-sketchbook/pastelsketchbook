@@ -2,7 +2,7 @@
 type: tag
 tags: [azure-kubernetes-service]
 sources: 7
-updated: 2026-10-18
+updated: 2026-10-22
 ---
 
 # azure kubernetes service
@@ -11,7 +11,7 @@ Videos connected by the topic `azure kubernetes service`.
 
 ## Videos
 
-- [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) — Kubernetes · 34 views · Jan 27, 2026 · [Details](../details/KpSjLQpswW4.md)
+- [Secure Service-to-Service Authorization with SpiceDB](https://youtu.be/KpSjLQpswW4) — Kubernetes · 37 views · Jan 27, 2026 · [Details](../details/KpSjLQpswW4.md)
 - [Architecting Meilisearch on AKS & Istio](https://youtu.be/MIZ0ATwu7C0) — Kubernetes · 27 views · Feb 10, 2026 · [Details](../details/MIZ0ATwu7C0.md)
 - [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) — Kubernetes · 18 views · Jan 2, 2026 · [Details](../details/8ycnldvJmuA.md)
 - [Istio-Based Weighted Traffic Management on AKS](https://youtu.be/4YsX6tYi5x4) — Kubernetes · 15 views · May 6, 2026 · [Details](../details/4YsX6tYi5x4.md)
@@ -20,4 +20,4 @@ Videos connected by the topic `azure kubernetes service`.
 - [Choosing Your Messaging Fabric on AKS](https://youtu.be/N4nRAfBZ3BE) — Kubernetes · 5 views · Jan 10, 2026 · [Details](../details/N4nRAfBZ3BE.md)
 
 ---
-*Auto-generated on Oct 18, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 21, 2026. Back to [topic index](index.md).*

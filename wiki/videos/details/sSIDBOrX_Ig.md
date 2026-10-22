@@ -30,7 +30,7 @@ This video is a technical teardown of KataGo's Go AI engine, covering its residu
 
 ## Related Videos
 
-- [The Blueprint of Play](https://youtu.be/chd9tO9UIPY) — Development · 131 views · Oct 13, 2026 · [Details](chd9tO9UIPY.md) (shared: `monte` · `carlo` · `search`)
+- [The Blueprint of Play](https://youtu.be/chd9tO9UIPY) — Development · 129 views · Oct 13, 2026 · [Details](chd9tO9UIPY.md) (shared: `monte` · `carlo` · `search`)
 - [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 59 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `graph` · `cuda` · `backends`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 34 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `integration` · `pipeline` · `analysis`)
 - [The PyTorch Architecture Blueprint](https://youtu.be/KXx_6BhzOFE) — Development · 68 views · Jun 13, 2026 · [Details](KXx_6BhzOFE.md) (shared: `graph` · `pytorch` · `pipeline`)

@@ -2,7 +2,7 @@
 type: tag
 tags: [stateful-workloads]
 sources: 2
-updated: 2026-10-18
+updated: 2026-10-22
 ---
 
 # stateful workloads
@@ -15,4 +15,4 @@ Videos connected by the topic `stateful workloads`.
 - [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 26 views · Apr 7, 2026 · [Details](../details/KdLQEv3Tiiw.md)
 
 ---
-*Auto-generated on Oct 18, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 21, 2026. Back to [topic index](index.md).*

@@ -880,3 +880,29 @@ All are full-length (durationSec 718/1335/1224, none < 120s → not Shorts). For
 Bundle: 517 videos, 517 with detail (Missing: 0). zmd reindexed (1263 documents); all 3 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 3 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 3 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
 
 Backward check: scanned all 517 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 3 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).
+
+## [2026-10-19] ingest | Video Metadata Sync
+
+Synced 518 videos across 6 categories (korea=20, finance=58, kubernetes=108, development=300, security=23, programming=9).
+
+## [2026-10-22] ingest | Video Metadata Sync
+
+Synced 521 videos across 6 categories (korea=20, finance=59, kubernetes=108, development=301, security=24, programming=9).
+
+## [2026-10-22] ingest | Video Transcripts
+
+Exported 1 transcript files (single: eJV5hi3dggc) to `wiki/raw/transcripts`.
+
+## [2026-10-22] ingest | Release 4 new full videos (published Oct 18-21)
+
+Released 4 newest full videos from `HIDDEN_VIDEO_IDS` so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- eJV5hi3dggc (Architecting Multimodal RAG with EmbeddingGemma 2, development, 2026-10-18)
+- 0sUGmB9vf1o (The Blueprint for Modern Banking, finance, 2026-10-19)
+- l1LX1D1SAMA (Architecting Modern Trust, security, 2026-10-20)
+- 6PnRBvLiQCs (Agent Mode in DuckDB v2.0, development, 2026-10-21)
+
+All are full-length (durationSec 601/704/1033/686, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md` (10-17KB, well above the ~2.5KB Shorts fallback), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: 0sUGmB9vf1o → Architect's Sketchbook Ch7 (The Architecture of Wealth, retail banking finance); l1LX1D1SAMA → Architect's Sketchbook Ch2 (Zero Trust as First Principle, NIST 800-207/1800-35); eJV5hi3dggc → Internals Companion Ch12 (The ML Inference Stack, multimodal embeddings); 6PnRBvLiQCs → Internals Companion Ch13 (The Database Internals Tour, duckdb CLI agent mode).
+
+Bundle: 521 videos, 521 with detail (Missing: 0). zmd reindexed (1271 documents); all 4 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
+
+Backward check: scanned all 521 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 4 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).

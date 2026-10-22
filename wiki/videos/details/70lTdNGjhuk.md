@@ -36,10 +36,10 @@ This session introduces a dual-core actor architecture that splits autonomous ex
 ## Related Videos
 
 - [Architecting the Hybrid Al Stack](https://youtu.be/g_ywAvwXmW4) — Development · 13 views · Sep 21, 2026 · [Details](g_ywAvwXmW4.md) (shared: `routing` · `triage` · `threshold`)
-- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 121 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `state` · `rust` · `runtime`)
+- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 122 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `state` · `rust` · `runtime`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 93 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `runtime`)
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 170 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `runtime`)
-- [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 42 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `state` · `react`)
+- [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 43 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `state` · `react`)
 
 ---
 *Auto-generated on Oct 7, 2026. Back to [development](../development.md) · [index](../index.md).*

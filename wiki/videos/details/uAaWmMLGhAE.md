@@ -35,7 +35,7 @@ This session hardens NestJS backends for production through 17 architectural che
 - [Architecture Review: tn-file-upload](https://youtu.be/UOOkDh4RUbE) — Development · 32 views · May 4, 2026 · [Details](UOOkDh4RUbE.md) (shared: `graceful` · `shutdown` · `probes`)
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `distributed` · `auth`)
 - [The Pragmatic Go Developer](https://youtu.be/oxNF_GNuWpE) — Development · 45 views · Mar 10, 2026 · [Details](oxNF_GNuWpE.md) (shared: `production` · `readiness`)
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 97 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `graceful` · `shutdown`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 101 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `graceful` · `shutdown`)
 
 ---
 *Auto-generated on Oct 14, 2026. Back to [development](../development.md) · [index](../index.md).*

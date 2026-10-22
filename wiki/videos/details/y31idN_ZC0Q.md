@@ -31,11 +31,11 @@ Transitioning to Go is a strategic roadmap for Java and TypeScript developers mo
 
 ## Related Videos
 
+- [Agent Mode in DuckDB v2.0](https://youtu.be/6PnRBvLiQCs) — Development · 5 views · Oct 21, 2026 · [Details](6PnRBvLiQCs.md) (shared: `interfaces` · `explicit` · `error`)
 - [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 769 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `error` · `handling` · `unified`)
 - [The Architect's Baton](https://youtu.be/6WRiPikxs-Q) — Development · 126 views · Mar 7, 2026 · [Details](6WRiPikxs-Q.md) (shared: `cloud-native infrastructure` · `cloud-native` · `infrastructure`)
 - [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 52 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `echo` · `api` · `framework`)
 - [The pkg.go.dev API](https://youtu.be/zWuFvi-0Go4) — Development · 20 views · May 23, 2026 · [Details](zWuFvi-0Go4.md) (shared: `explicit` · `api` · `cli`)
-- [High-Performance Compute Meets Developer Ergonomics](https://youtu.be/Z_TABCzmoQ0) — Development · 92 views · Jun 15, 2026 · [Details](Z_TABCzmoQ0.md) (shared: `unified` · `toolchain` · `python`)
 
 ---
 *Auto-generated on Sep 15, 2026. Back to [development](../development.md) · [index](../index.md).*
