@@ -35,11 +35,11 @@ This session demystifies AI model formats and quantization as the bridge between
 
 ## Related Videos
 
-- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 126 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `safetensors` · `gguf` · `quantization`)
-- [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 76 views · Aug 14, 2026 · [Details](nSMpZpj6Jzc.md) (shared: `gguf` · `quantization` · `local`)
+- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 132 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `safetensors` · `gguf` · `quantization`)
+- [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 77 views · Aug 14, 2026 · [Details](nSMpZpj6Jzc.md) (shared: `gguf` · `quantization` · `local`)
 - [Machine Learning Systems](https://youtu.be/fNN88ZXWYKU) — Development · 177 views · Apr 24, 2026 · [Details](fNN88ZXWYKU.md) (shared: `quantization` · `inference` · `deployment`)
 - [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 98 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `model` · `gguf` · `quantization`)
-- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 37 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `model` · `onnx` · `inference`)
+- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 38 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `model` · `onnx` · `inference`)
 
 ---
 *Auto-generated on Oct 18, 2026. Back to [development](../development.md) · [index](../index.md).*

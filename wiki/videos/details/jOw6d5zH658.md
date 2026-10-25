@@ -39,9 +39,9 @@ Waza is a structured methodology and CLI for engineering AI agent skills under a
 
 - [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 737 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `yaml` · `model` · `token`)
 - [The AI Copilot Era Equation](https://youtu.be/xwEN7oZFvdw) — Development · 53 views · Jun 10, 2026 · [Details](xwEN7oZFvdw.md) (shared: `model` · `comparison` · `token`)
-- [Agent Mode in DuckDB v2.0](https://youtu.be/6PnRBvLiQCs) — Development · 5 views · Oct 21, 2026 · [Details](6PnRBvLiQCs.md) (shared: `agent` · `llm` · `token`)
-- [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 97 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `agent` · `model` · `token`)
-- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 128 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `yaml` · `model`)
+- [Agent Mode in DuckDB v2.0](https://youtu.be/6PnRBvLiQCs) — Development · 73 views · Oct 21, 2026 · [Details](6PnRBvLiQCs.md) (shared: `agent` · `llm` · `token`)
+- [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 98 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `agent` · `model` · `token`)
+- [Mastering Serde in Rust ](https://youtu.be/RDa6WtZmW8E) — Development · 129 views · Jan 28, 2026 · [Details](RDa6WtZmW8E.md) (shared: `yaml` · `model`)
 
 ---
 *Auto-generated on May 9, 2026. Back to [development](../development.md) · [index](../index.md).*

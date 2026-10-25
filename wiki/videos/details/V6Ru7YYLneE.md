@@ -35,9 +35,9 @@ This architecture rationale documents a Rust-native Burn-powered ML pipeline for
 
 ## Related Videos
 
-- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 37 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `rust` · `burn` · `pipeline`)
-- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 103 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `rust` · `burn` · `learning`)
-- [Architecting Multimodal RAG with EmbeddingGemma 2](https://youtu.be/eJV5hi3dggc) — Development · 29 views · Oct 18, 2026 · [Details](eJV5hi3dggc.md) (shared: `embeddings` · `matryoshka` · `truncation`)
+- [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 38 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `rust` · `burn` · `pipeline`)
+- [Mastering Machine Learning in Rust](https://youtu.be/htpvlYnX77w) — Development · 106 views · May 19, 2026 · [Details](htpvlYnX77w.md) (shared: `rust` · `burn` · `learning`)
+- [Architecting Multimodal RAG with EmbeddingGemma 2](https://youtu.be/eJV5hi3dggc) — Development · 57 views · Oct 18, 2026 · [Details](eJV5hi3dggc.md) (shared: `embeddings` · `matryoshka` · `truncation`)
 - [Zig  Pragmatic Successor to C](https://youtu.be/yOOQNnaOLeM) — Development · 29 views · Jan 9, 2026 · [Details](yOOQNnaOLeM.md) (shared: `rust` · `learning`)
 - [Hangul Typing](https://youtu.be/Pp36ysjfWd8) — Development · 10 views · Jan 22, 2026 · [Details](Pp36ysjfWd8.md) (shared: `korean` · `learning`)
 

@@ -2,7 +2,7 @@
 type: tag
 tags: [frontend-architecture]
 sources: 3
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 # frontend architecture
@@ -16,4 +16,4 @@ Videos connected by the topic `frontend architecture`.
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 35 views · Feb 16, 2026 · [Details](../details/5Vloo08zQ7o.md)
 
 ---
-*Auto-generated on Oct 21, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 25, 2026. Back to [topic index](index.md).*

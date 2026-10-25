@@ -31,7 +31,7 @@ This video challenges the conventional reliance on WCAG 2.x contrast ratios and 
 
 ## Related Videos
 
-- [Agent Mode in DuckDB v2.0](https://youtu.be/6PnRBvLiQCs) — Development · 5 views · Oct 21, 2026 · [Details](6PnRBvLiQCs.md) (shared: `mode` · `design`)
+- [Agent Mode in DuckDB v2.0](https://youtu.be/6PnRBvLiQCs) — Development · 73 views · Oct 21, 2026 · [Details](6PnRBvLiQCs.md) (shared: `mode` · `design`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `design`)
 - [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 47 views · Dec 28, 2025 · [Details](IF5sNQH-01c.md) (shared: `design`)
 - [zig-lottie: Compiling Motion](https://youtu.be/QC-vaMcjq3M) — Development · 85 views · Apr 11, 2026 · [Details](QC-vaMcjq3M.md) (shared: `design`)

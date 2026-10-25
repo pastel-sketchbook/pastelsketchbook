@@ -34,7 +34,7 @@ This talk compares two architectural paradigms for deploying AI in hybrid cloud 
 - [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 27 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `model` · `serving` · `kubernetes`)
 - [The Economics of Multi-Tenant Al](https://youtu.be/Lw9yHvWaXuo) — Kubernetes · 8 views · Sep 26, 2026 · [Details](Lw9yHvWaXuo.md) (shared: `vllm` · `platform` · `inference`)
 - [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 29 views · Feb 19, 2026 · [Details](rk_3xU9OF-k.md) (shared: `kubernetes` · `platform` · `event`)
-- [Architecting AKS Networking - Trade-offs](https://youtu.be/F09-7mNt3F4) — Kubernetes · 16 views · Mar 12, 2026 · [Details](F09-7mNt3F4.md) (shared: `kubernetes` · `scaling` · `models`)
+- [Architecting AKS Networking - Trade-offs](https://youtu.be/F09-7mNt3F4) — Kubernetes · 17 views · Mar 12, 2026 · [Details](F09-7mNt3F4.md) (shared: `kubernetes` · `scaling` · `models`)
 
 ---
 *Auto-generated on Aug 7, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

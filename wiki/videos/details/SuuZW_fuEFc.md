@@ -41,7 +41,7 @@ rr-mailtrap is a single-binary Rust SMTP sandbox that traps outbound test mail o
 - [The Evolution of File Detection](https://youtu.be/85pyYZFJ6_s) — Development · 48 views · May 7, 2026 · [Details](85pyYZFJ6_s.md) (shared: `magika` · `content` · `detection`)
 - [Architecting Al in Software Engineering](https://youtu.be/yXZnBtdDTFk) — Development · 80 views · May 25, 2026 · [Details](yXZnBtdDTFk.md) (shared: `validation` · `safety` · `net`)
 - [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 1.2K views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `onnx` · `zero` · `safety`)
-- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 20 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `ratatui terminal ui` · `ratatui` · `terminal`)
+- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 21 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `ratatui terminal ui` · `ratatui` · `terminal`)
 - [Engineering a Unified Kubernetes Metrics Pipeline](https://youtu.be/00gLyK5Wv_4) — Development · 56 views · Oct 14, 2026 · [Details](00gLyK5Wv_4.md) (shared: `ratatui` · `terminal` · `metrics`)
 
 ---

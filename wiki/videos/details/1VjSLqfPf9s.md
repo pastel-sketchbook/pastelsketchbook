@@ -31,7 +31,7 @@ This video examines the NIST Cybersecurity Framework 2.0, highlighting its shift
 ## Related Videos
 
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 25 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `nist` · `enterprise` · `management`)
-- [Architecting Modern Trust](https://youtu.be/l1LX1D1SAMA) — Security · 6 views · Oct 20, 2026 · [Details](l1LX1D1SAMA.md) (shared: `nist` · `framework` · `risk`)
+- [Architecting Modern Trust](https://youtu.be/l1LX1D1SAMA) — Security · 9 views · Oct 20, 2026 · [Details](l1LX1D1SAMA.md) (shared: `nist` · `framework` · `risk`)
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 25 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `security` · `assessment`)
 - [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) — Security · 85 views · Mar 31, 2026 · [Details](Zeg8zSOvoyE.md) (shared: `framework` · `security`)
 - [From Blueprint to Battlefield](https://youtu.be/2kvYb2pVe5o) — Development · 32 views · Dec 27, 2025 · [Details](2kvYb2pVe5o.md) (shared: `nist` · `2.0` · `security`)

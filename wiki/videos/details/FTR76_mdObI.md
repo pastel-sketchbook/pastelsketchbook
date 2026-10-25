@@ -38,7 +38,7 @@ This session standardizes Rust code quality through Clippy severity tiers from d
 - [The Future of Al Programming:  2031 Strategic Outlook](https://youtu.be/qxOOl1hx1zU) — Development · 118 views · Feb 9, 2026 · [Details](qxOOl1hx1zU.md) (shared: `rust` · `legacy`)
 - [Professional Al Agent Usage via the CLI](https://youtu.be/Xhq99-YHXCY) — Development · 25 views · Jan 2, 2026 · [Details](Xhq99-YHXCY.md) (shared: `code` · `quality`)
 - [codeprobe](https://youtu.be/xVdW3yUCbuU) — Development · 34 views · Mar 4, 2026 · [Details](xVdW3yUCbuU.md) (shared: `rust` · `code`)
-- [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 61 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `rust` · `code`)
+- [Mastering Rust Feature Flags](https://youtu.be/xVmoqBYlQMU) — Development · 63 views · Jan 19, 2026 · [Details](xVmoqBYlQMU.md) (shared: `rust` · `code`)
 - [The Anatomy of Modern Text](https://youtu.be/bAoDvQgmGjM) — Development · 48 views · May 17, 2026 · [Details](bAoDvQgmGjM.md) (shared: `code` · `legacy`)
 
 ---

@@ -32,8 +32,8 @@ This video explores the mathematical foundations of ALOHA random access network 
 
 - [Deconstructing the Bridge](https://youtu.be/JNHxVHyzWdE) — Development · 26 views · Jun 1, 2026 · [Details](JNHxVHyzWdE.md) (shared: `protocol` · `access` · `analysis`)
 - [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 26 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `networking` · `communication`)
-- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 122 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `protocol` · `networking`)
-- [Parallel Agents in Zed](https://youtu.be/0wth_46Vtmo) — Development · 283 views · Aug 4, 2026 · [Details](0wth_46Vtmo.md) (shared: `protocol` · `collision`)
+- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 126 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `protocol` · `networking`)
+- [Parallel Agents in Zed](https://youtu.be/0wth_46Vtmo) — Development · 296 views · Aug 4, 2026 · [Details](0wth_46Vtmo.md) (shared: `protocol` · `collision`)
 - [The Architecture of KataGo](https://youtu.be/sSIDBOrX_Ig) — Development · 129 views · Sep 10, 2026 · [Details](sSIDBOrX_Ig.md) (shared: `protocol` · `analysis`)
 
 ---

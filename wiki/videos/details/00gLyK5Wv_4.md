@@ -35,11 +35,11 @@ This session engineers a single-binary Rust pipeline that ingests Kubernetes met
 
 ## Related Videos
 
-- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 20 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `embedded` · `server` · `rendering`)
+- [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 21 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `embedded` · `server` · `rendering`)
 - [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 10 views · Jun 23, 2026 · [Details](o3ba6XdMQA0.md) (shared: `pipeline` · `tokio` · `grpc`)
 - [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 132 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `grpc` · `rest` · `multiplexing`)
+- [The Cinnamon Teal Release](https://youtu.be/UrRvHqn6twI) — Development · 39 views · Oct 22, 2026 · [Details](UrRvHqn6twI.md) (shared: `embedded` · `duckdb` · `server`)
 - [The Architecture of a Virtual Voice](https://youtu.be/aQpGQClZSvc) — Development · 19 views · May 27, 2026 · [Details](aQpGQClZSvc.md) (shared: `pipeline` · `parsing` · `rendering`)
-- [Pushing the Boundary of Server Applications with Rust](https://youtu.be/O8yq5uB2hXY) — Development · 188 views · Oct 2, 2026 · [Details](O8yq5uB2hXY.md) (shared: `topcoat` · `server` · `rendering`)
 
 ---
 *Auto-generated on Oct 14, 2026. Back to [development](../development.md) · [index](../index.md).*

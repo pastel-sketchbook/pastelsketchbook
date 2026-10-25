@@ -38,7 +38,7 @@ The Anatomy of a Giant is a botanical dossier on massive watermelons, tracing th
 
 - [The Pomology Field Guide](https://youtu.be/_LrmdP64y6A) — Finance · 41 views · Mar 19, 2026 · [Details](_LrmdP64y6A.md) (shared: `genetics`)
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `resistance`)
-- [The Blueprint for Modern Banking](https://youtu.be/0sUGmB9vf1o) — Finance · 8 views · Oct 19, 2026 · [Details](0sUGmB9vf1o.md) (shared: `yield`)
+- [The Blueprint for Modern Banking](https://youtu.be/0sUGmB9vf1o) — Finance · 9 views · Oct 19, 2026 · [Details](0sUGmB9vf1o.md) (shared: `yield`)
 - [Structural Pruning in State-Space Abstractions](https://youtu.be/BNznoJHQDW0) — Finance · 7 views · Jul 7, 2026 · [Details](BNznoJHQDW0.md) (shared: `weight`)
 - [The Cash Pump Blueprint](https://youtu.be/Aw8arLm35M8) — Finance · 21 views · Jul 12, 2026 · [Details](Aw8arLm35M8.md) (shared: `yield`)
 

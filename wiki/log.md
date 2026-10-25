@@ -906,3 +906,11 @@ All are full-length (durationSec 601/704/1033/686, none < 120s → not Shorts). 
 Bundle: 521 videos, 521 with detail (Missing: 0). zmd reindexed (1271 documents); all 4 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
 
 Backward check: scanned all 521 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 4 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).
+
+## [2026-10-25] ingest | Video Metadata Sync
+
+Synced 524 videos across 6 categories (korea=20, finance=60, kubernetes=108, development=303, security=24, programming=9).
+
+## [2026-10-25] ingest | Video Transcripts
+
+Exported 1 transcript files (single: UrRvHqn6twI) to `wiki/raw/transcripts`.

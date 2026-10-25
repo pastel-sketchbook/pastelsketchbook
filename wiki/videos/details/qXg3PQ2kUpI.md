@@ -30,7 +30,7 @@ A deep tour of Backstage, the open-source developer portal framework created at 
 
 ## Related Videos
 
-- [The Internal Developer Platform Blueprint](https://youtu.be/iJnsRUJonzw) — Kubernetes · 78 views · Jul 25, 2026 · [Details](iJnsRUJonzw.md) (shared: `backstage developer portal` · `backstage` · `developer`)
+- [The Internal Developer Platform Blueprint](https://youtu.be/iJnsRUJonzw) — Kubernetes · 79 views · Jul 25, 2026 · [Details](iJnsRUJonzw.md) (shared: `backstage developer portal` · `backstage` · `developer`)
 - [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 27 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `model` · `pipeline`)
 - [The Codebase Lifecycle](https://youtu.be/ctKLD4d146g) — Kubernetes · 16 views · Jan 13, 2026 · [Details](ctKLD4d146g.md) (shared: `pipeline`)
 - [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) — Kubernetes · 18 views · Jan 2, 2026 · [Details](8ycnldvJmuA.md) (shared: `pipeline`)

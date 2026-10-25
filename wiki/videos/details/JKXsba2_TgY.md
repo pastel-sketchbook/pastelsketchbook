@@ -35,7 +35,7 @@ This session architects change data capture pipelines that capture row-level dat
 
 ## Related Videos
 
-- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 26 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `change` · `data` · `capture`)
+- [Mastering Hybrid CDC Architectures](https://youtu.be/KdLQEv3Tiiw) — Kubernetes · 27 views · Apr 7, 2026 · [Details](KdLQEv3Tiiw.md) (shared: `change` · `data` · `capture`)
 - [The Blueprint of Distributed Consensus](https://youtu.be/elpnbTmiuCs) — Kubernetes · 52 views · Sep 11, 2026 · [Details](elpnbTmiuCs.md) (shared: `kafka` · `rabbitmq quorum queues` · `rabbitmq`)
 - [The 2026 Architectural Standard](https://youtu.be/WHonjixQgBY) — Kubernetes · 54 views · Jan 31, 2026 · [Details](WHonjixQgBY.md) (shared: `data` · `architecture` · `infrastructure`)
 - [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) — Kubernetes · 78 views · Apr 5, 2026 · [Details](WRpjJV4SUKc.md) (shared: `change` · `data` · `capture`)

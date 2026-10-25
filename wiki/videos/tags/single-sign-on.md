@@ -2,7 +2,7 @@
 type: tag
 tags: [single-sign-on]
 sources: 2
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 # single sign-on
@@ -15,4 +15,4 @@ Videos connected by the topic `single sign-on`.
 - [From Blueprint to Battlefield](https://youtu.be/2kvYb2pVe5o) — Development · 32 views · Dec 27, 2025 · [Details](../details/2kvYb2pVe5o.md)
 
 ---
-*Auto-generated on Oct 21, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 25, 2026. Back to [topic index](index.md).*

@@ -32,7 +32,7 @@ This talk surveys the engineering and architecture of mega-scale AI data centers
 
 - [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 43 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `data` · `center` · `infrastructure`)
 - [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 20 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `data` · `center` · `gigawatt`)
-- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 28 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `data` · `infrastructure` · `behind`)
+- [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 29 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `data` · `infrastructure` · `behind`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 80 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `infrastructure`)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 44 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `architecture` · `infrastructure` · `hyperscale`)
 

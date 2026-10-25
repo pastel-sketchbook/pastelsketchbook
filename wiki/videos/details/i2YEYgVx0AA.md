@@ -39,7 +39,7 @@ Pastel Levy adopts a dual-store architecture in which PostgreSQL remains the sol
 - [Building the Multimodal Al Lakehouse](https://youtu.be/n9Ebc-0E478) — Development · 26 views · May 14, 2026 · [Details](n9Ebc-0E478.md) (shared: `lancedb` · `vector` · `search`)
 - [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 134 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `vector search` · `vector` · `search`)
 - [Building bt-go: A Closed-Loop Architecture](https://youtu.be/TqGOuGXb2iU) — Development · 74 views · Sep 19, 2026 · [Details](TqGOuGXb2iU.md) (shared: `architecture` · `data` · `engine`)
-- [Architecting Multimodal RAG with EmbeddingGemma 2](https://youtu.be/eJV5hi3dggc) — Development · 29 views · Oct 18, 2026 · [Details](eJV5hi3dggc.md) (shared: `search` · `rag` · `retrieval`)
+- [Architecting Multimodal RAG with EmbeddingGemma 2](https://youtu.be/eJV5hi3dggc) — Development · 57 views · Oct 18, 2026 · [Details](eJV5hi3dggc.md) (shared: `search` · `rag` · `retrieval`)
 
 ---
 *Auto-generated on May 17, 2026. Back to [development](../development.md) · [index](../index.md).*

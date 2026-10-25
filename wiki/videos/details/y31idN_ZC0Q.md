@@ -31,7 +31,7 @@ Transitioning to Go is a strategic roadmap for Java and TypeScript developers mo
 
 ## Related Videos
 
-- [Agent Mode in DuckDB v2.0](https://youtu.be/6PnRBvLiQCs) — Development · 5 views · Oct 21, 2026 · [Details](6PnRBvLiQCs.md) (shared: `interfaces` · `explicit` · `error`)
+- [Agent Mode in DuckDB v2.0](https://youtu.be/6PnRBvLiQCs) — Development · 73 views · Oct 21, 2026 · [Details](6PnRBvLiQCs.md) (shared: `interfaces` · `explicit` · `error`)
 - [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 769 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `error` · `handling` · `unified`)
 - [The Architect's Baton](https://youtu.be/6WRiPikxs-Q) — Development · 126 views · Mar 7, 2026 · [Details](6WRiPikxs-Q.md) (shared: `cloud-native infrastructure` · `cloud-native` · `infrastructure`)
 - [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 52 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `echo` · `api` · `framework`)

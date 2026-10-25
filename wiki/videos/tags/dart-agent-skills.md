@@ -2,7 +2,7 @@
 type: tag
 tags: [dart-agent-skills]
 sources: 2
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 # dart agent skills
@@ -15,4 +15,4 @@ Videos connected by the topic `dart agent skills`.
 - [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 55 views · Apr 28, 2026 · [Details](../details/i1HT5UIccTs.md)
 
 ---
-*Auto-generated on Oct 21, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 25, 2026. Back to [topic index](index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [developer-productivity]
 sources: 2
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 # developer productivity
@@ -15,4 +15,4 @@ Videos connected by the topic `developer productivity`.
 - [Leetgo](https://youtu.be/MuDJGnGTn3k) — Development · 64 views · Apr 9, 2026 · [Details](../details/MuDJGnGTn3k.md)
 
 ---
-*Auto-generated on Oct 21, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 25, 2026. Back to [topic index](index.md).*

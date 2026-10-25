@@ -32,9 +32,9 @@ This video examines the phase-out of the American penny, covering the US Treasur
 
 - [The Architecture of Fulfillment](https://youtu.be/hnMR8rdGCnU) — Finance · 47 views · Mar 26, 2026 · [Details](hnMR8rdGCnU.md) (shared: `transition`)
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `transition`)
-- [The Blueprint for Modern Banking](https://youtu.be/0sUGmB9vf1o) — Finance · 8 views · Oct 19, 2026 · [Details](0sUGmB9vf1o.md) (shared: `retail`)
+- [The Economics of Global Cyber Risk](https://youtu.be/ZUEwbQBJcjY) — Finance · 10 views · Oct 23, 2026 · [Details](ZUEwbQBJcjY.md) (shared: `digital`)
+- [The Blueprint for Modern Banking](https://youtu.be/0sUGmB9vf1o) — Finance · 9 views · Oct 19, 2026 · [Details](0sUGmB9vf1o.md) (shared: `retail`)
 - [RB Simulation Architecture](https://youtu.be/AbCc2yfz2uw) — Development · 7 views · Jun 30, 2026 · [Details](AbCc2yfz2uw.md) (shared: `sense` · `act`)
-- [Enterprise Agentic Al](https://youtu.be/HOetEEw0ogM) — Development · 37 views · Jan 18, 2026 · [Details](HOetEEw0ogM.md) (shared: `digital`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*
