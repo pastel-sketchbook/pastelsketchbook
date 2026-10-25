@@ -914,3 +914,16 @@ Synced 524 videos across 6 categories (korea=20, finance=60, kubernetes=108, dev
 ## [2026-10-25] ingest | Video Transcripts
 
 Exported 1 transcript files (single: UrRvHqn6twI) to `wiki/raw/transcripts`.
+
+## [2026-10-25] ingest | Release 3 new full videos (published Oct 22-24)
+
+Released 3 newest full videos from `HIDDEN_VIDEO_IDS` so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- UrRvHqn6twI (The Cinnamon Teal Release, development, 2026-10-22) — DuckDB 2.0.0 LTS
+- ZUEwbQBJcjY (The Economics of Global Cyber Risk, finance, 2026-10-23)
+- bkKwvzrNbPg (The Mathematical Blueprint of Artificial Intelligence, development, 2026-10-24)
+
+All are full-length (durationSec 415/660/859, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md` (7-16KB, well above the ~2.5KB Shorts fallback), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: bkKwvzrNbPg → Internals Companion Ch2 (The Mathematics of Probability and Risk, calculus/linear algebra/Adam); ZUEwbQBJcjY → Architect's Sketchbook Ch7 (The Architecture of Wealth, cyber risk economics); UrRvHqn6twI → Internals Companion Ch13 (The Database Internals Tour, DuckDB 2.0 QUACK server).
+
+Bundle: 524 videos, 524 with detail (Missing: 0). zmd reindexed (1277 documents); all 3 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 3 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 3 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
+
+Backward check: scanned all 524 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 3 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).
