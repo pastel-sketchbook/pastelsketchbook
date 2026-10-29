@@ -39,7 +39,7 @@ The Stateful AI Playbook tackles zero-disruption node patching and PyTorch check
 - [Orchestrating Kubernetes Resilience](https://youtu.be/ZECKRFPN8BA) — Kubernetes · 29 views · Aug 25, 2026 · [Details](ZECKRFPN8BA.md) (shared: `disruption` · `drain` · `pod`)
 - [Mastering Batch Workload Orchestration on Kubernetes](https://youtu.be/XKTtea0xGsA) — Kubernetes · 28 views · Jul 17, 2026 · [Details](XKTtea0xGsA.md) (shared: `disruption` · `orchestration` · `pod`)
 - [Orchestrating Distributed Al on Kubernetes](https://youtu.be/W_rZivDmMRY) — Kubernetes · 21 views · Jul 30, 2026 · [Details](W_rZivDmMRY.md) (shared: `zero` · `distributed` · `pod`)
-- [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 48 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `zero` · `workload`)
+- [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 49 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `zero` · `workload`)
 
 ---
 *Auto-generated on Sep 06, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

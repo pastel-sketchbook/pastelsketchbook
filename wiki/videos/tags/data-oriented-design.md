@@ -2,7 +2,7 @@
 type: tag
 tags: [data-oriented-design]
 sources: 4
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 # data-oriented design
@@ -11,10 +11,10 @@ Videos connected by the topic `data-oriented design`.
 
 ## Videos
 
-- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 132 views · Jan 29, 2026 · [Details](../details/o9yaniXkM-0.md)
-- [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 64 views · Jan 29, 2026 · [Details](../details/h31-NtagNoU.md)
+- [Practical Data Oriented Design in Zig](https://youtu.be/o9yaniXkM-0) — Development · 134 views · Jan 29, 2026 · [Details](../details/o9yaniXkM-0.md)
+- [Memory Layout in Zig](https://youtu.be/h31-NtagNoU) — Development · 65 views · Jan 29, 2026 · [Details](../details/h31-NtagNoU.md)
 - [Hardening a Prototype](https://youtu.be/DCGTYftRGWE) — Development · 24 views · Jan 25, 2026 · [Details](../details/DCGTYftRGWE.md)
-- [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 16 views · Jan 25, 2026 · [Details](../details/US7oyxbcJCc.md)
+- [Cloth Simulation: A Performance Study](https://youtu.be/US7oyxbcJCc) — Development · 17 views · Jan 25, 2026 · [Details](../details/US7oyxbcJCc.md)
 
 ---
-*Auto-generated on Oct 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 28, 2026. Back to [topic index](index.md).*

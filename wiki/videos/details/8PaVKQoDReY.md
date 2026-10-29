@@ -37,9 +37,9 @@ Candle is a Rust-native machine learning framework engineered for serverless inf
 
 ## Related Videos
 
-- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 1.2K views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `zero` · `tensor`)
-- [Al Model Formats & Quantization: The Architect's Guide](https://youtu.be/vAdV0IhTkd4) — Development · 100 views · Oct 17, 2026 · [Details](vAdV0IhTkd4.md) (shared: `inference` · `onnx` · `gguf`)
-- [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 77 views · Aug 14, 2026 · [Details](nSMpZpj6Jzc.md) (shared: `inference` · `tensor` · `engine`)
+- [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 1.3K views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `rust` · `zero` · `tensor`)
+- [Al Model Formats & Quantization: The Architect's Guide](https://youtu.be/vAdV0IhTkd4) — Development · 104 views · Oct 17, 2026 · [Details](vAdV0IhTkd4.md) (shared: `inference` · `onnx` · `gguf`)
+- [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 81 views · Aug 14, 2026 · [Details](nSMpZpj6Jzc.md) (shared: `inference` · `tensor` · `engine`)
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 38 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `rust` · `inference` · `tensor`)
 - [OpenCV Library Architecture and Capabilities](https://youtu.be/ZfAc2pqcS-4) — Development · 59 views · May 11, 2026 · [Details](ZfAc2pqcS-4.md) (shared: `inference` · `graph` · `cuda`)
 

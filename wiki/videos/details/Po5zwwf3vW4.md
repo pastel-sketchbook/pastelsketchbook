@@ -35,9 +35,9 @@ This session engineers a high-density agent sandbox architecture on GKE Agent Su
 
 ## Related Videos
 
-- [Building The Modern Cloud Virtualization Stack](https://youtu.be/NA70_k873dY) — Kubernetes · 15 views · Oct 16, 2026 · [Details](NA70_k873dY.md) (shared: `architecture` · `kata containers isolation` · `kata`)
+- [Building The Modern Cloud Virtualization Stack](https://youtu.be/NA70_k873dY) — Kubernetes · 21 views · Oct 16, 2026 · [Details](NA70_k873dY.md) (shared: `architecture` · `kata containers isolation` · `kata`)
 - [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 69 views · Apr 25, 2026 · [Details](quD4pyCwKB4.md) (shared: `architecture` · `agent` · `code`)
-- [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 84 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `sandbox` · `agent` · `substrate`)
+- [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 85 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `sandbox` · `agent` · `substrate`)
 - [Orchard: An Open Foundation for Agentic Modeling Research](https://youtu.be/knxE_Pg2JBA) — Kubernetes · 16 views · Aug 27, 2026 · [Details](knxE_Pg2JBA.md) (shared: `agentic` · `sandbox` · `isolation`)
 - [Designing the Event-Driven Landscape](https://youtu.be/QE51ybyrQDM) — Kubernetes · 71 views · Mar 22, 2026 · [Details](QE51ybyrQDM.md) (shared: `architecture` · `cloud`)
 

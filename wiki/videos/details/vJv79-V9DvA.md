@@ -35,7 +35,7 @@ This session bridges classical mathematical theory and runnable Python through t
 
 ## Related Videos
 
-- [Why uv, ruff, and ty are mandatory](https://youtu.be/i8wjbDfxZTY) — Development · 150 views · Jun 2, 2026 · [Details](i8wjbDfxZTY.md) (shared: `python` · `ruff`)
+- [Why uv, ruff, and ty are mandatory](https://youtu.be/i8wjbDfxZTY) — Development · 156 views · Jun 2, 2026 · [Details](i8wjbDfxZTY.md) (shared: `python` · `ruff`)
 - [Engineering a Unified Kubernetes Metrics Pipeline](https://youtu.be/00gLyK5Wv_4) — Development · 56 views · Oct 14, 2026 · [Details](00gLyK5Wv_4.md) (shared: `visualization` · `pipeline`)
 - [The Confluent Systems Master Plan](https://youtu.be/J6dRkXZhnIQ) — Development · 69 views · Jul 9, 2026 · [Details](J6dRkXZhnIQ.md) (shared: `theory` · `proofs`)
 - [A Compiler, Not a Renderer](https://youtu.be/E8f87EV4k3A) — Development · 158 views · Apr 17, 2026 · [Details](E8f87EV4k3A.md) (shared: `pipeline`)

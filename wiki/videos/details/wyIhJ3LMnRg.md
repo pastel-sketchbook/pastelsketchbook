@@ -30,11 +30,11 @@ This video explains the W3C Trace Context specification, a standardized set of H
 
 ## Related Videos
 
-- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 150 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `context` · `distributed tracing` · `distributed`)
-- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 41 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `distributed tracing` · `distributed` · `tracing`)
-- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 176 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `distributed tracing` · `distributed` · `tracing`)
+- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 156 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `context` · `distributed tracing` · `distributed`)
+- [Resilient Asynchronous Systems in Go](https://youtu.be/INNKxTAagE4) — Development · 43 views · Mar 23, 2026 · [Details](INNKxTAagE4.md) (shared: `distributed tracing` · `distributed` · `tracing`)
+- [Production-Ready RabbitMQ in Go](https://youtu.be/CXtHwJQphLI) — Development · 177 views · Mar 19, 2026 · [Details](CXtHwJQphLI.md) (shared: `distributed tracing` · `distributed` · `tracing`)
 - [Tracing Asynchronous Rust](https://youtu.be/d1MH4nza95g) — Development · 129 views · May 3, 2026 · [Details](d1MH4nza95g.md) (shared: `trace` · `context` · `tracing`)
-- [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 25 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `tracing` · `observability`)
+- [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 26 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `tracing` · `observability`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [development](../development.md) · [index](../index.md).*

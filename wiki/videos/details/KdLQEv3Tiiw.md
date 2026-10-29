@@ -32,7 +32,7 @@ This video covers hybrid Change Data Capture (CDC) architectures using Debezium 
 
 - [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 48 views · Jan 16, 2026 · [Details](0U-SUJCmKAU.md) (shared: `rabbitmq` · `kubernetes` · `persistent`)
 - [Architecting Real-Time State](https://youtu.be/WRpjJV4SUKc) — Kubernetes · 78 views · Apr 5, 2026 · [Details](WRpjJV4SUKc.md) (shared: `change data capture` · `change` · `data`)
-- [Architecting CDC Pipelines](https://youtu.be/JKXsba2_TgY) — Kubernetes · 19 views · Oct 15, 2026 · [Details](JKXsba2_TgY.md) (shared: `change` · `data` · `capture`)
+- [Architecting CDC Pipelines](https://youtu.be/JKXsba2_TgY) — Kubernetes · 20 views · Oct 15, 2026 · [Details](JKXsba2_TgY.md) (shared: `change` · `data` · `capture`)
 - [Continuous Flow](https://youtu.be/tcrNdx1yH_E) — Kubernetes · 15 views · Mar 22, 2026 · [Details](tcrNdx1yH_E.md) (shared: `change data capture` · `change` · `data`)
 - [The 2026 Change Data Capture Blueprint](https://youtu.be/am9FvNiJ24M) — Development · 33 views · Apr 8, 2026 · [Details](am9FvNiJ24M.md) (shared: `change data capture` · `change` · `data`)
 

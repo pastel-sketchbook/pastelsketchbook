@@ -35,7 +35,7 @@ This session dissects the 2026 United States housing market through the hydrauli
 
 ## Related Videos
 
-- [The Economics of Global Cyber Risk](https://youtu.be/ZUEwbQBJcjY) — Finance · 10 views · Oct 23, 2026 · [Details](ZUEwbQBJcjY.md) (shared: `dynamics` · `market` · `pressure`)
+- [The Economics of Global Cyber Risk](https://youtu.be/ZUEwbQBJcjY) — Finance · 14 views · Oct 23, 2026 · [Details](ZUEwbQBJcjY.md) (shared: `dynamics` · `market` · `pressure`)
 - [The California vs. Texas Economic Rivalry](https://youtu.be/DMfE_eElLAc) — Finance · 30 views · Aug 3, 2026 · [Details](DMfE_eElLAc.md) (shared: `housing` · `dynamics` · `affordability`)
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `market`)
 - [The Exchange Rate of Your Life](https://youtu.be/MBnVggs6k5g) — Finance · 17 views · Jan 22, 2026 · [Details](MBnVggs6k5g.md) (shared: `rate`)

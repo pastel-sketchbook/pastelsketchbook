@@ -38,7 +38,7 @@ This session engineers a single-binary Rust pipeline that ingests Kubernetes met
 - [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 21 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `embedded` · `server` · `rendering`)
 - [Architecture Blueprint: tn-svs](https://youtu.be/o3ba6XdMQA0) — Development · 10 views · Jun 23, 2026 · [Details](o3ba6XdMQA0.md) (shared: `pipeline` · `tokio` · `grpc`)
 - [The Microservices Communication Playbook](https://youtu.be/L9ypC5863yA) — Development · 132 views · Apr 24, 2026 · [Details](L9ypC5863yA.md) (shared: `grpc` · `rest` · `multiplexing`)
-- [The Cinnamon Teal Release](https://youtu.be/UrRvHqn6twI) — Development · 39 views · Oct 22, 2026 · [Details](UrRvHqn6twI.md) (shared: `embedded` · `duckdb` · `server`)
+- [The Cinnamon Teal Release](https://youtu.be/UrRvHqn6twI) — Development · 54 views · Oct 22, 2026 · [Details](UrRvHqn6twI.md) (shared: `embedded` · `duckdb` · `server`)
 - [The Architecture of a Virtual Voice](https://youtu.be/aQpGQClZSvc) — Development · 19 views · May 27, 2026 · [Details](aQpGQClZSvc.md) (shared: `pipeline` · `parsing` · `rendering`)
 
 ---

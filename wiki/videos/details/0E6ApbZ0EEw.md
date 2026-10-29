@@ -37,7 +37,7 @@ This session blueprints the physical and technological backbone for mass AI adop
 
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 80 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `infrastructure` · `data` · `economics`)
 - [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) — Finance · 8 views · May 20, 2026 · [Details](Dx8pFmojxL4.md) (shared: `data` · `subscription` · `economics`)
-- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 43 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `infrastructure` · `data` · `economics`)
+- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 44 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `infrastructure` · `data` · `economics`)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 44 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `infrastructure` · `agent` · `ecosystem`)
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 9 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `infrastructure` · `power` · `data`)
 

@@ -927,3 +927,25 @@ All are full-length (durationSec 415/660/859, none < 120s → not Shorts). For e
 Bundle: 524 videos, 524 with detail (Missing: 0). zmd reindexed (1277 documents); all 3 raw transcripts + detail pages retrievable via `zmd get`. Showcase gates pass for all 3 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 3 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
 
 Backward check: scanned all 524 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 3 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).
+
+## [2026-10-29] ingest | Video Metadata Sync
+
+Synced 528 videos across 6 categories (korea=20, finance=61, kubernetes=108, development=306, security=24, programming=9).
+
+## [2026-10-29] ingest | Video Transcripts
+
+Exported 1 transcript files (single: LbWNd9IEbXk) to `wiki/raw/transcripts`.
+
+## [2026-10-29] ingest | Release 4 new full videos (published Oct 25-28)
+
+Released 4 newest full videos from `HIDDEN_VIDEO_IDS` so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- LbWNd9IEbXk (Flutter Security Hotfix 3.47.8, development, 2026-10-25) — eMudhra CA compromise response
+- Z11tNqrYnrk (Х Money Unpacked, finance, 2026-10-26) — X Money closed-loop teardown
+- 1r6yG6mMoSQ (Designing Fault-Tolerant Systems, development, 2026-10-27) — BEAM/OTP fault tolerance
+- gbnVdhdxuQY (Dynamic Workflows in Azure Functions Hosted Skills, development, 2026-10-28)
+
+All are full-length (durationSec 460/560/1117/700, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md` (8-20KB, well above the ~2.5KB Shorts fallback), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: LbWNd9IEbXk → Internals Companion Ch14 (The Flutter/Dart Platform, flutter-tag sibling); 1r6yG6mMoSQ → Internals Companion Ch7 (Serialization and Type Safety, alongside the only other BEAM/Elixir video gVZwfZVAuVE); Z11tNqrYnrk → Architect's Sketchbook Ch7 (The Architecture of Wealth); gbnVdhdxuQY → Architect's Sketchbook Ch3 (The Enterprise AI Pipeline, azure/AI siblings).
+
+Bundle: 528 videos, 528 with detail (Missing: 0). zmd reindexed (1285 documents); detail pages retrievable via `zmd get` (spot-checked). Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
+
+Backward check: scanned all 528 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 4 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).

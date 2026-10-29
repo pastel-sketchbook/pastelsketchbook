@@ -37,8 +37,8 @@ This session rethinks the command line for a growing audience of autonomous codi
 
 - [Transitioning to Go](https://youtu.be/y31idN_ZC0Q) — Development · 62 views · Sep 12, 2026 · [Details](y31idN_ZC0Q.md) (shared: `cli` · `explicit` · `error`)
 - [Agent Skills for Dart](https://youtu.be/i1HT5UIccTs) — Development · 55 views · Apr 28, 2026 · [Details](i1HT5UIccTs.md) (shared: `agent` · `cli` · `error`)
-- [Engineering Al Agent Mastery with Waza](https://youtu.be/jOw6d5zH658) — Development · 544 views · May 9, 2026 · [Details](jOw6d5zH658.md) (shared: `agent` · `token` · `llm`)
-- [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 25 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `structured` · `error`)
+- [Engineering Al Agent Mastery with Waza](https://youtu.be/jOw6d5zH658) — Development · 548 views · May 9, 2026 · [Details](jOw6d5zH658.md) (shared: `agent` · `token` · `llm`)
+- [Mastering Rust Error Handling](https://youtu.be/ZlEq2jFb8tI) — Development · 26 views · Feb 6, 2026 · [Details](ZlEq2jFb8tI.md) (shared: `structured` · `error`)
 - [zig-twitter: Anatomy of a Hybrid Terminal Client](https://youtu.be/a2kADxV0kBM) — Development · 39 views · Mar 14, 2026 · [Details](a2kADxV0kBM.md) (shared: `cli` · `design`)
 
 ---

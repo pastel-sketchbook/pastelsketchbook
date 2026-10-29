@@ -2,7 +2,7 @@
 type: tag
 tags: [rust-tui]
 sources: 3
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 # rust tui
@@ -16,4 +16,4 @@ Videos connected by the topic `rust tui`.
 - [kube-log-viewer](https://youtu.be/aiYBPCkvhes) — Kubernetes · 24 views · Mar 5, 2026 · [Details](../details/aiYBPCkvhes.md)
 
 ---
-*Auto-generated on Oct 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 28, 2026. Back to [topic index](index.md).*

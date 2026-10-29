@@ -2,7 +2,7 @@
 type: tag
 tags: [context-switching]
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 # context switching
@@ -11,8 +11,8 @@ Videos connected by the topic `context switching`.
 
 ## Videos
 
-- [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) — Development · 4.5K views · Apr 3, 2026 · [Details](../details/54lO6XE-AeQ.md)
+- [The Zero-Copy Architecture](https://youtu.be/54lO6XE-AeQ) — Development · 4.6K views · Apr 3, 2026 · [Details](../details/54lO6XE-AeQ.md)
 - [Leetgo](https://youtu.be/MuDJGnGTn3k) — Development · 64 views · Apr 9, 2026 · [Details](../details/MuDJGnGTn3k.md)
 
 ---
-*Auto-generated on Oct 25, 2026. Back to [topic index](index.md).*
+*Auto-generated on Oct 28, 2026. Back to [topic index](index.md).*

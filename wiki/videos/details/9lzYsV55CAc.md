@@ -35,7 +35,7 @@ This session maps Texas as the physical backbone of the AI era through a $140 bi
 
 ## Related Videos
 
-- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 47 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `infrastructure` · `hyperscale` · `ercot`)
+- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 48 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `infrastructure` · `hyperscale` · `ercot`)
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 80 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `infrastructure` · `economics` · `cooling`)
 - [The 2026 U.S. Fiber Ecosystem](https://youtu.be/QWQcpxHE6E8) — Finance · 7 views · Aug 9, 2026 · [Details](QWQcpxHE6E8.md) (shared: `liquid` · `cooling` · `data`)
 - [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 20 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `infrastructure` · `ercot` · `data`)

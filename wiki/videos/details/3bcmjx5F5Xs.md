@@ -36,9 +36,9 @@ This framework structures a decade-long AI investment portfolio as a three-tier 
 ## Related Videos
 
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `barbell` · `portfolio` · `ai infrastructure investing`)
-- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 44 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `barbell` · `portfolio` · `investing`)
+- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 45 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `barbell` · `portfolio` · `investing`)
 - [Breakout Stars and Dominant Titans](https://youtu.be/tPDFgVAp4c4) — Finance · 48 views · Dec 26, 2025 · [Details](tPDFgVAp4c4.md) (shared: `ai infrastructure investing` · `infrastructure` · `investing`)
-- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 47 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `architecture` · `infrastructure` · `compute`)
+- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 48 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `architecture` · `infrastructure` · `compute`)
 - [The Infrastructure of the Al Era](https://youtu.be/0E6ApbZ0EEw) — Finance · 66 views · Oct 10, 2026 · [Details](0E6ApbZ0EEw.md) (shared: `infrastructure` · `agent` · `ecosystem`)
 
 ---

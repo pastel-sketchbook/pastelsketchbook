@@ -32,10 +32,10 @@ This strategic analysis examines the long-term AI capital cycle, forecasting a t
 ## Related Videos
 
 - [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 80 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `center` · `infrastructure`)
-- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 43 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `data` · `center` · `infrastructure`)
+- [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 44 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `data` · `center` · `infrastructure`)
 - [South Korea's $1 Trillion Al & Semiconductor Blueprint](https://youtu.be/K1wUGKw3scU) — Finance · 9 views · Jun 29, 2026 · [Details](K1wUGKw3scU.md) (shared: `data` · `center` · `infrastructure`)
 - [The Architecture of Artificial Intelligence](https://youtu.be/mMVWnnAqPQk) — Finance · 20 views · Aug 5, 2026 · [Details](mMVWnnAqPQk.md) (shared: `data` · `center` · `infrastructure`)
-- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 47 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `center` · `infrastructure`)
+- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 48 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `data` · `center` · `infrastructure`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [finance](../finance.md) · [index](../index.md).*
