@@ -2,7 +2,7 @@
 type: tag
 tags: [zero-trust-architecture]
 sources: 4
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 # zero trust architecture
@@ -17,4 +17,4 @@ Videos connected by the topic `zero trust architecture`.
 - [Architecting Modern Trust](https://youtu.be/l1LX1D1SAMA) — Security · 9 views · Oct 20, 2026 · [Details](../details/l1LX1D1SAMA.md)
 
 ---
-*Auto-generated on Oct 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 2, 2026. Back to [topic index](index.md).*

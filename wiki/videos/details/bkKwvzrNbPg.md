@@ -36,7 +36,7 @@ This session builds the mathematical blueprint behind modern machine learning, p
 ## Related Videos
 
 - [Writing Modern Go in the Age of Al](https://youtu.be/Z90u9EVf4M4) — Development · 194 views · Mar 26, 2026 · [Details](Z90u9EVf4M4.md) (shared: `training` · `bias`)
-- [Mapping the NVIDIA CUDA Library Ecosystem](https://youtu.be/9tiUYnQL_y0) — Development · 31 views · Jun 20, 2026 · [Details](9tiUYnQL_y0.md) (shared: `linear` · `algebra`)
+- [Mapping the NVIDIA CUDA Library Ecosystem](https://youtu.be/9tiUYnQL_y0) — Development · 32 views · Jun 20, 2026 · [Details](9tiUYnQL_y0.md) (shared: `linear` · `algebra`)
 - [The Architectural Blueprint of Apache DataFusion](https://youtu.be/ZbZdm5Opbno) — Development · 65 views · May 14, 2026 · [Details](ZbZdm5Opbno.md) (shared: `algebra` · `optimizer`)
 - [The Center Has a Bias](https://youtu.be/a1hIA6KQUFE) — Development · 38 views · Apr 13, 2026 · [Details](a1hIA6KQUFE.md) (shared: `bias`)
 - [Engineering the Overnight Researcher in Zig](https://youtu.be/7yqkfHo8Mwk) — Development · 78 views · Mar 9, 2026 · [Details](7yqkfHo8Mwk.md) (shared: `training`)

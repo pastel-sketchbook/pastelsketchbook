@@ -949,3 +949,25 @@ All are full-length (durationSec 460/560/1117/700, none < 120s → not Shorts). 
 Bundle: 528 videos, 528 with detail (Missing: 0). zmd reindexed (1285 documents); detail pages retrievable via `zmd get` (spot-checked). Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
 
 Backward check: scanned all 528 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 4 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).
+
+## [2026-11-02] ingest | Video Metadata Sync
+
+Synced 532 videos across 6 categories (korea=20, finance=61, kubernetes=109, development=308, security=25, programming=9).
+
+## [2026-11-02] ingest | Video Transcripts
+
+Exported 1 transcript files (single: rk8YpGForDQ) to `wiki/raw/transcripts`.
+
+## [2026-11-02] ingest | Release 4 new full videos (published Oct 29 - Nov 2)
+
+Released 4 newest full videos from `HIDDEN_VIDEO_IDS` so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- rk8YpGForDQ (The AI-Powered Visual Workspace, development, 2026-10-29) — Microsoft Data Formulator teardown
+- eT4cwClcQqk (The Pragmatic FastAPI Refactoring Playbook, development, 2026-10-30)
+- 0QmlJNjUtGY (Migrating to RabbitMQ 4.4, kubernetes, 2026-10-31) — already public but transcript/detail not yet generated; covered in this batch
+- bkNYrlwcVxo (Architecting the AI Security Stack, security, 2026-11-02) — Tencent AIG / four-layer defense
+
+All are full-length (durationSec 768/850/637/808, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md` (10-14KB, well above the ~2.5KB Shorts fallback), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: 0QmlJNjUtGY → Architect's Sketchbook Ch4 (The Microservices Communication Playbook, beside RabbitMQ 4.2.8 sibling 6XAbKoeK9JU); eT4cwClcQqk → Ch10 (Event-Driven Landscapes, beside exact strangler-fig/facade sibling 4aAyFYemYD8); bkNYrlwcVxo → Ch2 (Zero Trust as First Principle, security/agentic-AI siblings l1LX1D1SAMA + iVb4Pu8CAHE); rk8YpGForDQ → Ch8 (The 2026 Architectural Standard, agent catch-all).
+
+Bundle: 532 videos, 532 with detail (Missing: 0). zmd reindexed (1293 documents); detail pages retrievable via `zmd get` (spot-checked). Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
+
+Backward check: scanned all 532 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 3 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).

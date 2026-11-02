@@ -38,8 +38,8 @@ Stitch agent skills is an initiative designed to bridge the gap between AI-gener
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 98 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `model context protocol (mcp)` · `model context protocol` · `mcp`)
 - [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](9oSUtndLto4.md) (shared: `model context protocol` · `model` · `context`)
 - [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 739 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model context protocol` · `model` · `context`)
-- [Parallel Agents in Zed](https://youtu.be/0wth_46Vtmo) — Development · 303 views · Aug 4, 2026 · [Details](0wth_46Vtmo.md) (shared: `model context protocol` · `model` · `context`)
-- [Dynamic Workflows in Azure Functions Hosted Skills](https://youtu.be/gbnVdhdxuQY) — Development · 1 views · Oct 28, 2026 · [Details](gbnVdhdxuQY.md) (shared: `context` · `validation` · `orchestration`)
+- [Parallel Agents in Zed](https://youtu.be/0wth_46Vtmo) — Development · 312 views · Aug 4, 2026 · [Details](0wth_46Vtmo.md) (shared: `model context protocol` · `model` · `context`)
+- [Dynamic Workflows in Azure Functions Hosted Skills](https://youtu.be/gbnVdhdxuQY) — Development · 28 views · Oct 28, 2026 · [Details](gbnVdhdxuQY.md) (shared: `context` · `validation` · `orchestration`)
 
 ---
 *Auto-generated on Apr 14, 2026. Back to [development](../development.md) · [index](../index.md).*

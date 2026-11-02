@@ -2,7 +2,7 @@
 type: tag
 tags: [dependency-injection]
 sources: 5
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 # dependency injection
@@ -18,4 +18,4 @@ Videos connected by the topic `dependency injection`.
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 54 views · Feb 22, 2026 · [Details](../details/Th5MMOFQbh8.md)
 
 ---
-*Auto-generated on Oct 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 2, 2026. Back to [topic index](index.md).*

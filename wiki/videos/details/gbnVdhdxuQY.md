@@ -39,7 +39,7 @@ This session introduces dynamic workflows in Azure Functions hosted skills — d
 - [Architecting Al in Software Engineering](https://youtu.be/yXZnBtdDTFk) — Development · 80 views · May 25, 2026 · [Details](yXZnBtdDTFk.md) (shared: `context` · `validation` · `pattern`)
 - [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 299 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `context` · `validation` · `orchestration`)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 98 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `context` · `agent` · `orchestration`)
-- [Parallel Agents in Zed](https://youtu.be/0wth_46Vtmo) — Development · 303 views · Aug 4, 2026 · [Details](0wth_46Vtmo.md) (shared: `workflows` · `context` · `agent`)
+- [Parallel Agents in Zed](https://youtu.be/0wth_46Vtmo) — Development · 312 views · Aug 4, 2026 · [Details](0wth_46Vtmo.md) (shared: `workflows` · `context` · `agent`)
 
 ---
 *Auto-generated on Oct 29, 2026. Back to [development](../development.md) · [index](../index.md).*

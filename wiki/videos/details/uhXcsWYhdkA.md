@@ -34,7 +34,7 @@ This video presents a strategic implementation guide for data classification bas
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 26 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `nist` · `management` · `enterprise`)
 - [Secure Web App with Azure AD/OAuth2 Proxy](https://youtu.be/rgY4KTMFOMs) — Kubernetes · 113 views · Feb 5, 2026 · [Details](rgY4KTMFOMs.md) (shared: `zero trust architecture` · `zero` · `trust`)
 - [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) — Security · 11 views · Aug 16, 2026 · [Details](LGKBWq8g1u4.md) (shared: `zero trust architecture` · `zero` · `trust`)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 341 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `zero` · `trust` · `security`)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 347 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `zero` · `trust` · `security`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

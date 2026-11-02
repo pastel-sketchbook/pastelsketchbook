@@ -2,7 +2,7 @@
 type: tag
 tags: [lsp]
 sources: 2
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 # lsp
@@ -15,4 +15,4 @@ Videos connected by the topic `lsp`.
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 98 views · Apr 5, 2026 · [Details](../details/T-NdEF6btbg.md)
 
 ---
-*Auto-generated on Oct 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 2, 2026. Back to [topic index](index.md).*

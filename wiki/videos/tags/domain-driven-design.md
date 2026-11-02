@@ -2,7 +2,7 @@
 type: tag
 tags: [domain-driven-design]
 sources: 2
-updated: 2026-10-29
+updated: 2026-11-02
 ---
 
 # domain-driven design
@@ -15,4 +15,4 @@ Videos connected by the topic `domain-driven design`.
 - [The Blueprint for Al-Augmented Agile](https://youtu.be/WCqusmhtteU) — Development · 51 views · Sep 20, 2026 · [Details](../details/WCqusmhtteU.md)
 
 ---
-*Auto-generated on Oct 28, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 2, 2026. Back to [topic index](index.md).*

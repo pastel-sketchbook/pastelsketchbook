@@ -39,7 +39,7 @@ This session architects a production hybrid AI stack that splits work between Je
 - [Professional Al Agent Usage via the CLI](https://youtu.be/Xhq99-YHXCY) — Development · 25 views · Jan 2, 2026 · [Details](Xhq99-YHXCY.md) (shared: `agent` · `loop` · `human`)
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 63 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `hybrid` · `agent`)
 - [Reins: The Framework for Al-Assisted Development](https://youtu.be/zrP3muXzQX4) — Development · 85 views · Mar 23, 2026 · [Details](zrP3muXzQX4.md) (shared: `agent` · `verification`)
-- [Cryptographic Usability & The Tink Library](https://youtu.be/H-gkXATx8r0) — Development · 28 views · Feb 21, 2026 · [Details](H-gkXATx8r0.md) (shared: `stack` · `design`)
+- [Cryptographic Usability & The Tink Library](https://youtu.be/H-gkXATx8r0) — Development · 29 views · Feb 21, 2026 · [Details](H-gkXATx8r0.md) (shared: `stack` · `design`)
 
 ---
 *Auto-generated on Sep 24, 2026. Back to [development](../development.md) · [index](../index.md).*
