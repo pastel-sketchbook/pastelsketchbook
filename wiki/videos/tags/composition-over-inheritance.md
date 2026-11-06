@@ -2,7 +2,7 @@
 type: tag
 tags: [composition-over-inheritance]
 sources: 3
-updated: 2026-11-02
+updated: 2026-11-06
 ---
 
 # composition over inheritance
@@ -11,9 +11,9 @@ Videos connected by the topic `composition over inheritance`.
 
 ## Videos
 
-- [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 119 views · Feb 24, 2026 · [Details](../details/DazzkNtnzec.md)
+- [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 120 views · Feb 24, 2026 · [Details](../details/DazzkNtnzec.md)
 - [Composition by Design](https://youtu.be/ARWkoc3E8uE) — Development · 34 views · Feb 23, 2026 · [Details](../details/ARWkoc3E8uE.md)
-- [Flattening the Hierarchy](https://youtu.be/RvgI3oEThcA) — Development · 19 views · Jul 13, 2026 · [Details](../details/RvgI3oEThcA.md)
+- [Flattening the Hierarchy](https://youtu.be/RvgI3oEThcA) — Development · 20 views · Jul 13, 2026 · [Details](../details/RvgI3oEThcA.md)
 
 ---
-*Auto-generated on Nov 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 6, 2026. Back to [topic index](index.md).*

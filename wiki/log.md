@@ -971,3 +971,25 @@ All are full-length (durationSec 768/850/637/808, none < 120s → not Shorts). F
 Bundle: 532 videos, 532 with detail (Missing: 0). zmd reindexed (1293 documents); detail pages retrievable via `zmd get` (spot-checked). Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
 
 Backward check: scanned all 532 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 3 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).
+
+## [2026-11-06] ingest | Video Metadata Sync
+
+Synced 535 videos across 6 categories (korea=20, finance=62, kubernetes=110, development=308, security=26, programming=9).
+
+## [2026-11-06] ingest | Video Transcripts
+
+Exported 1 transcript files (single: BxBO6CSx-C8) to `wiki/raw/transcripts`.
+
+## [2026-11-06] ingest | Release 4 new full videos (published Nov 3-6)
+
+Released 4 newest full videos (3 from `HIDDEN_VIDEO_IDS`, 1 manually ingested) so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- BxBO6CSx-C8 (2026 Asset Performance & All-Weather Portfolio Design, finance, 2026-11-03)
+- CxmIhfEWmNU (LiteBox Security Architecture, kubernetes, 2026-11-04)
+- ckSKHTb-wqw (Architecting for Speed, development, 2026-11-05) — not yet in metadata at processing time; manually ingested via oEmbed + watch-page metadata (title, 807s duration → full-length, 27 views, tags idp/cache/latency, date 2026-11-05T00:00:01Z), metadata entry patched + development category added to videos.ts, then the standard pipeline
+- NC5_Yru5k7Q (Obsolete by Design, security, 2026-11-06) — FIDO2/passwordless identity vs AI attacks
+
+All are full-length (durationSec 535/441/807/747, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md` (8-15KB, well above the ~2.5KB Shorts fallback), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: BxBO6CSx-C8 → Architect's Sketchbook Ch7 (The Architecture of Wealth, finance/all-weather portfolio); CxmIhfEWmNU → Ch8 (The 2026 Architectural Standard, sandbox-architecture sibling J6dRkXZhnIQ); ckSKHTb-wqw → Ch4 (The Microservices Communication Playbook, BFF/latency orchestration matching the chapter playbook framing); NC5_Yru5k7Q → Ch2 (Zero Trust as First Principle, passwordless sibling LGKBWq8g1u4 + architected-agentic-AI sibling iVb4Pu8CAHE).
+
+Bundle: 536 videos, 536 with detail (Missing: 0). zmd reindexed (1302 documents); detail pages retrievable via `zmd get` (spot-checked). Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
+
+Backward check: scanned all 536 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 3 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).

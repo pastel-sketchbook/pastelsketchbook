@@ -37,9 +37,9 @@ This video explores the mathematical principles and capital allocation strategie
 
 - [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 45 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `risk management` · `risk` · `management`)
 - [An Ambitious Ascent](https://youtu.be/MDNRiJN7aEg) — Finance · 11 views · Dec 29, 2025 · [Details](MDNRiJN7aEg.md) (shared: `risk management` · `risk` · `management`)
+- [2026 Asset Performance & All-Weather Portfolio Design](https://youtu.be/BxBO6CSx-C8) — Finance · 15 views · Nov 2, 2026 · [Details](BxBO6CSx-C8.md) (shared: `allocation` · `growth` · `portfolio`)
 - [The Cash Pump Blueprint](https://youtu.be/Aw8arLm35M8) — Finance · 21 views · Jul 12, 2026 · [Details](Aw8arLm35M8.md) (shared: `allocation` · `growth` · `risk`)
 - [Architecting the New Capital Regime](https://youtu.be/rjhabJ8Bx5U) — Finance · 18 views · May 21, 2026 · [Details](rjhabJ8Bx5U.md) (shared: `allocation` · `management` · `portfolio`)
-- [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `allocation` · `portfolio`)
 
 ---
 *Auto-generated on Jul 4, 2026. Back to [finance](../finance.md) · [index](../index.md).*

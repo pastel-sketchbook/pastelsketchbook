@@ -2,7 +2,7 @@
 type: tag
 tags: [joseon-dynasty]
 sources: 3
-updated: 2026-11-02
+updated: 2026-11-06
 ---
 
 # joseon dynasty
@@ -16,4 +16,4 @@ Videos connected by the topic `joseon dynasty`.
 - [Ganghwa: Un Viaje en Tonos Pastel](https://youtu.be/rwNfzJanPmk) — Korea · 6 views · Feb 6, 2026 · [Details](../details/rwNfzJanPmk.md)
 
 ---
-*Auto-generated on Nov 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 6, 2026. Back to [topic index](index.md).*

@@ -35,7 +35,7 @@ The Rust Architect Sketchbook provides a comprehensive blueprint for designing h
 
 ## Related Videos
 
-- [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `tokio async runtime` · `tokio` · `async`)
+- [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 9 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `tokio async runtime` · `tokio` · `async`)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 52 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `tokio async runtime` · `tokio` · `async`)
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 170 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `tokio` · `async` · `runtime`)
 - [Dial9 Demo - Deep Observability in Async Rust](https://youtu.be/vep9hSKc9I0) — Development · 149 views · Mar 22, 2026 · [Details](vep9hSKc9I0.md) (shared: `tokio` · `async` · `axum`)

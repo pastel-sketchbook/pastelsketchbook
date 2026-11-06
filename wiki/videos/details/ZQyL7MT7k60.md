@@ -39,7 +39,7 @@ This briefing dissects Japan's deliberately multi-vendor national cloud strategy
 - [The Sovereign AI Utility](https://youtu.be/izH8Nzr3DLA) — Finance · 29 views · Jul 28, 2026 · [Details](izH8Nzr3DLA.md) (shared: `sovereign` · `data` · `infrastructure`)
 - [The 2026 Market Barbell](https://youtu.be/2NoJVXPpcco) — Finance · 9 views · Mar 16, 2026 · [Details](2NoJVXPpcco.md) (shared: `strategy` · `infrastructure`)
 - [The Neuromorphic AI Stack](https://youtu.be/Cmnangq7Ndw) — Finance · 18 views · Aug 12, 2026 · [Details](Cmnangq7Ndw.md) (shared: `data` · `computing`)
-- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 80 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `infrastructure`)
+- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 81 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `data` · `infrastructure`)
 
 ---
 *Auto-generated on Jun 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

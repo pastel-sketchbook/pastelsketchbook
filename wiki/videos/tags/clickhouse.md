@@ -2,7 +2,7 @@
 type: tag
 tags: [clickhouse]
 sources: 2
-updated: 2026-11-02
+updated: 2026-11-06
 ---
 
 # clickhouse
@@ -15,4 +15,4 @@ Videos connected by the topic `clickhouse`.
 - [Clickhouse is Winning the Observability Wars](https://youtu.be/mf86g5lXfTg) — Kubernetes · 27 views · Jul 16, 2026 · [Details](../details/mf86g5lXfTg.md)
 
 ---
-*Auto-generated on Nov 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 6, 2026. Back to [topic index](index.md).*

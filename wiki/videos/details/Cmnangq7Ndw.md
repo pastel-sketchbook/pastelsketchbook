@@ -30,7 +30,7 @@ This talk maps the complete neuromorphic AI stack designed to solve the data-mov
 
 ## Related Videos
 
-- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 80 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `compute` · `data`)
+- [The Orbital Compute Blueprint](https://youtu.be/M_NbzCCHFp0) — Finance · 81 views · May 2, 2026 · [Details](M_NbzCCHFp0.md) (shared: `compute` · `data`)
 - [Japan's Sovereign Cloud Blueprint](https://youtu.be/ZQyL7MT7k60) — Finance · 38 views · Jun 16, 2026 · [Details](ZQyL7MT7k60.md) (shared: `computing` · `data`)
 - [The 10-Year Al Investing Architecture](https://youtu.be/3bcmjx5F5Xs) — Finance · 44 views · May 25, 2026 · [Details](3bcmjx5F5Xs.md) (shared: `compute` · `accelerators`)
 - [The Infrastructure of the Al Era](https://youtu.be/0E6ApbZ0EEw) — Finance · 67 views · Oct 10, 2026 · [Details](0E6ApbZ0EEw.md) (shared: `networks` · `data`)

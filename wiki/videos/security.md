@@ -1,9 +1,9 @@
 ---
 type: category
 category: security
-tags: [security, zero trust, curiosity, ai, idp, agent, sentinel, siem, soar, xdr]
-sources: 25
-updated: 2026-11-02
+tags: [security, ai, zero trust, passwordless, curiosity, idp, agent, sentinel, siem, soar]
+sources: 26
+updated: 2026-11-06
 ---
 
 # Security
@@ -14,16 +14,16 @@ updated: 2026-11-02
 
 | Metric | Value |
 |--------|-------|
-| Videos | 25 |
-| Total Views | 1.2K |
-| Most Recent | Nov 1, 2026 |
+| Videos | 26 |
+| Total Views | 1.3K |
+| Most Recent | Nov 5, 2026 |
 | Oldest | Feb 14, 2026 |
 
 ## Topic Clusters
 
 ### Security (12 videos)
 
-- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) -- 17 views, Nov 1, 2026 · [Details](details/bkNYrlwcVxo.md)
+- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) -- 31 views, Nov 1, 2026 · [Details](details/bkNYrlwcVxo.md)
 - [Architecting Modern Trust](https://youtu.be/l1LX1D1SAMA) -- 9 views, Oct 20, 2026 · [Details](details/l1LX1D1SAMA.md)
 - [Security  Through the Lens of Tracking](https://youtu.be/szwFbJVSQ48) -- 70 views, Sep 1, 2026 · [Details](details/szwFbJVSQ48.md)
 - [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) -- 11 views, Aug 16, 2026 · [Details](details/LGKBWq8g1u4.md)
@@ -36,10 +36,11 @@ updated: 2026-11-02
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) -- 26 views, Mar 8, 2026 · [Details](details/1VjSLqfPf9s.md)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) -- 25 views, Mar 2, 2026 · [Details](details/uhXcsWYhdkA.md)
 
-### AI & ML (6 videos)
+### AI & ML (7 videos)
 
-- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) -- 17 views, Nov 1, 2026 · [Details](details/bkNYrlwcVxo.md)
-- [Securing the Rust Supply Chain](https://youtu.be/AX1n6m8iZhQ) -- 75 views, Sep 18, 2026 · [Details](details/AX1n6m8iZhQ.md)
+- [Obsolete by Design](https://youtu.be/NC5_Yru5k7Q) -- 4 views, Nov 5, 2026 · [Details](details/NC5_Yru5k7Q.md)
+- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) -- 31 views, Nov 1, 2026 · [Details](details/bkNYrlwcVxo.md)
+- [Securing the Rust Supply Chain](https://youtu.be/AX1n6m8iZhQ) -- 81 views, Sep 18, 2026 · [Details](details/AX1n6m8iZhQ.md)
 - [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) -- 86 views, Mar 31, 2026 · [Details](details/Zeg8zSOvoyE.md)
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) -- 38 views, Mar 26, 2026 · [Details](details/taBP0Fr3uSQ.md)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 34 views, Mar 25, 2026 · [Details](details/CA1nlknmR3g.md)
@@ -48,7 +49,7 @@ updated: 2026-11-02
 ### Rust (5 videos)
 
 - [Architecting Modern Trust](https://youtu.be/l1LX1D1SAMA) -- 9 views, Oct 20, 2026 · [Details](details/l1LX1D1SAMA.md)
-- [Securing the Rust Supply Chain](https://youtu.be/AX1n6m8iZhQ) -- 75 views, Sep 18, 2026 · [Details](details/AX1n6m8iZhQ.md)
+- [Securing the Rust Supply Chain](https://youtu.be/AX1n6m8iZhQ) -- 81 views, Sep 18, 2026 · [Details](details/AX1n6m8iZhQ.md)
 - [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) -- 11 views, Aug 16, 2026 · [Details](details/LGKBWq8g1u4.md)
 - [The Hardware-Bound Security Blueprint](https://youtu.be/neqE9X2kSuY) -- 19 views, Jul 2, 2026 · [Details](details/neqE9X2kSuY.md)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) -- 34 views, Mar 25, 2026 · [Details](details/CA1nlknmR3g.md)
@@ -62,41 +63,42 @@ updated: 2026-11-02
 ### Go (2 videos)
 
 - [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) -- 21 views, Jun 6, 2026 · [Details](details/Kp_4y_HEaZ0.md)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 347 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) -- 354 views, May 22, 2026 · [Details](details/MFiVlaMYmwM.md)
 
 ## All Videos
 
 | # | Title | Views | Published | Link | Detail |
 |---|-------|-------|-----------|------|--------|
-| 1 | Architecting the AI Security Stack | 17 | Nov 1, 2026 | [Watch](https://youtu.be/bkNYrlwcVxo) | [Wiki](details/bkNYrlwcVxo.md) |
-| 2 | Architecting Modern Trust | 9 | Oct 20, 2026 | [Watch](https://youtu.be/l1LX1D1SAMA) | [Wiki](details/l1LX1D1SAMA.md) |
-| 3 | Securing the Rust Supply Chain | 75 | Sep 18, 2026 | [Watch](https://youtu.be/AX1n6m8iZhQ) | [Wiki](details/AX1n6m8iZhQ.md) |
-| 4 | Security  Through the Lens of Tracking | 70 | Sep 1, 2026 | [Watch](https://youtu.be/szwFbJVSQ48) | [Wiki](details/szwFbJVSQ48.md) |
-| 5 | Unified Passwordless Identity | 11 | Aug 16, 2026 | [Watch](https://youtu.be/LGKBWq8g1u4) | [Wiki](details/LGKBWq8g1u4.md) |
-| 6 | The Joy of Cryptography | 48 | Jul 27, 2026 | [Watch](https://youtu.be/7dsz_yUpvqM) | [Wiki](details/7dsz_yUpvqM.md) |
-| 7 | The Hardware-Bound Security Blueprint | 19 | Jul 2, 2026 | [Watch](https://youtu.be/neqE9X2kSuY) | [Wiki](details/neqE9X2kSuY.md) |
-| 8 | Architecting Ephemeral Access | 6 | Jun 29, 2026 | [Watch](https://youtu.be/Hwa2vM9c2Xc) | [Wiki](details/Hwa2vM9c2Xc.md) |
-| 9 | The 25519 Cryptographic Family | 49 | Jun 28, 2026 | [Watch](https://youtu.be/MzdV5hjPdsI) | [Wiki](details/MzdV5hjPdsI.md) |
-| 10 | Escaping the env Ceiling | 29 | Jun 18, 2026 | [Watch](https://youtu.be/kc1gwl89iyw) | [Wiki](details/kc1gwl89iyw.md) |
-| 11 | Winning the Arms Race in Credential Security | 21 | Jun 6, 2026 | [Watch](https://youtu.be/Kp_4y_HEaZ0) | [Wiki](details/Kp_4y_HEaZ0.md) |
-| 12 | Microsoft Agent Governance Toolkit | 347 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
-| 13 | ZAP: Getting Started with Software Security Testing | 25 | Apr 30, 2026 | [Watch](https://youtu.be/infh5ZZwvLU) | [Wiki](details/infh5ZZwvLU.md) |
-| 14 | Azure Sentinel & M365 Defender | 22 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
-| 15 | Designing for Privacy | 44 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
-| 16 | Custom Graphs in Microsoft Sentinel (Preview) | 66 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
-| 17 | Black-Hat LLMs: The End of the 20-Year Security Balance | 86 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) | [Wiki](details/Zeg8zSOvoyE.md) |
-| 18 | 2FA Orchestration in PingFederate | 12 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) | [Wiki](details/HxB-cJIbEgE.md) |
-| 19 | Anatomy of a Supply Chain Attack | 38 | Mar 26, 2026 | [Watch](https://youtu.be/taBP0Fr3uSQ) | [Wiki](details/taBP0Fr3uSQ.md) |
-| 20 | Containing the Untrusted Agent | 34 | Mar 25, 2026 | [Watch](https://youtu.be/CA1nlknmR3g) | [Wiki](details/CA1nlknmR3g.md) |
-| 21 | The NIST Cybersecurity Framework 2.0 | 26 | Mar 8, 2026 | [Watch](https://youtu.be/1VjSLqfPf9s) | [Wiki](details/1VjSLqfPf9s.md) |
-| 22 | The Strategic Roadmap for Data Classification | 25 | Mar 2, 2026 | [Watch](https://youtu.be/uhXcsWYhdkA) | [Wiki](details/uhXcsWYhdkA.md) |
-| 23 | The Orchestrator's Blueprint | 37 | Feb 28, 2026 | [Watch](https://youtu.be/Oa3jaLNSZvM) | [Wiki](details/Oa3jaLNSZvM.md) |
-| 24 | 2025 Global Threat Report | 14 | Feb 27, 2026 | [Watch](https://youtu.be/1MPD6MILLcQ) | [Wiki](details/1MPD6MILLcQ.md) |
-| 25 | Shannon: Autonomous Penetration Testing | 90 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) | [Wiki](details/JfGgWiiCTA0.md) |
+| 1 | Obsolete by Design | 4 | Nov 5, 2026 | [Watch](https://youtu.be/NC5_Yru5k7Q) | [Wiki](details/NC5_Yru5k7Q.md) |
+| 2 | Architecting the AI Security Stack | 31 | Nov 1, 2026 | [Watch](https://youtu.be/bkNYrlwcVxo) | [Wiki](details/bkNYrlwcVxo.md) |
+| 3 | Architecting Modern Trust | 9 | Oct 20, 2026 | [Watch](https://youtu.be/l1LX1D1SAMA) | [Wiki](details/l1LX1D1SAMA.md) |
+| 4 | Securing the Rust Supply Chain | 81 | Sep 18, 2026 | [Watch](https://youtu.be/AX1n6m8iZhQ) | [Wiki](details/AX1n6m8iZhQ.md) |
+| 5 | Security  Through the Lens of Tracking | 70 | Sep 1, 2026 | [Watch](https://youtu.be/szwFbJVSQ48) | [Wiki](details/szwFbJVSQ48.md) |
+| 6 | Unified Passwordless Identity | 11 | Aug 16, 2026 | [Watch](https://youtu.be/LGKBWq8g1u4) | [Wiki](details/LGKBWq8g1u4.md) |
+| 7 | The Joy of Cryptography | 50 | Jul 27, 2026 | [Watch](https://youtu.be/7dsz_yUpvqM) | [Wiki](details/7dsz_yUpvqM.md) |
+| 8 | The Hardware-Bound Security Blueprint | 19 | Jul 2, 2026 | [Watch](https://youtu.be/neqE9X2kSuY) | [Wiki](details/neqE9X2kSuY.md) |
+| 9 | Architecting Ephemeral Access | 6 | Jun 29, 2026 | [Watch](https://youtu.be/Hwa2vM9c2Xc) | [Wiki](details/Hwa2vM9c2Xc.md) |
+| 10 | The 25519 Cryptographic Family | 49 | Jun 28, 2026 | [Watch](https://youtu.be/MzdV5hjPdsI) | [Wiki](details/MzdV5hjPdsI.md) |
+| 11 | Escaping the env Ceiling | 29 | Jun 18, 2026 | [Watch](https://youtu.be/kc1gwl89iyw) | [Wiki](details/kc1gwl89iyw.md) |
+| 12 | Winning the Arms Race in Credential Security | 21 | Jun 6, 2026 | [Watch](https://youtu.be/Kp_4y_HEaZ0) | [Wiki](details/Kp_4y_HEaZ0.md) |
+| 13 | Microsoft Agent Governance Toolkit | 354 | May 22, 2026 | [Watch](https://youtu.be/MFiVlaMYmwM) | [Wiki](details/MFiVlaMYmwM.md) |
+| 14 | ZAP: Getting Started with Software Security Testing | 25 | Apr 30, 2026 | [Watch](https://youtu.be/infh5ZZwvLU) | [Wiki](details/infh5ZZwvLU.md) |
+| 15 | Azure Sentinel & M365 Defender | 22 | Apr 28, 2026 | [Watch](https://youtu.be/_NXyqfM6TXg) | [Wiki](details/_NXyqfM6TXg.md) |
+| 16 | Designing for Privacy | 44 | Apr 18, 2026 | [Watch](https://youtu.be/_5DCBqOCr8c) | [Wiki](details/_5DCBqOCr8c.md) |
+| 17 | Custom Graphs in Microsoft Sentinel (Preview) | 67 | Apr 11, 2026 | [Watch](https://youtu.be/u8XCBK6lGw0) | [Wiki](details/u8XCBK6lGw0.md) |
+| 18 | Black-Hat LLMs: The End of the 20-Year Security Balance | 86 | Mar 31, 2026 | [Watch](https://youtu.be/Zeg8zSOvoyE) | [Wiki](details/Zeg8zSOvoyE.md) |
+| 19 | 2FA Orchestration in PingFederate | 12 | Mar 29, 2026 | [Watch](https://youtu.be/HxB-cJIbEgE) | [Wiki](details/HxB-cJIbEgE.md) |
+| 20 | Anatomy of a Supply Chain Attack | 38 | Mar 26, 2026 | [Watch](https://youtu.be/taBP0Fr3uSQ) | [Wiki](details/taBP0Fr3uSQ.md) |
+| 21 | Containing the Untrusted Agent | 34 | Mar 25, 2026 | [Watch](https://youtu.be/CA1nlknmR3g) | [Wiki](details/CA1nlknmR3g.md) |
+| 22 | The NIST Cybersecurity Framework 2.0 | 26 | Mar 8, 2026 | [Watch](https://youtu.be/1VjSLqfPf9s) | [Wiki](details/1VjSLqfPf9s.md) |
+| 23 | The Strategic Roadmap for Data Classification | 25 | Mar 2, 2026 | [Watch](https://youtu.be/uhXcsWYhdkA) | [Wiki](details/uhXcsWYhdkA.md) |
+| 24 | The Orchestrator's Blueprint | 37 | Feb 28, 2026 | [Watch](https://youtu.be/Oa3jaLNSZvM) | [Wiki](details/Oa3jaLNSZvM.md) |
+| 25 | 2025 Global Threat Report | 14 | Feb 27, 2026 | [Watch](https://youtu.be/1MPD6MILLcQ) | [Wiki](details/1MPD6MILLcQ.md) |
+| 26 | Shannon: Autonomous Penetration Testing | 90 | Feb 14, 2026 | [Watch](https://youtu.be/JfGgWiiCTA0) | [Wiki](details/JfGgWiiCTA0.md) |
 
 ## Top Tags
 
-`security` (4) . `zero trust` (3) . `curiosity` (2) . `ai` (2) . `idp` (2) . `agent` (2) . `sentinel` (2) . `siem` (2) . `soar` (2) . `xdr` (2) . `llm` (2) . `nist` (2) . `aig` (1) . `nist 1800-35` (1) . `rust` (1) . `sca` (1) . `tracking` (1) . `observability` (1) . `passwordless` (1) . `cryptography` (1)
+`security` (4) . `ai` (3) . `zero trust` (3) . `passwordless` (2) . `curiosity` (2) . `idp` (2) . `agent` (2) . `sentinel` (2) . `siem` (2) . `soar` (2) . `xdr` (2) . `llm` (2) . `nist` (2) . `fido2` (1) . `aig` (1) . `nist 1800-35` (1) . `rust` (1) . `sca` (1) . `tracking` (1) . `observability` (1)
 
 ## See Also
 
@@ -106,4 +108,4 @@ updated: 2026-11-02
 - [Programming](programming.md) -- shared tags: `rust`
 
 ---
-*Auto-generated on Nov 2, 2026. Back to [index](index.md).*
+*Auto-generated on Nov 6, 2026. Back to [index](index.md).*

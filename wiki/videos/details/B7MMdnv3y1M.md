@@ -39,7 +39,7 @@ The Burn Book is an architectural blueprint for the Rust Burn deep-learning fram
 - [Burn: The Rust Deep Learning Framework](https://youtu.be/joYJ6rPN3UI) — Development · 1.3K views · Feb 13, 2026 · [Details](joYJ6rPN3UI.md) (shared: `deep` · `learning` · `rust`)
 - [The Burn Book App Architecture](https://youtu.be/TpyKC8_30xs) — Development · 21 views · May 23, 2026 · [Details](TpyKC8_30xs.md) (shared: `burn deep learning framework` · `burn` · `deep`)
 - [Architecting Local Legal Embeddings](https://youtu.be/V6Ru7YYLneE) — Development · 39 views · May 22, 2026 · [Details](V6Ru7YYLneE.md) (shared: `burn` · `learning` · `rust`)
-- [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `framework` · `rust` · `model`)
+- [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 9 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `framework` · `rust` · `model`)
 
 ---
 *Auto-generated on May 22, 2026. Back to [development](../development.md) · [index](../index.md).*

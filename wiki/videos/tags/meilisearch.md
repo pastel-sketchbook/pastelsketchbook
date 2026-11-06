@@ -2,7 +2,7 @@
 type: tag
 tags: [meilisearch]
 sources: 2
-updated: 2026-11-02
+updated: 2026-11-06
 ---
 
 # meilisearch
@@ -15,4 +15,4 @@ Videos connected by the topic `meilisearch`.
 - [AEM + Meilisearch: A High-Performance Integration](https://youtu.be/KDnTY0Svmr0) — Development · 15 views · Feb 10, 2026 · [Details](../details/KDnTY0Svmr0.md)
 
 ---
-*Auto-generated on Nov 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 6, 2026. Back to [topic index](index.md).*

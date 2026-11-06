@@ -31,10 +31,10 @@ This video explores the psychological transition high achievers face when career
 ## Related Videos
 
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `identity` · `retirement` · `transition`)
+- [2026 Asset Performance & All-Weather Portfolio Design](https://youtu.be/BxBO6CSx-C8) — Finance · 15 views · Nov 2, 2026 · [Details](BxBO6CSx-C8.md) (shared: `performance` · `trap`)
 - [The architecture of wealth](https://youtu.be/nfD3KzIriM8) — Finance · 8 views · Jan 16, 2026 · [Details](nfD3KzIriM8.md) (shared: `psychology`)
 - [The Three Pillars of Financial Freedom](https://youtu.be/K1O4kHjFJaQ) — Finance · 15 views · Jan 23, 2026 · [Details](K1O4kHjFJaQ.md) (shared: `retirement`)
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `psychology`)
-- [Cognitive Lenses in Modern Design](https://youtu.be/GmUKi-ZPOYU) — Finance · 27 views · Jun 5, 2026 · [Details](GmUKi-ZPOYU.md) (shared: `psychology`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [finance](../finance.md) · [index](../index.md).*

@@ -46,7 +46,7 @@ Welcome.  Today  I  would  like  to  introduce you  to  a  powerful  architectur
 
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `legacy` · `modernization` · `migration`)
 - [Architecting Al in Software Engineering](https://youtu.be/yXZnBtdDTFk) — Development · 80 views · May 25, 2026 · [Details](yXZnBtdDTFk.md) (shared: `strangler fig pattern` · `strangler` · `fig`)
-- [The Pragmatic FastAPI Refactoring Playbook](https://youtu.be/eT4cwClcQqk) — Development · 17 views · Oct 30, 2026 · [Details](eT4cwClcQqk.md) (shared: `strangler` · `fig` · `legacy`)
+- [The Pragmatic FastAPI Refactoring Playbook](https://youtu.be/eT4cwClcQqk) — Development · 19 views · Oct 30, 2026 · [Details](eT4cwClcQqk.md) (shared: `strangler` · `fig` · `legacy`)
 - [Micro-Processing the Hippo's Waste](https://youtu.be/z_Ydy_-cI1U) — Development · 3 views · Jan 6, 2026 · [Details](z_Ydy_-cI1U.md) (shared: `monolith decomposition` · `monolith` · `decomposition`)
 - [Architecting the Next-Generation Enterprise](https://youtu.be/XHQGmyffO-s) — Development · 20 views · Jun 4, 2026 · [Details](XHQGmyffO-s.md) (shared: `legacy` · `modernization` · `cloud-native`)
 

@@ -34,7 +34,7 @@ This talk is a structural guide to architecting multi-threaded AI workflows in t
 - [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](9oSUtndLto4.md) (shared: `model context protocol` · `model` · `context`)
 - [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 739 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model context protocol` · `model` · `context`)
 - [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 299 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `model context protocol` · `model` · `context`)
-- [Dynamic Workflows in Azure Functions Hosted Skills](https://youtu.be/gbnVdhdxuQY) — Development · 28 views · Oct 28, 2026 · [Details](gbnVdhdxuQY.md) (shared: `workflows` · `agent` · `context`)
+- [Dynamic Workflows in Azure Functions Hosted Skills](https://youtu.be/gbnVdhdxuQY) — Development · 30 views · Oct 28, 2026 · [Details](gbnVdhdxuQY.md) (shared: `workflows` · `agent` · `context`)
 
 ---
 

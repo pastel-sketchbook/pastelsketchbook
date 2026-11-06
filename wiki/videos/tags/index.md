@@ -1,13 +1,13 @@
 ---
 type: index
-updated: 2026-11-02
+updated: 2026-11-06
 ---
 
 # Topic Index
 
 Auto-generated index of topics extracted from per-video detail pages.
 
-Total topics: 184
+Total topics: 185
 
 ## Topics
 
@@ -191,10 +191,11 @@ Total topics: 184
 - [uv package manager](uv-package-manager.md) (2)
 - [values.yaml](values-yaml.md) (2)
 - [verlet integration](verlet-integration.md) (2)
+- [volatility decay](volatility-decay.md) (2)
 - [wasm](wasm.md) (2)
 - [workload archetypes](workload-archetypes.md) (2)
 - [workload identity federation](workload-identity-federation.md) (2)
 - [write-ahead log](write-ahead-log.md) (2)
 
 ---
-*Auto-generated on Nov 2, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Nov 6, 2026. Back to [videos index](../index.md).*

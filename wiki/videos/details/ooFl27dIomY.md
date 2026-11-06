@@ -37,9 +37,9 @@ This session bridges C# and .NET expertise into idiomatic Rust through a practit
 
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 52 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `rust` · `ownership` · `borrowing`)
 - [Blueprinting Machine Learning in Rust](https://youtu.be/KR188eZ9gRE) — Development · 46 views · May 20, 2026 · [Details](KR188eZ9gRE.md) (shared: `rust` · `ownership` · `result`)
-- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 54 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust` · `ownership` · `borrowing`)
+- [Mastering Memory in Rust](https://youtu.be/43UjmZtW2JU) — Development · 55 views · Jan 27, 2026 · [Details](43UjmZtW2JU.md) (shared: `rust` · `ownership` · `borrowing`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 39 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `rust` · `ownership` · `borrowing`)
-- [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 8 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `ownership` · `async`)
+- [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 9 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `ownership` · `async`)
 
 ---
 *Auto-generated on Oct 11, 2026. Back to [development](../development.md) · [index](../index.md).*

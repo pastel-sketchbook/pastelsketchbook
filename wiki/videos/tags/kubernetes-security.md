@@ -2,7 +2,7 @@
 type: tag
 tags: [kubernetes-security]
 sources: 2
-updated: 2026-11-02
+updated: 2026-11-06
 ---
 
 # kubernetes security
@@ -15,4 +15,4 @@ Videos connected by the topic `kubernetes security`.
 - [Securing Service-to-Service Communication in Kubernetes](https://youtu.be/A4-foXsdQiA) — Kubernetes · 24 views · Jan 14, 2026 · [Details](../details/A4-foXsdQiA.md)
 
 ---
-*Auto-generated on Nov 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 6, 2026. Back to [topic index](index.md).*

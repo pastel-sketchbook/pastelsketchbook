@@ -39,7 +39,7 @@ This session engineers forced human-in-the-loop feedback systems for credit and 
 - [The Blueprint for Al-Augmented Agile](https://youtu.be/WCqusmhtteU) — Development · 51 views · Sep 20, 2026 · [Details](WCqusmhtteU.md) (shared: `review` · `design`)
 - [Digital Transformation 2.0](https://youtu.be/pnbcAqCaKh0) — Development · 84 views · Sep 3, 2026 · [Details](pnbcAqCaKh0.md) (shared: `governance` · `design`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `design`)
-- [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 47 views · Dec 28, 2025 · [Details](IF5sNQH-01c.md) (shared: `design`)
+- [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 48 views · Dec 28, 2025 · [Details](IF5sNQH-01c.md) (shared: `design`)
 
 ---
 *Auto-generated on Sep 30, 2026. Back to [development](../development.md) · [index](../index.md).*

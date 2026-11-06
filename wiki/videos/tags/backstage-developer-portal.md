@@ -2,7 +2,7 @@
 type: tag
 tags: [backstage-developer-portal]
 sources: 2
-updated: 2026-11-02
+updated: 2026-11-06
 ---
 
 # backstage developer portal
@@ -15,4 +15,4 @@ Videos connected by the topic `backstage developer portal`.
 - [The Open Framework for Building Developer Portals](https://youtu.be/qXg3PQ2kUpI) — Kubernetes · 19 views · Aug 21, 2026 · [Details](../details/qXg3PQ2kUpI.md)
 
 ---
-*Auto-generated on Nov 2, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 6, 2026. Back to [topic index](index.md).*

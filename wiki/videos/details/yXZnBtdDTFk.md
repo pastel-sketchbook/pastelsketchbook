@@ -35,8 +35,8 @@ This talk contrasts greenfield and brownfield strategies for integrating AI codi
 
 ## Related Videos
 
-- [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 139 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `migration` · `strangler fig pattern` · `strangler`)
-- [Dynamic Workflows in Azure Functions Hosted Skills](https://youtu.be/gbnVdhdxuQY) — Development · 28 views · Oct 28, 2026 · [Details](gbnVdhdxuQY.md) (shared: `context` · `pattern` · `validation`)
+- [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 144 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `migration` · `strangler fig pattern` · `strangler`)
+- [Dynamic Workflows in Azure Functions Hosted Skills](https://youtu.be/gbnVdhdxuQY) — Development · 30 views · Oct 28, 2026 · [Details](gbnVdhdxuQY.md) (shared: `context` · `pattern` · `validation`)
 - [Modern Dart](https://youtu.be/JBh6rzeS-Qc) — Development · 86 views · Jan 20, 2026 · [Details](JBh6rzeS-Qc.md) (shared: `pattern` · `safety`)
 - [rr-mailtrap: The Developer's SMTP Sandbox](https://youtu.be/SuuZW_fuEFc) — Development · 27 views · May 8, 2026 · [Details](SuuZW_fuEFc.md) (shared: `safety` · `net` · `validation`)
 - [The Pragmatic Go Developer](https://youtu.be/oxNF_GNuWpE) — Development · 45 views · Mar 10, 2026 · [Details](oxNF_GNuWpE.md) (shared: `context` · `net`)
