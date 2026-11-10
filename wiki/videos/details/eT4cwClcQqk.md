@@ -35,7 +35,7 @@ This session is a playbook for scaling million-line FastAPI monoliths safely: fr
 
 ## Related Videos
 
-- [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 144 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `monolith` · `strangler` · `fig`)
+- [The Strangler Fig Pattern](https://youtu.be/4aAyFYemYD8) — Development · 150 views · Apr 28, 2026 · [Details](4aAyFYemYD8.md) (shared: `monolith` · `strangler` · `fig`)
 - [The Repository Pattern](https://youtu.be/cWozmWrqnxs) — Development · 873 views · Feb 13, 2026 · [Details](cWozmWrqnxs.md) (shared: `testing` · `repository` · `data`)
 - [Building the Unified Rust Backend](https://youtu.be/qAHyv6G3a7M) — Development · 769 views · May 9, 2026 · [Details](qAHyv6G3a7M.md) (shared: `service` · `feature` · `flag`)
 - [OpenFeature: The Standard for Feature Flagging](https://youtu.be/X65YHZUnFq0) — Development · 55 views · Apr 16, 2026 · [Details](X65YHZUnFq0.md) (shared: `testing` · `feature`)

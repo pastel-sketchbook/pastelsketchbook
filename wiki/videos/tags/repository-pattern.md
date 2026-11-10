@@ -2,7 +2,7 @@
 type: tag
 tags: [repository-pattern]
 sources: 6
-updated: 2026-11-06
+updated: 2026-11-10
 ---
 
 # repository pattern
@@ -19,4 +19,4 @@ Videos connected by the topic `repository pattern`.
 - [Data Centric Flutter Apps](https://youtu.be/4_mBGmXA244) — Development · 32 views · Jan 9, 2026 · [Details](../details/4_mBGmXA244.md)
 
 ---
-*Auto-generated on Nov 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 9, 2026. Back to [topic index](index.md).*

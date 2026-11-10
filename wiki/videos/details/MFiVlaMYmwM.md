@@ -30,7 +30,7 @@ The Microsoft Agent Governance Toolkit is a public preview framework for enforci
 
 ## Related Videos
 
-- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) — Security · 31 views · Nov 1, 2026 · [Details](bkNYrlwcVxo.md) (shared: `agent` · `governance` · `audit`)
+- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) — Security · 32 views · Nov 1, 2026 · [Details](bkNYrlwcVxo.md) (shared: `agent` · `governance` · `audit`)
 - [Architecting Modern Trust](https://youtu.be/l1LX1D1SAMA) — Security · 9 views · Oct 20, 2026 · [Details](l1LX1D1SAMA.md) (shared: `governance` · `zero` · `trust`)
 - [Unified Passwordless Identity](https://youtu.be/LGKBWq8g1u4) — Security · 11 views · Aug 16, 2026 · [Details](LGKBWq8g1u4.md) (shared: `agent` · `zero` · `trust`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 51 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `zero` · `trust` · `identity`)

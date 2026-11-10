@@ -2,7 +2,7 @@
 type: tag
 tags: [notebooklm]
 sources: 2
-updated: 2026-11-06
+updated: 2026-11-10
 ---
 
 # notebooklm
@@ -15,4 +15,4 @@ Videos connected by the topic `notebooklm`.
 - [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 48 views · Dec 28, 2025 · [Details](../details/IF5sNQH-01c.md)
 
 ---
-*Auto-generated on Nov 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 9, 2026. Back to [topic index](index.md).*

@@ -35,11 +35,11 @@ This session charts a proven cloud-native blueprint for migrating enterprise mic
 
 ## Related Videos
 
+- [Modernizing Kubernetes Backend Architecture](https://youtu.be/iroupYYGkwg) — Development · 19 views · Nov 8, 2026 · [Details](iroupYYGkwg.md) (shared: `echo` · `economics` · `builds`)
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `java` · `migration`)
 - [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 52 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `migration` · `echo`)
 - [Architecting Al in Software Engineering](https://youtu.be/yXZnBtdDTFk) — Development · 80 views · May 25, 2026 · [Details](yXZnBtdDTFk.md) (shared: `migration` · `canary`)
 - [The 800,000 Line Rewrite](https://youtu.be/Pk_elgrthq8) — Development · 100 views · Sep 23, 2026 · [Details](Pk_elgrthq8.md) (shared: `migration` · `economics`)
-- [Transcontinental Data Migration](https://youtu.be/lXwe6xeFmAE) — Development · 38 views · Jul 26, 2026 · [Details](lXwe6xeFmAE.md) (shared: `migration` · `economics`)
 
 ---
 *Auto-generated on Sep 30, 2026. Back to [development](../development.md) · [index](../index.md).*

@@ -38,8 +38,8 @@ This session explores resilient system design on the BEAM ecosystem with OTP and
 - [Dual Core Actor Architecture](https://youtu.be/70lTdNGjhuk) — Development · 42 views · Oct 6, 2026 · [Details](70lTdNGjhuk.md) (shared: `isolation` · `supervision` · `agent`)
 - [AX: The Distributed Agent Runtime](https://youtu.be/xiTVDbJscik) — Development · 97 views · May 23, 2026 · [Details](xiTVDbJscik.md) (shared: `agent` · `semantics`)
 - [The GitHub Copilot SDK Blueprint](https://youtu.be/Jf1VkCXsmwU) — Development · 134 views · May 28, 2026 · [Details](Jf1VkCXsmwU.md) (shared: `process` · `agent`)
-- [Parallel Agents in Zed](https://youtu.be/0wth_46Vtmo) — Development · 317 views · Aug 4, 2026 · [Details](0wth_46Vtmo.md) (shared: `isolation` · `agent`)
-- [Engineering Al Agent Mastery with Waza](https://youtu.be/jOw6d5zH658) — Development · 553 views · May 9, 2026 · [Details](jOw6d5zH658.md) (shared: `agent` · `comparison`)
+- [Parallel Agents in Zed](https://youtu.be/0wth_46Vtmo) — Development · 328 views · Aug 4, 2026 · [Details](0wth_46Vtmo.md) (shared: `isolation` · `agent`)
+- [Engineering Al Agent Mastery with Waza](https://youtu.be/jOw6d5zH658) — Development · 560 views · May 9, 2026 · [Details](jOw6d5zH658.md) (shared: `agent` · `comparison`)
 
 ---
 *Auto-generated on Oct 29, 2026. Back to [development](../development.md) · [index](../index.md).*

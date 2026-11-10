@@ -36,7 +36,7 @@ This session examines how LiteBox achieves a minimal attack surface through a mo
 ## Related Videos
 
 - [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) — Kubernetes · 16 views · Apr 22, 2026 · [Details](eZNBXDUc8OQ.md) (shared: `attack` · `surface` · `architecture`)
-- [Building The Modern Cloud Virtualization Stack](https://youtu.be/NA70_k873dY) — Kubernetes · 23 views · Oct 16, 2026 · [Details](NA70_k873dY.md) (shared: `modular` · `architecture` · `rust`)
+- [Building The Modern Cloud Virtualization Stack](https://youtu.be/NA70_k873dY) — Kubernetes · 25 views · Oct 16, 2026 · [Details](NA70_k873dY.md) (shared: `modular` · `architecture` · `rust`)
 - [Introducing ExtendDB](https://youtu.be/LxI5YjCUswI) — Kubernetes · 72 views · May 24, 2026 · [Details](LxI5YjCUswI.md) (shared: `architecture` · `rust` · `deployment`)
 - [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `architecture` · `deployment`)
 - [The Two-System Pattern](https://youtu.be/VxWyvAO3qb8) — Kubernetes · 14 views · Jan 15, 2026 · [Details](VxWyvAO3qb8.md) (shared: `north-south` · `architecture`)

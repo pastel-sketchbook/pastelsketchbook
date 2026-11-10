@@ -993,3 +993,25 @@ All are full-length (durationSec 535/441/807/747, none < 120s → not Shorts). F
 Bundle: 536 videos, 536 with detail (Missing: 0). zmd reindexed (1302 documents); detail pages retrievable via `zmd get` (spot-checked). Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
 
 Backward check: scanned all 536 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 3 released (remaining `HIDDEN_VIDEO_IDS` are Shorts or pre-metadata staged IDs).
+
+## [2026-11-10] ingest | Video Metadata Sync
+
+Synced 540 videos across 6 categories (korea=20, finance=63, kubernetes=112, development=310, security=26, programming=9).
+
+## [2026-11-10] ingest | Video Transcripts
+
+Exported 1 transcript files (single: ki9Da8R7f5o) to `wiki/raw/transcripts`.
+
+## [2026-11-10] ingest | Release 4 new full videos (published Nov 7-10)
+
+Released 4 newest full videos (from `HIDDEN_VIDEO_IDS`) so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- ki9Da8R7f5o (OpenTelemetry eBPF Instrumentation v1.0, kubernetes, 2026-11-07) — otel/ebpf/obi
+- wvErp3B-75E (Amp Orbs: The Architectural Blueprint, kubernetes, 2026-11-08) — idp/amp/substrate
+- iroupYYGkwg (Modernizing Kubernetes Backend Architecture, development, 2026-11-09) — idp/msa/echo/go
+- 7R_-sDPTi8k (Decoding the US Housing Market, finance, 2026-11-10)
+
+All are full-length (durationSec 544/726/649/732, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md` (9-13KB), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: wvErp3B-75E → Architect's Sketchbook Ch1 (The Control Plane and the Worker, remote worker infrastructure beside substrate sibling Po5zwwf3vW4); iroupYYGkwg → Ch3 (The Enterprise AI Pipeline, backend modernization beside Echo framework QOYXBkMcnYk + COBOL modernization 2Ni8zfsxW6o); 7R_-sDPTi8k → Ch7 (The Architecture of Wealth, direct housing sibling XwUIFjLrZcA The Hydraulic Housing Market); ki9Da8R7f5o → Ch9 (Observability as Architecture, otel/tracing siblings W3C Trace Context + Go observability cluster).
+
+Bundle: 540 videos, 540 with detail (Missing: 0). zmd reindexed (1310 documents); detail pages retrievable via `zmd get` (spot-checked). Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
+
+Backward check: scanned all 540 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 4 released.

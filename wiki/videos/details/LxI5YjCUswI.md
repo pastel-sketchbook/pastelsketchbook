@@ -39,7 +39,7 @@ ExtendDB is an open-source Rust translator that exposes the DynamoDB wire protoc
 - [Engineering High-Performance Distributed Systems with Rust and AWS](https://youtu.be/sZRIbxwHSCo) — Kubernetes · 21 views · Jun 10, 2026 · [Details](sZRIbxwHSCo.md) (shared: `wire` · `rust` · `write`)
 - [Architecting CDC Pipelines](https://youtu.be/JKXsba2_TgY) — Kubernetes · 22 views · Oct 15, 2026 · [Details](JKXsba2_TgY.md) (shared: `storage` · `local` · `architecture`)
 - [Architecting the edge for HTTP/3 and QUIC](https://youtu.be/7Dchx829X_M) — Kubernetes · 93 views · Apr 4, 2026 · [Details](7Dchx829X_M.md) (shared: `protocol` · `edge` · `architecture`)
-- [Building The Modern Cloud Virtualization Stack](https://youtu.be/NA70_k873dY) — Kubernetes · 23 views · Oct 16, 2026 · [Details](NA70_k873dY.md) (shared: `rust` · `architecture` · `cloud`)
+- [Building The Modern Cloud Virtualization Stack](https://youtu.be/NA70_k873dY) — Kubernetes · 25 views · Oct 16, 2026 · [Details](NA70_k873dY.md) (shared: `rust` · `architecture` · `cloud`)
 
 ---
 *Auto-generated on May 25, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

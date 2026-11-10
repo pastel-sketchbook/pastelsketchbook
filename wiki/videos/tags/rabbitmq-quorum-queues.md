@@ -2,7 +2,7 @@
 type: tag
 tags: [rabbitmq-quorum-queues]
 sources: 3
-updated: 2026-11-06
+updated: 2026-11-10
 ---
 
 # rabbitmq quorum queues
@@ -16,4 +16,4 @@ Videos connected by the topic `rabbitmq quorum queues`.
 - [Architecting CDC Pipelines](https://youtu.be/JKXsba2_TgY) — Kubernetes · 22 views · Oct 15, 2026 · [Details](../details/JKXsba2_TgY.md)
 
 ---
-*Auto-generated on Nov 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 9, 2026. Back to [topic index](index.md).*

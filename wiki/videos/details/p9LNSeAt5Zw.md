@@ -32,7 +32,7 @@ This video serves as a strategic playbook for transitioning Node.js applications
 
 - [Architecting Modern Deployments](https://youtu.be/eZNBXDUc8OQ) — Kubernetes · 16 views · Apr 22, 2026 · [Details](eZNBXDUc8OQ.md) (shared: `docker` · `immutable infrastructure` · `immutable`)
 - [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 69 views · Apr 25, 2026 · [Details](quD4pyCwKB4.md) (shared: `infrastructure` · `ci/cd pipelines` · `pipelines`)
-- [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 29 views · Feb 19, 2026 · [Details](rk_3xU9OF-k.md) (shared: `kubernetes` · `infrastructure`)
+- [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 30 views · Feb 19, 2026 · [Details](rk_3xU9OF-k.md) (shared: `kubernetes` · `infrastructure`)
 - [Kubernetes Auto-Scaling Strategies](https://youtu.be/y3WwL48DLYw) — Kubernetes · 30 views · Feb 23, 2026 · [Details](y3WwL48DLYw.md) (shared: `scaling` · `kubernetes`)
 - [Orchestrating Kubernetes Resilience](https://youtu.be/ZECKRFPN8BA) — Kubernetes · 29 views · Aug 25, 2026 · [Details](ZECKRFPN8BA.md) (shared: `kubernetes` · `rolling` · `updates`)
 

@@ -39,7 +39,7 @@ This session decodes Microsoft cloud workstations across Azure Virtual Desktop, 
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](C6wLm6NRZW4.md) (shared: `azure` · `governance`)
 - [Kubernetes Cluster Architecture](https://youtu.be/rJTUB-u8U2Y) — Kubernetes · 13 views · Jan 9, 2026 · [Details](rJTUB-u8U2Y.md) (shared: `architecture` · `control`)
 - [The Blueprint for Enterprise AI on Azure](https://youtu.be/8ycnldvJmuA) — Kubernetes · 18 views · Jan 2, 2026 · [Details](8ycnldvJmuA.md) (shared: `architecture` · `azure`)
-- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 75 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `github` · `automation`)
+- [Agentic Platform Engineering with GitHub Copilot](https://youtu.be/lexZnOlyml0) — Kubernetes · 76 views · Mar 26, 2026 · [Details](lexZnOlyml0.md) (shared: `github` · `automation`)
 
 ---
 *Auto-generated on Oct 11, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

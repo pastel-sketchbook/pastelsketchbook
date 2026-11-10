@@ -34,7 +34,7 @@ This talk presents a unified identity architecture that converges human password
 - [Advanced Microservices Blueprint on Azure Kubernetes Service](https://youtu.be/BiYKKVsJROk) — Kubernetes · 29 views · Apr 1, 2026 · [Details](BiYKKVsJROk.md) (shared: `identity` · `mutual` · `tls`)
 - [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 25 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `zero trust architecture` · `zero` · `trust`)
 - [Zero Trust in Kubernetes](https://youtu.be/4b-H6ZaoNUE) — Kubernetes · 51 views · Jan 17, 2026 · [Details](4b-H6ZaoNUE.md) (shared: `identity` · `zero` · `trust`)
-- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 354 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `identity` · `zero` · `trust`)
+- [Microsoft Agent Governance Toolkit](https://youtu.be/MFiVlaMYmwM) — Security · 356 views · May 22, 2026 · [Details](MFiVlaMYmwM.md) (shared: `identity` · `zero` · `trust`)
 
 ---
 *Auto-generated on Aug 16, 2026. Back to [security](../security.md) · [index](../index.md).*

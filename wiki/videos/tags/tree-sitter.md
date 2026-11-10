@@ -2,7 +2,7 @@
 type: tag
 tags: [tree-sitter]
 sources: 2
-updated: 2026-11-06
+updated: 2026-11-10
 ---
 
 # tree-sitter
@@ -15,4 +15,4 @@ Videos connected by the topic `tree-sitter`.
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 47 views · Apr 21, 2026 · [Details](../details/xkHQhOgapfY.md)
 
 ---
-*Auto-generated on Nov 6, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 9, 2026. Back to [topic index](index.md).*

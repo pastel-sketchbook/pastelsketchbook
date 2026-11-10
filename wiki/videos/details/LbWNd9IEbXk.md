@@ -38,7 +38,7 @@ This session addresses the Flutter security hotfix 3.47.8, issued in response to
 - [The Evolution of File Detection](https://youtu.be/85pyYZFJ6_s) — Development · 48 views · May 7, 2026 · [Details](85pyYZFJ6_s.md) (shared: `spoofing` · `network` · `security`)
 - [The Client's Guide to 'ra-token-authority'](https://youtu.be/0NLj8g2hQNk) — Development · 12 views · Jan 16, 2026 · [Details](0NLj8g2hQNk.md) (shared: `trust` · `security`)
 - [ra-token-authority](https://youtu.be/0ttrfTfP864) — Development · 25 views · Jan 16, 2026 · [Details](0ttrfTfP864.md) (shared: `trust` · `security`)
-- [Building with Genkit Dart](https://youtu.be/FOkG5ScxU88) — Development · 79 views · Mar 15, 2026 · [Details](FOkG5ScxU88.md) (shared: `stack` · `flutter`)
+- [Building with Genkit Dart](https://youtu.be/FOkG5ScxU88) — Development · 80 views · Mar 15, 2026 · [Details](FOkG5ScxU88.md) (shared: `stack` · `flutter`)
 - [React Native vs. Flutter for Enterprise Apps](https://youtu.be/jzjGcFkAnfs) — Development · 36 views · Feb 26, 2026 · [Details](jzjGcFkAnfs.md) (shared: `flutter` · `strategy`)
 
 ---
