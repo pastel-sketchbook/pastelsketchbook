@@ -33,8 +33,8 @@ This talk is a structural guide to architecting multi-threaded AI workflows in t
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 98 views · Apr 5, 2026 · [Details](T-NdEF6btbg.md) (shared: `parallel` · `agent` · `model context protocol`)
 - [Unifying AI, Copilot & Power BI](https://youtu.be/9oSUtndLto4) — Development · 13 views · Jan 10, 2026 · [Details](9oSUtndLto4.md) (shared: `model context protocol` · `model` · `context`)
 - [The Complete Guide to Building Skills for Claude](https://youtu.be/JeqaHMmSh1s) — Development · 739 views · Feb 27, 2026 · [Details](JeqaHMmSh1s.md) (shared: `model context protocol` · `model` · `context`)
-- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 301 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `model context protocol` · `model` · `context`)
-- [Dynamic Workflows in Azure Functions Hosted Skills](https://youtu.be/gbnVdhdxuQY) — Development · 32 views · Oct 28, 2026 · [Details](gbnVdhdxuQY.md) (shared: `workflows` · `agent` · `context`)
+- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 302 views · Apr 5, 2026 · [Details](fv61JXUCbeo.md) (shared: `model context protocol` · `model` · `context`)
+- [Dynamic Workflows in Azure Functions Hosted Skills](https://youtu.be/gbnVdhdxuQY) — Development · 36 views · Oct 28, 2026 · [Details](gbnVdhdxuQY.md) (shared: `workflows` · `agent` · `context`)
 
 ---
 

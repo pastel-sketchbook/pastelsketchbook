@@ -35,11 +35,11 @@ A deep dive into the Echo web framework for building high-performance Go APIs, c
 
 ## Related Videos
 
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 107 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `web` · `framework` · `middleware`)
-- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 159 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `echo web framework` · `echo` · `web`)
-- [Modernizing Kubernetes Backend Architecture](https://youtu.be/iroupYYGkwg) — Development · 19 views · Nov 8, 2026 · [Details](iroupYYGkwg.md) (shared: `echo` · `middleware` · `pipeline`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 108 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `web` · `framework` · `middleware`)
+- [Modern Observability in Go](https://youtu.be/uqZ-mwxGf2c) — Development · 162 views · Mar 1, 2026 · [Details](uqZ-mwxGf2c.md) (shared: `echo web framework` · `echo` · `web`)
+- [Modernizing Kubernetes Backend Architecture](https://youtu.be/iroupYYGkwg) — Development · 30 views · Nov 8, 2026 · [Details](iroupYYGkwg.md) (shared: `echo` · `middleware` · `pipeline`)
 - [The Burn Book](https://youtu.be/B7MMdnv3y1M) — Development · 40 views · May 21, 2026 · [Details](B7MMdnv3y1M.md) (shared: `framework` · `pipeline` · `architecture`)
-- [NestJS Production Blueprint](https://youtu.be/uAaWmMLGhAE) — Development · 64 views · Oct 11, 2026 · [Details](uAaWmMLGhAE.md) (shared: `migration` · `pool` · `graceful`)
+- [NestJS Production Blueprint](https://youtu.be/uAaWmMLGhAE) — Development · 66 views · Oct 11, 2026 · [Details](uAaWmMLGhAE.md) (shared: `migration` · `pool` · `graceful`)
 
 ---
 *Auto-generated on May 8, 2026. Back to [development](../development.md) · [index](../index.md).*

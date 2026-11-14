@@ -35,7 +35,7 @@ This visual guide maps Red Hat Satellite's hub-and-spoke architecture — a cent
 
 ## Related Videos
 
-- [Amp Orbs: The Architectural Blueprint](https://youtu.be/wvErp3B-75E) — Kubernetes · 30 views · Nov 7, 2026 · [Details](wvErp3B-75E.md) (shared: `lifecycle` · `remote` · `execution`)
+- [Amp Orbs: The Architectural Blueprint](https://youtu.be/wvErp3B-75E) — Kubernetes · 44 views · Nov 7, 2026 · [Details](wvErp3B-75E.md) (shared: `lifecycle` · `remote` · `execution`)
 - [RabbitMQ 4.2.8 Plugin Ecosystem](https://youtu.be/6XAbKoeK9JU) — Kubernetes · 22 views · Jul 8, 2026 · [Details](6XAbKoeK9JU.md) (shared: `lifecycle` · `mqtt`)
 - [The Complete Codebase Lifecycle](https://youtu.be/C6wLm6NRZW4) — Kubernetes · 6 views · Jan 14, 2026 · [Details](C6wLm6NRZW4.md) (shared: `lifecycle`)
 - [The Codebase Lifecycle](https://youtu.be/ctKLD4d146g) — Kubernetes · 16 views · Jan 13, 2026 · [Details](ctKLD4d146g.md) (shared: `lifecycle`)

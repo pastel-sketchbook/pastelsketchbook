@@ -35,11 +35,11 @@ This session declares legacy shared-secret authentication obsolete in the AI age
 
 ## Related Videos
 
+- [The Passwordless Future](https://youtu.be/w03Swz2xkOY) — Security · 49 views · Nov 10, 2026 · [Details](w03Swz2xkOY.md) (shared: `economics` · `asymmetric` · `webauthn`)
 - [The Hardware-Bound Security Blueprint](https://youtu.be/neqE9X2kSuY) — Security · 19 views · Jul 2, 2026 · [Details](neqE9X2kSuY.md) (shared: `secure` · `enclave` · `security`)
 - [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 67 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `attack` · `security`)
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 38 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `attack` · `security`)
-- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) — Security · 32 views · Nov 1, 2026 · [Details](bkNYrlwcVxo.md) (shared: `attack` · `security`)
-- [The Joy of Cryptography](https://youtu.be/7dsz_yUpvqM) — Security · 56 views · Jul 27, 2026 · [Details](7dsz_yUpvqM.md) (shared: `attack` · `security`)
+- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) — Security · 33 views · Nov 1, 2026 · [Details](bkNYrlwcVxo.md) (shared: `attack` · `security`)
 
 ---
 *Auto-generated on Nov 6, 2026. Back to [security](../security.md) · [index](../index.md).*

@@ -36,7 +36,7 @@ This session delivers an evaluator's playbook for Rust software composition anal
 ## Related Videos
 
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 38 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `supply` · `chain` · `security`)
-- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) — Security · 32 views · Nov 1, 2026 · [Details](bkNYrlwcVxo.md) (shared: `security` · `audit` · `pipeline`)
+- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) — Security · 33 views · Nov 1, 2026 · [Details](bkNYrlwcVxo.md) (shared: `security` · `audit` · `pipeline`)
 - [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 90 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security` · `vulnerability`)
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 25 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `security` · `vulnerability`)
 - [Black-Hat LLMs: The End of the 20-Year Security Balance](https://youtu.be/Zeg8zSOvoyE) — Security · 86 views · Mar 31, 2026 · [Details](Zeg8zSOvoyE.md) (shared: `security` · `vulnerability`)

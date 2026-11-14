@@ -3,7 +3,7 @@ type: category
 category: programming
 tags: [알고리즘, rust, refcell, pitfalls, alternatives, vercel, 보안, 대시보드, 영어 공부, 주판]
 sources: 9
-updated: 2026-11-10
+updated: 2026-11-14
 ---
 
 # Programming
@@ -15,7 +15,7 @@ updated: 2026-11-10
 | Metric | Value |
 |--------|-------|
 | Videos | 9 |
-| Total Views | 323 |
+| Total Views | 325 |
 | Most Recent | Aug 8, 2026 |
 | Oldest | Jan 10, 2026 |
 ## All Videos
@@ -30,7 +30,7 @@ updated: 2026-11-10
 | 6 | 마음 속의 계산기 | 9 | Jan 11, 2026 | [Watch](https://youtu.be/gKYw0_jkNFI) | [Wiki](details/gKYw0_jkNFI.md) |
 | 7 | 타입스크립트와 번으로 만드는 TODO 리스트 | 9 | Jan 10, 2026 | [Watch](https://youtu.be/D1Hth_78ftg) | [Wiki](details/D1Hth_78ftg.md) |
 | 8 | 비동기 처리 - async/await | 20 | Jan 10, 2026 | [Watch](https://youtu.be/F6aMGDfVAFg) | [Wiki](details/F6aMGDfVAFg.md) |
-| 9 | 타입스크립트와 번으로 배우는 프로그래밍 1 | 82 | Jan 10, 2026 | [Watch](https://youtu.be/T5FjMjTQCBI) | [Wiki](details/T5FjMjTQCBI.md) |
+| 9 | 타입스크립트와 번으로 배우는 프로그래밍 1 | 84 | Jan 10, 2026 | [Watch](https://youtu.be/T5FjMjTQCBI) | [Wiki](details/T5FjMjTQCBI.md) |
 
 ## Top Tags
 
@@ -43,4 +43,4 @@ updated: 2026-11-10
 - [Security](security.md) -- shared tags: `rust`
 
 ---
-*Auto-generated on Nov 9, 2026. Back to [index](index.md).*
+*Auto-generated on Nov 14, 2026. Back to [index](index.md).*

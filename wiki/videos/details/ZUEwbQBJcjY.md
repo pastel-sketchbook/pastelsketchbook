@@ -37,7 +37,7 @@ This session maps the structural disconnect between where digital populations li
 
 - [The Hydraulic Housing Market](https://youtu.be/XwUIFjLrZcA) — Finance · 11 views · Sep 30, 2026 · [Details](XwUIFjLrZcA.md) (shared: `dynamics` · `market` · `pressure`)
 - [The Final 5 Years](https://youtu.be/G-vvSNwm-jE) — Finance · 19 views · Mar 20, 2026 · [Details](G-vvSNwm-jE.md) (shared: `risk` · `security`)
-- [Nesting in Global Finance](https://youtu.be/YYVxMSqBqe8) — Finance · 8 views · Apr 12, 2026 · [Details](YYVxMSqBqe8.md) (shared: `global` · `risk`)
+- [Nesting in Global Finance](https://youtu.be/YYVxMSqBqe8) — Finance · 9 views · Apr 12, 2026 · [Details](YYVxMSqBqe8.md) (shared: `global` · `risk`)
 - [The Retirement Red Zone](https://youtu.be/KBfVy5-M-5k) — Finance · 15 views · Dec 31, 2025 · [Details](KBfVy5-M-5k.md) (shared: `risk` · `target`)
 - [The Mathematics of Survival](https://youtu.be/J4nERLAJIbs) — Finance · 15 views · Jul 1, 2026 · [Details](J4nERLAJIbs.md) (shared: `risk` · `leverage`)
 

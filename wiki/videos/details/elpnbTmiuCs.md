@@ -32,7 +32,7 @@ This video explains the Raft distributed consensus algorithm, covering leader el
 
 - [From Consensus Physics to Messaging Engineering](https://youtu.be/V9tvg6Yg3m4) — Kubernetes · 47 views · May 7, 2026 · [Details](V9tvg6Yg3m4.md) (shared: `raft consensus algorithm` · `raft` · `consensus`)
 - [Architecting CDC Pipelines](https://youtu.be/JKXsba2_TgY) — Kubernetes · 22 views · Oct 15, 2026 · [Details](JKXsba2_TgY.md) (shared: `kafka` · `rabbitmq quorum queues` · `rabbitmq`)
-- [Migrating to RabbitMQ 4.4](https://youtu.be/0QmlJNjUtGY) — Kubernetes · 23 views · Oct 31, 2026 · [Details](0QmlJNjUtGY.md) (shared: `raft` · `consensus` · `quorum`)
+- [Migrating to RabbitMQ 4.4](https://youtu.be/0QmlJNjUtGY) — Kubernetes · 26 views · Oct 31, 2026 · [Details](0QmlJNjUtGY.md) (shared: `raft` · `consensus` · `quorum`)
 - [minikv: Distributed Systems Meets Data Science](https://youtu.be/a8heWpae5p0) — Kubernetes · 20 views · Apr 11, 2026 · [Details](a8heWpae5p0.md) (shared: `raft` · `consensus` · `log`)
 - [Deploying and Operating ClickHouse on AWS EKS](https://youtu.be/NCL_9PdUCc8) — Kubernetes · 30 views · Aug 19, 2026 · [Details](NCL_9PdUCc8.md) (shared: `replication` · `zookeeper` · `quorum`)
 

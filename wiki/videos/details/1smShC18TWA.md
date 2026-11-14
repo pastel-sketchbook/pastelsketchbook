@@ -34,11 +34,11 @@ This video unpacks the architecture of correspondent banking, explaining how nos
 
 ## Related Videos
 
-- [Nesting in Global Finance](https://youtu.be/YYVxMSqBqe8) — Finance · 8 views · Apr 12, 2026 · [Details](YYVxMSqBqe8.md) (shared: `correspondent banking` · `correspondent` · `banking`)
+- [Nesting in Global Finance](https://youtu.be/YYVxMSqBqe8) — Finance · 9 views · Apr 12, 2026 · [Details](YYVxMSqBqe8.md) (shared: `correspondent banking` · `correspondent` · `banking`)
 - [The Expat Financial Blueprint](https://youtu.be/6zindyvo088) — Finance · 20 views · Oct 5, 2026 · [Details](6zindyvo088.md) (shared: `banking` · `aml` · `kyc`)
-- [The Blueprint for Modern Banking](https://youtu.be/0sUGmB9vf1o) — Finance · 9 views · Oct 19, 2026 · [Details](0sUGmB9vf1o.md) (shared: `banking` · `accounts`)
+- [The Blueprint for Modern Banking](https://youtu.be/0sUGmB9vf1o) — Finance · 10 views · Oct 19, 2026 · [Details](0sUGmB9vf1o.md) (shared: `banking` · `accounts`)
 - [The Three Pillars of Financial Freedom](https://youtu.be/K1O4kHjFJaQ) — Finance · 15 views · Jan 23, 2026 · [Details](K1O4kHjFJaQ.md) (shared: `accounts`)
-- [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) — Finance · 8 views · May 20, 2026 · [Details](Dx8pFmojxL4.md) (shared: `compliance`)
+- [The Architecture of Al Subscriptions](https://youtu.be/Dx8pFmojxL4) — Finance · 9 views · May 20, 2026 · [Details](Dx8pFmojxL4.md) (shared: `compliance`)
 
 ---
 *Auto-generated on Apr 22, 2026. Back to [finance](../finance.md) · [index](../index.md).*

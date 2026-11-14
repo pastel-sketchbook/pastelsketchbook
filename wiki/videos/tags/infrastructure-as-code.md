@@ -2,7 +2,7 @@
 type: tag
 tags: [infrastructure-as-code]
 sources: 4
-updated: 2026-11-10
+updated: 2026-11-14
 ---
 
 # infrastructure as code
@@ -17,4 +17,4 @@ Videos connected by the topic `infrastructure as code`.
 - [Azure Enterprise Edge Lab](https://youtu.be/fMjflPvjaJ8) — Kubernetes · 9 views · Mar 31, 2026 · [Details](../details/fMjflPvjaJ8.md)
 
 ---
-*Auto-generated on Nov 9, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 14, 2026. Back to [topic index](index.md).*

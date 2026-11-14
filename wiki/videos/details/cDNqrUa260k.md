@@ -35,11 +35,11 @@ Rust 1.96 delivers coordinated upgrades across three core pillars — the langua
 
 ## Related Videos
 
+- [Rust 1.100.0: The Milestone Release](https://youtu.be/mizmm0BAH2w) — Development · 14 views · Nov 13, 2026 · [Details](mizmm0BAH2w.md) (shared: `cargo` · `build` · `directory`)
 - [melos-rs: Architectural Anatomy](https://youtu.be/WahgsFhj3W0) — Development · 20 views · Mar 1, 2026 · [Details](WahgsFhj3W0.md) (shared: `rust` · `performance` · `optimization`)
 - [Math as the Ultimate Systems Optimization Tool](https://youtu.be/P_ITPKGLbc4) — Development · 64 views · Oct 3, 2026 · [Details](P_ITPKGLbc4.md) (shared: `rust` · `migration` · `optimization`)
-- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 86 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `rust` · `macro` · `build`)
+- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 89 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `rust` · `macro` · `build`)
 - [The Pragmatics of Order](https://youtu.be/guwVjGsg3h4) — Development · 13 views · Mar 8, 2026 · [Details](guwVjGsg3h4.md) (shared: `complexity` · `optimization`)
-- [The Professional Rust Toolbox](https://youtu.be/js95nIDeA-c) — Development · 9 views · Jan 8, 2026 · [Details](js95nIDeA-c.md) (shared: `rust` · `performance`)
 
 ---
 *Auto-generated on May 30, 2026. Back to [development](../development.md) · [index](../index.md).*

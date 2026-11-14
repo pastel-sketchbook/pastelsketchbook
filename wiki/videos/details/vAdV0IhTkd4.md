@@ -35,7 +35,7 @@ This session demystifies AI model formats and quantization as the bridge between
 
 ## Related Videos
 
-- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 161 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `safetensors` · `gguf` · `quantization`)
+- [Candle: A Minimalist Framework for Serverless ML Inference](https://youtu.be/8PaVKQoDReY) — Development · 165 views · May 9, 2026 · [Details](8PaVKQoDReY.md) (shared: `safetensors` · `gguf` · `quantization`)
 - [DwarfStar DS4 Technical Architecture](https://youtu.be/nSMpZpj6Jzc) — Development · 88 views · Aug 14, 2026 · [Details](nSMpZpj6Jzc.md) (shared: `gguf` · `quantization` · `local`)
 - [Machine Learning Systems](https://youtu.be/fNN88ZXWYKU) — Development · 177 views · Apr 24, 2026 · [Details](fNN88ZXWYKU.md) (shared: `quantization` · `inference` · `deployment`)
 - [The Universal Engine for LLM Inference](https://youtu.be/OKXt-PJUuzE) — Development · 100 views · Jun 21, 2026 · [Details](OKXt-PJUuzE.md) (shared: `model` · `gguf` · `quantization`)

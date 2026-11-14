@@ -37,7 +37,7 @@ This session introduces a dual-core actor architecture that splits autonomous ex
 
 - [Architecting the Hybrid Al Stack](https://youtu.be/g_ywAvwXmW4) — Development · 13 views · Sep 21, 2026 · [Details](g_ywAvwXmW4.md) (shared: `routing` · `triage` · `threshold`)
 - [Designing Fault-Tolerant Systems](https://youtu.be/1r6yG6mMoSQ) — Development · 25 views · Oct 27, 2026 · [Details](1r6yG6mMoSQ.md) (shared: `isolation` · `supervision` · `agent`)
-- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 140 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `state` · `rust` · `runtime`)
+- [Quinn: A Pure-Rust QUIC Protocol Implementation](https://youtu.be/fWuJSwkdH6I) — Development · 146 views · Jun 9, 2026 · [Details](fWuJSwkdH6I.md) (shared: `state` · `rust` · `runtime`)
 - [Tokio: The Asynchronous Runtime for Rust](https://youtu.be/0Sed1oggMKY) — Development · 95 views · Feb 8, 2026 · [Details](0Sed1oggMKY.md) (shared: `rust` · `runtime`)
 - [Architecting with Tonic](https://youtu.be/90hw9qwXbbw) — Development · 170 views · May 2, 2026 · [Details](90hw9qwXbbw.md) (shared: `rust` · `runtime`)
 

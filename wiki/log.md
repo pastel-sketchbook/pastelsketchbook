@@ -1015,3 +1015,25 @@ All are full-length (durationSec 544/726/649/732, none < 120s → not Shorts). F
 Bundle: 540 videos, 540 with detail (Missing: 0). zmd reindexed (1310 documents); detail pages retrievable via `zmd get` (spot-checked). Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
 
 Backward check: scanned all 540 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 4 released.
+
+## [2026-11-14] ingest | Video Metadata Sync
+
+Synced 544 videos across 6 categories (korea=20, finance=63, kubernetes=113, development=312, security=27, programming=9).
+
+## [2026-11-14] ingest | Video Transcripts
+
+Exported 1 transcript files (single: w03Swz2xkOY) to `wiki/raw/transcripts`.
+
+## [2026-11-14] ingest | Release 4 new full videos (published Nov 11-14)
+
+Released 4 newest full videos (2 from `HIDDEN_VIDEO_IDS`, 2 public-but-unprocessed) so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- w03Swz2xkOY (The Passwordless Future, security, 2026-11-11) — idp/passwordless/fido2
+- QaqZcVKUcBQ (Powering Open Infrastructure for Autonomous Agents, kubernetes, 2026-11-12) — substrate/gvisor/openrl
+- NxoqhaK88tU (Architecting the Next Decade of Cross-Platform Development, development, 2026-11-13) — dart/flutter/webassembly
+- mizmm0BAH2w (Rust 1.100.0: The Milestone Release, development, 2026-11-14)
+
+All are full-length (durationSec 872/514/603/515, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md` (8.7-15.6KB), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: QaqZcVKUcBQ → Architect's Sketchbook Ch1 (The Control Plane and the Worker, agentic infrastructure beside Amp Orbs wvErp3B-75E + substrate sibling Po5zwwf3vW4); w03Swz2xkOY → Ch2 (Zero Trust as First Principle, passwordless siblings NC5_Yru5k7Q + LGKBWq8g1u4); mizmm0BAH2w → Internals Companion Ch6 (The Rust Architect's Toolkit, release sibling cDNqrUa260k Rust 1.96); NxoqhaK88tU → Ch14 (The Flutter/Dart Platform, roadmap sibling WMcKFQ200OE The 2026 Roadmap).
+
+Bundle: 544 videos, 544 with detail (Missing: 0). zmd reindexed (1318 documents); detail pages retrievable via `zmd get` (spot-checked). Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
+
+Backward check: scanned all 544 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 2 released.

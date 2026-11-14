@@ -2,7 +2,7 @@
 type: tag
 tags: [model-context-protocol-mcp]
 sources: 2
-updated: 2026-11-10
+updated: 2026-11-14
 ---
 
 # model context protocol (mcp)
@@ -11,8 +11,8 @@ Videos connected by the topic `model context protocol (mcp)`.
 
 ## Videos
 
-- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 301 views · Apr 5, 2026 · [Details](../details/fv61JXUCbeo.md)
+- [Stitch Agent Skills](https://youtu.be/fv61JXUCbeo) — Development · 302 views · Apr 5, 2026 · [Details](../details/fv61JXUCbeo.md)
 - [The Open Market of Al Coding](https://youtu.be/T-NdEF6btbg) — Development · 98 views · Apr 5, 2026 · [Details](../details/T-NdEF6btbg.md)
 
 ---
-*Auto-generated on Nov 9, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 14, 2026. Back to [topic index](index.md).*

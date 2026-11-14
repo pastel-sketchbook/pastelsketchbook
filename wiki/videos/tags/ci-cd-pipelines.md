@@ -2,7 +2,7 @@
 type: tag
 tags: [ci-cd-pipelines]
 sources: 2
-updated: 2026-11-10
+updated: 2026-11-14
 ---
 
 # ci/cd pipelines
@@ -15,4 +15,4 @@ Videos connected by the topic `ci/cd pipelines`.
 - [Scaling Node.js from PM2 to Cloud-Native Orchestration](https://youtu.be/p9LNSeAt5Zw) — Kubernetes · 24 views · Apr 22, 2026 · [Details](../details/p9LNSeAt5Zw.md)
 
 ---
-*Auto-generated on Nov 9, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 14, 2026. Back to [topic index](index.md).*

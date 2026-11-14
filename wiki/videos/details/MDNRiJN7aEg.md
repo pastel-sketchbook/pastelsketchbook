@@ -33,7 +33,7 @@ This video outlines a high-conviction leveraged investment strategy using a 90/1
 - [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 45 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `portfolio` · `risk management` · `risk`)
 - [The Mathematics of Survival](https://youtu.be/J4nERLAJIbs) — Finance · 15 views · Jul 1, 2026 · [Details](J4nERLAJIbs.md) (shared: `portfolio` · `risk management` · `risk`)
 - [The Cash Pump Blueprint](https://youtu.be/Aw8arLm35M8) — Finance · 21 views · Jul 12, 2026 · [Details](Aw8arLm35M8.md) (shared: `etf` · `qqqm` · `tqqq`)
-- [2026 Asset Performance & All-Weather Portfolio Design](https://youtu.be/BxBO6CSx-C8) — Finance · 17 views · Nov 2, 2026 · [Details](BxBO6CSx-C8.md) (shared: `portfolio` · `volatility decay` · `volatility`)
+- [2026 Asset Performance & All-Weather Portfolio Design](https://youtu.be/BxBO6CSx-C8) — Finance · 18 views · Nov 2, 2026 · [Details](BxBO6CSx-C8.md) (shared: `portfolio` · `volatility decay` · `volatility`)
 - [The 2026 Lifecycle ETF Playbook](https://youtu.be/EMXUbohWsWs) — Finance · 9 views · Jan 4, 2026 · [Details](EMXUbohWsWs.md) (shared: `etf` · `risk`)
 
 ---

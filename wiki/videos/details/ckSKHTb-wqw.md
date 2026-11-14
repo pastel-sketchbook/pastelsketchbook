@@ -36,7 +36,7 @@ This session is a playbook for eliminating API latency before and through layeri
 ## Related Videos
 
 - [Modern State Architecture: The Repository Pattern](https://youtu.be/3ybGkjogcFQ) — Development · 43 views · Feb 20, 2026 · [Details](3ybGkjogcFQ.md) (shared: `frontend` · `query` · `tanstack`)
-- [The End of the Functional Programming Tax](https://youtu.be/240fOdSvnpk) — Development · 78 views · Jun 14, 2026 · [Details](240fOdSvnpk.md) (shared: `data` · `ownership` · `cache`)
+- [The End of the Functional Programming Tax](https://youtu.be/240fOdSvnpk) — Development · 79 views · Jun 14, 2026 · [Details](240fOdSvnpk.md) (shared: `data` · `ownership` · `cache`)
 - [Bulletproof Frontend Architecture](https://youtu.be/5Vloo08zQ7o) — Development · 35 views · Feb 16, 2026 · [Details](5Vloo08zQ7o.md) (shared: `frontend` · `data`)
 - [Architectural Principles of Fearless Concurrency](https://youtu.be/F59lTcC6xJ0) — Development · 52 views · Mar 28, 2026 · [Details](F59lTcC6xJ0.md) (shared: `data` · `ownership`)
 - [Architecting Scalable Rust Backends](https://youtu.be/SpNfrWmI8iE) — Development · 85 views · Feb 22, 2026 · [Details](SpNfrWmI8iE.md) (shared: `anti-pattern` · `orchestration`)

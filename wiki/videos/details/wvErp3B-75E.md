@@ -40,8 +40,8 @@ This session documents the architecture of Amp Orbs — dedicated remote isolate
 - [Engineering The Agentic Stack](https://youtu.be/Po5zwwf3vW4) — Kubernetes · 330 views · Oct 4, 2026 · [Details](Po5zwwf3vW4.md) (shared: `agent` · `execution` · `state`)
 - [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 85 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `agent` · `substrate` · `gvisor`)
 - [Orchestrating Red Hat Satellite](https://youtu.be/doS_Ii1uIRA) — Kubernetes · 41 views · Aug 31, 2026 · [Details](doS_Ii1uIRA.md) (shared: `remote` · `execution` · `lifecycle`)
+- [Powering Open Infrastructure for Autonomous Agents](https://youtu.be/QaqZcVKUcBQ) — Kubernetes · 58 views · Nov 11, 2026 · [Details](QaqZcVKUcBQ.md) (shared: `agent` · `substrate` · `gvisor`)
 - [The 100+ Service Problem](https://youtu.be/_sxPf3tHq3s) — Kubernetes · 27 views · Jan 16, 2026 · [Details](_sxPf3tHq3s.md) (shared: `helm` · `deployment`)
-- [The Codebase Lifecycle](https://youtu.be/ctKLD4d146g) — Kubernetes · 16 views · Jan 13, 2026 · [Details](ctKLD4d146g.md) (shared: `lifecycle` · `deployment`)
 
 ---
 *Auto-generated on Nov 10, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

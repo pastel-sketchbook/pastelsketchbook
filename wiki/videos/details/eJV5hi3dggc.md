@@ -38,7 +38,7 @@ This session architects unified multimodal retrieval-augmented generation with E
 - [Integrating LanceDB & Defining Data Engine Roles](https://youtu.be/i2YEYgVx0AA) — Development · 13 views · May 15, 2026 · [Details](i2YEYgVx0AA.md) (shared: `retrieval` · `search` · `rag`)
 - [Architecting Local Legal Embeddings](https://youtu.be/V6Ru7YYLneE) — Development · 39 views · May 22, 2026 · [Details](V6Ru7YYLneE.md) (shared: `embeddings` · `matryoshka` · `truncation`)
 - [The Local SOTA Engine for Your Digital Brain](https://youtu.be/j8lMpSezavQ) — Development · 63 views · Apr 13, 2026 · [Details](j8lMpSezavQ.md) (shared: `retrieval` · `search`)
-- [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 29 views · Apr 29, 2026 · [Details](GERT8PoS9Qk.md) (shared: `retrieval` · `search`)
+- [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 30 views · Apr 29, 2026 · [Details](GERT8PoS9Qk.md) (shared: `retrieval` · `search`)
 - [Architecting the Next Evolution of the Local Database](https://youtu.be/EWwk29GzHgg) — Development · 134 views · Apr 27, 2026 · [Details](EWwk29GzHgg.md) (shared: `search` · `edge`)
 
 ---

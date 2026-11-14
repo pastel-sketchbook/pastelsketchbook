@@ -2,7 +2,7 @@
 type: tag
 tags: [cosine-similarity]
 sources: 2
-updated: 2026-11-10
+updated: 2026-11-14
 ---
 
 # cosine similarity
@@ -12,7 +12,7 @@ Videos connected by the topic `cosine similarity`.
 ## Videos
 
 - [ZMD Architecture & Evolution](https://youtu.be/xkHQhOgapfY) — Development · 47 views · Apr 21, 2026 · [Details](../details/xkHQhOgapfY.md)
-- [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 29 views · Apr 29, 2026 · [Details](../details/GERT8PoS9Qk.md)
+- [The Architecture of Similarity](https://youtu.be/GERT8PoS9Qk) — Development · 30 views · Apr 29, 2026 · [Details](../details/GERT8PoS9Qk.md)
 
 ---
-*Auto-generated on Nov 9, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 14, 2026. Back to [topic index](index.md).*

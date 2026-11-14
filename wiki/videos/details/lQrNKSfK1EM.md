@@ -35,7 +35,7 @@ This session charts a proven cloud-native blueprint for migrating enterprise mic
 
 ## Related Videos
 
-- [Modernizing Kubernetes Backend Architecture](https://youtu.be/iroupYYGkwg) — Development · 19 views · Nov 8, 2026 · [Details](iroupYYGkwg.md) (shared: `echo` · `economics` · `builds`)
+- [Modernizing Kubernetes Backend Architecture](https://youtu.be/iroupYYGkwg) — Development · 30 views · Nov 8, 2026 · [Details](iroupYYGkwg.md) (shared: `echo` · `economics` · `builds`)
 - [Modernizing Legacy COBOL](https://youtu.be/2Ni8zfsxW6o) — Development · 28 views · Feb 1, 2026 · [Details](2Ni8zfsxW6o.md) (shared: `java` · `migration`)
 - [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 52 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `migration` · `echo`)
 - [Architecting Al in Software Engineering](https://youtu.be/yXZnBtdDTFk) — Development · 80 views · May 25, 2026 · [Details](yXZnBtdDTFk.md) (shared: `migration` · `canary`)

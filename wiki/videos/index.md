@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 540
-updated: 2026-11-10
+sources: 544
+updated: 2026-11-14
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 540 |
-| Total Views | 52.5K |
+| Total Videos | 544 |
+| Total Views | 53.2K |
 | Categories | 6 |
-| Last Updated | Nov 9, 2026 |
+| Last Updated | Nov 14, 2026 |
 
 ## Categories
 
@@ -32,19 +32,19 @@ Videos covering personal finance, investing, and economics. 63 videos, 1.6K tota
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 112 videos, 4.8K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 113 videos, 4.9K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 310 videos, 44.2K total views.
+Videos about software development, tools, workflows, and engineering practices. 312 videos, 44.7K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 26 videos, 1.3K total views.
+Videos on cybersecurity, application security, and security engineering. 27 videos, 1.3K total views.
 
 ### [Programming](programming.md)
 
-Videos about programming languages, paradigms, and computer science concepts. 9 videos, 323 total views.
+Videos about programming languages, paradigms, and computer science concepts. 9 videos, 325 total views.
 
 ## Cross-Category Tags
 
@@ -69,4 +69,4 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `cloud` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Nov 9, 2026. See [wiki index](../index.md).*
+*Auto-generated on Nov 14, 2026. See [wiki index](../index.md).*

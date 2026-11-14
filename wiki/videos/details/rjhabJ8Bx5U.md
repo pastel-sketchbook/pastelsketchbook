@@ -35,7 +35,7 @@ This deck documents the structural divergence of alternative asset management an
 
 ## Related Videos
 
-- [2026 Asset Performance & All-Weather Portfolio Design](https://youtu.be/BxBO6CSx-C8) — Finance · 17 views · Nov 2, 2026 · [Details](BxBO6CSx-C8.md) (shared: `asset` · `portfolio` · `allocation`)
+- [2026 Asset Performance & All-Weather Portfolio Design](https://youtu.be/BxBO6CSx-C8) — Finance · 18 views · Nov 2, 2026 · [Details](BxBO6CSx-C8.md) (shared: `asset` · `portfolio` · `allocation`)
 - [The Mathematics of Survival](https://youtu.be/J4nERLAJIbs) — Finance · 15 views · Jul 1, 2026 · [Details](J4nERLAJIbs.md) (shared: `management` · `portfolio` · `allocation`)
 - [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 45 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `management` · `portfolio`)
 - [An Ambitious Ascent](https://youtu.be/MDNRiJN7aEg) — Finance · 11 views · Dec 29, 2025 · [Details](MDNRiJN7aEg.md) (shared: `management` · `portfolio`)

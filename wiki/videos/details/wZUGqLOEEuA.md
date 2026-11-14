@@ -31,10 +31,10 @@ This video presents Kubernetes as an agent operating system built on two pillars
 ## Related Videos
 
 - [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 28 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `disaggregated` · `prefill` · `decode`)
+- [Powering Open Infrastructure for Autonomous Agents](https://youtu.be/QaqZcVKUcBQ) — Kubernetes · 58 views · Nov 11, 2026 · [Details](QaqZcVKUcBQ.md) (shared: `agent` · `substrate` · `gvisor`)
 - [Engineering The Agentic Stack](https://youtu.be/Po5zwwf3vW4) — Kubernetes · 330 views · Oct 4, 2026 · [Details](Po5zwwf3vW4.md) (shared: `agent` · `substrate` · `sandbox`)
 - [Architecting Multi-Rail Fabrics for On-Premise AI Inference](https://youtu.be/sQz9WyN2s04) — Kubernetes · 159 views · Sep 4, 2026 · [Details](sQz9WyN2s04.md) (shared: `disaggregated` · `prefill` · `decode`)
 - [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 36 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `routing` · `llm` · `inference`)
-- [Orchard: An Open Foundation for Agentic Modeling Research](https://youtu.be/knxE_Pg2JBA) — Kubernetes · 16 views · Aug 27, 2026 · [Details](knxE_Pg2JBA.md) (shared: `snapshots` · `sandbox` · `isolation`)
 
 ---
 *Auto-generated on Sep 11, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

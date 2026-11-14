@@ -35,7 +35,7 @@ This deep-dive traces the 25519 cryptographic family from Bernstein's 2005 Curve
 
 ## Related Videos
 
-- [The Joy of Cryptography](https://youtu.be/7dsz_yUpvqM) — Security · 56 views · Jul 27, 2026 · [Details](7dsz_yUpvqM.md) (shared: `key` · `exchange` · `signatures`)
+- [The Joy of Cryptography](https://youtu.be/7dsz_yUpvqM) — Security · 60 views · Jul 27, 2026 · [Details](7dsz_yUpvqM.md) (shared: `key` · `exchange` · `signatures`)
 - [2025 Global Threat Report](https://youtu.be/1MPD6MILLcQ) — Security · 14 views · Feb 27, 2026 · [Details](1MPD6MILLcQ.md) (shared: `time`)
 - [Obsolete by Design](https://youtu.be/NC5_Yru5k7Q) — Security · 22 views · Nov 5, 2026 · [Details](NC5_Yru5k7Q.md) (shared: `ladder`)
 - [Winning the Arms Race in Credential Security](https://youtu.be/Kp_4y_HEaZ0) — Security · 21 views · Jun 6, 2026 · [Details](Kp_4y_HEaZ0.md) (shared: `key`)

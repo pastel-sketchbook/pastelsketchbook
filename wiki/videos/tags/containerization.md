@@ -2,7 +2,7 @@
 type: tag
 tags: [containerization]
 sources: 2
-updated: 2026-11-10
+updated: 2026-11-14
 ---
 
 # containerization
@@ -15,4 +15,4 @@ Videos connected by the topic `containerization`.
 - [The Codebase Lifecycle](https://youtu.be/ctKLD4d146g) — Kubernetes · 16 views · Jan 13, 2026 · [Details](../details/ctKLD4d146g.md)
 
 ---
-*Auto-generated on Nov 9, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 14, 2026. Back to [topic index](index.md).*

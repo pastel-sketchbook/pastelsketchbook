@@ -47,7 +47,7 @@ Welcome.  Thank  you  all  for  joining  us today  for  this  introductory  sess
 - [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 90 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `security` · `testing` · `penetration`)
 - [Containing the Untrusted Agent](https://youtu.be/CA1nlknmR3g) — Security · 34 views · Mar 25, 2026 · [Details](CA1nlknmR3g.md) (shared: `security` · `defense in depth` · `defense`)
 - [Securely Exposing AKS Applications](https://youtu.be/A7eoKD5m6Ek) — Kubernetes · 10 views · Jan 8, 2026 · [Details](A7eoKD5m6Ek.md) (shared: `security` · `defense in depth` · `defense`)
-- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) — Security · 32 views · Nov 1, 2026 · [Details](bkNYrlwcVxo.md) (shared: `owasp` · `security` · `defense`)
+- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) — Security · 33 views · Nov 1, 2026 · [Details](bkNYrlwcVxo.md) (shared: `owasp` · `security` · `defense`)
 - [The NIST Cybersecurity Framework 2.0](https://youtu.be/1VjSLqfPf9s) — Security · 26 views · Mar 8, 2026 · [Details](1VjSLqfPf9s.md) (shared: `security` · `assessment`)
 
 ---

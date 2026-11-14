@@ -38,9 +38,9 @@ This session is the 2026 engineering playbook for high-density Kubernetes worklo
 ## Related Videos
 
 - [The Echo Web Framework](https://youtu.be/QOYXBkMcnYk) — Development · 52 views · May 3, 2026 · [Details](QOYXBkMcnYk.md) (shared: `echo` · `middleware` · `pipeline`)
-- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 107 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `middleware` · `graceful` · `shutdown`)
+- [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 108 views · May 1, 2026 · [Details](J4iGUAXcAOA.md) (shared: `middleware` · `graceful` · `shutdown`)
 - [The Architecture of Space and Time](https://youtu.be/3ONqqMoLy0s) — Development · 34 views · May 26, 2026 · [Details](3ONqqMoLy0s.md) (shared: `structure` · `pipeline` · `hybrid`)
-- [The PyTorch Architecture Blueprint](https://youtu.be/KXx_6BhzOFE) — Development · 71 views · Jun 13, 2026 · [Details](KXx_6BhzOFE.md) (shared: `packaging` · `pipeline` · `model`)
+- [The PyTorch Architecture Blueprint](https://youtu.be/KXx_6BhzOFE) — Development · 78 views · Jun 13, 2026 · [Details](KXx_6BhzOFE.md) (shared: `packaging` · `pipeline` · `model`)
 - [Migrating Enterprise Microservices: Java to Go](https://youtu.be/lQrNKSfK1EM) — Development · 27 views · Sep 28, 2026 · [Details](lQrNKSfK1EM.md) (shared: `economics` · `echo` · `builds`)
 
 ---

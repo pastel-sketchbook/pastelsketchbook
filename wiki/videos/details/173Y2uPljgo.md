@@ -34,8 +34,8 @@ This blueprint dissects the internal architecture of NestJS, showing how a metad
 - [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 26 views · May 16, 2026 · [Details](BhzeYd4aqOQ.md) (shared: `request` · `pipeline` · `http`)
 - [The Pragmatic Go Developer](https://youtu.be/oxNF_GNuWpE) — Development · 45 views · Mar 10, 2026 · [Details](oxNF_GNuWpE.md) (shared: `dependency` · `http` · `context`)
 - [Design Patterns in Go](https://youtu.be/DazzkNtnzec) — Development · 120 views · Feb 24, 2026 · [Details](DazzkNtnzec.md) (shared: `decorators` · `dependency` · `injection`)
-- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 86 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `module` · `pipeline` · `hybrid`)
-- [Modernizing Kubernetes Backend Architecture](https://youtu.be/iroupYYGkwg) — Development · 19 views · Nov 8, 2026 · [Details](iroupYYGkwg.md) (shared: `topology` · `pipeline` · `hybrid`)
+- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 89 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `module` · `pipeline` · `hybrid`)
+- [Modernizing Kubernetes Backend Architecture](https://youtu.be/iroupYYGkwg) — Development · 30 views · Nov 8, 2026 · [Details](iroupYYGkwg.md) (shared: `topology` · `pipeline` · `hybrid`)
 
 ---
 *Auto-generated on May 6, 2026. Back to [development](../development.md) · [index](../index.md).*

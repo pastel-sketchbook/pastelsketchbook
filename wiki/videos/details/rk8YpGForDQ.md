@@ -39,7 +39,7 @@ This session introduces Microsoft Data Formulator, an AI-powered visual workspac
 - [The Modern Delivery Flywheel](https://youtu.be/B2x09utLjtM) — Development · 9 views · Jan 9, 2026 · [Details](B2x09utLjtM.md) (shared: `workflow` · `deployment`)
 - [The Memory Management Trilemma](https://youtu.be/axvxGj3yOgA) — Development · 39 views · Jan 6, 2026 · [Details](axvxGj3yOgA.md) (shared: `memory` · `language`)
 - [Swift Firefly](https://youtu.be/P58Zt8A_1Mc) — Development · 113 views · Jan 24, 2026 · [Details](P58Zt8A_1Mc.md) (shared: `memory` · `language`)
-- [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 106 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `data` · `workflow`)
+- [Serverless Analytics with DuckDB & Python](https://youtu.be/ZBW6YozOu78) — Development · 107 views · Mar 14, 2026 · [Details](ZBW6YozOu78.md) (shared: `data` · `workflow`)
 
 ---
 *Auto-generated on Nov 2, 2026. Back to [development](../development.md) · [index](../index.md).*
