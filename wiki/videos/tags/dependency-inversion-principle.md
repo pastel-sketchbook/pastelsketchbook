@@ -2,7 +2,7 @@
 type: tag
 tags: [dependency-inversion-principle]
 sources: 2
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 # dependency inversion principle
@@ -11,8 +11,8 @@ Videos connected by the topic `dependency inversion principle`.
 
 ## Videos
 
-- [Clean Architecture in Angular](https://youtu.be/RJGNh8L-8rw) — Development · 67 views · Jun 23, 2026 · [Details](../details/RJGNh8L-8rw.md)
-- [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 60 views · Apr 27, 2026 · [Details](../details/R3n8UxyD7mc.md)
+- [Clean Architecture in Angular](https://youtu.be/RJGNh8L-8rw) — Development · 71 views · Jun 23, 2026 · [Details](../details/RJGNh8L-8rw.md)
+- [The Architecture of Systemic Decoupling](https://youtu.be/R3n8UxyD7mc) — Development · 61 views · Apr 27, 2026 · [Details](../details/R3n8UxyD7mc.md)
 
 ---
-*Auto-generated on Nov 14, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 19, 2026. Back to [topic index](index.md).*

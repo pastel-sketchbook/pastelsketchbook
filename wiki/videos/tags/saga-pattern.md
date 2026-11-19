@@ -2,7 +2,7 @@
 type: tag
 tags: [saga-pattern]
 sources: 3
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 # saga pattern
@@ -16,4 +16,4 @@ Videos connected by the topic `saga pattern`.
 - [Backend Patterns in Rust](https://youtu.be/Th5MMOFQbh8) — Development · 55 views · Feb 22, 2026 · [Details](../details/Th5MMOFQbh8.md)
 
 ---
-*Auto-generated on Nov 14, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 19, 2026. Back to [topic index](index.md).*

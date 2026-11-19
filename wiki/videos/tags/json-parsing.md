@@ -2,7 +2,7 @@
 type: tag
 tags: [json-parsing]
 sources: 2
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 # json parsing
@@ -15,4 +15,4 @@ Videos connected by the topic `json parsing`.
 - [Book-Finder Architecture](https://youtu.be/tyR8SdHpOeY) — Development · 32 views · Apr 12, 2026 · [Details](../details/tyR8SdHpOeY.md)
 
 ---
-*Auto-generated on Nov 14, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 19, 2026. Back to [topic index](index.md).*

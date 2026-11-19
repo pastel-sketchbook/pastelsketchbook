@@ -1,7 +1,7 @@
 ---
 type: index
-sources: 544
-updated: 2026-11-14
+sources: 549
+updated: 2026-11-19
 ---
 
 # Video Wiki Index
@@ -13,10 +13,10 @@ The LLM reads this index first to locate relevant pages when answering queries.
 
 | Metric | Value |
 |--------|-------|
-| Total Videos | 544 |
-| Total Views | 53.2K |
+| Total Videos | 549 |
+| Total Views | 53.9K |
 | Categories | 6 |
-| Last Updated | Nov 14, 2026 |
+| Last Updated | Nov 19, 2026 |
 
 ## Categories
 
@@ -32,15 +32,15 @@ Videos covering personal finance, investing, and economics. 63 videos, 1.6K tota
 
 ### [Kubernetes](kubernetes.md)
 
-Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 113 videos, 4.9K total views.
+Videos on Kubernetes, container orchestration, and cloud-native infrastructure. 115 videos, 5.0K total views.
 
 ### [Development](development.md)
 
-Videos about software development, tools, workflows, and engineering practices. 312 videos, 44.7K total views.
+Videos about software development, tools, workflows, and engineering practices. 314 videos, 45.4K total views.
 
 ### [Security](security.md)
 
-Videos on cybersecurity, application security, and security engineering. 27 videos, 1.3K total views.
+Videos on cybersecurity, application security, and security engineering. 28 videos, 1.4K total views.
 
 ### [Programming](programming.md)
 
@@ -65,8 +65,8 @@ Tags appearing in multiple categories (potential synthesis targets):
 | `2026` | [Finance](finance.md), [Development](development.md) |
 | `levy` | [Finance](finance.md), [Development](development.md) |
 | `notebooklm` | [Finance](finance.md), [Development](development.md) |
+| `hybrid` | [Kubernetes](kubernetes.md), [Development](development.md) |
 | `rabbitmq` | [Kubernetes](kubernetes.md), [Development](development.md) |
-| `cloud` | [Kubernetes](kubernetes.md), [Development](development.md) |
 
 ---
-*Auto-generated on Nov 14, 2026. See [wiki index](../index.md).*
+*Auto-generated on Nov 19, 2026. See [wiki index](../index.md).*

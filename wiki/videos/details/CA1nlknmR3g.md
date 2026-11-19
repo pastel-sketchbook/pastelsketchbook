@@ -32,9 +32,9 @@ This video presents a defense-in-depth architecture for mitigating server-side r
 
 - [ZAP: Getting Started with Software Security Testing](https://youtu.be/infh5ZZwvLU) — Security · 25 views · Apr 30, 2026 · [Details](infh5ZZwvLU.md) (shared: `defense in depth` · `defense` · `depth`)
 - [Securely Exposing AKS Applications](https://youtu.be/A7eoKD5m6Ek) — Kubernetes · 10 views · Jan 8, 2026 · [Details](A7eoKD5m6Ek.md) (shared: `defense in depth` · `defense` · `depth`)
-- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) — Security · 33 views · Nov 1, 2026 · [Details](bkNYrlwcVxo.md) (shared: `defense` · `agent` · `security`)
+- [Architecting the AI Security Stack](https://youtu.be/bkNYrlwcVxo) — Security · 34 views · Nov 1, 2026 · [Details](bkNYrlwcVxo.md) (shared: `defense` · `agent` · `security`)
+- [Securing Autonomous Al Agents](https://youtu.be/R6Y4f6B5osI) — Security · 32 views · Nov 14, 2026 · [Details](R6Y4f6B5osI.md) (shared: `agent` · `network` · `control`)
 - [Shannon: Autonomous Penetration Testing](https://youtu.be/JfGgWiiCTA0) — Security · 90 views · Feb 14, 2026 · [Details](JfGgWiiCTA0.md) (shared: `agent` · `security`)
-- [The Strategic Roadmap for Data Classification](https://youtu.be/uhXcsWYhdkA) — Security · 25 views · Mar 2, 2026 · [Details](uhXcsWYhdkA.md) (shared: `security` · `architecture`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

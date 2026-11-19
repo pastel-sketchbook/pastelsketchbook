@@ -36,9 +36,9 @@ This session engineers a high-density agent sandbox architecture on GKE Agent Su
 ## Related Videos
 
 - [Building The Modern Cloud Virtualization Stack](https://youtu.be/NA70_k873dY) — Kubernetes · 26 views · Oct 16, 2026 · [Details](NA70_k873dY.md) (shared: `architecture` · `kata containers isolation` · `kata`)
-- [Powering Open Infrastructure for Autonomous Agents](https://youtu.be/QaqZcVKUcBQ) — Kubernetes · 58 views · Nov 11, 2026 · [Details](QaqZcVKUcBQ.md) (shared: `sandbox` · `gke` · `agent`)
+- [Powering Open Infrastructure for Autonomous Agents](https://youtu.be/QaqZcVKUcBQ) — Kubernetes · 59 views · Nov 11, 2026 · [Details](QaqZcVKUcBQ.md) (shared: `sandbox` · `gke` · `agent`)
 - [Enterprise Infrastructure as Code for Al Agents](https://youtu.be/quD4pyCwKB4) — Kubernetes · 69 views · Apr 25, 2026 · [Details](quD4pyCwKB4.md) (shared: `architecture` · `agent` · `code`)
-- [Amp Orbs: The Architectural Blueprint](https://youtu.be/wvErp3B-75E) — Kubernetes · 44 views · Nov 7, 2026 · [Details](wvErp3B-75E.md) (shared: `agent` · `substrate` · `execution`)
+- [Amp Orbs: The Architectural Blueprint](https://youtu.be/wvErp3B-75E) — Kubernetes · 50 views · Nov 7, 2026 · [Details](wvErp3B-75E.md) (shared: `agent` · `substrate` · `execution`)
 - [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 85 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `sandbox` · `agent` · `substrate`)
 
 ---

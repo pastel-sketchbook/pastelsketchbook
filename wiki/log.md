@@ -1037,3 +1037,26 @@ All are full-length (durationSec 872/514/603/515, none < 120s → not Shorts). F
 Bundle: 544 videos, 544 with detail (Missing: 0). zmd reindexed (1318 documents); detail pages retrievable via `zmd get` (spot-checked). Showcase gates pass for all 4 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 4 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
 
 Backward check: scanned all 544 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 2 released.
+
+## [2026-11-19] ingest | Video Metadata Sync
+
+Synced 549 videos across 6 categories (korea=20, finance=63, kubernetes=115, development=314, security=28, programming=9).
+
+## [2026-11-19] ingest | Video Transcripts
+
+Exported 1 transcript files (single: R6Y4f6B5osI) to `wiki/raw/transcripts`.
+
+## [2026-11-19] ingest | Release 5 new full videos (published Nov 15-19)
+
+Released 5 newest full videos (from `HIDDEN_VIDEO_IDS`) so they appear on the showcase, with transcripts/detail wikis/books public per the zmd wiki workflow:
+- R6Y4f6B5osI (Securing Autonomous AI Agents, security, 2026-11-15) — openshell/autonomous/nvidia
+- HNZ_A1B_kTg (Architecting Reliable Asynchronous Microservice, development, 2026-11-16) — idp/fire and forget/outbox/inbox
+- Ad_lLIeUN2w (Enterprise Data Security on a Lean Startup Budget, kubernetes, 2026-11-17) — idp/budget/hybrid
+- Ab6T48OMVVk (Frontier AI Engineering Playbook, development, 2026-11-18) — rust/curiosity/copilot
+- wT_Ki0KnL5I (Stateful Architectures at the Edge, kubernetes, 2026-11-19) — idp/durable/stateful
+
+All are full-length (durationSec 516/1098/519/759/932, none < 120s → not Shorts). For each: raw transcript exported to `wiki/raw/transcripts/{id}.md` (9-20KB), public mirror byte-identical (`homepage/public/transcripts/{id}.md`), detail page complete (Summary, Key Takeaways, Topics Covered; `## Related Videos` auto-upserted by `generate-wiki.ts`), and placed in `books.json`. Book placement: wT_Ki0KnL5I → Architect's Sketchbook Ch1 (The Control Plane and the Worker, stateful-k8s cluster beside The Stateful AI Playbook US99s1ISCkA + Kubernetes Agent OS wZUGqLOEEuA); R6Y4f6B5osI → Ch2 (Zero Trust as First Principle, agentic-security siblings iVb4Pu8CAHE + MFiVlaMYmwM); Ad_lLIeUN2w → Ch3 (The Enterprise AI Pipeline, hybrid-stack sibling g_ywAvwXmW4 + cost sibling eaPXjvB194w); Ab6T48OMVVk → Ch6 (The Modern Delivery Flywheel, AI-augmented SDLC sibling WCqusmhtteU); HNZ_A1B_kTg → Ch10 (Event-Driven Landscapes, messaging/consensus cluster beside The Blueprint of Distributed Consensus elpnbTmiuCs + CDC ScyllaDB nomIVRSBEG4).
+
+Bundle: 549 videos, 549 with detail (Missing: 0). zmd reindexed (1328 documents); detail pages retrievable via `zmd get` (spot-checked). Showcase gates pass for all 5 (`allVideoIds` membership, category assigned, `!HIDDEN_VIDEO_IDS.has(id)`, metadata present/non-short, bundle detail present) → each `WILL APPEAR`. `bun run build` passes in `homepage/`; all 5 transcripts + `wiki-bundle.json` + `books.json` emitted to `dist/`.
+
+Backward check: scanned all 549 public videos for missing transcripts/details — the only gap is 1PH7UB24xps (Architecting AKS Networking, Mar 2026), whose YouTube captions are unavailable (`NoCaptionTracks`; stub detail page from Apr 14 retained, recorded in `wiki/raw/transcripts/_failed.json`). No staged full videos remain hidden behind the 5 released.

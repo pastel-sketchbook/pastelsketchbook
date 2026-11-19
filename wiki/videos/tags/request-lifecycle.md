@@ -2,7 +2,7 @@
 type: tag
 tags: [request-lifecycle]
 sources: 2
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 # request lifecycle
@@ -12,7 +12,7 @@ Videos connected by the topic `request lifecycle`.
 ## Videos
 
 - [The Axum Web Framework](https://youtu.be/J4iGUAXcAOA) — Development · 108 views · May 1, 2026 · [Details](../details/J4iGUAXcAOA.md)
-- [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 26 views · May 16, 2026 · [Details](../details/BhzeYd4aqOQ.md)
+- [Architecting Network Layers with Dio](https://youtu.be/BhzeYd4aqOQ) — Development · 27 views · May 16, 2026 · [Details](../details/BhzeYd4aqOQ.md)
 
 ---
-*Auto-generated on Nov 14, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 19, 2026. Back to [topic index](index.md).*

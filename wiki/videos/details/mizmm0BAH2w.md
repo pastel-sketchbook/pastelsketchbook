@@ -37,7 +37,7 @@ This session reviews Rust 1.100.0 (released November 12, 2026) as a maturation o
 ## Related Videos
 
 - [Rust 1.96 Ecosystem Release](https://youtu.be/cDNqrUa260k) — Development · 62 views · May 30, 2026 · [Details](cDNqrUa260k.md) (shared: `cargo` · `lints` · `build`)
-- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 89 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `type` · `native` · `build`)
+- [Cross-Runtime Development with Rust and napi-rs](https://youtu.be/97zSu6wYF5w) — Development · 90 views · Jul 10, 2026 · [Details](97zSu6wYF5w.md) (shared: `type` · `native` · `build`)
 - [Governing Al Agents in Enterprise .NET Development](https://youtu.be/A6hH4t9MaSQ) — Development · 20 views · Aug 23, 2026 · [Details](A6hH4t9MaSQ.md) (shared: `dependency` · `build` · `errors`)
 - [The ONNX Ecosystem](https://youtu.be/Qi_vpz_5j7g) — Development · 65 views · May 10, 2026 · [Details](Qi_vpz_5j7g.md) (shared: `type` · `rfc` · `intermediate`)
 - [Deconstructing Elixir's 400x Type System Acceleration](https://youtu.be/gVZwfZVAuVE) — Development · 49 views · Mar 4, 2026 · [Details](gVZwfZVAuVE.md) (shared: `type` · `compiler`)

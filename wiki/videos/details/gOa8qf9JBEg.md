@@ -38,8 +38,8 @@ This session engineers forced human-in-the-loop feedback systems for credit and 
 - [How to Kill the Code Review](https://youtu.be/0HEqwk9UMOc) — Development · 145 views · Mar 18, 2026 · [Details](0HEqwk9UMOc.md) (shared: `governance` · `review`)
 - [The Blueprint for Al-Augmented Agile](https://youtu.be/WCqusmhtteU) — Development · 51 views · Sep 20, 2026 · [Details](WCqusmhtteU.md) (shared: `review` · `design`)
 - [Digital Transformation 2.0](https://youtu.be/pnbcAqCaKh0) — Development · 84 views · Sep 3, 2026 · [Details](pnbcAqCaKh0.md) (shared: `governance` · `design`)
+- [Architecting Reliable Asynchronous Microservice](https://youtu.be/HNZ_A1B_kTg) — Development · 15 views · Nov 15, 2026 · [Details](HNZ_A1B_kTg.md) (shared: `monitoring` · `dual`)
 - [Pathways Over Tools](https://youtu.be/84M1mVL0cjo) — Development · 19 views · Mar 9, 2026 · [Details](84M1mVL0cjo.md) (shared: `design`)
-- [NotebookLM's Intelligence Flow](https://youtu.be/IF5sNQH-01c) — Development · 48 views · Dec 28, 2025 · [Details](IF5sNQH-01c.md) (shared: `design`)
 
 ---
 *Auto-generated on Sep 30, 2026. Back to [development](../development.md) · [index](../index.md).*

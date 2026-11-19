@@ -33,8 +33,8 @@ This video analyzes the CrowdStrike 2025 Global Threat Report, defining the curr
 - [Architecting Ephemeral Access](https://youtu.be/Hwa2vM9c2Xc) — Security · 6 views · Jun 29, 2026 · [Details](Hwa2vM9c2Xc.md) (shared: `credential` · `session`)
 - [Custom Graphs in Microsoft Sentinel (Preview)](https://youtu.be/u8XCBK6lGw0) — Security · 67 views · Apr 11, 2026 · [Details](u8XCBK6lGw0.md) (shared: `threat`)
 - [Anatomy of a Supply Chain Attack](https://youtu.be/taBP0Fr3uSQ) — Security · 38 views · Mar 26, 2026 · [Details](taBP0Fr3uSQ.md) (shared: `credential`)
-- [The 25519 Cryptographic Family](https://youtu.be/MzdV5hjPdsI) — Security · 49 views · Jun 28, 2026 · [Details](MzdV5hjPdsI.md) (shared: `time`)
-- [The Passwordless Future](https://youtu.be/w03Swz2xkOY) — Security · 49 views · Nov 10, 2026 · [Details](w03Swz2xkOY.md) (shared: `credential`)
+- [The 25519 Cryptographic Family](https://youtu.be/MzdV5hjPdsI) — Security · 51 views · Jun 28, 2026 · [Details](MzdV5hjPdsI.md) (shared: `time`)
+- [Securing Autonomous Al Agents](https://youtu.be/R6Y4f6B5osI) — Security · 32 views · Nov 14, 2026 · [Details](R6Y4f6B5osI.md) (shared: `credential`)
 
 ---
 *Auto-generated on Apr 16, 2026. Back to [security](../security.md) · [index](../index.md).*

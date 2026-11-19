@@ -30,7 +30,7 @@ This talk is a comparative diagnostic of the California and Texas economies, tre
 
 ## Related Videos
 
-- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 48 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `energy` · `grid` · `ercot`)
+- [Global Gigawatt: The Engineering & Architecture of Mega-Scale Al Data Centers](https://youtu.be/BZm2J9sLEp8) — Finance · 49 views · Jul 29, 2026 · [Details](BZm2J9sLEp8.md) (shared: `energy` · `grid` · `ercot`)
 - [The Texas Al Machine](https://youtu.be/9lzYsV55CAc) — Finance · 44 views · Oct 12, 2026 · [Details](9lzYsV55CAc.md) (shared: `texas` · `grid` · `ercot`)
 - [The Hydraulic Housing Market](https://youtu.be/XwUIFjLrZcA) — Finance · 11 views · Sep 30, 2026 · [Details](XwUIFjLrZcA.md) (shared: `housing` · `affordability` · `dynamics`)
 - [Nationwide Data Coverage & Auto-Filing Feasibility](https://youtu.be/SRwWBbsaQH4) — Finance · 16 views · May 13, 2026 · [Details](SRwWBbsaQH4.md) (shared: `state` · `property` · `tax`)

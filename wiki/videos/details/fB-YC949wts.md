@@ -32,9 +32,9 @@ This talk compares two architectural paradigms for deploying AI in hybrid cloud 
 
 - [KAITO: The Kubernetes Al Toolchain Operator](https://youtu.be/kFzdToXTfn8) — Kubernetes · 36 views · Jul 21, 2026 · [Details](kFzdToXTfn8.md) (shared: `deployment` · `model` · `vllm`)
 - [Architecting LLM Inference at Scale](https://youtu.be/WI8yUaPon0w) — Kubernetes · 28 views · Jul 31, 2026 · [Details](WI8yUaPon0w.md) (shared: `model` · `serving` · `kubernetes`)
-- [The Economics of Multi-Tenant Al](https://youtu.be/Lw9yHvWaXuo) — Kubernetes · 9 views · Sep 26, 2026 · [Details](Lw9yHvWaXuo.md) (shared: `vllm` · `platform` · `inference`)
+- [Enterprise Data Security on a Lean Startup Budget](https://youtu.be/Ad_lLIeUN2w) — Kubernetes · 12 views · Nov 16, 2026 · [Details](Ad_lLIeUN2w.md) (shared: `hybrid` · `cloud` · `model`)
+- [The Economics of Multi-Tenant Al](https://youtu.be/Lw9yHvWaXuo) — Kubernetes · 11 views · Sep 26, 2026 · [Details](Lw9yHvWaXuo.md) (shared: `vllm` · `platform` · `inference`)
 - [The Modern Platform Framework](https://youtu.be/rk_3xU9OF-k) — Kubernetes · 30 views · Feb 19, 2026 · [Details](rk_3xU9OF-k.md) (shared: `kubernetes` · `platform` · `event`)
-- [Architecting AKS Networking - Trade-offs](https://youtu.be/F09-7mNt3F4) — Kubernetes · 17 views · Mar 12, 2026 · [Details](F09-7mNt3F4.md) (shared: `kubernetes` · `scaling` · `models`)
 
 ---
 *Auto-generated on Aug 7, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

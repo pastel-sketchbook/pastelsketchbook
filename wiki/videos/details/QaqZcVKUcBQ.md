@@ -39,8 +39,8 @@ This session announces Google Cloud's donation of Agent Substrate, gVisor, and O
 - [The Kubernetes Agent Operating System](https://youtu.be/wZUGqLOEEuA) — Kubernetes · 85 views · Sep 8, 2026 · [Details](wZUGqLOEEuA.md) (shared: `agent` · `substrate` · `gvisor`)
 - [Engineering The Agentic Stack](https://youtu.be/Po5zwwf3vW4) — Kubernetes · 330 views · Oct 4, 2026 · [Details](Po5zwwf3vW4.md) (shared: `agent` · `substrate` · `isolation`)
 - [Orchard: An Open Foundation for Agentic Modeling Research](https://youtu.be/knxE_Pg2JBA) — Kubernetes · 16 views · Aug 27, 2026 · [Details](knxE_Pg2JBA.md) (shared: `isolation` · `python` · `sandbox`)
-- [Amp Orbs: The Architectural Blueprint](https://youtu.be/wvErp3B-75E) — Kubernetes · 44 views · Nov 7, 2026 · [Details](wvErp3B-75E.md) (shared: `agent` · `substrate` · `gvisor`)
-- [From Stateful to Secure](https://youtu.be/0U-SUJCmKAU) — Kubernetes · 48 views · Jan 16, 2026 · [Details](0U-SUJCmKAU.md) (shared: `availability`)
+- [Amp Orbs: The Architectural Blueprint](https://youtu.be/wvErp3B-75E) — Kubernetes · 50 views · Nov 7, 2026 · [Details](wvErp3B-75E.md) (shared: `agent` · `substrate` · `gvisor`)
+- [Enterprise Data Security on a Lean Startup Budget](https://youtu.be/Ad_lLIeUN2w) — Kubernetes · 12 views · Nov 16, 2026 · [Details](Ad_lLIeUN2w.md) (shared: `gpu` · `sandbox`)
 
 ---
 *Auto-generated on Nov 14, 2026. Back to [kubernetes](../kubernetes.md) · [index](../index.md).*

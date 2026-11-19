@@ -2,7 +2,7 @@
 type: tag
 tags: [state-management]
 sources: 4
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 # state management
@@ -17,4 +17,4 @@ Videos connected by the topic `state management`.
 - [Flutter App Template](https://youtu.be/LWc3AAHoxnU) — Development · 37 views · Jan 18, 2026 · [Details](../details/LWc3AAHoxnU.md)
 
 ---
-*Auto-generated on Nov 14, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 19, 2026. Back to [topic index](index.md).*

@@ -2,7 +2,7 @@
 type: tag
 tags: [explicit-allocators]
 sources: 2
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 # explicit allocators
@@ -11,8 +11,8 @@ Videos connected by the topic `explicit allocators`.
 
 ## Videos
 
-- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 520 views · Feb 2, 2026 · [Details](../details/xV2EAL3NAVM.md)
+- [A Comprehensive Guide to Zig Fundamentals and Features](https://youtu.be/xV2EAL3NAVM) — Development · 521 views · Feb 2, 2026 · [Details](../details/xV2EAL3NAVM.md)
 - [Zig Algorithms: The Art of Zero-Cost Abstraction](https://youtu.be/A96r5gqwUrI) — Development · 37 views · Feb 6, 2026 · [Details](../details/A96r5gqwUrI.md)
 
 ---
-*Auto-generated on Nov 14, 2026. Back to [topic index](index.md).*
+*Auto-generated on Nov 19, 2026. Back to [topic index](index.md).*

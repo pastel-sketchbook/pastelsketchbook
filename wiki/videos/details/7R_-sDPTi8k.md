@@ -38,7 +38,7 @@ This session decodes the US housing market into 2026-2027 through three structur
 ## Related Videos
 
 - [The Hydraulic Housing Market](https://youtu.be/XwUIFjLrZcA) — Finance · 11 views · Sep 30, 2026 · [Details](XwUIFjLrZcA.md) (shared: `rate` · `regional` · `divergence`)
-- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 45 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `strategy`)
+- [The 2026 Barbell Strategy](https://youtu.be/bn-Nvmxgur8) — Finance · 47 views · Feb 17, 2026 · [Details](bn-Nvmxgur8.md) (shared: `strategy`)
 - [Reading the Market's Story](https://youtu.be/nnL78ZVifZU) — Finance · 15 views · Dec 27, 2025 · [Details](nnL78ZVifZU.md) (shared: `price`)
 - [Cognitive Lenses in Modern Design](https://youtu.be/GmUKi-ZPOYU) — Finance · 27 views · Jun 5, 2026 · [Details](GmUKi-ZPOYU.md) (shared: `strategy`)
 - [The Final Five Years](https://youtu.be/HFmkEvxyJE4) — Finance · 16 views · Apr 7, 2026 · [Details](HFmkEvxyJE4.md) (shared: `strategy`)

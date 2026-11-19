@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-11-14
+updated: 2026-11-19
 ---
 
 # Topic Index
@@ -198,4 +198,4 @@ Total topics: 185
 - [write-ahead log](write-ahead-log.md) (2)
 
 ---
-*Auto-generated on Nov 14, 2026. Back to [videos index](../index.md).*
+*Auto-generated on Nov 19, 2026. Back to [videos index](../index.md).*
